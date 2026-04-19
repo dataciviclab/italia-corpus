@@ -1,13 +1,13 @@
-DECRETO LEGISLATIVO 27 aprile 1989 n. 153
+DECRETO LEGISLATIVO 04 agosto 1989 n. 276
 
 
-DECRETO LEGISLATIVO 27 aprile 1989 n. 153
+DECRETO LEGISLATIVO 04 agosto 1989 n. 276
 =========================================
 
-Modificazioni delle aliquote dell'imposta di fabbricazione su alcuni prodotti petroliferi.
-------------------------------------------------------------------------------------------
+Modificazioni delle aliquote dell'imposta di fabbricazione su alcuni prodotti petroliferi
+-----------------------------------------------------------------------------------------
 
-Entrata in vigore del decreto: 13/5/1989
+Entrata in vigore del decreto: 20/08/1989
 
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
@@ -18,40 +18,37 @@ Vista la [legge 9 ottobre 1987, n. 417](http://www.normattiva.it/uri-res/N2Ls?ur
 
 Vista la [legge 4 marzo 1989, n. 76](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989-03-04;76), recante differimento del termine per la delega al Governo di cui alla citata [legge n. 417 del 1987](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1987;417);
 
-Vista la comunicazione della segreteria del Comitato interministeriale prezzi in data 26 aprile 1989 concernente la variazione dei prezzi medi europei sui prodotti petroliferi;
+Vista la comunicazione della segreteria del Comitato interministeriale prezzi in data 1› agosto 1989 concernente la variazione dei prezzi medi europei sui prodotti petroliferi;
 
-Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 27 aprile 1989;
+Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 4 agosto 1989;
 
-Sulla proposta del Ministro delle finanze, di concerto con i Ministri del tesoro e dell'industria, del commercio e dell'artigianato;
+Sulla proposta del Ministro delle finanze, di concerto con i Ministri del tesoro, del bilancio e della programmazione economica e dell'industria, del commercio e dell'artigianato;
 
 E M A N A il seguente decreto:
 
 Art. 1
 ------
 
-1. Fino al 30 giugno 1989, l'imposta di fabbricazione e la corrispondente sovrimposta di confine sui seguenti prodotti petroliferi sono diminuite:
+1. Fino al 31 dicembre 1989 le aliquote dell'imposta di fabbricazione e della corrispondente sovrimposta di confine sui seguenti prodotti petroliferi sono aumentate:
 
-a) da L. 77.548 a L. 76.148 per ettolitro, alla temperatura di 15 ›C, per le benzine speciali diverse dall'acqua ragia minerale, per la benzina e per il petrolio diverso da quello lampante;
+a) da L. 80.422 a L. 81.679 per ettolitro, alla temperatura di 15 ›C, per le benzine speciali diverse dall'acqua ragia minerale, per la benzina e per il petrolio diverso da quello lampante;
 
-b) da L. 7.754,80 a L. 7.614,80 per ettolitro, alla temperatura di 15 ›C, per il prodotto denominato "Jet Fuel JP/4", destinato all'Amministrazione della difesa, relativamente al quantitativo eccedente il contingente annuo di tonnellate 18.000 sulle quali e' dovuta l'imposta nella misura normale stabilita per la benzina.
-
-Art. 2
-------
-
-1. Alle minori entrate derivanti dall'attuazione del presente decreto, valutate in lire 40 miliardi, si provvede con le maggiori entrate derivanti dall'attuazione del [decreto-legge 14 aprile 1989, n. 129](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1989-04-14;129).
+b) da L. 8.042,20 a L. 8.167,90 per ettolitro, alla temperatura di 15 ›C, per il prodotto denominato "Jet Fuel JP/4", destinato all'Amministrazione della difesa, relativamente al quantitativo eccedente il contigente annuo di tonnellate 18.000 sulle quali e' dovuta l'imposta nella misura normale stabilita per la benzina.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 27 aprile 1989
+### Dato a Roma, addi' 4 agosto 1989
 
 COSSIGA
 
-DE MITA, Presidente del Consiglio del Ministri
+ANDREOTTI, Presidente del Consiglio dei Ministri
 
-COLOMBO, Ministro delle finanze
+FORMICA, Ministro delle finanze
 
-AMATO, Ministro del tesoro
+CARLI, Ministro del tesoro
+
+CIRINO POMICINO, Ministro del bilancio e della programmazione economica
 
 BATTAGLIA, Ministro dell'industria, del commercio e dell'artigianato
 
