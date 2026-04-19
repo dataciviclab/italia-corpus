@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1981 n. 1043
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 ottobre 1971 n. 1344
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1981 n. 1043
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 ottobre 1971 n. 1344
 ===============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Bologna.
@@ -10,7 +10,7 @@ Modificazioni allo statuto dell'Universita' degli studi di Bologna.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' di Bologna, approvato con [regio decreto 14 ottobre 1926, n. 2170](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2170) e modificato con [regio decreto 13 ottobre 1927, n. 2227](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2227), e successive modificazioni;
+Veduto lo statuto dell'Universita' degli studi di Bologna, approvato con [regio decreto 14 ottobre 1926, n. 2170](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2170), e modificato con [regio decreto 13 ottobre 1927, n. 2227](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2227), e successive modificazioni;
 
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
@@ -18,131 +18,460 @@ Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it
 
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
 
-Veduta la [legge 22 maggio 1978, n. 217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-05-22;217);
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
 
-Veduto il [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;
 
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
 
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Bologna e convalidati dal Consiglio universitario nazionale nel suo parere;
+Sentito il parere del Consiglio superiore della pubblica istruzione;
 
-Sentito il parere del Consiglio universitario nazionale;
+Sulla proposta del Ministro per la pubblica istruzione;
 
-Veduta la necessita' di adeguare le norme sulla direzione delle scuole di perfezionamento, di specializzazione e delle scuole dirette a fini speciali a quanto disposto dall'art. 16 del citato [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
+Decreta:
 
-Sulla
------
+Lo statuto dell'Universita' degli studi di Bologna, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
-proposta del Ministro della pubblica istruzione; Decreta:
+Gli articoli dal 153 al 166, relativi all'ordinamento degli studi della facolta' di medicina veterinaria, sono abrogati e sostituiti dai seguenti:
 
-Articolo unico
---------------
+TITOLO XV
 
+FACOLTA' DI MEDICINA VETERINARIA
+
+Art. 153. - La facolta' di medicina veterinaria dopo un corso di studi di cinque anni conferisce la laurea in medicina veterinaria.
+
+Il titolo di ammissione e' quello stabilito dalle vigenti disposizioni di legge.
+
+Art. 154. - I cinque anni di studio comportano obbligatoriamente l'insegnamento teorico e pratico di almeno 4500 ore sulle materie fondamentali, relative ad un insegnamento di base e ad un insegnamento veterinario specifico, e sulle materie complementari, di cui al [decreto del Presidente della Repubblica 23 ottobre 1969 n. 987](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1969-10-23;987), secondo la seguente suddivisione:
+
+Numero minimo di ore
+
+Insegnamenti fondamentali: ----
+
+Fisica. . . . . . . . . . . . . . . . . . . . . . . 120
+
+Chimica I . . . . . . . . . . . . . . . . . . . . . 100
+
+Chimica II. . . . . . . . . . . . . . . . . . . . . 100
+
+Zoologia. . . . . . . . . . . . . . . . . . . . . . 120
+
+Botanica. . . . . . . . . . . . . . . . . . . . . . 90
+
+Metodi matematici applicati alle scienze biologiche
+
+(Biomatematica) . . . . . . . . . . . . . . . . . . . . 30
+
+Anatomia veterinaria sistematica e comparata I. . . 100
+
+Anatomia veterinaria sistematica e comparata II . . 100
+
+Anatomia topografica veterinaria. . . . . . . . . . 60
+
+Teratologia . . . . . . . . . . . . . . . . . . . . 60
+
+Istologia generale e speciale (Anatomia micro-
+
+scopica). . . . . . . . . . . . . . . . . . . . . . . . 80
+
+Embriologia . . . . . . . . . . . . . . . . . . . . 40
+
+Fisiologia generale e speciale veterinaria I e fi-
+
+sica biologica. . . . . . . . . . . . . . . . . . . . . 100
+
+Fisiologia generale e speciale veterinaria II e fi-
+
+sica biologica. . . . . . . . . . . . . . . . . . . . . 100
+
+Biochimica. . . . . . . . . . . . . . . . . . . . . 100
+
+Zootecnia I) Igiene, aspetti esteriori degli ani-
+
+mali, etnologia . . . . . . . . . . . . . . . . . . . . 110
+
+Zootecnia II) Genetica e allevamento. . . . . . . . 60
+
+Alimentazione e nutrizione animale. . . . . . . . . 130
+
+Economia rurale e agronomia . . . . . . . . . . . . 30
+
+Farmacologia e farmacodinamia veterinaria . . . . . 60
+
+Farmacia e terapeutica generale veterinaria . . . . 45
+
+Tossicologia veterinaria. . . . . . . . . . . . . . 45
+
+Anatomia patologica veterinaria generale e spe-
+
+ciale I . . . . . . . . . . . . . . . . . . . . . . . . 75
+
+Anatomia patologica veterinaria generale e spe-
+
+ciale II. . . . . . . . . . . . . . . . . . . . . . . . 75
+
+Autopsie. . . . . . . . . . . . . . . . . . . . . . 50
+
+Propedeutica I) Semeiologia medica veterinaria e
+
+metodologia clinica . . . . . . . . . . . . . . . . . . 60
+
+Propedeutica II) Semeiologia chirurgica veterinaria
+
+e metodologia clinica . . . . . . . . . . . . . . . . . 60
+
+Patologia generale veterinaria. . . . . . . . . . . 50
+
+Microbiologia generale veterinaria (Batteriologia,
+
+virologia, immunologia) . . . . . . . . . . . . . . . . 60
+
+Patologia e profilassi delle malattie infettive
+
+degli animali domestici I . . . . . . . . . . . . . . . 70
+
+Patologia e profilassi delle malattie infettive
+
+degli animali domestici II. . . . . . . . . . . . . . . 70
+
+Parassitologia (compresa micologia, protozoologia,
+
+entomologia, elmintologia). . . . . . . . . . . . . . . 60
+
+Malattie parassitarie degli animali domestici . . . 50
+
+Polizia sanitaria . . . . . . . . . . . . . . . . . 30
+
+Medicina legale veterinaria, legislazione veterina-
+
+ria e deontologia . . . . . . . . . . . . . . . . . . . 30
+
+Patologia medica degli animali domestici (ruminan-
+
+ti, equidi, carnivori, suini, pollame, conigli, ecc.) . 150
+
+Ostetricia veterinaria. . . . . . . . . . . . . . . 80
+
+Patologia della riproduzione e fecondazione artifi-
+
+ciale . . . . . . . . . . . . . . . . . . . . . . . . . 70
+
+Patologia chirurgica veterinaria e podologia. . . . 80
+
+Medicina operatoria veterinaria . . . . . . . . . . 70
+
+Ispezione e controllo delle derrate alimentari di
+
+origine animale (carni, latte, pesci, uova, ecc.) I . . 80
+
+Ispezione e controllo delle derrate alimentari di
+
+origine animale (carni, latte, pesci, uova, ecc.) II. . 70
+
+Lavori pratici nei macelli. . . . . . . . . . . . . 50
+
+Clinica medica veterinaria. . . . . . . . . . . . . 275
+
+Clinica chirurgica veterinaria. . . . . . . . . . . 275
+
+Clinica ostetrica e ginecologia veterinaria . . . . 275
+
+Patologia aviare. . . . . . . . . . . . . . . . . . 275
+
+Radiologia veterinaria. . . . . . . . . . . . . . . 50
+
+Insegnamenti complementari:
+
+Le ore che restano per raggiungere il numero previsto di 4500 dovranno essere ripartite fra tre insegnamenti complementari scelti dallo studente nel seguente elenco:
+
+Anestesiologia;
+
+Approvvigionamenti annonari, mercati ed industrie degli alimenti di origine animale;
+
+Diagnostica di laboratorio;
+
+Ecologia;
+
+Ematologia clinica comparata;
+
+Endocrinologia degli animali domestici;
+
+Etnografia;
+
+Fisioclimatologia;
+
+Idrobiologia e pescicoltura;
+
+Igiene del latte;
+
+Igiene e controllo dei prodotti della pesca;
+
+Istituzioni di matematica;
+
+Istologia patologica;
+
+Ittiopatologia;
+
+Lingua straniera;
+
+Oftalmologia comparata;
+
+Patologia bovina;
+
+Patologia tropicale;
+
+Storia della medicina veterinaria;
+
+Tecnica conserviera;
+
+Tecnica mangimistica;
+
+Tecnologia avicola;
+
+Virologia;
+
+Zooculture;
+
+Patologia suina;
+
+Microbiologia degli alimenti di origine animale;
+
+Biochimica degli alimenti di origine animale;
+
+Coniglicoltura e allevamento degli animali da pelliccia e da laboratorio;
+
+Biochimica applicata;
+
+Patologia degli animali da laboratorio e degli animali da pelliccia;
+
+Patologia dei piccoli animali;
+
+Immunogenetica;
+
+Diagnostica cadaverica.
+
+Dall'elenco delle materie complementari sopra riportato la facolta' con delibera propria e con rispetto delle esigenze didattiche sceglie i corsi da attivare nei singoli anni accademici nella misura prevista e consentita dalle disposizioni vigenti.
+
+Nell'ambito della propria autonomia didattica la facolta' stabilisce altresi' i piani di studio per le materie previste come insegnamenti fondamentali nonche' le modalita' e la durata dello svolgimento dei corsi; in ragione delle esigenze didattiche relative alla propedeuticita' di alcune materie dello stesso anno di corso essa puo' autorizzare lo svolgimento di corsi intensivi con esami finali durante l'anno accademico.
+
+E' consentita, a scelta e su richiesta dello studente, la possibilita' di sostenere esami per singoli insegnamenti o per gruppi di materie affini (in numero non superiore a tre); sull'affinita' delle materie decide il consiglio di facolta'.
+
+Art. 155. - I corsi di "Chimica", "Anatomia sistematica e comparata degli animali domestici", "Fisiologia generale e speciale veterinaria e fisica biologica", "Anatomia patologica generale e speciale veterinaria", "Patologia e profilassi delle malattie infettive degli animali domestici", "Ispezione e controllo delle derrate alimentari di origine animale", comportano due insegnamenti e due esami distinti (I e II parte); per ciascuno di tali insegnamenti l'esame relativo alla I parte deve precedere quello relativo alla II parte.
+
+L'esame di "Zoologia" deve precedere l'esame di "Anatomia sistematica e comparata degli animali domestici (I parte)" il cui superamento, insieme con quello di "Biochimica", e' condizione indispensabile per la ammissione all'esame di "Fisiologia generale e speciale veterinaria e fisica biologica (I parte)".
+
+L'esame di "Patologia generale" deve seguire gli esami di "Anatomia sistematica e comparata degli animali domestici", gli esami di "Fisiologia generale e speciale veterinaria e fisica biologica" e di "Microbiologia generale" e deve precedere quelli di "Anatomia patologica generale e speciale veterinaria (I parte)", di "Patologia e profilassi delle malattie infettive degli animali domestici (I parte)"; di "Patologia medica degli animali domestici", di "Patologia chirurgica veterinaria e podologia" e di "Ostetricia veterinaria".
+
+Per essere ammessi agli esami di clinica medica e di clinica chirurgica lo studente dovra' aver superato gli esami corrispondenti alle rispettive patologie speciali (medica e chirurgica) nonche' gli esami di "Patologia e profilassi delle malattie infettive degli animali domestici (II parte)" e "Anatomia patologica generale e speciale veterinaria (II parte)".
+
+Gli esami di "Alimentazione e nutrizione degli animali domestici", di "Farmacologia, farmacodinamia e tossicologia", di "Anatomia patologica generale e speciale veterinaria (I parte)" e di "Parassitologia" debbono precedere quello di "Patologia aviare".
+
+L'esame di "Ostetricia veterinaria" deve precedere quello di "Clinica ostetrica e ginecologia veterinaria".
+
+Agli effetti dell'ammissione agli esami sono altresi' considerati propedeutici: "Anatomia sistematica e comparata degli animali domestici (I parte)" per "Aspetti esteriori degli animali ed etnologia", "Zoologia" per "Genetica e allevamento", "Microbiologia generale" per "Patologia e profilassi delle malattie infettive degli animali domestici (I parte)"; "Propedeutica" per "Patologia medica degli animali domestici" e per "Patologia chirurgica veterinaria e podologia", "Fisiologia generale e speciale veterinaria e fisica biologica (II parte)" per "Farmacologia, farmacodinamia e tossicologia"; "Parassitologia" per "Malattie parassitarie degli animali domestici"; "Anatomia patologica generale e speciale veterinaria (II parte)" per "Ispezione e controllo delle derrate alimentari di origine animale (II parte)".
+
+Art. 156. - Per essere ammesso all'esame di laurea lo studente deve aver seguito i corsi e superato gli esami corrispondenti a tutti gli insegnamenti fondamentali e ad almeno tre insegnamenti scelti tra i complementari i cui corsi siano stati da lui regolarmente frequentati.
+
+Art. 157. - Gli insegnamenti di "Clinica medica", di "Clinica chirurgica", di "Clinica ostetrica", di "Ispezione e controllo delle derrate alimentari" e delle materie del gruppo zootecnico ("Genetica e allevamento" e "Alimentazione e nutrizione degli animali domestici") debbono essere completati da un tirocinio pratico della durata complessiva di almeno sei mesi presso istituti della facolta' di medicina veterinaria, o presso gli istituti sperimentali zooprofilattici dipendenti dal Ministero della sanita', o presso istituti zootecnici dipendenti dal Ministero dell'agricoltura e delle foreste o da amministrazioni provinciali o presso macelli riconosciuti idonei dalla facolta' di medicina veterinaria.
+
+Il tirocinio pratico deve essere iniziato dopo la chiusura dei corsi di insegnamento del 5° anno e deve essere completato prima che i candidati si presentino a sostenere l'esame di abilitazione all'esercizio professionale.
+
+Il periodo di tirocinio pratico e' utilizzabile ai fini del raggiungimento del numero delle ore richiesto per gli insegnamenti clinici (Clinica medica, clinica chirurgica, clinica ostetrica, patologia aviare).
+
+Art. 158. - Per gli studenti provenienti da altre facolta' il consiglio stabilisce caso per caso l'anno di corso a cui possono essere ammessi con l'eventuale convalida di frequenza e di esami dopo aver valutato l'equipollenza o l'affinita' dei rispettivi corsi con quelli previsti nel piano di studi della facolta'.
+
+Con gli stessi criteri il consiglio determina l'ammissione al corso di laurea in medicina veterinaria di candidati provvisti di diploma di laurea conseguito presso una qualsiasi altra facolta'.
+
+Art. 159. - L'esame di laurea consiste nella discussione orale di una dissertazione scritta sopra un argomento scelto fra le discipline impartite nella facolta' e nella discussione orale di tre tesine scelte dallo studente in tre diverse materie di insegnamento, differenti da quella della dissertazione scritta. La dissertazione scritta e i titoli delle tre tesine debbono essere presentati alla segreteria dell'universita' almeno un mese prima dell'esame di laurea.
+
+Norma transitoria
+
+Gli studenti in corso di laurea all'atto dell'entrata in vigore delle suddette modifiche di statuto possono optare per il corso di laurea in quattro o cinque anni.
+
+All'uopo debbono presentare regolare domanda per integrare gli esami secondo quanto stabilira' caso per caso il consiglio di facolta'.
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 30 ottobre 1971
+
+SARAGAT
+
+MISASI
+
+Visto, il Guardasigilli: COLOMBO
+
+Registrato
+----------
+
+alla Corte dei conti, addi' 22 febbraio 1972 Atti del Governo, registro n. 247, foglio n. 27. - VALENTINI
+
+Art. 1
+------
+
+ IL PRESIDENTE DELLA REPUBBLICA  
   
-Lo statuto dell'Universita' di Bologna, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-Gli articoli 529, 530 e 531, relativi alla scuola di specializzazione in puericultura che muta la denominazione in scuola di specializzazione in pediatria preventiva e puericultura, sono sostituiti dai seguenti:  
+Veduto lo statuto dell'Universita' degli studi di Bologna, approvato con [regio decreto 14 ottobre 1926, n. 2170](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2170), e modificato con [regio decreto 13 ottobre 1927, n. 2227](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2227), e successive modificazioni;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
+Sentito il parere del Consiglio superiore della pubblica istruzione;  
+Sulla proposta del Ministro per la pubblica istruzione;  
   
-Scuola di specializzazione in pediatria preventiva e puericultura   
-Art. 529. - Presso l'istituto di puericultura dell'Universita' di Bologna e' istituita la scuola di specializzazione in pediatria preventiva e puericultura.  
-Alla scuola stessa possono iscriversi esclusivamente i laureati in medicina e chirurgia. E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale rilasciato dall'autorita' competente. La scuola si propone di conferire la preparazione teorico-pratica sia nel campo della neonatologia e patologia neonatale, sia nel campo della pratica pediatrica preventiva e sociale, con particolare riguardo alla prevalente funzione preventiva e sociale della medicina infantile sul territorio, che il pediatra e' chiamato a svolgere.  
-Essa ha la durata di quattro anni ed e' articolata in due indirizzi:  
-a) neonatologia e patologia neonatale;  
-b) pediatria sociale.  
-Dopo un primo biennio comune ai due indirizzi, e' istituito un secondo biennio differenziato per ciascuno dei due indirizzi.  
-I medici che abbiano gia' conseguito la specializzazione in pediatria preventiva e puericultura con uno dei due indirizzi, potranno iscriversi direttamente al secondo biennio della scuola con l'altro indirizzo previsto dallo statuto.  
-Il numero massimo degli allievi che possono essere iscritti e' di trentadue complessivamente per l'intera durata del corso di studi, bienni orientativi inclusi.  
-La direzione della scuola e' affidata a professore ordinario, straordinario o fuori ruolo che insegni anche nella scuola stessa. In caso di motivato impedimento la direzione della scuola e' affidata a professore associato che pure insegni nella scuola medesima.  
-L'ammissione al corso avviene per titoli ed esami.  
-Art. 530. - Le materie di insegnamento sono:  
-BIENNIO PROPEDEUTICO COMUNE:  
-1° Anno:  
-1) anatomia e fisiologia dell'eta' evolutiva I;  
-2) elementi di ostetricia e ginecologia;  
-3) semeiotica infantile;  
-4) genetica medica;  
-5) elementi di laboratori e biochimica clinica;  
-6) fisiologia della nutrizione;  
-7) metabolismo dell'eta' evolutiva I;  
-8) embriologia e fisiologia prenatali;  
-9) patologia infantile I;  
-10) alimentazione nell'eta' evolutiva.  
-2° Anno:  
-1) anatomia e fisiologia dell'eta' evolutiva II;  
-2) metabolismo dell'eta' evolutiva II;  
-3) patologia infantile II;  
-4) auxologia normale;  
-5) malattie infettive e loro prevenzione;  
-6) patologia prenatale;  
-7) patologia perinatale;  
-8) elementi di clinica pediatrica;  
-9) dietologia infantile;  
-10) anatomia patologica infantile;  
-11) O.R.L. e audiologia infantili;  
-12) oculistica e ottica fisio-patologica infantili;  
-INDIRIZZO DI NEONATOLOGIA E PATOLOGIA NEONATALE:  
-3° Anno:  
-1) clinica della gravidanza e del parto normale;  
-2) fisiopatologia embrio-fetale;  
-3) fisiologia neonatale;  
-4) biochimica neonatale;  
-5) immunologia neonatale;  
-6) diagnostica radiologica neonatale;  
-7) tecniche di laboratorio (con riferimento alla fisiopatologia neonatale);  
-8) patologia neonatale I;  
-9) assistenza al neonato sano ed ammalato;  
-10) semeiotica neonatale.  
-4° Anno:  
-1) patologia neonatale II;  
-2) il neonato a rischio;  
-3) farmacologia neonatale;  
-4) clinica e terapia neonatali;  
-5) rianimazione e terapia intensiva del neonato;  
-6) alimentazione del neonato sano e patologico;  
-7) anatomia patologica del feto e del neonato;  
-8) patologia chirurgica neonatale;  
-9) neurologia neonatale.  
-INDIRIZZO DI PEDIATRIA SOCIALE:  
-3° Anno:  
-1) adolescentologia I;  
-2) auxologia patologica ed endocrinologia infantile;  
-3) neuropsichiatria infantile;  
-4) epidemiologia, statistica medica e biometria;  
-5) epidemiologia e prevenzione di malattie di importanza sociale;  
-6) igiene dell'alimentazione;  
-7) medicina scolastica e sua legislazione;  
-8) psicologia dell'eta' evolutiva;  
-9) fisioterapia e riabilitazione;  
-10) consulenza genetica sul territorio;  
-11) patologia e clinica delle malattie di importanza sociale nell'eta' evolutiva.  
-4° Anno:  
-1) adolescentologia II;  
-2) medicina dello sport nell'eta' evolutiva;  
-3) odontologia e odontoiatria;  
-4) ortopedia e traumatologia nell'eta' evolutiva;  
-5) legislazione ed assistenza sociale per l'infanzia e l'adolescenza;  
-6) informazione sanitaria;  
-7) servizi pubblici extra ospedalieri di sanita' e assistenza per l'eta' evolutiva;  
-8) psicopedagogia;  
-9) sociologia applicata alla popolazione infantile.  
-Art. 531. - Le norme generali per l'iscrizione, gli esami, le tasse ecc., sono quelle che regolano le scuole di specializzazione dell'Universita' di Bologna.  
-La frequenza alle lezioni, alle esercitazioni pratiche nei reparti e' obbligatoria; gli allievi che non conseguono le attestazioni di frequenza non possono essere ammessi a sostenere le prove di esame.  
-Il tirocinio pratico durante il quarto anno della scuola per l'indirizzo di neonatologia e patologia neonatale potra' essere svolto oltreche' presso l'istituto ove la scuola ha sede, presso strutture assistenziali che abbiano, a giudizio del consiglio della scuola, caratteristiche idonee allo scopo. Tale tirocinio sara' attestato per iscritto dal responsabile di ciascuna struttura.  
-Il tirocinio pratico durante il quarto anno per l'indirizzo di pediatria sociale, e' previsto sia svolto almeno in parte, in accordo con le amministrazioni competenti (regioni, province, comuni) presso strutture assistenziali sul territorio (consultori ecc.) che abbiano, a giudizio del consiglio della scuola, caratteristiche idonee allo scopo.  
-Tale tirocinio sara' attestato dall'ente responsabile della struttura.  
-Alla fine di ciascun anno di corso gli allievi, per essere ammessi agli anni successivi, debbono superare le prove di esame teorico-pratiche sulle materie impartite durante l'anno: per le materie a corso biennale, l'esame sara' sostenuto sotto forma di colloquio, al termine di ciascun anno.  
-Superati gli esami finali, l'allievo sosterra' l'esame di diploma, che potra' essere costituito da una dissertazione orale su un argomento precedentemente concordato.  
-All'allievo risultato idoneo verra' rilasciato il diploma di specialista in pediatria preventiva e puericultura, con espressa menzione dell'indirizzo seguito, valido a tutti gli effetti di legge.  
+Decreta:  
+  
+Lo statuto dell'Universita' degli studi di Bologna, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+  
+Gli articoli dal 153 al 166, relativi all'ordinamento degli studi della facolta' di medicina veterinaria, sono abrogati e sostituiti dai seguenti:  
+  
+TITOLO XV  
+FACOLTA' DI MEDICINA VETERINARIA  
+  
+Art. 153. - La facolta' di medicina veterinaria dopo un corso di studi di cinque anni conferisce la laurea in medicina veterinaria.  
+Il titolo di ammissione e' quello stabilito dalle vigenti disposizioni di legge.  
+Art. 154. - I cinque anni di studio comportano obbligatoriamente l'insegnamento teorico e pratico di almeno 4500 ore sulle materie fondamentali, relative ad un insegnamento di base e ad un insegnamento veterinario specifico, e sulle materie complementari, di cui al [decreto del Presidente della Repubblica 23 ottobre 1969 n. 987](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1969-10-23;987), secondo la seguente suddivisione:  
+Numero minimo di ore  
+Insegnamenti fondamentali: ----  
+  
+Fisica. . . . . . . . . . . . . . . . . . . . . . . 120  
+Chimica I . . . . . . . . . . . . . . . . . . . . . 100  
+Chimica II. . . . . . . . . . . . . . . . . . . . . 100  
+Zoologia. . . . . . . . . . . . . . . . . . . . . . 120  
+Botanica. . . . . . . . . . . . . . . . . . . . . . 90  
+Metodi matematici applicati alle scienze biologiche  
+(Biomatematica) . . . . . . . . . . . . . . . . . . . . 30  
+Anatomia veterinaria sistematica e comparata I. . . 100  
+Anatomia veterinaria sistematica e comparata II . . 100  
+Anatomia topografica veterinaria. . . . . . . . . . 60  
+Teratologia . . . . . . . . . . . . . . . . . . . . 60  
+Istologia generale e speciale (Anatomia micro-  
+scopica). . . . . . . . . . . . . . . . . . . . . . . . 80  
+Embriologia . . . . . . . . . . . . . . . . . . . . 40  
+Fisiologia generale e speciale veterinaria I e fi-  
+sica biologica. . . . . . . . . . . . . . . . . . . . . 100  
+Fisiologia generale e speciale veterinaria II e fi-  
+sica biologica. . . . . . . . . . . . . . . . . . . . . 100  
+Biochimica. . . . . . . . . . . . . . . . . . . . . 100  
+Zootecnia I) Igiene, aspetti esteriori degli ani-  
+mali, etnologia . . . . . . . . . . . . . . . . . . . . 110  
+Zootecnia II) Genetica e allevamento. . . . . . . . 60  
+Alimentazione e nutrizione animale. . . . . . . . . 130  
+Economia rurale e agronomia . . . . . . . . . . . . 30  
+Farmacologia e farmacodinamia veterinaria . . . . . 60  
+Farmacia e terapeutica generale veterinaria . . . . 45  
+Tossicologia veterinaria. . . . . . . . . . . . . . 45  
+Anatomia patologica veterinaria generale e spe-  
+ciale I . . . . . . . . . . . . . . . . . . . . . . . . 75  
+Anatomia patologica veterinaria generale e spe-  
+ciale II. . . . . . . . . . . . . . . . . . . . . . . . 75  
+Autopsie. . . . . . . . . . . . . . . . . . . . . . 50  
+Propedeutica I) Semeiologia medica veterinaria e  
+metodologia clinica . . . . . . . . . . . . . . . . . . 60  
+Propedeutica II) Semeiologia chirurgica veterinaria  
+e metodologia clinica . . . . . . . . . . . . . . . . . 60  
+Patologia generale veterinaria. . . . . . . . . . . 50  
+Microbiologia generale veterinaria (Batteriologia,  
+virologia, immunologia) . . . . . . . . . . . . . . . . 60  
+Patologia e profilassi delle malattie infettive  
+degli animali domestici I . . . . . . . . . . . . . . . 70  
+Patologia e profilassi delle malattie infettive  
+degli animali domestici II. . . . . . . . . . . . . . . 70  
+Parassitologia (compresa micologia, protozoologia,  
+entomologia, elmintologia). . . . . . . . . . . . . . . 60  
+Malattie parassitarie degli animali domestici . . . 50  
+Polizia sanitaria . . . . . . . . . . . . . . . . . 30  
+Medicina legale veterinaria, legislazione veterina-  
+ria e deontologia . . . . . . . . . . . . . . . . . . . 30  
+Patologia medica degli animali domestici (ruminan-  
+ti, equidi, carnivori, suini, pollame, conigli, ecc.) . 150  
+Ostetricia veterinaria. . . . . . . . . . . . . . . 80  
+Patologia della riproduzione e fecondazione artifi-  
+ciale . . . . . . . . . . . . . . . . . . . . . . . . . 70  
+Patologia chirurgica veterinaria e podologia. . . . 80  
+Medicina operatoria veterinaria . . . . . . . . . . 70  
+Ispezione e controllo delle derrate alimentari di  
+origine animale (carni, latte, pesci, uova, ecc.) I . . 80  
+Ispezione e controllo delle derrate alimentari di  
+origine animale (carni, latte, pesci, uova, ecc.) II. . 70  
+Lavori pratici nei macelli. . . . . . . . . . . . . 50  
+Clinica medica veterinaria. . . . . . . . . . . . . 275  
+Clinica chirurgica veterinaria. . . . . . . . . . . 275  
+Clinica ostetrica e ginecologia veterinaria . . . . 275  
+Patologia aviare. . . . . . . . . . . . . . . . . . 275  
+Radiologia veterinaria. . . . . . . . . . . . . . . 50  
+  
+Insegnamenti complementari:  
+  
+Le ore che restano per raggiungere il numero previsto di 4500 dovranno essere ripartite fra tre insegnamenti complementari scelti dallo studente nel seguente elenco:  
+Anestesiologia;  
+Approvvigionamenti annonari, mercati ed industrie degli alimenti di origine animale;  
+Diagnostica di laboratorio;  
+Ecologia;  
+Ematologia clinica comparata;  
+Endocrinologia degli animali domestici;  
+Etnografia;  
+Fisioclimatologia;  
+Idrobiologia e pescicoltura;  
+Igiene del latte;  
+Igiene e controllo dei prodotti della pesca;  
+Istituzioni di matematica;  
+Istologia patologica;  
+Ittiopatologia;  
+Lingua straniera;  
+Oftalmologia comparata;  
+Patologia bovina;  
+Patologia tropicale;  
+Storia della medicina veterinaria;  
+Tecnica conserviera;  
+Tecnica mangimistica;  
+Tecnologia avicola;  
+Virologia;  
+Zooculture;  
+Patologia suina;  
+Microbiologia degli alimenti di origine animale;  
+Biochimica degli alimenti di origine animale;  
+Coniglicoltura e allevamento degli animali da pelliccia e da laboratorio;  
+Biochimica applicata;  
+Patologia degli animali da laboratorio e degli animali da pelliccia;  
+Patologia dei piccoli animali;  
+Immunogenetica;  
+Diagnostica cadaverica.  
+  
+Dall'elenco delle materie complementari sopra riportato la facolta' con delibera propria e con rispetto delle esigenze didattiche sceglie i corsi da attivare nei singoli anni accademici nella misura prevista e consentita dalle disposizioni vigenti.  
+Nell'ambito della propria autonomia didattica la facolta' stabilisce altresi' i piani di studio per le materie previste come insegnamenti fondamentali nonche' le modalita' e la durata dello svolgimento dei corsi; in ragione delle esigenze didattiche relative alla propedeuticita' di alcune materie dello stesso anno di corso essa puo' autorizzare lo svolgimento di corsi intensivi con esami finali durante l'anno accademico.  
+E' consentita, a scelta e su richiesta dello studente, la possibilita' di sostenere esami per singoli insegnamenti o per gruppi di materie affini (in numero non superiore a tre); sull'affinita' delle materie decide il consiglio di facolta'.  
+Art. 155. - I corsi di "Chimica", "Anatomia sistematica e comparata degli animali domestici", "Fisiologia generale e speciale veterinaria e fisica biologica", "Anatomia patologica generale e speciale veterinaria", "Patologia e profilassi delle malattie infettive degli animali domestici", "Ispezione e controllo delle derrate alimentari di origine animale", comportano due insegnamenti e due esami distinti (I e II parte); per ciascuno di tali insegnamenti l'esame relativo alla I parte deve precedere quello relativo alla II parte.  
+L'esame di "Zoologia" deve precedere l'esame di "Anatomia sistematica e comparata degli animali domestici (I parte)" il cui superamento, insieme con quello di "Biochimica", e' condizione indispensabile per la ammissione all'esame di "Fisiologia generale e speciale veterinaria e fisica biologica (I parte)".  
+L'esame di "Patologia generale" deve seguire gli esami di "Anatomia sistematica e comparata degli animali domestici", gli esami di "Fisiologia generale e speciale veterinaria e fisica biologica" e di "Microbiologia generale" e deve precedere quelli di "Anatomia patologica generale e speciale veterinaria (I parte)", di "Patologia e profilassi delle malattie infettive degli animali domestici (I parte)"; di "Patologia medica degli animali domestici", di "Patologia chirurgica veterinaria e podologia" e di "Ostetricia veterinaria".  
+Per essere ammessi agli esami di clinica medica e di clinica chirurgica lo studente dovra' aver superato gli esami corrispondenti alle rispettive patologie speciali (medica e chirurgica) nonche' gli esami di "Patologia e profilassi delle malattie infettive degli animali domestici (II parte)" e "Anatomia patologica generale e speciale veterinaria (II parte)".  
+Gli esami di "Alimentazione e nutrizione degli animali domestici", di "Farmacologia, farmacodinamia e tossicologia", di "Anatomia patologica generale e speciale veterinaria (I parte)" e di "Parassitologia" debbono precedere quello di "Patologia aviare".  
+L'esame di "Ostetricia veterinaria" deve precedere quello di "Clinica ostetrica e ginecologia veterinaria".  
+Agli effetti dell'ammissione agli esami sono altresi' considerati propedeutici: "Anatomia sistematica e comparata degli animali domestici (I parte)" per "Aspetti esteriori degli animali ed etnologia", "Zoologia" per "Genetica e allevamento", "Microbiologia generale" per "Patologia e profilassi delle malattie infettive degli animali domestici (I parte)"; "Propedeutica" per "Patologia medica degli animali domestici" e per "Patologia chirurgica veterinaria e podologia", "Fisiologia generale e speciale veterinaria e fisica biologica (II parte)" per "Farmacologia, farmacodinamia e tossicologia"; "Parassitologia" per "Malattie parassitarie degli animali domestici"; "Anatomia patologica generale e speciale veterinaria (II parte)" per "Ispezione e controllo delle derrate alimentari di origine animale (II parte)".  
+Art. 156. - Per essere ammesso all'esame di laurea lo studente deve aver seguito i corsi e superato gli esami corrispondenti a tutti gli insegnamenti fondamentali e ad almeno tre insegnamenti scelti tra i complementari i cui corsi siano stati da lui regolarmente frequentati.  
+Art. 157. - Gli insegnamenti di "Clinica medica", di "Clinica chirurgica", di "Clinica ostetrica", di "Ispezione e controllo delle derrate alimentari" e delle materie del gruppo zootecnico ("Genetica e allevamento" e "Alimentazione e nutrizione degli animali domestici") debbono essere completati da un tirocinio pratico della durata complessiva di almeno sei mesi presso istituti della facolta' di medicina veterinaria, o presso gli istituti sperimentali zooprofilattici dipendenti dal Ministero della sanita', o presso istituti zootecnici dipendenti dal Ministero dell'agricoltura e delle foreste o da amministrazioni provinciali o presso macelli riconosciuti idonei dalla facolta' di medicina veterinaria.  
+Il tirocinio pratico deve essere iniziato dopo la chiusura dei corsi di insegnamento del 5° anno e deve essere completato prima che i candidati si presentino a sostenere l'esame di abilitazione all'esercizio professionale.  
+Il periodo di tirocinio pratico e' utilizzabile ai fini del raggiungimento del numero delle ore richiesto per gli insegnamenti clinici (Clinica medica, clinica chirurgica, clinica ostetrica, patologia aviare).  
+Art. 158. - Per gli studenti provenienti da altre facolta' il consiglio stabilisce caso per caso l'anno di corso a cui possono essere ammessi con l'eventuale convalida di frequenza e di esami dopo aver valutato l'equipollenza o l'affinita' dei rispettivi corsi con quelli previsti nel piano di studi della facolta'.  
+Con gli stessi criteri il consiglio determina l'ammissione al corso di laurea in medicina veterinaria di candidati provvisti di diploma di laurea conseguito presso una qualsiasi altra facolta'.  
+Art. 159. - L'esame di laurea consiste nella discussione orale di una dissertazione scritta sopra un argomento scelto fra le discipline impartite nella facolta' e nella discussione orale di tre tesine scelte dallo studente in tre diverse materie di insegnamento, differenti da quella della dissertazione scritta. La dissertazione scritta e i titoli delle tre tesine debbono essere presentati alla segreteria dell'universita' almeno un mese prima dell'esame di laurea.  
+  
+Norma transitoria  
+  
+Gli studenti in corso di laurea all'atto dell'entrata in vigore delle suddette modifiche di statuto possono optare per il corso di laurea in quattro o cinque anni.  
+All'uopo debbono presentare regolare domanda per integrare gli esami secondo quanto stabilira' caso per caso il consiglio di facolta'.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 31 ottobre 1981
+### Dato a Roma, addi' 30 ottobre 1971
 
-PERTINI BODRATO
+SARAGAT MISASI
 
-Visto, il Guardasigilli: DARIDA
+Visto, il Guardasigilli: COLOMBO
 
-Registrato alla Corte dei conti, addi' 24 febbraio 1982
+Registrato alla Corte dei conti, addi' 22 febbraio 1972
 
-Registro n. 30 Istruzione, foglio n. 375
+Atti del Governo, registro n. 247, foglio n. 27. - VALENTINI

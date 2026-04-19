@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 luglio 1963 n. 1364
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 ottobre 1978 n. 973
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 luglio 1963 n. 1364
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 ottobre 1978 n. 973
 ==============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Roma.
@@ -12,67 +12,34 @@ Art. 1
 
  IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Roma, approvato con [regio decreto 20 aprile 1939, n. 1350](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1350), e modificato con [regio decreto 26 ottobre 1939, n. 1734](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-26;1734) e successive;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto lo statuto dell'Universita' di Roma, approvato con [regio decreto 20 aprile 1939, n. 1350](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1350) e modificato con [regio decreto 26 ottobre 1939, n. 1734](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-26;1734), e successive modificazioni;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
 Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Roma e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;  
 Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro per la pubblica istruzione;  
+Sulla proposta del Ministro della pubblica istruzione;  
   
 Decreta:  
   
 Lo statuto dell'Universita' degli studi di Roma, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-  
-Gli articoli dal n. 439 al n. 448, relativi alla Scuola di perfezionamento in Cardiologia sono abrogati e sostituiti dai seguenti:  
-  
-Scuola di specializzazione in Cardiologia  
-  
-Art. 439. - La Scuola di specializzazione in Cardiologia ha lo scopo di promuovere l'incremento scientifico e pratico di tale branca della medicina e di conferire diplomi che abilitino al particolare esercizio della branca stessa con la qualifica di "specialista" a norma dell'[art. 178 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art178).  
-Art. 440. - Alla Scuola vengono ammessi i laureati in medicina e chirurgia. Il numero massimo degli ammessi al primo anno della Scuola e' di trenta.  
-Art. 441. - La durata dell'intero corso di studi e' di tre anni.  
-Art. 442. - Gli insegnamenti della Scuola sono:  
-Primo anno:  
-1) Anatomia normale dell'apparato cardiovascolare;  
-2) Fisiologia dell'apparato cardiovascolare e respiratorio;  
-3) Microbiologia;  
-4) Fisiopatologia cardiovascolare e respiratoria (1° corso);  
-5) Patologia cardiovascolare (1° corso);  
-6) Semeiologia fisica (1° corso);  
-7) Semeiologia strumentale (1° corso).  
-Per essere ammessi al secondo anno occorrera' aver superato gli esami di: Anatomia, Fisiologia, Microbiologia.  
-Secondo anno:  
-1) Fisiopatologia cardiovascolare e respiratoria (2° corso);  
-2) Patologia cardiovascolare (2° corso);  
-3) Semeiologia fisica (2° corso);  
-4) Semeiologia strumentale (2° corso);  
-5) Anatomia patologica dell'apparato cardiovascolare (1° corso);  
-6) Radiologia;  
-7) Farmacologia;  
-8) Clinica e terapia (1° corso).  
-Per essere ammessi al terzo anno occorrera' aver superato gli esami di: Fisiopatologia, Patologia, Semeiologia fisica, Semeiologia strumentale, Radiologia, Farmacologia.  
-Terzo anno:  
-1) Anatomia patologica dell'apparato cardiovascolare (2° corso);  
-2) Clinica e terapia (2° corso);  
-3) Chirurgia dell'apparato cardiovascolare;  
-4) Medicina legale con elementi di statistica e organizzazione sociale per la lotta contro il reumatismo e le cardiopatie.  
-I detti insegnamenti saranno integrati da corsi complementari e da corsi di esercitazioni pratiche.  
-Alla fine del terzo anno, dopo aver superato i singoli esami speciali, gli specializzandi dovranno sostenere un esame di diploma, vertente sulla discussione di una dissertazione scritta elaborata su un argomento di cardiologia concordato con il direttore della Scuola durante il secondo anno di corso.  
-Art. 443. - Gli specializzandi presteranno servizio in qualita' di assistente nel reparto clinico annesso alla Scuola, per l'intero anno solare e per tutta la durata della loro iscrizione alla Scuola. La frequenza nel reparto ed ai corsi e' obbligatoria e condizione indispensabile per l'ammissione agli esami.  
-Art. 444. - Il direttore della Scuola potra' concedere l'abbreviazione di corso, per titoli, con iscrizione al secondo anno (potra' essere richiesto un esame di idoneita); gli aspiranti che ne usufruiranno dovranno sostenere ugualmente gli esami del primo anno prima di quelli del secondo.  
-Art. 446. - A coloro che avranno superato l'esame di diploma, verra' rilasciato il diploma di specialista in Cardiologia.  
+Art. 58 - all'elenco degli insegnamenti complementari del corso di laurea in lettere e' aggiunto il seguente:  
+tibetologia.  
+Art. 60 - all'elenco degli insegnamenti complementari del corso di laurea in lingue e letterature straniere moderne (indirizzo orientale) e' aggiunto il seguente:  
+tibetologia.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 26 luglio 1963
+### Dato a Roma, addi' 27 ottobre 1978
 
-SEGNI GUI
+PERTINI PEDINI
 
-Visto, il Guardasigilli: BOSCO
+Visto, il Guardasigilli: BONIFACIO
 
-Registrato alla Corte dei conti, addi' 16 ottobre 1963
+Registrato alla Corte dei conti, addi' 10 febbraio 1979
 
-Atti del Governo, registro n. 175, foglio n. 22. - VILLA
+Registro n. 5 Istruzione, foglio n. 362

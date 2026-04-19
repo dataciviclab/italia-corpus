@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 ottobre 1972 n. 805
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 febbraio 1955 n. 134
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 ottobre 1972 n. 805
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 febbraio 1955 n. 134
+===============================================================
 
 Modificazioni allo statuto dell'Istituto universitario navale di Napoli.
 ------------------------------------------------------------------------
@@ -10,15 +10,15 @@ Modificazioni allo statuto dell'Istituto universitario navale di Napoli.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Istituto universitario navale di Napoli, approvato con [regio decreto 16 gennaio 1933, n. 1570](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-01-16;1570) e modificato con [regio decreto 16 ottobre 1934, n. 2081](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-10-16;2081), e successive modificazioni;
+Veduto lo statuto dell'Istituto universitario navale di Napoli, approvato con [regio decreto 16 gennaio 1933, n. 1570](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-01-16;1570), e modificato con i [regi decreti 16 ottobre 1934, n. 2081](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1934-10-16;2081); [5 settembre 1942, n. 1739; con decreto del Capo provvisorio dello Stato](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto:1942-09-05;1739) [11 novembre 1947, n. 1458 e con decreto del Presidente della Repubblica](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1947-11-11;1458) [25 luglio 1952, n. 1227](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-07-25;1227);
 
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
 
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
 
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche del predetto Istituto;
 
 Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
 
@@ -30,45 +30,45 @@ Decreta:
 
 Lo statuto dell'Istituto universitario navale di Napoli, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
-Art. 14. - Nell'elenco degli insegnamenti fondamentali e' tolta la distinzione triennale dell'insegnamento n. 19.
+Art. 4. - La lettera d) e' sostituita dalla seguente:
 
-Pertanto la denominazione resta cosi' fissata:
+d) di tre rappresentanti del Governo: a) l'intendente di finanza della Provincia, b) persona scelta dal Ministero della pubblica istruzione fra quelle di riconosciuta competenza nel campo dell'attivita' amatoriale, c) persona designata dal Ministro per la marina.
 
-19) Lingua inglese.
+Art. 18. - Agli insegnamenti fondamentali del corso di laurea in discipline nautiche e' aggiunto quello di:
 
-Art. 15, relativo alle propedeuticita' del corso di laurea in discipline nautiche e' modificato nel senso che e' soppressa la parola in parentesi (biennio) dalla lingua inglese.
+"esercizi di fisica".
 
-Art. 16, relativo agli esami di profitto e' modificato nel senso che sono soppresse le seguenti parole: "ad eccezione dell'esame di lingua inglese che deve obbligatoriamente essere sostenuto alla fine di ciascun anno".
+Nell'elenco delle materie complementari del corso di laurea in discipline nautiche, l'insegnamento di "storia del commercio, della navigazione, della colonizzazione" e' soppresso e sostituito con quello di "statistica applicata ai fenomeni naturali".
 
-Art. 17, relativo alle modalita' dell'esame di laurea della facolta' di scienze nautiche, e' abrogato e sostituito dal seguente: "L'esame di laurea consiste nella discussione di una dissertazione scritta su tema assegnato dal professore della materia e precedentemente approvato dalla facolta'.
+Art. 21. - Nell'elenco delle materie fondamentali del corso di laurea in scienze economico-marittime, l'insegnamento di "ragioneria in particolare delle imprese di navigazione" e' soppresso e sostituito con quello di: "ragioneria generale e applicata, in particolare alle imprese di navigazione (biennale)".
 
-La dissertazione, in triplice copia, deve essere depositata in segreteria almeno tre mesi prima della data stabilita per l'esame di laurea.
+Agli insegnamenti complementari del corso di laurea in scienze economico-marittime e' aggiunto quello di: "diritto amministrativo".
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 
-Dato a Roma, addi' 2 ottobre 1972
+Dato a Roma, addi' 4 febbraio 1955
 
-LEONE
+EINAUDI
 
-SCALFARO
+ERMINI
 
-Visto, il Guardasigilli: GONELLA
+Visto, il Guardasigilli: DE PIETRO
 
 Registrato
 ----------
 
-alla Corte dei conti, addi' 16 dicembre 1972. Atti di Governo, registro n. 254, foglio n. 30. - CARUSO
+alla Corte dei conti, addi' 29 marzo 1955 Atti del Governo, registro n. 89, foglio n. 201. - CARLOMAGNO
 
 Art. 1
 ------
 
  IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Istituto universitario navale di Napoli, approvato con [regio decreto 16 gennaio 1933, n. 1570](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-01-16;1570) e modificato con [regio decreto 16 ottobre 1934, n. 2081](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-10-16;2081), e successive modificazioni;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto lo statuto dell'Istituto universitario navale di Napoli, approvato con [regio decreto 16 gennaio 1933, n. 1570](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-01-16;1570), e modificato con i [regi decreti 16 ottobre 1934, n. 2081](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1934-10-16;2081); [5 settembre 1942, n. 1739; con decreto del Capo provvisorio dello Stato](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto:1942-09-05;1739) [11 novembre 1947, n. 1458 e con decreto del Presidente della Repubblica](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1947-11-11;1458) [25 luglio 1952, n. 1227](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-07-25;1227);  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche del predetto Istituto;  
 Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
 Sentito il parere del Consiglio superiore della pubblica istruzione;  
 Sulla proposta del Ministro per la pubblica istruzione;  
@@ -76,24 +76,24 @@ Sulla proposta del Ministro per la pubblica istruzione;
 Decreta:  
   
 Lo statuto dell'Istituto universitario navale di Napoli, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-Art. 14. - Nell'elenco degli insegnamenti fondamentali e' tolta la distinzione triennale dell'insegnamento n. 19.  
-Pertanto la denominazione resta cosi' fissata:  
-19) Lingua inglese.  
-Art. 15, relativo alle propedeuticita' del corso di laurea in discipline nautiche e' modificato nel senso che e' soppressa la parola in parentesi (biennio) dalla lingua inglese.  
-Art. 16, relativo agli esami di profitto e' modificato nel senso che sono soppresse le seguenti parole: "ad eccezione dell'esame di lingua inglese che deve obbligatoriamente essere sostenuto alla fine di ciascun anno".  
-Art. 17, relativo alle modalita' dell'esame di laurea della facolta' di scienze nautiche, e' abrogato e sostituito dal seguente: "L'esame di laurea consiste nella discussione di una dissertazione scritta su tema assegnato dal professore della materia e precedentemente approvato dalla facolta'.  
-La dissertazione, in triplice copia, deve essere depositata in segreteria almeno tre mesi prima della data stabilita per l'esame di laurea.  
+Art. 4. - La lettera d) e' sostituita dalla seguente:  
+d) di tre rappresentanti del Governo: a) l'intendente di finanza della Provincia, b) persona scelta dal Ministero della pubblica istruzione fra quelle di riconosciuta competenza nel campo dell'attivita' amatoriale, c) persona designata dal Ministro per la marina.  
+Art. 18. - Agli insegnamenti fondamentali del corso di laurea in discipline nautiche e' aggiunto quello di:  
+"esercizi di fisica".  
+Nell'elenco delle materie complementari del corso di laurea in discipline nautiche, l'insegnamento di "storia del commercio, della navigazione, della colonizzazione" e' soppresso e sostituito con quello di "statistica applicata ai fenomeni naturali".  
+Art. 21. - Nell'elenco delle materie fondamentali del corso di laurea in scienze economico-marittime, l'insegnamento di "ragioneria in particolare delle imprese di navigazione" e' soppresso e sostituito con quello di: "ragioneria generale e applicata, in particolare alle imprese di navigazione (biennale)".  
+Agli insegnamenti complementari del corso di laurea in scienze economico-marittime e' aggiunto quello di: "diritto amministrativo".  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 2 ottobre 1972
+### Dato a Roma, addi' 4 febbraio 1955
 
-LEONE SCALFARO
+EINAUDI ERMINI
 
-Visto, il Guardasigilli: GONELLA
+Visto, il Guardasigilli: DE PIETRO
 
-Registrato alla Corte dei conti, addi' 16 dicembre 1972.
+Registrato alla Corte dei conti, addi' 29 marzo 1955
 
-Atti di Governo, registro n. 254, foglio n. 30. - CARUSO
+Atti del Governo, registro n. 89, foglio n. 201. - CARLOMAGNO

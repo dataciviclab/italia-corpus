@@ -1,71 +1,202 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1972 n. 913
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 03 ottobre 1957 n. 998
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1972 n. 913
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 03 ottobre 1957 n. 998
 ==============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Napoli.
 ------------------------------------------------------------------
 
+IL PRESIDENTE DELLA REPUBBLICA
+------------------------------
+
+Veduto lo statuto dell'Universita' degli studi di Napoli, approvato con [regio decreto 20 aprile 1939, numero 1162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1162), modificato con [regio decreto 26 ottobre 1940, n. 1904](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;1904), e successivi;
+
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
+
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
+
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
+
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
+
+Sentito il parere del Consiglio superiore della pubblica istruzione Sulla proposta del Ministro per la pubblica istruzione;
+
+Decreta:
+
+Lo statuto dell'Universita' degli studi di Napoli, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+
+- L'art. 86, relativo all'Istituto di paleografia, annesso alla Facolta' di lettere e filosofia, e' abrogato.
+
+Alla stessa Facolta' sono annessi un "Istituto di paleografia latina e diplomatica", un "Istituto di geografia" e un "Istituto di archeologia e storia dell'arte greca e romana" il cui regolamento e' il seguente:
+
+Istituto di paleografia latina e diplomatica
+
+Art. 86. - Alla cattedra di paleografia latina e diplomatica della Facolta' di lettere e filosofia e' annesso un Istituto di paleografia latina e diplomatica, ordinato come seminario a norma dell'art. 23 del regolamento generale universitario, approvato con [regio decreto 6 aprile 1924, n. 674](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-04-06;674).
+
+Art. 87. - L'Istituto ha il fine di promuovere e di agevolare studi e ricerche nel campo della paleografia latina e della diplomatica. A tale scopo dispone di una biblioteca specializzata, promuove le pubblicazioni di codici diplomatici e di testi medioevali, raccoglie pergamene e altri documenti storici relativi al Medio Evo, organizza discussioni, conferenze, ecc.
+
+Art. 88. - Il direttore dell'Istituto e' di diritto il titolare della cattedra di paleografia e diplomatica ed, in caso di vacanza, chi lo sostituisce nell'insegnamento ufficiale.
+
+Art. 89. - Gli studenti della Facolta' di lettere, gli iscritti alla scuola di perfezionamento per bibliotecari ed archivisti possono partecipare a conferenze, ricerche e discussioni scientifiche e servirsi di tutti i mezzi di studio offerti dall'Istituto, dietro il consenso del direttore.
+
+Istituto di geografia
+
+Art. 90. - Alla cattedra di geografia della Facolta' di lettere e filosofia e' annesso un Istituto di geografia, che ha anche funzioni di seminario, ai sensi dell'articolo 23 del regolamento generale universitario; approvato con [regio decreto 6 aprile 1924, n. 674](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-04-06;674).
+
+Art. 91. - L'Istituto ha il fine di promuovere ed agevolare studi e ricerche nel campo dei diversi rami della geografia-.
+
+Art. 92. - Per il raggiungimento di tali fini l'istituto dispone di una biblioteca specializzata, di una cartoteca e di strumenti vari, organizza escursioni, conferenze, discussioni, cura pubblicazioni di carattere geografico e cartografico.
+
+Dispone di idonei apparecchi per la proiezione di fotografie e cinematografie.
+
+Art. 93. - Il direttore dell'Istituto e' di diritto il titolare della cattedra di geografia, e, in caso di vacanza, chi lo sostituisce nell'insegnamento ufficiale.
+
+Art. 94. - Gli studenti ed i laureati della Facolta' possono partecipare a conferenze e discussioni scientifiche e, in generale, servirsi di tutti i mezzi di studio offerti dall'Istituto.
+
+Art. 95. - L'Istituto potra' eventualmente disporre di borse di studio conferite dal Consiglio della Facolta' di lettere e filosofia o da enti pubblici e privati, in base alle modalita' e disposizioni che saranno stabilite dagli stessi fondatori.
+
+Istituto di archeologia e storia dell'arte greca e romana
+
+Art. 96. - Alla cattedra di archeologia e di storia dell'arte greca e romana della Facolta' di lettere e filosofia e' annesso un Istituto di archeologia e storia dell'arte greca e romana, ordinato come seminario, ai sensi dell'art. 23 del regolamento generale universitario, approvato con [regio decreto 6 aprile 1924, n. 674](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-04-06;674).
+
+Art. 97. - L'Istituto ha il fine di promuovere ed agevolare studi e ricerche nel campo delle varie discipline archeologiche (archeologia e storia dell'arte greca e romana antichita', paletnologia, numismatica, epigrafia greca romana ed italica).
+
+Art. 98. - Per il raggiungimento di tali fini l'Istituto dispone di una biblioteca specializzata, organizza discussioni, conferenze, pubblicazioni, promuovendo lo sviluppo di una raccolta di materiale archeologico, originale o in riproduzione, visite a monumenti, edifici in citta' e fuori, di notevole interesse storico, archeologico, artistico. Dispone infine di idonei apparecchi per le proiezioni delle immagini e per fotografie.
+
+Art. 99. - Direttore dell'Istituto e' di diritto il titolare della cattedra di archeologia e storia dell'arte greca e romana e, in caso di vacanza, chi lo sostituisce nell'insegnamento ufficiale.
+
+Art. 100. - Gli studenti della Facolta' ed i laureati in lettere possono partecipare a conferenze e discussioni scientifiche ed, in generale, servirsi di tutti i mezzi di studio offerti dall'Istituto.
+
+Art. 101. - L'Istituto potra' eventualmente disporre di borse di studio conferite dal Consiglio della Facolta' di lettere e filosofia o da enti pubblici e privati, in base alle modalita' e disposizioni che saranno stabilite dagli stessi fondatori.
+
+A causa dell'inserzione dei precedenti articoli la numerazione di quelli successivi subisce il necessario spostamento.
+
+Art. 104. - Agli insegnamenti complementari del corso di laurea in medicina e chirurgia sono aggiunti quelli di "semeiotica chirurgica", "ottica fisiologica" e "fisica nucleare applicata alla biologia".
+
+Art. 106, relativo alle precedenze per gli esami nel corso di laurea in medicina e chirurgia e' modificato nel senso che al quarto comma e' aggiunto il seguente periodo:
+
+"I colloquio di anatomia ed istologia, patologica deve essere sostenuto dopo aver superato le prove di patologia generale e di fisiologia.
+
+Dopo l'art. 165, e con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli, relativi all'istituzione, presso la Facolta' di ingegneria, dell'istituto di tecnica delle fondazioni e costruzioni in terra (geotecnica).
+
+Istituto di tecnica delle fondazioni e costruzioni in terra
+
+Art. 166. - E' istituito presso la Facolta' di ingegneria l'Istituto di "tecnica delle fondazioni e costruzioni in terra (geotecnica). L'Istituto ha il fine di sviluppare l'insegnamento della materia e di promuovere e di agevolare studi approfonditi in questa disciplina sia sul piano teorico che su quello sperimentale e di diffondere le applicazioni nel campo tecnico.
+
+Art. 167. - Per tali fini, l'Istituto disporra' di un laboratorio specializzato, dotato di apparecchiature per ricerca e di un'apparecchiatura a scopi didattici, e di una biblioteca propria di settore.
+
+Art. 168. - Il direttore dell'Istituto e' di diritto il titolare della cattedra di "tecnica delle fondazioni e costruzioni in terra", e, in caso di vacanza, chi lo sostituisce nell'insegnamento ufficiale.
+
+Art. 169. - Gli studenti della Facolta' ed i laureati in ingegneria possono partecipare a conferenze e discussioni scientifiche ed in generale servirsi di tutti i mezzi di studio offerti dall'Istituto.
+
+Il titolo della scuola di perfezionamento in medicina legale e delle assicurazioni sociali, annessa alla Facolta' di medicina e chirurgia, e' mutato come segue:
+
+"Scuola di specializzazione in medicina legale e delle assicurazioni".
+
+Di conseguenza sono modificati anche i successivi articoli, relativi alla scuola stessa.
+
+Art. 320. - E' modificato come segue: "La scuola di specializzazione in medicina legale e della assicurazione ha la durata di due anni".
+
+Art. 323. - Il primo comma e' modificato come segue:
+
+"Per ottenere l'iscrizione al secondo corso l'allievo deve aver superato un colloquio di medicina legale generale e l'esame su uno dei due gruppi di materie annuali "antropologia e sociologia criminale o medicina legale delle assicurazioni".
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 3 ottobre 1957
+
+GRONCHI
+
+MORO
+
+Visto, il Guardasigilli: GONELLA
+
+Registrato
+----------
+
+alla Corte dei conti, addi' 28 ottobre 1957 Atti del Governo, registro n. 108, foglio n. 112. - RELLEVA
+
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA  
+ IL PRESIDENTE DELLA REPUBBLICA   
   
-Veduto lo statuto dell'Universita' degli studi di Napoli, approvato con [regio decreto 20 aprile 1939, numero 1162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1162) e modificato con [regio decreto 26 ottobre 1940, n. 1904](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;1904), e successive modificazioni;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
-Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro per la pubblica istruzione;  
+Veduto lo statuto dell'Universita' degli studi di Napoli, approvato con [regio decreto 20 aprile 1939, numero 1162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1162), modificato con [regio decreto 26 ottobre 1940, n. 1904](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;1904), e successivi;   
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);   
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;   
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;   
+Sentito il parere del Consiglio superiore della pubblica istruzione Sulla proposta del Ministro per la pubblica istruzione;   
   
-Decreta:  
+Decreta:   
   
-Lo statuto dell'Universita' degli studi di Napoli, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-Dopo l'art. 470 e con il conseguente spostamento della numerazione degli articoli successivi sono inseriti i seguenti nuovi articoli relativi alla istituzione della scuola di specializzazione in microbiologia.  
+Lo statuto dell'Universita' degli studi di Napoli, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
+- L'art. 86, relativo all'Istituto di paleografia, annesso alla Facolta' di lettere e filosofia, e' abrogato.   
+Alla stessa Facolta' sono annessi un "Istituto di paleografia latina e diplomatica", un "Istituto di geografia" e un "Istituto di archeologia e storia dell'arte greca e romana" il cui regolamento e' il seguente:   
   
-Scuola di specializzazione in microbiologia  
+Istituto di paleografia latina e diplomatica   
   
-Art. 471. - La scuola di specializzazione in microbiologia, che conferisce il diploma di "Specialista in microbiologia", ha sede presso l'istituto di microbiologia dell'Universita' di Napoli ed e' diretta dal titolare della cattedra di microbiologia di detta universita'.  
-Il corso di studi per il conseguimento del diploma ha la durata di 3 anni.  
-Art. 472. - La scuola di specializzazione in microbiologia ha lo scopo di allargare e completare sul piano scientifico la cultura di coloro che si dedicano allo studio di questa disciplina e di fornire sul piano tecnico una preparazione pratica specifica.  
-Alla scuola di specializzazione vengono ammessi i laureati in medicina e chirurgia, medicina veterinaria, scienze biologiche, scienze naturali e farmacia.  
-Il numero massimo di iscritti e' di 50 per ogni singolo anno di corso. Nel caso che le domande eccedessero tale numero, la selezione verra' fatta mediante concorso (graduatoria per titoli ed esami).  
-Qualora un aspirante, sufficientemente fornito di titoli attinenti alle materie della scuola, chieda abbreviazioni di corso, dovra' presentare istanza al rettore.  
-Art. 473. - Gli iscritti alla scuola hanno l'obbligo di frequentare le lezioni e le esercitazioni e di partecipare alle visite di istruzione ed alle eventuali conferenze; in caso contrario non potranno ottenere l'attestazione di frequenza necessaria per essere ammessi a sostenere le prove di esame.  
-Art. 474. - Gli insegnamenti impartiti dalla scuola sono i seguenti:  
-1° Anno:  
-1) Chimica microbiologica;  
-2) Batteriologia generale e tecnica batteriologica;  
-3) Analisi statistica del dosaggio biologico;  
-4) Immunologia.  
-2° Anno:  
-5) Batteriologia speciale;  
-6) Virologia generale e tecnica virologica;  
-7) Micologia;  
-8) Protozoologia.  
-3° Anno:  
-9) Genetica dei microorganismi;  
-10) Virologia speciale;  
-11) Microbiologia degli alimenti;  
-12) Microbiologia industriale;  
-13) Metodi e dosaggi microbiologici.  
-Art. 475. - Gli esami di profitto (discussione orale e prova pratica) saranno sostenuti singolarmente per ciascun insegnamento.  
-L'esame di diploma, cui si e' ammessi dopo aver superato tutti gli esami nelle singole materie, consta di una dissertazione scritta - elaborata preferibilmente in un istituto universitario, sotto il controllo di un relatore scelto fra il personale docente - su un argomento pertinente gli insegnamenti della scuola e da prove pratiche.  
-I candidati non riconosciuti idonei all'esame di frequenza della scuola, ma se al secondo esame non sia loro riconosciuta l'idoneita' saranno senz'altro esclusi da ulteriori prove.  
+Art. 86. - Alla cattedra di paleografia latina e diplomatica della Facolta' di lettere e filosofia e' annesso un Istituto di paleografia latina e diplomatica, ordinato come seminario a norma dell'art. 23 del regolamento generale universitario, approvato con [regio decreto 6 aprile 1924, n. 674](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-04-06;674).   
+Art. 87. - L'Istituto ha il fine di promuovere e di agevolare studi e ricerche nel campo della paleografia latina e della diplomatica. A tale scopo dispone di una biblioteca specializzata, promuove le pubblicazioni di codici diplomatici e di testi medioevali, raccoglie pergamene e altri documenti storici relativi al Medio Evo, organizza discussioni, conferenze, ecc.   
+Art. 88. - Il direttore dell'Istituto e' di diritto il titolare della cattedra di paleografia e diplomatica ed, in caso di vacanza, chi lo sostituisce nell'insegnamento ufficiale.   
+Art. 89. - Gli studenti della Facolta' di lettere, gli iscritti alla scuola di perfezionamento per bibliotecari ed archivisti possono partecipare a conferenze, ricerche e discussioni scientifiche e servirsi di tutti i mezzi di studio offerti dall'Istituto, dietro il consenso del direttore.   
+  
+Istituto di geografia   
+  
+Art. 90. - Alla cattedra di geografia della Facolta' di lettere e filosofia e' annesso un Istituto di geografia, che ha anche funzioni di seminario, ai sensi dell'articolo 23 del regolamento generale universitario; approvato con [regio decreto 6 aprile 1924, n. 674](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-04-06;674).   
+Art. 91. - L'Istituto ha il fine di promuovere ed agevolare studi e ricerche nel campo dei diversi rami della geografia-.   
+Art. 92. - Per il raggiungimento di tali fini l'istituto dispone di una biblioteca specializzata, di una cartoteca e di strumenti vari, organizza escursioni, conferenze, discussioni, cura pubblicazioni di carattere geografico e cartografico.   
+Dispone di idonei apparecchi per la proiezione di fotografie e cinematografie.   
+Art. 93. - Il direttore dell'Istituto e' di diritto il titolare della cattedra di geografia, e, in caso di vacanza, chi lo sostituisce nell'insegnamento ufficiale.   
+Art. 94. - Gli studenti ed i laureati della Facolta' possono partecipare a conferenze e discussioni scientifiche e, in generale, servirsi di tutti i mezzi di studio offerti dall'Istituto.   
+Art. 95. - L'Istituto potra' eventualmente disporre di borse di studio conferite dal Consiglio della Facolta' di lettere e filosofia o da enti pubblici e privati, in base alle modalita' e disposizioni che saranno stabilite dagli stessi fondatori.   
+  
+Istituto di archeologia e storia dell'arte greca e romana   
+  
+Art. 96. - Alla cattedra di archeologia e di storia dell'arte greca e romana della Facolta' di lettere e filosofia e' annesso un Istituto di archeologia e storia dell'arte greca e romana, ordinato come seminario, ai sensi dell'art. 23 del regolamento generale universitario, approvato con [regio decreto 6 aprile 1924, n. 674](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-04-06;674).   
+Art. 97. - L'Istituto ha il fine di promuovere ed agevolare studi e ricerche nel campo delle varie discipline archeologiche (archeologia e storia dell'arte greca e romana antichita', paletnologia, numismatica, epigrafia greca romana ed italica).   
+Art. 98. - Per il raggiungimento di tali fini l'Istituto dispone di una biblioteca specializzata, organizza discussioni, conferenze, pubblicazioni, promuovendo lo sviluppo di una raccolta di materiale archeologico, originale o in riproduzione, visite a monumenti, edifici in citta' e fuori, di notevole interesse storico, archeologico, artistico. Dispone infine di idonei apparecchi per le proiezioni delle immagini e per fotografie.   
+Art. 99. - Direttore dell'Istituto e' di diritto il titolare della cattedra di archeologia e storia dell'arte greca e romana e, in caso di vacanza, chi lo sostituisce nell'insegnamento ufficiale.   
+Art. 100. - Gli studenti della Facolta' ed i laureati in lettere possono partecipare a conferenze e discussioni scientifiche ed, in generale, servirsi di tutti i mezzi di studio offerti dall'Istituto.   
+Art. 101. - L'Istituto potra' eventualmente disporre di borse di studio conferite dal Consiglio della Facolta' di lettere e filosofia o da enti pubblici e privati, in base alle modalita' e disposizioni che saranno stabilite dagli stessi fondatori.   
+A causa dell'inserzione dei precedenti articoli la numerazione di quelli successivi subisce il necessario spostamento.   
+Art. 104. - Agli insegnamenti complementari del corso di laurea in medicina e chirurgia sono aggiunti quelli di "semeiotica chirurgica", "ottica fisiologica" e "fisica nucleare applicata alla biologia".   
+Art. 106, relativo alle precedenze per gli esami nel corso di laurea in medicina e chirurgia e' modificato nel senso che al quarto comma e' aggiunto il seguente periodo:   
+"I colloquio di anatomia ed istologia, patologica deve essere sostenuto dopo aver superato le prove di patologia generale e di fisiologia.   
+Dopo l'art. 165, e con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli, relativi all'istituzione, presso la Facolta' di ingegneria, dell'istituto di tecnica delle fondazioni e costruzioni in terra (geotecnica).   
+  
+Istituto di tecnica delle fondazioni e costruzioni in terra   
+  
+Art. 166. - E' istituito presso la Facolta' di ingegneria l'Istituto di "tecnica delle fondazioni e costruzioni in terra (geotecnica). L'Istituto ha il fine di sviluppare l'insegnamento della materia e di promuovere e di agevolare studi approfonditi in questa disciplina sia sul piano teorico che su quello sperimentale e di diffondere le applicazioni nel campo tecnico.   
+Art. 167. - Per tali fini, l'Istituto disporra' di un laboratorio specializzato, dotato di apparecchiature per ricerca e di un'apparecchiatura a scopi didattici, e di una biblioteca propria di settore.   
+Art. 168. - Il direttore dell'Istituto e' di diritto il titolare della cattedra di "tecnica delle fondazioni e costruzioni in terra", e, in caso di vacanza, chi lo sostituisce nell'insegnamento ufficiale.   
+Art. 169. - Gli studenti della Facolta' ed i laureati in ingegneria possono partecipare a conferenze e discussioni scientifiche ed in generale servirsi di tutti i mezzi di studio offerti dall'Istituto.   
+Il titolo della scuola di perfezionamento in medicina legale e delle assicurazioni sociali, annessa alla Facolta' di medicina e chirurgia, e' mutato come segue:   
+  
+"Scuola di specializzazione in medicina legale e delle assicurazioni".   
+  
+Di conseguenza sono modificati anche i successivi articoli, relativi alla scuola stessa.   
+Art. 320. - E' modificato come segue: "La scuola di specializzazione in medicina legale e della assicurazione ha la durata di due anni".   
+Art. 323. - Il primo comma e' modificato come segue:   
+"Per ottenere l'iscrizione al secondo corso l'allievo deve aver superato un colloquio di medicina legale generale e l'esame su uno dei due gruppi di materie annuali "antropologia e sociologia criminale o medicina legale delle assicurazioni".   
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 31 ottobre 1972
+### Dato a Roma, addi' 3 ottobre 1957
 
-LEONE SCALFARO
+GRONCHI MORO
 
 Visto, il Guardasigilli: GONELLA
 
-Registrato alla Corte dei conti, addi' 12 gennaio 1973
+Registrato alla Corte dei conti, addi' 28 ottobre 1957
 
-Atti di Governo, registro n. 255, foglio n. 18. - VALENTINI
+Atti del Governo, registro n. 108, foglio n. 112. - RELLEVA

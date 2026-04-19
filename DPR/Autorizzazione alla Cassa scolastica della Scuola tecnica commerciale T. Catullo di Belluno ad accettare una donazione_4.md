@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 03 maggio 1950 n. 474
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 aprile 1950 n. 937
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 03 maggio 1950 n. 474
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 aprile 1950 n. 937
 =============================================================
 
 Autorizzazione alla Cassa scolastica della Scuola tecnica commerciale "T. Catullo" di Belluno ad accettare una donazione.
@@ -12,7 +12,7 @@ Art. 1
 
 N.
 
-474. Decreto del Presidente della Repubblica 3 maggio 1950, col quale, sulla proposta del Ministro per la pubblica istruzione, la Cassa scolastica della Scuola tecnica commerciale "T. Catullo" di Belluno viene autorizzata ad accettare la donazione di nominali L. 50.000, in titoli di Stato, disposta al fine dell'istituzione di due premi di studio intitolati al nome del tenente di artiglieria medaglia d'oro Angelo Dal Fabbro.  
+937. Decreto del Presidente della Repubblica 5 aprile 1950, col quale, sulla proposta del Ministro per la pubblica istruzione, la Cassa scolastica della Scuola tecnica commerciale "T. Catullo" di Belluno viene autorizzata ad accettare la donazione di nominali L. 20.000 in titoli di Stato 5%, disposta da un Comitato di cittadini, al fine dell'istituzione di un premio di studio, da conferire ogni tre anni, intitolato al nome di "Elisa Poloniato e Aurelia Bertoldi".  
   
 Visto, il Guardasigilli: PICCIONI  
-Registrato alla Corte dei conti, addi' 12 luglio 1950
+Registrato alla Corte dei conti, addi' 28 novembre 1950

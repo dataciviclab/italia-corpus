@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 20 marzo 1961 n. 334
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1975 n. 944
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 20 marzo 1961 n. 334
-============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1975 n. 944
+==============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Firenze.
 -------------------------------------------------------------------
@@ -12,60 +12,55 @@ Art. 1
 
  IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Firenze, approvato con [regio decreto 14 ottobre 1926, n. 2406](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2406), modificato con [regio decreto 13 ottobre 1927, n. 2230](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2230), e successivi;  
+Veduto lo statuto dell'Universita' degli studi di Firenze, approvato con [regio decreto 14 ottobre 1926, n. 2406](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2406), e modificato con [regio decreto 13 ottobre 1927, n. 2230](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2230), e successive modificazioni;  
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
 Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
-Veduto il [decreto del Presidente della Repubblica 31 gennaio 1960, n. 53](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1960-01-31;53);  
 Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Firenze e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;  
 Sentito il parere del Consiglio superiore della pubblica istruzione;  
 Sulla proposta del Ministro per la pubblica istruzione;  
   
 Decreta:  
   
 Lo statuto dell'Universita' degli studi di Firenze, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+L'art. 76, relativo al corso di laurea in fisica, e' modificato nel senso che il terzultimo ed il penultimo comma sono soppressi e sostituiti dal seguente:  
   
-Art. 75. - Agli insegnamenti complementari del corso di laurea in Chimica (indirizzo organico-biologico ed inorganico-chimico-fisico) sono aggiunti quelli di:  
-Chimica analitica strumentale;  
-Chimica nucleare;  
-Chimica delle sostanze coloranti;  
-Chimica statistica;  
-Chimica inorganica superiore;  
-Chimica fisica tecnica;  
-Fotochimica;  
-Radiochimica;  
-Chimica teorica;  
-Strutturistica chimica.  
-Gli articoli 90 e 91, relativi al corso biennale di studi propedeutici per la laurea in ingegneria sono abrogati e sostituiti dai seguenti:  
-Art. 90. - Titolo di ammissione al biennio propedeutico agli studi di Ingegneria e' il diploma di maturita' classica o scientifica.  
-Sono insegnamenti fondamentali:  
-Per il I anno Analisi matematica I Geometria I Fisica I chimica Disegno Per il I anno Analisi matematica II Geometria II Meccanica razionale Fisica II L'insegnamento di Geometria II potra' essere sostituito:  
-A) con Litologia e geologia, quando lo studente dichiari di voler proseguire i suoi studi per la laurea in Ingegneria civile e in una sede ove l'insegnamento della Geometria II non sia previsto per tale corso di studi;  
-B) con Metodi di osservazione e misura, quando lo studente dichiari di voler proseguire i suoi studi per la laurea in Ingegneria meccanica, Elettrotecnica, Elettronica, Aeronautica, Nucleare, e in una sede ove l'insegnamento della Geometria II non e' previsto per uno di tali corsi di laurea;  
-C) con Mineralogia, quando lo studente dichiari di voler proseguire i suoi studi per la laurea in Ingegneria mineraria e in una sede ove l'insegnamento della Geometria II non e' previsto per tale corso di laurea.  
-Sono insegnamenti fondamentali aggiunti, quando non siano sostitutivi della Geometria II:  
-Litologia e geologia e Mineralogia, per gli studenti che intendono proseguire i loro studi per la laurea in Ingegneria civile o mineraria;  
-Metodi di osservazione e misura e Litologia e geologia per gli studenti che intendono proseguire i loro studi in un qualsiasi altro corso di laurea.  
-Lo studente, all'atto della iscrizione al II anno, chiedera' alla Facolta' la convalida del piano di studi che desidera seguire. La scelta e' impegnativa e non puo' subire variazioni durante l'anno di corso.  
-Gli studenti del I anno di corso potranno ottenere la iscrizione al II anno di corso qualora abbiano superato almeno due dei quattro esami: Analisi matematica I, Geometria I, Fisica I, Chimica.  
-Per aver titolo di ammissione al III anno di corso presso una qualsiasi Facolta' di ingegneria, lo studente dovra' aver superato tutti gli esami fondamentali del biennio propedeutico - ivi compreso quello dell'insegnamento che sostituisce la Geometria II - fatta eccezione degli insegnamenti aggiunti.  
-I due esami di Fisica comprendono la parte riguardante le esercitazioni.  
-Art. 91. - L'esame di Chimica deve precedere quelli di Mineralogia e di Litologia e geologia.  
-Gli esami di Analisi matematica I, Geometria I, Fisica. I, devono precedere rispettivamente gli esami di Analisi matematica II, Geometria II, Fisica II.  
-Gli esami di Analisi matematica e di Geometria I devono precedere quello di Meccanica razionale.  
+Ciascun insegnamento biennale comporta due esami distinti.  
+L'art. 77 e' modificato nel senso che il secondo ed il terzo comma sono abrogati e sostituiti dai seguenti:  
+  
+Lo studente non potra' presentarsi a nessun esame del secondo biennio, salvo a quello di algebra, senza aver prima superato i seguenti esami del primo biennio: fisica generale I e II, analisi matematica I e II, geometria I.  
+Gli esami di fisica generale I e analisi matematica I, devono essere superati prima di quello di fisica generale II; l'esame di meccanica razionale deve precedere quello di istituzioni di fisica teorica; l'esame di istituzioni di fisica teorica deve precedere quello di fisica teorica.  
+L'esame di esperimentazione fisica I deve precedere quello di esperimentazione fisica II; gli esami di esperimentazione fisica I e II devono precedere quelli di laboratorio di fisica I e II.  
+L'art. 78, relativo al corso di laurea in matematica, e' modificato nel senso che il penultimo e l'ultimo comma sono soppressi e sostituiti dal seguente:  
+L'esame di laurea consta:  
+a) nella discussione di un lavoro scritto che per l'indirizzo generale, deve presentare i caratteri di ricerca originale;  
+b) della discussione di una tesina preparata dallo studente su di un argomento attinente ad una disciplina diversa da quella cui si riferisce il lavoro scritto.  
+L'art. 80, relativo al corso di laurea in scienze naturali, e' modificato nel senso che il penultimo comma e' soppresso e sostituito dal seguente:  
+  
+I corsi di botanica e di zoologia, pur restando rispettivamente biennali ed uniti quanto all'insegnamento, comportano per quanto riguarda l'accertamento due esami distinti, uno alla fine del primo anno ed uno alla fine del secondo anno di corso. L'insegnamento biennale di fisiologia generale comporta due distinti esami annuali.  
+L'art. 82, relativo al corso di laurea in scienze biologiche, e' modificato nel senso che il penultimo comma e' soppresso e sostituito dal seguente:  
+  
+I corsi di botanica e di zoologia, pur restando rispettivamente biennali ed uniti quanto all'insegnamento, comportano, per quanto riguarda l'accertamento, due esami distinti, uno alla fine del primo anno e uno alla fine del secondo anno di corso. L'insegnamento biennale di fisiologia generale comporta due distinti esami annuali.  
+L'art. 89 e' modificato nel senso che il secondo comma e' soppresso e sostituito dal seguente:  
+  
+I candidati per l'esame di laurea in scienze naturali e in scienze geologiche debbono sostenere una prova di cultura.  
+L'art. 151, relativo all'elenco degli insegnamenti complementari del corso di laurea in scienze agrarie, e' modificato nel senso che l'insegnamento di tecnica mangimistica da semestrale passa ad annuale.  
+All'elenco dello stesso articolo sono aggiunti i seguenti nuovi insegnamenti:  
+selvicoltura;  
+economia montana.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 20 marzo 1961
+### Dato a Roma, addi' 31 ottobre 1975
 
-GRONCHI BOSCO
+LEONE MALFATTI
 
-Visto, il Guardasigilli: GONELLA
+Visto, il Guardasigilli: BONIFACIO
 
-Registrato alla Corte dei conti, addi' 9 maggio 1961
+Registrato alla Corte dei conti, addi' 30 marzo 1976
 
-Atti del Governo, registro n. 136, foglio n. 95. - VILLA
+Atti di Governo, registro n. 4, foglio n. 42

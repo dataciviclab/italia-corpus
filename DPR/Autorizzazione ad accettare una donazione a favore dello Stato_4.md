@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 17 maggio 1986 n. 608
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 07 giugno 1974 n. 882
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 17 maggio 1986 n. 608
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 07 giugno 1974 n. 882
 =============================================================
 
 Autorizzazione ad accettare una donazione a favore dello Stato.
@@ -10,10 +10,10 @@ Autorizzazione ad accettare una donazione a favore dello Stato.
 Art. 1
 ------
 
-n.
+N.
 
-608. Decreto del Presidente della Repubblica 17 maggio 1986, col quale, sulla proposta del Ministro per i beni culturali e ambientali, viene autorizzata l'accettazione a favore dello Stato della donazione, consistente in un dipinto dell'autore Giacomo Balla raffigurante la "Famiglia Carelli" e in due bronzetti su base di marmo scolpiti dallo scultore S. Bueni raffiguranti l'uno "Costantino Gregorio Carelli" e l'altro la "Signora Eleuteria Mileti", i quali rivestono un interesse artistico, da destinare al Museo nazionale di Capodimonte, in Napoli, disposta dalla sig.ra Vera Carelli con atto 9 maggio 1977, n. 81455 di repertorio, a rogito del dott. proc. Alberto Colasanti, notaio in Napoli.  
+882. Decreto del Presidente della Repubblica 7 giugno 1974, col quale, sulla proposta del Ministro per le finanze, di concerto con il Ministro per il tesoro, viene autorizzata l'accettazione della donazione a favore dello Stato, disposta dalla camera di commercio, industria, artigianato ed agricoltura di Cagliari con atto 18 giugno 1969, n. 18179 di repertorio a rogito notaio Ugo Pasolini, dei mobili e delle attrezzature tecnico-scientifiche costituenti la dotazione del laboratorio chimico compartimentale delle dogane e imposte indirette di Cagliari.  
   
-Visto, il Guardasigilli: ROGNONI  
-Registrato alla Corte dei conti, addi' 23 settembre 1986  
-Registro n. 24 Beni Culturali, foglio n. 246
+Visto, il Guardasigilli: REALE  
+Registrato alla Corte dei conti, addi' 21 marzo 1975  
+Atti di Governo, registro n. 9, foglio n. 24

@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 marzo 1984 n. 316
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 marzo 1983 n. 1011
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 marzo 1984 n. 316
-============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 marzo 1983 n. 1011
+=============================================================
 
 Modificazione allo statuto dell'Universita' degli studi di Palermo.
 -------------------------------------------------------------------
@@ -39,18 +39,20 @@ Articolo unico
 --------------
 
   
-Art. 27 - nell'elenco degli insegnamenti complementari del corso di laurea in economia e commercio e' incluso l'insegnamento di "dottrina generale del processo".  
+Nell'art. 36, relativo al corso di laurea in filosofia, all'elenco degli insegnamenti complementari sono aggiunti i seguenti nuovi insegnamenti:  
+storia della storiografia filosofica;  
+storia dell'estetica.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 2 marzo 1984
+### Dato a Roma, addi' 31 marzo 1983
 
 PERTINI FALCUCCI
 
 Visto, il Guardasigilli: MARTINAZZOLI
 
-Registrato alla Corte dei conti, addi' 26 giugno 1984
+Registrato alla Corte dei conti, addi' 29 febbraio 1984
 
-Registro n. 39 Istruzione, foglio n. 27
+Registro n. 13 Istruzione, foglio n. 54

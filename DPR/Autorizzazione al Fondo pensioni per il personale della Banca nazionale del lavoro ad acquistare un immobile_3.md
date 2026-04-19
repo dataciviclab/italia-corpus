@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 12 luglio 1965 n. 1291
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 20 maggio 1966 n. 449
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 12 luglio 1965 n. 1291
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 20 maggio 1966 n. 449
+=============================================================
 
 Autorizzazione al Fondo pensioni per il personale della Banca nazionale del lavoro ad acquistare un immobile.
 -------------------------------------------------------------------------------------------------------------
@@ -12,8 +12,9 @@ Art. 1
 
 N.
 
-1291. Decreto del Presidente della, Repubblica 12 luglio 1965, col quale, sulla proposta del Ministro per il lavoro e la previdenza sociale, il Fondo pensioni per il personale della Banca nazionale del lavoro viene autorizzato ad acquistare, per il prezzo di lire 480.000.000 (quattrocentottantamilioni), il fabbricato di civile abitazione, sito in Roma, via Privata dell'Accademia Albertina n. 30, di proprieta' dell'Istituto romano di beni stabili S.p.A., con sede in Roma.  
+449. Decreto del Presidente della Repubblica maggio 1966, col quale, sulla proposta del Ministro per il lavoro e la previdenza sociale, il Fondo pensioni per il personale della Banca nazionale del lavoro viene autorizzato ad acquistare dal prof. ing. Guido Del Vecchio, per il prezzo di lire 1.525.000.000 (unmiliardocinqucentoventicinquemilioni) l'immobile costituito da un fabbricato sito in Napoli alla via Roberto Bracco, angolo via S.  
+Tommaso d'Aquino, composto da due piani scantinati, un piano terreno, tredici piani superiori e un piano di copertura, destinati in prevalenza ad uso di civili abitazioni e negozi.  
   
 Visto, il Guardasigilli: REALE  
-Registrato alla Corte dei conti, addi' 20 novembre 1965  
-Atti del Governo, registro n. 198, foglio n. 54. - VILLA
+Registrato alla Corte dei conti, addi' 24 giugno 1966  
+Atti del Governo, registro n. 203, foglio n. 164. - VILLA

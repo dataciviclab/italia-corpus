@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 ottobre 1982 n. 1124
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1978 n. 1047
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 ottobre 1982 n. 1124
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1978 n. 1047
 ===============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Genova.
@@ -10,7 +10,7 @@ Modificazioni allo statuto dell'Universita' degli studi di Genova.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' di Genova, approvato con [regio decreto 7 ottobre 1926, n. 2054](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-07;2054), e successive modificazioni;
+Veduto lo statuto dell'Universita' di Genova, approvato con [regio decreto 7 ottobre 1926, n. 2054](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-07;2054), e modificato con [regio decreto 13 ottobre 1927, n. 2846](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2846), e successive modificazioni;
 
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
@@ -18,144 +18,376 @@ Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it
 
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
 
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
-Veduto il [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Genova e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;
 
-Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
-
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Genova e convalidati dal Consiglio universitario nazionale nel suo parere;
-
-Sentito il parere del Consiglio universitario nazionale;
+Sentito il parere del Consiglio superiore della pubblica istruzione;
 
 Sulla proposta del Ministro della pubblica istruzione;
 
 Decreta:
---------
 
-Lo statuto dell'Universita' di Genova, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+Lo statuto dell'Universita' degli studi di Genova, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
-Articolo unico
---------------
+Art. 155 - all'elenco delle scuole di specializzazione annesse alla facolta' di medicina e chirurgia sono aggiunte le scuole di specializzazione in patologia generale e in neurofisiopatologia.
 
+Il secondo comma dell'art. 297, relativo alla scuola di specializzazione in igiene e medicina preventiva, di cui al [decreto del Presidente della Repubblica 31 ottobre 1977, n. 1140](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1977-10-31;1140), e' soppresso e sostituito dal seguente:
+
+Il numero massimo di allievi iscrivibili e' di trenta per ogni anno di corso.
+
+Gli articoli 394, 395, 396, 397, 398, 399, 400, 401 e 402, relativi alla scuola di specializzazione in medicina nucleare, sono soppressi e sostituiti dai seguenti, con il conseguente spostamento della numerazione degli articoli successivi:
+
+Scuola di specializzazione in medicina nucleare
+
+Art. 394. - La scuola di specializzazione in medicina nucleare ha sede presso l'istituto scientifico di medicina interna della facolta' di medicina e chirurgia.
+
+Art. 395. - La scuola conferisce il diploma di specializzazione in medicina nucleare.
+
+Gli anni di studio necessari per conseguire detto diploma sono tre.
+
+Art. 396. - Gli insegnamenti per il conseguimento del diploma di specializzazione in medicina nucleare sono cosi' distribuiti nei tre anni di corso:
+
+1° Anno:
+
+fisica: con richiami di matematica, nozioni di statistica, informatica e dosimetria;
+
+radiobiologia, legislazione e norme generali di radioprotezione;
+
+tecnica di acquisizione e memorizzazione dei dati, fotodocumentazione e archiviazione;
+
+nozioni di anatomia e fisiologia generale.
+
+2° Anno:
+
+teoria dei traccianti;
+
+elementi di radiochimica;
+
+applicazioni diagnostiche I;
+
+tecniche di misure di radioattivita'.
+
+3° Anno:
+
+applicazioni diagnostiche II;
+
+applicazioni terapeutiche;
+
+radioprotezione e legislazione applicate.
+
+Art. 397. - I singoli insegnamenti saranno tenuti da uno o piu' docenti a seconda di quanto opportuno al loro miglior svolgimento.
+
+Art. 398. - Il numero massimo di allievi iscrivibili in corso e' di quindici complessivamente.
+
+Art. 399. - La frequenza pratica e' obbligatoria (dieci mesi all'anno) e deve avvenire in reparti riconosciuti idonei dal consiglio della scuola.
+
+L'insegnamento verra' svolto mediante lezioni, esercitazioni, seminari, conferenze, corsi di aggiornamento aperti anche a specialisti, ecc. Gli allievi, per essere ammessi a sostenere gli esami di profitto annuali dovranno avere la firma di frequenza da parte del direttore della scuola.
+
+Art. 400. - Gli allievi per conseguire il diploma di specializzazione, oltre ad essere stati approvati in tutti gli esami, dovranno elaborare e discutere una tesi scritta su un argomento concordato con il direttore della scuola.
+
+Dopo l'art. 415, e con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi alla istituzione della scuola di specializzazione in patologia generale e in neurofisiopatologia.
+
+Scuola di specializzazione in patologia generale
+
+Art. 416. - La scuola di specializzazione in patologia generale ha sede presso l'istituto di patologia generale della facolta' di medicina e chirurgia.
+
+Il corso degli studi ha la durata di quattro anni, suddiviso in due bienni.
+
+Gli allievi che non conseguono le attestazioni di frequenza non potranno essere ammessi a sostenere le singole prove di esame.
+
+Art. 417. - Alla scuola di specializzazione vengono ammessi i laureati in medicina e chirurgia, ai quali, dopo il superamento dell'esame finale, sara' rilasciato il diploma di specializzazione in patologia generale.
+
+Art. 418. - Alla scuola stessa vengono inoltre ammessi i laureati in medicina veterinaria, in scienze biologiche, in scienze naturali, in farmacia, in chimica e tecnologie farmaceutiche, ai quali, dopo il superamento dell'esame finale, sara' rilasciato il diploma di specializzazione in patologia generale con indirizzo tecnico.
+
+Art. 419. - Il numero complessivo degli iscritti non potra' essere superiore ad ottanta per i quattro anni di corso.
+
+Art. 420. - Le materie di insegnamento sono le seguenti:
+
+PRIMO BIENNIO
+
+(propedeutico)
+
+1° Anno:
+
+istituzioni di patologia generale;
+
+patologia delle infezioni;
+
+epidemiologia e patologia ambientale;
+
+immunologia;
+
+parassitologia e diagnostica parassitologica.
+
+2° Anno:
+
+radiobiologia e patologia da radiazioni;
+
+oncologia generale;
+
+immunopatologia e analisi immunologiche;
+
+analisi chimico-cliniche;
+
+fisiopatologia generale I (metabolismo e sistema endocrino).
+
+SECONDO BIENNIO
+
+(conseguimento del diploma di specializzazione in patologia generale)
+
+3° Anno:
+
+diagnostica di laboratorio di citopatologia e citogenetica;
+
+diagnostica di laboratorio di batteriologia e virologia;
+
+fisiopatologia generale II (termoregolazione, sistema cardiocircolatorio, sangue ed organi emopoietici).
+
+4° Anno:
+
+diagnostica oncologica;
+
+diagnostica istopatologica;
+
+diagnostica ultrastrutturale;
+
+fisiopatologia generale III (fegato, sistema digerente, renale, respiratorio).
+
+SECONDO BIENNIO
+
+(conseguimento del diploma di specializzazione in patologia generale con indirizzo tecnico)
+
+3° Anno:
+
+tecniche di batteriologia;
+
+tecniche di virologia;
+
+tecniche di citologia e citogenetica.
+
+4° Anno:
+
+statistica e biometria;
+
+colture in vitro: aspetti biologici ed applicativi;
+
+tecniche ematologiche;
+
+tecniche istologiche ed ultrastrutturali.
+
+Art. 421. - Il direttore puo' stabilire, per un piu' proficuo conseguimento dei fini della scuola, che siano tenuti corsi complementari e conferenze su materie ed argomenti che abbiano attinenza o affinita' con gli insegnamenti impartiti nella scuola stessa.
+
+Art. 422. - Per conseguire il diploma di specializzazione, al termine del corso quadriennale, oltre ad aver superato tutti gli esami delle singole materie, e' obbligatorio sostenere l'esame finale su una dissertazione scritta, preferibilmente di carattere sperimentale.
+
+Scuola di specializzazione in neurofisiopatologia
+
+Art. 423. - La scuola di specializzazione in neurofisiopatologia ha sede presso la facolta' di medicina e chirurgia e conferisce il diploma di specializzazione in neurofisiopatologia.
+
+Art. 424. - La durata del corso e' di tre anni accademici.
+
+Art. 425. - Il numero massimo degli allievi iscrivibili e' di trenta complessivamente per l'intero corso di studi.
+
+Art. 426. - Gli insegnamenti impartiti nella scuola sono:
+
+1° Anno:
+
+neuroanatomia;
+
+neurofisiologia;
+
+elementi di fisica ed elettronica biomedica;
+
+informatica e statistica biomedica;
+
+neurochimica;
+
+neurofarmacologia.
+
+2° Anno:
+
+neurofisiopatologia I;
+
+neurologia clinica;
+
+psichiatria clinica;
+
+neurochirurgia;
+
+neuroradiologia;
+
+elettroencefalografia I.
+
+3° Anno:
+
+neurofisiopatologia II;
+
+elettroencefalografia II;
+
+elettromiografia;
+
+tecniche speciali di diagnostica strumentale del sistema nervoso;
+
+elettrodiagnostica ed elettroterapia.
+
+Art. 427. - Per le discipline svolte in corsi pluriennali l'esame deve essere sostenuto anno per anno.
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 31 ottobre 1978
+
+PERTINI
+
+PEDINI
+
+Visto, il Guardasigilli: BONIFACIO
+
+Registrato
+----------
+
+alla Corte dei conti, addi' 23 aprile 1979 Registro n. 27 Istruzione, foglio n. 36
+
+Art. 1
+------
+
+ IL PRESIDENTE DELLA REPUBBLICA  
   
-Art. 38 - nell'elenco degli insegnamenti complementari del corso di laurea in economia e commercio sono inserite le seguenti discipline: contabilita' dei costi e programmazione aziendale;  
-diritto fallimentare e delle altre procedure concorsuali;  
-diritto sindacale;  
-diritto urbanistico;  
-economia e politica del lavoro;  
-economia e politica dello sviluppo economico;  
-economia e politica industriale;  
-economia e politica monetaria;  
-economia e tecnica dei mercati mobiliari;  
-economia matematica;  
-economia politica (corso progredito);  
-economia regionale;  
-elaborazione automatica per l'analisi economica;  
-finanza aziendale;  
-finanza degli enti locali;  
-organizzazione aziendale;  
-programmazione economica;  
-schemi contabili per l'analisi economica;  
-sistemi economici comparati;  
-sistemi fiscali comparati;  
-statistica economica;  
-tecnica della revisione aziendale.  
-L'art. 39 e' soppresso e sostituito come segue:  
-Art. 39 - Gli insegnamenti di istituzioni di diritto privato e di istituzioni di diritto pubblico sono considerati propedeutici a tutti gli altri insegnamenti di diritto.  
-L'economia politica e' considerata propedeutica alla scienza delle finanze e diritto finanziario, all'economia e politica agraria, alla storia economica, alla politica economica e finanziaria, alla economia dei trasporti, all'economia internazionale, all'econometria, all'economia e finanza della sicurezza sociale, alla storia sociale, agli schemi contabili per l'analisi economica, all'economia e politica del lavoro, all'economia e politica industriale, all'economia matematica, all'economia e politica monetaria, all'economia regionale, alla programmazione economica, ai sistemi economici comparati, all'economia e politica dello sviluppo economico, alla economia politica (corso progredito).  
-L'economia politica primo anno e' propedeutica all'economia e finanza delle imprese di assicurazione, all'economia e tecnica dell'armamento e della navigazione, alla storia delle dottrine economiche, all'economia e tecnica industriale.  
-La statistica primo anno e' propedeutica alla politica economica e finanziaria, alla scienza delle finanze e diritto finanziario, all'econometria, alla demografia, alla ricerca operativa, agli schemi contabili per l'analisi economica, all'economia matematica, alla programmazione economica, alla statistica economica.  
-La matematica generale e' considerata propedeutica alla matematica finanziaria, alla statistica, all'economia politica secondo anno, alla ricerca operativa, all'economia matematica, all'elaborazione automatica per l'analisi economica.  
-La ragioneria generale ed applicata primo anno e' considerata propedeutica a tutti gli insegnamenti la cui denominazione inizia con il vocabolo "tecnica" ovvero i vocaboli "economia e tecnica". La stessa ragioneria primo anno e' inoltre considerata propedeutica all'economia e finanza delle imprese di assicurazione, alla ragioneria delle imprese marittime, alla ragioneria degli enti pubblici, alla contabilita' dei costi e programmazione aziendale, alla finanza aziendale, all'organizzazione aziendale, all'organizzazione del lavoro.  
-La scienza delle finanze e diritto finanziario e' considerata propedeutica al diritto tributario, alla politica economica e finanziaria, all'economia e finanza della sicurezza sociale, alla finanza degli enti locali, ai sistemi fiscali comparati.  
-Per ciascuno dei gruppi sopra indicati debbono essere superati prima gli esami sugli insegnamenti propedeutici.  
-L'art. 41 e' soppresso e sostituito come segue:  
-Art. 41 - l'esame di laurea consiste nella discussione di una dissertazione scritta e di due tesi da esporre oralmente.  
-La commissione di laurea puo' dispensare il candidato dalla discussione di una delle due tesi orali. Gli argomenti della dissertazione scritta e delle due tesi orali debbono essere comunicati dal candidato alla segreteria, previa approvazione dei professori della materia, entro il termine stabilito dal consiglio di facolta'.  
-Le dissertazioni e le tesi orali devono vertere su argomenti appartenenti a gruppi diversi di materie. A tal fine le materie si intendono ripartite in tre gruppi:  
-1) Tecnico:  
-contabilita' dei costi e programmazione aziendale;  
-economia e tecnica dei mercati mobiliari;  
-economia e tecnica dell'armamento e della navigazione;  
-economia e tecnica industriale;  
-elaborazione automatica per l'analisi economica;  
-finanza aziendale;  
-matematica finanziaria;  
-matematica generale;  
-merceologia;  
-organizzazione aziendale;  
-organizzazione del lavoro;  
-ragioneria degli enti pubblici;  
-ragioneria delle imprese marittime;  
-ragioneria generale ed applicata;  
-ricerca operativa;  
-tecnica amministrativa delle imprese marittime;  
-tecnica bancaria e professionale;  
-tecnica del commercio internazionale;  
-tecnica della revisione aziendale;  
-tecnica delle ricerche di mercato e della distribuzione generale;  
-tecnica industriale e commerciale;  
-tecnologia dei cicli produttivi.  
-2) Giuridico:  
-diritto amministrativo;  
-diritto commerciale;  
-diritto comunitario;  
-diritto della navigazione;  
-diritto del lavoro;  
-diritto e tecnica delle assicurazioni marittime;  
-diritto fallimentare e delle altre procedure concorsuali;  
-diritto industriale;  
-diritto internazionale;  
-diritto processuale civile;  
-diritto pubblico dell'economia;  
-diritto sindacale;  
-diritto tributario;  
-diritto urbanistico;  
-istituzioni di diritto privato;  
-istituzioni di diritto pubblico;  
-legislazione bancaria.  
-3) Economico:  
-demografia;  
-econometria;  
-economia dei trasporti;  
-economia e finanza della sicurezza sociale;  
-economia e finanza delle imprese di assicurazione;  
-economia e politica agraria;  
-economia e politica del lavoro;  
-economia e politica dello sviluppo economico;  
-economia e politica industriale;  
-economia internazionale;  
-economia matematica;  
-economia e politica monetaria;  
-economia politica;  
-economia politica (corso progredito);  
-economia regionale;  
-finanza degli enti locali;  
-geografia economica;  
-geografia regionale;  
-politica economica e finanziaria;  
-programmazione economica;  
-schemi contabili per l'analisi economica;  
-scienza delle finanze e diritto finanziario;  
-sistemi economici comparati;  
-sistemi fiscali comparati;  
-statistica;  
-statistica economica;  
-storia delle dottrine economiche;  
-storia economica;  
-storia sociale.  
+Veduto lo statuto dell'Universita' di Genova, approvato con [regio decreto 7 ottobre 1926, n. 2054](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-07;2054), e modificato con [regio decreto 13 ottobre 1927, n. 2846](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2846), e successive modificazioni;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Genova e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;  
+Sentito il parere del Consiglio superiore della pubblica istruzione;  
+Sulla proposta del Ministro della pubblica istruzione;  
+  
+Decreta:  
+  
+Lo statuto dell'Universita' degli studi di Genova, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+Art. 155 - all'elenco delle scuole di specializzazione annesse alla facolta' di medicina e chirurgia sono aggiunte le scuole di specializzazione in patologia generale e in neurofisiopatologia.  
+Il secondo comma dell'art. 297, relativo alla scuola di specializzazione in igiene e medicina preventiva, di cui al [decreto del Presidente della Repubblica 31 ottobre 1977, n. 1140](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1977-10-31;1140), e' soppresso e sostituito dal seguente:  
+  
+Il numero massimo di allievi iscrivibili e' di trenta per ogni anno di corso.  
+Gli articoli 394, 395, 396, 397, 398, 399, 400, 401 e 402, relativi alla scuola di specializzazione in medicina nucleare, sono soppressi e sostituiti dai seguenti, con il conseguente spostamento della numerazione degli articoli successivi:  
+  
+Scuola di specializzazione in medicina nucleare  
+  
+Art. 394. - La scuola di specializzazione in medicina nucleare ha sede presso l'istituto scientifico di medicina interna della facolta' di medicina e chirurgia.  
+Art. 395. - La scuola conferisce il diploma di specializzazione in medicina nucleare.  
+Gli anni di studio necessari per conseguire detto diploma sono tre.  
+Art. 396. - Gli insegnamenti per il conseguimento del diploma di specializzazione in medicina nucleare sono cosi' distribuiti nei tre anni di corso:  
+1° Anno:  
+fisica: con richiami di matematica, nozioni di statistica, informatica e dosimetria;  
+radiobiologia, legislazione e norme generali di radioprotezione;  
+tecnica di acquisizione e memorizzazione dei dati, fotodocumentazione e archiviazione;  
+nozioni di anatomia e fisiologia generale.  
+2° Anno:  
+teoria dei traccianti;  
+elementi di radiochimica;  
+applicazioni diagnostiche I;  
+tecniche di misure di radioattivita'.  
+3° Anno:  
+applicazioni diagnostiche II;  
+applicazioni terapeutiche;  
+radioprotezione e legislazione applicate.  
+Art. 397. - I singoli insegnamenti saranno tenuti da uno o piu' docenti a seconda di quanto opportuno al loro miglior svolgimento.  
+Art. 398. - Il numero massimo di allievi iscrivibili in corso e' di quindici complessivamente.  
+Art. 399. - La frequenza pratica e' obbligatoria (dieci mesi all'anno) e deve avvenire in reparti riconosciuti idonei dal consiglio della scuola.  
+L'insegnamento verra' svolto mediante lezioni, esercitazioni, seminari, conferenze, corsi di aggiornamento aperti anche a specialisti, ecc. Gli allievi, per essere ammessi a sostenere gli esami di profitto annuali dovranno avere la firma di frequenza da parte del direttore della scuola.  
+Art. 400. - Gli allievi per conseguire il diploma di specializzazione, oltre ad essere stati approvati in tutti gli esami, dovranno elaborare e discutere una tesi scritta su un argomento concordato con il direttore della scuola.  
+Dopo l'art. 415, e con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi alla istituzione della scuola di specializzazione in patologia generale e in neurofisiopatologia.  
+  
+Scuola di specializzazione in patologia generale  
+  
+Art. 416. - La scuola di specializzazione in patologia generale ha sede presso l'istituto di patologia generale della facolta' di medicina e chirurgia.  
+Il corso degli studi ha la durata di quattro anni, suddiviso in due bienni.  
+Gli allievi che non conseguono le attestazioni di frequenza non potranno essere ammessi a sostenere le singole prove di esame.  
+Art. 417. - Alla scuola di specializzazione vengono ammessi i laureati in medicina e chirurgia, ai quali, dopo il superamento dell'esame finale, sara' rilasciato il diploma di specializzazione in patologia generale.  
+Art. 418. - Alla scuola stessa vengono inoltre ammessi i laureati in medicina veterinaria, in scienze biologiche, in scienze naturali, in farmacia, in chimica e tecnologie farmaceutiche, ai quali, dopo il superamento dell'esame finale, sara' rilasciato il diploma di specializzazione in patologia generale con indirizzo tecnico.  
+Art. 419. - Il numero complessivo degli iscritti non potra' essere superiore ad ottanta per i quattro anni di corso.  
+Art. 420. - Le materie di insegnamento sono le seguenti:  
+  
+PRIMO BIENNIO  
+(propedeutico)  
+  
+1° Anno:  
+istituzioni di patologia generale;  
+patologia delle infezioni;  
+epidemiologia e patologia ambientale;  
+immunologia;  
+parassitologia e diagnostica parassitologica.  
+2° Anno:  
+radiobiologia e patologia da radiazioni;  
+oncologia generale;  
+immunopatologia e analisi immunologiche;  
+analisi chimico-cliniche;  
+fisiopatologia generale I (metabolismo e sistema endocrino).  
+  
+SECONDO BIENNIO  
+(conseguimento del diploma di specializzazione in patologia generale)   
+3° Anno:  
+diagnostica di laboratorio di citopatologia e citogenetica;  
+diagnostica di laboratorio di batteriologia e virologia;  
+fisiopatologia generale II (termoregolazione, sistema cardiocircolatorio, sangue ed organi emopoietici).  
+4° Anno:  
+diagnostica oncologica;  
+diagnostica istopatologica;  
+diagnostica ultrastrutturale;  
+fisiopatologia generale III (fegato, sistema digerente, renale, respiratorio).  
+  
+SECONDO BIENNIO  
+(conseguimento del diploma di specializzazione in patologia generale con indirizzo tecnico)  
+  
+3° Anno:  
+tecniche di batteriologia;  
+tecniche di virologia;  
+tecniche di citologia e citogenetica.  
+4° Anno:  
+statistica e biometria;  
+colture in vitro: aspetti biologici ed applicativi;  
+tecniche ematologiche;  
+tecniche istologiche ed ultrastrutturali.  
+Art. 421. - Il direttore puo' stabilire, per un piu' proficuo conseguimento dei fini della scuola, che siano tenuti corsi complementari e conferenze su materie ed argomenti che abbiano attinenza o affinita' con gli insegnamenti impartiti nella scuola stessa.  
+Art. 422. - Per conseguire il diploma di specializzazione, al termine del corso quadriennale, oltre ad aver superato tutti gli esami delle singole materie, e' obbligatorio sostenere l'esame finale su una dissertazione scritta, preferibilmente di carattere sperimentale.  
+  
+Scuola di specializzazione in neurofisiopatologia  
+  
+Art. 423. - La scuola di specializzazione in neurofisiopatologia ha sede presso la facolta' di medicina e chirurgia e conferisce il diploma di specializzazione in neurofisiopatologia.  
+Art. 424. - La durata del corso e' di tre anni accademici.  
+Art. 425. - Il numero massimo degli allievi iscrivibili e' di trenta complessivamente per l'intero corso di studi.  
+Art. 426. - Gli insegnamenti impartiti nella scuola sono:  
+1° Anno:  
+neuroanatomia;  
+neurofisiologia;  
+elementi di fisica ed elettronica biomedica;  
+informatica e statistica biomedica;  
+neurochimica;  
+neurofarmacologia.  
+2° Anno:  
+neurofisiopatologia I;  
+neurologia clinica;  
+psichiatria clinica;  
+neurochirurgia;  
+neuroradiologia;  
+elettroencefalografia I.  
+3° Anno:  
+neurofisiopatologia II;  
+elettroencefalografia II;  
+elettromiografia;  
+tecniche speciali di diagnostica strumentale del sistema nervoso;  
+elettrodiagnostica ed elettroterapia.  
+Art. 427. - Per le discipline svolte in corsi pluriennali l'esame deve essere sostenuto anno per anno.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 28 ottobre 1982
+### Dato a Roma, addi' 31 ottobre 1978
 
-PERTINI BODRATO
+PERTINI PEDINI
 
-Visto, il Guardasigilli: DARIDA
+Visto, il Guardasigilli: BONIFACIO
 
-Registrato alla Corte dei conti, addi' 25 febbraio 1983
+Registrato alla Corte dei conti, addi' 23 aprile 1979
 
-Registro n. 14 Istruzione, foglio n. 16
+Registro n. 27 Istruzione, foglio n. 36

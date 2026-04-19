@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 maggio 1971 n. 459
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 20 luglio 1979 n. 524
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 maggio 1971 n. 459
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 20 luglio 1979 n. 524
 =============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Lecce.
@@ -10,9 +10,9 @@ Modificazioni allo statuto dell'Universita' degli studi di Lecce.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' degli studi di Lecce approvato con [decreto del Presidente della Repubblica 22 giugno 1968, n. 1200](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1968-06-22;1200) e modificato con [decreto del Presidente della Repubblica 10 settembre 1969, n. 764](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1969-09-10;764);
+Veduto lo statuto dell'Universita' di Lecce, approvato con [decreto del Presidente della Repubblica 22 giugno 1968, n. 1200](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1968-06-22;1200) e modificato con [decreto del Presidente della Repubblica 10 settembre 1969, n. 764](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1969-09-10;764), e successive modificazioni;
 
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
 
@@ -20,229 +20,135 @@ Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/ur
 
 Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
 
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;
+Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Lecce e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;
 
 Sentito il parere del Consiglio superiore della pubblica istruzione;
 
-Sulla proposta del Ministro per la pubblica istruzione;
+Sulla
+-----
 
-Decreta:
+proposta del Ministro della pubblica istruzione. Decreta:
 
-Lo statuto dell'Universita' degli studi di Lecce, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+Articolo unico
+--------------
 
-Art. 14. - All'elenco degli insegnamenti complementari del corso di laurea in lettere sono aggiunti i seguenti:
-
-Antichita' preclassiche della Puglia;
-
-Storia della lingua latina;
-
-Storia della lingua greca;
-
-Filologia micenea;
-
-Storia delle religioni del mondo classico;
-
-Linguistica generale;
-
-Dialettologia italiana;
-
-Letteratura ispano-americana;
-
-Filologia slava;
-
-Filologia e critica dantesca;
-
-Geografia antropica ed economica;
-
-Storia dell'arte contemporanea;
-
-Storia dell'urbanistica;
-
-Storia del teatro e dello spettacolo;
-
-Storia del cinema;
-
-Storia e tecnica del restauro.
-
-Art. 15. - All'elenco degli insegnamenti complementari del corso di laurea in filosofia sono aggiunti i seguenti:
-
-Sociologia;
-
-Filosofia della scienza;
-
-Logica ed epistemologia;
-
-Psicologia dell'eta' evolutiva;
-
-Storia della scienza e della tecnica;
-
-Storia delle religioni del mondo classico;
-
-Geografia antropica ed economica.
-
-Art. 25. - All'elenco degli insegnamenti complementari del corso di laurea in materie letterarie sono aggiunti i seguenti:
-
-Dialettologia italiana;
-
-Storia dell'arte medievale;
-
-Storia dell'arte contemporanea;
-
-Linguistica generale;
-
-Storia della critica letteraria;
-
-Storia contemporanea;
-
-Storia e istituzioni dei Paesi afroasiatici;
-
-Geografia economica;
-
-Filologia italiana;
-
-Storia e civilta' dell'estremo oriente.
-
-Nel predetto corso di laurea l'insegnamento complementare di "civilta' dell'oriente antico" e' soppresso e sostituito da quello di "storia e civilta' del vicino e medio oriente".
-
-Art. 29, relativo al corso di laurea in materie letterarie e' abrogato e sostituito dal seguente:
-
-"L'esame di laurea consiste in una dissertazione scritta di argomento scelto nell'ambito dell'indirizzo indicato nel piano di studi approvato dalla facolta', presentata e discussa nei modi previsti dagli articoli 17 e 18".
-
-Art. 32. - All'elenco degli insegnamenti complementari del corso di laurea in pedagogia sono aggiunti i seguenti:
-
-Storia contemporanea;
-
-Dialettologia italiana;
-
-Filologia italiana;
-
-Filosofia del linguaggio;
-
-Storia della scienza.
-
-Art. 36, relativo al corso di laurea in pedagogia e' abrogato e sostituito dal seguente:
-
-"L'esame di laurea consiste in una dissertazione scritta di argomento scelto nell'ambito dell'indirizzo indicato nel piano di studi approvato dalla facolta', presentata e discussa nei modi previsti dagli articoli 17 e 18".
-
-Art. 38. - All'elenco degli insegnamenti complementari del corso di laurea in lingue e letterature straniere sono aggiunti i seguenti:
-
-Storia contemporanea;
-
-Dialettologia italiana;
-
-Filologia italiana;
-
-Letterature comparate;
-
-Linguistica generale;
-
-Linguistica applicata.
-
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
-
-Dato a Roma, addi' 11 maggio 1971
-
-SARAGAT
-
-MISASI
-
-Visto, il Guardasigilli: COLOMBO
-
-Registrato
-----------
-
-alla Corte dei conti, addi' 16 luglio 1971 Atti del Governo, registro n. 243, foglio n. 21. - VALENTINI
-
-Art. 1
-------
-
- IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Lecce approvato con [decreto del Presidente della Repubblica 22 giugno 1968, n. 1200](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1968-06-22;1200) e modificato con [decreto del Presidente della Repubblica 10 settembre 1969, n. 764](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1969-09-10;764);  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
-Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro per la pubblica istruzione;  
+Dopo l'art. 69 dello statuto dell'Universita' di Lecce sono inseriti i seguenti nuovi articoli:  
   
-Decreta:  
+FACOLTA' DI LETTERE E FILOSOFIA  
   
-Lo statuto dell'Universita' degli studi di Lecce, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-Art. 14. - All'elenco degli insegnamenti complementari del corso di laurea in lettere sono aggiunti i seguenti:  
-  
-Antichita' preclassiche della Puglia;  
-Storia della lingua latina;  
-Storia della lingua greca;  
-Filologia micenea;  
-Storia delle religioni del mondo classico;  
-Linguistica generale;  
-Dialettologia italiana;  
-Letteratura ispano-americana;  
-Filologia slava;  
-Filologia e critica dantesca;  
-Geografia antropica ed economica;  
-Storia dell'arte contemporanea;  
-Storia dell'urbanistica;  
-Storia del teatro e dello spettacolo;  
-Storia del cinema;  
-Storia e tecnica del restauro.  
-Art. 15. - All'elenco degli insegnamenti complementari del corso di laurea in filosofia sono aggiunti i seguenti:  
-  
-Sociologia;  
-Filosofia della scienza;  
-Logica ed epistemologia;  
-Psicologia dell'eta' evolutiva;  
-Storia della scienza e della tecnica;  
-Storia delle religioni del mondo classico;  
-Geografia antropica ed economica.  
-Art. 25. - All'elenco degli insegnamenti complementari del corso di laurea in materie letterarie sono aggiunti i seguenti:  
-  
-Dialettologia italiana;  
-Storia dell'arte medievale;  
-Storia dell'arte contemporanea;  
-Linguistica generale;  
-Storia della critica letteraria;  
-Storia contemporanea;  
-Storia e istituzioni dei Paesi afroasiatici;  
-Geografia economica;  
-Filologia italiana;  
-Storia e civilta' dell'estremo oriente.  
-Nel predetto corso di laurea l'insegnamento complementare di "civilta' dell'oriente antico" e' soppresso e sostituito da quello di "storia e civilta' del vicino e medio oriente".  
-Art. 29, relativo al corso di laurea in materie letterarie e' abrogato e sostituito dal seguente:  
-"L'esame di laurea consiste in una dissertazione scritta di argomento scelto nell'ambito dell'indirizzo indicato nel piano di studi approvato dalla facolta', presentata e discussa nei modi previsti dagli articoli 17 e 18".  
-Art. 32. - All'elenco degli insegnamenti complementari del corso di laurea in pedagogia sono aggiunti i seguenti:  
-  
-Storia contemporanea;  
-Dialettologia italiana;  
-Filologia italiana;  
-Filosofia del linguaggio;  
-Storia della scienza.  
-Art. 36, relativo al corso di laurea in pedagogia e' abrogato e sostituito dal seguente:  
-"L'esame di laurea consiste in una dissertazione scritta di argomento scelto nell'ambito dell'indirizzo indicato nel piano di studi approvato dalla facolta', presentata e discussa nei modi previsti dagli articoli 17 e 18".  
-Art. 38. - All'elenco degli insegnamenti complementari del corso di laurea in lingue e letterature straniere sono aggiunti i seguenti:  
-  
-Storia contemporanea;  
-Dialettologia italiana;  
-Filologia italiana;  
-Letterature comparate;  
-Linguistica generale;  
-Linguistica applicata.  
+Scuola di specializzazione in archeologia classica e medioevale  
+Art. 70. - E' istituita presso la facolta' di lettere e filosofia una scuola di specializzazione in archeologia classica e medioevale.  
+Scopo della scuola e' di curare la preparazione scientifica e l'addestramento tecnico-pratico dei giovani laureati che intendono dedicarsi agli studi di archeologia, in particolare modo nel settore delle soprintendenze ai beni archeologici e dei musei.  
+Art. 71. - La scuola ha la durata di due anni e ad essa possono iscriversi i laureati in lettere ed in materie letterarie, previo colloquio di ammissione nel quale ciascun candidato dimostri, fra l'altro, una sufficiente conoscenza di almeno due lingue straniere moderne scelte tra l'inglese, il francese, il tedesco.  
+Art. 72. - Gli insegnamenti della scuola sono:  
+1) antichita' medioevali;  
+2) archeologia della Magna Grecia e della Sicilia antica;  
+3) archeologia e storia dell'arte greca;  
+4) archeologia e storia dell'arte romana;  
+5) archeologia e storia dell'arte tardo-antica e medioevale;  
+6) archeologia medioevale;  
+7) epigrafia e antichita' greche;  
+8) epigrafia e antichita' romane;  
+9) etruscologia e antichita' romane;  
+10) filologia bizantina;  
+11) filologia classica;  
+12) geografia antica;  
+13) istituzioni medioevali;  
+14) letteratura latina medioevale;  
+15) numismatica antica e medioevale;  
+16) paletnologia;  
+17) protostoria mediterranea;  
+18) storia bizantina;  
+19) storia del diritto medioevale italiano;  
+20) storia del diritto romano;  
+21) storia dell'arte bizantina;  
+22) storia della filosofia medioevale;  
+23) storia greca;  
+24) storia medioevale;  
+25) storia orientale antica;  
+26) storia romana;  
+27) storia dello scavo e del restauro archeologico;  
+28) topografia dell'Italia medioevale.  
+La scuola consta dei seguenti indirizzi di studio:  
+a) classico;  
+b) medioevale.  
+I corsi danno adito al conferimento, relativamente agli indirizzi sopra enunciati, del diploma in:  
+a) archeologia classica;  
+b) archeologia medioevale.  
+L'ordine degli studi della scuola e' il seguente:  
+A) Indirizzo classico:  
+1° Anno:  
+corsi fondamentali:  
+1) archeologia e storia dell'arte romana (I corso);  
+2) archeologia e storia dell'arte greca (I corso);  
+3) storia greca;  
+4) storia romana;  
+5) topografia dell'Italia antica;  
+6) archeologia della Magna Grecia e della Sicilia antica (I corso);  
+7) tecnica dello scavo e del restauro archeologico (I corso); corsi complementari:  
+1) etruscologia;  
+2) paletnologia  
+3) geografia antica.  
+2° Anno:  
+corsi fondamentali:  
+1) archeologia e storia dell'arte greca (II corso);  
+2) archeologia e storia dell'arte romana (II corso);  
+3) archeologia della Magna Grecia e della Sicilia antica (II corso);  
+4) tecnica dello scavo e del restauro archeologico (II corso);  
+5) epigrafia e antichita' romane;  
+corsi complementari:  
+1) numismatica antica e medioevale;  
+2) protostoria mediterranea;  
+3) filologia classica.  
+B) Indirizzo medioevale:  
+1° Anno:  
+corsi fondamentali:  
+1) archeologia medioevale (I corso);  
+2) storia medioevale (I corso);  
+3) topografia dell'Italia medioevale;  
+4) istituzioni medioevali;  
+5) antichita' medioevali;  
+6) letteratura latina medioevale;  
+7) tecnica dello scavo e del restauro archeologico (I corso); corsi complementari:  
+1) epigrafia e antichita' romane;  
+2) geografia antica;  
+3) storia del diritto medioevale italiano.  
+2° Anno:  
+corsi fondamentali:  
+1) archeologia medioevale (II corso);  
+2) storia medioevale (II corso);  
+3) tecnica dello scavo e del restauro archeologico (II corso);  
+4) numismatica antica e medioevale;  
+5) storia bizantina;  
+6) storia dell'arte bizantina;  
+corsi complementari:  
+1) filologia bizantina;  
+2) storia della filosofia medioevale.  
+Di ognuno degli insegnamenti, a tutti gli effetti, sono considerate integrative le attivita' sperimentali e pratiche, come la partecipazione a campagne di scavo organizzate dalla scuola e/o in collaborazione con altri enti, la catalogazione di materiale archeologico di collezioni pubbliche e private, il rilievo archeologico e monumentale, il disegno, la fotografia e il restauro.  
+Art. 73. - Ciascun iscritto alla scuola, all'inizio del primo anno di corso dovra' scegliere, d'accordo con il consiglio della scuola, un tema di studio da svolgere, nel periodo di due anni accademici prescritti, nella forma di una dissertazione scritta originale. La frequenza ai corsi e' obbligatoria, cosi' come e' obbligatoria la partecipazione ai seminari, alle esercitazioni e a tutte le altre attivita' organizzate nell'ambito dei corsi.  
+Per essere ammesso all'esame di diploma, l'iscritto alla scuola deve aver superato oltre gli esami fondamentali previsti dall'ordine degli studi i seguenti esami complementari: indirizzo classico n. 6 esami; indirizzo medioevale n. 5 esami.  
+L'esame di diploma consiste nella discussione della dissertazione scritta elaborata nel biennio di specializzazione. Tale dissertazione dovra' avere dignita' di stampa, e, dopo il conseguimento del diploma, sara' edita nella serie di pubblicazioni della facolta'.  
+Art. 74. - Le commissioni per gli esami annuali sono composte da cinque docenti della scuola, la commissione dell'esame di diploma e' nominata dal rettore dell'Universita' su proposta del consiglio della scuola ed e' composta da docenti della scuola stessa, fra cui il relatore, ed e' presieduta dal direttore della scuola stessa; se l'argomento della dissertazione lo fa ritenere opportuno puo' essere chiamato a far parte della commissione anche un docente di altra facolta' o scuola o cultore della materia di riconosciuta competenza.  
+Ogni membro della commissione dispone di dieci punti; la lode viene conferita all'unanimita'.  
+Art. 75. - Il consiglio della scuola e' formato da cinque professori titolari di insegnamento previsti dal presente statuto, nominati dal rettore, su designazione del consiglio di facolta'. Il direttore, scelto tra i componenti il consiglio della scuola, e' nominato dal rettore su proposta del consiglio stesso.  
+Il direttore o i membri del consiglio della scuola durano in carica due anni e possono essere confermati.  
+Gli incarichi d'insegnamento sono conferiti annualmente dal rettore, su proposta del consiglio della scuola, a norma delle vigenti disposizioni.  
+Art. 76. - Le tasse di ammissione sono cosi' fissate:  
+immatricolazione L. 5.000, iscrizione L. 18.000, soprattassa esami L. 7.000, contributo riscaldamento L. 3.000, contributo attivita' assistenziali e sport L. 1.000, contributo esercitazioni L. 20.000, tassa di diploma L. 6.000.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 11 maggio 1971
+### Dato a Roma, addi' 20 luglio 1979
 
-SARAGAT MISASI
+PERTINI SPADOLINI
 
-Visto, il Guardasigilli: COLOMBO
+Visto, il Guardasigilli: MORLINO
 
-Registrato alla Corte dei conti, addi' 16 luglio 1971
+Registrato alla Corte dei conti, addi' 20 ottobre 1979
 
-Atti del Governo, registro n. 243, foglio n. 21. - VALENTINI
+Registro n. 76 Istruzione, foglio n. 29

@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 03 gennaio 1981 n. 55
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 maggio 1983 n. 292
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 03 gennaio 1981 n. 55
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 maggio 1983 n. 292
 =============================================================
 
 Autorizzazione all'Associazione italiana della Croce rossa, in Roma, ad accettare un legato.
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-55. Decreto del Presidente della Repubblica 3 gennaio 1981, col quale, sulla proposta del Ministro della sanita', l'Associazione italiana della Croce rossa, in Roma, viene autorizzata ad accettare il legato, consistente nella proprieta' della meta' di due case coloniche, di un lotto di terreno di circa mq 4000 nonche', sempre per la meta', di due appartamenti siti in Bogliasco, rispettivamente in via Mazzini n. 110-6 e in via 25 Aprile, disposta dal sig. Fortunato Migone con testamento olografo 25 ottobre 1974, pubblicato in data 18 settembre 1975, n. 82039 di repertorio, a rogito dott. Stefano Bianchi, notaio in Genova.  
+292. Decreto del Presidente della Repubblica 4 maggio 1983, col quale, sulla proposta del Ministro della sanita', l'Associazione italiana della Croce rossa, in Roma, viene autorizzata ad accettare il legato, consistente nella somma di L. 100.000, disposto dalla sig.ra Adele Pomella con testamento olografo 5 aprile 1970, pubblicato in data 8 novembre 1979, n. 686 di repertorio, a rogito dott. Roberto Priano, notaio in Torino, registrato a Torino in data 22 novembre 1979 al n. 51836/143.  
   
-Visto, il Guardasigilli: SARTI  
-Registrato alla Corte dei conti, addi' 26 febbraio 1981  
-Registro n. 2 Sanita', foglio n. 218
+Visto, il Guardasigilli: DARIDA  
+Registrato alla Corte dei conti, addi' 4 giugno 1983  
+Registro n. 4 Sanita', foglio n. 370

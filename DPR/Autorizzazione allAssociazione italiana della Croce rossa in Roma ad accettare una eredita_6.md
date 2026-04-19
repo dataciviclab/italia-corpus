@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 03 gennaio 1981 n. 56
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 16 dicembre 1982 n. 1138
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 03 gennaio 1981 n. 56
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 16 dicembre 1982 n. 1138
+================================================================
 
 Autorizzazione all'Associazione italiana della Croce rossa, in Roma, ad accettare una eredita'.
 -----------------------------------------------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-56. Decreto del Presidente della Repubblica 3 gennaio 1981, col quale, sulla proposta del Ministro della sanita', l'Associazione italiana della Croce rossa, in Roma, viene autorizzata ad accettare, con beneficio d'inventario, l'eredita', disposta dal sig. Francesco Pedemonte con testamento olografo 30 dicembre 1974, pubblicato in data 2 settembre 1975, n. 199183/20098 di repertorio, a rogito dott. ubaldo De Felici, notaio in Genova, con l'obbligo di provvedere alle sue esequie ed all'acquisto di un loculo presso il cimitero di Campomorone.  
+1138. Decreto del Presidente della Repubblica 16 dicembre 1982, col quale, sulla proposta del Ministro della sanita', l'Associazione italiana della Croce rossa, in Roma, viene autorizzata ad accettare, con beneficio d'inventario, l'eredita', consistente in libretti di risparmio, azioni societarie e conto corrente provvisorio, del valore di L. 14.000.000, disposta dal signor Angelo Campi con testamento olografo 7 luglio 1977, pubblicato in data 8 giugno 1972, n. 65245/18657 di repertorio, a rogito dott. Giorgio Giuriani, notaio in Como, registrato a Como in data 27 giugno 1972 al n. 3144.  
   
-Visto, il Guardasigilli: SARTI  
-Registrato alla Corte dei conti, addi' 26 febbraio 1981  
-Registro n. 2 Sanita', foglio n. 220
+Visto, il Guardasigilli: DARIDA  
+Registrato alla Corte dei conti, addi' 4 marzo 1983  
+Registro n. 2 Sanita', foglio n. 273

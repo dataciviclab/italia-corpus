@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 agosto 1951 n. 900
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 novembre 1951 n. 1242
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 agosto 1951 n. 900
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 novembre 1951 n. 1242
+================================================================
 
 Trasferimento in proprieta' all'Opera per la valorizzazione della Sila di terreni di proprieta' di Passalacqua Enrico Fabio fu Giuseppe, in comune di San Giovanni in Fiore (Cosenza).
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -16,7 +16,7 @@ Vista la [legge 12 maggio 1950, n. 230 e l'art. 16](http://www.normattiva.it/uri
 
 In virtu' della delegazione concessa con l'[art. 5 della legge 12 maggio 1950, n. 230](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1950-05-12;230~art5);
 
-Udito il parere, in data 5 luglio 1951, della Commissione parlamentare, nominata a norma dell'[art. 5 della legge 12 maggio 1950, n. 230](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1950-05-12;230~art5), la quale ha esaminato il piano particolareggiato di espropriazione, compilato dall'Opera per la valorizzazione della Sila, per i terreni ricadenti nel comune di San Giovanni in Fiore (Cosenza), della superficie di Ha. 64.64.60, nei confronti di Passalacqua Enrico Fabio fu Giuseppe;
+Udito il parere, in data 11 settembre 1951, della Commissione parlamentare, nominata a norma dell'[art. 5 della legge 12 maggio 1950, n. 230](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1950-05-12;230~art5), la quale ha esaminato il piano particolareggiato di espropriazione, compilato dall'Opera per la valorizzazione della Sila, per i terreni ricadenti nel comune di San Giovanni in Fiore (provincia di Cosenza) della superficie di Ha. 331.84.47, nei confronti di Passalacqua Enrico Fabio fu Giuseppe;
 
 Sentito il Consiglio dei Ministri;
 
@@ -29,56 +29,48 @@ Art. 1
 ------
 
   
-E' approvato il piano particolareggiato di espropriazione, compilato dall'Opera per la valorizzazione della Sila, per i terreni ricadenti nel comune di San Giovanni in Fiore (Cosenza), della superficie di Ha. 64.64.60, nei confronti di Passalacqua Enrico Fabio fu Giuseppe.  
+E' approvato il piano particolareggiato di espropriazione, compilato dall'Opera per la valorizzazione della Sila, per i terreni ricadenti nel comune di San Giovanni in Fiore (provincia di Cosenza), della superficie di Ha. 331.84.47, nei confronti di Passalacqua Enrico Fabio fu Giuseppe.  
 
 Art. 2
 ------
 
   
-E' ordinata la immediata occupazione, da parte dell'Opera per la valorizzazione della Sila, dei terreni, di cui al precedente art. 1, confinanti:  
-il primo corpo, della superficie di Ha. 17.25.50, a nord-ovest, con il fiume Arvo; ad est, con la comunale di Serralunga; a sud, con la proprieta' di Romei Luigi Andrea;  
-il secondo corpo, della superficie di Ha. 21.61.80, ad ovest, con la comunale di Serralunga; a nord, con il fiume Arvo; ad est e a sud, con la comunale Salicone-Serralunga;  
-il terzo corpo, della superficie di Ha. 4.63.30, a nord, con il fiume Arvo; a sud-est, con la comunale Salicone-Serralunga; ad ovest, con la proprieta' di Passalacqua Enrico Fabio;  
-il quarto corpo, della superficie di Ha. 21.14.00, a nord, con la comunale Salicone-Serralunga; ad est, con il fiume Arvo; a sud, con la proprieta' di Romei Luigi Andrea; ad ovest, con la proprieta' di Passalacqua, Enrico Fabio.  
+I terreni, indicati nel precedente articolo e specificamente designati nell'elenco unito al presente decreto, sono trasferiti in proprieta' all'Opera per la valorizzazione della Sila.  
 
 Art. 3
 ------
 
   
-I terreni di cui sopra sono trasferiti in proprieta' all'Opera per la valorizzazione della Sila.  
+E' ordinata la immediata occupazione, da parte dell'Opera per la valorizzazione della Sila, dei terreni indicati nei precedenti articoli 1 e 2.  
 
 Art. 4
 ------
 
   
-L'elenco dei terreni, compresi nel piano di espropriazione di cui all'art. 1, con l'indicazione dell'indennita' offerta, munito del visto del Ministro proponente, forma parte integrante del presente decreto, che entra in vigore il giorno stesso della sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana.  
+L'elenco dei terreni, con l'indicazione dell'indennita' di espropriazione offerta, munito del visto del Ministro proponente, forma parte integrante del presente decreto, che entra in vigore il giorno stesso della sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana.  
   
-
-((Dato a Gressoney, addi' 30 agosto 1951))
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### ((Dato a Gressoney, addi' 30 agosto 1951))
+### Dato a Roma, addi' 4 novembre 1951
 
 EINAUDI DE GASPERI - FANFANI
 
-Visto, il Guardasigilli: ZOLI Registrato alla
+Visto, il Guardasigilli: ZOLI
 
-Corte dei conti, addi' 13 settembre 1951
+Registrato alla Corte dei conti, addi' 26 novembre 1951
 
-Atti del Governo,
-
-registro n. 43, foglio n. 24. - CARLOMAGNO
+Atti del Governo, registro n. 46, foglio n. 14. - FRASCA
 
 Elenco
 
  COMUNE DI SAN GIOVANNI IN FIORE (Cosenza)   
   
-Elenco dei terreni espropriati nei confronti di   
-Passalacqua Enrico Fabio fu Giuseppe a termini degli [articoli 1](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1950-05-12;230~art1) e [2 della legge 12 maggio 1950, n. 230](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1950-05-12;230~art2)
+Elenco dei terreni espropriati nei confronti di Passalacqua Enrico-Fabio fu Giuseppe a termini degli [articoli 1](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1950-05-12;230~art1) e [2 della legge 12 maggio 1950, n. 230](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1950-05-12;230~art2)
   
   
   
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=051U090000100010110001&dgu=1951-09-14&art.dataPubblicazioneGazzetta=1951-09-14&art.codiceRedazionale=051U0900)
+  
+[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=051U124200100010110001&dgu=1951-11-29&art.dataPubblicazioneGazzetta=1951-11-29&art.codiceRedazionale=051U1242)
   

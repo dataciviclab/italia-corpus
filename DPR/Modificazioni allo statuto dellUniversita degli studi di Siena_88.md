@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 marzo 1980 n. 372
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 gennaio 1980 n. 309
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 marzo 1980 n. 372
-============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 gennaio 1980 n. 309
+==============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Siena.
 -----------------------------------------------------------------
@@ -22,13 +22,9 @@ Veduta la [legge 22 maggio 1978, n. 217](http://www.normattiva.it/uri-res/N2Ls?u
 
 Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Siena e convalidati dal Consiglio universitario nazionale nel suo parere;
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Siena e convalidati dal Consiglio universitario nazionale nel suo parere;
 
 Sentito il parere del Consiglio universitario nazionale;
-
-Veduto il [parere della sezione prima del Consiglio di Stato n. 1902/74 del 14 febbraio 1975](https://e-justice.europa.eu/ecli/ECLI::::);
-
-Considerato che non appare opportuno, al momento, procedere ad una generale revisione delle norme statutarie di tutti gli Atenei relative alla direzione delle scuole di specializzazione e perfezionamento e degli istituti nonche' delle scuole dirette a fini speciali, attualmente affidata esclusivamente ai professori di ruolo o fuori ruolo, in attesa del provvedimento relativo allo stato giuridico del personale docente;
 
 Sulla
 -----
@@ -39,65 +35,54 @@ Articolo unico
 --------------
 
   
-Lo statuto dell'Universita' di Siena, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+Lo statuto dell'Universita' degli studi di Siena, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
   
-Dopo l'art. 193, e con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi alla istituzione della scuola di specializzazione in medicina interna.  
+Dopo l'art. 193, e con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi alla istituzione della scuola di specializzazione in anatomia patologica.  
   
-Scuola di specializzazione in medicina interna  
+Scuola di specializzazione in anatomia patologica  
   
-Art. 194. - La scuola di specializzazione in medicina interna ha sede presso l'istituto di patologia speciale medica e metodologia clinica e conferisce il diploma di specialista in medicina interna.  
-Art. 195. - La direzione della scuola e' affidata al professore di ruolo o fuori ruolo della stessa materia della specializzazione o, in mancanza, ad un professore di ruolo o fuori ruolo di materia affine.  
-Art. 196. - Possono iscriversi alla scuola di specializzazione i laureati in medicina e chirurgia. E' richiesto, almeno per l'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale rilasciato dalle autorita' competenti.  
-Art. 197. - Il corso di specializzazione ha la durata di cinque anni, non e' suscettibile di abbreviazione e prevede l'insegnamento di tutte le branche della medicina interna.  
-Art. 198. - Il numero degli allievi per ogni anno di corso e' di sei e, complessivamente, di trenta iscritti per l'intero corso di studi.  
+Art. 194. - La scuola di specializzazione in anatomia patologica ha sede presso l'istituto di anatomia patologica e conferisce il diploma di specialista in anatomia patologica.  
+Art. 195. - La direzione della scuola e' affidata al professore di ruolo o fuori ruolo della stessa materia della specializzazione e, in carenza, al professore di ruolo o fuori ruolo di materia affine.  
+Art. 196. - Possono iscriversi alla scuola di specializzazione i laureati in medicina e chirurgia. E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale, rilasciato dall'autorita' competente.  
+Art. 197. - La durata del corso di studi e' di quattro anni e non e' suscettibile di abbreviazioni.  
+Art. 198. - Il numero massimo degli allievi e' di quattro per anno di corso e, complessivamente, di sedici iscritti per l'intero corso di studi.  
 Art. 199. - L'ammissione al corso avviene per titoli ed esami.  
 Art. 200. - Le materie di insegnamento sono le seguenti:  
 1° Anno:  
-1) malattie infettive, disreattive e del sangue;  
-2) istituzioni di terapia;  
-3) anatomia ed istologia patologica (biennale) I;  
-4) clinica medica generale e terapia medica (quinquennale) I.  
+anatomia patologica sistematica I;  
+tecnica delle autopsie;  
+diagnostica anatomo-patologica macroscopica I;  
+tecniche istologiche ed istochimiche.  
 2° Anno:  
-1) malattie dell'apparato cardiovascolare;  
-2) microbiologia e sierologia;  
-3) chimica clinica;  
-4) anatomia ed istologia patologica (biennale) II;  
-5) clinica medica generale e terapia medica (quinquennale) II. 3° Anno:  
-1) malattie dell'apparato digerente;  
-2) malattie renali;  
-3) clinica medica generale e terapia medica (quinquennale) III. 4° Anno:  
-1) malattie dell'apparato respiratorio;  
-2) malattie del sistema nervoso;  
-3) clinica medica generale e terapia medica (quinquennale) IV. 5° Anno:  
-1) malattie del ricambio;  
-2) malattie delle ghiandole endocrine;  
-3) clinica medica generale e terapia medica (quinquennale) V.  
-Gli insegnamenti fondamentali possono essere integrati, a giudizio del consiglio della scuola, da almeno tre insegnamenti scelti tra i seguenti:  
-Insegnamenti complementari:  
-parassitologia medica;  
-genetica medica;  
-semeiotica dermatologica;  
-radiologia;  
-semeiotica oculistica;  
-semeiotica ginecologica.  
-Art. 201. - Il corso si compone di lezioni, esercitazioni pratiche nei reparti ai fini di apprendimento, di conferenze e di turni in corsia.  
-La partecipazione alle lezioni, alle esercitazioni pratiche nei reparti ai fini di apprendimento, alle conferenze ed ai turni in corsia e' obbligatoria. In caso contrario, i candidati non possono ottenere l'attestazione di frequenza necessaria per l'ammissione agli esami.  
-Art. 202. - Alla fine di ogni anno di corso, gli specializzandi, in regola con la firma di frequenza, devono sostenere un esame di profitto, su ognuna delle materie di insegnamento. Il superamento di tutti gli esami e' condizione indispensabile per l'ammissione all'anno successivo e, per coloro che frequentano l'ultimo anno della scuola, per essere ammessi all'esame di diploma.  
-Art. 203. - Per gli specializzandi che hanno superato tutti gli esami dei cinque anni di corso e' previsto, alla fine dell'ultimo, l'esame di diploma che consiste nella presentazione di una dissertazione scritta su di un argomento di medicina interna.  
-L'argomento della sopradetta dissertazione deve essere preventivamente concordato con il direttore della scuola.  
-Art. 204. - Le tasse, soprattasse e contributi della scuola di specializzazione in medicina interna sono cosi' fissate:  
+anatomia patologica sistematica II;  
+diagnostica anatomo-patologica macroscopica II;  
+diagnostica istopatologica I;  
+tecniche e diagnostica citologica e citogenetica.  
+3° Anno:  
+diagnostica istopatologica II;  
+tecniche di microscopia e biologia ultrastrutturale;  
+immunopatologia.  
+4° Anno:  
+diagnostica istopatologica III;  
+diagnostica isto-citopatologica ultrastrutturale;  
+diagnostica autoptica medico-legale ed elementi di legislazione sanitaria;  
+applicazioni statistiche ed epidemiologiche.  
+Art. 201. - La frequenza alle lezioni, alle esercitazioni pratiche, e' obbligatoria. Gli allievi che non conseguono le attestazioni di frequenza sul relativo libretto non possono essere ammessi a sostenere le prove di esame.  
+Art. 202. - Alla fine di ogni corso, gli iscritti, per essere ammessi agli anni successivi, devono superare le prove di esame sulle materie impartite durante l'anno. Per le materie a corso pluriennale, l'esame e' sostenuto alla fine dei corsi medesimi.  
+Al termine del corso di studi, per il conseguimento del diploma di specialista in anatomia patologica, gli interessati devono superare l'esame di diploma, consistente nella dissertazione scritta di un argomento attinente alla specializzazione.  
+Art. 203. - Le tasse, soprattasse e contributi della scuola di specializzazione in anatomia patologica sono cosi' fissate:  
   
-immatricolazione. . . . . . . . . . . . . . . . . . . . L. 12.000 tassa annuale d'iscrizione . . . . . . . . . . . . . . L. 200.000 soprattassa annuale d'esame . . . . . . . . . . . . . . L. 16.000 contributi annui di laboratorio . . . . . . . . . . . . L. 14.000 tassa di diploma . . . . . . . . . . . . . . . . . . . . L. 6.000   
+immatricolazione. . . . . . . . . . . . . . . . . . . . . . L. 12.000 tassa annuale di iscrizione. . . . . . . . . . . . . . . . L. 200.000 soprattassa annuale di esame. . . . . . . . . . . . . . . . L. 16.000 contributi annui di laboratorio . . . . . . . . . . . . . . L. 14.000 soprattassa di diploma. . . . . . . . . . . . . . . . . . . L. 20.000   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 27 marzo 1980
+### Dato a Roma, addi' 14 gennaio 1980
 
 PERTINI VALITUTTI
 
 Visto, il Guardasigilli: MORLINO
 
-Registrato alla Corte dei conti, addi' 17 luglio 1980
+Registrato alla Corte dei conti, addi' 26 giugno 1980
 
-Registro n. 68 Istruzione, foglio n. 192
+Registro n. 61 Istruzione, foglio n. 283

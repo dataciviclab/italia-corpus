@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 aprile 1966 n. 320
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 aprile 1979 n. 179
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 aprile 1966 n. 320
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 aprile 1979 n. 179
 =============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Roma.
@@ -12,62 +12,75 @@ Art. 1
 
  IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Roma, approvato con regio decreto 20° aprile 1939, n. 1350, e modificato con [regio decreto 26 ottobre 1939, n. 1734](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-26;1734), e successive modificazioni;  
+Veduto lo statuto dell'Universita' di Roma, approvato con [regio decreto 20 aprile 1939, n. 1350](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1350) e modificato con [regio decreto 26 ottobre 1939, n. 1734](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-26;1734), e successive modificazioni;  
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
 Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Roma e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;  
+Veduta la [legge 22 maggio 1978, n. 217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-05-22;217);  
 Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro per la pubblica istruzione;  
+Sulla proposta del Ministro della pubblica istruzione;  
   
 Decreta:  
   
 Lo statuto dell'Universita' degli studi di Roma, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+Gli articoli 530, 531 e 532, relativi alla scuola di specializzazione in odontoiatria e protesi dentaria, che muta la denominazione in quella di scuola di specializzazione in odontostomatologia (due scuole), sono soppressi e sostituiti dai seguenti:  
   
-Art. 60, relativo ai piani di studio presentati dagli studenti per l'approvazione da parte del preside della Facolta' e' aggiunto il seguente comma: "Gli esami biennali possano essere sostenuti in due prove annuali distinte anche per i corsi di laurea in Filosofia ed in Lingue e letterature straniere moderne".  
-Le Scuole di perfezionamento in "Otorinolaringoiatria", in "Patologia generale" ed in "Neurologia e psichiatria" mutano denominazione in quella di "Scuola di specializzazione".  
-Art. 432, relativo alla Scuola di specializzazione in Otorinolaringoiatria, il primo comma e' abrogato e sostituito dal seguente: "Gli esami verranno sostenuti secondo quanto annualmente stabilito dal manifesto della Scuola".  
-Art. 444, relativo alla Scuola di specializzazione in Neurologia e psichiatria, e' abrogato e sostituito dal seguente:  
-"Gli insegnamenti della Scuola sono i seguenti:  
-Anatomia clinica del sistema nervoso (1° anno);  
-Istologia e istopatologia del sistema nervoso (1° anno);  
-Semeiotica neurologica (1° anno e 2° anno);  
-Semeiotica psichiatrica (1° e 2° anno);  
-Esami di laboratorio (1° anno);  
-Psicologia psicopatologia dell'eta' evolutiva (2° anno);  
-Neurofisiologia e fisiopatologia (2° anno);  
-Nozioni di biochimica del sistema nervoso (2° anno);  
-Elettrodiagnostica ed elettroterapia (2° anno);  
-Elettroencefalografia (2° anno);  
-Otoneurologia (2° anno);  
-Neuroftalmologia (2° anno);  
-Semeiotica del sistema nervoso vegetativo (2° anno);  
-Psicopatologia (2° anno);  
-Test mentali (2° anno);  
-Neuroradiologia (3° anno);  
-Clinica delle malattie nervose e mentali (1°, 2° e 3° anno);  
-Dimostrazioni diagnostiche delle malattie neurologiche (3° anno);  
-Dimostrazioni diagnostiche delle malattie psichiatriche (3° anno);  
-Igiene mentale e psichiatria sociale (3° anno);  
-Neuropsichiatria infantile (3° anno);  
-Elementi di neurochirurgia (3° anno);  
-Teoria e clinica della riabilitazione (3° anno);  
-Elementi di psicoterapia (3° anno)".  
-Art. 515, relativo alle finalita' ed ai titoli di ammissione alla Scuola di specializzazione in Patologia generale e' abrogato e sostituito dal seguente:  
-"Finalita' sono quelle di cui all'art. 391.  
-Possono essere ammessi alla Scuola laureati in Medicina e chirurgia, in Scienze biologiche o di altre Facolta' nel cui ordinamento degli studi e' inserito l'insegnamento di Patologia generale".  
+Scuola di specializzazione in odontostomatologia (due scuole)  
+Art. 530. - Sono istituite due scuole di specializzazione in odontostomatologia; la 1ª scuola ha sede presso la II cattedra di clinica odontoiatrica, la 2ª scuola presso la I cattedra di clinica odontoiatrica.  
+Le scuole conferiscono il diploma di specialista in odontostomatologia.  
+La direzione della scuola e' affidata al professore di ruolo o fuori ruolo della stessa materia della specializzazione o, in carenza, al professore di ruolo o fuori ruolo di materia affine.  
+Possono iscriversi alla scuola i laureati in medicina e chirurgia.  
+E' richiesto, almeno per l'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale rilasciato dall'autorita' competente.  
+La durata del corso di studi e' di tre anni e non e' suscettibile di abbreviazione.  
+Il numero degli allievi e' di trenta per anno di corso - complessivamente di novanta iscritti per l'intero corso di studi, per ciascuna scuola.  
+L'ammissione al corso avviene per titoli ed esami.  
+Art. 531. - Le materie di insegnamento sono le seguenti:  
+1° Anno:  
+1) embriologia ed anatomia dentaria e maxillo-facciale;  
+2) microbiologia ed igiene orale;  
+3) farmacologia;  
+4) patologia odontostomatologica;  
+5) odontotecnica;  
+6) anestesia e chirurgia stomatologica;  
+7) odontoiatria conservativa I;  
+esercitazioni pratiche.  
+2° Anno:  
+8) odontoiatria conservativa II;  
+9) clinica protesica dentaria e maxillo-facciale I;  
+10) parodontologia I;  
+11) anatomia e istopatologia odontostomatologica;  
+12) odontoiatria infantile;  
+13) radiologia odontostomatologica;  
+14) ortopedia dento-maxillo-facciale I;  
+15) chirurgia maxillo-facciale I;  
+esercitazioni pratiche.  
+3° Anno:  
+16) clinica odontostomatologica;  
+17) chirurgia maxillo-facciale II;  
+18) medicina legale odontostomatologica e delle assicurazioni;  
+19) ortopedia dento-maxillo-facciale II;  
+20) clinica protesica dentaria maxillo-facciale II;  
+21) parodontologia II;  
+esercitazioni pratiche.  
+Art. 532. - La frequenza alle lezioni e alle esercitazioni pratiche e' obbligatoria. Gli allievi che non conseguono le attestazioni di frequenza sul relativo libretto non potranno essere ammessi a sostenere le prove di esame.  
+Durante gli anni di corso lo specializzando, oltre a seguire le lezioni teorico-pratiche, dovra' frequentare i reparti clinici e nell'ultimo anno effettuare esercitazione pratica nei reparti a meno che non comprovi di prestare ufficialmente servizio continuativo presso reparti universitari od ospedalieri della specialita'.  
+Alla fine di ogni corso gli iscritti, per essere ammessi agli anni di corso successivi, devono superare le prove di esame sulle materie impartite durante l'anno. Per le materie a corsi pluriennali l'esame sara' sostenuto alla fine dei corsi medesimi.  
+Gli esami di profitto possono essere sostenuti in due sessioni annuali, secondo il manifesto della scuola.  
+Al termine del corso di studi, per il conseguimento del diploma di specialista in odontostomatologia, gli interessati dovranno superare l'esame di diploma consistente nella dissertazione scritta di un argomento attinente alla specializzazione e in una prova pratica stabilita dalla commissione esaminatrice.  
+Ogni iscritto dovra' provvedere al proprio corredo di strumenti.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 26 aprile 1966
+### Dato a Roma, addi' 4 aprile 1979
 
-SARAGAT GUI
+PERTINI SPADOLINI
 
-Visto, il Guardasigilli: REALE
+Visto, il Guardasigilli: MORLINO
 
-Registrato alla Corte dei conti, addi' 25 maggio 1966
+Registrato alla Corte dei conti, addi' 29 maggio 1979
 
-Atti del Governo, registro n. 203, foglio n. 54. - VILLA
+Registro n. 43 Istruzione, foglio n. 2

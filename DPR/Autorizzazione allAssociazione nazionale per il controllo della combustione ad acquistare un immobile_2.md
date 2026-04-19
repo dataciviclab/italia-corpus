@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 24 novembre 1970 n. 1440
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 06 maggio 1972 n. 896
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 24 novembre 1970 n. 1440
-================================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 06 maggio 1972 n. 896
+=============================================================
 
 Autorizzazione all'Associazione nazionale per il controllo della combustione ad acquistare un immobile.
 -------------------------------------------------------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-1440. Decreto del Presidente della Repubblica 24 novembre 1970, col quale, sulla proposta del Ministro per il lavoro e la previdenza sociale e del Ministro per l'industria, il commercio e l'artigianato, l'Associazione nazionale per il controllo della combustione, con sede in Roma, viene autorizzata ad acquistare per il prezzo di lire 273.505.000, dalla societa' Lavagna Candido e Palmar, alcuni locali facenti parte del complesso immobiliare sito in Torino al corso Turati n. 9.  
+896. Decreto del Presidente della Repubblica 6 maggio 1972, col quale, sulla proposta del Ministro per il lavoro e la previdenza sociale e del Ministro per l'industria, il commercio e l'artigianato, l'Associazione nazionale per il controllo della combustione viene autorizzata ad acquistare per il prezzo complessivo di L. 52.000.000 una porzione dell'immobile, di proprieta' della ditta Riccardo Uberbacher, sito in Bolzano alla via Orazio n. 49.  
   
-Visto, il Guardasigilli: REALE  
-Registrato alla Corte dei conti, addi' 22 aprile 1971  
-Atti del Governo, registro n. 241, foglio n. 156. - VALENTINI
+Visto, il Guardasigilli: GONELLA  
+Registrato alla Corte dei conti, addi' 8 gennaio 1973  
+Atti di Governo, registro n. 254, foglio n. 75. - VALENTINI

@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 16 febbraio 1973 n. 79
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1969 n. 1050
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 16 febbraio 1973 n. 79
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1969 n. 1050
+===============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Padova.
 ------------------------------------------------------------------
@@ -12,11 +12,10 @@ Art. 1
 
  IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Padova, approvato con [regio decreto 20 aprile 1939, n. 1058](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1058) e modificato con [regio decreto 5 ottobre 1939, n. 1847](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-05;1847), e successive modificazioni;  
+Veduto lo statuto dell'Universita' degli studi di Padova, approvato con [regio decreto 20 aprile 1939, numero 1058](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1058) e modificato con [regio decreto 5 ottobre 1939, n. 1847](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-05;1847), e successive modificazioni;  
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;652), e successive modificazioni;  
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
 Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;  
 Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
 Sentito il parere del Consiglio superiore della pubblica istruzione;  
@@ -25,20 +24,61 @@ Sulla proposta del Ministro per la pubblica istruzione;
 Decreta:  
   
 Lo statuto dell'Universita' degli studi di Padova, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-Art. 98. - All'elenco degli insegnamenti complementari del corso di laurea in medicina e chirurgia e' aggiunto il seguente:  
+L'art. 353, relativo ai titoli di ammissione alle scuole di specializzazione in medicina e chirurgia e' modificato nel senso che il primo comma e' abrogato e sostituito dal seguente:  
+"Alle scuole di specializzazione possono iscriversi solamente i laureati in medicina e chirurgia".  
   
-Neurofisiologia.  
+Art. 362, relativo all'elenco delle scuole di specializzazione in medicina e chirurgia e' modificato nel senso che la scuola in igiene e medicina preventiva conferisce il diploma di specialista in igiene e medicina preventiva (con orientamento di sanita' pubblica, laboratorio, igiene e tecnica ospedaliera, igiene e medicina scolastica).  
+Allo stesso elenco e' aggiunta la seguente scuola:  
+Scuola in chirurgia plastica che conferisce il diploma di "Specialista in chirurgia plastica".  
+  
+Art. 363. - Dopo l'ordinamento della scuola in psichiatria, e' aggiunta la scuola di specializzazione in chirurgia plastica con il seguente piano di studi.  
+  
+Scuola di specializzazione in chirurgia plastica  
+(durata del corso anni tre)  
+  
+1° Anno:  
+Patologia generale;  
+Concetti di patologia secondaria;  
+Guarigione delle ferite;  
+Trapianti;  
+Omoinnesti;  
+Traumatologia dei tessuti molli;  
+Malattia ustione (fisiopatologia e clinica) (biennale);  
+Anatomia ed embriologia (con specifico riferimento alla faccia, collo, organi genitali, arti superiori ed inferiori);  
+Anatomia ed istologia patologica (con specifico riferimento alla malattia ustione e ai tumori cutanei benigni e maligni);  
+Anestesiologia e rianimazione (concetti generali sui principi che suggeriscono l'adozione dei vari metodi e tecniche anestesiologiche).   
+2° Anno:  
+Tecnica operatoria;  
+Anatomia chirurgica;  
+Malformazioni congenite;  
+Malattia ustione (terapia medica e chirurgica);  
+Elementi di otorinolaringoiatria;  
+Elementi di stomatologia;  
+Elementi di ortopedia generale;  
+  
+Dermatologia generale (con specifico riferimento alle malattie o lesioni congenite, di competenza plastica, passibili di trattamento chirurgico) (biennale).  
+  
+3° Anno:  
+Metodologia chirurgica differenziale;  
+Conservazione e tipizzazione dei tessuti;  
+Chirurgia riparatrice della mano;  
+Chirurgia riparatrice e correttiva del volto;  
+Dermatologia generale (biennale);  
+Medicina legale e delle assicurazioni (con riferimento alle deformita' anatomiche e alle menomazioni funzionali di origine traumatica);  
+Elementi di criobiologia e di criochirurgia.  
+Ammissione alla scuola previo superamento di esame, con prova scritta e orale, inteso a chiarire il grado di preparazione generale del candidato ed i suoi specifici interessi ed attitudini verso la chirurgia plastica.  
+Numero massimo complessivo degli iscritti ai tre anni di corso: trenta (dieci per ogni anno di corso).  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 16 febbraio 1973
+### Dato a Roma, addi' 31 ottobre 1969
 
-LEONE SCALFARO
+SARAGAT FERRARI AGGRADI
 
-Visto, il Guardasigilli: GONELLA
+Visto, il Guardasigilli: GAVA
 
-Registrato alla Corte dei conti, addi' 3 aprile 1973
+Registrato alla Corte dei conti, addi' 5 gennaio 1970
 
-Atti di Governo, registro n. 257, foglio n. 38. VALENTINI
+Atti del Governo, registro n. 231, foglio n. 10. - CARUSO

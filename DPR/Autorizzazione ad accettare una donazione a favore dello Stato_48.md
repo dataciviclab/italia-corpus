@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 12 maggio 1976 n. 468
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 settembre 1981 n. 857
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 12 maggio 1976 n. 468
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 settembre 1981 n. 857
+================================================================
 
 Autorizzazione ad accettare una donazione a favore dello Stato.
 ---------------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-468. Decreto del Presidente della Repubblica 12 maggio 1976, col quale, sulla proposta del Ministro per i beni culturali e ambientali, viene autorizzata l'accettazione a favore dello Stato della donazione disposta dagli eredi del pittore tedesco Karl Guglielmo Diefenbach con atto notarile 11 giugno 1971, n. 7087 di repertorio, a rogito dott. Guido Rega, notaio in Napoli, consistente in trentuno dipinti di cui trenta sono del pittore Karl Guglielmo Diefenbach ed uno, che riproduce il ritratto del pittore stesso, eseguito da E. Ximenes e in cinque gessi dello stesso artista, opere destinate alla Certosa di Capri.  
+857. Decreto del Presidente della Repubblica 22 settembre 1981, col quale, sulla proposta del Ministro delle finanze, viene autorizzata l'accettazione della donazione a favore dello Stato, consistente in un terreno della superficie di mq 200, sito in comune di Ronago (Como), localita' Valmulini, destinato all'ampliamento della caserma della guardia di finanza, disposta dal dott. Francesco Ambrosoli con atto 22 giugno 1978, n. 45189/16099 di repertorio, a rogito dott. Achille Pedraglio, notaio in Como.  
   
-Visto, il Guardasigilli: BONIFACIO  
-Registrato alla Corte dei conti, addi' 30 giugno 1976  
-Atti di Governo, registro n. 7, foglio n. 37
+Visto, il Guardasigilli: DARIDA  
+Registrato alla Corte dei conti, addi' 12 gennaio 1982  
+Registro n. 2 Finanze, foglio n. 128

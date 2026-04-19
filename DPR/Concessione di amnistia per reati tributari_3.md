@@ -1,63 +1,139 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 febbraio 1983 n. 43
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 20 gennaio 1992 n. 23
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 febbraio 1983 n. 43
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 20 gennaio 1992 n. 23
+=============================================================
 
 Concessione di amnistia per reati tributari.
 --------------------------------------------
 
+Entrata in vigore della legge: 23-01-1992
+
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Visti gli [articoli 79](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27~art79) e [87 della Costituzione](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27~art87);
+Visto l'[art. 79 della Costituzione](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27~art79);
 
-Vista la [legge 7 agosto 1982, n. 516](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1982-08-07;516);
+Vista la legge di delegazione per la concessione di amnistia 30 dicembre 1991, n. 413, ed in particolare il titolo VII;
 
-Visto il proprio decreto 9 agosto 1982, n. 525;
+Sentito il Consiglio dei Ministri;
 
-Visti gli [articoli 2](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1983-02-12;27~art2) e [3 della legge 12 febbraio 1983, n. 27](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1983-02-12;27~art3);
-
-Vista la deliberazione del Consiglio dei Ministri adottata nella riunione del 19 febbraio 1983;
-
-Sulla proposta del Ministro delle finanze, di concerto con il Ministro di grazia e giustizia;
-
-EMANA
+Sulla
 -----
 
-il seguente decreto:
+proposta del Ministro di grazia e giustizia, di concerto con il Ministro delle finanze; Decreta:
 
 Art. 1
 ------
 
-  
-Le condizioni previste dall'[art. 1 del decreto del Presidente della Repubblica 9 agosto 1982, n. 525](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1982-08-09;525~art1), per l'applicazione dell'amnistia per i reati tributari ivi considerati non operano qualora tali reati siano riferibili a periodi di imposta gia' definiti alla data di entrata in vigore del [decreto-legge 10 luglio 1982, n. 429](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1982-07-10;429), ovvero siano riferibili a periodi di imposta con accertamento divenuto definitivo alla stessa data.  
+A m n i s t i a
+
+1. E' concessa amnistia per i reati previsti in materia di imposte dirette e di imposta sul valore aggiunto, commessi fino al 30 settembre 1991 e riferibili ai periodi di imposta che possono essere definiti secondo le disposizioni del titolo VI della [legge 30 dicembre 1991, n. 413](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-12-30;413).
+
+2. Per ciascuna imposta l'amnistia si applica, salvo quanto previsto dal comma 3, a tutti i reati di cui al comma 1 riferibili al periodo di imposta a condizione che il contribuente o chiunque altro, avendone interesse, presenti dichiarazione integrativa per la definizione per l'intero periodo ovvero definisca il periodo stesso.  
+L'amnistia si applica, indipendentemente dalla definizione dell'intero periodo di imposta:
+
+a) relativamente ai reati di cui al primo e al [secondo comma dell'art. 1 e al numero 7](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1982-07-10;429~art1-com2-num7) dell'[art. 4 del decreto-legge 10 luglio 1982, n. 429](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1982-07-10;429~art4), convertito, con modificazioni, dalla [legge 7 agosto 1982, n. 516, nonche' alla lettera f) del comma 1 dell'art. 4](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1982-08-07;516~art4-com1-letf) del predetto decreto nel testo modificato dal [decreto-legge 16 marzo 1991, n. 83](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1991-03-16;83), convertito, con modificazioni, dalla [legge 15 maggio 1991, n. 154, e al primo comma dell'art. 56](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-05-15;154~art56-com1) del [decreto del Presidente della Repubblica 29 settembre 1973, n. 600](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1973-09-29;600), nei limiti degli importi integrativamente dichiarati o versati;
+
+b) relativamente alle altre contravvenzioni, se la dichiarazione integrativa reca l'impegno a versare gli importi minimi previsti dai [commi 3](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-12-30;413~art38-com3), [4](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-12-30;413~art38-com4) e [5 dell'art. 38 della legge 30 dicembre 1991, n. 413](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-12-30;413~art38-com5).
+
+3. Per i reati commessi dai sostituti d'imposta l'amnistia si applica a condizione che, alla data di entrata in vigore del presente decreto, le ritenute siano state versate ovvero l'importo delle ritenute non versate risulti compreso in quello indicato nella dichiarazione integrativa.
+
+4. Nei confronti delle persone che si trovano nelle condizioni previste dal [comma 6 dell'art. 57 della legge 30 dicembre 1991, n. 413](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-12-30;413~art57-com6), l'amnistia si applica altresi' per ciascun periodo di imposta cui i reati si riferiscono, se e' presentata l'istanza di cui allo stesso comma 6.
+
+5. E' concessa amnistia, alle condizioni sopra indicate, per i reati, commessi fino al 30 settembre 1991, previsti dagli [articoli 482](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art482), [483](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art483), [484](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art484), [485](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art485), [489](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art489), [490](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art490), [492 del codice penale](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art492), nonche' dall'[art. 2621 del codice civile](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2621) quando tali reati siano stati commessi per eseguire od occultare quelli indicati nel comma 1 del presente articolo ovvero per conseguirne il profitto e siano riferiti alla stessa pendenza o situazione tributaria.
+
+AVVERTENZA:  
+Il testo delle note qui pubblicato e' stato redatto ai sensi dell'art. 10, comma 3, del testo unico approvato con [decreto del Presidente della Repubblica 28 dicembre 1985, n. 1092](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1985-12-28;1092), al solo fine di facilitare la lettura delle disposizioni di legge alle quali e' operato il rinvio.  
+Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.  
+Nota alle premesse:  
+- L'[art. 79 della Costituzione](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27~art79) e' cosi' formulato:  
+"Art. 79. - L'amnistia e l'indulto sono concessi dal Presidente della Repubblica su legge di delegazione delle Camere.  
+Non possono applicarsi ai reati commessi successivamente alla proposta di delegazione".  
+- Per la [legge n. 413/1981](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981;413) si veda in nota all'art. 1.  
+Note all'[art. 1:  
+- La legge n. 413/1991](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991;413~art1) reca: "Disposizioni per ampliare le basi imponibili, per razionalizzare, facilitare e potenziare l'attivita' di accertamento; disposizioni per la rivalutazione obbligatoria dei beni immobili delle imprese, nonche' per riformare il contenzioso e per la definizione agevolata dei rapporti tributari pendenti; delega al Presidente della Repubblica per la concessione di amnistia per reati tributari; istituzioni dei centri di assistenza fiscale e del conto fiscale". Il titolo VI di detta legge si occupa della definizione delle situazioni e pendenze tributarie.  
+- Il testo dell'[art. 1, primo](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1982;429~art1-com1) e [secondo comma, del D.L.  
+n. 429/1982](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1982;429~art1-com2) (Norme per la repressione della evasione in materia di imposte sui redditi e sul valore aggiunto e per agevolare la definizione delle pendenze in materia tributaria), era il seguente:  
+"Chi omette di presentare una delle dichiarazioni che e' obbligato a presentare ai fini delle imposte sui redditi o ai fini dell'imposta sul valore aggiunto e' punito con l'arresto fino a due anni o con l'ammenda fino a lire cinque milioni se l'ammontare dei redditi fondiari, corrispettivi, ricavi, compensi o altri proventi non dichiarati e' superiore a cinquanta milioni di lire; se l'ammontare predetto e' superiore a cento milioni di lire si applica la pena dell'arresto da tre mesi a due anni e dell'ammenda da 10 a 20 milioni di lire. Ai fini del presente comma non si considera omessa la dichiarazione presentata entro novanta giorni dalla scadenza del termine prescritto o presentata ad un ufficio incompetente o non sottoscritta o non redatta su uno stampato conforme al modello prescritto.  
+E' punito con l'arresto fino a due anni o con l'ammenda fino a lire quattro milioni chiunque:  
+1) avendo effettuato cessioni di beni o prestazioni di servizi, ne omette l'annotazione nelle scritture contabili obbligatorie ai fini delle imposte sui redditi o annota i relativi corrispettivi in misura inferiore a quella reale, se l'ammontare dei corrispettivi non annotati nelle scritture del relativo periodo di imposta e' superiore a cinquanta milioni di lire e al due per cento dell'ammontare complessivo dei corrispettivi risultanti dall'ultima dichiarazione presentata, al netto di quelli imputati ai redditi di immobili e di capitale di cui al successivo n. 3), o, comunque, e' superiore a duecento milioni di lire;  
+2) avendo effettuato cessioni di beni o prestazioni di servizi, ne omette la fatturazione o l'annotazione nelle scritture contabili obbligatorie ai fini dell'imposta sul valore aggiunto ovvero indica nelle fatture o nelle annotazioni i relativi corrispettivi in misura inferiore a quella reale, se l'ammontare dei corrispettivi non fatturati o non annotati nelle scritture contabili del relativo periodo di imposta e' superiore a cinquanta milioni di lire e al due per cento dell'ammontare complessivo dei corrispettivi risultanti dall'ultima dichiarazione presentata o, comunque, e' superiore a duecento milioni di lire;  
+3) nella dichiarazione annuale indica redditi fondiari o di capitale o altri redditi, in relazione ai quali non era obbligato ad annotazioni in scritture contabili, per un ammontare complessivo inferiore a quello effettivo di oltre un quarto di quest'ultimo e di oltre cinquanta milioni di lire. Per i terreni ed i fabbricati si considera effettivo il reddito determinato ai fini delle imposte sui redditi.  
+Si tiene conto dei redditi fondiari o di capitale anche se concorrono a formare il reddito d'impresa, purche' non derivanti da cessioni di beni o prestazioni di servizi".  
+Il predetto art. 1 e' stato da ultimo integralmente sostituito dall'[art. 1 del D.L. 16 marzo 1991, n. 83](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1991-03-16;83~art1), convertito, con modificazioni, dalla [legge 15 maggio 1991, n. 154](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-05-15;154), recante: "Modifiche al [decreto-legge 10 luglio 1982, n. 429](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1982-07-10;429), convertito, con modificazioni, dalla [legge 7 agosto 1982, n. 516](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1982-08-07;516), in materia di repressione delle violazioni tributarie e disposizioni per definire le rela- tive pendenze".  
+- Il testo dell'art. 4, n. 7, del predetto [D.L. n. 429/1982](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1982;429), era il seguente: "E' punito con la reclusione da sei mesi a cinque anni e con la multa da 5 a 10 milioni di lire chiunque, al fine di evadere le imposte sui redditi o l'imposta sul valore aggiunto o di conseguire un indebito rimborso ovvero di consentire l'evasione o indebito rimborso a terzi:  
+1) - 6) (omissis);  
+7) essendo titolare di redditi di lavoro autonomo o di impresa, redige le scritture contabili obbligatorie, la dichiarazione annuale dei redditi ovvero il bilancio o rendiconto ad essa allegato dissimulando componenti positivi o simulando componenti negativi del reddito, tali da alterare in misura rilevante il risultato della dichiarazione".  
+- Il testo dell'art. 4, comma 1, lettera f), dello stesso [D.L. n. 429/1982](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1982;429), nel testo modificato dal [D.L. n. 83/1991](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1991;83), e' il seguente:  
+"1. E' punito con la reclusione da sei mesi a cinque anni e con la multa da cinque a dieci milioni di lire chiunque, al fine di evadere le imposte sui redditi o l'imposta sul valore aggiunto o di conseguire un indebito rimborso ovvero di consentire l'evasione o indebito rimborso a terzi:  
+a) - e) (omissis);  
+f) indica nella dichiarazione dei redditi ovvero nel bilancio o rendiconto ad essa allegato, al di fuori dei casi previsti dall'art. 1, ricavi, proventi od altri componenti positivi di reddito, ovvero spese od altri componenti negativi di reddito in misura diversa da quella effettiva utilizzando documenti attestanti fatti materiali non corrispondenti al vero ovvero ponendo in essere altri comportamenti fraudolenti idonei ad ostacolare l'accertamento di fatti materiali".  
+- Il testo del [primo comma dell'art. 56 del D.P.R. n. 600/1973](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1973;600~art56-com1) (Disposizioni comuni in materia di accertamento delle imposte sui redditi) e' il seguente: "Chi non presenta la dichiarazione di cui agli articoli da 1 a 6, 10 e 11 o la presenta incompleta o infedele, quando l'imposta relativa al reddito accertato, e' superiore a cinque milioni di lire, e' punito, oltre che con la pena pecuniaria prevista nell'art. 46, con l'arresto da tre mesi a tre anni. Se l'imposta dovuta e' superiore a trenta milioni di lire, la pena dell'arresto non puo' essere inferiore ad un anno".  
+- Il testo dell'[art. 38, commi 3](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991;413~art38-com3), [4](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991;413~art38-com4) e [5, della legge n. 413/1991](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991;413~art38-com5) e' il seguente:  
+"3. Salvo quanto disposto nei commi da 4 a 8, i contribuenti sono ammessi ad avvalersi della definizione automatica a condizione che per ciascun periodo di imposta sia riconosciuta nella dichiarazione integrativa una maggiore imposta per un importo di almeno 100.000 lire per le persone fisiche e per le societa' semplici che producono redditi diversi da quelli di lavoro autonomo derivanti dall'esercizio di arti e professioni. Per le persone fisiche e per le societa' ed associazioni di cui all'[art. 5 del decreto del Presidente della Repubblica 29 settembre 1973, n. 597](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1973-09-29;597~art5), e successive modificazioni, e all'art. 5 del testo unico delle imposte sui redditi, approvato con [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1986-12-22;917), e successive modificazioni, titolari di reddito di impresa e di redditi derivanti dall'esercizio di arti e professioni e per i soggetti all'imposta sul reddito delle persone giuridiche detto importo e' elevato a lire 400.000 se l'ammontare dei ricavi e dei compensi non e' superiore a lire 18 milioni, a lire 800.000 se l'ammontare dei ricavi e dei compensi non e' superiore a lire 200 milioni, a lire 1.200.000 se l'ammontare dei ricavi e dei compensi non e' superiore a lire 360 milioni, a lire 1.600.000 se l'ammontare dei ricavi e dei compensi non e' superiore a 1 miliardo di lire, a lire 2.000.000 se l'ammontare dei ricavi e dei compensi non e' superiore a 10 miliardi di lire, e di lire 400.000 per ogni miliardo in piu'. Tali importi minimi si intendono solutori ai fini di tutte le imposte di cui al comma 1.  
+4. Per la definizione automatica dei periodi d'imposta chiusi in perdita, rilevante agli effetti degli [articoli 8 del decreto del Presidente della Repubblica 29 settembre 1973, n. 597](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1973-09-29;597~art8), [17](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1973-09-29;17) e [24 del decreto del Presidente della Repubblica 29 settembre 1973](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1973-09-29;24), [n. 598](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1973-09-29;598), e successive modificazioni, 8 e 102 del citato testo unico delle imposte sui redditi, e successive modificazioni, la dichiarazione integrativa deve recare la diminuzione del 30 per cento della perdita dichiarata e deve essere versato un importo pari al 10 per cento della differenza tra la perdita originariamente dichiarata e quella ridotta ai sensi del presente comma. Per la definizione automatica dei periodi di imposta chiusi in perdita o in pareggio deve essere versato un importo almeno pari a quello minimo indicato al comma 3 per ciascuno dei periodi stessi. Al fine di stabilire se un periodo di imposta e' chiuso in perdita o in pareggio non si tiene conto delle compensazioni previste dalle disposizioni dianzi richiamate, e l'aumento di cui al comma 2 e' applicato sull'imposta, comprese le relative addizionali, corrispondente al reddito non ridotto per effetto di tale compensazione. Per le perdite dei periodi di imposta definiti ai sensi del presente articolo, con esclusione dell'ultimo periodo cosi' definito, non si applicano le disposizioni predette fermo restando, per i periodi medesimi, l'effetto della compensazione effettuata in sede di dichiarazione originaria ai fini della corresponsione delle imposte in base ad essa dovute.  
+5. Per la definizione automatica dei periodi di imposta per i quali non e' stata presentata la dichiarazione dei redditi, deve essere versato un importo pari a lire 2.000.000 per ciascuno dei periodi stessi; per le societa' e le associazioni di cui all'[art. 5 del decreto del Presidente della Repubblica 29 settembre 1973, n. 597](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1973-09-29;597~art5), e successive modificazioni, ed all'art. 5 del citato testo unico delle imposte sui redditi, e successive modificazioni, e per i soggetti all'imposta sul reddito delle persone giuridiche tale importo e' elevato a lire 4.000.000. Se la dichiarazione dei redditi non e' stata presentata in alcuno dei periodi di imposta indicati nel comma 2, le relative imposte non possono essere definite per definizione automatica".  
+- Il testo dell'art. 57, comma 6, della medesima [legge n. 413/1991](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991;413) e' il seguente: "6. Nei confronti di coloro che alla data del 30 settembre 1991 hanno perso la rappresentanza del soggetto passivo o del soggetto inadempiente non si applicano le soprattasse e le pene pecuniarie previste ai fini dell'imposta sul valore aggiunto e delle imposte sui redditi a condizione che venga presentata, tra il 1› ed il 30 aprile 1992, apposita istanza all'ufficio delle imposte competente in ragione del domicilio fiscale alla data di presentazione dell'istanza stessa e venga effettuato il pagamento della somma di lire due milioni per ciascuno dei periodi di imposta cui le violazioni si riferiscono. L'istanza deve essere redatta in duplice esemplare in conformita' al modello approvato con il decreto di cui all'art. 32, comma 3. I versamenti devono essere effettuati nei termini e nei modi previsti negli articoli da 39 a 41".  
+- Si indicano le rubriche dei seguenti articoli del [codice penale:  
+art. 482](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art482): falsita' materiale commessa dal privato;  
+art. 483: falsita' ideologica commessa dal privato in atto pubblico;  
+art. 484: falsita' in registri e notificazioni;  
+art. 485: falsita' in scrittura privata;  
+art. 489: uso di atto falso;  
+art. 490: soppressione, distruzione e occultamento di atti veri;  
+art. 492: copie autentiche che tengono luogo degli originali mancanti.  
+- Si indica altresi' la rubrica dell'[art. 2621 del codice civile](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2621):  
+art. 2621: false comunicazioni ed illegali ripartizioni di utili o di acconti sui dividendi.
 
 Art. 2
 ------
 
-  
-E' concessa amnistia per i reati previsti dall'[art. 56 del decreto del Presidente della Repubblica 29 settembre 1973, n. 600](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1973-09-29;600~art56), e, oltre quanto disposto dall'[art. 1, quarto comma, del decreto del Presidente della Repubblica 9 agosto 1982, n. 525](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1982-08-09;525~art1-com4), dall'[art. 92 del decreto del Presidente della Repubblica 29 settembre 1973, n. 602](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1973-09-29;602~art92), relativi ai sostituti di imposta e commessi fino al 30 giugno 1982, subordinatamente alla presentazione, per i periodi di imposta cui i reati si riferiscono, delle dichiarazioni integrative di cui all'[art. 2-ter del decreto-legge 15 dicembre 1982, n. 916](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1982-12-15;916~art2ter), convertito, con modificazioni, nella [legge 12 febbraio 1983, n. 27](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1983-02-12;27).  
-L'amnistia si applica:  
-1) per il reato di cui al [secondo comma dell'art. 56 del decreto del Presidente della Repubblica 29 settembre 1973, n. 600](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1973-09-29;600~art56-com2), a condizione che gli eventuali maggiori importi definitivamente accertati, dopo la presentazione della dichiarazione integrativa, non superino il limite indicato nello stesso secondo comma;  
-2) per il reato di cui alla lettera c) del terzo comma dello stesso art. 56, a condizione che il dichiarante assuma l'impegno a versare, nei termini e con le modalita' previsti dal decreto ministeriale di cui allo [art. 2-ter del decreto-legge 15 dicembre 1982, n. 916](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1982-12-15;916~art2ter), convertito, con modificazioni, nella [legge 12 febbraio 1983, n. 27](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1983-02-12;27), un importo non inferiore al 20 per cento dell'ammontare delle relative ritenute irregolarmente indicate nella dichiarazione originaria;  
-3) per il reato di cui alla lettera d) del terzo comma del medesimo art. 56 e per il reato di cui allo [art. 92 del decreto del Presidente della Repubblica 29 settembre 1973, n. 602](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1973-09-29;602~art92), a condizione che l'importo delle relative ritenute risulti compreso in quello indicato nella dichiarazione integrativa.  
-E' altresi' concessa amnistia, alle condizioni sopra previste, per i reati indicati nel [quinto comma dell'art. 1 del decreto del Presidente della Repubblica 9 agosto 1982, n. 525](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1982-08-09;525~art1-com5), quando tali reati siano stati commessi, fino al 30 giugno 1982, per eseguire od occultare quelli indicati nel primo comma del presente articolo, ovvero per conseguirne il profitto e siano riferibili alla stessa pendenza o situazione tributaria.  
-L'amnistia si applica anche nei confronti dei concorrenti nel reato, sempreche' si verifichino le condizioni sopraindicate.  
-La condizione prevista nel primo comma non opera per i reati riferibili a periodi di imposta con accertamento divenuto definitivo anteriormente alla data di entrata in vigore del [decreto-legge 10 luglio 1982, n. 429](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1982-07-10;429).  
+Esclusioni dall'amnistia
+
+1. L'amnistia non si applica:
+
+a) ai condannati per i delitti di cui agli [articoli 416-bis](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art416bis), [648-bis](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art648bis), [648- ter del codice penale](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art648ter) o per taluno dei delitti richiamati nel citato art. 648- bis;
+
+b) ai condannati, qualora ricorrano le circostanze previste dall'[art. 7 del decreto-legge 13 maggio 1991, n. 152](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1991-05-13;152~art7), convertito, con modificazioni, dalla [legge 12 luglio 1991, n. 203](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-07-12;203);
+
+c) alle persone indiziate di appartenenza ad associazioni di tipo mafioso e sottoposte ad una misura di prevenzione ai sensi della [legge 31 maggio 1965, n. 575](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1965-05-31;575), e successive modificazioni.
+
+2. L'amnistia non si applica anche se la sentenza di condanna di cui al comma 1, per fatti anteriormente commessi, e' divenuta definitiva successivamente alla data di entrata in vigore del presente decreto, sempre che a tale data sia pendente il relativo processo penale.
+
+3. I procedimenti in corso per i reati di cui all'art. 1 sono sospesi fino alla scadenza del termine per la presentazione della dichiarazione integrativa o dell'istanza di cui al [comma 6 dell'art. 57 della legge 30 dicembre 1991, n. 413](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-12-30;413~art57-com6), e, se queste sono state presentate, fino a quando l'ufficio finanziario non avra' comunicato al giudice, evitando ogni ritardo, gli elementi necessari per valutare la sussistenza delle condizioni richieste per l'applicazione dell'amnistia.
+
+4. Agli effetti della disposizione contenuta nel comma 2, se la dichiarazione integrativa e' presentata da soggetti nei cui confronti, alla data di entrata in vigore del presente decreto, e' pendente processo penale per taluno dei reati indicati al comma 1, i procedimenti in corso restano comunque sospesi in attesa dell'esito definitivo dei suddetti processi; a tal fine la pendenza di tali processi e la definizione degli stessi sono comunicate dalla cancelleria al locale ufficio delle imposte che ne da' notizia al giudice, senza ritardo, anche per tramite dell'ufficio competente, se diverso.
+
+Note all'art. 2:  
+- Si indicano le rubriche dei seguenti articoli del [codice penale:  
+art. 416-bis](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art416bis) : associazione di tipo mafioso;  
+art. 648-bis : ricettazione;  
+art. 648-ter : riciclaggio.  
+- Il testo vigente dell'[art. 7 del D.L. n. 152/1991](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1991;152~art7) (Provvedimenti urgenti in tema di lotta alla criminalita' organizzata e di trasparenza e buon andamento dell'attivita' amministrativa) e' il seguente:  
+"Art. 7. - 1. Per i delitti punibili con pena diversa dall'ergastolo commessi avvalendosi delle condizioni previste dall'[art. 416- bis del codice penale](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art416bis) ovvero al fine di agevolare l'attivita' delle associazioni previste dallo stesso articolo, la pena e' aumentata da un terzo alla meta'.  
+2. Le circostanze attenuanti, diverse da quella prevista dall'[art. 98 del codice penale](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art98), concorrenti con l'aggravante di cui al comma 1 non possono essere ritenute equivalenti o prevalenti rispetto a questa e le diminuzioni di pena si operano sulla quantita' di pena risultante dall'aumento conseguente alla predetta aggravante".  
+- La [legge n. 575/1965](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1965;575) reca: "Disposizioni contro la mafia".  
+- Per il testo dell'[art. 57, comma 6, della legge n. 413/1991](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991;413~art57-com6) si veda in nota all'art. 1.
 
 Art. 3
 ------
 
-  
-Il presente decreto entra in vigore il giorno stesso della sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana.  
-  
+Entrata in vigore
 
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo, osservare.
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+1. Il presente decreto entra in vigore il giorno stesso della sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana.
 
-### Dato a Roma, addi' 22 febbraio 1983
+Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-PERTINI FANFANI - FORTE - DARIDA
+### Dato a Roma, addi' 20 gennaio 1992
 
-Visto, il Guardasigilli: DARIDA
+COSSIGA
+
+ANDREOTTI, Presidente del Consiglio dei Ministri
+
+MARTELLI, Ministro di grazia e giustizia
+
+FORMICA, Ministro delle finanze
+
+Visto, il Guardasigilli: MARTELLI

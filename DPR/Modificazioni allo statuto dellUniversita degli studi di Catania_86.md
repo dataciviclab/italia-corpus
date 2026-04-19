@@ -1,86 +1,99 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 20 maggio 1980 n. 640
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1977 n. 1185
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 20 maggio 1980 n. 640
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1977 n. 1185
+===============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Catania.
 -------------------------------------------------------------------
 
-IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
-
-Veduto lo statuto dell'Universita' di Catania, approvato con [regio decreto 20 aprile 1939, n. 1073](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1073) e modificato con [regio decreto 16 ottobre 1940, n. 1527](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-16;1527), e successive modificazioni;
-
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
-
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
-
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
-
-Veduta la [legge 22 maggio 1978, n. 217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-05-22;217);
-
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
-
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Catania e convalidati dal Consiglio universitario nazionale nei suoi pareri;
-
-Sentito il parere del Consiglio universitario nazionale;
-
-Sulla
------
-
-proposta del Ministro della pubblica istruzione; Decreta:
-
 Art. 1
 ------
 
+ IL PRESIDENTE DELLA REPUBBLICA  
   
-Lo statuto dell'Universita' di Catania, approvato e modificato con i decreti sopra indicati, e' ulteriormente modificato come appresso:  
-L'art. 215, secondo comma, relativo al numero degli iscritti alla scuola di specializzazione in odontostomatologia, e' modificato nel modo seguente:  
+Veduto lo statuto dell'Universita' di Catania, approvato con [regio decreto 20 aprile 1939, n. 1073](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1073) e modificato con [regio decreto 16 ottobre 1940, n. 1527](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-16;1527), e successive modificazioni;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Catania e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;  
+Sentito il parere del Consiglio superiore della pubblica istruzione;  
+Sulla proposta del Ministro della pubblica istruzione;  
   
-Alla scuola di specializzazione vengono ammessi allievi nel numero di diciotto per ciascun anno di corso per un totale complessivo di cinquantaquattro iscritti.  
-
-Art. 2
-------
-
+Decreta:  
   
-L'art. 213, quinto comma, dello statuto dell'Universita' di Catania di cui al [decreto del Presidente della Repubblica 15 settembre 1979, n. 508](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1979-09-15;508), relativo al numero degli iscritti alla scuola di specializzazione in dermatologia e venereologia, e' modificato nel modo seguente:  
+Lo statuto dell'Universita' degli studi di Catania, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
   
-Il numero massimo degli allievi e' di nove per anno di corso e complessivamente di ventisette iscritti per lo intero corso di studi.
-
-Art. 3
-------
-
+Art. 51  
+all'elenco degli insegnamenti complementari del corso di laurea in medicina e chirurgia sono aggiunti i seguenti:  
+diagnostica chirurgica endoscopica;  
+urologia pediatrica;  
+oftalmologia pediatrica;  
+otorinolaringoiatria pediatrica;  
+dermatologia pediatrica;  
+malattie del ricambio del bambino;  
+medicina d'urgenza;  
+fisiopatologia medica;  
+semeiotica neurologica;  
+angiologia;  
+andrologia.  
+Nello stesso elenco l'insegnamento di tecniche chirurgiche complementari in terapia oncologica muta la denominazione in quella di chirurgia oncologica.  
+Gli articoli 273, 274, 275, 276, 277, 278, relativi alla scuola speciale per ortottiste che muta la denominazione in quella di ortottisti-assistenti di oftalmologia, sono abrogati e sostituiti dai seguenti:  
   
-L'art. 266 dello statuto dell'Universita' di Catania di cui al [decreto del Presidente della Repubblica 25 maggio 1976, n. 697](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1976-05-25;697), relativo al numero degli iscritti alla scuola di specializzazione in diabetologia e malattie del ricambio, e' soppresso e sostituito dal seguente:  
-Art. 266. - Il numero complessivo degli iscritti alla scuola e' di ventisette unita' ripartite nei tre anni di corso.  
-La selezione dei candidati aspiranti all'ammissione alla scuola avverra' sulla base dei titoli ed esami.  
-
-Art. 4
-------
-
+Scuola speciale per ortottisti-assistenti di oftalmologia  
   
-L'art. 356, secondo comma, dello statuto dell'Universita' di Catania di cui al [decreto del Presidente della Repubblica 31 ottobre 1978, n. 882](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1978-10-31;882), relativo al numero degli iscritti alla scuola di specializzazione in chirurgia d'urgenza e pronto soccorso, e' cosi' modificato:  
+Art. 273. - E' istituita presso la facolta' di medicina e chirurgia dell'Universita' di Catania una scuola speciale di preparazione per ortottisti-assistenti di oftalmologia che ha sede presso la clinica oculistica di questa Universita'.  
+Art. 274. - La scuola ha lo scopo di dare una preparazione completa, teorico-pratica, istruendo gli allievi sui problemi della motilita' oculare, della ambliopia; delle tecniche diagnostiche della visione binoculare, del trattamento pre e postoperatorio dei pazienti strabici; dei problemi sui vizi di refrazione e della loro correzione e sulle tecniche diagnostiche in oftalmologia.  
+La durata del corso per conseguire il diploma di ortottista-assistente di oftalmologia e' di tre anni.  
+Ne sono titoli di ammissione il possesso di un diploma legalmente valido ai fini della iscrizione alla Universita' ai sensi dell'[art. 1 della legge n. 910 dell'11 dicembre 1969](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1969-12-11;910~art1) e la conoscenza di una lingua straniera (inglese, francese, tedesco, spagnolo).  
+Art. 275. - Gli aspiranti all'iscrizione al primo anno di corso sono tenuti a sostenere un esame di ammissione consistente in una prova di cultura generale e in una prova per la conoscenza della lingua straniera. E' richiesto un certificato di sana e robusta costituzione, con particolare riguardo alla funzione visiva.  
+Sono ammessi al terzo anno della scuola, con l'obbligo di tutti gli esami del terzo anno e della tesi, le diplomate delle scuole speciali per ortottiste ai sensi dell'[art. 20 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art20), purche' abbiano esercitato con continuita' una attivita' professionale adeguata e documentata.  
+Art. 276. - Il numero complessivo degli iscritti alla scuola e' di due a sei per anno di corso. Qualora le domande di iscrizione fossero in numero superiore al numero massimo previsto, il consiglio della scuola si riserva di provvedere ad una scelta tra gli idonei in base ai risultati delle prove di ammissione; gli idonei possono essere ammessi anche in soprannumero in rapporto a posti che si rendessero vacanti nel corso del secondo e terzo anno. I ripetenti e i fuori corso, qualora riprendano gli studi, sono riammessi in soprannumero.  
+Art. 277. - Il direttore della scuola e' il titolare della cattedra di clinica oculistica o altro docente di disciplina affine, proposto dal titolare della cattedra di clinica oculistica, sentito il consiglio della scuola.  
+Art. 278. - L'anno accademico ha inizio e termina nelle date stabilite dalle leggi in vigore per l'istruzione universitaria. La frequenza e' obbligatoria.  
+Art. 279. - Il corso comprende lezione teoriche ed esercitazioni pratiche.  
+Le materie di insegnamento sono le seguenti:  
+1° Anno:  
+elementi di anatomia dell'apparato visivo e del S.N.C.;  
+fisiologia dell'occhio, della motilita' oculare, della visione binoculare;  
+ottica fisica e fisiopatologica;  
+ortottica I;  
+psicologia infantile.  
+2° Anno:  
+elementi di patologia oculare;  
+elementi di farmacologia oculare;  
+elementi di neurooftalmologia;  
+nozioni di chirurgia ed assistenza oftalmica;  
+ortottica II.  
+3° Anno:  
+tecniche semeiologiche dell'apparato visivo I (es. refrazione contattologica, adattometria, campo visivo, senso cromatico);  
+tecniche semeiologiche ed elettrofisiologiche (tonometria e tonografia, ERG, EOG, EMG, ecografia, retinografia e fluoroangiografia);  
+ortottica III;  
+nozioni di riabilitazione senso motorio nell'eta' infantile;  
+legislazione sanitaria.  
+Art. 280. - L'intero corso di studi e' costituito da lezioni teoriche e pratiche ed esercitazioni e dall'obbligo, per gli allievi, dell'internato per l'intero periodo di corso di studi nella clinica oculistica. La frequenza viene comprovata dalla attestazione rilasciata sul libretto di iscrizione dagli insegnanti e per l'attivita' pratica dal direttore della scuola. L'attestazione di frequenza e indispensabile ai fini dell'ammissione agli esami.  
+Art. 281. - Alla fine di ogni anno gli allievi devono sostenere un esame sulle materie di insegnamento. Nel caso in cui i candidati non abbiano superato gli esami prescritti, essi rimarranno nella posizione di ripetenti.  
+Art. 282. - Gli esami di profitto consistono in prove teoriche e pratiche.  
+Art. 283. - Alla fine del corso gli allievi debbono sostenere un esame di diploma che consiste nella discussione di una tesi scritta su un argomento riguardante le materie di insegnamento, assegnata dal direttore della scuola e in una prova pratica stabilita da una commissione esaminatrice. I candidati non riconosciuti idonei possono ripresentarsi all'esame di diploma dopo un altro anno di frequenza alla scuola ma se al secondo anno non sia loro riconosciuta la idoneita' saranno senz'altro esclusi da ulteriori prove.  
+Art. 284. - Gli esami di profitto e di diploma si danno in due sessioni, la prima estiva che ha inizio subito dopo la chiusura annuale dei corsi, la seconda autunnale, nel mese che precede l'inizio del nuovo anno accademico.  
+Art. 285. - Le commissioni per gli esami di ammissione, di profitto e di diploma sono nominate dal preside della facolta' di medicina e chirurgia su proposta del direttore della clinica. Le commissioni per gli esami di ammissione e di profitto sono composte da tre membri: direttore della scuola, presidente, e da due insegnanti della scuola stessa. La commissione per gli esami di diploma e' costituita dal direttore della scuola, presidente, e da quattro scelti fra gli insegnanti della scuola stessa o altri docenti.  
+Art. 286. - Le tasse e soprattasse annuali a carico degli iscritti restano cosi' destinate:  
   
-Il numero massimo degli iscritti e' di tredici per anno di corso e complessivamente di sessantacinque iscritti per l'intero corso di studi. Non sono ammesse abbreviazioni di corso. L'ammissione al corso avviene per titoli ed esami.  
-
-Art. 5
-------
-
-  
-L'art. 269 dello statuto dell'Universita' di Catania di cui al [decreto del Presidente della Repubblica 31 ottobre 1977, n. 1046](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1977-10-31;1046), relativo al numero degli iscritti alla scuola di specializzazione in malattie infettive e' soppresso e sostituito dal seguente:  
-Art. 269. - Il numero massimo degli allievi e' di dieci per anno di corso e complessivamente di quaranta iscritti per l'intero corso di studi.  
+tassa annuale di iscrizione . . . . . . . . . . . . . . L. 10.000 tassa annuale per iscrizione studenti fuori corso. . . . L. 5.000 soprattassa annuale di esame . . . . . . . . . . . . . . L. 5.000 tassa erariale di diploma. . . . . . . . . . . . . . . . L. 6.000 contributi di laboratorio. . . . . . . . . . . . . . . . L. 5.000   
+Art. 287. - Al funzionamento della suddetta scuola si provvedera' con i proventi delle tasse, soprattasse e contributi dovuti dagli iscritti e con eventuali elargizioni o contributi di enti pubblici o privati.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 20 maggio 1980
+### Dato a Roma, addi' 31 ottobre 1977
 
-PERTINI SARTI
+MALFATTI LEONE
 
-Visto, il Guardasigilli: MORLINO
+Visto, il Guardasigilli: BONIFACIO
 
-Registrato alla Corte dei conti, addi' 8 ottobre 1980
+Registrato alla Corte dei conti, addi' 28 aprile 1978
 
-Registro n. 92 istruzione, foglio n. 133
+Registro n. 44 Istruzione, foglio n. 276

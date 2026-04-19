@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 23 settembre 1970 n. 790
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 dicembre 1966 n. 1336
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 23 settembre 1970 n. 790
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 dicembre 1966 n. 1336
 ================================================================
 
 Autorizzazione all'Universita' degli studi di Firenze ad acquistare un immobile.
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-790. Decreto del Presidente della Repubblica 23 settembre 1970, col quale, sulla proposta del Ministro per la pubblica istruzione, l'Universita' degli studi di Firenze viene autorizzata ad acquistare, al prezzo di L. 250.000.000, l'immobile denominato "Palazzo Fenzi", sito in Firenze, via San Gallo, 10, di proprieta' della Societa' per azioni Pirelli.  
+1336. Decreto del Presidente della Repubblica 31 dicembre 1966, col quale, sulla proposta del Ministro per la pubblica istruzione, l'Universita' degli studi di Firenze viene autorizzata ad acquistare dalla societa' per azioni Zuavi il complesso immobiliare denominato Villa di S. Clemente, sito in Firenze, fra le vie Pier Antonio Micheli, Gino Capponi e Venezia, al prezzo complessivo di L. 570.000.000.  
   
 Visto, il Guardasigilli: REALE  
-Registrato alla Corte dei conti, addi' 9 novembre 1970  
-Atti del Governo, registro n. 238, foglio n. 43. - CARUSO
+Registrato alla Corte dei conti, addi' 20 febbraio 1967  
+Atti del Governo, registro n. 209, foglio n. 62. - VILLA

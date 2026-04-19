@@ -1,130 +1,160 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 ottobre 1977 n. 1211
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1979 n. 810
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 ottobre 1977 n. 1211
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1979 n. 810
+==============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Pavia.
 -----------------------------------------------------------------
 
+IL PRESIDENTE DELLA REPUBBLICA
+------------------------------
+
+Veduto lo statuto dell'Universita' di Pavia, approvato con [regio decreto 14 ottobre 1926, n. 2130](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2130) e modificato con [regio decreto 13 ottobre 1927, n. 2229](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2229), e successive modificazioni;
+
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella, [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
+
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
+
+Veduta la [legge 22 maggio 1978, n. 217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-05-22;217);
+
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Pavia e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;
+
+Sentito il parere del Consiglio superiore della pubblica istruzione;
+
+Sulla
+-----
+
+proposta del Ministro della pubblica istruzione; Decreta:
+
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA  
-  
-Veduto lo statuto dell'Universita' di Pavia, approvato con [regio decreto 14 ottobre 1926, n. 2130](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2130) e modificato con [regio decreto n. 2229 del 13 ottobre 1927](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2229), e successive modificazioni;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Pavia e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;  
-Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro della pubblica istruzione;  
-  
-Decreta:  
   
 Lo statuto dell'Universita' degli studi di Pavia, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
   
-L'art. 123, relativo alla scuola di specializzazione in chirurgia, che muta la denominazione in chirurgia generale, e' cosi' modificato: "La scuola di specializzazione in chirurgia generale conferisce il diploma di specializzazione in chirurgia generale. Gli anni necessari per il conseguimento del diploma sono cinque".  
-L'art. 135, relativo alla scuola di specializzazione in clinica oculistica, che muta la denominazione in oftalmologia, e' cosi' modificato:  
-"Il corso degli studi nella scuola di specializzazione in oftalmologia e' di quattro anni. Il numero totale degli iscritti per i quattro anni calcolato sui letti della clinica e' di venti o al massimo trentacinque specializzandi".  
-Il primo comma dell'art. 149 relativo alla scuola di specializzazione in otorinolaringoiatria e patologia cervico-facciale, che muta la denominazione in scuola di specializzazione in otorinolaringoiatria, e' cosi' modificato:  
-"La scuola di specializzazione in otorinolaringoiatria ha la durata di tre anni".  
-La scuola di specializzazione in odontoiatria e protesi dentaria muta la propria denominazione in odontostomatologia.  
-Il primo comma dell'art. 246 relativo alla scuola di specializzazione in ematologia clinica e di laboratorio che muta la propria denominazione in ematologia generale e' modificato nel modo seguente:  
-"La sede della scuola di specializzazione in ematologia generale sara' un istituto universitario di medicina generale (cioe' di clinica medica o di patologia speciale medica o di semeiotica medica) od anche un eventuale istituto universitario di ematologia".  
-Dopo l'art. 270, e con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi alla istituzione della scuola di specializzazione in chirurgia della mano e della scuola di specializzazione in chirurgia sperimentale e microchirurgia.  
+L'art. 133, settimo comma, relativo alla scuola di specializzazione in neurologia, e' modificato nel senso che il numero massimo totale degli iscritti e' di cento (venticinque per ogni anno di corso).  
+I commi ottavo, nono, decimo e undicesimo dell'art. 133, relativi alla scuola di specializzazione in neurologia, sono soppressi e sostituiti dal seguente:  
+"Non sono concesse abbreviazioni di corso".  
+
+Art. 2
+------
+
   
-Scuola di specializzazione in chirurgia della mano  
+L'art. 208, relativo alla scuola di specializzazione in medicina interna, e' abrogato e sostituito dal seguente:  
+"E' istituita presso la clinica medica dell'Universita' di Pavia la scuola di specializzazione in medicina interna".  
+
+Art. 3
+------
+
   
-Art. 271. - La scuola di specializzazione in chirurgia della mano ha sede presso l'istituto di clinica ortopedica e conferisce il diploma di specialista in chirurgia della mano.  
-Art. 272. - Il direttore della scuola e' il direttore dell'istituto di clinica ortopedica e traumatologica dell'Universita' di Pavia. La scuola e' sotto la vigilanza della facolta' di medicina e chirurgia.  
-Gli insegnanti della scuola sono proposti dal direttore della stessa, approvati dalla facolta' di medicina e chirurgia e nominati dal rettore. Essi possono essere scelti fra i professori ufficiali, tra i liberi docenti, tra gli aiuti e gli assistenti della facolta' di medicina e chirurgia o di altra facolta' dell'Ateneo o tra persone di riconosciuta competenza anche al di fuori dell'ambito universitario.  
-Art. 273 - Il corso ha la durata di tre anni. Possono essere ammessi alla scuola i laureati in medicina e chirurgia.  
-Art. 274. - Il numero dei posti disponibili e' di quattro per ogni anno.  
-Art. 275. - La frequenza e' obbligatoria nell'istituto sede della scuola per un periodo di nove mesi per ogni anno accademico.  
-Art. 276. - Gli insegnamenti impartiti dalla scuola sono:  
+L'art. 241, relativo alla scuola di specializzazione in medicina preventiva dei lavoratori e psicotecnica, e' modificato nel senso che il secondo comma e' soppresso.  
+
+Art. 4
+------
+
+  
+L'art. 246, relativo alla scuola di specializzazione in ematologia generale, che muta la denominazione in quella di scuola di specializzazione in ematologia generale (clinica e laboratorio), e' modificato nel senso che il comma terzo e quarto sono soppressi e sostituiti dal seguente:  
+"Non sono ammesse abbreviazioni di corso".  
+L'art. 248, relativo alla suddetta scuola di specializzazione in ematologia generale (clinica e laboratorio), e' modificato nel senso che il primo comma e' soppresso e sostituito dal seguente:  
+"L'ammissione alla scuola e' per titoli ed esami".  
+L'art. 249, relativo alla suddetta scuola di specializzazione in ematologia generale (clinica e laboratorio), e' soppresso con il conseguente spostamento della numerazione degli articoli successivi.
+
+Art. 5
+------
+
+  
+Gli articoli 256, 257, 258, relativi alla scuola di specializzazione in microbiologia, sono soppressi e sostituiti dai seguenti:  
+  
+Scuola di specializzazione in microbiologia  
+  
+Art. 256. - La scuola di specializzazione in microbiologia ha sede presso l'istituto di microbiologia e conferisce il diploma di specialista in microbiologia o in microbiologia con indirizzo tecnico.  
+La scuola di specializzazione in microbiologia ha lo scopo di allargare e approfondire sul piano scientifico la cultura di coloro che si dedicano allo studio di questa disciplina e di fornire sul piano tecnico una preparazione pratica specifica.  
+La direzione della scuola e' affidata al professore di ruolo o fuori ruolo della stessa materia della specializzazione o, in carenza, al professore di ruolo o fuori ruolo di materia affine.  
+Possono iscriversi alla scuola i laureati in medicina e chirurgia.  
+E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale rilasciato dall'autorita' competente. E' contemplato un secondo indirizzo in tecniche microbiologiche al quale sono ammessi i laureati in medicina veterinaria, in scienze biologiche, in scienze naturali, in farmacia, in chimica e' tecnologie farmaceutiche.  
+La durata del corso di studi e' di quattro anni e non e' suscettibile di abbreviazione.  
+Il numero massimo degli allievi e' di venti per anno di corso e complessivamente di ottanta iscritti per l'intero corso di studi.  
+L'ammissione al corso avviene per titoli ed esami.  
+Art. 257. - Le materie di insegnamento sono le seguenti:  
+  
+PRIMO BIENNIO  
+(comune ai due indirizzi)  
+  
 1° Anno:  
-clinica ortopedica dell'arto superiore (biennale; 1° anno);  
-traumatologia dell'arto superiore (biennale; 1° anno);  
-chirurgia plastica ricostruttiva (biennale; 1° anno);  
-anatomia funzionale della mano;  
-anatomia chirurgica dell'arto superiore;  
-anatomia e istologia patologica;  
-radiodiagnostica dell'arto superiore e nozioni di radioterapia; anestesiologia e rianimazione.  
+1) batteriologia generale 1;  
+2) tecniche batteriologiche;  
+3) immunologia generale;  
+4) genetica dei microrganismi.  
 2° Anno:  
-clinica ortopedica dell'arto superiore (biennale; 2° anno);  
-traumatologia dell'arto superiore (biennale; 2° anno);  
-chirurgia plastica ricostruttiva (biennale; 2° anno);  
-tecniche di chirurgia tendinea;  
-tecniche di chirurgia osteo-articolare;  
-chirurgia vascolare dell'arto superiore.  
+5) batteriologia generale II;  
+6) antibiotici e chemioterapici;  
+7) virologia generale;  
+8) immunologia generale e tecniche immunologiche;  
+9) dosaggio biologico ed analisi statistica.  
+  
+SECONDO BIENNIO  
+(indirizzo medico)  
+  
 3° Anno:  
-semeiotica e clinica neurologica dell'arto superiore;  
-elettrodiagnostica ed elettromiografia;  
-fisiochinesiterapia;  
-microchirurgia dei nervi periferici;  
-clinica dermatologica;  
-nozioni di medicina legale;  
-nozioni di psicologia;  
-protesi sostitutiva nelle amputazioni dell'arto superiore.  
-Art. 277. - L'allievo del primo anno, per essere ammesso al secondo, deve aver superato tutti gli esami del primo anno.  
-L'allievo del secondo anno, per essere ammesso al terzo, deve aver superato i tre esami biennali e tutti gli altri esami del secondo anno.  
-Per l'ammissione all'esame di diploma il candidato deve presentare una dissertazione scritta su un argomento della specialita'.  
-Art. 278. - Alle spese occorrenti al funzionamento della scuola si provvede con fondi rappresentati da introiti delle tasse di iscrizione e di laboratorio, le stesse che la legge stabilisce per gli studenti della facolta' di medicina e chirurgia, oltre la tassa di diploma:  
+10) microrganismi patogeni e malattia;  
+11) batteriologia speciale I;  
+12) virologia speciale e tecniche virologiche;  
+13) micologia medica;  
+14) epidemiologia delle malattie infettive.  
+4° Anno:  
+15) batteriologia speciale II;  
+16) sierologia;  
+17) microbiologia degli alimenti;  
+18) microbiologia dell'ambiente;  
+19) protozoologia medica.  
   
-tassa annuale di immatricolazione (da versare una sola volta). L. 5.000  
-tassa annuale di profitto (da versare in due rate) . . L. 186.000 contributi di laboratorio . . . . . . . . . . . . . . . L. 50.000 libretto e tessera . . . . . . . . . . . . . . . . . . . L. 2.000   
-La misura dei contributi per le esercitazioni pratiche di cui gli iscritti usufruiscono e per le altre prestazioni da effettuare durante il corso di studi, e' fissata anno per anno dal consiglio di amministrazione su proposta della facolta' di medicina e chirurgia (articolo 122, sez. 2a, titolo XI dello statuto dell'Universita' degli studi di Pavia).  
+SECONDO BIENNIO  
+(indirizzo in tecniche microbiologiche)  
   
-Scuola di specializzazione in chirurgia sperimentale e microchirurgia   
-Art. 279. - La scuola di specializzazione in chirurgia e microchirurgia ha la durata di tre anni e conferisce il diploma di specialista in tale materia.  
-Essa ha per scopo di impartire un insegnamento specialistico sulle tecniche della chirurgia sperimentale e della microchirurgia applicata alla chirurgia generale, di curare l'approfondimento dottrinario sugli argomenti della chirurgia clinica che non sono completamente risolti nell'applicazione pratica e di fornire una preparazione scientifico e tecnico-pratica su metodiche terapeutiche d'avanguardia non ancora di comune impiego nel trattamento delle malattie chirurgiche. La scuola dispone delle attrezzature cliniche, scientifiche e didattiche dell'istituto di patologia speciale chirurgica e propedeutica clinica e del laboratorio di chirurgia sperimentale ad esso annesso.  
-Art. 280. - Alla scuola possono essere ammessi i laureati in medicina e chirurgia per un numero complessivo di trenta iscritti. La selezione dei candidati avviene per mezzo di un concorso per titoli ed esami, da espletarsi entro il mese di dicembre. In nessun caso e' consentita l'abbreviazione di durata del corso. E' obbligatoria la frequenza alle lezioni, esercitazioni e ad ogni altra attivita' pratica o didattica realizzata nell'ambito della scuola di specializzazione. Gli iscritti devono inoltre presentare un internato sotto forma di servizio continuativo per non meno di nove mesi all'anno negli ambienti di diagnosi e cura e nel laboratorio, con lo orario stabilito per gli assistenti.  
-Art. 281. - Le materie di insegnamento sono le seguenti:  
-1° Anno:  
-anatomia comparata e fisiologia applicata dei mammiferi superiori, con particolare riferimento agli animali di esperimento;  
-l'anestesia e la rianimazione nell'animale da esperimento;  
-gli organi interni artificiali: il rene;  
-problemi ancora insoluti nella chirurgia del tubo digerente;  
-problemi ancora insoluti nella chirurgia delle ghiandole endocrine;  
-fondamenti di immunologia chirurgica;  
-problematica generale dei trapianti d'organo;  
-attrezzatura, strumenti e tecniche generali in microchirurgia. 2° Anno:  
-tabulazione, alimentazione, tecniche di prelievo di campioni dell'animale da esperimento;  
-fisiopatologia dello shock traumatico, settico, ipovolemico;  
-gli organi interni artificiali: il polmone;  
-problemi ancora insoluti nella chirurgia del pancreas;  
-chirurgia sperimentale del fegato e del circolo portale;  
-tecniche di laboratorio in uso nella immunologia chirurgica;  
-l'omotrapianto di rene nella clinica e nella sperimentazione;  
-microangiochirurgia.  
 3° Anno:  
-fisiopatologia del digiuno; il trattamento di nutrizione parentale controllata;  
-gli organi interni artificiali: il cuore ed il fegato;  
-tecniche di conservazione di organi isolati a scopo di trapianto;  
-problemi ancora insoluti nella chirurgia delle vie biliari;  
-l'omotrapianto di fegato nella clinica e nella sperimentazione; il trattamento post-operatorio del paziente portatore di trapianto;  
-aspetti medico-legali del prelievo di organi e da cadavere;  
-microneurochirurgia.  
-I corsi sono corredati da esercitazioni pratiche obbligatorie ed integrati da seminari su argomenti specifici tenuti da esperti italiani e stranieri.  
-Art. 282. - Al termine di ogni anno del corso gli iscritti devono sostenere gli esami di profitto sugli insegnamenti previsti dai piani di studio; il superamento di tali esami consente l'ammissione all'anno successivo.  
-L'esame finale di diploma consiste nella stesura e discussione di una tesi scritta in cui sono esposti i risultati personali ottenuti nell'attivita' sia d'indole clinica che sperimentale.  
-Art. 283. - La direzione della scuola e' conferita dalla facolta' secondo le norme generali che regolano la direzione della scuola di perfezionamento.  
-Gli insegnanti della scuola sono nominati dal rettore dell'Universita', su proposta del consiglio della facolta' di medicina e chirurgia su proposta del direttore della scuola. Le commissioni sono composte di tre membri: dal direttore della scuola, da un professore ufficiale di materia affine o da un professore incaricato stabilizzato della materia e da un libero docente cultore di chirurgia sperimentale e microchirurgia. Ogni commissario ha a disposizione 10 punti. La commissione per l'esame di diploma e' composta da cinque membri scelti fra i docenti della scuola nominati dal preside della facolta' di medicina e chirurgia su proposta del direttore della scuola. Ogni commissario ha a disposizione 10 punti.  
-Art. 284. - Alle spese occorrenti per il funzionamento della scuola si provvede con contributi eventualmente concessi da Ministeri, dalle regioni, da enti pubblici o privati e dalle seguenti tasse, soprattasse e contributi degli iscritti:  
+10) azione patogena dei microrganismi;  
+11) tecniche batteriologiche e batteriologia speciale I;  
+12) micologia generale e tecniche micologiche;  
+13) tecniche virologiche e virologia speciale;  
+14) protozoologia.  
+4° Anno:  
+15) tecniche batteriologiche e batteriologia speciale II;  
+16) microbiologia industriale;  
+17) esame microbiologico dell'ambiente;  
+18) controllo microbiologico degli alimenti;  
+19) tecniche sierologiche.  
+Il direttore puo' stabilire, per un piu' proficuo conseguimento dei fini della scuola, che siano tenuti corsi complementari di conferenze su materie ed argomenti che abbiano attinenza o affinita' con gli insegnamenti impartiti nella scuola.  
+Art. 258. - La frequenza alle lezioni e alle esercitazioni pratiche e obbligatoria. Gli allievi che non conseguono le attestazioni di frequenza sul relativo libretto non potranno essere ammessi a sostenere le prove di esame.  
+Alla fine di ogni corso gli iscritti per essere ammessi agli anni di corso successivi devono superare le prove di esame sulle materie impartite durante l'anno. Per le materie a corso pluriennale, l'esame sara' sostenuto alla fine dei corsi medesimi. L'esame di diploma consistera' di una discussione sopra una tesi scritta.  
+A coloro che abbiano superato l'esame finale verra' rilasciato un diploma di specialista in microbiologia o, per i non laureati in medicina e chirurgia, un diploma di specialista in microbiologia con indirizzo tecnico.  
+
+Art. 6
+------
+
   
-tassa di immatricolazione (da versare una sola volta). . L. 2.000 tassa annuale di iscrizione. . . . . . . . . . . . . . . L. 5.000 soprattassa annuale di esame . . . . . . . . . . . . . . L. 3.000 contributi di laboratorio . . . . . . . . . . . . . . . L. 65.000 libretto e tessera . . . . . . . . . . . . . . . . . . . L. 3.000 tassa erariale di diploma. . . . . . . . . . . . . . . . L. 6.000   
+L'[art. 272 del decreto del Presidente della Repubblica 10 ottobre 1977, n. 1211](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1977-10-10;1211~art272), relativo alla scuola di specializzazione in chirurgia della mano, e' modificato nel senso che il primo comma e' soppresso.
+
+Art. 7
+------
+
+  
+L'[art. 275 del decreto del Presidente della Repubblica 31 ottobre 1978, n. 1055](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1978-10-31;1055~art275), relativo alla scuola di specializzazione in chirurgia toracica, e' modificato nel senso che il numero degli iscritti e' stabilito in cinque per ogni anno di corso per un totale di venticinque iscritti.  
+  
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 10 ottobre 1977
+### Dato a Roma, addi' 31 ottobre 1979
 
-LEONE MALFATTI
+PERTINI VALITUTTI
 
-Visto, il Guardasigilli: BONIFACIO
+Visto, il Guardasigilli: MORLINO
 
-Registrato alla Corte dei conti, addi' 27 giugno 1978
+Registrato alla Corte dei conti, addi' 28 febbraio 1980
 
-Registro n. 67 Istruzione, foglio n. 343
+Registro n. 16 istruzione, foglio n. 250

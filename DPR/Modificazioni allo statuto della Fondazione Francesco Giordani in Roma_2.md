@@ -1,19 +1,19 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 24 febbraio 1967 n. 338
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 gennaio 1983 n. 206
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 24 febbraio 1967 n. 338
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 gennaio 1983 n. 206
+==============================================================
 
-Modificazioni allo statuto della Fondazione Francesco Giordani, in Roma.
-------------------------------------------------------------------------
+Modificazioni allo statuto della "Fondazione Francesco Giordani", in Roma.
+--------------------------------------------------------------------------
 
 Art. 1
 ------
 
 N.
 
-337. Decreto del Presidente della Repubblica 24 febbraio 1967, col quale, sulla proposta del Ministro per la pubblica istruzione, viene approvata una modifica all'art. 8 dello statuto della Fondazione Francesco Giordani, in Roma.  
+206. Decreto del Presidente della Repubblica 19 gennaio 1983, col quale, sulla proposta del Ministro della pubblica istruzione, viene approvata la modificazione all'art. 4 dello statuto della "Fondazione Francesco Giordani", in Roma, approvato con [decreto del Presidente della Repubblica 31 gennaio 1964, n. 186](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1964-01-31;186).  
   
-Visto, il Guardasigilli: REALE  
-Registrato alla Corte dei conti, addi' 27 maggio 1967  
-Atti del Governo, registro n. 211, foglio n. 61. - GRECO
+Visto, il Guardasigilli: DARIDA  
+Registrato alla Corte dei conti, addi' 9 maggio 1983  
+Registro n. 32 Istruzione, foglio n. 23

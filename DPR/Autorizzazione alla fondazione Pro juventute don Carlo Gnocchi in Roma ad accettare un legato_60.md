@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 settembre 1981 n. 655
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 giugno 1982 n. 415
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 settembre 1981 n. 655
-================================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 giugno 1982 n. 415
+=============================================================
 
 Autorizzazione alla fondazione "Pro juventute don Carlo Gnocchi", in Roma, ad accettare un legato.
 --------------------------------------------------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-655. Decreto del Presidente della Repubblica 22 settembre 1981, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare il legato, consistente nella somma di L. 4.000.000, disposto dal sig. Vallero Luigi con testamento pubblico redatto dal dott. Federico Bottino, notaio in Torino, il 10 maggio 1974, attivato dallo stesso notaio con verbale 3 luglio 1979, n. 44399 di repertorio e n. 8859 di raccolta, registrato a Torino il 17 luglio 1979 al n. 35153, vol. 132, a favore dell'Opera mutilatini di don Gnocchi che si identifica con la fondazione - Pro juventute don Carlo Gnocchi", come ha fatto presente la fondazione medesima.  
+415. Decreto del Presidente della Repubblica 5 giugno 1982, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare il legato, consistente nella somma di L. 500.000, disposto dalla sig.ra Baroni Regina Mercede, a favore dei mutilatini di don Gnocchi che si identificano con la fondazione predetta come si rileva dal verbale del consiglio di amministrazione nella riunione del 28 novembre 1980, con testamento olografo 1 marzo 1980, pubblicato in data 20 giugno 1980, n. 153 di repertorio e n. 63 di raccolta, a rogito dottore Giro De Vincenzo, notaio in Milano, registrato a Milano il 10 luglio 1980 al n. 16505.  
   
 Visto, il Guardasigilli: DARIDA  
-Registrato alla Corte dei conti, addi' 14 novembre 1981  
-Registro n. 10 Presidenza, foglio n. 39
+Registrato alla Corte dei conti, addi' 30 giugno 1982  
+Registro n. 6 Presidenza, foglio n. 71

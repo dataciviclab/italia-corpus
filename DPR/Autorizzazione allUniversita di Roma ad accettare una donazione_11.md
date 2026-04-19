@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 giugno 1950 n. 653
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 23 marzo 1954 n. 690
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 giugno 1950 n. 653
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 23 marzo 1954 n. 690
+============================================================
 
 Autorizzazione all'Universita' di Roma ad accettare una donazione.
 ------------------------------------------------------------------
@@ -12,7 +12,8 @@ Art. 1
 
 N.
 
-653. Decreto del Presidente della Repubblica 11 giugno 1950, col quale, sulla proposta del Ministro per la pubblica istruzione, l'Universita' di Roma viene autorizzata ad accettare la donazione della somma di L. 200.000 nominali, in titoli di Stato Rendita 5%, disposta in suo favore dalla baronessa Ida Zarone Bianchi, con atto pubblico amministrativo in data 19 dicembre 1949, per l'istituzione di un premio di studio biennale da intitolarsi al nome del figlio "Dott. Franco Zarone" e da conferirsi per concorso a giovani laureati in medicina e chirurgia dell'Universita' medesima, che abbiano presentato una tesi in neurologia meritevole di pubblicazione.  
+690. Decreto del Presidente della Repubblica 23 marzo 1954, col quale, sulla proposta del Ministro per la pubblica istruzione, l'Universita' di Roma viene autorizzata ad accettare la donazione di L. 170.000 nominali in titoli del Prestito della Ricostruzione 5% al portatore, disposta in suo favore dall'avv. Giuseppe Ambrosio, anche a nome della moglie, sig.ra Emilia Lafortuna, con atto pubblico amministrativo 26 febbraio 1953, e destinata ad incrementare il capitale del gia' costituito premio "Raffaele Ambrosio". Il premio medesimo viene trasformato in premio quadriennale e sara' conferito secondo le norme fissate da un nuovo regolamento.  
   
-Visto, il Guardasigilli: PICCIONI  
-Registrato alla Corte dei conti, addi' 21 agosto 1950
+Visto, il Guardasigilli: DE PIETRO  
+Registrato alla Corte dei conti, addi' 13 agosto 1954  
+Atti del Governo, registro n. 85, foglio n. 33. - TEMPESTA

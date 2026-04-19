@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 novembre 1979 n. 853
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 15 settembre 1980 n. 772
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 novembre 1979 n. 853
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 15 settembre 1980 n. 772
+================================================================
 
 Autorizzazione alla fondazione "Pro juventute don Carlo Gnocchi", in Roma, ad accettare un legato.
 --------------------------------------------------------------------------------------------------
@@ -12,9 +12,8 @@ Art. 1
 
 N.
 
-853. Decreto del Presidente della Repubblica 28 novembre 1979, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare il legato, consistente in titoli del valore nominale di L. 3.000.000, disposto a favore dell'istituto per i mutilatini di don Gnocchi, che si identifica con la fondazione "Pro juventute don Carlo Gnocchi", come ha fatto presente la fondazione medesima, dalla sig.ra Aurelia Adele Cazzaniga, con testamento olografo 15 luglio 1971, pubblicato in data 16 dicembre 1976, n. 43632/13073 di repertorio, a rogito dott.  
-Teodoro Berera, notaio in Lecco (Como), registrato a Lecco in data 29 dicembre 1976, n. 2600, vol. 219 A.P.  
+772. Decreto del Presidente della Repubblica 15 settembre 1980, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare il legato, consistente nella somma di L. 10.000.000, disposto dalla sig.ra Ida Benetti con testamento olografo 8 gennaio 1969, pubblicato in data 30 dicembre 1975, n. 46652 di repertorio e n. 13274 di raccolta, a rogito dott. Giovanni Carraro, notaio in Schio (Vicenza), registrato a Schio in data 14 gennaio 1976, n. 84, vol. 210/1°.  
   
 Visto, il Guardasigilli: MORLINO  
-Registrato alla Corte dei conti, addi' 21 marzo 1980  
-Registro n. 2 Presidenza, foglio n. 340
+Registrato alla Corte dei conti, addi' 12 novembre 1980  
+Registro n. 8 Presidenza, foglio n. 340

@@ -1,98 +1,84 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 13 marzo 1984 n. 386
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1974 n. 839
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 13 marzo 1984 n. 386
-============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1974 n. 839
+==============================================================
 
 Modificazioni allo statuto della Scuola normale superiore di Pisa.
 ------------------------------------------------------------------
 
+IL PRESIDENTE DELLA REPUBBLICA
+------------------------------
+
+Veduto lo statuto della Scuola normale superiore di Pisa, approvato con [decreto del Presidente della Repubblica 31 marzo 1969, n. 281](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1969-03-31;281) e modificato con [decreto del Presidente della Repubblica 16 ottobre 1973, n. 1100](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1973-10-16;1100), e successive modificazioni;
+
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
+
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
+
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche della Scuola anzidetta;
+
+Riconosciuta la particolare necessita' di approvare le modifiche proposte;
+
+Sentito il parere del Consiglio superiore della pubblica istruzione;
+
+Sulla proposta del Ministro per la pubblica istruzione;
+
+Decreta:
+
+Lo statuto della Scuola normale superiore di Pisa, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+
+Dopo l'art. 17, e con lo spostamento della numerazione degli articoli successivi, e' inserito il seguente nuovo articolo relativo al finanziamento dei posti di perfezionamento:
+
+Art. 18. - Qualora la Scuola intenda finanziare i posti di perfezionamento con borse o assegni ministeriali, emanera' i relativi bandi in conformita' alle disposizioni di legge.
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 31 ottobre 1974
+
+LEONE
+
+MALFATTI
+
+Visto, il Guardasigilli: REALE
+
+Registrato
+----------
+
+alla Corte dei conti, addi' 10 febbraio 1975 Atti di Governo, registro n. 8, foglio n. 107
+
 Art. 1
 ------
 
-((PROVVEDIMENTO ABROGATO DAL [D.L. 9 FEBBRAIO 2012, N. 5](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2012-02-09;5),   
-CONVERTITO CON MODIFICAZIONI DALLA [L. 4 APRILE 2012, N. 35](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2012-04-04;35)))
+ IL PRESIDENTE DELLA REPUBBLICA  
+  
+Veduto lo statuto della Scuola normale superiore di Pisa, approvato con [decreto del Presidente della Repubblica 31 marzo 1969, n. 281](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1969-03-31;281) e modificato con [decreto del Presidente della Repubblica 16 ottobre 1973, n. 1100](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1973-10-16;1100), e successive modificazioni;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche della Scuola anzidetta;  
+Riconosciuta la particolare necessita' di approvare le modifiche proposte;  
+Sentito il parere del Consiglio superiore della pubblica istruzione;  
+Sulla proposta del Ministro per la pubblica istruzione;  
+  
+Decreta:  
+  
+Lo statuto della Scuola normale superiore di Pisa, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+Dopo l'art. 17, e con lo spostamento della numerazione degli articoli successivi, e' inserito il seguente nuovo articolo relativo al finanziamento dei posti di perfezionamento:  
+Art. 18. - Qualora la Scuola intenda finanziare i posti di perfezionamento con borse o assegni ministeriali, emanera' i relativi bandi in conformita' alle disposizioni di legge.  
+  
 
-Art. 2
-------
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-((PROVVEDIMENTO ABROGATO DAL [D.L. 9 FEBBRAIO 2012, N. 5](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2012-02-09;5),   
-CONVERTITO CON MODIFICAZIONI DALLA [L. 4 APRILE 2012, N. 35](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2012-04-04;35)))
+### Dato a Roma, addi' 31 ottobre 1974
 
-Art. 3
-------
+LEONE MALFATTI
 
-((PROVVEDIMENTO ABROGATO DAL [D.L. 9 FEBBRAIO 2012, N. 5](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2012-02-09;5),   
-CONVERTITO CON MODIFICAZIONI DALLA [L. 4 APRILE 2012, N. 35](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2012-04-04;35)))
+Visto, il Guardasigilli: REALE
 
-Art. 4
-------
+Registrato alla Corte dei conti, addi' 10 febbraio 1975
 
-((PROVVEDIMENTO ABROGATO DAL [D.L. 9 FEBBRAIO 2012, N. 5](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2012-02-09;5),   
-CONVERTITO CON MODIFICAZIONI DALLA [L. 4 APRILE 2012, N. 35](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2012-04-04;35)))
-
-Art. 5
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.L. 9 FEBBRAIO 2012, N. 5](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2012-02-09;5),   
-CONVERTITO CON MODIFICAZIONI DALLA [L. 4 APRILE 2012, N. 35](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2012-04-04;35)))
-
-Art. 6
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.L. 9 FEBBRAIO 2012, N. 5](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2012-02-09;5),   
-CONVERTITO CON MODIFICAZIONI DALLA [L. 4 APRILE 2012, N. 35](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2012-04-04;35)))
-
-Art. 7
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.L. 9 FEBBRAIO 2012, N. 5](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2012-02-09;5),   
-CONVERTITO CON MODIFICAZIONI DALLA [L. 4 APRILE 2012, N. 35](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2012-04-04;35)))
-
-Art. 8
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.L. 9 FEBBRAIO 2012, N. 5](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2012-02-09;5),   
-CONVERTITO CON MODIFICAZIONI DALLA [L. 4 APRILE 2012, N. 35](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2012-04-04;35)))
-
-Art. 9
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.L. 9 FEBBRAIO 2012, N. 5](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2012-02-09;5),   
-CONVERTITO CON MODIFICAZIONI DALLA [L. 4 APRILE 2012, N. 35](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2012-04-04;35)))
-
-Art. 10
--------
-
-((PROVVEDIMENTO ABROGATO DAL [D.L. 9 FEBBRAIO 2012, N. 5](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2012-02-09;5),   
-CONVERTITO CON MODIFICAZIONI DALLA [L. 4 APRILE 2012, N. 35](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2012-04-04;35)))
-
-Art. 11
--------
-
-((PROVVEDIMENTO ABROGATO DAL [D.L. 9 FEBBRAIO 2012, N. 5](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2012-02-09;5),   
-CONVERTITO CON MODIFICAZIONI DALLA [L. 4 APRILE 2012, N. 35](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2012-04-04;35)))
-
-Art. 12
--------
-
-((PROVVEDIMENTO ABROGATO DAL [D.L. 9 FEBBRAIO 2012, N. 5](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2012-02-09;5),   
-CONVERTITO CON MODIFICAZIONI DALLA [L. 4 APRILE 2012, N. 35](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2012-04-04;35)))
-
-Art. 13
--------
-
-((PROVVEDIMENTO ABROGATO DAL [D.L. 9 FEBBRAIO 2012, N. 5](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2012-02-09;5),   
-CONVERTITO CON MODIFICAZIONI DALLA [L. 4 APRILE 2012, N. 35](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2012-04-04;35)))
-
-Art. 14
--------
-
-((PROVVEDIMENTO ABROGATO DAL [D.L. 9 FEBBRAIO 2012, N. 5](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2012-02-09;5),   
-CONVERTITO CON MODIFICAZIONI DALLA [L. 4 APRILE 2012, N. 35](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2012-04-04;35)))
-
-Art. 15
--------
-
-((PROVVEDIMENTO ABROGATO DAL [D.L. 9 FEBBRAIO 2012, N. 5](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2012-02-09;5),   
-CONVERTITO CON MODIFICAZIONI DALLA [L. 4 APRILE 2012, N. 35](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2012-04-04;35)))
+Atti di Governo, registro n. 8, foglio n. 107

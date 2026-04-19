@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 maggio 1983 n. 328
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 09 aprile 1986 n. 416
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 maggio 1983 n. 328
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 09 aprile 1986 n. 416
 =============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi "La Sapienza" di Roma.
@@ -10,7 +10,7 @@ Modificazioni allo statuto dell'Universita' degli studi "La Sapienza" di Roma.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' degli studi "La Sapienza" di Roma, approvato con [regio decreto 14 ottobre 1926, n. 2319](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2319), e successive modificazioni;
+Veduto lo statuto dell'Universita' "La Sapienza" di Roma, approvato con [regio decreto 14 ottobre 1926, n. 2319](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2319), e successive modificazioni;
 
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
@@ -31,33 +31,42 @@ Veduto il parere del Consiglio universitario nazionale;
 Sulla proposta del Ministro della pubblica istruzione;
 
 Decreta:
---------
 
-Lo statuto dell'Universita' degli studi "La Sapienza" di Roma, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+Lo statuto dell'Universita' "La Sapienza" di Roma, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
-Articolo unico
---------------
+Art. 1
+------
 
   
-Art. 59 - nell'elenco degli insegnamenti complementari del corso di laurea in lettere sono inseriti i seguenti insegnamenti:  
-storia delle universita';  
-antichita' medioevali;  
-esegesi delle fonti della storia medioevale;  
-storia della storiografia medioevale.  
-Art. 60 - nell'elenco degli insegnamenti complementari del corso di laurea in filosofia sono inseriti i seguenti insegnamenti:  
-ermeneutica filosofica;  
-storia dell'estetica.  
+Nell'art. 92, relativo al corso di laurea in medicina e chirurgia, all'elenco degli insegnamenti complementari sono aggiunti i seguenti insegnamenti:  
+neuroendocrinologia;  
+neurochimica;  
+anatomia radiologica.  
+
+Art. 2
+------
+
+  
+Nell'art. 104, relativo al corso di laurea in chimica, all'elenco degli insegnamenti complementari dell'indirizzo organico-biologico e dell'indirizzo inorganico-chimico-fisico e' aggiunto l'insegnamento di "analisi degli inquinanti".  
+Nell'art. 105, relativo al corso di laurea in chimica industriale, all'elenco degli insegnamenti complementari sono aggiunti i seguenti insegnamenti:  
+analisi degli inquinanti;  
+analisi chimica strumentale con metodi elettrochimici;  
+analisi chimica strumentale mediante distribuzione tra fasi.  
+Nell'art. 110, relativo al corso di laurea in fisica, all'elenco degli insegnamenti complementari e' aggiunto, per gli indirizzi: generale, didattico e applicativo, l'insegnamento di "fisica del sistema solare".  
+Nell'art. 115, relativo al corso di laurea in scienze naturali, all'elenco degli insegnamenti complementari e' aggiunto l'insegnamento di "astronomia generale".  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 4 maggio 1983
+### Dato a Roma, addi' 9 aprile 1986
 
-PERTINI FALCUCCI
+COSSIGA
 
-Visto, il Guardasigilli: DARIDA
+FALCUCCI, Ministro della pubblica istruzione
 
-Registrato alla Corte dei conti, addi' 5 luglio 1983
+Visto, il Guardasigilli: MARTINAZZOLI
 
-Registro n. 49 Istruzione, foglio n. 55
+Registrato alla Corte dei conti, addi' 11 luglio 1986
+
+Registro n. 56 Istruzione, foglio n. 14

@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 gennaio 1972 n. 62
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 03 dicembre 1963 n. 1886
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 gennaio 1972 n. 62
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 03 dicembre 1963 n. 1886
+================================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Torino.
 ------------------------------------------------------------------
@@ -12,12 +12,12 @@ Art. 1
 
  IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Torino, approvato con [regio decreto 14 ottobre 1926, n. 2284](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2284) e modificato con [regio decreto 13 ottobre 1927, n. 2788](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2788), e successive modificazioni;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
+Veduto lo statuto dell'Universita' degli studi di Torino, approvato con [regio decreto 14 ottobre 1926, numero 2284](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2284) e modificato con [regio decreto 13 ottobre 1927, n. 2788](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2788), e successive modificazioni;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1986, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1986-01-02;73);  
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
 Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
 Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
 Sentito il parere del Consiglio superiore della pubblica istruzione;  
 Sulla proposta del Ministro per la pubblica istruzione;  
@@ -26,144 +26,105 @@ Decreta:
   
 Lo statuto dell'Universita' degli studi di Torino, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
   
-Gli articoli 85, 86 e 87, relativi all'ordinamento degli studi della facolta' di medicina veterinaria sono abrogati e sostituiti dai seguenti:  
+Art. 27. - All'elenco degli insegnamenti complementari del corso di laurea in Lingue e letterature straniere sono aggiunti quelli di:  
+Letteratura ibero-americana;  
+Letteratura anglo-americana.  
+Dopo l'art. 64 e con il conseguente spostamento della successiva numerazione, sono inseriti i seguenti nuovi articoli relativi alla istituzione della Scuola di amministrazione industriale (scuola diretta a fini speciali).  
   
-SEZIONE IX  
-FACOLTA' DI MEDICINA VETERINARIA  
+Scuola di amministrazione industriale  
+(Scuola diretta a fini speciali)  
   
-Art. 85. - La facolta' di medicina veterinaria conferisce la laurea in medicina veterinaria.  
-E' titolo di ammissione quello previsto dalle leggi in vigore.  
-Il corso di studi ha la durata di cinque anni e comporta obbligatoriamente l'insegnamento, teorico e pratico, di almeno 4500 ore sulle materie fondamentali relative ad un insegnamento di base e ad un insegnamento veterinario specifico e sulle materie complementari di cui al [decreto del Presidente della Repubblica 23 ottobre 1969, n. 987](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1969-10-23;987), secondo la suddivisione seguente:  
-Numero minimo di ore  
-Insegnamenti fondamentali: ----  
-  
-Fisica. . . . . . . . . . . . . . . . . . . . . . . 120  
-Chimica I . . . . . . . . . . . . . . . . . . . . . 100  
-Chimica II. . . . . . . . . . . . . . . . . . . . . 100  
-Zoologia. . . . . . . . . . . . . . . . . . . . . . 120  
-Botanica. . . . . . . . . . . . . . . . . . . . . . 90  
-Metodi matematici applicati alle scienze biologiche  
-(bio-matematica). . . . . . . . . . . . . . . . . . . . 30  
-Anatomia veterinaria sistematica e comparata I. . . 100  
-Anatomia veterinaria sistematica e comparata II . . 100  
-Anatomia topografica veterinaria. . . . . . . . . . 60  
-Teratologia . . . . . . . . . . . . . . . . . . . . 60  
-Istologia generale e speciale (anatomia microsco-  
-pica) . . . . . . . . . . . . . . . . . . . . . . . . . 80  
-Embriologia . . . . . . . . . . . . . . . . . . . . 40  
-Fisiologia generale e speciale veterinaria I e fi-  
-sica biologica. . . . . . . . . . . . . . . . . . . . . 100  
-Fisiologia generale e speciale veterinaria II e fi-  
-sica biologica. . . . . . . . . . . . . . . . . . . . . 100  
-Biochimica. . . . . . . . . . . . . . . . . . . . . 100  
-Zootecnia I: igiene, aspetti esteriori degli ani-  
-mali, etnologia . . . . . . . . . . . . . . . . . . . . 110  
-Zootecnia II: genetica ed allevamento . . . . . . . 60  
-Alimentazione e nutrizione animale. . . . . . . . . 130  
-Economia rurale ed agronomia. . . . . . . . . . . . 30  
-Farmacologia e farmacodinamia veterinaria . . . . . 60  
-Farmacia e terapeutica generale veterinaria . . . . 45  
-Tossicologia veterinaria. . . . . . . . . . . . . . 45  
-Anatomia patologica veterinaria generale e spe-  
-ciale I . . . . . . . . . . . . . . . . . . . . . . . . 75  
-Anatomia patologica generale e speciale II. . . . . 75  
-Autopsie. . . . . . . . . . . . . . . . . . . . . . 50  
-Propedeutica I: semeiologia medica veterinaria e  
-metodologia clinica . . . . . . . . . . . . . . . . . . 60  
-Propedeutica II: semeiologia chirurgica veterinaria  
-e metodologia clinica . . . . . . . . . . . . . . . . . 60  
-Patologia generale veterinaria. . . . . . . . . . . 50  
-Microbiologia generale veterinaria (batteriologia,  
-virologia, immunologia) . . . . . . . . . . . . . . . . 60  
-Patologia e profilassi delle malattie infettive de-  
-gli animali domestici I . . . . . . . . . . . . . . . . 70  
-Patologia e profilassi delle malattie infettive de-  
-gli animali domestici II. . . . . . . . . . . . . . . . 70  
-Parassitologia veterinaria (compresa micologia,  
-protozoologia, entomologia, elmintologia) . . . . . . . 60  
-Malattie parassitarie degli animali domestici . . . 50  
-Polizia sanitaria . . . . . . . . . . . . . . . . . 30  
-Medicina legale veterinaria, legislazione veterina-  
-ria e deontologia . . . . . . . . . . . . . . . . . . . 30  
-Patologia medica degli animali domestici (ruminan-  
-ti, equidi, carnivori, suini, pollame, conigli, ecc.) . 150  
-Ostetricia veterinaria. . . . . . . . . . . . . . . 80  
-Patologia della riproduzione e fecondazione artifi-  
-Ciale . . . . . . . . . . . . . . . . . . . . . . . . . 70  
-Patologia chirurgica veterinaria e podologia. . . . 80  
-Medicina operatoria veterinaria . . . . . . . . . . 70  
-Ispezione e controllo delle derrate alimentari di  
-origine animale (carni, latte, pesci, uova, ecc.) I . . 80  
-Ispezione e controllo delle derrate alimentari di  
-origine animale (carni, latte, pesci, uova, ecc.) II. . 70  
-Lavori pratici nei macelli. . . . . . . . . . . . . 50  
-Clinica medica veterinaria. . . . . . . . . . . . . 275  
-Clinica chirurgica, veterinaria . . . . . . . . . . 275  
-Clinica ostetrica e ginecologia veterinaria . . . . 275  
-Patologia aviare. . . . . . . . . . . . . . . . . . 275  
-Radiologia veterinaria. . . . . . . . . . . . . . . 50  
-  
-Insegnamenti complementari:  
-  
-Le ore che restano per raggiungere il numero previsto di 4500 ore, dovranno essere ripartite fra tre insegnamenti complementari scelti dallo studente nel seguente elenco:  
-Anestesiologia;  
-Approvvigionamenti annonari, mercati e industrie degli alimenti di origine animale;  
-Patologia bovina;  
-Diagnostica di laboratorio;  
-Ecologia;  
-Ematologia clinica comparata;  
-Endocrinologia degli animali domestici;  
-Etnografia;  
-Fisioclimatologia;  
-Idrobiologia e pescicoltura;  
-Igiene del latte;  
-Igiene e controllo dei prodotti della pesca;  
-Istituzioni di matematica;  
-Istologia patologica;  
-Ittiopatologia;  
-Lingua straniera;  
-Oftalmologia comparata;  
-Patologia tropicale;  
-Storia della medicina veterinaria;  
-Tecnica conserviera;  
-Tecnica mangimistica;  
-Tecnologia avicola;  
-Virologia;  
-Igiene zootecnica.  
-  
-Dall'elenco delle materie complementari sopra riportate, la facolta', con delibera propria e con rispetto delle esigenze didattiche, sceglie i corsi da attivare nei singoli anni accademici nella misura prevista e consentita dalle disposizioni vigenti.  
-La facolta', nell'ambito della propria autonomia didattica, stabilisce altresi' i piani di studio per le materie previste come insegnamenti, fondamentali e complementari, nonche' il numero delle ore da attribuire per lo svolgimento dei corsi e delle relative esercitazioni e le modalita' di esame per materie o per gruppi.  
-E' consentita, su richiesta dello studente, la possibilita' di sostenere esami per gruppi di materie affini in numero non superiore a tre, sull'affinita' delle materie decide il consiglio di facolta'.  
-Gli insegnamenti di clinica medica, di clinica chirurgica, di ispezione e controllo delle derrate alimentari di origine animale e delle materie del gruppo di zootecnia devono essere completati da un tirocinio pratico della durata complessiva di almeno sei mesi presso istituti della facolta' di medicina veterinaria o presso civici macelli o altri enti ed uffici pubblici riconosciuti idonei dalla facolta' di medicina veterinaria.  
-Il periodo semestrale di tirocinio pratico, che deve essere iniziato dopo la chiusura dei corsi di insegnamento del quinto anno e completato prima che i candidati si presentino a sostenere l'esame di abilitazione all'esercizio professionale, e' utilizzabile, ai fini del raggiungimento delle ore richieste per gli insegnamenti clinici (clinica medica, Clinica chirurgica, clinica ostetrica, patologia aviare).  
-Per essere ammesso all'esame di laurea, lo studente deve aver seguito i corsi e superato gli esami negli insegnamenti fondamentali ed almeno in tre altri insegnamenti da lui scelti fra i complementari.  
-Art. 86. - I corsi di chimica, anatomia veterinaria sistematica e comparata, fisiologia generale e speciale veterinaria e fisica biologica, anatomia patologica veterinaria generale e speciale, patologia e profilassi delle malattie infettive degli animali domestici, ispezione e controllo delle derrate alimentari di origine animale, comportano due insegnamenti e due esami distinti (I e II parte); per ciascuno di tali insegnamenti l'esame relativo alla I parte deve precedere quello relativo, alla II parte.  
-Gli esami di fisica, chimica, zoologia, botanica, istologia generale e speciale e di embriologia devono precedere l'esame di anatomia veterinaria sistematica e comparata (I parte).  
-L'esame di anatomia veterinaria (II parte) e l'esame di biochimica devono precedere l'esame di fisiologia generale e speciale veterinaria e fisica biologica (I parte).  
-L'esame di patologia generale deve seguire gli esami di anatomia veterinaria sistematica e comparata II e di fisiologia generale e speciale veterinaria e fisica biologica II e deve precedere quello di anatomia patologica generale e speciale veterinaria (I parte); l'esame di anatomia patologica generale e speciale (I parte) deve precedere gli esami di patologia e profilassi delle malattie infettive degli animali domestici (I parte), patologia medica degli animali domestici, patologia chirurgica veterinaria e podologia, ostetricia veterinaria.  
-L'esame di anatomia patologica veterinaria generale e speciale (II parte) deve precedere l'esame di ispezione e controllo delle derrate di origine animale (II parte).  
-La microbiologia e' propedeutica rispetto alla patologia e profilassi delle malattie infettive degli animali domestici.  
-La parassitologia e' propedeutica rispetto alle malattie parassitarie.  
-L'esame di fisiologia generale e speciale veterinaria II e fisica biologica e' propedeutico per farmacologia e farmacodinamia veterinaria, che deve a sua volta precedere gli esami di farmacia terapeutica generale veterinaria e tossicologia veterinaria.  
-L'esame di zootecnia I (igiene, aspetti esteriori degli animali, etnologia) deve seguire l'esame di fisiologia veterinaria generale e speciale (parte II) e fisica biologica e precedere gli esami di zootecnia II (genetica ed allevamento), alimentazione e nutrizione, economia rurale ed agronomia.  
-Per essere ammesso agli esami di clinica medica, di clinica chirurgica e di clinica ostetrica e ginecologica veterinaria, lo studente deve aver superato l'esame di patologia e profilassi delle malattie infettive degli animali domestici II e rispettivamente gli esami di semeiologia medica veterinaria, di semeiologia chirurgica veterinaria, di patologia medica degli animali domestici, di patologia chirurgica veterinaria e podologia di medicina operatoria, di patologia della riproduzione e fecondazione artificiale e di ostetricia veterinaria.  
-Art. 87. - Per gli studenti provenienti da altre facolta' il consiglio di facolta' stabilisce caso per caso l'anno di corso cui possono essere ammessi, con l'eventuale convalida di frequenza e di esami, dopo aver valutato l'equipollenza e l'affinita' dei rispettivi corsi con quelli previsti nel piano di studi della facolta'.  
-Con gli stessi criteri, il consiglio di facolta' determina l'ammissione al corso di laurea in medicina veterinaria di candidati provvisti di diploma di laurea conseguito presso una qualsiasi altra facolta'.  
+Art. 65. - Nella Facolta', di economia e commercio e' istituita una "Scuola di amministrazione industriale" ai sensi dell'[art. 20, terzo comma, lettera a) del testo unico del 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art20-com3-leta).  
+La Scuola si propone di formare giovani professionalmente preparati per le carriere amministrative e direttive nelle imprese industriali mercantili.  
+La Scuola conferisce il diploma di amministrazione industriale. I titoli di ammissione alla Scuola sono gli stessi richiesti per l' ammissione alla Facolta' di economia e commercio.  
+Art. 66. - La Scuola ha sede presso l'Universita' degli studi di Torino e gode di autonomia amministrativa, finanziaria e didattica.  
+La Scuola ha un proprio bilancio, che viene approvato dal Consiglio di amministrazione della Scuola e allegato al bilancio universitario.  
+Art. 67. - La Scuola ha un proprio Consiglio di amministrazione, nominato dal rettore dell'Universita' e' formato:  
+a) dal direttore della Scuola, che lo presiede;  
+b) da due professori di ruolo dell'Universita' e da un libero docente, designati dal Consiglio della Facolta' di economia e commercio;  
+c) da tre rappresentanti degli enti o istituti finanziatori interessati al funzionamento della Scuola e da essi designati.  
+Il Consiglio dura in carica tre anni e i suoi membri sono rieleggibili.  
+Art. 68. - Il Consiglio di amministrazione della Scuola:  
+a) delibera il bilancio preventivo e relative variazioni, e il bilancio consuntivo;  
+b) propone al Consiglio della Facolta' di economia e commercio l'istituzione di nuovi insegnamenti della Scuola in aggiunta o in sostituzione di quelli esistenti, e la modifica o la soppressione di altri;  
+c) approva il regolamento della Scuola e le sue modificazioni; queste ultime su proposta o sentito il Consiglio dei professori;  
+d) esprime il suo parere su tutte le questioni che siano ad esso sottoposte dal Consiglio della Facolta' o dal Consiglio dei professori.  
+Art. 69. - Direttore della Scuola e' il direttore dello Istituto di amministrazione industriale della Facolta' di economia e commercio.  
+Il direttore ha la direzione e la rappresentanza della Scuola e ne assicura la regolarita' e la disciplina.  
+Art. 70. - Il Consiglio dei professori della Scuola e' composto dal direttore che lo presiede, e dai professori della Scuola. Il Consiglio delibera su tutte le questioni di natura didattica e disciplinare relative alla Scuola.  
+Il Consiglio della Scuola e' convocato dal direttore.  
+Entro il mese di luglio di ogni anno deve riunirsi per esaminare, coordinare ed approvare i programmi dei corsi per l'anno successivo.  
+Art. 71. - Il personale insegnante della Scuola e' nominato su proposta del Consiglio della Facolta' di economia e commercio, sentito il Consiglio di amministrazione della Scuola per la durata di un anno accademico.  
+Art. 72. - Gli uffici di amministrazione e di segreteria dell'Universita' funzionano da uffici di amministrazione e di segreteria della Scuola.  
+Art. 73. - L'anno finanziario inizia il 1 novembre.  
+Il bilancio preventivo della Scuola viene deliberato dal Consiglio di amministrazione entro il mese di luglio di ogni anno.  
+Art. 74. - I proventi della Scuola sono costituiti dalle tasse scolastiche, dagli eventuali contributi dello Stato, di Enti pubblici e di privati, dai lasciti, dalle donazioni e dai relativi redditi.  
+Le tasse, le sopratasse e i contributi sono quelli in vigore nella Universita' di Torino per la Facolta' di economia e commercio. Le disposizioni sulle tasse di laurea si applicano al diploma conferito dalla Scuola.  
+I proventi sono destinati a coprire:  
+a) la spesa per stipendi ed assegni al personale insegnante assistente, tecnico e d'ordine della Scuola;  
+b) la spesa per stipendi al personale insegnante, assistente tecnico e d'ordine, incaricato per il corso biennale di laurea in Amministrazione industriale, quando sia istituito;  
+c) la quota spese da versare al bilancio universitario per l'uso dei locali e per i servizi amministrativi, di segreteria e generali;  
+d) la concessione agli studenti meritevoli e di condizioni economiche non agiate, regolarmente iscritti alla Scuola dell'assistenza scolastica sotto forma di borse, premi ed assegni di studio;  
+e) le altre spese competenti direttamente alla Scuola.  
+Gli eventuali avanzi di esercizio saranno destinati ad un fondo da servire, anche mediante la corresponsione di contributi ad enti e fondazioni per l'acquisto, la costruzione, l'attrezzatura e l'esercizio, di un collegio universitario riservato a studenti iscritti presso l'Universita' di Torino al corso di diploma in Amministrazione industriale.  
+Art. 75. - Il corso di diploma ha la durata di due anni.  
+I singoli insegnamenti possono svolgersi lungo l'intero anno accademico o su un solo semestre. Il regolamento della Scuola (art. 68, lettera c) dovra' determinare l'epoca iniziale e finale dei corsi annuali e semestrali.  
+Art. 76. - Su domanda motivata dell'allievo o di ufficio, l'allievo puo' essere messo fuori corso per uno o piu' semestri, secondo quanto e' giudicato necessario.  
+Il prolungamento ha il fine di consentire a chi non abbia potuto seguire una o piu' materie del corso ne' superare gli esami relativi nel tempo prescritto, di rimettersi al corrente.  
+La durata del periodo fuori corso, salvo motivi da vagliarsi caso per caso dal Consiglio dei professori, non puo' superare complessivamente la durata regolamentare del corso.  
+Salvo gravi motivi, da vagliarsi come detto al precedente capoverso, gli allievi che beneficiano di una borsa di studio o comunque dell'assistenza scolastica e gli allievi ammessi all'esenzione totale o parziale dalle tasse decadono dal beneficio ove siano messi fuori corso.  
+Art. 77. - Il corso della Scuola puo' essere seguito in uno dei seguenti indirizzi:  
+Finanza e controllo;  
+Organizzazione amministrativa;  
+Mercatistica.  
+Art. 78. - Sono materie fondamentali di insegnamento per tutti gli indirizzi:  
+Diritto privato;  
+Statistica metodologica;  
+Matematica generale I (corso semestrale);  
+Matematica generale II (corso semestrale);  
+Ragioneria generale (corso semestrale);  
+Economia dell'impresa;  
+Tecnica industriale e commerciale I; organizzazione della produzione;  
+Problematica generale amministrativa.  
+Sono materie fondamentali per l'indirizzo Finanza e controllo:  
+Ragioneria industriale (corso semestrale);  
+Tecnica industriale e commerciale II: amministrazione finanziaria;  
+Tecnica industriale e commerciale III: programmazione e controllo;  
+Legislazione pratica tributaria (corso semestrale).  
+Sono materie fondamentali per l'indirizzo Organizzazione amministrativa:  
+Psicologia e sociologia del lavoro;  
+Organica;  
+Diritto del lavoro e della previdenza sociale (corso semestrale);  
+Elementi di pubblica amministrazione (corso semestrale).  
+Sono materie fondamentali per l'indirizzo Mercatistica:  
+Statistica demografica ed economica;  
+Mercatistica e ricerche di mercato;  
+Tecnica del commercio internazionale.  
+Per essere ammesso all'esame di diploma lo studente deve aver seguito i corsi e superato gli esami negli insegnamenti fondamentali comuni ed in quelli dell'indirizzo prescelto, nonche' in almeno due altri insegnamenti da lui scelti fra i complementari o fra gli insegnamenti ufficiali del corso di laurea in economia e commercio.  
+Sono insegnamenti complementari:  
+Macchine per l'elaborazione delle informazioni;  
+Psicologia e tecnica delle relazioni pubbliche.  
+La conoscenza pratica di due lingue straniere (fra le quali l'inglese) e' richiesta per l'indirizzo di Mercatistica e dovra' venire comprovata con una prova scritta ed una orale per ciascuna lingua, alla fine del biennio.  
+Art. 79. - Gli esami si svolgono normalmente in due sessioni: la prima nella prima quindicina di luglio e la seconda nella seconda quindicina di ottobre.  
+Una terza sessione da tenersi nel mese di marzo e' limitata agli esami di corsi semestrali svolti nel primo semestre dell'anno.  
+Art. 80. - L'esame finale di diploma consiste nella preparazione e nella discussione di una dissertazione scritta su di un argomento scelto, impostato e' svolto in modo da dimostrare l'attitudine e la capacita' del candidato ad applicare ad una problematica concreta le conoscenze e i metodi studiati. La discussione ha luogo davanti ad una Commissione nominata dal direttore e formata dallo stesso, che la presiede, da almeno quattro membri del Consiglio dei professori della Scuola, da un rappresentante della Facolta' di economia e commercio e da uno del Consiglio di amministrazione della Scuola.  
+Art. 81. - Per quanto non espressamente previsto dalle precedenti disposizioni, si applicano le norme vigenti per l'insegnamento universitario.  
   
 Norma transitoria  
   
-Gli studenti del corso di laurea in medicina veterinaria, all'atto dell'entrata in vigore delle suddette modifiche di statuto, possono optare per il corso di laurea in quattro o cinque anni. All'uopo debbono presentare regolare domanda per integrare gli esami secondo quanto stabilira' caso per caso il consiglio di facolta'.  
+A giudizio del Consiglio del professori puo' essere concessa l'abbreviazione degli studi, con dispensa dalla frequenza e dagli esami di singoli insegnamenti o di anni di corso, e previ eventuali esami integrativi, a coloro che, alla data d'entrata in vigore delle presenti disposizioni, risultino regolarmente iscritti alla preesistente scuola di applicazione di amministrazione di Torino.  
+Gli ex iscritti alla stessa Scuola, che abbiano sostenuto l'esame finale del biennio presso di essa, potranno ottenere il corrispondente diploma della Scuola di amministrazione industriale previa presentazione e discussione della dissertazione gia' elaborata, davanti alla Commissione di diploma di cui all'art. 80.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 28 gennaio 1972
+### Dato a Roma, addi' 3 dicembre 1963
 
-LEONE MISASI
+SEGNI GUI
 
-Visto, il Guardasigilli: GONELLA
+Visto, il Guardasigilli: REALE
 
-Registrato alla Corte dei conti, addi' 14 marzo 1972
+Registrato alla Corte dei conti, addi' 4 gennaio 1964
 
-Atti del Governo, registro n. 247, foglio n. 128. - VALENTINI
+Atti del Governo, registro n. 179, foglio n. 29. - VILLA

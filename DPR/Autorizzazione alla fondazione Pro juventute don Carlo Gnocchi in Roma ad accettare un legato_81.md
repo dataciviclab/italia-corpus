@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 23 gennaio 1976 n. 57
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 12 febbraio 1985 n. 187
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 23 gennaio 1976 n. 57
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 12 febbraio 1985 n. 187
+===============================================================
 
 Autorizzazione alla fondazione "Pro juventute don Carlo Gnocchi", in Roma, ad accettare un legato.
 --------------------------------------------------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-57. Decreto del Presidente della Repubblica 23 gennaio 1976, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare il legato disposto dalla sig.ra Erminia Coppo con testamento olografo 9 luglio 1971, pubblicato e depositato con verbale n. 48147.8353 di repertorio in data 3 luglio 1972 del dott. Fernando Montarolo, notaio in Casale Monferrato (Alessandria), ed ivi registrato il 5 luglio 1972, vol. 413 al n. 1450 atti pubblici, consistente in denaro liquido, oro e valuta estera per un valore presunto di lire 11.067.502.  
+187. Decreto del Presidente della Repubblica 12 febbraio 1985, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare il legato, consistente nel 50% degli immobili siti in Besana Brianza, frazione Montesiro, valore attribuito con perizia di parte L. 78.000.000 elevato dall'ufficio tecnico erariale di Milano a lire 100.000.000, disposto dalla sig.ra Margherita Pilotti a favore della Pro juventute don Carlo Gnocchi, che si identifica con la fondazione medesima, come si evince dal verbale del consiglio di amministrazione della stessa del 20 novembre 1981, con testamento olografo 15 dicembre 1980, pubblicato in data 5 marzo 1981, n. 52862/23369 di repertorio, a rogito dottor Martino Gransella, notaio in Gravedona, registrato a Menaggio in data 10 marzo 1981 al n. 259.  
   
-Visto, il Guardasigilli: BONIFACIO  
-Registrato alla Corte dei conti, addi' 13 marzo 1976  
-Atti di Governo, registro n. 4, foglio n. 10
+Visto, il Guardasigilli: MARTINAZZOLI  
+Registrato alla Corte dei conti, addi' 2 maggio 1985  
+Registro n. 4 Presidenza, foglio n. 86

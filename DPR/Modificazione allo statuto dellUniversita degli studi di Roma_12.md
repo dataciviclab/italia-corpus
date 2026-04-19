@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 maggio 1979 n. 319
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 maggio 1979 n. 327
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 maggio 1979 n. 319
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 maggio 1979 n. 327
 =============================================================
 
 Modificazione allo statuto dell'Universita' degli studi di Roma.
@@ -12,7 +12,7 @@ Art. 1
 
  IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' di Roma, approvato con [regio decreto 20 aprile 1939, n. 1350](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1350) e modificato con [regio decreto 26 ottobre 1939, n. 1734](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-26;1734), e successive modificazioni;  
+Veduto lo statuto dell'Universita' di Roma, approvato con [regio decreto n. 1350 del 20 aprile 1939](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1350) e modificato con [regio decreto n. 1734 del 26 ottobre 1939](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-26;1734), e successive modificazioni;  
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
@@ -25,17 +25,24 @@ Sulla proposta del Ministro della pubblica istruzione;
 Decreta:  
   
 Lo statuto dell'Universita' degli studi di Roma, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-Art. 84 - l'elenco degli istituti annessi alla facolta' di medicina e chirurgia e' modificato nel senso che i seguenti istituti:  
-1) istituto di seconda patologia speciale medica e metodologia clinica;  
-2) istituto di prima patologia speciale medica e metodologia clinica;  
-3) istituto di seconda patologia speciale chirurgica e propedeutica clinica;  
-4) istituto di terza patologia speciale chirurgica e propedeutica clinica;  
-5) istituto di chirurgia d'urgenza e pronto soccorso, mutano rispettivamente la denominazione nelle seguenti:  
-1) istituto di quinta clinica medica generale e terapia medica;  
-2) istituto di sesta clinica medica generale e terapia medica;  
-3) istituto di quarta clinica chirurgica generale e terapia chirurgica;  
-4) istituto di sesta clinica chirurgica generale e terapia chirurgica;  
-5) istituto di clinica chirurgica d'urgenza.  
+Art. 91 - all'elenco degli insegnamenti complementari del corso di laurea in medicina e chirurgia sono aggiunti i seguenti:  
+chirurgia plastica;  
+gerontologia e geriatria;  
+programmazione ed organizzazione dei servizi sanitari;  
+chimica e microscopia clinica;  
+enzimologia;  
+istopatologia ultrastrutturale;  
+andrologia;  
+nefrologia medica;  
+tossicologia clinica;  
+oftalmologia pediatrica;  
+chirurgia maxillo-facciale;  
+medicina di pronto soccorso;  
+urologia ginecologica;  
+puericultura prenatale;  
+dermatologia sperimentale;  
+neuroradiologia;  
+patologia urologica.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
@@ -49,4 +56,4 @@ Visto, il Guardasigilli: MORLINO
 
 Registrato alla Corte dei conti, addi' 18 luglio 1979
 
-Registro n. 56 Istruzione, foglio n. 91
+Registro n. 56 Istruzione, foglio n. 89

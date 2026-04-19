@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 settembre 1981 n. 656
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 07 febbraio 1980 n. 96
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 settembre 1981 n. 656
-================================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 07 febbraio 1980 n. 96
+==============================================================
 
 Autorizzazione alla fondazione "Pro Juventute don Carlo Gnocchi", in Roma, ad accettare un legato.
 --------------------------------------------------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-656. Decreto del Presidente della Repubblica 22 settembre 1981, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare il legato, consistente nella somma di L. 10.000.000, disposto dalla sig.ra Emma Olga Acquaroli con testamento pubblico redatto dal dott. Omero Fabbri, notaio in Albino (Bergamo), in data 25 novembre 1978 e dallo stesso attivato in data 19 maggio 1979, n. 49868 di repertorio e n. 6343 di raccolta, registrato a Bergamo l'8 giugno 1979 al n. 3022/71 M1 A.  
+96. Decreto del Presidente della Repubblica 7 febbraio 1980, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare il legato consistente in saldi di conti correnti presso vari istituti di credito, titoli, obbligazioni, libretti al portatore, contanti in valuta italiana ed estera, obbligazioni in valuta estera, titoli azionari e monete auree, del valore complessivo di L. 155.950.287, disposto dal dott. Giuseppe Venditto a favore dell'opera pia Don Gnocchi, che ci identifica con la fondazione "Pro juventute Carlo Gnocchi", come ha fatto presente la fondazione medesima, con testamento olografo 23 agosto 1972, pubblicato in data 5 gennaio 1977, n. 21609 di repertorio, a rogito dott. Bruno Gallo, notaio in Chiusa Pesio (Cuneo), registrato a Cuneo in data 25 gennaio 1977, n. 432, vol. 276.  
   
-Visto, il Guardasigilli: DARIDA  
-Registrato alla Corte dei conti, addi' 14 novembre 1981  
-Registro n. 10 Presidenza, foglio n. 40
+Visto, il Guardasigilli: MORLINO  
+Registrato alla Corte dei conti, addi' 21 marzo 1980  
+Registro n. 2 Presidenza, foglio n. 343

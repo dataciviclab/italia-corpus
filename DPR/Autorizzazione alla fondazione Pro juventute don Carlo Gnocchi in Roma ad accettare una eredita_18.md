@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 marzo 1974 n. 197
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 luglio 1980 n. 727
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 marzo 1974 n. 197
-============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 luglio 1980 n. 727
+=============================================================
 
 Autorizzazione alla fondazione "Pro juventute don Carlo Gnocchi", in Roma, ad accettare una eredita'.
 -----------------------------------------------------------------------------------------------------
@@ -12,8 +12,9 @@ Art. 1
 
 N.
 
-197. Decreto del Presidente della Repubblica 30 marzo 1974, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare, col beneficio d'inventario, l'eredita', consistente nella somma di L. 2.155.811, disposta dalla sig.ra Campestrini Maria con testamento olografo del maggio 1967, pubblicato il 14 marzo 1972 con verbale a rogito del dott. Cesare Gallavresi, notaio in Milano, n. 56944 di repertorio, n. 20357 di raccolta e registrato a Milano in data 24 maggio 1972 al numero 563371/M.  
+727. Decreto del Presidente della Repubblica 22 luglio 1980, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare, col beneficio d'inventario, l'eredita', consistente in beni mobili e deposito c/c obbligazioni per un valore al netto delle passivita' di L. 930.000, disposta dal sig.  
+Bellingeri Angelo con testamento olografo 7 gennaio 1974, pubblicato il 27 febbraio 1975, n. 21447/2321 di repertorio, a rogito dott. Ferruccio Brambilla, notaio in Milano, registrato a Busto Arsizio (Varese) il 17 marzo 1975 al n. 603, vol. 156.  
   
-Visto, il Guardasigilli: ZAGARI  
-Registrato alla Corte dei conti, addi' 15 maggio 1974  
-Atti di Governo, registro n. 3, foglio n. 21. - SCIARRETTA
+Visto, il Guardasigilli: MORLINO  
+Registrato alla Corte dei conti addi' 27 ottobre 1980  
+Registro n. 8 Presidenza, foglio n. 201

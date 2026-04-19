@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 agosto 1963 n. 1338
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 marzo 1968 n. 648
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 agosto 1963 n. 1338
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 marzo 1968 n. 648
+============================================================
 
 Autorizzazione all'istituto zooprofilattico sperimentale della Lombardia e dell'Emilia, con sede in Brescia, ad acquistare un immobile.
 ---------------------------------------------------------------------------------------------------------------------------------------
@@ -12,8 +12,9 @@ Art. 1
 
 N.
 
-1338. Decreto del Presidente della Repubblica agosto 1963, col quale, sulla proposta del Ministro per la sanita', l'Istituto zooprofilattico sperimentale della Lombardia e dell'Emilia, viene autorizzato ad acquistare al prezzo di L. 10.000.000, dai signori Salvadori Carlo tu Domenico e Fracassi Ines in Salvadori fu Adolfo, un piccolo fabbricato, con annesso terreno, della superficie complessiva di mq. 480, sito in Brescia, distinto in catasto alla Sezione censuaria di Sant'Alessandro, mappale 4620, confinante con la proprieta' dell'Istituto.  
+648. Decreto del Presidente della Repubblica 28 marzo 1968, col quale, sulla proposta del Ministro per la sanita', l'Istituto zooprofilattico sperimentale della Lombardia e dell'Emilia, con sede in Brescia, viene autorizzato ad acquistare dagli eredi della defunta signora Giuseppina Maria Guerra in Martin, al prezzo di L. 74.330.750, un'area fabbricabile sita in Brescia, della superficie di mq. 22.871, descritta in catasto del comune di Brescia, sez. S.  
+Alessandro, mappale n. 79 sub a).  
   
-Visto, il Guardasigilli: BOSCO  
-Registrato alla Corte dei conti, addi' 30 settembre 1963  
-Atti del Governo, registro n. 174, foglio n. 143. - VILLA
+Visto, il Guardasigilli: REALE  
+Registrato alla Corte dei conti, addi' 11 maggio 1968  
+Atti del Governo, registro n. 219, foglio n. 118. - GRECO

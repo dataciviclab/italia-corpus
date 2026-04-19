@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 25 novembre 1983 n. 1046
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 ottobre 1985 n. 899
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 25 novembre 1983 n. 1046
-================================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 ottobre 1985 n. 899
+==============================================================
 
 Modificazione allo statuto dell'Universita' degli studi di Bari.
 ----------------------------------------------------------------
@@ -39,19 +39,23 @@ Articolo unico
 --------------
 
   
-Nell'art. 33, relativo al corso di laurea in filosofia, all'elenco degli insegnamenti complementari e' aggiunto il seguente nuovo insegnamento:  
-storia della filosofia morale.  
+  
+Nell'art. 31, relativo al corso di laurea in lettere, all'elenco degli insegnamenti complementari e' aggiunto il seguente nuovo insegnamento:   
+  
+storia dell'Italia contemporanea.   
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 25 novembre 1983
+### Dato a Roma, addi' 22 ottobre 1985
 
-PERTINI FALCUCCI
+COSSIGA
+
+FALCUCCI, Ministro della pubblica istruzione
 
 Visto, il Guardasigilli: MARTINAZZOLI
 
-Registrato alla Corte dei conti, addi' 29 febbraio 1984
+Registrato alla Corte dei conti, addi' 29 gennaio 1986
 
-Registro n. 13 Istruzione, foglio n. 43
+Registro n. 4 Istruzione, foglio n. 110

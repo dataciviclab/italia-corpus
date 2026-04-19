@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 ottobre 1976 n. 915
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 settembre 1972 n. 729
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 ottobre 1976 n. 915
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 settembre 1972 n. 729
+================================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Ferrara.
 -------------------------------------------------------------------
@@ -10,17 +10,17 @@ Modificazioni allo statuto dell'Universita' degli studi di Ferrara.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' degli studi di Ferrara, approvato con [decreto del Presidente della Repubblica 18 aprile 1951, n. 964](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-04-18;964), e modificato con [decreto del Presidente della Repubblica 25 luglio 1952, n. 1207](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-07-25;1207), e successive modificazioni;
+Veduto lo statuto dell'Universita' degli studi di Ferrara, approvato con [decreto del Presidente della Repubblica 18 aprile 1951, n. 964](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-04-18;964) e modificato con [decreto del Presidente della Repubblica 25 luglio 1952, n. 1207](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-07-25;1207), e successive modificazioni;
 
-Udito il testo unico della legge sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
 
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
 
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;
 
-Riconosciuta la particolare necessita' di approvare le modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Ferrara e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
 
 Sentito il parere del Consiglio superiore della pubblica istruzione;
 
@@ -30,203 +30,245 @@ Decreta:
 
 Lo statuto dell'Universita' degli studi di Ferrara, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
-L'art. 115, relativo alla scuola di specializzazione in anestesiologia e rianimazione, e' modificato nel senso che il primo e il secondo comma sono abrogati e sostituiti dai seguenti:
+Gli articoli da 129 a 133, relativi alla "Scuola di specializzazione in chirurgia pediatrica" che muta la denominazione in quella di "Scuola di specializzazione in chirurgia dell'infanzia" sono abrogati e sostituiti dai seguenti:
 
-La scuola di specializzazione in anestesiologia e rianimazione ha sede presso l'istituto di anestesiologia e rianimazione, ed ha la durata di tre anni.
+Scuola di specializzazione in chirurgia dell'infanzia
 
-Direttore della scuola e' il direttore dell'istituto di anestesia e rianimazione.
+Art. 129. - La scuola di specializzazione in chirurgia dell'infanzia conferisce il diploma di specialista in chirurgia dell'infanzia.
 
-Dopo l'art. 163, e con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi alla istituzione delle scuole di specializzazione in audiologia e in puericultura annesse alla facolta' di medicina e chirurgia.
+La direzione della scuola e' affidata al titolare dell'insegnamento della clinica chirurgica generale o della chirurgia pediatrica.
 
-Scuola di specializzazione in audiologia
+La durata del corso di studi per il conseguimento della specialita' in chirurgia dell'infanzia e' fissata in due anni.
 
-Art. 164. - La scuola di specializzazione in audiologia ha sede presso l'istituto di clinica otorinolaringoiatrica dell'Universita' di Ferrara. Essa e' diretta da titolare di una delle cattedre afferenti all'istituto policattedra di clinica otorinolaringoiatrica dell'Universita' con designazione da parte del consiglio di facolta'.
+Art. 130. Possono ottenere l'iscrizione alla scuola i laureati in medicina e chirurgia che siano in possesso del diploma di specialista in chirurgia generale o abbiano conseguito la libera docenza in clinica chirurgica o patologia chirurgica o semeiotica chirurgica o anatomia chirurgica o in chirurgia pediatrica.
 
-La scuola e' retta secondo le norme del regolamento generale delle scuole di specializzazione dell'Universita' di Ferrara.
+Alla scuola non possono essere iscritti piu' di tre allievi per ciascun anno di corso. Qualora il numero degli aspiranti superi quello stabilito l'ammissione sara' subordinata ad una prova di esame. Non e' ammessa abbreviazione di corso.
 
-((Art. 165. - La durata del corso e' di tre anni. L'indirizzo e' teorico-pratico.
+Art. 131. - Il corso si compone di insegnamenti fondamentali e di conferenze su argomenti speciali. La frequenza alle lezioni e alle conferenze e' obbligatoria.
 
-Il numero massimo complessivo di iscritti e' di dodici.))
+Inoltre e' obbligatorio un periodo di internato di almeno 6 mesi per ogni anno di corso.
 
-Art. 166. - L'ammissione al corso e' per titoli e per esami, titolo necessario per l'ammissione al corso e' la laurea in medicina e chirurgia.
+Il periodo di internato potra' essere abbreviato per coloro che documentino di svolgere effettivo servizio presso reparti di chirurgia pediatrica universitari od ospedalieri.
 
-Nessuna abbreviazione di corso puo' essere ammessa.
-
-Art. 167. - Alla fine di ciascun anno scolastico gli specializzandi dovranno sostenere un esame di profitto il cui superamento e' condizione necessaria per l'iscrizione nell'anno successivo e, per quelli che sono iscritti all'ultimo anno, per poter accedere all'esame di diploma.
-
-Alla fine del terzo anno di corso ha luogo l'esame di diploma, consistente nella preparazione e discussione di una dissertazione scritta su di un argomento di audiologia, previamente concordato tra il diplomando ed il direttore della scuola.
-
-Art. 168. - Gli insegnamenti impartiti nella scuola sono i seguenti:
+Art. 132. - Le materie di insegnamento sono le seguenti:
 
 1° Anno:
 
-nozioni di fisica acustica;
+1) Anatomia patologica e teratologia (lezioni);
 
-anatomia dell'orecchio, delle vie e dei centri acustici e vestibolari;
+2) Endocrinologia infantile (conferenze);
 
-fisiologia dell'orecchio, delle vie e dei centri acustici e vestibolari;
+3) Clinica pediatrica (lezioni);
 
-nozioni di psichiatria.
+4) Clinica chirurgica pediatrica (lezioni);
+
+5) Patologia chirurgica e semeiotica chirurgica (lezioni);
+
+6) Diagnostica radiologica e nucleare delle malattie chirurgiche della infanzia (lezioni);
+
+7) Anestesiologia e rianimazione (conferenze).
 
 2° Anno:
 
-tecniche audiometriche;
+1) Clinica pediatrica (lezioni);
 
-nozioni di neurologia;
+2) Clinica chirurgica pediatrica (lezioni);
 
-nozioni di vestibologia.
+3) Chirurgia d'urgenza nell'infanzia (lezioni);
 
-3° Anno:
+4) Otorinolaringoiatria nell'infanzia (conferenze);
 
-patologia dell'udito;
+5) Ortopedia nell'infanzia (conferenze);
 
-terapia medica, chirurgica e protesica della sordita';
+6) Urologia nell'infanzia (conferenze);
 
-la sordita' sotto il profilo sociale;
+7) Neurochirurgia infantile (conferenze);
 
-la rieducazione dell'ipoacusico.
+8) Chirurgia del cuore e dei grossi vasi (conferenze).
 
-Per tasse, soprattasse e contributi si fa riferimento alle norme statutarie in vigore.
+Art. 133. - Al termine di ciascun anno accademico gli specializzandi che abbiano ottenuto le firme di frequenza, dovranno sostenere gli esami di profitto nelle materie oggetto di insegnamento.
 
-Scuola di specializzazione in puericultura
+Al termine del corso di specializzazione gli specializzandi dovranno presentare una dissertazione scritta su argomento di chirurgia infantile e sostenere l'esame di diploma.
 
-Art. 169. - La scuola di specializzazione in puericultura ha sede presso l'istituto di puericultura e medicina neonatale dell'Universita' di Ferrara ed e' diretta dal professore di ruolo della cattedra stessa.
+Dopo l'art. 151 e con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi alla istituzione della scuola di specializzazione in reumatologia.
 
-Art. 170. - La durata del corso e' di tre anni. Gli iscritti hanno l'obbligo di internato con le modalita' e l'orario che saranno stabiliti dal consiglio della scuola.
+Scuola di specializzazione in reumatologia
 
-Art. 171. - Il numero massimo degli iscritti e' di quindici per i tre anni di corso.
+Art. 152. - La scuola di specializzazione in reumatologia ha sede presso l'istituto di clinica medica generale e terapia medica dell'Universita' di Ferrara, il cui direttore e', di diritto, il direttore della scuola stessa.
 
-Art. 172. - L'ammissione al corso e' per titoli.
+Il corso degli studi per il conseguimento del diploma di specialista in reumatologia ha la durata di 3 anni accademici.
 
-Art. 173. - Le materie di insegnamento sono le seguenti:
+Alla scuola possono iscriversi laureati in medicina e chirurgia.
+
+Per l'ammissione e' previsto un concorso per titoli ed esami.
+
+Art. 153. - Il consiglio della scuola puo' concedere la abbreviazione del corso a coloro che siano in possesso dei seguenti titoli:
+
+1) servizio di assistente ordinario o incaricato universitario od ospedaliero in reparto di reumatologia;
+
+2) titoli scientifici e professionali in campo reumatologico;
+
+3) diploma di specializzazione o perfezionamento comprendenti la reumatologia.
+
+Il numero complessivo degli iscritti nei 3 anni di corso non potra' essere superiore a trenta.
+
+Alla fine di ogni anno di corso saranno tenuti gli esami relativi agli insegnamenti impartiti, come specificato dall'art. 154.
+
+Art. 154. - Le materie di insegnamento ed i relativi esami sono cosi' ripartiti:
 
 1° Anno:
 
-1) peculiarita' anatomo-fisiologiche dell'eta' evolutiva;
+1) Anatomia, istologia e morfogenesi dell'apparato muscolo-scheletrico e articolare (esame);
 
-2) elementi di genetica medica ed eugenetica;
+2) Fisiopatologia dell'apparato muscolo-scheletrico e articolare (esame);
 
-3) elementi di puericultura perinatale;
+3) Biochimica dei tessuti connettivi (esame);
 
-4) auxologia;
+4) Microbiologia e immunologia in relazione alle malattie reumatiche (esame);
 
-5) alimentazione e dietetica dell'eta' infantile;
-
-6) elementi di semeiotica infantile.
+5) Semeiotica fisica, strumentale e di laboratorio in reumatologia (biennale - 1° corso).
 
 2° Anno:
 
-1) psicologia dell'igiene mentale nell'eta' evolutiva;
+1) Semeiotica fisica, strumentale e di laboratorio in reumatologia (biennale - 2° corso, esame);
 
-2) igiene ed assistenza nell'eta' evolutiva;
+2) Anatomia e istologia patologica delle malattie reumatiche (esame);
 
-3) profilassi delle malattie infettive nell'infanzia;
+3) Farmacologia in relazione alle malattie reumatiche (esame);
 
-4) elementi di medicina scolastica;
+4) Diagnostica radiologica (esame);
 
-5) legislazione ed assistenza sociale nell'infanzia.
+5) Patologia, clinica e terapia delle malattie reumatiche (biennale - 1° corso);
+
+6) Terapia fisica, termale e riabilitativa in reumatologia (biennale - 1° corso).
 
 3° Anno:
 
-tirocinio pratico presso l'istituto dove la scuola ha sede od altre istituzioni od enti che abbiano, a giudizio del consiglio della scuola, caratteristiche tali da assicurare lo svolgimento di un efficace tirocinio sotto l'aspetto eminentemente pratico.
+1) Patologia clinica e terapia delle malattie reumatiche (biennale - 2° corso, esame);
+
+2) Terapia fisica, termale e riabilitativa in reumatologia (biennale - 2° corso, esame);
+
+3) Clinica e terapia ortopedica applicata alla reumatologia (esame);
+
+4) Aspetti sociali ed epidemiologici delle malattie reumatiche (esame).
+
+Art. 155. - Per conseguire il diploma di specialita' dovra' essere presentata e discussa una tesi scritta su un tema preventivamente approvato dal direttore della scuola.
+
+E' obbligatoria la frequenza alle lezioni, esercitazioni ed un internato annuale di almeno 9 mesi.
+
+Le norme per l'iscrizione, gli esami, le tasse, ecc. sono quelle generali per le scuole di specializzazione della Universita' degli studi di Ferrara.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 
-Dato a Roma, addi' 28 ottobre 1976
+Dato a Roma, addi' 22 settembre 1972
 
 LEONE
 
-MALFATTI
+SCALFARO
 
-Visto, il Guardasigilli: BONIFACIO
+Visto, il Guardasigilli: GONELLA
 
 Registrato
 ----------
 
-alla Corte dei conti, addi' 28 dicembre 1976 Registro n. 104 Istruzione, foglio n. 394
+alla Corte dei conti, addi' 23 novembre 1972 Atti del Governo, registro n. 253, foglio n. 69. - CARUSO
 
 Art. 1
 ------
 
  IL PRESIDENTE DELLA REPUBBLICA   
   
-Veduto lo statuto dell'Universita' degli studi di Ferrara, approvato con [decreto del Presidente della Repubblica 18 aprile 1951, n. 964](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-04-18;964), e modificato con [decreto del Presidente della Repubblica 25 luglio 1952, n. 1207](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-07-25;1207), e successive modificazioni;   
-Udito il testo unico della legge sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
+Veduto lo statuto dell'Universita' degli studi di Ferrara, approvato con [decreto del Presidente della Repubblica 18 aprile 1951, n. 964](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-04-18;964) e modificato con [decreto del Presidente della Repubblica 25 luglio 1952, n. 1207](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-07-25;1207), e successive modificazioni;   
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;   
-Riconosciuta la particolare necessita' di approvare le modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Ferrara e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;   
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;   
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;   
 Sentito il parere del Consiglio superiore della pubblica istruzione;   
 Sulla proposta del Ministro per la pubblica istruzione;   
   
 Decreta:   
   
 Lo statuto dell'Universita' degli studi di Ferrara, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
-L'art. 115, relativo alla scuola di specializzazione in anestesiologia e rianimazione, e' modificato nel senso che il primo e il secondo comma sono abrogati e sostituiti dai seguenti:   
+Gli articoli da 129 a 133, relativi alla "Scuola di specializzazione in chirurgia pediatrica" che muta la denominazione in quella di "Scuola di specializzazione in chirurgia dell'infanzia" sono abrogati e sostituiti dai seguenti:   
   
-La scuola di specializzazione in anestesiologia e rianimazione ha sede presso l'istituto di anestesiologia e rianimazione, ed ha la durata di tre anni.   
-Direttore della scuola e' il direttore dell'istituto di anestesia e rianimazione.   
-Dopo l'art. 163, e con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi alla istituzione delle scuole di specializzazione in audiologia e in puericultura annesse alla facolta' di medicina e chirurgia.   
-Scuola di specializzazione in audiologia   
-Art. 164. - La scuola di specializzazione in audiologia ha sede presso l'istituto di clinica otorinolaringoiatrica dell'Universita' di Ferrara. Essa e' diretta da titolare di una delle cattedre afferenti all'istituto policattedra di clinica otorinolaringoiatrica dell'Universita' con designazione da parte del consiglio di facolta'.   
-La scuola e' retta secondo le norme del regolamento generale delle scuole di specializzazione dell'Universita' di Ferrara.   
-
-((Art. 165. - La durata del corso e' di tre anni. L'indirizzo e' teorico-pratico.   
-Il numero massimo complessivo di iscritti e' di dodici.))
-
+Scuola di specializzazione in chirurgia dell'infanzia   
   
-Art. 166. - L'ammissione al corso e' per titoli e per esami, titolo necessario per l'ammissione al corso e' la laurea in medicina e chirurgia.   
-Nessuna abbreviazione di corso puo' essere ammessa.   
-Art. 167. - Alla fine di ciascun anno scolastico gli specializzandi dovranno sostenere un esame di profitto il cui superamento e' condizione necessaria per l'iscrizione nell'anno successivo e, per quelli che sono iscritti all'ultimo anno, per poter accedere all'esame di diploma.   
-Alla fine del terzo anno di corso ha luogo l'esame di diploma, consistente nella preparazione e discussione di una dissertazione scritta su di un argomento di audiologia, previamente concordato tra il diplomando ed il direttore della scuola.   
-Art. 168. - Gli insegnamenti impartiti nella scuola sono i seguenti:   
+Art. 129. - La scuola di specializzazione in chirurgia dell'infanzia conferisce il diploma di specialista in chirurgia dell'infanzia.   
+La direzione della scuola e' affidata al titolare dell'insegnamento della clinica chirurgica generale o della chirurgia pediatrica.   
+La durata del corso di studi per il conseguimento della specialita' in chirurgia dell'infanzia e' fissata in due anni.   
+Art. 130. Possono ottenere l'iscrizione alla scuola i laureati in medicina e chirurgia che siano in possesso del diploma di specialista in chirurgia generale o abbiano conseguito la libera docenza in clinica chirurgica o patologia chirurgica o semeiotica chirurgica o anatomia chirurgica o in chirurgia pediatrica.   
+Alla scuola non possono essere iscritti piu' di tre allievi per ciascun anno di corso. Qualora il numero degli aspiranti superi quello stabilito l'ammissione sara' subordinata ad una prova di esame. Non e' ammessa abbreviazione di corso.   
+Art. 131. - Il corso si compone di insegnamenti fondamentali e di conferenze su argomenti speciali. La frequenza alle lezioni e alle conferenze e' obbligatoria.   
+Inoltre e' obbligatorio un periodo di internato di almeno 6 mesi per ogni anno di corso.   
+Il periodo di internato potra' essere abbreviato per coloro che documentino di svolgere effettivo servizio presso reparti di chirurgia pediatrica universitari od ospedalieri.   
+Art. 132. - Le materie di insegnamento sono le seguenti:   
 1° Anno:   
-nozioni di fisica acustica;   
-anatomia dell'orecchio, delle vie e dei centri acustici e vestibolari;   
-fisiologia dell'orecchio, delle vie e dei centri acustici e vestibolari;   
-nozioni di psichiatria.   
+1) Anatomia patologica e teratologia (lezioni);   
+2) Endocrinologia infantile (conferenze);   
+3) Clinica pediatrica (lezioni);   
+4) Clinica chirurgica pediatrica (lezioni);   
+5) Patologia chirurgica e semeiotica chirurgica (lezioni);   
+6) Diagnostica radiologica e nucleare delle malattie chirurgiche della infanzia (lezioni);   
+7) Anestesiologia e rianimazione (conferenze).   
 2° Anno:   
-tecniche audiometriche;   
-nozioni di neurologia;   
-nozioni di vestibologia.   
-3° Anno:   
-patologia dell'udito;   
-terapia medica, chirurgica e protesica della sordita';   
-la sordita' sotto il profilo sociale;   
-la rieducazione dell'ipoacusico.   
-Per tasse, soprattasse e contributi si fa riferimento alle norme statutarie in vigore.   
-Scuola di specializzazione in puericultura   
-Art. 169. - La scuola di specializzazione in puericultura ha sede presso l'istituto di puericultura e medicina neonatale dell'Universita' di Ferrara ed e' diretta dal professore di ruolo della cattedra stessa.   
-Art. 170. - La durata del corso e' di tre anni. Gli iscritti hanno l'obbligo di internato con le modalita' e l'orario che saranno stabiliti dal consiglio della scuola.   
-Art. 171. - Il numero massimo degli iscritti e' di quindici per i tre anni di corso.   
-Art. 172. - L'ammissione al corso e' per titoli.   
-Art. 173. - Le materie di insegnamento sono le seguenti:   
+1) Clinica pediatrica (lezioni);   
+2) Clinica chirurgica pediatrica (lezioni);   
+3) Chirurgia d'urgenza nell'infanzia (lezioni);   
+4) Otorinolaringoiatria nell'infanzia (conferenze);   
+5) Ortopedia nell'infanzia (conferenze);   
+6) Urologia nell'infanzia (conferenze);   
+7) Neurochirurgia infantile (conferenze);   
+8) Chirurgia del cuore e dei grossi vasi (conferenze).   
+Art. 133. - Al termine di ciascun anno accademico gli specializzandi che abbiano ottenuto le firme di frequenza, dovranno sostenere gli esami di profitto nelle materie oggetto di insegnamento.   
+Al termine del corso di specializzazione gli specializzandi dovranno presentare una dissertazione scritta su argomento di chirurgia infantile e sostenere l'esame di diploma.   
+Dopo l'art. 151 e con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi alla istituzione della scuola di specializzazione in reumatologia.   
+  
+Scuola di specializzazione in reumatologia   
+  
+Art. 152. - La scuola di specializzazione in reumatologia ha sede presso l'istituto di clinica medica generale e terapia medica dell'Universita' di Ferrara, il cui direttore e', di diritto, il direttore della scuola stessa.   
+Il corso degli studi per il conseguimento del diploma di specialista in reumatologia ha la durata di 3 anni accademici.   
+Alla scuola possono iscriversi laureati in medicina e chirurgia.   
+Per l'ammissione e' previsto un concorso per titoli ed esami.   
+Art. 153. - Il consiglio della scuola puo' concedere la abbreviazione del corso a coloro che siano in possesso dei seguenti titoli:   
+1) servizio di assistente ordinario o incaricato universitario od ospedaliero in reparto di reumatologia;   
+2) titoli scientifici e professionali in campo reumatologico;   
+3) diploma di specializzazione o perfezionamento comprendenti la reumatologia.   
+Il numero complessivo degli iscritti nei 3 anni di corso non potra' essere superiore a trenta.   
+Alla fine di ogni anno di corso saranno tenuti gli esami relativi agli insegnamenti impartiti, come specificato dall'art. 154.   
+Art. 154. - Le materie di insegnamento ed i relativi esami sono cosi' ripartiti:   
 1° Anno:   
-1) peculiarita' anatomo-fisiologiche dell'eta' evolutiva;   
-2) elementi di genetica medica ed eugenetica;   
-3) elementi di puericultura perinatale;   
-4) auxologia;   
-5) alimentazione e dietetica dell'eta' infantile;   
-6) elementi di semeiotica infantile.   
+1) Anatomia, istologia e morfogenesi dell'apparato muscolo-scheletrico e articolare (esame);   
+2) Fisiopatologia dell'apparato muscolo-scheletrico e articolare (esame);   
+3) Biochimica dei tessuti connettivi (esame);   
+4) Microbiologia e immunologia in relazione alle malattie reumatiche (esame);   
+5) Semeiotica fisica, strumentale e di laboratorio in reumatologia (biennale - 1° corso).   
 2° Anno:   
-1) psicologia dell'igiene mentale nell'eta' evolutiva;   
-2) igiene ed assistenza nell'eta' evolutiva;   
-3) profilassi delle malattie infettive nell'infanzia;   
-4) elementi di medicina scolastica;   
-5) legislazione ed assistenza sociale nell'infanzia.   
+1) Semeiotica fisica, strumentale e di laboratorio in reumatologia (biennale - 2° corso, esame);   
+2) Anatomia e istologia patologica delle malattie reumatiche (esame);   
+3) Farmacologia in relazione alle malattie reumatiche (esame);   
+4) Diagnostica radiologica (esame);   
+5) Patologia, clinica e terapia delle malattie reumatiche (biennale - 1° corso);   
+6) Terapia fisica, termale e riabilitativa in reumatologia (biennale - 1° corso).   
 3° Anno:   
-tirocinio pratico presso l'istituto dove la scuola ha sede od altre istituzioni od enti che abbiano, a giudizio del consiglio della scuola, caratteristiche tali da assicurare lo svolgimento di un efficace tirocinio sotto l'aspetto eminentemente pratico.   
+1) Patologia clinica e terapia delle malattie reumatiche (biennale - 2° corso, esame);   
+2) Terapia fisica, termale e riabilitativa in reumatologia (biennale - 2° corso, esame);   
+3) Clinica e terapia ortopedica applicata alla reumatologia (esame);   
+4) Aspetti sociali ed epidemiologici delle malattie reumatiche (esame).   
+Art. 155. - Per conseguire il diploma di specialita' dovra' essere presentata e discussa una tesi scritta su un tema preventivamente approvato dal direttore della scuola.   
+E' obbligatoria la frequenza alle lezioni, esercitazioni ed un internato annuale di almeno 9 mesi.   
+Le norme per l'iscrizione, gli esami, le tasse, ecc. sono quelle generali per le scuole di specializzazione della Universita' degli studi di Ferrara.   
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 28 ottobre 1976
+### Dato a Roma, addi' 22 settembre 1972
 
-LEONE MALFATTI
+LEONE SCALFARO
 
-Visto, il Guardasigilli: BONIFACIO
+Visto, il Guardasigilli: GONELLA
 
-Registrato alla Corte dei conti, addi' 28 dicembre 1976
+Registrato alla Corte dei conti, addi' 23 novembre 1972
 
-Registro n. 104 Istruzione, foglio n. 394
+Atti del Governo, registro n. 253, foglio n. 69. - CARUSO

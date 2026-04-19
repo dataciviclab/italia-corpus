@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 07 luglio 1975 n. 468
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 luglio 1986 n. 740
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 07 luglio 1975 n. 468
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 luglio 1986 n. 740
 =============================================================
 
 Autorizzazione all'Associazione nazionale alpini, in Milano, ad acquistare un immobile.
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-468. Decreto del Presidente della Repubblica 7 luglio 1975, col quale, sulla proposta del Ministro per la difesa, l'Associazione nazionale alpini, in Milano, viene autorizzata ad acquistare, al prezzo di lire 1.800.000, un compendio immobiliare di proprieta' del demanio dello Stato, denominato "Ex casermetta al passo della Forcola, in comune di Livigno (Sondrio)", censito nel nuovo catasto edilizio urbano alla partita 131, foglio n. 4, mappale n. 3, della superficie tra area coperta ed area scoperta di mq 6070, da adibire a rifugio ed a casa per ferie per i propri soci.  
+740. Decreto del Presidente della Repubblica 19 luglio 1986, col quale, sulla proposta del Ministro della difesa, l'Associazione nazionale alpini, in Milano, viene autorizzata ad acquistare, al prezzo di L. 5.300.000, un immobile sito in Carpignano Sesia (Novara), via della Fossa n. 23, composto di una antica cantina al piano terreno, con sovrastante soppalco e magazzino al primo piano, censito al nuovo catasto edilizio urbano alla partita 897, foglio 19, particella 130, di proprieta' del signor Oreste Ticozzi, come da atto preliminare di compravendita 1 marzo 1985, da adibire a sede del locale gruppo dell'Associazione.   
   
-Visto, il Guardasigilli: REALE  
-Registrato alla Corte dei conti, addi' 3 settembre 1975  
-Atti di Governo, registro n. 12, foglio n. 2
+Visto, il Guardasigilli: ROGNONI   
+Registrato alla Corte dei conti, addi' 22 ottobre 1986   
+Registro n. 31 Difesa, foglio n. 177

@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 aprile 1977 n. 231
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 ottobre 1977 n. 916
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 aprile 1977 n. 231
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 ottobre 1977 n. 916
+==============================================================
 
 Autorizzazione ad accettare una donazione a favore dello Stato.
 ---------------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-231. Decreto del Presidente della Repubblica 14 aprile 1977, col quale, sulla proposta del Ministro per le finanze, viene autorizzata l'accettazione di una donazione a favore dello Stato disposta dal comune di Orsara di Puglia (Foggia) con atto 31 maggio 1969, n. 291 di repertorio, a rogito notaio Tommaso Olivieri, consistente in un appezzamento di terreno esteso mq 490, sito in localita' Guardiola, catastalmente descritto nell'alto medesimo e sul quale l'Amministrazione dell'agricoltura e delle foreste ha gia' realizzato una caserma forestale.  
+916. Decreto del Presidente della Repubblica 19 ottobre 1977, col quale, sulla proposta del Ministro per i beni culturali ed ambientali, viene autorizzata l'accettazione di un legato a favore dello Stato e, per esso, della biblioteca Angelica di Roma, disposta dallo scrittore Arnaldo Bocelli con testamento olografo pubblicato in data 7 dicembre 1974, n. 22280/10173 di repertorio a rogito dott. Vincenzo Papi, notaio in Roma, consistente nella sua raccolta bibliografica.  
   
 Visto, il Guardasigilli: BONIFACIO  
-Registrato alla Corte dei conti, addi' 24 maggio 1977  
-Registro n. 23 Finanze, foglio n. 341
+Registrato alla Corte dei conti, addi' 14 dicembre 1977  
+Registro n. 17 Beni culturali, foglio n. 309

@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 07 ottobre 1963 n. 1462
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 ottobre 1982 n. 1008
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 07 ottobre 1963 n. 1462
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 ottobre 1982 n. 1008
 ===============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Parma.
@@ -10,156 +10,78 @@ Modificazioni allo statuto dell'Universita' degli studi di Parma.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' degli studi di Parma, approvato con [regio decreto 13 ottobre 1927, numero 2797](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2797), e modificato con [regio decreto 30 ottobre 1930, n. 1772](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-30;1772), e successive modificazioni;
+Veduto lo statuto dell'Universita' di Parma, approvato con [regio decreto 13 ottobre 1927, n. 2797](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2797), e successive modificazioni;
 
-Veduto il testo unico delle leggi sull'istruzione superiore approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
 
-Veduto il [regio decreto 30 settembre 1968, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1968-09-30;1652), e successive modificazioni;
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
 
 Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
 
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+Veduto il [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
 
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
+Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
-Sentito il parere del Consiglio superiore della pubblica istruzione;
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Parma e convalidati dal Consiglio universitario nazionale nel suo parere;
 
-Sulla proposta del Ministro per la pubblica istruzione;
+Sentito il parere del Consiglio universitario nazionale;
+
+Sulla proposta del Ministro della pubblica istruzione;
 
 Decreta:
+--------
 
-Lo statuto dell'Universita' degli studi di Parma, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
-
-Art. 27. - All'elenco degli insegnamenti complementari del corso di laurea in Medicina e chirurgia sono aggiunti quelli di:
-
-Gerontologia e Geriatria;
-
-Chirurgia plastica;
-
-Ottica fisiologica;
-
-Parassitologia medica;
-
-Neurochirurgia.
-
-Dopo l'art. 167, e con il conseguente spostamento della successiva numerazione, sono inseriti i seguenti nuovi articoli relativi alla istituzione della Scuola di specializzazione in tisiologia.
-
-Scuola di specializzazione in tisiologia
-
-Art. 168. - E' istituita la Scuola di specializzazione in tisiologia. La Scuola e' sottoposta alle regolamentazioni generali fissate dallo statuto delle Scuole di specializzazione annesse alla Facolta' di medicina e chirurgia della Universita' degli studi di Parma.
-
-Art. 169. - La Scuola ha la durata di due anni.
-
-L'iscrizione per ogni anno accademico e' limitata a numero dieci allievi.
-
-Art. 170. - Sono ammessi i laureati in Medicina e chirurgia.
-
-Art. 171. - Le materie di insegnamento sono:
-
-Primo anno:
-
-1) Patologia e clinica della tubercolosi polmonare;
-
-2) Anatomia patologica della tubercolosi polmonare ed estrapolmonare;
-
-3) Fisiopatologia dell'apparato respiratorio;
-
-4) Diagnostica radiologica;
-
-5) Microbiologia.
-
-Secondo anno:
-
-1) Clinica, e terapia delle malattie tubercolari;
-
-2) Diagnostica differenziale delle malattie dell'apparato respiratorio;
-
-3) Fisiopatologia dell'apparato respiratorio;
-
-4) Broncologia e tecniche broncologiche;
-
-5) Igiene e legislazione sociale.
-
-Art. 172. - I corsi sono integrati da turni di esercitazione riguardanti la diagnostica clinica, la terapia, le tecniche di laboratorio e da cicli di conferenze fissate anno per anno dal direttore della Scuola.
-
-Art. 173. - Gli allievi sono tenuti a seguire le lezioni teoriche, le esercitazioni, i turni di internato stabiliti dal direttore della Scuola.
-
-Art. 174. - Alla fine del primo ed alla fine del secondo anno gli allievi dovranno sostenere un esame unico su tutte le materie di insegnamento ed un esame finale di diploma con dissertazione scritta su argomento assegnato dal direttore della Scuola o da uno degli insegnanti.
-
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
-
-Dato a Roma, addi' 7 ottobre 1963
-
-SEGNI
-
-GUI
-
-Visto, il Guardasigilli: BOSCO
-
-Registrato
-----------
-
-alla Corte dei conti, addi' 2 novembre 1963 Atti del Governo, registro n. 175, foglio n. 113. - VILLA
+Lo statuto dell'Universita' di Parma, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Parma, approvato con [regio decreto 13 ottobre 1927, numero 2797](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2797), e modificato con [regio decreto 30 ottobre 1930, n. 1772](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-30;1772), e successive modificazioni;  
-Veduto il testo unico delle leggi sull'istruzione superiore approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1968, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1968-09-30;1652), e successive modificazioni;  
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
-Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro per la pubblica istruzione;  
+Nell'art. 92, relativo al corso di laurea in matematica, all'elenco degli insegnamenti complementari sono aggiunti i seguenti nuovi insegnamenti:  
+critica dei principi;  
+filosofia della matematica;  
+teoria delle equazioni differenziali;  
+algebra non commutativa;  
+algebra non associativa;  
+algebre topologiche;  
+strutture algebriche ordinate.  
+
+Art. 2
+------
+
   
-Decreta:  
+Nell'art. 111, relativo al corso di laurea in chimica industriale, all'elenco degli insegnamenti complementari e' aggiunto il seguente nuovo insegnamento:  
+chimica e tecnologia della catalisi.  
+Nel medesimo articolo l'insegnamento complementare di "cinetica chimica" muta la denominazione in quella di "cinetica chimica applicata".  
+
+Art. 3
+------
+
   
-Lo statuto dell'Universita' degli studi di Parma, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-Art. 27. - All'elenco degli insegnamenti complementari del corso di laurea in Medicina e chirurgia sono aggiunti quelli di:  
-Gerontologia e Geriatria;  
-Chirurgia plastica;  
-Ottica fisiologica;  
-Parassitologia medica;  
-Neurochirurgia.  
-Dopo l'art. 167, e con il conseguente spostamento della successiva numerazione, sono inseriti i seguenti nuovi articoli relativi alla istituzione della Scuola di specializzazione in tisiologia.  
-Scuola di specializzazione in tisiologia  
-Art. 168. - E' istituita la Scuola di specializzazione in tisiologia. La Scuola e' sottoposta alle regolamentazioni generali fissate dallo statuto delle Scuole di specializzazione annesse alla Facolta' di medicina e chirurgia della Universita' degli studi di Parma.  
-Art. 169. - La Scuola ha la durata di due anni.  
-L'iscrizione per ogni anno accademico e' limitata a numero dieci allievi.  
-Art. 170. - Sono ammessi i laureati in Medicina e chirurgia.  
-Art. 171. - Le materie di insegnamento sono:  
-Primo anno:  
-1) Patologia e clinica della tubercolosi polmonare;  
-2) Anatomia patologica della tubercolosi polmonare ed estrapolmonare;  
-3) Fisiopatologia dell'apparato respiratorio;  
-4) Diagnostica radiologica;  
-5) Microbiologia.  
-Secondo anno:  
-1) Clinica, e terapia delle malattie tubercolari;  
-2) Diagnostica differenziale delle malattie dell'apparato respiratorio;  
-3) Fisiopatologia dell'apparato respiratorio;  
-4) Broncologia e tecniche broncologiche;  
-5) Igiene e legislazione sociale.  
-Art. 172. - I corsi sono integrati da turni di esercitazione riguardanti la diagnostica clinica, la terapia, le tecniche di laboratorio e da cicli di conferenze fissate anno per anno dal direttore della Scuola.  
-Art. 173. - Gli allievi sono tenuti a seguire le lezioni teoriche, le esercitazioni, i turni di internato stabiliti dal direttore della Scuola.  
-Art. 174. - Alla fine del primo ed alla fine del secondo anno gli allievi dovranno sostenere un esame unico su tutte le materie di insegnamento ed un esame finale di diploma con dissertazione scritta su argomento assegnato dal direttore della Scuola o da uno degli insegnanti.  
+Nell'art. 125, relativo al corso di laurea in scienze biologiche, all'elenco degli insegnamenti complementari sono aggiunti i seguenti nuovi insegnamenti:  
+elettrofisiologia;  
+genetica applicata;  
+biologia delle popolazioni umane;  
+conservazione della natura e delle sue risorse;  
+educazione ambientale;  
+ecologia preistorica;  
+chimica ambientale;  
+metodologia biochimica;  
+biochimica macromolecolare;  
+neurochimica.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 7 ottobre 1963
+### Dato a Roma, addi' 11 ottobre 1982
 
-SEGNI GUI
+PERTINI BODRATO
 
-Visto, il Guardasigilli: BOSCO
+Visto, il Guardasigilli: DARIDA
 
-Registrato alla Corte dei conti, addi' 2 novembre 1963
+Registrato alla Corte dei conti, addi' 10 gennaio 1983
 
-Atti del Governo, registro n. 175, foglio n. 113. - VILLA
+Registro n. 1 Istruzione, foglio n. 30

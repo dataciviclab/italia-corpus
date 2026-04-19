@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 ottobre 1978 n. 930
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1972 n. 1177
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 ottobre 1978 n. 930
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1972 n. 1177
+===============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Padova.
 ------------------------------------------------------------------
@@ -12,61 +12,91 @@ Art. 1
 
  IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' di Padova, approvato con [regio decreto 20 aprile 1939, n. 1058](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1058) e modificato con [regio decreto 5 ottobre 1939, n. 1847](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-05;1847), e successive modificazioni;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato col [regio-decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto lo statuto dell'Universita' degli studi di Padova, approvato con [regio decreto 20 aprile 1939, numero 1058](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1058), e modificato con [regio decreto 5 ottobre 1939, n. 1847](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-05;1847), e successive modificazioni;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
 Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Padova e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
 Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro della pubblica istruzione;  
+Sulla proposta del Ministro per la pubblica istruzione;  
   
 Decreta:  
   
 Lo statuto dell'Universita' degli studi di Padova, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-L'art. 237, relativo all'ordinamento degli studi della scuola di perfezionamento in storia dell'arte, annessa alla facolta' di lettere e filosofia, e' abrogato e sostituito dal seguente:  
   
-La scuola ha durata triennale ed ha lo scopo di promuovere la formazione degli specialisti della materia.  
-A tale scopo raggruppa e coordina i seguenti insegnamenti:  
-Materie fondamentali:  
-archeologia cristiana;  
-storia dell'arte bizantina;  
-storia dell'arte medioevale;  
-storia dell'arte moderna;  
-storia dell'arte contemporanea;  
-storia dell'architettura e dell'urbanistica;  
-storia della critica d'arte.  
-Materie integrative:  
-archeologia e storia dell'arte greca e romana;  
-estetica;  
-numismatica;  
-paleografia e diplomatica;  
-storia dell'arte del Medio e Estremo Oriente;  
-storia dell'arte fiamminga e olandese;  
-storia dell'arte musulmana e copta;  
-storia della grafica;  
-storia della miniatura;  
-storia delle arti applicate;  
-storia delle tecniche artistiche e del restauro.  
-Sono ammessi alla scuola i laureati in lettere, in materie letterarie, in architettura: l'ammissione, oltre ai titoli di studio prescritti e al superamento della prova preliminare di traduzione a vista da almeno due lingue, previsto dall'art. 221 dello statuto dell'Universita', e' subordinata alla valutazione dei titoli presentati dai candidati ed eventualmente ad una prova di esame sostenuta davanti al consiglio della scuola e vertente sulle materie fondamentali.  
-L'art. 238, relativo alla suddetta scuola, e' modificato nel modo seguente:  
+Art. 380. - All'elenco delle scuole di specializzazione e delle scuole dirette a fini speciali annesse alla facolta' di medicina e chirurgia, e' aggiunta la seguente:  
   
-Alla prima riga e' soppressa la parola "scientifico".  
-Il terzo comma e' integrato con le seguenti parole:  
-"fermo restando che sara' preparata nell'ambito di diversa materia".  
-L'art. 239 e' soppresso.  
+Scuola per tecnici di colpocitologia.  
+  
+L'articolo 381 e' modificato nel senso che e' aggiunto l'ordinamento della scuola per tecnici di colpocitologia.  
+  
+Scuola per tecnici di colpocitologia  
+(scuola diretta a fini speciali)  
+  
+E' istituita presso la clinica ostetrica e ginecologica dell'Universita' di Padova (ai sensi dell'art. 20 del testo unico delle leggi sull'istruzione universitaria 31 agosto 1933, n. 1592) una scuola di preparazione per citotecnici, che ha lo scopo di preparare adeguatamente personale tecnico nel campo della diagnostica precoce del cancro genitale femminile.  
+La scuola ha indirizzo teorico-pratico e la durata del corso degli studi e' di due anni.  
+I titoli di ammissione devono essere: il diploma di scuola media unica, il diploma di avviamento professionale, commerciale od industriale od agrario o ad altro indirizzo.  
+Le tasse e soprattasse che gli iscritti sono tenuti a versare sono fissate come segue:  
+  
+tassa di immatricolazione. . . . . . . . . . . . . . . . L. 2.000 tassa di iscrizione . . . . . . . . . . . . . . . . . . L. 50.000 soprattassa esami . . . . . . . . . . . . . . . . . . . L. 10.000 tassa erariale di diploma. . . . . . . . . . . . . . . . L. 1.200   
+I contributi sono determinati di anno in anno dal consiglio di amministrazione su proposta del senato accademico, sentito il consiglio della facolta' di medicina e chirurgia.  
+Alla frequenza della scuola per tecnici si accede previo esame di cultura generale davanti ad una commissione composta dal direttore della scuola e da due insegnanti della stessa.  
+L'esame di ammissione e la valutazione dei titoli ha luogo entro la prima quindicina del mese di ottobre di ciascun anno, in un giorno stabilito dalla facolta' di medicina e chirurgia, su proposta del direttore della scuola.  
+Il numero massimo dei partecipanti e' di dodici per anno di corso.  
+Il direttore della scuola e' il direttore dell'istituto di clinica ostetrica dell'Universita' di Padova.  
+La scuola e' posta sotto la vigilanza della facolta' di medicina e chirurgia dell'universita' di Padova.  
+Gli insegnanti della scuola devono essere proposti dal direttore della stessa, approvati dalla facolta' di medicina e chirurgia e nominati dal rettore. Essi sono scelti tra i professori ufficiali, tra i liberi docenti, tra gli aiuti ed assistenti della facolta' di medicina e chirurgia o di altra facolta' dell'ateneo o tra persone di riconosciuta competenza anche al di fuori dell'ambito universitario.  
+Tra gli insegnanti deve essere compreso il medico provinciale in quanto esponente ed esperto di medicina preventiva e di educazione sanitaria.  
+Le materie di insegnamento sono le seguenti:  
+1° Anno:  
+1) Citologia generale;  
+2) Nozioni di anatomia ed istologia normale dell'apparato genitale femminile;  
+3) Nozioni di fisiologia dell'apparato genitale femminile;  
+4) Nozioni di anatomia ed istologia patologica dell'apparato genitale femminile;  
+5) Nozioni di endocrinologia ginecologica;  
+6) Nozioni di microscopia;  
+7) Tecnica citologica;  
+8) Nozioni di microbiologia (batteriologia, parassitologia, virologia) applicate alla ginecologia;  
+9) Fisiocitologia ginecologica;  
+10) Cariologia;  
+11) Colpomicroscopia;  
+12) Colposcopia (I).  
+2° Anno:  
+1) Tecnica istologica;  
+2) Istopatologia del collo dell'utero;  
+3) Istopatologia endometriale;  
+4) Citopatologia ginecologica;  
+5) Colposcopia (II);  
+6) Citochimica;  
+7) Medicina sociale ed educazione sanitaria;  
+8) Isto e citopatologia mammaria;  
+9) Tecniche di diagnosi precoce del carcinoma mammario;  
+10) Citopatologia peritoneale;  
+11) Urocitogramma in ginecologia;  
+12) Cito, isto e colpo-fotografia.  
+Gli iscritti alla scuola hanno l'obbligo di seguire un tirocinio pratico mediante la frequenza nel laboratorio di citologia e nell'ambulatorio di colposcopia della clinica ostetrica e ginecologica dell'Universita' per la durata di due anni.  
+I programmi di insegnamento e gli orari sono predisposti dal direttore della scuola ed approvati dal consiglio della facolta' di medicina e chirurgia.  
+La sorveglianza degli iscritti, per quanto riguarda la loro attivita' teorica e pratica, spetta al direttore della scuola.  
+Assenze ingiustificate comportano l'esclusione dal corso.  
+Per essere ammessi a sostenere gli esami di diploma, gli allievi devono aver seguito i corsi ed aver compiuto con esito favorevole tutte le esercitazioni pratiche previste.  
+Le commissioni per gli esami sono nominate dal preside della facolta' di medicina e chirurgia su proposta del direttore della scuola.  
+Le commissioni sono composte da tre membri: il professore ufficiale di clinica ostetrica e ginecologica, presidente, un docente della scuola ed il medico provinciale.  
+Ogni commissario ha a disposizione dieci punti.  
+L'esame di diploma consiste in un esame orale sui temi trattati durante il corso ed in una o piu' prove pratiche stabilite dalla commissione esaminatrice.  
+L'esame di diploma viene sostenuto davanti ad una commissione composta di cinque membri scelti fra i docenti della scuola, nominata dal preside della facolta' di medicina e chirurgia, su proposta del direttore della scuola. Ogni commissario ha a disposizione dieci punti.  
+I candidati non riconosciuti idonei possono ripresentarsi all'esame di diploma dopo un altro anno di frequenza della Scuola.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 27 ottobre 1978
+### Dato a Roma, addi' 31 ottobre 1972
 
-PERTINI PEDINI
+LEONE SCALFARO
 
-Visto, il Guardasigilli: BONIFACIO
+Visto, il Guardasigilli: GONELLA
 
-Registrato alla Corte dei conti, addi' 29 gennaio 1979
+Registrato alla Corte dei conti, addi' 28 giugno 1973
 
-Registro n. 2 Istruzione, foglio n. 298
+Atti di Governo, registro n. 258, foglio n. 132. - VALENTINI

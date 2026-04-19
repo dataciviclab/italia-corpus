@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 novembre 1954 n. 1312
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 giugno 1951 n. 724
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 novembre 1954 n. 1312
-================================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 giugno 1951 n. 724
+=============================================================
 
 Autorizzazione all'Universita' di Catania ad accettare una donazione.
 ---------------------------------------------------------------------
@@ -12,8 +12,7 @@ Art. 1
 
 N.
 
-1312. Decreto del Presidente della Repubblica 30 novembre 1954, col quale, sulla proposta del Ministro per la pubblica istruzione, l'Universita' di Catania viene autorizzata ad accettare la donazione della somma di L. 1.005.000 nominali disposta in suo favore dal sen. prof. avv. Orazio Condorelli; e la Fondazione "Antonino Pagano" derivante dalla predetta donazione viene eretta in ente morale e ne viene approvato lo statuto.  
+724. Decreto del Presidente della Repubblica 19 giugno 1951, col quale, sulla proposta del Ministro per la pubblica istruzione, l'Universita' di Catania viene autorizzata ad accettare la donazione della somma di L. 380.000 nominali in titoli al portatore e L. 7550 in denaro liquido, disposta in suo favore dal prof. Guido Libertini con atto pubblico amministrativo in data 3 febbraio 1951, per l'istituzione di un premio di studio da intitolarsi al medesimo e da conferirsi, annualmente, all'autore della migliore dissertazione di laurea in archeologia o in discipline affini.  
   
-Visto, il Guardasigilli: DE PIETRO  
-Registrato alla Corte dei conti, addi' 22 gennaio 1955  
-Atti del Governo, registro n. 88, foglio n. 76. - CARLOMAGNO
+Visto, il Guardasigilli: PICCIONI  
+Registrato alla Corte dei conti, addi' 24 agosto 1951

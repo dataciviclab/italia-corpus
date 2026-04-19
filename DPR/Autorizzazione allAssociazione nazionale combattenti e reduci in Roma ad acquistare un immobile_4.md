@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 febbraio 1975 n. 65
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 08 gennaio 1982 n. 79
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 febbraio 1975 n. 65
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 08 gennaio 1982 n. 79
+=============================================================
 
 Autorizzazione all'Associazione nazionale combattenti e reduci, in Roma, ad acquistare un immobile.
 ---------------------------------------------------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-65. Decreto del Presidente della Repubblica 10 febbraio 1975, col quale, sulla proposta del Presidente del Consiglio dei Ministri, l'Associazione nazionale combattenti e reduci, in Roma, viene autorizzata ad acquistare al complessivo convenuto prezzo di lire 5.900.000 dalla sig.ra Manchiaro Ines un appartamento sito in Lignano Pineta del comune di Lignano Sabbiadoro (Udine), viale Centrale n. 14, facente parte della torre A del condominio "Las Vegas", distinto al nuovo catasto edilizio urbano del comune di Lignano Sabbiadoro alla partita n. 2955, foglio 52, mappale 183/19, da destinare a casa per ex combattenti bisognosi di cure marine.  
+79. Decreto del Presidente della Repubblica 8 gennaio 1982, col quale, sulla proposta del Presidente del Consiglio dei Ministri, l'Associazione nazionale combattenti e reduci, in Roma, viene autorizzata ad acquistare, al prezzo di L. 5.313.000, un appartamento sito in Foggia, localita' Segezia, censito al nuovo catasto edilizio urbano alla partita 4372, foglio 188, particelle 18/7 e 19, di proprieta' dell'Opera nazionale combattenti, gia' da oltre 30 anni in locazione all'Associazione stessa.  
   
-Visto, il Guardasigilli: REALE  
-Registrato alla Corte dei conti, addi' 21 marzo 1975  
-Atti di Governo, registro n. 9, foglio n. 26
+Visto, il Guardasigilli: DARIDA  
+Registrato alla Corte dei conti, addi' 10 marzo 1982  
+Registro n. 2 Presidenza, foglio n. 357

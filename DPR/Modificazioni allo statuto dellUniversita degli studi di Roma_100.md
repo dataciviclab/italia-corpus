@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 17 ottobre 1967 n. 1056
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 21 marzo 1969 n. 366
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 17 ottobre 1967 n. 1056
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 21 marzo 1969 n. 366
+============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Roma.
 ----------------------------------------------------------------
@@ -10,80 +10,36 @@ Modificazioni allo statuto dell'Universita' degli studi di Roma.
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA  
+ IL PRESIDENTE DELLA REPUBBLICA   
   
-Veduto lo statuto dell'Universita' degli studi di Roma, approvato con [regio decreto 20 aprile 1939, n. 1350](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1350), e modificato con [regio decreto 26 ottobre 1939, n. 1734](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-26;1734), e successive modificazioni;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
-Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro per la pubblica istruzione;  
+Veduto lo statuto dell'Universita' degli studi di Roma, approvato con [regio decreto 20 aprile 1939, n. 1350](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1350) e modificato con [regio decreto 26 ottobre 1939, n. 1734](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-26;1734), e successive modificazioni;   
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);   
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;   
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;   
+Sentito il parere del Consiglio superiore della pubblica istruzione;   
+Sulla proposta del Ministro per la pubblica istruzione;   
   
-Decreta:  
+Decreta:   
   
-Lo statuto dell'Universita' degli studi di Roma, approvato e modificato con i decreti sopra indicati, e' ulteriormente modificato come appresso:  
-Gli articoli 384 e 385, relativi all'ordinamento della scuola di specializzazione in urologia, sono abrogati e sostituiti dai seguenti:  
+Lo statuto dell'Universita' degli studi di Roma, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
   
-Scuola di specializzazione in urologia  
-  
-Art. 384. - Gli insegnamenti prescritti per il diploma di specializzazione in urologia sono i seguenti:  
-1° Anno:  
-1) anatomia descrittiva e topografica dell'apparato uro-genitale;  
-2) fisiologia dell'apparato urogenitale;  
-3) patologia dell'apparato urinario e genitale maschile;  
-4) le nefropatie mediche;  
-5) semeiotica dell'apparato urogenitale (funzionale e di laboratorio);  
-6) tecniche strumentali e semeiologia endoscopica;  
-7) batteriologia in urologia;  
-8) farmacoterapia delle affezioni urogenitali.  
-2° Anno:  
-1) patologia dell'apparato urinario e genitale maschile;  
-2) clinica urologica;  
-3) patologia genitale femminile di interesse urologico;  
-4) nefrologia chirurgica;  
-5) anatomia ed istologia patologica dell'apparato urogenitale;  
-6) semeiotica dell'apparato urogenitale (funzionale e di laboratorio);  
-7) tecniche strumentali e semeiologia endoscopica;  
-8) anatomia chirurgica dell'apparato urogenitale;  
-9) radiologia dell'apparato urinario e genitale;  
-10) le affezioni cutanee e veneree nei riguardi dell'urologia;  
-11) l'anestesiologia ed il trattamento pre e post-operatorio del malato urologico.  
-3° Anno:  
-1) clinica urologica;  
-2) patologia e clinica urologica infantile;  
-3) radiologia dell'apparato urinario e genitale;  
-4) tecniche operatorie sull'apparato urinario e genitale;  
-5) urologia ginecologica.  
-Art. 385. - Gli esami di profitto si sostengono nei seguenti gruppi:  
-1° Anno:  
-1) anatomica e fisiologia dell'apparato urogenitale;  
-2) le nefropatie mediche;  
-3) batteriologia in urologia e farmacoterapia delle affezioni urogenitali.  
-2° Anno:  
-1) patologia dell'apparato urinario e genitale maschile; anatomia ed istologia patologica;  
-2) semeiotica urologica (funzionale e di laboratorio) e tecnica strumentale e semeiologia endoscopica;  
-3) patologia genitale femminile di interesse urologico; le affezioni cutanee e veneree nei riguardi della urologia;  
-4) anatomia chirurgica dell'apparato urogenitale; anestesia e trattamento pre e post operatorio del malato urologico;  
-5) nefrologia chirurgica.  
-3° Anno:  
-1) clinica urologica;  
-2) radiologia dell'apparato urinario e genitale;  
-3) interventi e procedimenti operatori sull'apparato urogenitale;  
-4) patologia e clinica urologica infantile;  
-5) urologia ginecologica.  
+Art. 56. - All'elenco degli insegnamenti complementari del corso di laurea in lettere e' aggiunto il seguente:   
+"Archeologia e topografia medioevale".   
+Art. 67. - All'elenco degli insegnamenti complementari del corso di laurea in pedagogia e' aggiunto il seguente: "Educazione degli adulti".   
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 17 ottobre 1967
+### Dato a Roma, addi' 21 marzo 1969
 
-SARAGAT GUI
+SARAGAT SULLO
 
-Visto, il Guardasigilli: REALE
+Visto, il Guardasigilli: GAVA
 
-Registrato alla Corte dei conti, addi' 15 novembre 1967
+Registrato alla Corte dei conti, addi' 8 luglio 1969
 
-Atti del Governo, registro n. 214, foglio n. 154. - GRECO
+Atti del Governo, registro n. 227, foglio n. 130. - CARUSO

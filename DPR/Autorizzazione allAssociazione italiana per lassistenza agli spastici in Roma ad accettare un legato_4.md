@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 01 marzo 1977 n. 219
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 ottobre 1985 n. 815
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 01 marzo 1977 n. 219
-============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 ottobre 1985 n. 815
+==============================================================
 
 Autorizzazione all'Associazione italiana per l'assistenza agli spastici, in Roma, ad accettare un legato.
 ---------------------------------------------------------------------------------------------------------
@@ -12,8 +12,9 @@ Art. 1
 
 N.
 
-219. Decreto del Presidente della Repubblica 1° marzo 1977, col quale, sulla proposta del Ministro per la sanita', l'Associazione italiana per l'assistenza agli spastici, in Roma, viene autorizzata ad accettare il legato disposto dalla sig.ra Enrichetta Vogliotti vedova Avanzi con testamento olografo pubblicato per atto a rogito notaio Massimo Vallania in data 9 gennaio 1970, n. 63462 di repertorio, in favore della sezione AIAS di Torino, consistente nella quota di comproprieta' indivisa, pari a due dodicesimi, dell'immobile sito in Torino, via Tesso n. 8 angolo via Giachino, censito al nuovo catasto edilizio urbano al foglio n. 52 con i mappali numeri 136, 138 e 139, periziato dall'ufficio tecnico erariale di Torino per un valore di L. 24.000.000.   
+815. Decreto del Presidente della Repubblica 30 ottobre 1985, col quale, sulla proposta del Ministro della sanita', l'Associazione italiana per l'assistenza agli spastici, in Roma, viene autorizzata ad accettare il legato, consistente in un appartamento sito in Monza, via Massimo d'Azeglio, n. 15, del periziato valore di L. 51.000.000 (nota U.T.E. di Milano 30 maggio 1983), da utilizzare per il perseguimento dei fini istituzionali, disposto dalla sig.ra Elena Citterio con testamento olografo 3 settembre 1981, pubblicato in data 24 settembre 1981, n. 7971 di repertorio, a rogito dott.  
+Carlo Maria Giovenzane, notaio in Monza (Milano), registrato a Monza in data 1 ottobre 1981 al n. 10398.   
   
-Visto, il Guardasigilli: BONIFACIO   
-Registrato alla Corte dei conti, addi' 6 maggio 1977   
-Registro n. 3 Sanita', foglio n. 298
+Visto, il Guardasigilli: MARTINAZZOLI   
+Registrato alla Corte dei conti, addi' 23 dicembre 1985   
+Registro n. 10 Sanita', foglio n. 306

@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 dicembre 1985 n. 1043
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 09 maggio 1983 n. 758
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 dicembre 1985 n. 1043
-================================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 09 maggio 1983 n. 758
+=============================================================
 
 Modificazione allo statuto dell'Universita' degli studi "La Sapienza" di Roma.
 ------------------------------------------------------------------------------
@@ -39,23 +39,30 @@ Articolo unico
 --------------
 
   
-Nell'art. 46, all'elenco degli insegnamenti complementari del corso di laurea in economia e commercio, sono aggiunti i seguenti insegnamenti:  
-economia dei gruppi e delle concentrazioni aziendali;  
-revisione aziendale;  
-storia della popolazione.  
+  
+Art. 92 - nell'elenco degli insegnamenti complementari del corso di laurea in medicina e chirurgia sono inseriti i seguenti insegnamenti:   
+diagnostica e chirurgia endoscopica;   
+fisiopatologia del dolore;   
+fisiopatologia dell'emostasi;   
+endocrinochirurgia;   
+applicazioni tecnologiche in chirurgia;   
+psicopatologia generale dell'eta' evolutiva;   
+fisioterapia e cerebropatie infantili;   
+microchirurgia;   
+chirurgia sostitutiva e di trapianti d'organo;   
+istituzioni di anatomia ed istologia patologica;   
+ginecologia oncologica.   
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 31 dicembre 1985
+### Dato a Roma, addi' 9 maggio 1983
 
-COSSIGA
-
-FALCUCCI, Ministro della pubblica istruzione
+PERTINI FALCUCCI
 
 Visto, il Guardasigilli: MARTINAZZOLI
 
-Registrato alla Corte dei conti, addi' 12 aprile 1986
+Registrato alla Corte dei conti, addi' 27 dicembre 1983
 
-Registro n. 27 Istruzione, foglio n. 327
+Registro n. 79 Istruzione, foglio n. 400

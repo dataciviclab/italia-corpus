@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 08 agosto 1978 n. 831
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 23 dicembre 1977 n. 1146
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 08 agosto 1978 n. 831
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 23 dicembre 1977 n. 1146
+================================================================
 
 Autorizzazione all'Ente nazionale ACLI per l'istruzione professionale, in Roma, ad acquistare un immobile.
 ----------------------------------------------------------------------------------------------------------
@@ -12,9 +12,9 @@ Art. 1
 
 N.
 
-831. Decreto del Presidente della Repubblica 8 agosto 1978, col quale, sulla proposta del Ministro del lavoro e della previdenza sociale, l'Ente nazionale ACLI per l'istruzione professionale (ENAIP), in Roma, viene autorizzato ad acquistare dalla N.D. sig.na Maria Acclavio, al prezzo di L. 24.000.000, un lotto di terreno edificabile della superficie di mq 10.000 circa sito nel territorio del comune di Taranto in localita' rione Salinella cosi' esattamente censito alla partita del nuovo catasto edilizio urbano:  
-n. 5386 foglio mappale n. 254, particelle 547, 672, 841 per mq rispettivi 4.990,00, 4.480,00, 2.380,00, per un totale di mq 11.850,00, come da contratto condizionato di compravendita in scrittura privata dell'8 aprile 1970, registrato a Roma, primo ufficio registro atti privati, il 13 aprile 1976, n. 2676, e successivamente integrato con atto 28 dicembre 1972, registrato atti privati Roma n. 3601 del 6 marzo 1973, allo scopo di destinarlo alla costruzione di un centro di formazione professionale per i lavoratori.  
+1146. Decreto del Presidente della Repubblica 23 dicembre 1977, col quale, sulla proposta del Ministro del lavoro e della previdenza sociale, l'Ente nazionale ACLI per l'istruzione professionale (ENAIP), in Roma, viene autorizzato ad acquistare dal sig. Giuseppe De Gennaro, al prezzo complessivo di L. 52.000.000, la porzione di fabbricato di nuova costruzione di proprieta' del medesimo ubicato in Bari fra le vie Giuseppe Capruzzi, prima traversa Capruzzi e via Vitantonio De Bellis n. 47 e propriamente l'appartamento di primo piano uso uffici, composto di sette vani, tre saloni, tre gabinetti e corridoio, per una superficie globale di mq 450 circa, denunciato all'ufficio tecnico erariale di Bari con scheda della planimetria serie C, n. 102042, registrato il 22 dicembre 1970 al n. 12148, come da contratto preliminare condizionato redatto in scrittura privata autenticata e registrato all'ufficio del registro di Bari, atti privati, al numero 18387 in data 21 maggio 1971 fra il presidente pro-tempore dell'ENAIP, dott.  
+Emilio Gabaglio ed il gia' menzionato sig. Giuseppe De Gennaro, allo scopo di destinarlo per finalita' connesse alla formazione professionale nel Meridione dei lavoratori del commercio.  
   
 Visto, il Guardasigilli: BONIFACIO  
-Registrato alla Corte dei conti, addi' 15 dicembre 1978  
-Registro n. 1 Lavoro, foglio n. 65
+Registrato alla Corte dei conti, addi' 31 marzo 1978  
+Registro n. 1 Lavoro, foglio n. 43

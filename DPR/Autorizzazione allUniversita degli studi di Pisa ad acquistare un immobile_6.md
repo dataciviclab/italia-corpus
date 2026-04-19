@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 marzo 1966 n. 269
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 febbraio 1973 n. 127
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 marzo 1966 n. 269
-============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 febbraio 1973 n. 127
+===============================================================
 
 Autorizzazione all'Universita' degli studi di Pisa ad acquistare un immobile.
 -----------------------------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-269. Decreto del Presidente della Repubblica 28 marzo 1966, col quale, sulla proposta del Ministro per la pubblica istruzione, l'Universita' degli studi di Pisa viene autorizzata ad acquistare dall'ing. Paolo Sortino, al prezzo di L. 26.400.000 (lire ventiseimilioniquattrocentomila), un appezzamento di terreno di mq. 3680, sito in Pisa, via Bonanno, iscritto al catasto terreni nel foglio n. 27, part. 18.  
+127. Decreto del Presidente della Repubblica 2 febbraio 1973, col quale, sulla proposta del Ministro per la pubblica istruzione, l'Universita' degli studi di Pisa viene autorizzata ad acquistare un immobile sito in Pisa, via Bonanno Pisano, 55, descritto nel nuovo catasto edilizio urbano di Pisa alla partita 3548, particelle 16-118/1, 118/2 - 119 e 135 del foglio n. 27 al prezzo di L. 120.000.000.  
   
-Visto, il Guardasigilli: REALE  
-Registrato alla Corte dei conti, addi' 9 maggio 1966  
-Atti del Governo, registro n. 203, foglio n. 24. - VILLA
+Visto, il Guardasigilli: GONELLA  
+Registrato alla Corte dei conti, addi' 11 aprile 1973  
+Atti di Governo, registro n. 257, foglio n. 84. - VALENTINI

@@ -1,149 +1,206 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1972 n. 1020
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 01 agosto 1972 n. 586
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1972 n. 1020
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 01 agosto 1972 n. 586
+=============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Siena.
 -----------------------------------------------------------------
 
+IL PRESIDENTE DELLA REPUBBLICA
+------------------------------
+
+Veduto lo statuto dell'Universita' degli studi di Siena, approvato con [regio decreto 13 ottobre 1927, n. 2831](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2831) e modificato con [regio decreto 31 ottobre 1929, n. 2395](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1929-10-31;2395), e successive modificazioni;
+
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
+
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
+
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;
+
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
+
+Sentito il parere del Consiglio superiore della pubblica istruzione;
+
+Sulla proposta del Ministro per la pubblica istruzione;
+
+Decreta:
+
+Lo statuto dell'Universita' degli studi di Siena, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+
+Dopo l'art. 166 sono aggiunti i seguenti nuovi articoli relativi alla istituzione della scuola diretta a fini speciali per tecnici di istituti medico-biologici.
+
+Scuola per tecnici di istituti medico-biologici
+
+Art. 167. - E' istituita presso la facolta' di medicina e chirurgia dell'Universita' di Siena una scuola ad indirizzo essenzialmente pratico diretta a preparare personale tecnico per gli istituti e laboratori medico biologici.
+
+Il direttore della scuola e' nominato dal rettore su proposta della facolta' di medicina e chirurgia.
+
+Gli insegnanti della scuola sono proposti dal direttore e sono nominati dal rettore su conforme parere del consiglio della facolta' di medicina e chirurgia.
+
+I professori che svolgono gli insegnamenti costituiscono il consiglio della scuola, al quale spettano le funzioni tecniche e disciplinari necessarie per il regolare funzionamento della scuola.
+
+Art. 168. -- La scuola prende il nome di "Scuola per tecnici di istituti medico-biologici", ha la durata di due anni e conferisce il diploma di tecnico di istituti medicobiologici. Ne e' titolo di ammissione il possesso di un diploma legalmente valido conseguito presso un istituto secondario superiore ordinato su non meno di cinque anni di corso.
+
+Art. 169. - Gli aspiranti all'iscrizione al primo anno di corso sono tenuti a sostenere un esame di ammissione consistente in una prova orale di cultura generale ed in una prova orale di conoscenza di una lingua straniera moderna, scelta tra l'inglese, il francese ed il tedesco.
+
+Art. 170. - Alla scuola non sono ammessi piu' di venti allievi.
+
+Qualora le domande di iscrizione fossero in numero superiore, il consiglio della scuola si riserva di provvedere ad una scelta tra gli idonei in base ai risultati dell'esame di ammissione.
+
+Art. 171. - Il corso comprende lezioni teoriche ed esercitazioni pratiche.
+
+Le materie di insegnamento sono le seguenti:
+
+1° Anno:
+
+Anatomia e istologia;
+
+Elementi di chimica generale e chimica biologica;
+
+Fisiologia;
+
+Farmacologia.
+
+2° Anno:
+
+Microbiologia;
+
+Anatomia patologica;
+
+Patologia.
+
+Le esercitazioni pratiche comprendono:
+
+1° Anno:
+
+Tecnica istologica, istochimica, cultura in vitro, microscopia elettronica;
+
+Tecnica biochimica;
+
+Prove biologiche (di fisiologia e di farmacologia).
+
+2° Anno:
+
+Tecnica microbiologica;
+
+Istologia patologica;
+
+Analisi cliniche.
+
+Art. 172. - E' fatto obbligo agli allievi di frequentare le azioni teoriche e le esercitazioni: queste ultime in forma di tirocinio pratico della durata non inferiore a mesi due consecutivi presso un istituto universitario ad indirizzo biologico o clinico.
+
+Art. 173. - Alla fine di ogni corso gli allievi devono sostenere un esame sulle materie di insegnamento. Nel caso in cui i candidati non abbiano superato gli esami prescritti, essi rimarranno nella posizione di "ripetenti" fino a quando non avranno assolto tutti gli obblighi di cui sopra.
+
+Art. 174. - A conclusione dei loro studi gli allievi devono sostenere un esame di diploma che consiste nella discussione di una dissertazione scritta su argomento che a scelta del candidato potra' essere biologico o clinico e nell'esecuzione di una prova pratica di laboratorio sulle materie di esercitazione.
+
+Art. 175. - I candidati non riconosciuti idonei possono ripresentarsi all'esame di diploma dopo un altro anno di frequenza alla scuola. Se al secondo esame non venga loro riconosciuta l'idoneita', essi saranno senza altro esclusi da ulteriori prove.
+
+Art. 176. - Le tasse e soprattasse sono le seguenti:
+
+Tassa di iscrizione...... L. 10.000 annue
+
+Soprattassa di esame....." 7.000"
+
+Tassa di diploma......" 6.000"
+
+Art. 177. - I proventi della scuola sono costituiti dalle tasse, soprattasse e contributi di cui all'articolo precedente e dai contributi del Ministero della sanita' e degli enti locali.
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 1 agosto 1972
+
+LEONE
+
+SCALFARO
+
+Visto, il Guardasigilli: GONELLA
+
+Registrato
+----------
+
+alla Corte dei conti, addi' 10 ottobre 1972 Atti del Governo, registro n. 251, foglio n. 112. - CARUSO
+
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA  
+ IL PRESIDENTE DELLA REPUBBLICA   
   
-Veduto lo statuto dell'Universita' degli studi di Siena, approvato con [regio decreto 13 ottobre 1927, n. 2831](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2831) e modificato con [regio decreto 31 ottobre 1929, n. 2395](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1929-10-31;2395), e successive modificazioni;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
-Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro per la pubblica istruzione;  
+Veduto lo statuto dell'Universita' degli studi di Siena, approvato con [regio decreto 13 ottobre 1927, n. 2831](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2831) e modificato con [regio decreto 31 ottobre 1929, n. 2395](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1929-10-31;2395), e successive modificazioni;   
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;   
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;   
+Sentito il parere del Consiglio superiore della pubblica istruzione;   
+Sulla proposta del Ministro per la pubblica istruzione;   
   
-Decreta:  
+Decreta:   
   
-Lo statuto dell'Universita' degli studi di Siena, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+Lo statuto dell'Universita' degli studi di Siena, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
   
-Dopo l'art. 74 e con il conseguente spostamento della numerazione degli articoli successivi sono aggiunti i seguenti nuovi articoli relativi alla istituzione della scuola speciale per terapisti della riabilitazione.  
+Dopo l'art. 166 sono aggiunti i seguenti nuovi articoli relativi alla istituzione della scuola diretta a fini speciali per tecnici di istituti medico-biologici.   
   
-Scuola speciale per terapisti della riabilitazione  
+Scuola per tecnici di istituti medico-biologici   
   
-Art. 75. - La scuola speciale per terapisti della riabilitazione ha lo scopo di dare una preparazione completa, teorica e pratica, agli allievi istruendoli sui problemi della riabilitazione dei minorati fisici e psichici.  
-Costituiscono indirizzi della scuola:  
-a) rieducazione dei motulesi da lesioni del sistema nervoso centrale e periferico nell'adulto;  
-b) rieducazione dei motulesi da lesioni del sistema nervoso centrale e periferico nel bambino;  
-c) rieducazione in ortopedia e traumatologia:  
-d) riabilitazione della parola e del linguaggio nell'adulto;  
-e) terapia del linguaggio nell'eta' infantile;  
-f) riabilitazione in medicina interna, cardiologia e pneumologia;  
-g) riabilitazione ortofrenica e psicomotoria.  
-Art. 76. - La durata del corso degli studi per il conseguimento del diploma di terapista della riabilitazione e' di due anni accademici.  
-Il primo anno consiste in lezioni teoriche e pratiche su materie propedeutiche e tecniche.  
-Il secondo anno comprende: insegnamento teorico e tirocinio pratico.  
-Le materie di insegnamento del primo anno sono comuni a tutti gli iscritti.  
-Le materie di insegnamento del secondo anno sono qualificanti dell'indirizzo del corso di studio prescelto.  
-Il diploma sara' differenziato in otto branche di cui all'art. 6.  
-Gli allievi hanno l'obbligo della frequenza alle lezioni ed ai tirocini.  
-Art. 77. - Possono essere ammessi alla scuola gli allievi di ambo i sessi, di eta' non inferiore ai 17 anni, in possesso del titolo di studio per l'ammissione alle universita'.  
-Possono ottenere l'ammissione coloro che compiono 17 anni entro l'anno solare.  
-Il numero massimo dei posti disponibili annualmente e' stabilito nella misura di 40. L'iscrizione alla scuola e' subordinata al superamento di un esame di ammissione che sara' sostenuto con una commissione formata da tre docenti della scuola, designati dal direttore.  
-Art. 78. - Il consiglio direttivo della scuola viene nominato dalla facolta' ogni tre anni ed e' composto da Otto membri, uno per ogni indirizzo della scuola. Il consiglio elegge ogni tre anni il direttore della scuola e propone per la nomina al consiglio di facolta' i docenti delle singole materie.  
-Art. 79. - Le materie di insegnamento del primo anno sono:  
-1) Istituzioni di anatomia;  
-2) Istituzioni di fisiologia, fisiologia dello sviluppo;  
-3) Psicologia generale e patologica;  
-4) Nozioni di igiene e medicina sociale;  
-5) Nozioni di clinica della riabilitazione (indicazioni di terapia riabilitativa);  
-6) Istituzioni di patologia ed anatomia patologica;  
-7) Principi e tecniche della riabilitazione;  
-8) Principi di terapia occupazionale e strutture di recupero.  
-Art. 80. - Le materie di insegnamento del secondo anno per ciascun corso qualificato sono:  
-A) Terapia e riabilitazione dei motulesi da lesioni del sistema nervoso centrale e periferico del bambino:  
-1) Fisiologia e fisiopatologia del sistema nervoso;  
-2) Psicologia differenziale e dell'eta' evolutiva;  
-3) Pediatria e neuropsichiatria infantile;  
-4) Ortopedagogia;  
-5) Metodologia e didattica nell'insegnamento al bambino cerebroleso;  
-6) Tecniche di riabilitazione in fisioterapia per il recupero del bambino con paralisi cerebrali;  
-7) Tecniche di riabilitazione psico-motoria e di terapia occupazionale del bambino cerebroleso.  
-B) Terapia e riabilitazione psicomotoria ed ortofrenica:  
-1) Fisiologia e fisiopatologia del sistema nervoso;  
-2) Psicologia differenziale e dell'eta' evolutiva;  
-3) Pediatria differenziale e neuropsichiatria infantile;  
-4) Psicologia pedagogica;  
-5) Ortopedagogia;  
-6) Metodologia e didattica;  
-7) Ludoterapia;  
-8) Tecniche riabilitative psicomotorie ed occupazionali.  
-C) Terapia e riabilitazione del linguaggio nel bambino:  
-1) Fisiologia e fisiopatologia dell'udito e della parola;  
-2) Psicologia differenziale e dell'eta' evolutiva;  
-3) Pediatria e neuropsichiatria infantile;  
-4) Fisica acustica;  
-5) Audiologia;  
-6) Fonetica;  
-7) Foniatria.  
-D) Rieducazione dei motulesi adulti:  
-1) Fisiologia e fisiopatologia del sistema nervoso;  
-2) Clinica neurologica;  
-3) Psichiatria e psicopatologia;  
-4) Chinesiologia e diagnostica dei disturbi del movimento;  
-5) Tecniche di riabilitazione fisiochinesiterapiche nelle lesioni del sistema nervoso centrale;  
-6) Tecniche di riabilitazione fisiochinesiterapiche nelle lesioni del sistema nervoso periferico;  
-7) Tecniche di terapia occupazionale del motuleso.  
-E) Rieducazione dei disturbi della parola e del linguaggio nell'adulto:  
-1) Fisiologia e fisiopatologia dell'udito e della parola;  
-2) Clinica neurologica e diagnostica delle afasie;  
-3) Psicologia differenziale ed applicata;  
-4) Psichiatria e psicopatologia;  
-5) Fisica acustica;  
-6) Audiologia e fonetica;  
-7) Tecniche di riabilitazione delle afasie;  
-8) Tecniche di riabilitazione fonetica;  
-9) Foniatria.  
-F) Terapisti della riabilitazione in ortopedia e traumatologia:  
-1) Fisiologia e fisiopatologia negli organi di movimento;  
-2) Ortopedia e traumatologia;  
-3) Massoterapia, balneoterapia, idroterapia, ludoterapia;  
-4) Ginnastica medica;  
-5) Terapia di movimento e rieducazione motoria;  
-6) Psicologia differenziale e applicata;  
-7) Terapia occupazionale.  
-G) Riabilitazione in medicina interna, cardiologia e pneumologia:  
-1) Fisiologia e fisiopatologia circolatoria e respiratoria;  
-2) Esame del malato; indicazioni della riabilitazione;  
-criteri di recuperabilita';  
-3) Patologia e clinica delle forme polmonari inabilitanti;  
-4) Patologia e clinica delle forme circolatorie centrali o periferiche inabilitanti;  
-5) Metodologie terapeutiche di riabilitazione in patologia circolatoria e cardiaca;  
-6) Metodologie terapeutiche di riabilitazione in patologia respiratoria primitiva e secondaria;  
-7) Aspetti di riabilitazione cardiorespiratoria nel paziente geriatrico;  
-8) Terapia occupazionale.  
-Art. 81. - Il tirocinio pratico verra' effettuato presso istituti o cliniche dell'universita' od enti di ricovero e cura e particolarmente qualificati.  
-Art. 82. - Per essere ammessi a sostenere l'esame di diploma gli allievi dovranno avere seguito i corsi, superato gli esami scritti e orali in tutti gli insegnamenti prescritti, ed aver compiuto, con esito favorevole, le esercitazioni ed il tirocinio previsti.  
-L'esame per il conseguimento del diploma di terapista della riabilitazione consiste nella discussione di una tesi scritta su un tema preventivamente assegnato dal direttore della scuola.  
-Art. 83. - Per ottenere l'ammissione alla scuola dovra' essere presentata all'ufficio di segreteria dell'universita', entro il 1 ottobre, domanda diretta al rettore, redatta in carta da bollo e recante l'indicazione del recapito del richiedente.  
-Art. 84. - I candidati ammessi alla scuola dovranno, entro il termine che verra' a suo tempo comunicato, presentare:  
-a) titolo originale di studio;  
-b) due fotografie formato tessera (su fondo chiaro e firmate) del richiedente, di cui una bollata e autenticata;  
-c) quietanza comprovante il pagamento alla tesoreria universitaria delle tasse, sopratasse e contributi prescritti (immatricolazione L. 5000; tassa annuale di iscrizione L. 10.000; sopratassa annuale esami L. 7000; contributi generali L. 1000; contributo di riscaldamento L. 2000; libretto di riconoscimento L. 1000; indennita' di schedatura L. 1000; contributo di reparto L. 80.000 annuali).  
-Il pagamento della tassa di iscrizione e della soprattassa potra' essere ripartito in due rate uguali.  
-Art. 85. - Per ottenere il rilascio del diploma, gli interessati dovranno presentare:  
-a) domanda diretta al rettore in carta da bollo;  
-b) quietanza comprovante il pagamento di L. 5000 per indennita', diploma, bollo, ecc., effettuato mediante apposito bollettino;  
-c) quietanza comprovante il pagamento della tassa erariale di diploma di L. 5000.  
+Art. 167. - E' istituita presso la facolta' di medicina e chirurgia dell'Universita' di Siena una scuola ad indirizzo essenzialmente pratico diretta a preparare personale tecnico per gli istituti e laboratori medico biologici.   
+Il direttore della scuola e' nominato dal rettore su proposta della facolta' di medicina e chirurgia.   
+Gli insegnanti della scuola sono proposti dal direttore e sono nominati dal rettore su conforme parere del consiglio della facolta' di medicina e chirurgia.   
+I professori che svolgono gli insegnamenti costituiscono il consiglio della scuola, al quale spettano le funzioni tecniche e disciplinari necessarie per il regolare funzionamento della scuola.   
+Art. 168. -- La scuola prende il nome di "Scuola per tecnici di istituti medico-biologici", ha la durata di due anni e conferisce il diploma di tecnico di istituti medicobiologici. Ne e' titolo di ammissione il possesso di un diploma legalmente valido conseguito presso un istituto secondario superiore ordinato su non meno di cinque anni di corso.   
+Art. 169. - Gli aspiranti all'iscrizione al primo anno di corso sono tenuti a sostenere un esame di ammissione consistente in una prova orale di cultura generale ed in una prova orale di conoscenza di una lingua straniera moderna, scelta tra l'inglese, il francese ed il tedesco.   
+Art. 170. - Alla scuola non sono ammessi piu' di venti allievi.  
+Qualora le domande di iscrizione fossero in numero superiore, il consiglio della scuola si riserva di provvedere ad una scelta tra gli idonei in base ai risultati dell'esame di ammissione.   
+Art. 171. - Il corso comprende lezioni teoriche ed esercitazioni pratiche.   
+Le materie di insegnamento sono le seguenti:   
+  
+1° Anno:   
+Anatomia e istologia;   
+Elementi di chimica generale e chimica biologica;   
+Fisiologia;   
+Farmacologia.   
+  
+2° Anno:   
+Microbiologia;   
+Anatomia patologica;   
+Patologia.   
+  
+Le esercitazioni pratiche comprendono:   
+  
+1° Anno:   
+Tecnica istologica, istochimica, cultura in vitro, microscopia elettronica;   
+Tecnica biochimica;   
+Prove biologiche (di fisiologia e di farmacologia).   
+  
+2° Anno:   
+Tecnica microbiologica;   
+Istologia patologica;   
+Analisi cliniche.   
+  
+Art. 172. - E' fatto obbligo agli allievi di frequentare le azioni teoriche e le esercitazioni: queste ultime in forma di tirocinio pratico della durata non inferiore a mesi due consecutivi presso un istituto universitario ad indirizzo biologico o clinico.   
+Art. 173. - Alla fine di ogni corso gli allievi devono sostenere un esame sulle materie di insegnamento. Nel caso in cui i candidati non abbiano superato gli esami prescritti, essi rimarranno nella posizione di "ripetenti" fino a quando non avranno assolto tutti gli obblighi di cui sopra.   
+Art. 174. - A conclusione dei loro studi gli allievi devono sostenere un esame di diploma che consiste nella discussione di una dissertazione scritta su argomento che a scelta del candidato potra' essere biologico o clinico e nell'esecuzione di una prova pratica di laboratorio sulle materie di esercitazione.   
+Art. 175. - I candidati non riconosciuti idonei possono ripresentarsi all'esame di diploma dopo un altro anno di frequenza alla scuola. Se al secondo esame non venga loro riconosciuta l'idoneita', essi saranno senza altro esclusi da ulteriori prove.   
+Art. 176. - Le tasse e soprattasse sono le seguenti:   
+  
+Tassa di iscrizione...... L. 10.000 annue   
+Soprattassa di esame....." 7.000"   
+Tassa di diploma......" 6.000"   
+  
+Art. 177. - I proventi della scuola sono costituiti dalle tasse, soprattasse e contributi di cui all'articolo precedente e dai contributi del Ministero della sanita' e degli enti locali.   
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 31 ottobre 1972
+### Dato a Roma, addi' 1 agosto 1972
 
 LEONE SCALFARO
 
 Visto, il Guardasigilli: GONELLA
 
-Registrato alla Corte dei conti, addi' 20 febbraio 1973
+Registrato alla Corte dei conti, addi' 10 ottobre 1972
 
-Atti di Governo, registro n. 256, foglio n. 10. - VALENTINI
+Atti del Governo, registro n. 251, foglio n. 112. - CARUSO

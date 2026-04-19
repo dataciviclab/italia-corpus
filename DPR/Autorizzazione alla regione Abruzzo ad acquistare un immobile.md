@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 ottobre 1984 n. 789
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 29 marzo 1982 n. 261
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 ottobre 1984 n. 789
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 29 marzo 1982 n. 261
+============================================================
 
 Autorizzazione alla regione Abruzzo ad acquistare un immobile.
 --------------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-789. Decreto del Presidente della Repubblica 11 ottobre 1984, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la regione Abruzzo viene autorizzata ad acquistare, al prezzo di L. 1.595.000.000, e sotto le condizioni indicate nella relazione di stima dell'ufficio tecnico erariale di Teramo, il primo e il secondo piano, oltre agli accessori, alle parti comuni e all'area di parcheggio, di un immobile in corso di realizzazione a Teramo, in un'area di proprieta' dell'impresa edile "F.lli Zecchini S.a.s.", sita alla via di Ponte S. Giovanni, per destinarli a sede della sezione di Teramo del comitato regionale di controllo e di altri uffici.  
+261. Decreto del Presidente della Repubblica 29 marzo 1982, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la regione Abruzzo viene autorizzata ad acquistare, al prezzo di L. 200.000, un terreno sito in Avezzano (L'Aquila), localita' Cimitero Vecchio, riportato in catasto al foglio n. 54, particella 273, della estensione di mq 23.000, di proprieta' del comune di Avezzano.  
   
-Visto, il Guardasigilli: MARTINAZZOLI  
-Registrato alla Corte dei conti, addi' 17 novembre 1984  
-Registro n. 10 Presidenza, foglio n. 63
+Visto, il Guardasigilli: DARIDA  
+Registrato alla Corte dei conti, addi' 11 maggio 1982  
+Registro n. 4 Presidenza, foglio n. 190

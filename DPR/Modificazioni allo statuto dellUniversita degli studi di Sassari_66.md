@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 29 aprile 1980 n. 581
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1979 n. 778
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 29 aprile 1980 n. 581
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1979 n. 778
+==============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Sassari.
 -------------------------------------------------------------------
@@ -18,17 +18,13 @@ Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it
 
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
 
-Veduta la [legge 22 maggio 1978, n. 217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-05-22;217);
-
 Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Sassari e convalidati dal Consiglio universitario nazionale nel suo parere;
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Sassari e convalidati dal consiglio superiore della pubblica istruzione nel suo parere;
 
-Sentito il parere del Consiglio universitario nazionale;
+Veduta la [legge 22 maggio 1978, n. 217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-05-22;217);
 
-Veduto il [parere della sezione prima del Consiglio di Stato n. 1902/74 del 14 febbraio 1975](https://e-justice.europa.eu/ecli/ECLI::::);
-
-Considerato che non appare opportuno, al momento, procedere ad una generale revisione delle norme statutarie di tutti gli atenei relative alla direzione delle scuole di specializzazione e perfezionamento e degli istituti nonche' delle scuole dirette a fini speciali, attualmente affidata esclusivamente ai professori di ruolo o fuori ruolo, in attesa del provvedimento relativo allo stato giuridico del personale docente;
+Sentito il parere del Consiglio superiore della pubblica istruzione;
 
 Sulla
 -----
@@ -39,80 +35,123 @@ Art. 1
 ------
 
   
-Lo statuto dell'Universita' di Sassari, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-Art. 77 - all'elenco delle scuole di specializzazione annesse alla facolta' di medicina e chirurgia e' aggiunta la scuola di specializzazione in odontostomatologia.  
+Lo statuto dell'Universita' degli studi di Sassari, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+Art. 77 - all'elenco delle scuole di specializzazione in medicina e chirurgia sono aggiunte le scuole di specializzazione in chirurgia dell'apparato digerente ed endoscopia digestiva ed in dermatologia e venereologia.  
 
 Art. 2
 ------
 
   
-Dopo l'art. 137, e con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi alla istituzione della scuola di specializzazione in odontostomatologia.  
-Art. 138. - La scuola di specializzazione in odontostomatologia ha sede presso la clinica odontostomatologica e conferisce il diploma di specialista in odontostomatologia.  
+L'art. 129, relativo agli insegnamenti della scuola di specializzazione in neurochirurgia riordinata con [decreto del Presidente della Repubblica 10 ottobre 1977, n. 1047](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1977-10-10;1047), e' modificato nel senso che l'insegnamento di "clinica neurologica III" del 3° anno di corso muta la denominazione in quella di "clinica neurochirurgica III".  
+
+Art. 3
+------
+
+  
+Dopo l'art. 137, e con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi alla istituzione delle scuole di specializzazione in chirurgia dell'apparato digerente ed endoscopia digestiva ed in dermatologia e venereologia.  
+  
+Scuola di specializzazione in chirurgia dell'apparato digerente ed endoscopia digestiva  
+  
+Art. 138. - La scuola di specializzazione in chirurgia dell'apparato digerente ed endoscopia digestiva ha sede presso l'istituto di clinica chirurgica generale e terapia chirurgica e conferisce il diploma di specialista in chirurgia dell'apparato digerente ed endoscopia digestiva.  
 Art. 139. - La direzione della scuola e' affidata al professore di ruolo o fuori ruolo della stessa materia della specializzazione o, in carenza, al professore di ruolo o fuori ruolo di materia affine.  
-Art. 140. - Possono iscriversi alla scuola i laureati in medicina e chirurgia. E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale rilasciato dall'autorita' competente.  
-Art. 141. - La durata del corso e' di tre anni e non e' suscettibile di abbreviazione.  
-Art. 142. - Il numero massimo degli allievi e' di cinque per anno di corso e complessivamente di quindici iscritti per l'intero corso di studi.  
+Art. 140. - Possono iscriversi alla scuola di specializzazione i laureati in medicina e chirurgia. E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione dell'esercizio professionale rilasciato dalle autorita' competenti.  
+Art. 141. - La durata del corso di studi e' di cinque anni e non e' suscettibile di abbreviazione.  
+Art. 142. - Il numero massimo degli allievi e' di tre per anno di corso e complessivamente di quindici iscritti per l'intero corso di studi.  
 Art. 143. - L'ammissione al corso avviene per titoli ed esami.  
-Art. 144. - Le materie d'insegnamento sono le seguenti:  
-1) embriologia ed anatomia dentaria maxillo-facciale;  
-2) anatomia ed istopatologia odontostomatologia;  
-3) microbiologia ed igiene orale;  
-4) farmacologia odontostomatologica;  
-5) patologia odontostomatologica;  
-6) clinica odontostomatologica;  
-7) chirurgia maxillo-facciale;  
-8) anestesia e chirurgia stomatologica;  
-9) odontoiatria conservativa;  
-10) parodontologia;  
-11) clinica protesica dentaria e maxillo-facciale;  
-12) ortopedia dento-maxillo-facciale;  
-13) radiologia odontostomatologica;  
-14) odontotecnica;  
-15) odontoiatria infantile;  
-16) medicina legale odontostomatologica e delle assicurazioni;  
-esercitazioni pratiche affiancheranno gli insegnamenti.  
-La suddivisione delle materie di insegnamento nei tre anni di corso e' la seguente:  
+Art. 144. - Le materie di insegnamento sono le seguenti:  
 1° Anno:  
-embriologia ed anatomia dentaria e maxillo-facciale;  
-microbiologia ed igiene orale;  
-farmacologia;  
-patologia odontostomatologica;  
-odontotecnica;  
-anestesia e chirurgia stomatologica;  
-odontoiatria conservativa (1° anno);  
-esercitazioni pratiche.  
+1) anatomia descrittiva e topografica specialistica (1° corso);  
+2) fisiopatologia e semeiotica funzionale (1° corso);  
+3) anatomia e istologia patologica (1° corso);  
+4) patologia chirurgica (1° corso).  
 2° Anno:  
-odontoiatria conservativa (2° anno);  
-clinica protesica dentaria e maxillo-facciale (1° anno biennale);  
-parodontologia (1° anno biennale);  
-anatomia ed istopatologia odontostomatologica;  
-odontoiatria infantile;  
-radiologia odontostomatologica;  
-ortopedia dento-maxillo-facciale (1° anno biennale);  
-chirurgia maxillo-facciale (1° anno);  
-esercitazioni pratiche.  
+5) anatomia descrittiva e topografica specialistica (2° corso);  
+6) fisiopatologia e semeiotica funzionale (2° corso);  
+7) anatomia e istologia patologica (2° corso);  
+8) patologia chirurgica (2° corso);  
+9) semeiotica chirurgica (1° corso);  
+10) radiologia e medicina nucleare (1° corso);  
+11) endoscopia digestiva diagnostica e terapeutica (1° corso). 3° Anno:  
+12) patologia chirurgica (3° anno);  
+13) semeiotica chirurgica (2° corso);  
+14) radiologia e medicina nucleare (2° corso);  
+15) endoscopia digestiva diagnostica e terapeutica (2° corso);  
+16) clinica e terapia chirurgica (1° corso);  
+17) tecniche operatorie (1° corso).  
+4° Anno:  
+18) semeiotica chirurgica (3° anno);  
+19) radiologia e medicina nucleare (3° corso);  
+20) endoscopia digestiva diagnostica e terapeutica (3° corso);  
+21) clinica e terapia chirurgica (2° corso);  
+22) tecniche operatorie (2° corso);  
+23) anestesia e rianimazione;  
+24) riabilitazione in chirurgia digestiva.  
+5° Anno:  
+25) clinica chirurgica e terapia chirurgica (3° corso);  
+26) tecniche operatorie (3° corso);  
+27) chirurgia d'urgenza dell'apparato digerente;  
+28) chirurgia pediatrica dell'apparato digerente;  
+29) terapia intensiva  
+Art. 145. - La frequenza alle lezioni, alle esercitazioni pratiche, alle esperienze nei reparti, e' obbligatoria per l'ammissione agli esami; il superamento degli esami di ciascun anno e' condizione indispensabile per l'iscrizione all'anno successivo.  
+Art. 146. - Al termine del quinquennio, per ottenere il diploma, i candidati devono presentare una dissertazione scritta su un argomento di chirurgia dell'apparato digerente ed endoscopia digestiva, da discutere davanti all'apposita commissione, e devono inoltre sostenere una prova clinica.  
+  
+Scuola di specializzazione in dermatologia e venereologia  
+  
+Art. 147. - La scuola di specializzazione in dermatologia e venerologia ha sede presso l'istituto di clinica dermosifilopatica e conferisce il diploma di specialista in dermatologia e venereologia.  
+Art. 148. - La direzione della scuola e' affidata al professore di ruolo o fuori ruolo della stessa materia della specializzazione o, in carenza, al professore di ruolo o fuori ruolo di materia affine.  
+Art. 149. - Possono iscriversi alla scuola i laureati in medicina e chirurgia. E' richiesto, almeno all'inizio del corso, il diploma di abilitazione all'esercizio professionale rilasciato dall'autorita' competente.  
+Art. 150. - La durata del corso di studi e' di tre anni e non e' suscettibile di abbreviazioni.  
+Art. 151. - Il numero degli allievi e' di cinque per anno e complessivamente di quindici iscritti per l'intero corso di studi.  
+Art. 152. - L'ammissione al corso avviene per titoli ed esami.  
+Art. 153. - Le materie di insegnamento sono le seguenti:  
+1° Anno:  
+1) anatomia e istologia normale della cute:  
+2) fisiologia della cute e degli annessi;  
+3) anatomia e fisiologia dell'apparato genitale;  
+4) microbiologia e parassitologia applicata;  
+5) tecniche di laboratorio applicate alla disciplina;  
+6) semeiotica dermatologica e venereologica.  
+2° Anno:  
+1) patologia delle malattie cutanee;  
+2) patologia delle infezioni veneree;  
+3) istopatologia e citologia dermatologica e neurologica;  
+4) immunopatologia cutanea;  
+5) dermatologia allergologica e professionale;  
+6) angiologia;  
+7) sessuologia.  
 3° Anno:  
-clinica odontostomatologica;  
-chirurgia maxillo-facciale (2° anno);  
-medicina legale odontostomatologica e delle assicurazioni;  
-ortopediadento-maxillo-facciale (2° anno);  
-clinica protesica dentaria e maxillo-facciale (secondo anno);  
-paradontologia (2° anno);  
-esercitazioni pratiche.  
-Il direttore puo' stabilire, per un proficuo conseguimento dei fini della scuola, che siano tenuti corsi complementari di conferenze su materie ed argomenti che abbiano attinenza o affinita' con gli insegnamenti impartiti nella scuola.  
-Art. 145. - La frequenza alle lezioni e alle esercitazioni pratiche e' obbligatoria. Gli allievi che non conseguono le attestazioni di frequenza sul relativo libretto non possono essere ammessi a sostenere le prove di esame.  
-Art. 146. - Per le materie a corso pluriennale l'esame e' sostenuto alla fine dei corsi medesimi. L'esame di diploma consiste in una discussione sopra una tesi scritta. A coloro che hanno superato l'esame finale viene rilasciato un diploma di specialista odontostomatologia.  
+1) clinica delle malattie cutanee;  
+2) clinica delle infezioni veneree;  
+3) dermatologia pediatrica;  
+4) farmacologia e terapia;  
+5) fisioterapia dermatologica;  
+6) cosmetologia;  
+7) chirurgia plastica riparatrice;  
+8) igiene e profilassi delle malattie cutanee e veneree e relativa legislazione.  
+Art. 154. - Il corso delle lezioni deve essere impartito mediante almeno 50 lezioni annuali, comprensive delle varie materie e la frequenza giornaliera degli iscritti non deve essere inferiore alle 4 ore effettive per tutta la durata dell'anno accademico.  
+Gli specializzandi hanno percio' obblighi di frequenza alle esercitazioni di corsi e di laboratori onde seguire i corsi di lezioni e svolgere contemporaneamente esercitazione pratica nelle corsie, negli ambulatori, e nei laboratori.  
+Gli esami di profitto vengono sostenuti in due sessioni. L'esame di diploma consiste nella esposizione e discussione di un argomento della disciplina su un tema dato al candidato 24 ore prima della prova.  
+Art. 155. - Gli importi delle tasse e sopratasse per l'iscrizione alla scuola di dermatologia e venereologia sono cosi' stabiliti:  
+  
+tassa immatricolazione . . . . . . . . . . . . . . . . . . . L. 6.000 tassa annuale d'iscrizione. . . . . . . . . . . . . . . . . L. 60.000 tassa di diploma . . . . . . . . . . . . . . . . . . . . . . L. 6.000 sopratassa annuale esami di profitto . . . . . . . . . . . . L. 6.000 sopratassa di diploma. . . . . . . . . . . . . . . . . . . . L. 3.000 tassa annuale fuori corso . . . . . . . . . . . . . . . . . L. 50.000   
+I contributi clinici e di laboratorio vengono fissati dal consiglio di amministrazione dell'Universita' su proposta del consiglio di facolta', udito il direttore della scuola.  
+
+Art. 4
+------
+
+  
+All'art. 154, relativo alla scuola di specializzazione in neurologia riordinata con [decreto del Presidente della Repubblica 25 maggio 1977, n. 558](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1977-05-25;558), l'insegnamento di "neuropatologia" del 2° anno di corso muta la denominazione in quella di "neuroradiologia".  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 29 aprile 1980
+### Dato a Roma, addi' 31 ottobre 1979
 
-PERTINI SARTI
+PERTINI VALITUTTI
 
 Visto, il Guardasigilli: MORLINO
 
-Registrato alla Corte dei conti, addi' 18 settembre 1980
+Registrato alla Corte dei conti, addi' 14 febbraio 1980
 
-Registro n. 87 Istruzione, foglio n. 29
+Registro n. 10 Istruzione, foglio n. 391

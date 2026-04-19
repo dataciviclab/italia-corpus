@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 agosto 1971 n. 1141
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 marzo 1966 n. 288
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 agosto 1971 n. 1141
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 marzo 1966 n. 288
+============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Cagliari.
 --------------------------------------------------------------------
@@ -10,7 +10,7 @@ Modificazioni allo statuto dell'Universita' degli studi di Cagliari.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' degli studi di Cagliari, approvato con [regio decreto 20 aprile 1939, numero 1098](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1098) e modificato con [regio decreto 5 ottobre 1939, n. 1743](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-05;1743), e successive modificazioni;
+Veduto lo statuto dell'Universita' degli studi di Cagliari, approvato con [regio decreto 20 aprile 1939, numero 1098](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1098), e modificato con [regio decreto 5 ottobre 1939, n. 1743](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-05;1743), e successive modificazioni;
 
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
@@ -18,7 +18,7 @@ Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it
 
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
 
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
 Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
 
@@ -30,301 +30,208 @@ Decreta:
 
 Lo statuto dell'Universita' degli studi di Cagliari, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
-Gli articoli da 134 a 141 relativi alla "Scuola di specializzazione in chirurgia generale" che muta la denominazione in quella di "Scuola di specializzazione in chirurgia" sono abrogati e sostituiti dai seguenti:
+Dopo l'art. 162 sono aggiunti i seguenti nuovi articoli relativi alla istituzione della Scuola di specializzazione in Medicina interna annessa alla Facolta' di medicina e chirurgia.
 
-Scuola di specializzazione in chirurgia
+SCUOLA DI SPECIALIZZAZIONE IN MEDICINA INTERNA
 
-Art. 134. - Alla facolta' di medicina e chirurgia e' annessa una scuola di specializzazione in chirurgia, con sede presso l'istituto di clinica chirurgica e terapia chirurgica.
+Art. 163. - Alla Facolta' di medicina e chirurgia e' annessa una Scuola di specializzazione in Medicina interna con sede presso l'Istituto di clinica medica generale, il cui direttore e' anche direttore della Scuola.
 
-La scuola conferisce il diploma in specialista in chirurgia.
+Art. 164. - Alla Scuola di specializzazione vengono ammessi i laureati in Medicina e chirurgia in numero di 60 per l'intero corso.
 
-Art. 135. - La durata dei corsi e' di cinque anni.
+Potra' essere accordato l'esonero di uno o piu' anni, secondo i titoli presettati dai singoli candidati, su proposta del Consiglio della scuola approvato dalla Facolta'; in ogni caso non sara' ammessa una abbreviazione superiore ai tre anni, fermo restando l'obbligo di sostenere tutti gli esami del corso.
 
-Art. 136. - Alla scuola vengono ammessi i laureati in medicina e chirurgia; il numero complessivo fra tutti gli iscritti ai cinque anni di corso non dovra' essere superiore a venticinque.
+Art. 165. - La durata dei corsi e' di 5 anni.
 
-La selezione dei candidati aspiranti all'ammissione alla scuola avverra' sulla base dei titoli ed esami.
+Art. 166. - Gli iscritti hanno l'obbligo della frequenza ai corsi ed alle esercitazioni e non potranno essere ammessi all'anno di corso successivo se non avranno superato gli esami dell'anno cui sono iscritti.
 
-Non sono consentite iscrizioni con abbreviazioni di corso.
+L'internato si svolgera' presso l'Istituto di clinica medica generale e presso l'Istituto di patologia speciale medica dell'Universita'.
 
-Art. 137. - Gli iscritti alla scuola hanno l'obbligo di frequentare i corsi ufficiali e le esercitazioni.
+Le lezioni saranno integrate da conferenze tenute da eminenti studiosi sull'argomento che e' oggetto di studio durante l'anno.
 
-E' inoltre obbligatorio per gli iscritti ai cinque corsi, l'internato presso la clinica chirurgica. Gli allievi hanno doveri ed attribuzioni analoghi a quelli degli assistenti, cioe' permanenza costante presso la detta clinica durante le ore della sua attivita', con presenza giornaliera negli ambulatori, nei reparti di degenza e nelle sale operatorie.
+Art. 167. - Al termine del quinto anno, lo specializzando dovra' elaborare una tesi di specialita' su argomenti clinici o sperimentali di Medicina interna da discutere dinnanzi ad una Commissione giudicatrice composta a norma dell'art. 86 dello statuto dell'Universita'.
 
-La frequenza nelle sale operatorie iniziera' fin dal primo anno di corso, e dopo un periodo di tirocinio, dovra' trasformarsi in compartecipazione attiva agli interventi operatori.
-
-Dall'obbligo dell'internato saranno esentati quegli allievi che, in qualita' di assistenti e di aiuti, prestino effettivamente servizio presto reparti di chirurgia generale delle universita' e di ospedali di I e II categoria.
-
-Per i corsi che non siano della clinica chirurgica generale, possono essere stabiliti, su parere del direttore della scuola, periodi di continuativa frequenza presso i relativi reparti specialistici, qualora esistano quali reparti indipendenti.
-
-Art. 138. - Il direttore e gli insegnanti della scuola si accerteranno durante l'anno accademico dell'operosita' scolastica degli allievi, con frequenti interrogazioni e vigilando sulle esercitazioni pratiche e sui turni di servizio interno.
-
-L'allievo che non abbia ottemperato agli obblighi di frequenza non sara' ammesso a sostenere gli esami annuali.
-
-Art. 139. - Gli insegnamenti impartiti nella scuola sono i seguenti:
-
-1) Anatomia chirurgica e corso di operazioni (triennale);
-
-2) Anatomia ed istologia patologica (biennale);
-
-3) Anestesia e rianimazione (annuale);
-
-4) Chirurgia cardiovascolare (annuale);
-
-5) Chirurgia d'urgenza (annuale);
-
-6) Chirurgia ginecologica (annuale);
-
-7) Chirurgia pediatrica (annuale);
-
-8) Chirurgia riparativa e plastica (annuale);
-
-9) Chirurgia sperimentale (annuale);
-
-10) Chirurgia toracica (annuale);
-
-11) Chirurgia urologica (annuale);
-
-12) Clinica chirurgica generale (quinquennale);
-
-13) Fisiopatologia chirurgica (annuale);
-
-14) Medicina legale (annuale);
-
-15) Neurochirurgia (annuale);
-
-16) Patologia speciale chirurgica (triennale);
-
-17) Radiologia (annuale);
-
-18) Ricerche di laboratorio (annuale);
-
-19) Semeiotica chirurgica (biennale);
-
-20) Semeiotica strumentale ed endoscopica (annuale);
-
-21) Trattamento pre e post-operatorio (annuale);
-
-22) Traumatologia ed ortopedia (annuale).
-
-Art. 140. - La ripartizione degli insegnamenti nei cinque anni di corso e' la seguente:
+Art. 168. - Le materie di insegnamento sono cosi' suddivise nei 5 anni di corso:
 
 1° Anno:
 
-1) Anatomia chirurgica e corso di operazioni (triennale 1);
+Malattie dell'apparato respiratorio:
 
-2) Anestesia e rianimazione (annuale);
+a) Anatomia patologica dell'apparato respiratorio;
 
-3) Chirurgia sperimentale (annuale);
+b) Fisiologia dell'apparato respiratorio;
 
-4) Clinica chirurgica generale (quinquennale);
+c) Semeiotica fisica e strumentale dell'apparato respiratorio;
 
-5) Patologia speciale chirurgica (triennale);
+d) Patologia delle affezioni tubercolari e non tubercolari del polmone;
 
-6) Ricerche di laboratorio (annuale);
+e) Radiodiagnostica;
 
-7) Semeiotica chirurgica (biennale 1).
+f) Clinica e terapia delle malattie dell'apparato respiratorio;
+
+g) Pratica dispensariale e sanatoriale.
 
 2° Anno:
 
-1) Anatomia chirurgica e corso di operazioni (triennale 2);
+Malattie dell'apparato cardiovascolare:
 
-2) Anatomia ed istologia patologica (biennale 1);
+a) Anatomia patologica dell'apparato cardiovascolare;
 
-3) Clinica chirurgica generale (quinquennale 2);
+b) Fisiologia dell'apparato cardiovascolare;
 
-4) Fisiopatologia chirurgica (annuale);
+c) Semeiotica fisica e strumentale (elettrocardiografia) dell'apparato cardiovascolare;
 
-5) Patologia speciale chirurgica (triennale 2);
+d) Patologia dell'apparato cardiovascolare;
 
-6) Semeiotica chirurgica (biennale 2);
+e) Radiodiagnostica dell'apparato cardiovascolare;
 
-7) Trattamento pre e post-operatorio (annuale).
+f) Clinica e terapia dell'apparato cardiovascolare.
 
 3° Anno:
 
-1) Anatomia chirurgica e corso di operazioni (triennale 3);
+Malattie degli organi emopoietici e urinari:
 
-2) Anatomia ed istologia patologica (biennale 2);
+a) Anatomia patologica degli organi emopoietici e urinari;
 
-3) Clinica chirurgica generale (quinquennale 3);
+b) Fisiologia degli organi emopoietici e urinari;
 
-4) Patologia speciale chirurgica (triennale 3);
+c) Semeiotica ematologica-tecnica dell'esame funzionale del rene;
 
-5) Radiologia (annuale);
+d) Patologia degli organi emopoietici e urinari;
 
-6) Semeiotica strumentale ed endoscopica (annuale).
+e) Radiodiagnostica degli organi emopoietici e urinari;
+
+f) Clinica e terapia degli organi emopoietici e urinari.
 
 4° Anno:
 
-1) Chirurgia ginecologica (annuale);
+Malattie dell'apparato digerente e malattie infettive:
 
-2) Chirurgia pediatrica (annuale);
+a) Anatomia patologica dell'apparato digerente e delle malattie infettive;
 
-3) Chirurgia urologica (annuale);
+b) Fisiologia dell'apparato digerente e ghiandolare;
 
-4) Clinica chirurgica generale (quinquennale 4);
+c) Semeiotica, batteriologia e sierologia;
 
-5) Neurochirurgia (annuale);
+d) Radiodiagnostica;
 
-6) Traumatologia ed ortopedia (annuale).
+e) Patologia delle infezioni e malattie dell'apparato digerente;
+
+f) Clinica e terapia delle affezioni e delle malattie dell'apparato digerente.
 
 5° Anno:
 
-1) Chirurgia cardiovascolare (annuale);
+Malattie dell'apparato endocrino e delle articolazioni:
 
-2) Chirurgia d'urgenza (annuale);
+a) Anatomia patologica dell'apparato endocrino e delle articolazioni;
 
-3) Chirurgia riparativa e plastica (annuale);
+b) Fisiologia dell'apparato endocrino e delle articolazioni;
 
-4) Chirurgia toracica (annuale);
+c) Patologia dell'apparato endocrino e delle articolazioni;
 
-5) Clinica chirurgica generale (quinquennale 5);
+d) Semeiotica dell'apparato endocrino e delle articolazioni;
 
-6) Medicina legale (annuale).
+e) Radiodiagnostica dell'apparato endocrino e delle articolazioni;
 
-Art. 141. - L'ordine degli esami e' il seguente:
-
-Al termine del primo anno: anestesia e rianimazione; chirurgia sperimentale; ricerche di laboratorio.
-
-Al termine del secondo anno: fisiopatologia chirurgica; semeiotica chirurgica; trattamento pre e postoperatorio.
-
-Al termine del terzo anno: anatomia chirurgica e corso di operazioni; anatomia ed istologia patologica; patologia speciale chirurgica; radiologia; semeiotica strumentale ed endoscopica.
-
-Al termine del quarto anno: chirurgia ginecologica; chirurgia pediatrica; chirurgia urologica; neurochirurgia; traumatologia ed ortopedia.
-
-Al termine del quinto anno: chirurgia cardiovascolare; chirurgia d'urgenza; chirurgia riparativa e plastica; chirurgia toracica; clinica chirurgica generale; medicina legale.
-
-Alla fine del corso l'allievo, inoltre, dovra' sostenere un esame generale di profitto.
+f) Clinica e terapia dell'apparato endocrino e delle articolazioni.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 
-Dato a Roma, addi' 28 agosto 1971
+Dato a Roma, addi' 31 marzo 1966
 
 SARAGAT
 
-MISASI
+GUI
 
-Visto, il Guardasigilli: COLOMBO
+Visto, il Guardasigilli: REALE
 
 Registrato
 ----------
 
-alla Corte dei conti, addi' 22 dicembre 1971 Atti del Governo, registro n. 245, foglio n. 134. - VALENTINI
+alla Corte dei Conti, addi' 6 maggio 1966 Atti del Governo, registro n. 203, foglio n. 13. - VILLA
 
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA   
+ IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Cagliari, approvato con [regio decreto 20 aprile 1939, numero 1098](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1098) e modificato con [regio decreto 5 ottobre 1939, n. 1743](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-05;1743), e successive modificazioni;   
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;   
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;   
-Sentito il parere del Consiglio superiore della pubblica istruzione;   
-Sulla proposta del Ministro per la pubblica istruzione;   
+Veduto lo statuto dell'Universita' degli studi di Cagliari, approvato con [regio decreto 20 aprile 1939, numero 1098](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1098), e modificato con [regio decreto 5 ottobre 1939, n. 1743](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-05;1743), e successive modificazioni;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
+Sentito il parere del Consiglio superiore della pubblica istruzione;  
+Sulla proposta del Ministro per la pubblica istruzione;  
   
-Decreta:   
+Decreta:  
   
-Lo statuto dell'Universita' degli studi di Cagliari, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
-Gli articoli da 134 a 141 relativi alla "Scuola di specializzazione in chirurgia generale" che muta la denominazione in quella di "Scuola di specializzazione in chirurgia" sono abrogati e sostituiti dai seguenti:   
+Lo statuto dell'Universita' degli studi di Cagliari, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
   
-Scuola di specializzazione in chirurgia   
+Dopo l'art. 162 sono aggiunti i seguenti nuovi articoli relativi alla istituzione della Scuola di specializzazione in Medicina interna annessa alla Facolta' di medicina e chirurgia.  
   
-Art. 134. - Alla facolta' di medicina e chirurgia e' annessa una scuola di specializzazione in chirurgia, con sede presso l'istituto di clinica chirurgica e terapia chirurgica.   
-La scuola conferisce il diploma in specialista in chirurgia.   
-Art. 135. - La durata dei corsi e' di cinque anni.   
-Art. 136. - Alla scuola vengono ammessi i laureati in medicina e chirurgia; il numero complessivo fra tutti gli iscritti ai cinque anni di corso non dovra' essere superiore a venticinque.   
-La selezione dei candidati aspiranti all'ammissione alla scuola avverra' sulla base dei titoli ed esami.   
-Non sono consentite iscrizioni con abbreviazioni di corso.   
-Art. 137. - Gli iscritti alla scuola hanno l'obbligo di frequentare i corsi ufficiali e le esercitazioni.   
-E' inoltre obbligatorio per gli iscritti ai cinque corsi, l'internato presso la clinica chirurgica. Gli allievi hanno doveri ed attribuzioni analoghi a quelli degli assistenti, cioe' permanenza costante presso la detta clinica durante le ore della sua attivita', con presenza giornaliera negli ambulatori, nei reparti di degenza e nelle sale operatorie.   
-La frequenza nelle sale operatorie iniziera' fin dal primo anno di corso, e dopo un periodo di tirocinio, dovra' trasformarsi in compartecipazione attiva agli interventi operatori.   
-Dall'obbligo dell'internato saranno esentati quegli allievi che, in qualita' di assistenti e di aiuti, prestino effettivamente servizio presto reparti di chirurgia generale delle universita' e di ospedali di I e II categoria.   
-Per i corsi che non siano della clinica chirurgica generale, possono essere stabiliti, su parere del direttore della scuola, periodi di continuativa frequenza presso i relativi reparti specialistici, qualora esistano quali reparti indipendenti.   
-Art. 138. - Il direttore e gli insegnanti della scuola si accerteranno durante l'anno accademico dell'operosita' scolastica degli allievi, con frequenti interrogazioni e vigilando sulle esercitazioni pratiche e sui turni di servizio interno.   
-L'allievo che non abbia ottemperato agli obblighi di frequenza non sara' ammesso a sostenere gli esami annuali.   
-Art. 139. - Gli insegnamenti impartiti nella scuola sono i seguenti:   
-1) Anatomia chirurgica e corso di operazioni (triennale);   
-2) Anatomia ed istologia patologica (biennale);   
-3) Anestesia e rianimazione (annuale);   
-4) Chirurgia cardiovascolare (annuale);   
-5) Chirurgia d'urgenza (annuale);   
-6) Chirurgia ginecologica (annuale);   
-7) Chirurgia pediatrica (annuale);   
-8) Chirurgia riparativa e plastica (annuale);   
-9) Chirurgia sperimentale (annuale);   
-10) Chirurgia toracica (annuale);   
-11) Chirurgia urologica (annuale);   
-12) Clinica chirurgica generale (quinquennale);   
-13) Fisiopatologia chirurgica (annuale);   
-14) Medicina legale (annuale);   
-15) Neurochirurgia (annuale);   
-16) Patologia speciale chirurgica (triennale);   
-17) Radiologia (annuale);   
-18) Ricerche di laboratorio (annuale);   
-19) Semeiotica chirurgica (biennale);   
-20) Semeiotica strumentale ed endoscopica (annuale);   
-21) Trattamento pre e post-operatorio (annuale);   
-22) Traumatologia ed ortopedia (annuale).   
-Art. 140. - La ripartizione degli insegnamenti nei cinque anni di corso e' la seguente:   
-1° Anno:   
-1) Anatomia chirurgica e corso di operazioni (triennale 1);   
-2) Anestesia e rianimazione (annuale);   
-3) Chirurgia sperimentale (annuale);   
-4) Clinica chirurgica generale (quinquennale);   
-5) Patologia speciale chirurgica (triennale);   
-6) Ricerche di laboratorio (annuale);   
-7) Semeiotica chirurgica (biennale 1).   
-2° Anno:   
-1) Anatomia chirurgica e corso di operazioni (triennale 2);   
-2) Anatomia ed istologia patologica (biennale 1);   
-3) Clinica chirurgica generale (quinquennale 2);   
-4) Fisiopatologia chirurgica (annuale);   
-5) Patologia speciale chirurgica (triennale 2);   
-6) Semeiotica chirurgica (biennale 2);   
-7) Trattamento pre e post-operatorio (annuale).   
-3° Anno:   
-1) Anatomia chirurgica e corso di operazioni (triennale 3);   
-2) Anatomia ed istologia patologica (biennale 2);   
-3) Clinica chirurgica generale (quinquennale 3);   
-4) Patologia speciale chirurgica (triennale 3);   
-5) Radiologia (annuale);   
-6) Semeiotica strumentale ed endoscopica (annuale).   
-4° Anno:   
-1) Chirurgia ginecologica (annuale);   
-2) Chirurgia pediatrica (annuale);   
-3) Chirurgia urologica (annuale);   
-4) Clinica chirurgica generale (quinquennale 4);   
-5) Neurochirurgia (annuale);   
-6) Traumatologia ed ortopedia (annuale).   
-5° Anno:   
-1) Chirurgia cardiovascolare (annuale);   
-2) Chirurgia d'urgenza (annuale);   
-3) Chirurgia riparativa e plastica (annuale);   
-4) Chirurgia toracica (annuale);   
-5) Clinica chirurgica generale (quinquennale 5);   
-6) Medicina legale (annuale).   
-Art. 141. - L'ordine degli esami e' il seguente:   
+SCUOLA DI SPECIALIZZAZIONE IN MEDICINA INTERNA  
   
-Al termine del primo anno: anestesia e rianimazione; chirurgia sperimentale; ricerche di laboratorio.   
-Al termine del secondo anno: fisiopatologia chirurgica; semeiotica chirurgica; trattamento pre e postoperatorio.   
-Al termine del terzo anno: anatomia chirurgica e corso di operazioni; anatomia ed istologia patologica; patologia speciale chirurgica; radiologia; semeiotica strumentale ed endoscopica.   
-Al termine del quarto anno: chirurgia ginecologica; chirurgia pediatrica; chirurgia urologica; neurochirurgia; traumatologia ed ortopedia.   
-Al termine del quinto anno: chirurgia cardiovascolare; chirurgia d'urgenza; chirurgia riparativa e plastica; chirurgia toracica; clinica chirurgica generale; medicina legale.   
-Alla fine del corso l'allievo, inoltre, dovra' sostenere un esame generale di profitto.   
+Art. 163. - Alla Facolta' di medicina e chirurgia e' annessa una Scuola di specializzazione in Medicina interna con sede presso l'Istituto di clinica medica generale, il cui direttore e' anche direttore della Scuola.  
+Art. 164. - Alla Scuola di specializzazione vengono ammessi i laureati in Medicina e chirurgia in numero di 60 per l'intero corso.  
+Potra' essere accordato l'esonero di uno o piu' anni, secondo i titoli presettati dai singoli candidati, su proposta del Consiglio della scuola approvato dalla Facolta'; in ogni caso non sara' ammessa una abbreviazione superiore ai tre anni, fermo restando l'obbligo di sostenere tutti gli esami del corso.  
+Art. 165. - La durata dei corsi e' di 5 anni.  
+Art. 166. - Gli iscritti hanno l'obbligo della frequenza ai corsi ed alle esercitazioni e non potranno essere ammessi all'anno di corso successivo se non avranno superato gli esami dell'anno cui sono iscritti.  
+L'internato si svolgera' presso l'Istituto di clinica medica generale e presso l'Istituto di patologia speciale medica dell'Universita'.  
+Le lezioni saranno integrate da conferenze tenute da eminenti studiosi sull'argomento che e' oggetto di studio durante l'anno.  
+Art. 167. - Al termine del quinto anno, lo specializzando dovra' elaborare una tesi di specialita' su argomenti clinici o sperimentali di Medicina interna da discutere dinnanzi ad una Commissione giudicatrice composta a norma dell'art. 86 dello statuto dell'Universita'.  
+Art. 168. - Le materie di insegnamento sono cosi' suddivise nei 5 anni di corso:  
+1° Anno:  
+Malattie dell'apparato respiratorio:  
+a) Anatomia patologica dell'apparato respiratorio;  
+b) Fisiologia dell'apparato respiratorio;  
+c) Semeiotica fisica e strumentale dell'apparato respiratorio;  
+d) Patologia delle affezioni tubercolari e non tubercolari del polmone;  
+e) Radiodiagnostica;  
+f) Clinica e terapia delle malattie dell'apparato respiratorio;  
+g) Pratica dispensariale e sanatoriale.  
+2° Anno:  
+Malattie dell'apparato cardiovascolare:  
+a) Anatomia patologica dell'apparato cardiovascolare;  
+b) Fisiologia dell'apparato cardiovascolare;  
+c) Semeiotica fisica e strumentale (elettrocardiografia) dell'apparato cardiovascolare;  
+d) Patologia dell'apparato cardiovascolare;  
+e) Radiodiagnostica dell'apparato cardiovascolare;  
+f) Clinica e terapia dell'apparato cardiovascolare.  
+3° Anno:  
+Malattie degli organi emopoietici e urinari:  
+a) Anatomia patologica degli organi emopoietici e urinari;  
+b) Fisiologia degli organi emopoietici e urinari;  
+c) Semeiotica ematologica-tecnica dell'esame funzionale del rene;  
+d) Patologia degli organi emopoietici e urinari;  
+e) Radiodiagnostica degli organi emopoietici e urinari;  
+f) Clinica e terapia degli organi emopoietici e urinari.  
+4° Anno:  
+Malattie dell'apparato digerente e malattie infettive:  
+a) Anatomia patologica dell'apparato digerente e delle malattie infettive;  
+b) Fisiologia dell'apparato digerente e ghiandolare;  
+c) Semeiotica, batteriologia e sierologia;  
+d) Radiodiagnostica;  
+e) Patologia delle infezioni e malattie dell'apparato digerente;  
+f) Clinica e terapia delle affezioni e delle malattie dell'apparato digerente.  
+5° Anno:  
+Malattie dell'apparato endocrino e delle articolazioni:  
+a) Anatomia patologica dell'apparato endocrino e delle articolazioni;  
+b) Fisiologia dell'apparato endocrino e delle articolazioni;  
+c) Patologia dell'apparato endocrino e delle articolazioni;  
+d) Semeiotica dell'apparato endocrino e delle articolazioni;  
+e) Radiodiagnostica dell'apparato endocrino e delle articolazioni;  
+f) Clinica e terapia dell'apparato endocrino e delle articolazioni.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 28 agosto 1971
+### Dato a Roma, addi' 31 marzo 1966
 
-SARAGAT MISASI
+SARAGAT GUI
 
-Visto, il Guardasigilli: COLOMBO
+Visto, il Guardasigilli: REALE
 
-Registrato alla Corte dei conti, addi' 22 dicembre 1971
+Registrato alla Corte dei Conti, addi' 6 maggio 1966
 
-Atti del Governo, registro n. 245, foglio n. 134. - VALENTINI
+Atti del Governo, registro n. 203, foglio n. 13. - VILLA

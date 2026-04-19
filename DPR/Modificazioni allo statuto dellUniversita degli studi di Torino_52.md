@@ -1,177 +1,65 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 23 ottobre 1969 n. 1045
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1967 n. 1152
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 23 ottobre 1969 n. 1045
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1967 n. 1152
 ===============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Torino.
 ------------------------------------------------------------------
 
-IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
-
-Veduto lo statuto dell'Universita' degli studi di Torino, approvato con [regio decreto 14 ottobre 1926, numero 2284](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2284) e modificato con [regio decreto 13 ottobre 1927, n. 2788](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2788), e successive modificazioni;
-
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
-
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936 n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
-
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
-
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;
-
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
-
-Sentito il parere del Consiglio superiore della pubblica istruzione;
-
-Sulla proposta del Ministro per la pubblica istruzione;
-
-Decreta:
-
-Lo statuto dell'Universita' degli studi di Torino, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
-
-Art. 92, relativo all'elenco delle scuole di specializzazione della facolta' di medicina e chirurgia e' modificato nel senso che la scuola in "Dermosifilopatia" muta denominazione in quella di "Clinica dermosifilopatica".
-
-Gli articoli 118 e 119 relativi alla scuola di specializzazione in dermosifilopatia sono abrogati e sostituiti dai seguenti.
-
-Scuola di specializzazione in clinica dermosifilopatica
-
-Art. 118. - Gli anni di corso della scuola di specializzazione in clinica dermosifilopatica sono tre, e a tempo pieno.
-
-Il programma dei corsi verra' svolto con le seguenti materie di studio, distribuite nei tre anni di corso, secondo lo schema:
-
-1° Anno:
-
-Anatomia e istologia normale della cute;
-
-Fisiologia della cute e degli annessi cutanei;
-
-Anatomia e fisiologia dell'apparato genitale;
-
-Microbiologia e parassitologia applicate;
-
-Tecnica di laboratorio con particolare riferimento alla sierologia applicata;.
-
-Semeiotica dermatologica e venereologica.
-
-2° Anno:
-
-Patologia delle malattie cutanee;
-
-Patologia delle infezioni sessuali;
-
-Anatomia e istologia patologica della cute;
-
-Anatomia patologica delle malattie veneree e sessuali;
-
-Angiologia;
-
-Sessuologia.
-
-3° Anno:
-
-Clinica delle malattie cutanee;
-
-Clinica delle infezioni sessuali;
-
-Farmacologia e terapia medicamentosa;
-
-Fisioterapia dermatologica;
-
-Cosmetologia;
-
-Chirurgia plastica riparatrice;
-
-Igiene e profilassi delle malattie cutanee e veneree e relativa legislazione.
-
-Art. 119. - Il numero degli iscritti risulta fissato in dieci per ogni anno di corso (totale trenta iscritti).
-
-Per l'iscrizione alla scuola sara' richiesta la sola laurea in medicina e chirurgia e lo specializzando potra' conseguire l'abilitazione professionale durante il corso di specializzazione.
-
-Gli iscritti alla scuola dovranno frequentare per la durata dell'anno accademico la clinica dermosifilopatica per almeno quattro ore giornaliere seguendo le lezioni e svolgendo attivita' pratica nelle corsie, negli ambulatori, nei laboratori.
-
-Gli aspiranti alla scuola di specializzazione saranno previamente sottoposti ad un esame di ammissione e saranno valutati i titoli preferenziali in caso che i candidati siano in numero superiore al numero chiuso di dieci stabilito.
-
-Gli esami di profitto dovranno essere superati in tre gruppi comprendenti ciascuno le materie proprie di ogni singolo anno di studio e comunque in tre sessioni distinte.
-
-L'esame di diploma consistera' nell'esposizione e nella discussione di un argomento della disciplina, su un tema dato al candidato 24 ore prima della prova.
-
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
-
-Dato a Roma, addi' 23 ottobre 1969
-
-SARAGAT
-
-FERRARI AGGRADI
-
-Visto, il Guardasigilli: GAVA
-
-Registrato
-----------
-
-alla Corte dei conti, addi' 5 gennaio 1970 Atti del Governo, registro n. 231, foglio n. 8. - CARUSO
-
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA  
+ IL PRESIDENTE DELLA REPUBBLICA   
   
-Veduto lo statuto dell'Universita' degli studi di Torino, approvato con [regio decreto 14 ottobre 1926, numero 2284](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2284) e modificato con [regio decreto 13 ottobre 1927, n. 2788](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2788), e successive modificazioni;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936 n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
-Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro per la pubblica istruzione;  
+Veduto lo statuto dell'Universita' degli studi di Torino, approvato con [regio decreto 14 ottobre 1926, numero 2284](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2284), e modificato con [regio decreto 13 ottobre 1927, n. 2788](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2788) e successive modificazioni;   
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652) e successive modificazioni;   
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);   
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;   
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;   
+Sentito il parere del Consiglio superiore della pubblica istruzione;   
+Sulla proposta del Ministro per la pubblica istruzione;   
   
-Decreta:  
+Decreta:   
   
-Lo statuto dell'Universita' degli studi di Torino, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-Art. 92, relativo all'elenco delle scuole di specializzazione della facolta' di medicina e chirurgia e' modificato nel senso che la scuola in "Dermosifilopatia" muta denominazione in quella di "Clinica dermosifilopatica".  
-Gli articoli 118 e 119 relativi alla scuola di specializzazione in dermosifilopatia sono abrogati e sostituiti dai seguenti.  
-Scuola di specializzazione in clinica dermosifilopatica  
-Art. 118. - Gli anni di corso della scuola di specializzazione in clinica dermosifilopatica sono tre, e a tempo pieno.  
-Il programma dei corsi verra' svolto con le seguenti materie di studio, distribuite nei tre anni di corso, secondo lo schema:  
-1° Anno:  
-Anatomia e istologia normale della cute;  
-Fisiologia della cute e degli annessi cutanei;  
-Anatomia e fisiologia dell'apparato genitale;  
-Microbiologia e parassitologia applicate;  
-Tecnica di laboratorio con particolare riferimento alla sierologia applicata;.  
-Semeiotica dermatologica e venereologica.  
-2° Anno:  
-Patologia delle malattie cutanee;  
-Patologia delle infezioni sessuali;  
-Anatomia e istologia patologica della cute;  
-Anatomia patologica delle malattie veneree e sessuali;  
-Angiologia;  
-Sessuologia.  
-3° Anno:  
-Clinica delle malattie cutanee;  
-Clinica delle infezioni sessuali;  
-Farmacologia e terapia medicamentosa;  
-Fisioterapia dermatologica;  
-Cosmetologia;  
-Chirurgia plastica riparatrice;  
-Igiene e profilassi delle malattie cutanee e veneree e relativa legislazione.  
-Art. 119. - Il numero degli iscritti risulta fissato in dieci per ogni anno di corso (totale trenta iscritti).  
-Per l'iscrizione alla scuola sara' richiesta la sola laurea in medicina e chirurgia e lo specializzando potra' conseguire l'abilitazione professionale durante il corso di specializzazione.  
-Gli iscritti alla scuola dovranno frequentare per la durata dell'anno accademico la clinica dermosifilopatica per almeno quattro ore giornaliere seguendo le lezioni e svolgendo attivita' pratica nelle corsie, negli ambulatori, nei laboratori.  
-Gli aspiranti alla scuola di specializzazione saranno previamente sottoposti ad un esame di ammissione e saranno valutati i titoli preferenziali in caso che i candidati siano in numero superiore al numero chiuso di dieci stabilito.  
-Gli esami di profitto dovranno essere superati in tre gruppi comprendenti ciascuno le materie proprie di ogni singolo anno di studio e comunque in tre sessioni distinte.  
-L'esame di diploma consistera' nell'esposizione e nella discussione di un argomento della disciplina, su un tema dato al candidato 24 ore prima della prova.  
+Lo statuto dell'Universita' degli studi di Torino, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
+Art. 76. - All'elenco degli insegnamenti complementari del corso di laurea in farmacia sono aggiunti quelli di:   
+  
+Complementi di chimica tossicologica;   
+Chimica delle sostanze organiche naturali;   
+Microchimica;   
+Istituzioni di matematiche.   
+Nello stesso corso di laurea gli insegnamenti complementari di "chimica di guerra" e di "fisiologia vegetale" sono soppressi.   
+Art. 77. - All'elenco degli insegnamenti integrati da esercitazioni pratiche del corso di laurea in farmacia e' aggiunto quello di "chimica farmaceutica applicata".   
+Art. 78, relativo alle norme di iscrizione del predetto corso di laurea i due primi comma sotto la lettera a) e b) e' modificato nel modo seguente:   
+"Gli studenti non possono essere iscritti al corso di esercitazioni di chimica farmaceutica e tossicologica parte II (analisi qualitativa) e al corso di chimica analitica se non hanno superato gli esami di chimica generale ed inorganica e di esercitazioni di chimica farmaceutica e tossicologica parte I (tecniche di laboratorio e preparazioni chimiche);   
+Ai corsi di esercitazioni di chimica farmaceutica e tossicologica parte III (analisi quantitativa preparazioni e analisi quali-quantitativa di farmaci), di chimica bromatologica, di chimica farmaceutica applicata, di biochimica applicata, di complementi di chimica tossicologica, di chimica delle sostanze organiche naturali, chimica fisica, di microchimica se non hanno superato gli esami di chimica organica e di esercitazioni di chimica farmaceutica e tossicologica parte II (analisi qualitativa).   
+Nello stesso articolo la parte riguardante le norme di propedeuticita' e' modificato nel senso che sono abrogati gli insegnamenti di "chimica bromatologica", "biochimica applicata" e "chimica di guerra", elencati sotto la lettera c).   
+Nello stesso articolo il comma sotto la lettera d) e' abrogato e sostituito dal seguente: l'esame di chimica farmaceutica applicata e di tecnica e legislazione farmaceutica se non hanno superato almeno uno degli esami di chimica farmaceutica e tossicologica.   
+Nello stesso articolo il comma sotto la lettera e) e soppresso con il conseguente spostamento dei successivi commi.   
+Art. 79, relativo alle modalita' degli esami di laurea e' modificato nel senso che il secondo, il terzo, il quarto e il sesto comma sono abrogati e sostituiti dai seguenti:   
+  
+L'esame di laurea e' preceduto da quattro prove pratiche, da una prova scritta di cultura in chimica e un colloquio.   
+Le quattro prove pratiche consistono:   
+a) nell'analisi qualitativa di una miscela di sali da cui si originano non piu' di cinque anioni e cinque cationi (esclusi gli elementi rari). Tempo massimo otto ore senza interruzione.   
+b) in un dosamento volumetrico di una sostanza iscritta nella farmacopea ufficiale. Tempo massimo quattro ore.   
+c) nel riconoscimento e saggi di purezza di una sostanza iscritta nella farmacopea ufficiale; tempo massimo quattro ore;   
+d) nella spedizione di una ricetta con relazione scritta. Tempo massimo un'ora.   
+Le prove di cui ai punti a), b), c), d) vengono sorteggiate dai candidati. I risultati delle prove pratiche predette sono da raccogliersi in apposita relazione scritta e le prove debbono svolgersi sotto la sorveglianza di almeno due dei commissari appartenenti alla commissione di esame di laurea.   
+La commissione per il colloquio e' costituita da sette membri scelti tra i commissari per gli esami di laurea e di essa fanno parte i professori di chimica farmaceutica, farmacologia e farmacognosia, tecnica farmaceutica, botanica farmaceutica e il farmacista della commissione di laurea.   
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 23 ottobre 1969
+### Dato a Roma, addi' 31 ottobre 1967
 
-SARAGAT FERRARI AGGRADI
+SARAGAT GUI
 
-Visto, il Guardasigilli: GAVA
+Visto, il Guardasigilli: REALE
 
-Registrato alla Corte dei conti, addi' 5 gennaio 1970
+Registrato alla Corte dei conti, addi' 4 dicembre 1967
 
-Atti del Governo, registro n. 231, foglio n. 8. - CARUSO
+Atti del Governo, registro n. 216, foglio n. 28. - GRECO

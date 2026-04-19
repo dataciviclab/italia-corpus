@@ -1,225 +1,141 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 aprile 1964 n. 395
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 settembre 1980 n. 661
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 aprile 1964 n. 395
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 settembre 1980 n. 661
+================================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Roma.
 ----------------------------------------------------------------
 
+IL PRESIDENTE DELLA REPUBBLICA
+------------------------------
+
+Veduto lo statuto dell'Universita' di Roma, approvato con [regio decreto del 20 aprile 1939, n. 1350](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1350) e modificato con [regio decreto del 26 ottobre 1939, n. 1734](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-26;1734), e successive modificazioni;
+
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
+
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
+
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
+
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Roma e convalidati dal Consiglio universitario nazionale nel suo parere;
+
+Sentito il parere del Consiglio universitario nazionale;
+
+Sulla proposta del Ministro della pubblica istruzione;
+
+Decreta:
+--------
+
+Lo statuto dell'Universita' degli studi di Roma, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Roma, approvato con [regio decreto 24 aprile 1939, n. 1350](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-24;1350) e modificato con [regio decreto 26 ottobre 1939, n. 1734](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-26;1734) e successive modificazioni;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652) e successive modificazioni;  
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
-Vedute le proposte di modifiche dello statuto formulate dalle autori a' accademiche dell'Universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
-Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro per la pubblica istruzione;  
+L'art. 83, relativo alla facolta' di medicina e chirurgia, e' cosi' riformulato:  
+La facolta' di medicina e chirurgia conferisce:  
+a) la laurea in medicina e chirurgia;  
+b) la laurea in odontoiatria e protesi dentaria.  
+
+Art. 2
+------
+
   
-Decreta:  
   
-Lo statuto dell'Universita' degli studi di Roma, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+Dopo l'art. 94, con il conseguente spostamento della numerazione degli articoli successivi, vengono inseriti i seguenti nuovi articoli:   
+Art. 95. - La durata del corso degli studi per la laurea in odontoiatria e protesi dentaria e' di cinque anni suddivisi in un biennio ed un triennio.   
+Titoli di ammissione: quelli consentiti dalle vigenti disposizioni di legge.   
+Art. 96. - Il numero degli iscritti e' di cinquecentoottanta da distribuire nei cinque anni del corso di laurea.   
+L'accesso avviene secondo un ordine di graduatoria stabilito in base ad un punteggio, riportato in centesimi, cosi' ripartito:   
+70 centesimi riservati all'esito di un test a scelta multipla da espletare in un unico giorno vertente su nozioni generali relative ai seguenti argomenti: chimica, fisica, matematica, biologia generale; 30 centesimi riservati al punteggio riportato nell'esame finale per il conseguimento del diploma di scuola secondaria superiore.   
+E' prevista la pubblicizzazione dei risultati delle prove che su richiesta debbono essere forniti.   
+Sono previsti per la selezione i metodi piu' idonei e possibilmente il ricorso al calcolatore sia per la formazione delle schede dei quiz a scelta multipla sia per la successiva correzione delle schede.   
+Art. 97. - Per il trasferimento degli studenti iscritti al corso di laurea in medicina e chirurgia le abbreviazioni di corso non possono superare l'ammissione oltre il secondo anno subordinatamente al numero dei posti resisi disponibili all'inizio del secondo anno sempre che gli aspiranti abbiano superato gli esami di biologia generale applicata agli studi medici, chimica, fisica medica, istologia ed embriologia generale (compresa la citologia).   
+Per i laureati in medicina e chirurgia le abbreviazioni di corso potranno essere concesse, sempre con iscrizione al secondo anno, subordinatamente al numero di posti resisi disponibili all'inizio del secondo anno e dopo che sia trascorso un anno accademico dal conseguimento della laurea precedente.   
+I posti disponibili al secondo anno vanno assegnati a laureati in medicina per una frazione non superiore al 20% e per quella rimanente a studenti in trasferimento dal corso di laurea in medicina e chirurgia.   
+Le modalita' di accesso sono quelle riportate nell'articolo 96. Il 30% del punteggio va attribuito agli studenti come media degli esami di biologia generale, chimica, fisica medica, istologia ed embriologia generale ed ai laureati come media dei voti riportati negli esami fondamentali.   
+Art. 98. - Sono insegnamenti fondamentali:   
+Biennio:   
+1) anestesia generale e speciale odontostomatologica (semestrale);   
+\* 2) biologia generale applicata agli studi medici;   
+\* 3) chimica;   
+\*4) chimica biologica;   
+5) farmacologia (semestrale);   
+\* 6) fisica medica;   
+7) fisiologia umana e dell'apparato stomatognatico;   
+8) igiene e odontoiatria preventiva e sociale con epidemiologia (semestrale);   
+9) istituzioni di anatomia umana normale e dell'apparato stomatognatico;   
+10) istituzioni di anatomia ed istologia patologica;   
+\* 11) istologia ed embriologia generale (compresa la citologia);   
+12) materiali dentari;   
+13) microbiologia (semestrale);   
+14) odontoiatria conservatrice (triennale: 2°, 3° e 4° anno);   
+15) patologia generale.   
+Triennio:   
+16) chirurgia speciale odontostomatologica (biennale: 3° e 4° anno);   
+17) clinica odontostomatologica (biennale: 4° e 5° anno);   
+18) medicina legale e delle assicurazioni e deontologia in odontostomatologia (semestrale);   
+19) neuropatologia e psicopatologia (semestrale);   
+20) ortognatodonzia e gnatologia (funzione masticatoria) (biennale: 4° e 5° anno);   
+21) parodontologia (biennale: 4° e 5° anno);   
+22) patologia speciale chirurgica e propedeutica clinica;   
+23) patologia speciale medica e metodologia clinica (compresa la pediatria);   
+24) patologia speciale odontostomatologica;   
+25) pedodonzia (semestrale);   
+26) protesi dentaria (triennale: 3°, 4° e 5° anno);   
+27) radiologia generale e speciale odontostomatologica (semestrale).   
+Sono insegnamenti complementari:   
+\* 1) chirurgia maxillo-facciale;   
+\* 2) dermatologia e venereologia (semestrale);   
+\* 3) otorinolaringoiatria (semestrale);   
+\* 4) statistica sanitaria;   
+altri insegnamenti complementari nel piano della facolta' sempre mutuati del corso di laurea in medicina e chirurgia.   
+Gli insegnamenti segnati con asterisco sono mutuati dal corso di laurea in medicina e chirurgia.   
+Gli insegnamenti fondamentali sono teorici e pratici e la loro frequenza e' obbligatoria.   
+Gli insegnamenti specificamente odontostomatologici di ordine clinico, comportano un tirocinio pratico continuativo da espletare prima di sostenere i relativi esami.   
+Gli studenti che non conseguono le attestazioni di frequenza non possono essere ammessi a sostenere le relative prove di esame.   
+Il tirocinio pratico, relativo ad ogni insegnamento clinico, deve provvedere da parte dei componenti dell'organico, un'assistenza didattica adeguata al numero degli studenti.   
+Art. 99. - Ai fini della propedeuticita' degli esami dei diversi insegnamenti vale la seguente tabella:   
   
-Art. 27, relativo agli istituti della Facolta' di scienze politiche e' modificato nel senso che l'Istituto di diritto pubblico e di dottrina dello Stato assume la denominazione di "istituto di studi giuridici".  
-Gli articoli 91 e 92 relativi al corso di laurea in Fisica sono abrogati e sostituiti dai seguenti;  
+
+|  |  |
+| --- | --- |
+| Non si puo' essere ammessi a sostenere l'esame di: | Se non si e' superato l'esame di: |
+| Fisiologia umana e dell'apparato stomatognatico | Istituzioni di anatomia umana normale e dell'apparato stomatognatico |
+| Patologia generale | Biologia generale applicata agli studi medici |
+|  | Chimica |
+|  | Fisica medica |
+| Patologia speciale medica e metodologia clinica (compresa la pediatria) | Fisiologia umana e dell'apparato stomatognatico |
+| Patologia speciale chirurgica e propedeutica, clinica | Patologia generale |
+| Clinica odontostomatologica | Patologia speciale medica e metodologia clinica (compresa la pediatria) |
+|  | Chirurgia speciale odontostomatologica |
+|  | Istituzioni di anatomia e istologia patologica |
+|  | Patologia speciale chirurgica e propedeutica clinica |
+
   
-Art. 91. - Secondo biennio:  
   
-a) Indirizzo generale:  
-Gli insegnamenti obbligatori sono i seguenti;  
-1) Struttura della materia;  
-2) Istituzioni di Fisica teorica;  
-3) Metodi matematici della fisica;  
-4) Laboratorio di fisica I;  
-5) Corso a scelta tra i complementari contrassegnati con la lettera G;  
-6) Fisica superiore;  
-7) Fisica teorica;  
-8) Laboratorio di Fisica II;  
-9) Corso a scelta tra i complementari contrassegnati con la lettera G.  
-Uno dei corsi a scelta dovra' essere di Matematiche superiori. La Facolta' indichera' anno per anno nell'ordine degli studi i corsi di Matematiche superiori che possono essere scelti.  
   
-b) Indirizzo didattico:  
-Gli insegnamenti obbligatori sono i seguenti;  
-1) Struttura della materia;  
-2) Istituzioni di Fisica teorica;  
-3) Metodi matematici della fisica;  
-4) Complementi di fisica generale I;  
-5) Preparazione esperienze didattiche I;  
-6) Storia della fisica;  
-7) Complementi di fisica generale II;  
-8) Preparazione esperienze didattiche II;  
-9) Corso a scelta tra i complementari contrassegnati con la lettera D.  
-Qualora il corso di Storia della fisica non venisse svolto, gli studenti dovranno seguire un altro corso tra i complementari contrassegnati con la lettera D.  
   
-c) Indirizzo applicativo.  
-Gli insegnamenti obbligatori sono i seguenti:  
-1) Struttura della materia;  
-2) Istituzioni di Fisica teorica;  
-3) Metodi matematici della fisica;  
-4) Laboratorio di Fisica I;  
-5) Laboratorio di Fisica II:  
-6-7) Corsi fondamentali stabiliti dalla Facolta' nell'ordine degli studi.  
-8-9) Corsi complementari a scelta dello studente fra quelli contrassegnati nell'elenco con la lettera A.  
-L'indirizzo applicativo puo' avere orientamenti differenti determinati dalla scelta operata dalla Facolta' per i corsi 6-7).  
-I corsi di Struttura della materia, Istituzioni di fisica teorica, Metodi matematici della fisica, Fisica superiore, Fisica teorica, Complementi di fisica generale I e II possono essere accompagnati da esercitazioni che ne fanno parte integrante.  
-Sono insegnamenti complementari i seguenti:  
-G Algebra superiore;  
-G D A Analisi numerica;  
-G Analisi superiore;  
-G D A Astronomia;  
-G D A Astrofisica;  
-G A Calcolatori elettronici;  
-G A Calcolo delle probabilita';  
-G D A Chimica fisica;  
-G A Cibernetica;  
-G A Conduzione elettrica nei gas;  
-G A Elettroacustica;  
-G D A Elettronica;  
-G A Elettronica applicata;  
-G D A Elettromagnetismo;  
-G A Fisica della ionosfera;  
-G A Fisica dei solidi;  
-G D Fisica matematica G D A Fisica nucleare;  
-D A Fisica superiore;  
-G D A Fisica terrestre;  
-D A Fisica teorica;  
-G Geometria differenziale;  
-A Geomagnetismo;  
-G D A Istituzioni di fisica nucleare;  
-G A Logica matematica;  
-G D Matematiche superiori;  
-G D A Meccanica dei fluidi;  
-G D A Meccanica statistica;  
-G D Meccanica superiore;  
-G A Metereologia;  
-G A Raggi cosmici;  
-G D A Spettroscopia;  
-G A Spettroscopia e radiofrequenza (per fisici);  
-G A Sismologia;  
-G A Tecnica della programmazione;  
-G A Teoria delle funzioni;  
-G Teorie relativistiche;  
-G D Teorie quantistiche.  
-  
-Alcuni dei corsi sopra elencati possono essere semestrali, in tal caso due corsi semestrali, pur avendo esami distinti, equivalgono ad uno annuale.  
-  
-Art. 92. - Condizione di ammissione al secondo biennio, e' l'aver superato gli esami di Fisica generale I, Fisica generale II, Analisi matematica I ed Analisi matematica II.  
-Non si puo' essere ammessi a superare gli esami indicati nella prima colonna della tabella seguente se non di e' superato l'esame corrispondente nella seconda colonna:  
-Non si puo essere ammessi Se non si e superato lo  
-a sostenere l'esame di: esame di:  
-Fisica Generale II Fisica Generale I  
-Fisica Teorica Istituzioni fisica teorica Fisica superiore Struttura della materia  
-Analisi matematica II Analisi matematica I  
-Fisica nucleare Istit. di fisica nucleare Elettronica applicata Elettronica  
-Istituzioni fisica teorica Lingue  
-Struttura della materia Lingue  
-Laboratorio di Fisica I Esperimentazione fisica  
-Laboratorio Fisica II Laboratorio Fisica I  
-  
-Per essere ammesso all'esame di laurea lo studente deve aver seguito i corsi e superato gli esami obbligatori.  
-  
-L'art. 227 e' abrogato e sostituito dal seguente:  
-  
-Art. 227. - Presso la Facolta' di scienze statistiche demografiche ed attuariali sono istituite le scuole di perfezionamento e di specializzazione appresso indicate:  
-Scuola di perfezionamento in sociologia e ricerca sociale;  
-Scuola di perfezionamento in ricerca operativa;  
-Corso di specializzazione in meccanografia per diplomati e laureati in statistica.  
-  
-Dopo l'art. 238, e con il conseguente spostamento della successiva numerazione, sono inseriti i seguenti nuovi articoli, relativi alla istituzione della Scuola di perfezionamento in ricerca operativa, annessa alla Facolta' di scienze statistiche, demografiche ed attuariali.  
-  
-Scuola di perfezionamento in ricerca operativa  
-  
-Art. 239. - Alla Scuola di perfezionamento in ricerca operativa sono ammessi oltre i laureati della Facolta' di scienze statistiche, demografiche ed attuariali:  
-i laureati in Matematica, in Fisica e in Matematica e fisica, previo un colloquio su un programma che comprende i tre corsi di "Istituzioni di economia", "Istituzioni di statistica" e "Calcolo delle probabilita'";  
-i laureati in Economia e commercio, previo un colloquio su un programma che comprende i due corsi di "Analisi matematica" e "Calcolo delle probabilita'";  
-i laureati in altre Facolta', i quali pero', prima di essere ammessi a sostenere gli esami della scuola debbono, se non hanno gia' superato esami riconosciuti equivalenti dal Consiglio della Scuola, sostenere gli esami delle seguenti materie:  
-Istituzioni di analisi matematica;  
-Istituzioni di economia;  
-Istituzioni di statistica;  
-Analisi matematica;  
-Calcolo delle probabilita'.  
-Coloro che abbiano compiuto corsi di studi all'estero, purche' i titoli o diplomi siano riconosciuti validi ai soli fini dell'iscrizione al corso dalle autorita' accademiche e previa deliberazione del Consiglio della scuola sugli esami che gli aspiranti dovranno superare prima di essere ammessi a sostenere quelli della Scuola.  
-  
-Art. 240. - La Scuola ha la durata di due anni.  
-  
-Art. 241. Sono materie fondamentali di insegnamento:  
-Metodi matematici di ottimizzazione;  
-Matematica applicata all'economia;  
-Teoria dei giochi e delle decisioni;  
-Processi aleatori e teoria delle file d'attesa;  
-Applicazioni operative dell'algebra e della teoria dei grafi;  
-Applicazioni della ricerca operativa ai problemi logistici;  
-Metodi della ricerca operativa;  
-Applicazioni della ricerca operativa ai problemi della difesa  
-  
-Sono materie complementari di insegnamento:  
-Applicazioni della ricerca operativa ai problemi del traffico;  
-Applicazioni della ricerca operativa ai problemi economici;  
-Applicazioni della ricerca operativa ai problemi della direzione aziendale;  
-Cibernetica e teoria dell'informazione;  
-Logica matematica.  
-  
-Art. 242. - Per adire l'esame di diploma gli studenti dovranno aver superato gli esami relativi a tutti gli insegnamenti fondamentali e a due complementari.  
-  
-Art. 243. - L'esame di diploma consiste nella discussione di una tesi scritta accettata da uno dei docenti della Scuola il quale fungera' da relatore.  
-  
-Art. 244. - A coloro che avranno superato l'esame di diploma verra' rilasciato il diploma di specialista in Ricerca operativa.  
-Gli articoli 412 e 413 della Scuola di specializzazione in pediatria sono abrogati e sostituiti dai seguenti:  
-  
-Art. 412. - Il corso degli studi nella Scuola di specializzazione in pediatria ha la durata di tre anni.  
-Il numero di iscritti alla Scuola e' fissato in un massimo di 25 per ogni anno di corso.  
-L'iscrizione alla Scuola avviene in base ad un Concorso interno per titoli, eventualmente integrato da prova di esame.  
-Possono iscriversi direttamente al 2° anno solo gli assistenti effettivi di Clinica pediatrica o di puericultura, che abbiano gia' esercitato questo ufficio da un anno; in via eccezionale anche candidati forniti di titoli riconosciuti equipollenti, secondo il giudizio del di rettore della Scuola e subordinatamente all'approvazione del Consiglio di facolta'.  
-  
-Art. 413. - Gli insegnamenti della Scuola sono i seguenti:  
-  
-1° Anno:  
-1) Morfologia dell'eta' evolutiva;  
-2) Fisiologia e patologia dell'accrescimento;  
-3) Alimentazione e ricambio;  
-4) Igiene e profilassi generale nell'eta' infantile;  
-5) Il neonato, l'immaturo e il post-maturo;  
-6) Patologia del neonato;  
-7) Semeiotica e tecnica pediatrica (biennale).  
-  
-2° Anno:  
-1) Patologia e clinica pediatrica (biennale);  
-2) Semeiotica e tecnica pediatrica (biennale);  
-3) Anatomia patologica delle malattie del bambino;  
-4) Problemi di farmacologia nell'eta' evolutiva;  
-5) Nozioni di radiologia pediatrica;  
-6) Nozioni di chirurgia infantile;  
-7) Nozioni di otorinolaringoiatria infantile;  
-8) Nozioni di odontoiatria infantile.  
-  
-3° Anno:  
-1) Patologia e clinica pediatrica (biennale);  
-2) Malattie dismetaboliche;  
-3) Malattie infettive;  
-4) Parassitologia;  
-5) Nozioni di neuropsichiatria;  
-6) Nozioni di dermatologia;  
-7) Nozioni di oculistica;  
-8) Nozioni di medicina scolastica;  
-9) Igiene mentale dell'eta' evolutiva;  
-10) Compiti sociali della pediatria.  
+Art. 100. - Per essere ammessi a sostenere l'esame di laurea in odontoiatria e protesi dentaria lo studente deve aver seguito i corsi ed aver superato gli esami in tutti gli insegnamenti fondamentali ed almeno in due insegnamenti scelti fra i complementari ed aver, inoltre, seguito le prescritte esercitazioni cliniche, i tirocini pratici ed averne conseguito le relative attestazioni.   
+L'esame di laurea consiste nella discussione di una tesi scritta su argomenti di odontostomatologia da richiedere almeno all'inizio dell'ultimo anno di corso.   
+I laureandi debbono fini dall'inizio dell'ultimo anno di corso scegliere la cattedra presso la quale intendono svolgere la loro tesi.   
+Per esercitare la professione i laureati in odontoiatria e protesi dentaria devono superare un apposito esame di Stato.   
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 27 aprile 1964
+### Dato a Roma, addi' 5 settembre 1980
 
-SEGNI GUI
+PERTINI SARTI
 
-Visto, il Guardasigilli: REALE
+Visto, il Guardasigilli: MORLINO
 
-Registrato alla Corte dei conti, addi' 9 giugno 1964
+Registrato alla Corte dei conti, addi' 17 ottobre 1980
 
-Atti del Governo, registro n. 183, foglio n. 161. - VILLA
+Registro n. 95 Istruzione, foglio n. 100

@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 luglio 1974 n. 433
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 09 gennaio 1985 n. 29
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 luglio 1974 n. 433
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 09 gennaio 1985 n. 29
 =============================================================
 
 Autorizzazione all'Associazione nazionale famiglie caduti e mutilati dell'Aeronautica, in Roma, ad accettare un legato.
@@ -10,10 +10,18 @@ Autorizzazione all'Associazione nazionale famiglie caduti e mutilati dell'Aerona
 Art. 1
 ------
 
-N.
+n.
 
-433. Decreto del Presidente della Repubblica 10 luglio 1974, col quale, sulla proposta del Ministro per la difesa, l'Associazione nazionale famiglie caduti e mutilati dell'Aeronautica, in Roma, viene autorizzata ad accettare il legato, consistente in tre immobili siti in Bologna del periziato valore complessivo di L. 15.386.500, disposto dalla sig.na Vittoria Mattioli con testamento olografo pubblicato in data 26 maggio 1971, per atto dott. Enrico Candi, notaio in Bologna, n. 16357/10877 di repertorio.  
+29. Decreto del Presidente della Repubblica 9 gennaio 1985, col quale, sulla proposta del Ministro della difesa, l'Associazione   
+nazionale famiglie caduti e mutilati dell'Aeronautica, in Roma,   
+viene autorizzata ad accettare il legato, consistente nella somma di lire 10.000.000 con l'onere di assegnare annualmente, fino ad   
+esaurimento della predetta somma, L. 500.000 ad un orfano   
+particolarmente bisognoso e meritevole, disposto dalla sig.ra Maria   
+Colloredo con testamenti olografi 15 agosto 1980 e 25 gennaio 1982,   
+pubblicati in data 20 aprile 1983, n. 53141 di repertorio, a rogito   
+dott. Nicolo' Mareschi, notaio in S. Daniele del Friuli (Udine),   
+registrato a Udine in data 27 aprile 1983 al n. 3987.   
   
-Visto, il Guardasigilli: ZAGARI  
-Registrato alla Corte dei conti, addi' 9 settembre 1974  
-Atti di Governo, registro n. 5, foglio n. 32. - SCIARRETTA
+Visto, il Guardasigilli: MARTINAZZOLI   
+Registrato alla Corte dei conti, addi' 6 febbraio 1985   
+Registro n. 4 Difesa, foglio n. 72

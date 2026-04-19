@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 03 febbraio 1981 n. 258
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 16 ottobre 1973 n. 833
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 03 febbraio 1981 n. 258
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 16 ottobre 1973 n. 833
+==============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Messina.
 -------------------------------------------------------------------
@@ -10,75 +10,144 @@ Modificazioni allo statuto dell'Universita' degli studi di Messina.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' di Messina, approvato con [regio decreto 1 ottobre 1936, n. 1923](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1936-10-01;1923), e modificato con [regio decreto 20 aprile 1939, n. 1090](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1090), e successive modificazioni;
+Veduto lo statuto dell'Universita' degli studi di Messina, approvato con [regio decreto 20 aprile 1939, n. 1090](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1090) e modificato con [regio decreto 26 ottobre 1940, n. 1905](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;1905), e successive modificazioni;
 
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
+Veduto il [regio decreto-legge 20 giugno 1935, numero 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
 
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
 
-Veduta la [legge 22 maggio 1978, n. 217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-05-22;217);
-
 Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Messina e convalidati dal Consiglio universitario nazionale nel suo parere;
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
 
-Sentito il parere del Consiglio universitario nazionale;
+Sentito il parere del Consiglio superiore della pubblica istruzione;
 
-Sulla
------
+Sulla proposta del Ministro per la pubblica istruzione;
 
-proposta del Ministro della pubblica istruzione; Decreta:
+Decreta:
 
-Articolo unico
---------------
+Lo statuto dell'Universita' degli studi di Messina, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
+Dopo l'art. 141, e con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi alla istituzione della scuola di specializzazione in "microbiologia".
+
+Scuola di specializzazione in microbiologia
+
+Art. 142. - La scuola di specializzazione in microbiologia ha la durata di tre anni. Ad essa possono iscriversi i laureati in medicina e chirurgia, scienze biologiche, scienze naturali, farmacia e veterinaria complessivamente in numero massimo di 45 per i tre anni di corso.
+
+Art. 143. - Le materie di insegnamento sono le seguenti:
+
+1° Anno:
+
+1) Chimica microbiologica;
+
+2) Batteriologia generale e tecnica batteriologica;
+
+3) Analisi statistica del dosaggio biologico;
+
+4) Genetica dei microorganismi;
+
+5) Metodi e dosaggi microbiologici;
+
+2° Anno:
+
+1) Immunologia;
+
+2) Batteriologia speciale;
+
+3) Protozoologia;
+
+4) Virologia generale e tecnica virologica.
+
+3° Anno:
+
+1) Virologia speciale;
+
+2) Microbiologia degli alimenti;
+
+3) Microbiologia industriale;
+
+4) Micologia.
+
+Art. 144. - E' obbligatoria la frequenza in istituto, come la partecipazione alle lezioni ed alle esercitazioni.
+
+Alla fine di ogni anno gli iscritti, ottenuta la firma di frequenza dovranno sostenere un esame di profitto sulle materie svolte durante l'anno.
+
+Abbreviazioni di corso possono essere concesse a coloro che dimostrino, a giudizio della facolta' su proposta del direttore della scuola, una precedente particolare preparazione microbiologica.
+
+Per il conseguimento del diploma di specializzazione gli iscritti, dopo aver completato gli esami di tre anni, dovranno presentare e discutere una tesi scritta su di un argomento di interesse microbiologico concordato con il direttore della scuola.
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 16 ottobre 1973
+
+LEONE
+
+MALFATTI
+
+Visto, il Guardasigilli: ZAGARI
+
+Registrato
+----------
+
+alla Corte dei conti, addi' 22 dicembre 1973 Atti di Governo, registro n. 263, foglio n. 24. - CARUSO
+
+Art. 1
+------
+
+ IL PRESIDENTE DELLA REPUBBLICA  
   
+Veduto lo statuto dell'Universita' degli studi di Messina, approvato con [regio decreto 20 aprile 1939, n. 1090](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1090) e modificato con [regio decreto 26 ottobre 1940, n. 1905](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;1905), e successive modificazioni;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto il [regio decreto-legge 20 giugno 1935, numero 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
+Sentito il parere del Consiglio superiore della pubblica istruzione;  
+Sulla proposta del Ministro per la pubblica istruzione;  
   
-Lo statuto dell'Universita' di Messina, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
+Decreta:  
   
-Dopo l'art. 186, e con il conseguente spostamento della numerazione successiva, sono inseriti i seguenti nuovi articoli relativi alla istituzione della scuola di specializzazione in malattie del fegato e del ricambio.   
-Scuola di specializzazione in malattie del fegato e del ricambio   
-Art. 187. - La scuola ha la durata di tre anni ed ha sede presso l'istituto di clinica medica generale e terapia medica prima cattedra. Potranno essere iscritti alla scuola i laureati in medicina e chirurgia nel numero massimo di otto per anno, per un totale di ventiquattro specializzandi nei tre anni di corso.   
-Non sono ammesse abbreviazioni di corso per nessun motivo.   
-Art. 188. - Le materie di insegnamento sono le seguenti:   
-1° Anno:   
-1) anatomia e istologia normale del fegato e delle vie biliari;  
-2) fisiologia del fegato e delle vie biliari e del ricambio intermedio;   
-3) clinica medica generale (triennale) I;   
-4) malattie del fegato e delle vie biliari (triennale) I;   
-5) malattie del ricambio (triennale) I;   
-6) nozioni di microbiologia e parassitologia con particolare riguardo al fegato;   
-7) nozioni sull'enzimologia e sul ricambio a livello epatico. 2° Anno:   
-1) anatomia e istologia patologica del fegato e delle vie biliari;   
-2) fisiopatologia del fegato e delle vie biliari e del ricambio intermedio;   
-3) diagnostica funzionale delle malattie del fegato e del ricambio;   
-4) controllo radiologico del fegato e delle vie biliari;   
-5) clinica medica generale (triennale) II;   
-6) malattie del fegato e delle vie biliari (triennale) II;   
-7) malattie del ricambio (triennale) II.   
-3° Anno:   
-1) clinica medica generale (triennale) III;   
-2) malattie del fegato e delle vie biliari (triennale) III;   
-3) malattie del ricambio (triennale) III;   
-4) principi di terapia generale e dietetica applicata alle malattie del fegato e del ricambio;   
-5) terapia chirurgica delle malattie del fegato e delle vie biliari;   
-6) terapia idrologica delle malattie del fegato e delle vie biliari e del ricambio.   
-Art. 189. - Gli iscritti hanno l'obbligo di frequenza alle lezioni e di assistenza pratica secondo le modalita' stabilite dal direttore della scuola stessa.   
-Al termine di ciascun anno gli specializzandi che hanno ottenuto la prescritta attestazione di frequenza per iscriversi all'anno successivo devono superare un esame di profitto, comprensivo delle materie in insegnamento dell'anno stesso.   
-Alla fine del terzo anno gli specializzandi devono sostenere l'esame di diploma che consiste nella discussione di una dissertazione scritta su un tema approvato in precedenza dal direttore della scuola.   
+Lo statuto dell'Universita' degli studi di Messina, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+  
+Dopo l'art. 141, e con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi alla istituzione della scuola di specializzazione in "microbiologia".  
+  
+Scuola di specializzazione in microbiologia  
+  
+Art. 142. - La scuola di specializzazione in microbiologia ha la durata di tre anni. Ad essa possono iscriversi i laureati in medicina e chirurgia, scienze biologiche, scienze naturali, farmacia e veterinaria complessivamente in numero massimo di 45 per i tre anni di corso.  
+Art. 143. - Le materie di insegnamento sono le seguenti:  
+1° Anno:  
+1) Chimica microbiologica;  
+2) Batteriologia generale e tecnica batteriologica;  
+3) Analisi statistica del dosaggio biologico;  
+4) Genetica dei microorganismi;  
+5) Metodi e dosaggi microbiologici;  
+2° Anno:  
+1) Immunologia;  
+2) Batteriologia speciale;  
+3) Protozoologia;  
+4) Virologia generale e tecnica virologica.  
+3° Anno:  
+1) Virologia speciale;  
+2) Microbiologia degli alimenti;  
+3) Microbiologia industriale;  
+4) Micologia.  
+Art. 144. - E' obbligatoria la frequenza in istituto, come la partecipazione alle lezioni ed alle esercitazioni.  
+Alla fine di ogni anno gli iscritti, ottenuta la firma di frequenza dovranno sostenere un esame di profitto sulle materie svolte durante l'anno.  
+Abbreviazioni di corso possono essere concesse a coloro che dimostrino, a giudizio della facolta' su proposta del direttore della scuola, una precedente particolare preparazione microbiologica.  
+Per il conseguimento del diploma di specializzazione gli iscritti, dopo aver completato gli esami di tre anni, dovranno presentare e discutere una tesi scritta su di un argomento di interesse microbiologico concordato con il direttore della scuola.  
   
 
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 3 febbraio 1981
+### Dato a Roma, addi' 16 ottobre 1973
 
-PERTINI BODRATO
+LEONE MALFATTI
 
-Visto, il Guardasigilli: SARTI
+Visto, il Guardasigilli: ZAGARI
 
-Registrato alla Corte dei conti, addi' 25 maggio 1981
+Registrato alla Corte dei conti, addi' 22 dicembre 1973
 
-Registro n. 48 Istruzione, foglio n. 302
+Atti di Governo, registro n. 263, foglio n. 24. - CARUSO

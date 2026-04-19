@@ -1,159 +1,44 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 luglio 1986 n. 766
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 giugno 1951 n. 709
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 luglio 1986 n. 766
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 giugno 1951 n. 709
 =============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Modena.
 ------------------------------------------------------------------
 
-IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
+Art. 1
+------
 
-Veduto lo statuto dell'Universita' degli studi di Modena, approvato con [regio decreto 14 ottobre 1926, n. 2035](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2035), e modificato con [regio decreto 13 ottobre 1927, n. 2170](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2170), e successive modificazioni;
-
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
-
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
-
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
-
-Veduta la [legge 22 maggio 1978, n. 217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-05-22;217);
-
-Veduta la [legge 21 febbraio 1980, n. 28](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1980-02-21;28);
-
-Veduto il [decreto del Presidente della Repubblica 10 marzo 1982, n. 162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1982-03-10;162);
-
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' degli studi anzidetta;
-
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17);
-
-Sentito il parere del Consiglio universitario nazionale;
-
-Sulla proposta del Ministro della pubblica istruzione;
-
-Decreta:
---------
-
-Lo statuto dell'Universita' degli studi di Modena, approvato e modificato con i decreti sopra indicati, e' ulteriormente modificato come appresso:
-
-Articolo unico
---------------
-
+ IL PRESIDENTE DELLA REPUBBLICA  
   
+Veduto lo statuto dell'Universita' degli studi di Modena, approvato con [regio decreto 14 ottobre 1926, n. 2035](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2035), modificato con i [regi decreti 13 ottobre 1927, n. 2170](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1927-10-13;2170); [30 ottobre 1930, n. 1825](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1930-10-30;1825); [1 ottobre 1931, n. 1336](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1931-10-01;1336); [27 ottobre 1932, n. 2073](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1932-10-27;2073); [6 dicembre 1934, n. 2291](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1934-12-06;2291); [1 ottobre 1936, n. 2088](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1936-10-01;2088) e [20 aprile 1939, numero 1075, con decreti del Capo provvisorio dello Stato](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto:1939-04-20;1075) [15 ottobre 1947, n. 1874](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto:1947-10-15;1874) e [30 dicembre 1947, n. 1877, e con decreto del Presidente della Repubblica](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1947-12-30;1877) [23 settembre 1949, n. 817](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-09-23;817);  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
+Vedute le proposte di modifica allo statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
+Sentito il parere del Consiglio superiore della pubblica istruzione;  
+Sulla proposta del Ministro per la pubblica istruzione;  
   
-Dopo l'art. 106, e con lo spostamento della numerazione successiva, sono inseriti i seguenti nuovi articoli, relativi alla istituzione della seconda scuola di specializzazione in chirurgia generale, afferente alla facolta' di medicina e chirurgia:   
+Decreta:  
   
-Seconda scuola di specializzazione in chirurgia generale   
+Lo statuto dell'Universita' degli studi di Modena, approvato e modificato con i decreti sopraindicati, e' cosi' ulteriormente modificato:  
+Attuale art. 9. - Agli insegnamenti complementari del corso di laurea in giurisprudenza e' aggiunto quello di:  
+10) Diritto canonico.  
+Attuale art. 36. - Dopo il terzo comma e' aggiunto quanto appresso:  
   
-Art. 107. - E' istituita la scuola di specializzazione in chirurgia generale seconda presso l'Universita' degli studi di Modena.   
-La scuola ha lo scopo di preparare personale medico specializzato nel campo della chirurgia generale.   
-La scuola rilascia il titolo di specialista in chirurgia generale.   
-Art. 108.- La scuola ha la durata di cinque anni.   
-Ciascun anno di corso prevede ottocento ore di insegnamento e di attivita' pratiche guidate.   
-In base alle strutture ed attrezzature disponibili, la scuola e' in grado di accettare il numero massimo di iscritti determinato in cinque per ciascun anno di corso, per un totale di venticinque specializzandi.   
-Art. 109. - Per l'attuazione delle attivita' didattiche programmate dal consiglio della scuola provvede la facolta' di medicina e chirurgia, in particolare gli istituti e le cattedre di patologia chirurgica, patologia generale, centro calcolo, medicina legale, laboratorio e analisi, anatomia patologica, radiologia, gastroenterologia, anestesia e rianimazione, ortopedia, neurochirurgia, ostetricia, clinica chirurgica.   
-Art. 110.- Sono ammessi alle prove per ottenere l'iscrizione i laureati in medicina e chirurgia.   
-Per l'iscrizione alla scuola e' richiesto il possesso del diploma di abilitazione all'esercizio della professione.   
-Art. 111. - La scuola comprende sei aree di insegnamento e tirocinio professionale:   
-a) propedeutica generale;   
-b) diagnostica strumentale e di laboratorio;   
-c) tecnica operativa;   
-d) fisiopatologia speciale;   
-e) chirurgia generale;   
-f) chirurgia speciale.   
-Art. 112. - Gli insegnamenti relativi a ciascuna area didattica e formativa professionale sono i seguenti:   
-a) Propedeutica generale:   
-fisiopatologia generale;   
-informatica;   
-medicina legale;   
-chirurgia sperimentale e microchirurgia.   
-b) Diagnostica strumentale e di laboratorio:   
-patologia clinica;   
-anatomia patologica;   
-radiologia;   
-semeiotica strumentale.   
-c) Tecnica operatoria:   
-anatomia chirurgica;   
-tecniche operatorie;   
-chirurgia endoscopica.   
-d) Fisiopatologia speciale:   
-anestesia e rianimazione;   
-trattamento pre e post-operatorio;   
-fisiopatologia chirurgica.   
-e) Chirurgia generale:   
-chirurgia generale;   
-chirurgia pediatrica;   
-chirurgia d'urgenza;   
-chirurgia oncologica;   
-chirurgia geriatrica.   
-f) Chirurgia speciale:   
-ortopedia e traumatologia;   
-neurochirurgia;   
-chirurgia ginecologica;   
-chirurgia toracica;   
-chirurgia cardiovascolare;   
-endocrinochirurgia;   
-chirurgia urologica;   
-chirurgia plastica e riparativa.   
-Art. 113. - L'attivita' didattica comprende ogni anno ottocento ore di didattica formale e di tirocinio professionale guidato. Essa e' organizzata in un'attivita' didattica teorico-pratica comune per tutti gli specializzandi (quattrocento ore come di seguito ripartite) ed in una attivita' didattica elettiva, prevalentemente di carattere tecnico applicativo di ulteriori quattrocento ore, rivolta all'approfondimento del curriculum corrispondente ad uno dei settori formativo-professionali (monte ore elettivo).   
-La frequenza nelle diverse aree avviene, pertanto, come di seguito specificato:   
-  
-1° Anno:   
-Propedeutica generale (ore 100):   
-fisiopatologia generale. . . . . . . . . . . . . . . . . . . . ore 30 informatica. . . . . . . . . . . . . . . . . . . . . . . . . . ore 30 chirurgia sperimentale e microchirurgia. . . . . . . . . . . . ore 40 Diagnostica strumentale e di laboratorio (ore 50):   
-patologia clinica. . . . . . . . . . . . . . . . . . . . . . . ore 50 Tecnica operatoria (ore 100):   
-anatomia chirurgica . . . . . . . . . . . . . . . . . . . . . ore 100 Fisiopatologia speciale (ore 50):   
-anestesia e rianimazione . . . . . . . . . . . . . . . . . . . ore 50 Chirurgia generale (ore 100):   
-chirurgia generale. . . . . . . . . . . . . . . . . . . . . . ore 100 Monte ore elettivo. . . . . . . . . . . . . . . . . . . . . . ore 400   
-  
-2° Anno:   
-Diagnostica strumentale e di laboratorio (ore 100):   
-anatomia patologica. . . . . . . . . . . . . . . . . . . . . . ore 50 semeiotica strumentale . . . . . . . . . . . . . . . . . . . . ore 50 Tecnica operatoria (ore 100):   
-anatomia chirurgica . . . . . . . . . . . . . . . . . . . . . ore 100 Fisiopatologia speciale (ore 100):   
-trattamento pre e post-operatorio. . . . . . . . . . . . . . . ore 50 fisiopatologia chirurgica. . . . . . . . . . . . . . . . . . . ore 50 Chirurgia generale (ore 100):   
-chirurgia generale. . . . . . . . . . . . . . . . . . . . . . ore 100 Monte ore elettivo. . . . . . . . . . . . . . . . . . . . . . ore 400   
-  
-3° Anno.   
-Diagnostica strumentale e di laboratorio (ore 100):   
-anatomia patologica. . . . . . . . . . . . . . . . . . . . . . ore 20 radiologia . . . . . . . . . . . . . . . . . . . . . . . . . . ore 30 semeiotica strumentale . . . . . . . . . . . . . . . . . . . . ore 50 Tecnica operatoria (ore 100):   
-tecnica operatoria. . . . . . . . . . . . . . . . . . . . . . ore 100 Chirurgia generale (ore 150):   
-chirurgia generale. . . . . . . . . . . . . . . . . . . . . . ore 150 Chirurgia speciale (ore 50):   
-endocrinochirurgia . . . . . . . . . . . . . . . . . . . . . . ore 50 Monte ore elettivo. . . . . . . . . . . . . . . . . . . . . . ore 400   
-  
-4° Anno:   
-Tecnica operatoria (ore 80):   
-tecnica operatoria . . . . . . . . . . . . . . . . . . . . . . ore 80 Chirurgia generale (ore 170):   
-chirurgia generale. . . . . . . . . . . . . . . . . . . . . . ore 100 chirurgia pediatrica . . . . . . . . . . . . . . . . . . . . . ore 45 chirurgia geriatrica . . . . . . . . . . . . . . . . . . . . . ore 25 Chirurgia speciale (ore 150):   
-ortopedia e traumatologia. . . . . . . . . . . . . . . . . . . ore 30 neurochirurgia . . . . . . . . . . . . . . . . . . . . . . . . ore 20 chirurgia ginecologica . . . . . . . . . . . . . . . . . . . . ore 50 chirurgia urologica. . . . . . . . . . . . . . . . . . . . . . ore 50 Monte ore elettivo. . . . . . . . . . . . . . . . . . . . . . ore 400   
-  
-5° Anno:   
-Propedeutica generale (ore 20):   
-medicina legale. . . . . . . . . . . . . . . . . . . . . . . . ore 20 Tecnica operatoria (ore 100):   
-tecnica operatoria . . . . . . . . . . . . . . . . . . . . . . ore 80 chirurgia endoscopica. . . . . . . . . . . . . . . . . . . . . ore 20 Chirurgia generale (ore 180):   
-chirurgia generale . . . . . . . . . . . . . . . . . . . . . . ore 50 chirurgia d'urgenza. . . . . . . . . . . . . . . . . . . . . . ore 80 chirurgia oncologica . . . . . . . . . . . . . . . . . . . . . ore 50 Chirurgia speciale (ore 100):   
-chirurgia toracica . . . . . . . . . . . . . . . . . . . . . . ore 40 chirurgia cardiovascolare. . . . . . . . . . . . . . . . . . . ore 40 chirurgia plastica e riparativa. . . . . . . . . . . . . . . . ore 20 Monte ore elettivo. . . . . . . . . . . . . . . . . . . . . . ore 400   
-  
-Art. 114. - Durante i cinque anni di corso e' richiesta la frequenza nei seguenti reparti/divisioni/ambulatori laboratori:   
-istituto di patologia chirurgica;   
-cattedra di clinica chirurgica III;   
-seconda divisione di chirurgia;   
-ambulatori specialistici afferenti.   
-La frequenza nelle varie aree per complessive ottocento ore annue compreso il monte elettivo di quattrocento ore annue, avverra' secondo delibera del consiglio della scuola, tale da assicurare ad ogni specializzando un adeguato periodo di esperienza e di formazione professionale. Il consiglio della scuola ripartira' annualmente il monte ore elettivo.   
-Il consiglio della scuola predispone apposito libretto di formazione, che consenta allo specializzando ed al consiglio stesso il controllo dell'attivita' svolta e dell'acquisizione dei progressi compiuti, per sostenere gli esami annuali e finali.   
+L'insegnamento fondamentale per la laurea in farmacia di "Esercitazioni di chimica farmaceutica e tossicologica (triennale) importa rispettivamente un esame alla fine di ogni anno".  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 19 luglio 1986
+### Dato a Dogliani, addi' 19 giugno 1951
 
-COSSIGA
+EINAUDI GONELLA
 
-FALCUCCI, Ministro della pubblica istruzione
+Visto, il Guardasigilli: PICCIONI
 
-Visto, il Guardasigilli: ROGNONI
+Registrato alla Corte dei conti, addi' 24 agosto 1951
 
-Registrato alla Corte dei conti, addi' 10 novembre 1986
-
-Registro n. 83 Istruzione, foglio n. 37
+Atti del Governo, registro n. 41, foglio n. 100. --CARLOMAGNO

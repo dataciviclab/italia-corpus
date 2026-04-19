@@ -1,51 +1,152 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 agosto 1967 n. 848
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 agosto 1955 n. 897
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 agosto 1967 n. 848
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 agosto 1955 n. 897
 =============================================================
 
 Modificazioni allo statuto della Universita' degli studi di Napoli.
 -------------------------------------------------------------------
+
+IL PRESIDENTE DELLA REPUBBLICA
+------------------------------
+
+Veduto lo statuto dell'Universita' degli studi di Napoli, approvato con [regio decreto 20 aprile 1939, n. 1162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1162), e modificato con i [regi decreti 26 ottobre 1940, n. 1904](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1940-10-26;1904); [4 maggio 1942, n. 557](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1942-05-04;557); [5 settembre 1942, n. 1120; e con decreti del Presidente della Repubblica](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1942-09-05;1120) [26 febbraio 1949, n. 612](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-02-26;612); [23 settembre 1949, n. 931](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-09-23;931); 30 ottobre 199, n. 1059; 5 aprile 1950, n 284; 30 ottobre 1950, n. 1277; 31 ottobre 1950, n. 1311; 18 aprile 1951, n. 934; 30 luglio 1951, n. 1304; 27 ottobre 1951, n. 1680; 19 settembre 1952, n. 4551; 25 agosto 1953, n. 1117; 29 aprile 1954 n. 738; 30 giugno 1954 n. 753; 31 luglio 1954 n. 865; 24 agosto 1954, n. 987; 14 settembre 1954, n. 1056; 29 ottobre 1954, n. 1458; 29 ottobre 1954, n. 1465; 4 febbraio 1955, n. 71 e 16 febbraio 1955, 220;
+
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
+
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
+
+Veduta la [legge 11 aprile 1953, n 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
+
+Sentito il parere del Consiglio superiore della pubblica istruzione;
+
+Sulla proposta del Ministro per la pubblica istruzione;
+
+Decreta:
+
+Lo statuto dell'Universita' degli studi di Napoli, approvato e modificato con i decreti sopraindicati, e ulteriormente modificato come appresso;
+
+Dopo l'art. 57, sono aggiunti i seguenti nuovi articoli, relativi alla istituzione dell'Istituto di tecnica, economica aziendale, con il conseguente spostamento della numerazione degli articoli successivi.
+
+Istituto di tecnica economica aziendale
+
+Art. 58. E' istituito presso la Facolta' di economia e commercio, l'Istituto di tecnica economica aziendale, ordinato come seminario ai sensi dell'art. 23 del regolamento generale universitario, approvato con [regio decreto 6 aprile 1924, n. 647](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-04-06;647).
+
+Art. 59. - L'Istituto ha il fine di promuovere ed agevolare studi e ricerche nel campo della tecnica economica aziendale.
+
+Art. 60. - Per il raggiungimento di tali fini l'Istituto dispone di una, biblioteca specializzata, organizza discussioni, conferenze, pubblicazioni, raccolta di materiale bibliografico e statistico, organizza e sussidia viaggi e permanenze all'interno e all'estero, nonche' visite aziendali presso complessi aziendali, mercantili, industriali e bancari e istituzioni di commercio.
+
+Art. 61. - Il direttore dell'Istituto e' di diritto il titolare della cattedra di tecnica industriale e commerciale dell'Universita', ed in caso di vacanza chi lo sostituisce nell'insegnamento ufficiale della tecnica industriale e commerciale.
+
+Art. 62. - Gli studenti della Facolta' ed i laureati in economia e commercio possono partecipare a conferenze ed a discussioni scientifiche ed in generale servirsi di tutti i mezzi di studio offerti dall'Istituto.
+
+Art. 63. - L'Istituto potra' eventualmente disporre di i borse di studio che vengono conferite dal Consiglio della Facolta' di economia e commercio o da Enti pubblici o privati, in base alle modalita' che saranno stabilite dai fondatori.
+
+Art. 66 (gia' 51). - Agli insegnamenti complementari del corso di laurea in lettere sono aggiunti quelli di:
+
+27) Papirologia;
+
+28) Archeologia' cristiana;
+
+29) Etnologia;
+
+30) Storia della lingua italiana,;
+
+31) Storia delle religioni;
+
+32) Lingua e letteratura russa;
+
+33) Storia della geografia;
+
+34) Archivistica.
+
+Art. 163 (gia' 129). - Agli insegnamenti complementari del corso di laurea in scienze agrarie sono aggiunti quelli di:
+
+7) Genetica;
+
+8) Tecnica commerciale dei prodotti agricoli.
+
+Art. 174 (gia' 140). - Agli insegnamenti complementari del corso di laurea in medicina veterinaria e' aggiunto quello di "idrobiologia e pescicoltura" (semestrale).
+
+Art. 196 (gia' 168), relativo alla scuola di perfezionamento in filologia classica, e' modificato come segue:
+
+"Gli iscritti alla scuola di perfezionamento in filologia classica sono tenuti a pagare le tasse, soprattasse e contributi vari secondo quanto stabilito per gli studenti della Facolta' di lettere e filosofia. L'ammontare dei contributi di cui al precedente comma viene, prima dell'inizio dell'anno accademico, stabilito dal Consiglio di amministrazione, su proposta del Senato accademico, udite la, Facolta' e Scuola".
+
+La tassa di diploma e' fissata nella misura di L. 6000, ai sensi dell'[art. 7 della legge 18 dicembre 1951, n. 1551](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1951-12-18;1551~art7).
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 2 agosto 1955
+
+GRONCHI
+
+ROSSI
+
+Visto, il Guardasigilli: MORO
+
+Registrato
+----------
+
+alla Corte dei conti, addi' 17 ottobre 1955 Atti del Governo, registro n. 93, foglio n. 43. - CARLOMAGNO
 
 Art. 1
 ------
 
  IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Napoli, approvato con [regio decreto 20 aprile 1939, n. 1162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1162) e modificato con [regio decreto 26 ottobre 1940, n. 1904](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;1904), e successive modificazioni;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto lo statuto dell'Universita' degli studi di Napoli, approvato con [regio decreto 20 aprile 1939, n. 1162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1162), e modificato con i [regi decreti 26 ottobre 1940, n. 1904](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1940-10-26;1904); [4 maggio 1942, n. 557](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1942-05-04;557); [5 settembre 1942, n. 1120; e con decreti del Presidente della Repubblica](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1942-09-05;1120) [26 febbraio 1949, n. 612](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-02-26;612); [23 settembre 1949, n. 931](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-09-23;931); 30 ottobre 199, n. 1059; 5 aprile 1950, n 284; 30 ottobre 1950, n. 1277; 31 ottobre 1950, n. 1311; 18 aprile 1951, n. 934; 30 luglio 1951, n. 1304; 27 ottobre 1951, n. 1680; 19 settembre 1952, n. 4551; 25 agosto 1953, n. 1117; 29 aprile 1954 n. 738; 30 giugno 1954 n. 753; 31 luglio 1954 n. 865; 24 agosto 1954, n. 987; 14 settembre 1954, n. 1056; 29 ottobre 1954, n. 1458; 29 ottobre 1954, n. 1465; 4 febbraio 1955, n. 71 e 16 febbraio 1955, 220;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
+Veduta la [legge 11 aprile 1953, n 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
 Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
 Sentito il parere del Consiglio superiore della pubblica istruzione;  
 Sulla proposta del Ministro per la pubblica istruzione;  
   
 Decreta:  
   
-Lo statuto dell'Universita' degli studi di Napoli, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-Art. 66. - All'elenco degli Istituti annessi alla Facolta' di economia e commercio sono aggiunti i seguenti:  
-12) Istituto di storia economica e sociale;  
-13) Istituto di tecnica industriale e commerciale.  
-Di conseguenza gli articoli da 75 a 87, relativi alla regolamentazione degli Istituti di storia economico-sociale e di tecnica economica aziendale sono soppressi con il relativo spostamento della successiva numerazione, ad eccezione dell'art. 79 che prende il n. 72.  
-Art. 76. - Presso la Facolta' di economia e commercio la biblioteca e' eretta in Istituto.  
-La direzione e' affidata ad un professore di ruolo della Facolta' che verra' nominato, su designazione del Consiglio della stessa, con decreto rettorale, per un periodo di tre anni. Alla biblioteca puo' essere adibito apposito personale a norma di legge. Il funzionamento della biblioteca e i rapporti con gli altri Istituti sono disciplinati da un regolamento emanato dal rettore su proposta del Consiglio di facolta'.  
-Art. 90. - Il quinto comma, dopo gli insegnamenti fondamentali e complementari del corso di laurea in Lettere, e' abrogato e sostituito dal seguente:  
-"Gli insegnamenti di "Storia medioevale" e di "Storia moderna" sono tenuti alternativamente e nel manifesto degli studi e' indicato ogni anno il corso che sara' impartito".  
-Art. 91. - E' modificato nel senso che il primo comma e' abrogato e sostituito dal seguente:  
-"I laureati in Filosofia aspiranti alla laurea in Lettere sono tenuti ad un altro anno di studio con i seguenti insegnamenti ed esami:  
-Indirizzo classico: Letteratura italiana - Letteratura latina - Letteratura greca - Storia greca - Glottologia - Archeologia e storia dell'arte greca e romana Un altro insegnamento a scelta dello studente - Prova scritta di traduzione latina".  
+Lo statuto dell'Universita' degli studi di Napoli, approvato e modificato con i decreti sopraindicati, e ulteriormente modificato come appresso;  
+Dopo l'art. 57, sono aggiunti i seguenti nuovi articoli, relativi alla istituzione dell'Istituto di tecnica, economica aziendale, con il conseguente spostamento della numerazione degli articoli successivi.  
+  
+Istituto di tecnica economica aziendale  
+  
+Art. 58. E' istituito presso la Facolta' di economia e commercio, l'Istituto di tecnica economica aziendale, ordinato come seminario ai sensi dell'art. 23 del regolamento generale universitario, approvato con [regio decreto 6 aprile 1924, n. 647](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-04-06;647).  
+Art. 59. - L'Istituto ha il fine di promuovere ed agevolare studi e ricerche nel campo della tecnica economica aziendale.  
+Art. 60. - Per il raggiungimento di tali fini l'Istituto dispone di una, biblioteca specializzata, organizza discussioni, conferenze, pubblicazioni, raccolta di materiale bibliografico e statistico, organizza e sussidia viaggi e permanenze all'interno e all'estero, nonche' visite aziendali presso complessi aziendali, mercantili, industriali e bancari e istituzioni di commercio.  
+Art. 61. - Il direttore dell'Istituto e' di diritto il titolare della cattedra di tecnica industriale e commerciale dell'Universita', ed in caso di vacanza chi lo sostituisce nell'insegnamento ufficiale della tecnica industriale e commerciale.  
+Art. 62. - Gli studenti della Facolta' ed i laureati in economia e commercio possono partecipare a conferenze ed a discussioni scientifiche ed in generale servirsi di tutti i mezzi di studio offerti dall'Istituto.  
+Art. 63. - L'Istituto potra' eventualmente disporre di i borse di studio che vengono conferite dal Consiglio della Facolta' di economia e commercio o da Enti pubblici o privati, in base alle modalita' che saranno stabilite dai fondatori.  
+Art. 66 (gia' 51). - Agli insegnamenti complementari del corso di laurea in lettere sono aggiunti quelli di:  
+27) Papirologia;  
+28) Archeologia' cristiana;  
+29) Etnologia;  
+30) Storia della lingua italiana,;  
+31) Storia delle religioni;  
+32) Lingua e letteratura russa;  
+33) Storia della geografia;  
+34) Archivistica.  
+Art. 163 (gia' 129). - Agli insegnamenti complementari del corso di laurea in scienze agrarie sono aggiunti quelli di:  
+7) Genetica;  
+8) Tecnica commerciale dei prodotti agricoli.  
+Art. 174 (gia' 140). - Agli insegnamenti complementari del corso di laurea in medicina veterinaria e' aggiunto quello di "idrobiologia e pescicoltura" (semestrale).  
+Art. 196 (gia' 168), relativo alla scuola di perfezionamento in filologia classica, e' modificato come segue:  
+"Gli iscritti alla scuola di perfezionamento in filologia classica sono tenuti a pagare le tasse, soprattasse e contributi vari secondo quanto stabilito per gli studenti della Facolta' di lettere e filosofia. L'ammontare dei contributi di cui al precedente comma viene, prima dell'inizio dell'anno accademico, stabilito dal Consiglio di amministrazione, su proposta del Senato accademico, udite la, Facolta' e Scuola".  
+La tassa di diploma e' fissata nella misura di L. 6000, ai sensi dell'[art. 7 della legge 18 dicembre 1951, n. 1551](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1951-12-18;1551~art7).  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 14 agosto 1967
+### Dato a Roma, addi' 2 agosto 1955
 
-SARAGAT GUI
+GRONCHI ROSSI
 
-Visto, il Guardasigilli: REALE
+Visto, il Guardasigilli: MORO
 
-Registrato alla Corte dei conti, addi' 22 settembre 1967
+Registrato alla Corte dei conti, addi' 17 ottobre 1955
 
-Atti del Governo, registro n. 213, foglio n. 102. - GRECO
+Atti del Governo, registro n. 93, foglio n. 43. - CARLOMAGNO

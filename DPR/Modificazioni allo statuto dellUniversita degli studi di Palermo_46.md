@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 maggio 1971 n. 460
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1969 n. 988
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 maggio 1971 n. 460
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1969 n. 988
+==============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Palermo.
 -------------------------------------------------------------------
@@ -28,68 +28,80 @@ Sulla proposta del Ministro per la pubblica istruzione;
 
 Decreta:
 
-Lo statuto dell'Universita' degli studi di Palermo, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato nel senso che l'art. 155, relativo alla scuola di specializzazione in malattie dell'apparato digerente, e' abrogato e sostituito dal seguente:
+Lo statuto dell'Universita' degli studi di Palermo, approvato e modificato con i decreti sopraindicati e' ulteriormente modificato come appresso:
 
-Scuola di specializzazione in malattie dell'apparato digerente
+Art. 122, relativo all'elenco delle scuole di specializzazione della facolta' di medicina e chirurgia e' modificato nel senso che la scuola in "malattie della pelle e veneree" muta denominazione in quella di "clinica dermosifilopatica".
 
-Art. 155. - Scuola di specializzazione in malattie dell'apparato digerente.
+Art. 123, relativo alla durata delle scuole di specializzazione in medicina e chirurgia e' modificato nel senso che la scuola di specializzazione in "clinica dermosifilopatica" ha la durata di tre anni.
 
-Durata: 3 anni di corso ed 1 anno di tirocinio pratico.
+L'art. 146 relativo alla scuola di specializzazione in malattie della pelle e veneree e' abrogato e sostituito dal seguente:
 
-Numero massimo di iscritti: cinque per ogni anno di corso (totale numero quindici iscritti).
+Scuola di specializzazione in clinica dermosifilopatica
 
-Piano di studi:
+Art. 146. - Durata della scuola: tre anni.
+
+Numero massimo di iscritti: otto per ogni anno di corso (totale: ventiquattro iscritti).
+
+Insegnamenti impartiti nella scuola:
 
 1° Anno:
 
-Anatomia patologica;
+1) Anatomia e istologia normale della cute;
 
-Fisiopatologia;
+2) Fisiologia della cute e degli annessi cutanei;
 
-Chimica clinica;
+3) Anatomia e fisiologia dell'apparato genitale;
 
-Semeiotica fisica e strumentale;
+4) Microbiologia e parassitologia applicata;
 
-Clinica medica.
+5) Tecnica di laboratorio con particolare riferimento alla sierologia applicata;
+
+6) Semeiotica dermatologica e venereologica.
 
 2° Anno:
 
-Semeiotica fisica e strumentale;
+1) Patologia delle malattie cutanee;
 
-Semeiotica radiologica;
+2) Patologia delle infezioni sessuali;
 
-Malattie del tubo digerente;
+3) Anatomia e istologia patologica della cute;
 
-Clinica medica.
+4) Anatomia patologica delle malattie veneree e sessuali;
+
+5) Angiologia;
+
+6) Sessuologia.
 
 3° Anno:
 
-Malattie del fegato e del pancreas;
+1) Clinica delle malattie cutanee;
 
-Clinica medica.
+2) Clinica delle infezioni sessuali;
 
-Per le materie biennali (semeiotica) e triennali (clinica medica) sara' dato un esame alla fine del biennio o triennio.
+3) Farmacologia e terapia medicamentosa;
 
-A queste materie fondamentali obbligatorie potranno essere aggiunte materie complementari con corsi semestrali in numero non superiore a sei per totalita' del corso.
+4) Fisioterapia dermatologica;
 
-Ai tre anni di corso e' aggiunto un quarto anno di tirocinio pratico da svolgere in una clinica medica od in un reparto ospedaliero.
+5) Cosmetologia;
 
-Al termine del 4° anno si e' ammessi all'esame finale che permette di conseguire il diploma di specialista in malattie dell'apparato digerente.
+6) Chirurgia plastica riparatrice;
+
+7) Igiene e profilassi delle malattie cutanee e veneree e relativa legislazione.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 
-Dato a Roma, addi' 11 maggio 1971
+Dato a Roma, addi' 31 ottobre 1969
 
 SARAGAT
 
-MISASI
+FERRARI AGGRADI
 
-Visto, il Guardasigilli: COLOMBO
+Visto, il Guardasigilli: GAVA
 
 Registrato
 ----------
 
-alla Corte dei conti, addi' 16 luglio 1971 Atti del Governo, registro n. 243, foglio n. 19. - VALENTINI
+alla Corte dei conti, addi' 23 dicembre 1969 Atti del Governo, Registro n. 230, foglio n. 164. - CARUSO
 
 Art. 1
 ------
@@ -107,43 +119,49 @@ Sulla proposta del Ministro per la pubblica istruzione;
   
 Decreta:  
   
-Lo statuto dell'Universita' degli studi di Palermo, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato nel senso che l'art. 155, relativo alla scuola di specializzazione in malattie dell'apparato digerente, e' abrogato e sostituito dal seguente:  
+Lo statuto dell'Universita' degli studi di Palermo, approvato e modificato con i decreti sopraindicati e' ulteriormente modificato come appresso:  
+Art. 122, relativo all'elenco delle scuole di specializzazione della facolta' di medicina e chirurgia e' modificato nel senso che la scuola in "malattie della pelle e veneree" muta denominazione in quella di "clinica dermosifilopatica".  
+Art. 123, relativo alla durata delle scuole di specializzazione in medicina e chirurgia e' modificato nel senso che la scuola di specializzazione in "clinica dermosifilopatica" ha la durata di tre anni.  
+L'art. 146 relativo alla scuola di specializzazione in malattie della pelle e veneree e' abrogato e sostituito dal seguente:  
   
-Scuola di specializzazione in malattie dell'apparato digerente  
+Scuola di specializzazione in clinica dermosifilopatica  
   
-Art. 155. - Scuola di specializzazione in malattie dell'apparato digerente.  
-Durata: 3 anni di corso ed 1 anno di tirocinio pratico.  
-Numero massimo di iscritti: cinque per ogni anno di corso (totale numero quindici iscritti).  
-Piano di studi:  
+Art. 146. - Durata della scuola: tre anni.  
+Numero massimo di iscritti: otto per ogni anno di corso (totale: ventiquattro iscritti).  
+Insegnamenti impartiti nella scuola:  
 1° Anno:  
-Anatomia patologica;  
-Fisiopatologia;  
-Chimica clinica;  
-Semeiotica fisica e strumentale;  
-Clinica medica.  
+1) Anatomia e istologia normale della cute;  
+2) Fisiologia della cute e degli annessi cutanei;  
+3) Anatomia e fisiologia dell'apparato genitale;  
+4) Microbiologia e parassitologia applicata;  
+5) Tecnica di laboratorio con particolare riferimento alla sierologia applicata;  
+6) Semeiotica dermatologica e venereologica.  
 2° Anno:  
-Semeiotica fisica e strumentale;  
-Semeiotica radiologica;  
-Malattie del tubo digerente;  
-Clinica medica.  
+1) Patologia delle malattie cutanee;  
+2) Patologia delle infezioni sessuali;  
+3) Anatomia e istologia patologica della cute;  
+4) Anatomia patologica delle malattie veneree e sessuali;  
+5) Angiologia;  
+6) Sessuologia.  
 3° Anno:  
-Malattie del fegato e del pancreas;  
-Clinica medica.  
-Per le materie biennali (semeiotica) e triennali (clinica medica) sara' dato un esame alla fine del biennio o triennio.  
-A queste materie fondamentali obbligatorie potranno essere aggiunte materie complementari con corsi semestrali in numero non superiore a sei per totalita' del corso.  
-Ai tre anni di corso e' aggiunto un quarto anno di tirocinio pratico da svolgere in una clinica medica od in un reparto ospedaliero.  
-Al termine del 4° anno si e' ammessi all'esame finale che permette di conseguire il diploma di specialista in malattie dell'apparato digerente.  
+1) Clinica delle malattie cutanee;  
+2) Clinica delle infezioni sessuali;  
+3) Farmacologia e terapia medicamentosa;  
+4) Fisioterapia dermatologica;  
+5) Cosmetologia;  
+6) Chirurgia plastica riparatrice;  
+7) Igiene e profilassi delle malattie cutanee e veneree e relativa legislazione.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 11 maggio 1971
+### Dato a Roma, addi' 31 ottobre 1969
 
-SARAGAT MISASI
+SARAGAT FERRARI AGGRADI
 
-Visto, il Guardasigilli: COLOMBO
+Visto, il Guardasigilli: GAVA
 
-Registrato alla Corte dei conti, addi' 16 luglio 1971
+Registrato alla Corte dei conti, addi' 23 dicembre 1969
 
-Atti del Governo, registro n. 243, foglio n. 19. - VALENTINI
+Atti del Governo, Registro n. 230, foglio n. 164. - CARUSO

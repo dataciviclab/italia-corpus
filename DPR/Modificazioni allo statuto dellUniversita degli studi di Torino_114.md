@@ -1,194 +1,82 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 07 febbraio 1980 n. 323
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 giugno 1979 n. 977
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 07 febbraio 1980 n. 323
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 giugno 1979 n. 977
+=============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Torino.
 ------------------------------------------------------------------
 
-IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
-
-Veduto lo statuto dell'Universita' di Torino, approvato con [regio decreto 14 ottobre 1926, n. 2284](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2284), e modificato con [regio decreto 13 ottobre 1927, n. 2788](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2788), e successive modificazioni;
-
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
-
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
-
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
-
-Veduta la [legge 22 maggio 1978, n. 217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-05-22;217);
-
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
-
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Torino e convalidati dal Consiglio universitario nazionale nei suoi pareri;
-
-Sentito il parere del Consiglio universitario nazionale;
-
-Considerato che non appare opportuno, al momento, procedere ad una generale revisione delle norme statutarie di tutti gli Atenei relative alla direzione delle scuole di specializzazione e perfezionamento e degli istituti nonche' delle scuole dirette a fini speciali, attualmente affidata esclusivamente ai professori di ruolo o fuori ruolo, in attesa del provvedimento relativo allo stato giuridico del personale docente;
-
-Sulla
------
-
-proposta del Ministro della pubblica istruzione; Decreta:
-
 Art. 1
 ------
 
+ IL PRESIDENTE DELLA REPUBBLICA  
   
+Veduto lo statuto dell'Universita' di Torino, approvato con [regio decreto 14 ottobre 1926, n. 2284](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2284), e modificato con [regio decreto 13 ottobre 1927, n. 2788](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2788), e successive modificazioni;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Torino e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;  
+Sentito il parere del Consiglio superiore della pubblica istruzione;  
+Sulla proposta del Ministro della pubblica istruzione;  
   
-Lo statuto dell'Universita' di Torino, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
-Gli articoli 210 e 211, relativi alla scuola di specializzazione in urologia, sono soppressi e sostituiti dai seguenti:   
+Decreta:  
   
-Scuola di specializzazione in urologia   
+Lo statuto dell'Universita' degli studi di Torino, approvato e modificato con i decreti sopra indicati, e' ulteriormente modificato come appresso:  
   
-Art. 210. - La scuola di specializzazione in urologia ha sede presso l'istituto di urologia e conferisce il diploma di specialista in urologia.   
-La direzione della scuola e' affidata al professore di ruolo o fuori ruolo della stessa materia della specializzazione o, in carenza, al professore di ruolo o fuori ruolo di materia affine.  
-Possono iscriversi alla scuola i laureati in medicina e chirurgia. E' richiesto almeno all'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale rilasciato dall'autorita' competente.   
-La durata del corso di studi e' di cinque anni e non e' suscettibile di abbreviazioni. Il numero massimo degli allievi e' di quattro per anno di corso e complessivamente di diciotto iscritti per l'intero corso di studi. L'ammissione al corso avviene per titoli ed esami.   
-Le materie d'insegnamento e gli esami sono i seguenti:   
+Gli articoli da 378 a 385, relativi al corso di specializzazione in viticoltura ed enologia, che cambia denominazione in scuola di specializzazione in viticoltura ed enologia, sono soppressi e sostituiti dai seguenti.  
   
-
-|  |  |
-| --- | --- |
-| Insegnamenti | Esami |
-| 1° Anno: |  |
-| 1) Anatomia sistematica e topografica dell'apparato urinario e genitale maschile. | 1) Anatomia sistematica e topografica dell'apparato urinario e genitale maschile. |
-| 2) Fisiologia dell'apparato urinario e genitale maschile. | 2) Fisiologia dell'apparato urinario e genitale maschile. |
-| 3) Batteriologia in urologia. | 3) Batteriologia in urologia. |
-| 4) Semeiotica funzionale strumentale dell'apparato urogenitale I. |  |
-| 2° Anno: |  |
-| 1) Semeiotica funzionale e strumentale dell'apparato urogenitale II. | 1) Semeiotica funzionale e strumentale dell'apparato urogenitale. |
-| 2) Le nefropatie mediche. | 2) Le nefropatie mediche. |
-| 3) Anatomia chirurgica dell'apparato urinario e genitale maschile. | 3) Anatomia chirurgica dell'apparato urinario e genitale maschile. |
-| 4) Patologia dell'apparato urinario e genitale maschile I. |  |
-| 5) Radiologia dell'apparato urinario e genitale maschile I. |  |
-| 3° Anno: |  |
-| 1) Patologia dell'apparato urinario e genitale maschile II. | 1) Patologia dell'apparato urinario e genitale maschile. |
-| 2) Radiologia dell'apparato urinario e genitale maschile II. | 2) Radiologia dell'apparato urinario e genitale maschile. |
-| 3) Le affezioni cutanee veneree nei riguardi dell'urologia. | 3) Le affezioni cutanee e veneree nei riguardi dell'urologia. |
-| 4) Andrologia. | 4) Andrologia. |
-| 4° Anno: |  |
-| 1) Anatomia ed istologia patologica dell'apparato urinario e genitale maschile. | 1) Anatomia ed istologia patologica dell'apparato urinario e genitale maschile. |
-| 2) Farmacoterapia delle affezioni uro-genitali. | 2) Farmacoterapia delle affezioni uro-genitali. |
-| 3) Anestesia e trattamento pre-post operatorio del malato urologico. | 3) Anestesia e trattamento pre-post operatorio del malato urologico. |
-| 4) Nefrologia chirurgica. | 4) Nefrologia chirurgica. |
-| 5) Clinica urologica I. |  |
-| 6) Procedimenti di chirurgia endoscopica I. |  |
-| 7) Interventi e procedimenti operatori sull'apparato urinario e genitale maschile I. |  |
-| 5° Anno: |  |
-| 1) Clinica urologica II. | 1) Clinica urologica. |
-| 2) Patologia e clinica urologica infantile. | 2) Patologia e clinica urologica infantile. |
-| 3) Urologia ginecologica. | 3) Urologia ginecologica. |
-| 4) Procedimenti di chirurgia endoscopica II. | 4) Interventi e procedimenti operatori sull'apparato urinario e genitale maschile. |
-| 5) La chirurgia dell'intestino. |  |
-| 6) La chirurgia vascolare. |  |
-| 7) Interventi e procedimenti operatori sull'apparato urinario e genitale maschile II. |  |
-
+Scuola di specializzazione in viticoltura ed enologia  
   
-  
-  
-  
-La frequenza alle lezioni ed alle esercitazioni pratiche e' obbligatoria. Gli allievi che non conseguono le attestazioni di frequenza sul relativo libretto non possono essere ammessi a sostenere le prove di esame. Alla fine di ogni corso gli iscritti per essere ammessi agli anni di corso successivi, devono superare le prove di esame sulle materie impartite durante l'anno ad eccezione delle discipline svolte in corsi pluriennali il cui esame e' sostenuto alla fine dei corsi medesimi.   
-Al termine del corso di studi per il conseguimento del diploma di specialista in urologia gli interessati devono superare l'esame di diploma consistente nella dissertazione scritta di un argomento attinente alla specializzazione.   
-
-Art. 2
-------
-
-  
-Gli articoli 294, 295, 296, 297, 298 e 299, relativi alla scuola di specializzazione in chirurgia d'urgenza e pronto soccorso, sono soppressi e sostituiti dai seguenti:  
-  
-Scuola di specializzazione di chirurgia d'urgenza e pronto soccorso   
-Art. 294. - La scuola di specializzazione in chirurgia d'urgenza e pronto soccorso ha sede in Torino.  
-Art. 295. - Il corso di studi per il conseguimento del diploma di specialista in chirurgia d'urgenza e di pronto soccorso ha la durata di cinque anni accademici.  
-Art. 296. - Alla scuola possono iscriversi i laureati in medicina e chirurgia. E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale rilasciato dall'autorita' competente. Il numero massimo complessivo degli allievi e' di dodici per il primo anno, di nove per il secondo, terzo, quarto e quinto anno di corso e complessivamente di quarantotto iscritti per l'intero corso di studi. Non sono ammesse abbreviazioni di corso.  
-L'ammissione al corso avviene per titoli ed esami.  
-Art. 297. - La frequenza alle lezioni, esercitazioni e seminari e' obbligatoria per tutti gli iscritti. La frequenza ai fini di apprendimento e' obbligatoria per tutti i cinque anni di corso sotto forma di permanenza costante in istituto durante le ore della sua attivita'.  
-Art. 298. - Le materie d'insegnamento sono le seguenti:  
-clinica chirurgica generale d'urgenza e di pronto soccorso;  
-patologia chirurgica;  
-anatomia chirurgica;  
-semeiotica;  
-anestesiologia;  
-ricerche di laboratorio;  
-anatomia patologica;  
-endoscopia;  
-fisiopatologia chirurgica;  
-chirurgia sperimentale;  
-trattamento pre e post operatorio in chirurgia d'urgenza;  
-rianimazione;  
-chirurgia vascolare d'urgenza;  
-traumatologia dell'apparato locomotore;  
-neurotraumatologia;  
-terapia intensiva;  
-radiologia;  
-chirurgia ginecologica d'urgenza;  
-chirurgia pediatrica d'urgenza;  
-chirurgia plastica riparatrice;  
-chirurgia toracica d'urgenza;  
-cardiochirurgia d'urgenza;  
-angioradiologia;  
-chirurgia urologica d'urgenza;  
-traumatologia maxillo-facciale;  
-trattamento dei politraumatizzati;  
-medicina legale.  
-Le materie d'insegnamento sono cosi' distribuite:  
+Art. 378. - Alla facolta' di agraria dell'Universita' di Torino e' annessa una scuola di specializzazione in viticoltura ed enologia, avente lo scopo di dare ai laureati, mediante corsi teorici ed applicati, una specifica preparazione nella suddetta specialita', conferendo un diploma di specialista in viticoltura ed enologia.  
+Art. 379. - La durata della scuola e' biennale.  
+Art. 380. - Gli insegnamenti impartiti nella scuola sono i seguenti:  
 1° Anno:  
-clinica chirurgica generale d'urgenza e di pronto soccorso I;  
-patologia chirurgica I;  
-anatomia chirurgica I;  
-semeiotica I;  
-anestesiologia;  
-ricerche di laboratorio;  
-chirurgia sperimentale.  
+1) viticoltura generale;  
+2) esercitazioni di viticoltura generale;  
+3) chimica enologica;  
+4) esercitazioni di chimica enologica;  
+5) microbiologia enologica;  
+6) esercitazioni di microbiologia enologica;  
+7) costruzioni enologiche;  
+8) meccanica delle macchine enologiche;  
+9) legislazione viticolo-enologica;  
+10) economia del mercato viti-vinicolo.  
 2° Anno:  
-clinica chirurgica generale d'urgenza e di pronto soccorso II; patologia chirurgica II;  
-anatomia patologica II;  
-endoscopia;  
-fisiopatologia chirurgica I;  
-semeiotica II;  
-trattamento pre e post operatorio in chirurgia di urgenza;  
-rianimazione.  
-3° Anno:  
-clinica chirurgica generale d'urgenza e di pronto soccorso III; patologia chirurgica III;  
-chirurgia vascolare d'urgenza;  
-traumatologia dell'apparato locomotore I;  
-neurotraumatologia I;  
-fisiopatologia chirurgica II;  
-terapia intensiva I;  
-radiologia.  
-4° Anno:  
-clinica chirurgica generale d'urgenza e di pronto soccorso IV; chirurgia ginecologica d'urgenza;  
-chirurgia pediatrica d'urgenza;  
-chirurgia plastica e riparatrice I;  
-traumatologia dell'apparato locomotore II;  
-neurotraumatologia II;  
-chirurgia toracica d'urgenza;  
-terapia intensiva II.  
-5° Anno:  
-clinica chirurgica generale d'urgenza e di pronto soccorso V;  
-chirurgia plastica riparatrice II;  
-chirurgia toracica d'urgenza;  
-cardiochirurgia d'urgenza;  
-chirurgia urologica d'urgenza;  
-angioradiologia;  
-traumatologia maxillo-facciale;  
-trattamento del politraumatizzato;  
-medicina legale.  
-Art. 299. - Alla fine di ogni anno gli specializzandi per poter ottenere l'ammissione all'anno successivo devono superare un esame di profitto comprensivo degli insegnamenti previsti per l'anno di corso; per le materie a corso pluriennale l'esame e sostenuto alla fine dei corsi medesimi.  
-L'esame di diploma consiste nella discussione di una tesi su un tema preventivamente approvato dal direttore della scuola. Il direttore della scuola e' il professore di ruolo o fuori ruolo della stessa materia della specializzazione o, in carenza, il professore di ruolo o fuori ruolo di materia affine. Le norme per l'iscrizione agli esami, le tasse, ecc., sono quelle generali per le scuole di specializzazione dell'Universita' di Torino.  
+1) tecnica vinicola;  
+2) esercitazioni di tecnica vinicola;  
+3) tecnologia enologica;  
+4) esercitazioni di tecnologia enologica;  
+5) meccanizzazione della viticoltura;  
+6) patologia viticola;  
+7) zoologia viticola;  
+8) organizzazione aziendale.  
+Potranno inoltre essere tenuti brevi cicli di lezioni e conferenze su particolari argomenti interessanti le varie discipline della scuola.  
+Art. 381. - Sono ammessi alla scuola di specializzazione i laureati in scienze agrarie, in chimica, in chimica industriale, in ingegneria chimica e in scienza delle preparazioni alimentari. Il consiglio della scuola potra' stabilire, di volta in volta, di accettare l'iscrizione di candidati dotati di altra laurea, che dimostrino una particolare competenza e preparazione nel settore vitivinicolo.  
+Il numero degli allievi ammessi annualmente alla scuola e', al massimo, di dieci.  
+Qualora il numero delle domande sia superiore, e l'attrezzatura didattica ne consenta in via eccezionale l'ammissione, sara' data preferenza agli aspiranti che abbiano particolari titoli nei riguardi delle finalita' della scuola. Per l'ammissione di laureati stranieri il consiglio della scuola decidera' caso per caso la validita' dei titoli presentati.  
+Il consiglio di facolta' si riserva di sospendere corsi della scuola, qualora ne ravveda l'opportunita'.  
+Art. 382. - Al termine dei corsi sara' rilasciato agli iscritti un diploma di specialista in viticoltura ed enologia in base:  
+a) alla regolare frequenza dei corsi del biennio;  
+b) all'esito degli esami sostenuti alla fine dei corsi;  
+c) al giudizio emesso dai direttori degli istituti enti o aziende eventualmente frequentate;  
+d) all'esito dell'esame finale, che consiste nella presentazione di una dissertazione scritta di carattere sperimentale, da sostenersi davanti ad apposita commissione di docenti della scuola.  
+Art. 383. - I docenti saranno nominati dal consiglio della facolta' di agraria dell'Universita' di Torino, sulla base dei titoli presentati dagli aspiranti.  
+Il consiglio di facolta' provvedera' inoltre a nominare il direttore della scuola fra i professori di ruolo o fuori ruolo della stessa facolta' o fra i docenti della scuola  
+Art. 384. - Il consiglio direttivo della scuola si compone di tutti i docenti degli insegnamenti (esercitazioni comprese) della scuola stessa. Esso avanza le proposte relative all'ordinamento degli studi e all'insegnamento e da' pareri su tutti i provvedimenti riguardanti la scuola medesima.  
+Art. 385. - Gli iscritti alla scuola saranno tenuti a pagare la tassa d'iscrizione, le tasse e soprattasse d'esame, compresi i contributi integrativi, secondo quanto e' stabilito per gli studenti della facolta' di agraria.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 7 febbraio 1980
+### Dato a Roma, addi' 4 giugno 1979
 
-PERTINI VALITUTTI
+PERTINI SPADOLINI
 
 Visto, il Guardasigilli: MORLINO
 
-Registrato alla Corte dei conti, addi' 26 giugno 1980
+Registrato alla Corte dei conti, addi' 18 settembre 1980
 
-Registro n. 61 Istruzione, foglio n. 298
+Registro n. 87 Istruzione, foglio n. 27

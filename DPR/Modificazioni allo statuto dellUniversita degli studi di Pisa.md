@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 luglio 1984 n. 820
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 ottobre 1949 n. 1169
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 luglio 1984 n. 820
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 ottobre 1949 n. 1169
+===============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Pisa.
 ----------------------------------------------------------------
@@ -10,99 +10,471 @@ Modificazioni allo statuto dell'Universita' degli studi di Pisa.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' degli studi di Pisa, approvato con [regio decreto 14 ottobre 1926, n. 2278](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2278), e modificato con [regio decreto 13 ottobre 1927, n. 2225](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2225), e successive modificazioni;
+Visto lo statuto dell'Universita' degli studi di Pisa, approvato con il [regio decreto 14 ottobre 1926, n. 2278](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2278) e modificato con i [regi decreti 13 ottobre 1927, n. 2225](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2225), [20 settembre 1928, n. 2251](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1928-09-20;2251), [31 ottobre 1929, n. 2473](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1929-10-31;2473), [30 ottobre 1930, n. 1916](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-30;1916), [22 ottobre 1931, n. 1339](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-10-22;1339), [27 ottobre 1932, n. 2098](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1932-10-27;2098), [13 dicembre 1934, n. 2408](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-12-13;2408), [1 ottobre 1936, n. 2462](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1936-10-01;2462), [27 ottobre 1937, n. 2170](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1937-10-27;2170), [9 maggio 1939, n. 1314](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-05-09;1314), [5 ottobre 1939, n. 1744](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-05;1744), [26 ottobre 1940, n. 2071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;2071), [27 aprile 1942, n. 469](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-04-27;469), [24 ottobre 1942, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-10-24;1652) e con i [decreti del Capo provvisorio dello Stato 30 dicembre 1947, n. 1689](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto:1947-12-30;1689) e [17 febbraio 1949, n. 97](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto:1949-02-17;97);
 
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
-
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
 
-Veduta la [legge 22 maggio 1978, n. 217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-05-22;217);
+Veduto il [regio decreto 24 ottobre 1941, n. 1375](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-10-24;1375);
 
-Veduta la [legge 21 febbraio 1980 n. 28](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1980-02-21;28);
+Vedute le proposte di modifica allo statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
-Veduto il [decreto del Presidente della Repubblica 10 marzo 1982, n. 162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1982-03-10;162);
+Riconosciuto la particolare necessita' di approvare le nuove modifiche proposte;
 
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' degli studi anzidetta;
+Sentito il parere del Consiglio superiore della pubblica istruzione;
 
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17);
-
-Sentito il parere del Consiglio universitario nazionale;
-
-Sulla proposta del Ministro della pubblica istruzione;
+Sulla proposta del Ministro per la pubblica istruzione;
 
 Decreta:
---------
 
 Lo statuto dell'Universita' degli studi di Pisa, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
-Articolo unico
---------------
+Art. 56. - Dopo la laurea in chimica aggiungere:
 
+"Laurea in chimica industriale".
+
+Dopo l'art. 63 aggiungere il seguente nuovo articolo relativo alla istituzione del corso di laurea in "chimica industriale", col conseguente spostamento della numerazione degli articoli successivi.
+
+Art. 64. - La durata del corso degli studi per la laurea in chimica industriale e' di cinque anni, divisi in un biennio di studi propedeutici comune con la laurea in chimica, e in un triennio di studi di applicazione.
+
+E' titolo di ammissione il diploma di maturita' classica o di maturita' scientifica.
+
+Sono insegnamenti fondamentali del biennio di studi propedeutici quelli indicati all'art. 61 per il biennio di studi propedeutici alla laurea in chimica.
+
+Sono insegnamenti fondamentali del triennio di applicazione:
+
+1) chimica fisica (biennale);
+
+2) fisica tecnica;
+
+3) chimica industriale (biennale);
+
+4) esercitazioni di analisi chimica quantitativa;
+
+5) esercitazioni di chimica, fisica (biennale);
+
+6) esercitazioni di chimica industriale (biennale);
+
+7) impianti industriali chimici con elementi di disegno (biennale);
+
+8) elementi di diritto, di economia e di legislazione sociale.
+
+Sono insegnamenti complementari:
+
+1) analisi matematica (algebrica, ed infinitesimale) (biennale);
+
+2) geometria analitica con elementi di proiettiva;
+
+3) meccanica razionale con elementi di statica grafica;
+
+4) fisica superiore;
+
+5) elettrotecnica,;
+
+6) misure elettriche (corso speciale per chimici e chimici industriali);
+
+7) chimica, agraria;
+
+8) chimica delle fermentazioni e batteriologia industriale;
+
+9) chimica organica industriale;
+
+10) elettrochimica;
+
+11) chimica applicata;
+
+12) siderurgia e metallurgia;
+
+13) scienza dei metalli;
+
+14) fisiologia ed igiene del lavoro industriale.
+
+I tre insegnamenti complementari di "analisi matematica", di "geometria, analitica con elementi di proiettiva" e di "meccanica razionale con elementi di statica grafica" possono sostituire l'unico insegnamento fondamentale di "istituzioni di matematiche" (biennale).
+
+L'insegnamento di "analisi matematica" sara' impartito da due professori ciascuno dei quali insegnera' alternativamente "analisi algebrica" per il primo anno ed "analisi infinitesimale" per il secondo anno; lo studente dovra' sostenere due esami distinti.
+
+Per ottenere l'iscrizione al triennio di applicazione lo studente deve aver seguito i corsi e superato gli esami in tutti gli insegnamenti fissati per il biennio di studi propedeutici.
+
+Per essere ammesso all'esame di laurea lo studente deve aver seguito i corsi e superato gli esami in tutti gli insegnamenti fondamentali del triennio di applicazione e almeno in quattro di quelli da lui scelti tra i complementari.
+
+All'atto dell'iscrizione al primo anno del triennio di applicazione lo studente deve sottoporre all'approvazione della Facolta' l'elenco degli insegnamenti complementari prescelti. La scelta fatta in tal modo e' impegnativa e non puo' comunque subire variazioni durante il corso degli studi.
+
+I laureati in chimica potranno essere ammessi al quarto anno di corso della laurea in chimica industriale e dovranno seguire i corsi e sostenere gli esami delle seguenti materie fondamentali:
+
+1) chimica industriale (biennale);
+
+2) impianti industriali chimici con elementi di disegno (biennale);
+
+3) elementi di diritto e di legislazione sociale;
+
+4) fisica tecnica;
+
+5) esercitazioni di chimica industriale (biennale).
+
+L'esame di "fisica tecnica" eventualmente gia' sostenuto per la laurea in chimica, potra' essere convalidato agli effetti della iscrizione al quarto anno di corso per la laurea in "chimica industriale".
+
+Art. 97. - Vengono soppressi gli insegnamenti complementari di cui ai numeri 27, 28, 29 e 30 ed aggiunti i seguenti:
+
+"27) chimica analitica;
+
+28) chimica fisica;
+
+29) chimica organica;
+
+30) elettrochimica;
+
+31) impianti industriali chimici;
+
+32) metallurgia e metallografia;
+
+33) tecnologie speciali;
+
+34) complementi di matematica".
+
+Art. 102. - All'insegnamento "costruzioni stradali e ferroviarie" dopo le parole "topografia con elementi di geodesia" aggiungere: "scienza delle costruzioni".
+
+Al secondo comma dopo "tecnologie generali" (chimica applicata) aggiungere: "tecnica ed economia dei trasporti (meccanica applicata, macchine), chimica fisica (chimica applicata), impianti industriali chimici (chimica, industriale), elettrochimica (elettrotecnica), metallurgia e metallografia (chimica applicata e tecnologie generali)".
+
+Dopo l'art. 143 aggiungere i seguenti nuovi articoli relativi all'istituzione di un "corso di perfezionamento in matematica e fisica per l'insegnamento nelle scuole medie", col conseguente spostamento della numerazione degli articoli successivi.
+
+Facolta' di scienze matematiche, fisiche e naturali.
+
+Art. 144. - E' istituito presso la Facolta' di scienze matematiche, fisiche e naturali un "Corso di perfezionamento in matematica e fisica per l'insegnamento nelle scuole medie".
+
+Art. 145. - Sono ammessi a frequentare il corso i laureati in matematica, in matematica e fisica, in fisica e in ingegneria.
+
+Art. 146. - Il corso ha la durata di un anno e gli insegnamenti sono i seguenti:
+
+1) complementi ed esercitazioni di matematica elementare;
+
+2) complementi ed esercitazioni di analisi matematica;
+
+3) complementi ed esercitazioni di geometria;
+
+4) complementi ed esercitazioni di fisica generale;
+
+5) preparazione delle esperienze dimostrative di fisica elementare;
+
+6) critica dei principi e critica dei libri di testo.
+
+Gli iscritti che avranno frequentato il corso conseguiranno un certificato di studi, dopo aver superato una prova scritta di matematica e una di fisica, nonche' una prova di capacita' didattica ed un colloquio sugli argomenti svolti nel corso.
+
+Per le Commissioni esaminatrici valgono le norme stabilite per le Commissioni degli esami di profitto.
+
+Le tasse e sopratasse da pagarsi dagli iscritti saranno stabilite di anno in anno dal Consiglio di amministrazione su proposta della Facolta'.
+
+Nell'attuale art. 144 il testo dell'ultimo periodo va cosi' modificato:
+
+"Le tasse e sopratasse da pagarsi dagli iscritti saranno stabilite di anno in anno dal Consiglio di amministrazione su proposta della Facolta'".
+
+Dopo l'attuale art. 144 aggiungere i seguenti nuovi articoli relativi all'istituzione di un corso di perfezionamento in "trasporti ferroviari", col conseguente spostamento della numerazione degli articoli successivi:
+
+Art. 145. - E' annesso alla Facolta' d'ingegneria un corso di perfezionamento in trasporti ferroviari.
+
+Art. 146. - Il corso ha la durata di un anno. Gli insegnamenti sono i seguenti:
+
+1) complementi di meccanica applicata alle macchine;
+
+2) complementi di elettrotecnica e di macchine elettriche;
+
+3) trazione elettrica;
+
+4) studio e progetto della locomotiva;
+
+5) studio e progetto dei veicoli;
+
+6) esperimenti sul materiale rotabile e condotta dei mezzi di trazione;
+
+7) esercizio del materiale rotabile;
+
+8) circolazione e segnalamento;
+
+9) tecnologie speciali.
+
+Detti insegnamenti saranno integrati da esercitazioni pratiche ed, eventualmente, da conferenze.
+
+Al termine del corso la Facolta' rilascia un certificato di studi per il conseguimento del quale e' necessario aver superato gli esami delle singole materie.
+
+Per le Commissioni esaminatrici valgono le norme stabilite per le Commissioni degli esami di profitto.
+
+Al corso di perfezionamento sono ammessi i laureati in ingegneria.
+
+Coloro che non avessero frequentato e superato l'esame di tecnica ed economia dei trasporti sono tenuti a frequentare tale insegnamento, ed a superare il relativo esame.
+
+Le tasse e sopratasse da pagarsi dagli iscritti sono stabilite di anno in anno dal Consiglio di amministrazione, su proposta della Facolta'.
+
+Nell'attuale art. 155 aggiungere dopo la parola "urologia" "in igiene e in clinica dermosifilopatica".
+
+Nell'attuale art. 157 aggiungere al primo periodo le parole "ed eventualmente di altre Facolta'".
+
+Dopo l'attuale art. 204 aggiungere i seguenti nuovi articoli relativi all'istituzione della "Scuola di perfezionamento in igiene", e della "Scuola di specializzazione in clinica dermosifilopatica".
+
+Scuola di perfezionamento in igiene.
+
+Art. 205. - Il corso della Scuola ha la durata di due anni. Il direttore dell'Istituto d'igiene e' direttore della Scuola.
+
+Art. 206. - Le materie d'insegnamento sono le seguenti:
+
+1) igiene generale: aria, suolo, acqua, abitazioni, alimentazione;
+
+2) igiene speciale: infantile, della persona, scolastica, urbana, rurale, dei trasporti, ospitaliera, del lavoro;
+
+3) epidemiologia generale e speciale e profilassi;
+
+4) microscopia, e micrografia applicata all'igiene;
+
+5) microbiologia, parassitologia, virus, immunologia;
+
+6) chimica e fisica applicata all'igiene;
+
+7) patologia e clinica delle malattie infettive;
+
+8) malattie professionali e del lavoro;
+
+9) demografia e statistica sanitaria, legislazione sanitaria;
+
+10) ingegneria sanitaria;
+
+11) macelli ed ispezioni delle carni;
+
+12) tecnica batteriologica e sierologica applicata alla diagnostica delle malattie da infezione;
+
+13) esercitazioni di laboratorio nel campo della fisica e della chimica applicata all'igiene;
+
+14) tirocinio pratico per la direzione di un ufficio sanitario provinciale e comunale, per la direzione di un ospedale e di un laboratorio provinciale di igiene e profilassi;
+
+15) esame d'impianti e progetti d'impianti a carattere igienico-sanitario.
+
+Art. 207. - L'insegnamento teorico e pratico e' impartito dal direttore dell'Istituto coadiuvato, volta per volta, da altri professori, liberi docenti della disciplina, assistenti dell'Istituto e dirigenti di servizi sanitari che egli stesso indichera'.
+
+Art. 208. - E' obbligatoria la frequenza ai singoli corsi nonche' alle esercitazioni pratiche. Gli iscritti devono presenziare anche le lezioni d'igiene impartite agli studenti di medicina e chirurgia e a quelli d'ingegneria.
+
+Gli allievi sono tenuti ad osservare scrupolosamente l'orario delle lezioni e delle esercitazioni ed a compiere turni d'internato stabiliti dal direttore della Scuola.
+
+Il servizio d'internato comporta, l'adempimento di tutte le funzioni di assistente.
+
+Art. 209. - Per conseguire il certificato annuale di profitto gli iscritti devono sottoporsi ad una prova consistente nello svolgimento di un tema scritto, di un esame orale e di prove di laboratorio relative al programma svolto durante l'anno in corso.
+
+Art. 210. - Per ottenere il diploma, gli iscritti, superato l'esame teorico-pratico alla fine del secondo anno di corso, dovranno sostenere la discussione di una dissertazione scritta su un argomento di indole sperimentale e compilativa.
+
+Scuola di specializzazione in clinica dermosifilopatica.
+
+Art. 211. - La Scuola di specializzazione in clinica dermosifilopatica ha la durata di due anni (I e II corso, annuali), ed ha sede nella clinica dermatologica dell'Universita'. Il direttore della clinica e' direttore della Scuola.
+
+Possono iscriversi alla Scuola i laureati in medicina e chirurgia.
+
+Art. 212. - Le materie d'insegnamento sono le seguenti:
+
+a) anatomia e fisiologia della cute e degli organi sessuali;
+
+b) patologia generale della cute degli organi sessuali;
+
+c) patologia, semiotica e clinica dermatologica;
+
+d) venerologia clinica (sifilide e altre malattie veneree);
+
+e) terapia medica dermatologica, ed eudermia chirurgica;
+
+f) radiologia e terapia fisica dermatologica;
+
+g) terapia venereologica;
+
+h) igiene della cute, profilassi dermatologica (dermatosi professionali, ecc.);
+
+i) profilassi anti-venerea.
+
+Art. 213. - I corsi sono tenuti da professori di ruolo delle relative materie col concorso degli assistenti dei singoli istituti.
+
+Art. 214. - Gli iscritti alla Scuola hanno l'obbligo della frequenza ai corsi ed alle relative esercitazioni frequentando abitualmente la clinica dermatologica quali medici interni.
+
+Art. 215. - Gli esami di profitto sono dati per gruppi alla fine di ciascuno dei due anni di corso. Alla fine del secondo anno segue l'esame di diploma. Questo consiste nella discussione di una dissertazione scritta su argomento di pertinenza delle discipline dermatologiche e venereologiche.
+
+Art. 216. - Superati gli esami di profitto e l'esame di diploma il candidato consegue il diploma e il titolo di specialista in clinica dermosifilopatica.
+
+Art. 217. - Su proposta del direttore della Scuola, la Facolta' medica puo' esonerare da un anno di corso i laureati forniti di documenti e titoli di studio atti a comprovare una sufficiente preparazione nel campo della specialita'.
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 30 ottobre 1949
+
+EINAUDI
+
+GONELLA
+
+Visto, il Guardasigilli: PICCIONI
+
+Registrato
+----------
+
+alla Corte dei conti, addi' 5 aprile 1950 Atti del Governo, registro n. 32, foglio n. 63. - CARLOMAGNO
+
+Art. 1
+------
+
+ IL PRESIDENTE DELLA REPUBBLICA  
   
+Visto lo statuto dell'Universita' degli studi di Pisa, approvato con il [regio decreto 14 ottobre 1926, n. 2278](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2278) e modificato con i [regi decreti 13 ottobre 1927, n. 2225](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2225), [20 settembre 1928, n. 2251](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1928-09-20;2251), [31 ottobre 1929, n. 2473](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1929-10-31;2473), [30 ottobre 1930, n. 1916](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-30;1916), [22 ottobre 1931, n. 1339](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-10-22;1339), [27 ottobre 1932, n. 2098](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1932-10-27;2098), [13 dicembre 1934, n. 2408](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-12-13;2408), [1 ottobre 1936, n. 2462](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1936-10-01;2462), [27 ottobre 1937, n. 2170](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1937-10-27;2170), [9 maggio 1939, n. 1314](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-05-09;1314), [5 ottobre 1939, n. 1744](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-05;1744), [26 ottobre 1940, n. 2071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;2071), [27 aprile 1942, n. 469](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-04-27;469), [24 ottobre 1942, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-10-24;1652) e con i [decreti del Capo provvisorio dello Stato 30 dicembre 1947, n. 1689](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto:1947-12-30;1689) e [17 febbraio 1949, n. 97](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto:1949-02-17;97);  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
+Veduto il [regio decreto 24 ottobre 1941, n. 1375](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-10-24;1375);  
+Vedute le proposte di modifica allo statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
+Riconosciuto la particolare necessita' di approvare le nuove modifiche proposte;  
+Sentito il parere del Consiglio superiore della pubblica istruzione;  
+Sulla proposta del Ministro per la pubblica istruzione;  
   
-Dopo l'art. 266, e con lo spostamento della numerazione successiva, sono inseriti i seguenti nuovi articoli, relativi alla istituzione della scuola di specializzazione in "biochimica analitica", afferente alla facolta' di farmacia.   
+Decreta:  
   
-Scuola di specializzazione in biochimica analitica   
+Lo statuto dell'Universita' degli studi di Pisa, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+Art. 56. - Dopo la laurea in chimica aggiungere:  
+"Laurea in chimica industriale".  
+Dopo l'art. 63 aggiungere il seguente nuovo articolo relativo alla istituzione del corso di laurea in "chimica industriale", col conseguente spostamento della numerazione degli articoli successivi.  
+Art. 64. - La durata del corso degli studi per la laurea in chimica industriale e' di cinque anni, divisi in un biennio di studi propedeutici comune con la laurea in chimica, e in un triennio di studi di applicazione.  
+E' titolo di ammissione il diploma di maturita' classica o di maturita' scientifica.  
+Sono insegnamenti fondamentali del biennio di studi propedeutici quelli indicati all'art. 61 per il biennio di studi propedeutici alla laurea in chimica.  
+Sono insegnamenti fondamentali del triennio di applicazione:  
+1) chimica fisica (biennale);  
+2) fisica tecnica;  
+3) chimica industriale (biennale);  
+4) esercitazioni di analisi chimica quantitativa;  
+5) esercitazioni di chimica, fisica (biennale);  
+6) esercitazioni di chimica industriale (biennale);  
+7) impianti industriali chimici con elementi di disegno (biennale);  
+8) elementi di diritto, di economia e di legislazione sociale.  
+Sono insegnamenti complementari:  
+1) analisi matematica (algebrica, ed infinitesimale) (biennale);  
+2) geometria analitica con elementi di proiettiva;  
+3) meccanica razionale con elementi di statica grafica;  
+4) fisica superiore;  
+5) elettrotecnica,;  
+6) misure elettriche (corso speciale per chimici e chimici industriali);  
+7) chimica, agraria;  
+8) chimica delle fermentazioni e batteriologia industriale;  
+9) chimica organica industriale;  
+10) elettrochimica;  
+11) chimica applicata;  
+12) siderurgia e metallurgia;  
+13) scienza dei metalli;  
+14) fisiologia ed igiene del lavoro industriale.  
+I tre insegnamenti complementari di "analisi matematica", di "geometria, analitica con elementi di proiettiva" e di "meccanica razionale con elementi di statica grafica" possono sostituire l'unico insegnamento fondamentale di "istituzioni di matematiche" (biennale).  
+L'insegnamento di "analisi matematica" sara' impartito da due professori ciascuno dei quali insegnera' alternativamente "analisi algebrica" per il primo anno ed "analisi infinitesimale" per il secondo anno; lo studente dovra' sostenere due esami distinti.  
+Per ottenere l'iscrizione al triennio di applicazione lo studente deve aver seguito i corsi e superato gli esami in tutti gli insegnamenti fissati per il biennio di studi propedeutici.  
+Per essere ammesso all'esame di laurea lo studente deve aver seguito i corsi e superato gli esami in tutti gli insegnamenti fondamentali del triennio di applicazione e almeno in quattro di quelli da lui scelti tra i complementari.  
+All'atto dell'iscrizione al primo anno del triennio di applicazione lo studente deve sottoporre all'approvazione della Facolta' l'elenco degli insegnamenti complementari prescelti. La scelta fatta in tal modo e' impegnativa e non puo' comunque subire variazioni durante il corso degli studi.  
+I laureati in chimica potranno essere ammessi al quarto anno di corso della laurea in chimica industriale e dovranno seguire i corsi e sostenere gli esami delle seguenti materie fondamentali:  
+1) chimica industriale (biennale);  
+2) impianti industriali chimici con elementi di disegno (biennale);  
+3) elementi di diritto e di legislazione sociale;  
+4) fisica tecnica;  
+5) esercitazioni di chimica industriale (biennale).  
+L'esame di "fisica tecnica" eventualmente gia' sostenuto per la laurea in chimica, potra' essere convalidato agli effetti della iscrizione al quarto anno di corso per la laurea in "chimica industriale".  
+Art. 97. - Vengono soppressi gli insegnamenti complementari di cui ai numeri 27, 28, 29 e 30 ed aggiunti i seguenti:  
+"27) chimica analitica;  
+28) chimica fisica;  
+29) chimica organica;  
+30) elettrochimica;  
+31) impianti industriali chimici;  
+32) metallurgia e metallografia;  
+33) tecnologie speciali;  
+34) complementi di matematica".  
+Art. 102. - All'insegnamento "costruzioni stradali e ferroviarie" dopo le parole "topografia con elementi di geodesia" aggiungere: "scienza delle costruzioni".  
+Al secondo comma dopo "tecnologie generali" (chimica applicata) aggiungere: "tecnica ed economia dei trasporti (meccanica applicata, macchine), chimica fisica (chimica applicata), impianti industriali chimici (chimica, industriale), elettrochimica (elettrotecnica), metallurgia e metallografia (chimica applicata e tecnologie generali)".  
+Dopo l'art. 143 aggiungere i seguenti nuovi articoli relativi all'istituzione di un "corso di perfezionamento in matematica e fisica per l'insegnamento nelle scuole medie", col conseguente spostamento della numerazione degli articoli successivi.  
   
-Art. 267. - E' istituita presso l'Universita' di Pisa la scuola di specializzazione in biochimica analitica, che conferisce il diploma di specialista in biochimica analitica.   
-Art. 268. - La direzione della scuola ha sede presso la facolta' di farmacia dell'Universita' di Pisa.   
-Art. 269. - La scuola ha lo scopo di offrire una migliore qualificazione scientifica e professionale a coloro che intendono dedicarsi alle discipline biochimiche con indirizzo analitico.   
-Art. 270. - La durata del corso e' di tre anni e non e' suscettibile di abbreviazioni.   
-Art. 271. - Il numero degli iscritti e' di venti per ogni anno e complessivamente di sessanta per l'intero corso di studi.   
-Art. 272. - Alla scuola sono ammessi i laureati in farmacia, chimica e tecnologia farmaceutiche, chimica, scienze biologiche, scienze naturali, medicina e chirurgia. La predetta ammissione e' subordinata anche al possesso del diploma di abilitazione professionale, qualora prescritto.   
-Art. 273. - Per l'ammissione alla scuola e' richiesto il superamento di un esame consistente in una prova scritta, da svolgersi mediante domande a risposte multiple, integrata da un colloquio e da una valutazione, in misura non superiore al 30% del punteggio complessivo a disposizione della commissione, dei seguenti titoli:   
-a) la tesi nella disciplina attinente alla specializzazione;   
-b) il voto di laurea;   
-c) il voto riportato negli esami di profitto del corso di laurea, nelle materie concernenti la specializzazione;   
-d) le pubblicazioni nelle predette materie.   
-Il punteggio dei predetti titoli e' quello stabilito dal decreto 16 settembre 1982 del Ministero della pubblica istruzione. Sono ammessi alla scuola di specializzazione coloro che, in relazione al numero dei posti disponibili, si siano collocati in posizione utile nelle graduatorie compilate sulla base del punteggio complessivo riportato.   
-Art. 274. - Le materie di insegnamento sono le seguenti:   
+Facolta' di scienze matematiche, fisiche e naturali.  
   
-1° Anno:   
-biochimica generale;   
-chimica analitica:   
-biochimica applicata con esercitazioni;   
-biochimica clinica;   
-chimica bioorganica.   
+Art. 144. - E' istituito presso la Facolta' di scienze matematiche, fisiche e naturali un "Corso di perfezionamento in matematica e fisica per l'insegnamento nelle scuole medie".  
+Art. 145. - Sono ammessi a frequentare il corso i laureati in matematica, in matematica e fisica, in fisica e in ingegneria.  
+Art. 146. - Il corso ha la durata di un anno e gli insegnamenti sono i seguenti:  
+1) complementi ed esercitazioni di matematica elementare;  
+2) complementi ed esercitazioni di analisi matematica;  
+3) complementi ed esercitazioni di geometria;  
+4) complementi ed esercitazioni di fisica generale;  
+5) preparazione delle esperienze dimostrative di fisica elementare;  
+6) critica dei principi e critica dei libri di testo.  
+Gli iscritti che avranno frequentato il corso conseguiranno un certificato di studi, dopo aver superato una prova scritta di matematica e una di fisica, nonche' una prova di capacita' didattica ed un colloquio sugli argomenti svolti nel corso.  
+Per le Commissioni esaminatrici valgono le norme stabilite per le Commissioni degli esami di profitto.  
+Le tasse e sopratasse da pagarsi dagli iscritti saranno stabilite di anno in anno dal Consiglio di amministrazione su proposta della Facolta'.  
+Nell'attuale art. 144 il testo dell'ultimo periodo va cosi' modificato:  
+"Le tasse e sopratasse da pagarsi dagli iscritti saranno stabilite di anno in anno dal Consiglio di amministrazione su proposta della Facolta'".  
+Dopo l'attuale art. 144 aggiungere i seguenti nuovi articoli relativi all'istituzione di un corso di perfezionamento in "trasporti ferroviari", col conseguente spostamento della numerazione degli articoli successivi:  
+Art. 145. - E' annesso alla Facolta' d'ingegneria un corso di perfezionamento in trasporti ferroviari.  
+Art. 146. - Il corso ha la durata di un anno. Gli insegnamenti sono i seguenti:  
+1) complementi di meccanica applicata alle macchine;  
+2) complementi di elettrotecnica e di macchine elettriche;  
+3) trazione elettrica;  
+4) studio e progetto della locomotiva;  
+5) studio e progetto dei veicoli;  
+6) esperimenti sul materiale rotabile e condotta dei mezzi di trazione;  
+7) esercizio del materiale rotabile;  
+8) circolazione e segnalamento;  
+9) tecnologie speciali.  
+Detti insegnamenti saranno integrati da esercitazioni pratiche ed, eventualmente, da conferenze.  
+Al termine del corso la Facolta' rilascia un certificato di studi per il conseguimento del quale e' necessario aver superato gli esami delle singole materie.  
+Per le Commissioni esaminatrici valgono le norme stabilite per le Commissioni degli esami di profitto.  
+Al corso di perfezionamento sono ammessi i laureati in ingegneria.  
+Coloro che non avessero frequentato e superato l'esame di tecnica ed economia dei trasporti sono tenuti a frequentare tale insegnamento, ed a superare il relativo esame.  
+Le tasse e sopratasse da pagarsi dagli iscritti sono stabilite di anno in anno dal Consiglio di amministrazione, su proposta della Facolta'.  
+Nell'attuale art. 155 aggiungere dopo la parola "urologia" "in igiene e in clinica dermosifilopatica".  
+Nell'attuale art. 157 aggiungere al primo periodo le parole "ed eventualmente di altre Facolta'".  
+Dopo l'attuale art. 204 aggiungere i seguenti nuovi articoli relativi all'istituzione della "Scuola di perfezionamento in igiene", e della "Scuola di specializzazione in clinica dermosifilopatica".  
   
-2° Anno:   
-tecniche cromatografiche ed elettrofonetiche;   
-tecniche spettrofotometriche;   
-farmaci e veleni;   
-dosaggi enzimatici;   
-raccolta, conservazione e trattamento dei campioni biologici.   
+Scuola di perfezionamento in igiene.  
   
-3° Anno:   
-tecniche radioisotopiche di laboratorio;   
-tecniche immunologiche;   
-tecniche di biologia molecolare;   
-organi perfusi e culture cellulari;   
-l'automazione delle analisi biochimiche.   
+Art. 205. - Il corso della Scuola ha la durata di due anni. Il direttore dell'Istituto d'igiene e' direttore della Scuola.  
+Art. 206. - Le materie d'insegnamento sono le seguenti:  
+1) igiene generale: aria, suolo, acqua, abitazioni, alimentazione;  
+2) igiene speciale: infantile, della persona, scolastica, urbana, rurale, dei trasporti, ospitaliera, del lavoro;  
+3) epidemiologia generale e speciale e profilassi;  
+4) microscopia, e micrografia applicata all'igiene;  
+5) microbiologia, parassitologia, virus, immunologia;  
+6) chimica e fisica applicata all'igiene;  
+7) patologia e clinica delle malattie infettive;  
+8) malattie professionali e del lavoro;  
+9) demografia e statistica sanitaria, legislazione sanitaria;  
+10) ingegneria sanitaria;  
+11) macelli ed ispezioni delle carni;  
+12) tecnica batteriologica e sierologica applicata alla diagnostica delle malattie da infezione;  
+13) esercitazioni di laboratorio nel campo della fisica e della chimica applicata all'igiene;  
+14) tirocinio pratico per la direzione di un ufficio sanitario provinciale e comunale, per la direzione di un ospedale e di un laboratorio provinciale di igiene e profilassi;  
+15) esame d'impianti e progetti d'impianti a carattere igienico-sanitario.  
+Art. 207. - L'insegnamento teorico e pratico e' impartito dal direttore dell'Istituto coadiuvato, volta per volta, da altri professori, liberi docenti della disciplina, assistenti dell'Istituto e dirigenti di servizi sanitari che egli stesso indichera'.  
+Art. 208. - E' obbligatoria la frequenza ai singoli corsi nonche' alle esercitazioni pratiche. Gli iscritti devono presenziare anche le lezioni d'igiene impartite agli studenti di medicina e chirurgia e a quelli d'ingegneria.  
+Gli allievi sono tenuti ad osservare scrupolosamente l'orario delle lezioni e delle esercitazioni ed a compiere turni d'internato stabiliti dal direttore della Scuola.  
+Il servizio d'internato comporta, l'adempimento di tutte le funzioni di assistente.  
+Art. 209. - Per conseguire il certificato annuale di profitto gli iscritti devono sottoporsi ad una prova consistente nello svolgimento di un tema scritto, di un esame orale e di prove di laboratorio relative al programma svolto durante l'anno in corso.  
+Art. 210. - Per ottenere il diploma, gli iscritti, superato l'esame teorico-pratico alla fine del secondo anno di corso, dovranno sostenere la discussione di una dissertazione scritta su un argomento di indole sperimentale e compilativa.  
   
-Tutti gli insegnamenti afferiscono alla facolta' di farmacia.   
-Art. 275. - La frequenza ai corsi e' obbligatoria. Alla fine di ogni anno accademico lo specializzando deve sostenere un esame teorico-pratico per il passaggio allo anno di corso successivo. La commissione d'esame, di cui fanno parte il direttore della scuola ed i docenti delle materie relative all'anno di corso, esprime un giudizio globale sul livello di preparazione del candidato nelle singole discipline e relative attivita' pratiche prescritte per l'anno di corso. Coloro che non superano detto esame potranno ripetere l'anno di corso una sola volta.   
-Art. 276. - Sono corredati di esercitazioni pratiche l'insegnamento di biochimica applicata e tutti gli insegnamenti del secondo e terzo anno di corso. Ogni insegnamento richiede da un minimo di 10 ad un massimo di 40 ore tra lezioni ed esercitazioni pratiche. Per l'ammissione agli esami e' richiesta la frequenza a tutte le esercitazioni e ad almeno l'80% delle lezioni.   
-Ai fini della frequenza e delle attivita' pratiche va riconosciuta utile, sulla base di idonea documentazione, l'attivita' svolta dallo specializzando in strutture di servizio socio-sanitario attinenti alla specializzazione anche all'estero o nell'ambito di quanto previsto dalla [legge 9 febbraio 1979, n. 38](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1979-02-09;38), in materia di cooperazione dell'Italia con i Paesi in via di sviluppo.   
-Art. 277. - Superato l'esame teorico-pratico dell'ultimo anno, il corso di studio della scuola si conclude con un esame finale consistente nella discussione di una dissertazione scritta su una o piu' materie del corso.   
-A coloro che abbiano superato l'esame finale viene rilasciato il diploma di specialista in biochimica analitica.   
-Art. 278. - L'importo delle tasse e soprattasse dovute dagli iscritti alla Scuola e' quello previsto dalle vigenti disposizioni di legge; i contributi sono stabiliti anno per anno dal consiglio di amministrazione.   
-Art. 279. - Il consiglio della scuola e' composto dai docenti universitari di ruolo e dai professori a contratto previsti dall'[art.   
-4 del decreto del Presidente della Repubblica 10 marzo 1982, n. 162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1982-03-10;162~art4), ai quali sono affidate attivita' didattiche nella scuola, nonche' da una rappresentanza di tre specializzandi eletti secondo le modalita' di cui all'[art. 99 del decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382~art99).   
-Il consiglio esercita le competenze spettanti, ai sensi dell'art. 94 del decreto del Presidente della Repubblica n. 382, al consiglio di corso di laurea in materia di coordinamento di insegnamenti.   
-La direzione della scuola e' affidata a professore ordinario, straordinario o fuori ruolo che insegni anche nella scuola stessa. In caso di motivato impedimento la direzione della scuola e' affidata a professore associato che pure insegni nella scuola medesima.   
+Scuola di specializzazione in clinica dermosifilopatica.  
+  
+Art. 211. - La Scuola di specializzazione in clinica dermosifilopatica ha la durata di due anni (I e II corso, annuali), ed ha sede nella clinica dermatologica dell'Universita'. Il direttore della clinica e' direttore della Scuola.  
+Possono iscriversi alla Scuola i laureati in medicina e chirurgia.  
+Art. 212. - Le materie d'insegnamento sono le seguenti:  
+a) anatomia e fisiologia della cute e degli organi sessuali;  
+b) patologia generale della cute degli organi sessuali;  
+c) patologia, semiotica e clinica dermatologica;  
+d) venerologia clinica (sifilide e altre malattie veneree);  
+e) terapia medica dermatologica, ed eudermia chirurgica;  
+f) radiologia e terapia fisica dermatologica;  
+g) terapia venereologica;  
+h) igiene della cute, profilassi dermatologica (dermatosi professionali, ecc.);  
+i) profilassi anti-venerea.  
+Art. 213. - I corsi sono tenuti da professori di ruolo delle relative materie col concorso degli assistenti dei singoli istituti.  
+Art. 214. - Gli iscritti alla Scuola hanno l'obbligo della frequenza ai corsi ed alle relative esercitazioni frequentando abitualmente la clinica dermatologica quali medici interni.  
+Art. 215. - Gli esami di profitto sono dati per gruppi alla fine di ciascuno dei due anni di corso. Alla fine del secondo anno segue l'esame di diploma. Questo consiste nella discussione di una dissertazione scritta su argomento di pertinenza delle discipline dermatologiche e venereologiche.  
+Art. 216. - Superati gli esami di profitto e l'esame di diploma il candidato consegue il diploma e il titolo di specialista in clinica dermosifilopatica.  
+Art. 217. - Su proposta del direttore della Scuola, la Facolta' medica puo' esonerare da un anno di corso i laureati forniti di documenti e titoli di studio atti a comprovare una sufficiente preparazione nel campo della specialita'.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 18 luglio 1984
+### Dato a Roma, addi' 30 ottobre 1949
 
-PERTINI FALCUCCI
+EINAUDI GONELLA
 
-Visto, il Guardasigilli: MARTINAZZOLI
+Visto, il Guardasigilli: PICCIONI
 
-Registrato alla Corte dei conti, addi' 22 novembre 1984
+Registrato alla Corte dei conti, addi' 5 aprile 1950
 
-Registro n. 71 Istruzione, foglio n. 12
+Atti del Governo, registro n. 32, foglio n. 63. - CARLOMAGNO

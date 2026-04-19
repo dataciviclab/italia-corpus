@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 29 agosto 1986 n. 705
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 08 luglio 1986 n. 675
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 29 agosto 1986 n. 705
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 08 luglio 1986 n. 675
 =============================================================
 
 Autorizzazione all'Istituto nazionale per lo studio e la cura dei tumori, in Milano, ad accettare un legato.
@@ -10,10 +10,10 @@ Autorizzazione all'Istituto nazionale per lo studio e la cura dei tumori, in Mil
 Art. 1
 ------
 
-n.
+N.
 
-705. Decreto del Presidente della Repubblica 29 agosto 1986, col quale, sulla proposta del Ministro della sanita', l'Istituto nazionale per lo studio e la cura dei tumori, in Milano, viene autorizzato ad accettare il legato, consistente nella somma di L. 30.000.000, disposto dal sig. Angelo Pitteri con testamento olografo 25 febbraio 1982, pubblicato in data 9 luglio 1982, n. 3866 di repertorio, a rogito dott. Piergiorgio Aprico, notaio in Este (Padova), registrato ad Este in data 16 luglio 1982 al n. 1913.  
+675. Decreto del Presidente della Repubblica 8 luglio 1986, col quale, sulla proposta del Ministro della sanita', l'Istituto nazionale per lo studio e la cura dei tumori, in Milano, viene autorizzato ad accettare il legato, consistente nella somma di L. 10.000.000, disposto dal sig. Manito Bianchi con testamento olografo pubblicato in data 5 gennaio 1984, n. 107434 di repertorio, a rogito dott. Luigi Maneschi, notaio in Massa, registrato a Massa in data 24 gennaio 1984 al n. 209, da destinare al perseguimento dei propri fini istituzionali.   
   
-Visto, il Guardasigilli: ROGNONI  
-Registrato alla Corte dei conti, addi' 18 ottobre 1986  
-Registro n. 10 Sanita', foglio n. 235
+Visto, il Guardasigilli: ROGNONI   
+Registrato alla Corte dei conti, addi' 9 ottobre 1986   
+Registro n. 10 Sanita', foglio n. 70

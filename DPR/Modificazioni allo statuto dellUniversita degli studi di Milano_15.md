@@ -1,155 +1,21 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 maggio 1967 n. 749
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 settembre 1956 n. 1132
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 maggio 1967 n. 749
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 settembre 1956 n. 1132
+=================================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Milano.
 ------------------------------------------------------------------
-
-IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
-
-Veduto lo statuto dell'Universita' degli studi di Milano, approvato con [regio decreto 22 maggio 1939, n. 1166](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-05-22;1166), e modificato con [regio decreto 26 ottobre 1940, n. 2056](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;2056), e successive modificazioni;
-
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
-
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
-
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
-
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
-
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
-
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
-
-Sentito il parere del Consiglio superiore della pubblica istruzione;
-
-Sulla proposta del Ministro per la pubblica istruzione;
-
-Decreta:
-
-Lo statuto dell'Universita' degli studi di Milano, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
-
-Art. 8, e' abrogato e sostituito dal seguente:
-
-La Facolta' di giurisprudenza conferisce la laurea in Giurisprudenza e la laurea in Scienze politiche. Alla Facolta' e' annessa la Scuola di statistica che conferisce il diploma in statistica.
-
-Dopo l'art. 12 e con il conseguente spostamento della successiva numerazione, sono aggiunti i seguenti nuovi articoli relativi alla istituzione del corso di laurea in Scienze politiche annesso alla Facolta' di giurisprudenza.
-
-Corso di laurea in Scienze politiche
-
-Art. 13. - La durata del corso degli studi per la laurea in Scienze politiche e' di quattro anni.
-
-E' titolo di ammissione il diploma di maturita' classica o il diploma di maturita' scientifica.
-
-Sono insegnamenti fondamentali:
-
-1) Dottrina dello Stato;
-
-2) Istituzioni di diritto privato;
-
-3) Istituzioni di diritto pubblico;
-
-4) Diritto amministrativo (biennale);
-
-5) Diritto internazionale;
-
-6) Diritto del lavoro;
-
-7) Diritto costituzionale italiano e comparato;
-
-8) Storia moderna (biennale);
-
-9) Storia delle dottrine politiche;
-
-10) Storia ed istituzioni dei Paesi afro-asiatici;
-
-11) Storia dei trattati e politica internazionale;
-
-12) Geografia politica ed economica;
-
-13) Economia politica;
-
-14) Politica economica e finanziaria;
-
-15) Statistica;
-
-16) Scienza delle finanze;
-
-17) Istituzioni di diritto e di procedura penale.
-
-Sono insegnamenti complementari:
-
-1) Contabilita' dello Stato e degli Enti pubblici;
-
-2) Demografia;
-
-3) Diritto internazionale privato;
-
-4) Filosofia del diritto;
-
-5) Organizzazione internazionale;
-
-6) Scienza dell'amministrazione;
-
-7) Sociologia;
-
-8) Statistica economica;
-
-9) Storia delle istituzioni politiche;
-
-10) Storia contemporanea;
-
-11) Storia dei movimenti sindacali;
-
-12) Storia dei movimenti e dei partiti politici;
-
-13) Storia delle dottrine economiche;
-
-14) Storia economica.
-
-Lo studente, nella scelta degli insegnamenti complementari, deve valersi, per due di essi, di quelli indicati nell'elenco degli insegnamenti stessi, e per due puo' valersi di qualsiasi altro insegnamento, fondamentale o complementare, impartito nelle altre Facolta' dello Ateneo; in quest'ultimo caso la scelta dovra' essere approvata dal preside della Facolta'.
-
-Lo studente e' inoltre tenuto a seguire i corsi ed a sostenere le prove di esame in due lingue straniere moderne. Almeno una di esse deve essere la francese, l'inglese o la tedesca; per l'altra lingua e' consentita la scelta fra quelle effettivamente insegnate nelle altre Facolta' dell'Ateneo.
-
-Per essere ammesso all'esame di laurea lo studente deve aver seguito i corsi e superato gli esami in tutti gli insegnamenti fondamentali ed almeno in quattro complementari.
-
-Art. 14. - L'esame di laurea consiste:
-
-1) nella discussione orale di una dissertazione scritta, svolta su un tema precedentemente approvato dal professore della materia;
-
-2) nella discussione orale di una breve dissertazione scritta su altro tema approvato in precedenza dal professore della materia, su argomento diverso da quello della dissertazione di laurea.
-
-La dissertazione deve essere presentata alla segreteria in quadruplice copia e la sottotesi in triplice copia almeno un mese prima della data dell'esame di laurea, salvo proroga concessa dal preside della Facolta'.
-
-Art. 15. - Gli esami di Istituzioni di diritto privato e di Istituzioni di diritto pubblico dovranno essere superati prima di quelli di Diritto del lavoro, Diritto costituzionale italiano e comparato, Diritto amministrativo e Diritto internazionale. L'esame di Economia politica dovra' essere superato prima di quello di Politica economica e finanziaria.
-
-Art. 16. - Gli esami delle materie biennali saranno sostenuti alla fine del biennio.
-
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
-
-Dato a Roma, addi' 31 maggio 1967
-
-SARAGAT
-
-GUI
-
-Visto, il Guardasigilli: REALE
-
-Registrato
-----------
-
-alla Corte dei conti, addi' 21 agosto 1967 Atti del Governo, registro n. 213, foglio n. 14. - CARUSO
 
 Art. 1
 ------
 
  IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Milano, approvato con [regio decreto 22 maggio 1939, n. 1166](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-05-22;1166), e modificato con [regio decreto 26 ottobre 1940, n. 2056](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;2056), e successive modificazioni;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto lo statuto dell'Universita' degli studi di Milano, approvato con [regio decreto 22 maggio 1939, n. 1166](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-05-22;1166), e modificato con [legge 1 giugno 1939, n. 872](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1939-06-01;872), e con i [regi decreti 26 ottobre 1940, n. 2056](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1940-10-26;2056); [15 aprile 1942, n. 423](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1942-04-15;423); [24 ottobre 1942, n. 1847, con decreto del Capo provvisorio dello Stato](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto:1942-10-24;1847) [27 luglio 1947, n. 1138, e con decreto del Presidente della Repubblica](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1947-07-27;1138) [23 settembre 1949, n. 942](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-09-23;942); [21 novembre 1949, n. 1194](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-11-21;1194); [13 marzo 1950, n. 283](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1950-03-13;283); [27 ottobre 1951, n. 1825](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-10-27;1825); [23 aprile 1952, n. 873](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-04-23;873); [10 febbraio 1953, n. 383](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1953-02-10;383); [13 febbraio 1954, n. 750](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1954-02-13;750);  
+[14 settembre 1954, n. 1161](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1954-09-14;1161); [27 gennaio 1955, n. 219](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1955-01-27;219);  
+[16 febbraio 1955, n. 136](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1955-02-16;136); [21 giugno 1955, n. 560](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1955-06-21;560); [30 giugno 1955, n. 693](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1955-06-30;693); [27 luglio 1955, n. 786](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1955-07-27;786); [27 luglio 1955, n. 802](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1955-07-27;802) e [21 settembre 1955, n. 952](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1955-09-21;952);  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
 Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
@@ -161,68 +27,49 @@ Sulla proposta del Ministro per la pubblica istruzione;
 Decreta:  
   
 Lo statuto dell'Universita' degli studi di Milano, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+Art. 9. - Agli insegnamenti complementari del corso di laurea in giurisprudenza sono aggiunti i seguenti:  
+a) storia delle dottrine politiche;  
+b) sociologia;  
+c) organizzazione internazionale;  
+d) dottrina dello Stato;  
+e) diritto internazionale privato e processuale.  
+Art. 25. - Agli insegnamenti complementari del corso di laurea in chimica industriale e' aggiunto quello di "chimica metallurgica".  
+Art. 40. - Agli insegnamenti complementari del corso di laurea in scienze geologiche e' aggiunto quello di "giacimenti minerari".  
+Art. 98. - Dopo l'ordinamento della scuola di specializzazione in "chirurgia plastica ricostruttiva" e' aggiunto il seguente ordinamento relativo alla "scuola di specializzazione in psichiatria".  
   
-Art. 8, e' abrogato e sostituito dal seguente:  
-La Facolta' di giurisprudenza conferisce la laurea in Giurisprudenza e la laurea in Scienze politiche. Alla Facolta' e' annessa la Scuola di statistica che conferisce il diploma in statistica.  
-Dopo l'art. 12 e con il conseguente spostamento della successiva numerazione, sono aggiunti i seguenti nuovi articoli relativi alla istituzione del corso di laurea in Scienze politiche annesso alla Facolta' di giurisprudenza.  
+Scuola di specializzazione in psichiatria  
   
-Corso di laurea in Scienze politiche  
-  
-Art. 13. - La durata del corso degli studi per la laurea in Scienze politiche e' di quattro anni.  
-E' titolo di ammissione il diploma di maturita' classica o il diploma di maturita' scientifica.  
-Sono insegnamenti fondamentali:  
-1) Dottrina dello Stato;  
-2) Istituzioni di diritto privato;  
-3) Istituzioni di diritto pubblico;  
-4) Diritto amministrativo (biennale);  
-5) Diritto internazionale;  
-6) Diritto del lavoro;  
-7) Diritto costituzionale italiano e comparato;  
-8) Storia moderna (biennale);  
-9) Storia delle dottrine politiche;  
-10) Storia ed istituzioni dei Paesi afro-asiatici;  
-11) Storia dei trattati e politica internazionale;  
-12) Geografia politica ed economica;  
-13) Economia politica;  
-14) Politica economica e finanziaria;  
-15) Statistica;  
-16) Scienza delle finanze;  
-17) Istituzioni di diritto e di procedura penale.  
-Sono insegnamenti complementari:  
-1) Contabilita' dello Stato e degli Enti pubblici;  
-2) Demografia;  
-3) Diritto internazionale privato;  
-4) Filosofia del diritto;  
-5) Organizzazione internazionale;  
-6) Scienza dell'amministrazione;  
-7) Sociologia;  
-8) Statistica economica;  
-9) Storia delle istituzioni politiche;  
-10) Storia contemporanea;  
-11) Storia dei movimenti sindacali;  
-12) Storia dei movimenti e dei partiti politici;  
-13) Storia delle dottrine economiche;  
-14) Storia economica.  
-Lo studente, nella scelta degli insegnamenti complementari, deve valersi, per due di essi, di quelli indicati nell'elenco degli insegnamenti stessi, e per due puo' valersi di qualsiasi altro insegnamento, fondamentale o complementare, impartito nelle altre Facolta' dello Ateneo; in quest'ultimo caso la scelta dovra' essere approvata dal preside della Facolta'.  
-Lo studente e' inoltre tenuto a seguire i corsi ed a sostenere le prove di esame in due lingue straniere moderne. Almeno una di esse deve essere la francese, l'inglese o la tedesca; per l'altra lingua e' consentita la scelta fra quelle effettivamente insegnate nelle altre Facolta' dell'Ateneo.  
-Per essere ammesso all'esame di laurea lo studente deve aver seguito i corsi e superato gli esami in tutti gli insegnamenti fondamentali ed almeno in quattro complementari.  
-Art. 14. - L'esame di laurea consiste:  
-1) nella discussione orale di una dissertazione scritta, svolta su un tema precedentemente approvato dal professore della materia;  
-2) nella discussione orale di una breve dissertazione scritta su altro tema approvato in precedenza dal professore della materia, su argomento diverso da quello della dissertazione di laurea.  
-La dissertazione deve essere presentata alla segreteria in quadruplice copia e la sottotesi in triplice copia almeno un mese prima della data dell'esame di laurea, salvo proroga concessa dal preside della Facolta'.  
-Art. 15. - Gli esami di Istituzioni di diritto privato e di Istituzioni di diritto pubblico dovranno essere superati prima di quelli di Diritto del lavoro, Diritto costituzionale italiano e comparato, Diritto amministrativo e Diritto internazionale. L'esame di Economia politica dovra' essere superato prima di quello di Politica economica e finanziaria.  
-Art. 16. - Gli esami delle materie biennali saranno sostenuti alla fine del biennio.  
+1. La durata del corso degli studi e' di tre anni.  
+2. La scuola fa parte integrante della clinica delle malattie nervose e mentali e la direzione di essa e' affidata al direttore della clinica medesima.  
+3. Gli insegnanti della scuola sono nominati dal rettore dell'Universita', su proposta del Consiglio della Facolta' di medicina e chirurgia udito il direttore della scuola.  
+4. Le materie di insegnamento sono le seguenti, ripartite nel triennio:  
+1° anno:  
+a) anatomia, clinica e fisiologia del sistema nervoso con particolare riguardo alla sezione vegetativa ed alle sue relazioni psicosomatiche;  
+b) elementi di psicologia, di psicodinamica e di psicopatologia dall'infanzia all'eta' adulta;  
+c) patologia generale, anatomia e istologia patologica delle malattie mentali.  
+2° anno:  
+a) semeiotica e diagnostica psichiatrica;  
+b) nozioni di igiene e profilassi mentale.  
+3° anno:  
+a) clinica psichiatrica con particolare riguardo alla moderna psicoterapia ed alle cure mediche e chirurgiche delle infermita' mentali;  
+b) richiami alle disposizioni legislative sugli ospedali psichiatrici e sugli alienati ed alle previdenze per i dimessi dagli ospedali psichiatrici;  
+c) nozioni di psichiatria forense.  
+5. Durante i tre anni di corso gli specializzandi sono tenuti a prestare servizio di internato nei reparti della clinica delle malattie nervose e mentali ai quali vengono assegnati e, durante l'ultimo anno, hanno l'obbligo della frequenza bisettimanale nei reparti dell'ospedale psichiatrico provinciale.  
+6. Al termine di ogni anno accademico, gli specializzandi che abbiano ottenuto le prescritte attestazioni di frequenza, dovranno, per potersi iscrivere all'anno di corso successivo, superare gli esami in tutte le materie comprese nel piano degli studi.  
+7. Per essere ammesso all'esame di diploma, che consistera' nella discussione orale di una tesi scritta, in precedenza approvata dal direttore della scuola, lo specializzando dovra' aver superato tutti gli esami previsti dal piano degli studi.  
+8. Nel manifesto annuale la Facolta' comunichera' il numero massimo dei posti disponibili al primo corso e le modalita' di ammissione alla scuola.  
+9. Per l'ammissione agli esami di profitto e di diploma, per la composizione delle relative Commissioni esaminatrici, per quanto concerne le tasse e soprattasse dovute dagli iscritti alla scuola, valgono le norme generali previste dallo statuto per le scuole di specializzazione della Facolta' di medicina e chirurgia. Gli eventuali contributi speciali dovuti dagli iscritti, sono stabiliti anno per anno dal Consiglio di amministrazione dell'Universita', su proposta del Senato accademico, udite la Facolta' e la Scuola.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 31 maggio 1967
+### Dato a Roma, addi' 5 settembre 1956
 
-SARAGAT GUI
+GRONCHI ROSSI
 
-Visto, il Guardasigilli: REALE
+Visto, il Guardasigilli: MORO
 
-Registrato alla Corte dei conti, addi' 21 agosto 1967
+Registrato alla Corte dei conti, addi' 12 ottobre 1956
 
-Atti del Governo, registro n. 213, foglio n. 14. - CARUSO
+Atti del Governo, registro n. 101, foglio n. 25. - CARLOMAGNO

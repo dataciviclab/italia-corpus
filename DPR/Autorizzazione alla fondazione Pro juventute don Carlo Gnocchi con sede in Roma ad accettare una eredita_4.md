@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 settembre 1973 n. 664
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 dicembre 1973 n. 986
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 settembre 1973 n. 664
-================================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 dicembre 1973 n. 986
+===============================================================
 
 Autorizzazione alla fondazione "Pro juventute don Carlo Gnocchi", con sede in Roma, ad accettare una eredita'.
 --------------------------------------------------------------------------------------------------------------
@@ -12,8 +12,9 @@ Art. 1
 
 N.
 
-664. Decreto del Presidente della Repubblica 10 settembre 1973, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", con sede in Roma, viene autorizzata ad accettare, col beneficio d'inventario, l'eredita' disposta dalla signora Ghiringhelli Angela Carolina, con testamento olografo in data 25 novembre 1965, pubblicato a rogito del notaio Giuseppe Gallizia di Milano in data 26 giugno 1969 (n. 77945/26919 di rep. e n. 18427 arch.), registrato a Milano il 4 luglio 1969 (n. 12400) consistente nella meta' dell'asse ereditario, questo complessivamente valutato al netto in L. 31.816.510, di cui L. 15.908.255 spettanti alla detta fondazione "Pro juventute".   
+986. Decreto del Presidente della Repubblica 18 dicembre 1973, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", con sede in Roma, viene autorizzata ad accettare, col beneficio d'inventario, la eredita' disposta dalla sig.na Romana Fugazzi con testamento olografo del 2 aprile 1964 e codicillo di modifica del 2 aprile 1966, depositato e pubblicato per rogito dott. Giuliano Salvini, notaio in Cusano Milanino, in data 1 dicembre 1971 (n. 3034 di rep. e n. 582 di racc.), registrato a Desio il 16 dicembre 1971 al n. 4668/I, consistente in beni mobili ed immobili di cui agli inventari in data 15 marzo e 27 giugno 1972 redatti dal dott.  
+Ferruccio Brambilla, notaio in Milano, rispettivamente con il n. 12693/1212 e 13295/1323 di repertorio, per un valore complessivo di lire 22.235.019.  
   
-Visto, il Guardasigilli: ZAGARI   
-Registrato alla Corte dei conti, addi' 31 ottobre 1973   
-Atti di Governo, registro n. 261, foglio n. 77. - VALENTINI
+Visto, il Guardasigilli: ZAGARI  
+Registrato alla Corte dei conti, addi' 8 febbraio 1974  
+Atti di Governo, registro n. 1, foglio n. 65. - CARUSO

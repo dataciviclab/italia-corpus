@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 21 maggio 1965 n. 733
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 16 giugno 1982 n. 602
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 21 maggio 1965 n. 733
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 16 giugno 1982 n. 602
 =============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Palermo.
@@ -10,205 +10,87 @@ Modificazioni allo statuto dell'Universita' degli studi di Palermo.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' degli studi di Palermo, approvato con [regio decreto 14 ottobre 1920 n. 2412](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1920-10-14;2412), e modificato con [regio decreto 13 ottobre 1927 n. 2240](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2240), e successive modificazioni;
+Veduto lo statuto dell'Universita' di Palermo, approvato con [regio decreto 14 ottobre 1926, n. 2412](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2412), e successive modificazioni;
 
-Veduto il testo unico delle leggi sull'istruzione superiore approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071) convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
 
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652) e successive modificazioni;
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
 
 Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
 
-Vedute le proposte di modifiche dello statuto formulato dalle autorita' accademiche dell'Universita' anzidetta;
+Veduto il [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
 
-Riconosciuta la particolare necessita' di approvare la nuove modifiche proposte;
+Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
-Sentito il parere del Consiglio superiore della pubblica istruzione;
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Palermo e convalidati dal Consiglio universitario nazionale nel suo parere;
 
-Sulla proposta del Ministro per la pubblica istruzione;
+Sentito il parere del Consiglio universitario nazionale;
+
+Sulla proposta del Ministro della pubblica istruzione;
 
 Decreta:
+--------
 
-Lo statuto dell'Universita' degli studi di Palermo approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
-
-Art. 18. - Agli insegnamenti complementari del corse di laurea in Economia e commercio sono aggiunti quelli di:
-
-14) Statistica economica;
-
-15) Sociologia.
-
-Art. 31. - All'elenco degli Istituti annessi alla Facolta' di Lettere e filosofia e' aggiunto l'istituto di Lingue e letterature straniere.
-
-Dopo l'art. 31, sono aggiunti i seguenti nuovi articoli relativi al regolamento dell'Istituto di Lingue e letterature straniere con il conseguente spostamento della successiva numerazione.
-
-Istituto di Lingue e letterature straniere
-
-Art. 32. - L'Istituto di Lingue e letterature straniere comprende le cattedre di Lingua e letteratura francese; di Lingua e letteratura inglese, di Lingua e letteratura tedesca, di Lingua e letteratura spagnola della Facolta' di Lettere e filosofia.
-
-Art. 33. - L'Istituto ha lo scopo di coordinare e di potenziare l'incremento delle lingue e letterature moderne e delle discipline ad esse complementari nonche' di fornire una adeguata cultura specifica e quegli studenti che si dedicheranno all'insegnamento delle lingue moderne.
-
-Art. 34. - L'Istituto ha sede nei locali assegnati alla cattedra di Lingua e letteratura francese.
-
-Art. 35. - La direzione dell'Istituto e' affidata, a turno annuale, ad uno dei titolari delle singole discipline.
-
-Art. 36. - Presso l'Istituto prestano servizio gli assistenti sia di ruolo sia volontari attualmente in servizio, e quelli che in seguito verranno assunti dalle predette cattedre.
-
-Art. 37. - Per il raggiungimento dei propri fini, l'Istituto dispone di materiale didattico e scientifico appropriati, di una fototeca, di una propria biblioteca, da costituirsi quest'ultima con un fondo di libri gia' esistenti presso la biblioteca universitaria, e con singoli donativi.
-
-Art. 38. - All'Istituto e' annesso un laboratorio linguistico modernamente attrezzato, al cui funzionamento saranno preposti un assistente di ruolo (coadiuvato per ciascuna lingua, da assistenti di ruolo o volontari, che abbiano una pratica dei recentissimi metodi di insegnamento) e un tecnico specializzato che abbia cura degli apparecchi.
-
-Art. 39. - L'Istituto si propone anche di pubblicare una serie di contributi di carattere scientifico preparati da professori assistenti e laureati.
-
-Art. 40. - Con la dotazione assegnata all'Istituto dal Consiglio di amministrazione dell'Universita', nonche' le eventuali elargizioni di altri Enti e Istituzioni, l'Istituto potra' provvedere alle proprie attivita' scientifiche e didattiche.
-
-L'articolo 96 e' modificato nel senso che la durata della Scuola di specializzazione in Clinica oculistica e' fissata in anni quattro.
-
-L'art. 117 e' abrogato e sostituito dal seguente:
-
-Scuola di specializzazione in Clinica oculistica
-
-Art. 117. - La Scuola ha la durata di quattro anni Il numero complessivo degli iscritti ai quattro anni del corso e' di venticinque.
-
-Gli insegnamenti impartiti dalla Scuola sono i seguenti:
-
-1° Anno:
-
-1) Anatomia e istologia dell'apparato oculare;
-
-2) Nozioni di embriologia e genetica oculare;
-
-3) Fisiologia dell'occhio e nozioni di biochimica dei tessuti e dei liquidi oculari;
-
-4) Nozioni di ottica fisiologica, esame della rifrazione;
-
-5) Microbiologia ed igiene oculare.
-
-2° Anno:
-
-1) Semeiotica oculare e mezzi di indagine dell'apparato oculare (biomicroscopia, oftalmologia, perimetria, campimetria, adattometria, senso cromatico, tonometria, tonografia, esami elettrofunzionali, radiologia);
-
-2) Farmacologia oculare e terapia fisica;
-
-3) Anatomia patologica oculare;
-
-4) Patologia e clinica oculare (malattie delle palpebre, della congiuntiva, delle vie lacrimali, della cornea e della sclera).
-
-3° Anno:
-
-1) Patologia e clinica oculare (malattie dell'uvea, della retina, del nervo e delle vie ottiche, dell'occhio nella sua totalita' e dell'orbita, glaucoma);
-
-2) Anomalie e patologia della motilita' oculare e della visione binoculare. Ortottica e pleottica;
-
-3) Affezioni otorinolaringoiatriche e occhio;
-
-4) Tecnica operatoria - 1ª parte.
-
-4° Anno:
-
-1) Neuro-oftalmologia;
-
-2) Malattie oculari in rapporto ad affezioni generali;
-
-3) Malattie professionali. Infortunistiche e medicina legale oculare;
-
-4) Tecnica operatoria - 2ª parte;
-
-5) Tesi di specializzazione.
-
-Gli esami di profitto si danno alla fine di ciascun anno. Alla line del corso gli iscritti oltre a presentate la dissertazione scritta ed a sostenere la relativa discussione a norma dell'art. 106, devono sostenere una prova pratica sull'ammalato.
-
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo di chiunque spetti di osservarlo e di farlo osservare.
-
-Dato a Roma, addi' 21 maggio 1965
-
-SARAGAT
-
-GUI
-
-Visto, il Guardasigilli: REALE
-
-Registrato
-----------
-
-alla Corte dei conti, addi' 30 giugno 1965 Atti del Governo, registro n. 194, foglio n. 35 - VILLA
+Lo statuto dell'Universita' di Palermo, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Palermo, approvato con [regio decreto 14 ottobre 1920 n. 2412](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1920-10-14;2412), e modificato con [regio decreto 13 ottobre 1927 n. 2240](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2240), e successive modificazioni;  
-Veduto il testo unico delle leggi sull'istruzione superiore approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071) convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652) e successive modificazioni;  
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
-Vedute le proposte di modifiche dello statuto formulato dalle autorita' accademiche dell'Universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare la nuove modifiche proposte;  
-Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro per la pubblica istruzione;  
+Nell'art. 35, relativo al corso di laurea in lettere, all'elenco degli insegnamenti complementari sono aggiunti i seguenti nuovi insegnamenti:  
+sociologia della letteratura;  
+demografia storica;  
+etnomusicologia;  
+estetica musicale;  
+geografia politica ed economica;  
+teoria e tecnica delle comunicazioni di massa;  
+storia della critica d'arte;  
+storia dell'arte contemporanea;  
+storia delle arti applicate;  
+museologia e conservazione delle opere d'arte;  
+storia della Sicilia antica;  
+geografia del mondo antico;  
+epigrafia e antichita' cristiane;  
+religioni del mondo classico;  
+civilta' indigene della Sicilia;  
+archeologia della Magna Grecia;  
+cultura greca;  
+sociologia della cultura;  
+dialettologia siciliana;  
+geografia umana.  
+
+Art. 2
+------
+
   
-Decreta:  
-  
-Lo statuto dell'Universita' degli studi di Palermo approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-Art. 18. - Agli insegnamenti complementari del corse di laurea in Economia e commercio sono aggiunti quelli di:  
-14) Statistica economica;  
-15) Sociologia.  
-Art. 31. - All'elenco degli Istituti annessi alla Facolta' di Lettere e filosofia e' aggiunto l'istituto di Lingue e letterature straniere.  
-Dopo l'art. 31, sono aggiunti i seguenti nuovi articoli relativi al regolamento dell'Istituto di Lingue e letterature straniere con il conseguente spostamento della successiva numerazione.  
-  
-Istituto di Lingue e letterature straniere  
-  
-Art. 32. - L'Istituto di Lingue e letterature straniere comprende le cattedre di Lingua e letteratura francese; di Lingua e letteratura inglese, di Lingua e letteratura tedesca, di Lingua e letteratura spagnola della Facolta' di Lettere e filosofia.  
-Art. 33. - L'Istituto ha lo scopo di coordinare e di potenziare l'incremento delle lingue e letterature moderne e delle discipline ad esse complementari nonche' di fornire una adeguata cultura specifica e quegli studenti che si dedicheranno all'insegnamento delle lingue moderne.  
-Art. 34. - L'Istituto ha sede nei locali assegnati alla cattedra di Lingua e letteratura francese.  
-Art. 35. - La direzione dell'Istituto e' affidata, a turno annuale, ad uno dei titolari delle singole discipline.  
-Art. 36. - Presso l'Istituto prestano servizio gli assistenti sia di ruolo sia volontari attualmente in servizio, e quelli che in seguito verranno assunti dalle predette cattedre.  
-Art. 37. - Per il raggiungimento dei propri fini, l'Istituto dispone di materiale didattico e scientifico appropriati, di una fototeca, di una propria biblioteca, da costituirsi quest'ultima con un fondo di libri gia' esistenti presso la biblioteca universitaria, e con singoli donativi.  
-Art. 38. - All'Istituto e' annesso un laboratorio linguistico modernamente attrezzato, al cui funzionamento saranno preposti un assistente di ruolo (coadiuvato per ciascuna lingua, da assistenti di ruolo o volontari, che abbiano una pratica dei recentissimi metodi di insegnamento) e un tecnico specializzato che abbia cura degli apparecchi.  
-Art. 39. - L'Istituto si propone anche di pubblicare una serie di contributi di carattere scientifico preparati da professori assistenti e laureati.  
-Art. 40. - Con la dotazione assegnata all'Istituto dal Consiglio di amministrazione dell'Universita', nonche' le eventuali elargizioni di altri Enti e Istituzioni, l'Istituto potra' provvedere alle proprie attivita' scientifiche e didattiche.  
-L'articolo 96 e' modificato nel senso che la durata della Scuola di specializzazione in Clinica oculistica e' fissata in anni quattro.  
-L'art. 117 e' abrogato e sostituito dal seguente:  
-  
-Scuola di specializzazione in Clinica oculistica  
-  
-Art. 117. - La Scuola ha la durata di quattro anni Il numero complessivo degli iscritti ai quattro anni del corso e' di venticinque.  
-Gli insegnamenti impartiti dalla Scuola sono i seguenti:  
-1° Anno:  
-1) Anatomia e istologia dell'apparato oculare;  
-2) Nozioni di embriologia e genetica oculare;  
-3) Fisiologia dell'occhio e nozioni di biochimica dei tessuti e dei liquidi oculari;  
-4) Nozioni di ottica fisiologica, esame della rifrazione;  
-5) Microbiologia ed igiene oculare.  
-2° Anno:  
-1) Semeiotica oculare e mezzi di indagine dell'apparato oculare (biomicroscopia, oftalmologia, perimetria, campimetria, adattometria, senso cromatico, tonometria, tonografia, esami elettrofunzionali, radiologia);  
-2) Farmacologia oculare e terapia fisica;  
-3) Anatomia patologica oculare;  
-4) Patologia e clinica oculare (malattie delle palpebre, della congiuntiva, delle vie lacrimali, della cornea e della sclera).  
-3° Anno:  
-1) Patologia e clinica oculare (malattie dell'uvea, della retina, del nervo e delle vie ottiche, dell'occhio nella sua totalita' e dell'orbita, glaucoma);  
-2) Anomalie e patologia della motilita' oculare e della visione binoculare. Ortottica e pleottica;  
-3) Affezioni otorinolaringoiatriche e occhio;  
-4) Tecnica operatoria - 1ª parte.  
-4° Anno:  
-1) Neuro-oftalmologia;  
-2) Malattie oculari in rapporto ad affezioni generali;  
-3) Malattie professionali. Infortunistiche e medicina legale oculare;  
-4) Tecnica operatoria - 2ª parte;  
-5) Tesi di specializzazione.  
-Gli esami di profitto si danno alla fine di ciascun anno. Alla line del corso gli iscritti oltre a presentate la dissertazione scritta ed a sostenere la relativa discussione a norma dell'art. 106, devono sostenere una prova pratica sull'ammalato.  
+Nell'art. 36, relativo al corso di laurea in filosofia, all'elenco degli insegnamenti complementari sono aggiunti i seguenti nuovi insegnamenti:  
+storia della filosofia medioevale araba;  
+storia della filosofia morale;  
+estetica musicale;  
+teoria e tecnica delle comunicazioni di massa;  
+religioni del mondo classico;  
+sociologia della cultura;  
+sociologia della conoscenza.  
+Nell'art. 43, relativo al corso di laurea in lingue e letterature straniere moderne (indirizzo europeo), all'elenco degli insegnamenti complementari sono aggiunti i seguenti nuovi insegnamenti:  
+filologia francese;  
+filologia ibero-romanza;  
+filologia inglese;  
+filologia tedesca;  
+geografia politica ed economica;  
+letteratura francese moderna e contemporanea.  
   
 
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo di chiunque spetti di osservarlo e di farlo osservare.
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 21 maggio 1965
+### Dato a Roma, addi' 16 giugno 1982
 
-SARAGAT GUI
+PERTINI BODRATO
 
-Visto, il Guardasigilli: REALE
+Visto, il Guardasigilli: DARIDA
 
-Registrato alla Corte dei conti, addi' 30 giugno 1965
+Registrato alla Corte dei conti, addi' 10 agosto 1982
 
-Atti del Governo, registro n. 194, foglio n. 35 - VILLA
+Registro n. 99 Istruzione, foglio n. 171

@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 ottobre 1960 n. 1755
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 marzo 1980 n. 347
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 ottobre 1960 n. 1755
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 marzo 1980 n. 347
+============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Perugia.
 -------------------------------------------------------------------
@@ -10,9 +10,9 @@ Modificazioni allo statuto dell'Universita' degli studi di Perugia.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' degli studi di Perugia, approvato con [regio decreto 20 aprile 1939, n. 1107](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1107), e modificato con [regio decreto 2 ottobre 1940, n. 1471](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-02;1471) e successivi;
+Veduto lo statuto dell'Universita' di Perugia, approvato con [regio decreto 20 aprile 1939, n. 1107](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1107), e modificato con [regio decreto 2 ottobre 1940, n. 1471](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-02;1471), e successive modificazioni;
 
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
 
@@ -20,97 +20,46 @@ Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/ur
 
 Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
 
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Perugia e convalidati dal Consiglio universitario nazionale nel suo parere;
 
-Sentito il parere del Consiglio superiore della pubblica istruzione;
+Sentito il parere del Consiglio universitario nazionale;
 
-Sulla proposta del Ministro per la pubblica istruzione;
+Sulla proposta del Ministro della pubblica istruzione;
 
 Decreta:
+--------
 
-Lo statuto dell'Universita' degli studi di Perugia, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
-
-Art. 10. - Agli insegnamenti complementari del corso di laurea in Scienze politiche sono aggiunti quelli di "Ragioneria delle aziende pubbliche" e "Diritto commerciale".
-
-Art. 18. - E' sostituito dal seguente:
-
-L'esame di "Economia politica" deve precedere quello di "Politica economica e finanziaria". Gli esami di "Istituzioni di diritto pubblico" e di "Istituzioni di diritto privato" devono precedere quelli di "Diritto internazionale" e di "Diritto del lavoro", di "Diritto costituzionale italiano e comparato" e di e Diritto amministrativo".
-
-Art. 21. - Agli insegnamenti complementari del corso di laurea in Economia e commercio sono aggiunti quelli di:
-
-9) Economia dei trasporti;
-
-10) Ragioneria delle aziende pubbliche;
-
-11) Diritto delle assicurazioni libere e sociali;
-
-12) Tecnica delle ricerche di mercato e della distribuzione generale;
-
-13) Legislazione del lavoro.
-
-Art. 22. - E' sostituito dal seguente:
-
-Lo studente non puo' sostenere l'esame di Matematica finanziaria ove non abbia sostenuto quello di Matematica generale; gli esami di Scienza delle finanze e diritto finanziario e di politica economica e finanziaria ove non abbia sostenuto quello di Economia politica (1° anno); gli esami di Tecnica bancaria e professionale e di tecnica industriale e commerciale ove non abbia sostenuto quelli di Ragioneria generale e di Ragioneria applicata l'esame di Diritto commerciale ove non abbia sostenuto quello di istituzioni di diritto privato; l'esame di Diritto industriale ove non abbia sostenuto quello di Diritto commerciale; gli esami di Diritto del lavoro e di diritto amministrativo ove non abbia sostenuto quelli di istituzioni di diritto privato e di istituzioni di diritto pubblico.
-
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
-
-Dato a Roma, addi' 19 ottobre 1960
-
-GRONCHI
-
-BOSCO
-
-Visto, il Guardasigilli: GONELLA
-
-Registrato
-----------
-
-alla Corte dei conti, addi' 28 gennaio 1961 Atti del Governo, registro n. 133, foglio n. 110. - VILLA
+Lo statuto dell'Universita' degli studi di Perugia, approvato e modificato con i decreti sopra indicati, e' ulteriormente modificato come appresso:
 
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Perugia, approvato con [regio decreto 20 aprile 1939, n. 1107](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1107), e modificato con [regio decreto 2 ottobre 1940, n. 1471](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-02;1471) e successivi;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
-Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro per la pubblica istruzione;  
+L'art. 97, relativo agli insegnamenti complementari del corso di laurea in medicina veterinaria, e' modificato nel senso che l'insegnamento di alimentazione e nutrizione animale e' soppresso, mentre viene aggiunto quello di:  
+alimentazione del bestiame.  
+
+Art. 2
+------
+
   
-Decreta:  
-  
-Lo statuto dell'Universita' degli studi di Perugia, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-Art. 10. - Agli insegnamenti complementari del corso di laurea in Scienze politiche sono aggiunti quelli di "Ragioneria delle aziende pubbliche" e "Diritto commerciale".  
-Art. 18. - E' sostituito dal seguente:  
-  
-L'esame di "Economia politica" deve precedere quello di "Politica economica e finanziaria". Gli esami di "Istituzioni di diritto pubblico" e di "Istituzioni di diritto privato" devono precedere quelli di "Diritto internazionale" e di "Diritto del lavoro", di "Diritto costituzionale italiano e comparato" e di e Diritto amministrativo".  
-Art. 21. - Agli insegnamenti complementari del corso di laurea in Economia e commercio sono aggiunti quelli di:  
-9) Economia dei trasporti;  
-10) Ragioneria delle aziende pubbliche;  
-11) Diritto delle assicurazioni libere e sociali;  
-12) Tecnica delle ricerche di mercato e della distribuzione generale;  
-13) Legislazione del lavoro.  
-Art. 22. - E' sostituito dal seguente:  
-  
-Lo studente non puo' sostenere l'esame di Matematica finanziaria ove non abbia sostenuto quello di Matematica generale; gli esami di Scienza delle finanze e diritto finanziario e di politica economica e finanziaria ove non abbia sostenuto quello di Economia politica (1° anno); gli esami di Tecnica bancaria e professionale e di tecnica industriale e commerciale ove non abbia sostenuto quelli di Ragioneria generale e di Ragioneria applicata l'esame di Diritto commerciale ove non abbia sostenuto quello di istituzioni di diritto privato; l'esame di Diritto industriale ove non abbia sostenuto quello di Diritto commerciale; gli esami di Diritto del lavoro e di diritto amministrativo ove non abbia sostenuto quelli di istituzioni di diritto privato e di istituzioni di diritto pubblico.  
+L'art. 98, relativo alle propedeuticita' degli esami per il conseguimento della laurea in medicina veterinaria, e' modificato nel senso che dopo il punto g) sono aggiunti i punti:  
+h) la fisiologia generale e speciale veterinaria I e II rispetto alla alimentazione e nutrizione animale e rispetto alla farmacologia e farmacodinamica veterinaria;  
+i) la anatomia veterinaria sistematica e comparata I e II rispetto alla anatomia topografica veterinaria;  
+l) la anatomia veterinaria sistematica I e II e la anatomia topografica veterinaria rispetto alle autopsie;  
+m) la parassitologia veterinaria compresa micologia, protozoologia, entomologia, elmintologia e rispetto alle malattie parassitarie degli animali domestici e rispetto alla anatomia patologica veterinaria generale e speciale I e II.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 19 ottobre 1960
+### Dato a Roma, addi' 11 marzo 1980
 
-GRONCHI BOSCO
+PERTINI VALITUTTI
 
-Visto, il Guardasigilli: GONELLA
+Visto, il Guardasigilli: MORLINO
 
-Registrato alla Corte dei conti, addi' 28 gennaio 1961
+Registrato alla Corte dei conti, addi' 26 giugno 1980
 
-Atti del Governo, registro n. 133, foglio n. 110. - VILLA
+Registro n. 61 Istruzione, foglio n. 312

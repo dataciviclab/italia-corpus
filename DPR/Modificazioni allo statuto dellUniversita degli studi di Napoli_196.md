@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 marzo 1963 n. 669
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 13 marzo 1984 n. 152
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 marzo 1963 n. 669
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 13 marzo 1984 n. 152
 ============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Napoli.
@@ -10,537 +10,115 @@ Modificazioni allo statuto dell'Universita' degli studi di Napoli.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' degli studi di Napoli, approvato con [regio decreto 20 aprile 1939, numero 1162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1162), modificato con [regio decreto 26 ottobre 1940, n. 1904](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;1904) e successivi;
+Veduto lo statuto dell'Universita' degli studi di Napoli, approvato con [regio decreto 14 ottobre 1926, n. 2090](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2090) e modificato con [regio decreto 13 ottobre 1927, n. 2281](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2281), e successive modificazioni;
 
-Veduto il testo unico delle leggi sull'istruzione superiore approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
 
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
 
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
+Veduta la [legge 22 maggio 1978, n. 217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-05-22;217);
 
-Vedute le proposte di modifiche dello statuto formulate dalle autorita', accademiche dell'Universita' anzidetta;
+Veduta la [legge 21 febbraio 1980, n. 28](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1980-02-21;28);
 
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
+Veduto il [decreto del Presidente della Repubblica 10 marzo 1982, n. 162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1982-03-10;162);
 
-Sentito il parere del Consiglio superiore della pubblica istruzione;
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' degli studi anzidetta;
 
-Sulla proposta del Ministro per la pubblica istruzione;
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17);
+
+Sentito il parere del Consiglio universitario nazionale;
+
+Sulla proposta del Ministro della pubblica istruzione;
 
 Decreta:
+--------
 
 Lo statuto dell'Universita' degli studi di Napoli, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
-Art. 42, relativo alle propedeuticita' del corso di laurea in Economia e Commercio e' modificato nel senso che i numeri 1 e 2 sono abrogati e sostituiti dai seguenti:
+Articolo unico
+--------------
 
-1. - Le istituzioni di Diritto privato per il Diritto commerciale, il Diritto del lavoro, il Diritto industriale, il Diritto della navigazione, il Diritto processuale civile, il Diritto internazionale.
-
-2. - Le istituzioni di Diritto pubblico per il Diritto del lavoro, il Diritto amministrativo, il Diritto internazionale, il Diritto processuale civile.
-
-Art. 66. - Agli insegnamenti complementari del corso di laurea in Lettere sono aggiunti quelli di "Epigrafia greca" di "Antichita' medioevale" e di "Etruscologia ed antichita' italiche". Nello stesso articolo dopo l'ultimo comma e' aggiunto il seguente: "La dissertazione di laurea deve essere scritta in italiano o in latino anche se si riferisce ad una letteratura straniera moderna".
-
-Art. 73, relativo alle modalita' della dissertazione di laurea in Filosofia e' soppresso con il conseguente spostamento della successiva numerazione.
-
-Gli articoli da 79 a 84 relativi all'Istituto di glottologia sono abrogati e sostituiti dai seguenti riguardanti la costituzione e regolamentazione degli Istituti annessi alla Facolta' di lettere e filosofia.
-
-Art. 79, sono costituiti presso la Facolta' di lettere e filosofia i seguenti Istituti:
-
-Istituto di Glottologia;
-
-Istituto di Paleografia latina e diplomatica;
-
-Istituto di Geografia;
-
-Istituto di Archeologia e Storia dell'arte greca e romana;
-
-Istituto di Storia della filosofia;
-
-Istituto di Filosofia teoretica;
-
-Istituto di Pedagogia;
-
-Istituto di Filologia classica;
-
-Istituto di Filologia moderna;
-
-Istituto di Storia dell'arte medioevale e moderna.
-
-Tali Istituti hanno lo scopo di promuovere e coordinare l'insegnamento e la ricerca nelle discipline di loro pertinenza.
-
-Art. 80. - La Facolta' determina, con propria deliberazione, alla fine di ciascun anno e per l'anno accademico successivo quali siano gli insegnamenti ufficiali che si svolgeranno presso i singoli Istituti.
-
-Art. 81. - Ogni Istituto e' retto da un direttore che e' responsabile della amministrazione e del funzionamento dell'Istituto stesso.
-
-Norme particolari al riguardo potranno essere stabilite dalla Facolta' nei casi in cui se ne ravvisi l'opportunita'.
-
-Art. 82. - Qualora fra gli insegnamenti assegnati ad un Istituto ve ne sia uno solo tenuto da un professore di ruolo, questi e' di diritto il direttore dell'Istituto.
-
-Nel caso che vi siano piu' professori di ruolo, la Facolta' sentito il parere dei medesimi, designera', scegliendo fra di essi, il direttore dell'Istituto, che verra' nominato con decreto rettorale per un periodo di tre anni. Se un Istituto manca di professore di ruolo, la direzione verra' affidata di regola ad un professore di ruolo di materia affine, designato dalla Facolta' e nominato con decreto rettorale per un periodo di tre anni.
-
-Art. 83. - Possono essere addetti ad un Istituto assistenti, tecnici, bibliotecari, personale amministrativo e subalterni appartenenti ai ruoli universitari.
-
-Art. 84. - E' facolta' del direttore di un Istituto rilasciare a chi frequenta l'Istituto per almeno sei mesi un attestato degli studi compiuti e dei risultati raggiunti nelle ricerche.
-
-Art. 85. - Ogni Istituto potra' eventualmente disporre, secondo modalita' intese ad assicurare il raggiungimento delle finalita' nel modo piu' idoneo, di fondi per la ricerca e di borse di studio provenienti da enti pubblici o privati italiani e stranieri.
-
-Gli articoli da 85 a 89 riguardanti il Seminario di storia medioevale e moderna assumono la numerazione da 86 a 90. Gli attuali articoli da 90 a 105 riguardanti gli Istituti di "Paleografia latina e diplomatica, di Geografia e di Archeologia e storia dell'arte greca e romana" sono soppressi con il conseguente spostamento della successiva numerazione.
-
-Dopo l'art. 115 e con il conseguente spostamento della successiva numerazione sono inseriti i seguenti nuovi articoli, relativi alla costituzione e alla regolamentazione degli Istituti annessi alla Facolta' di Medicina e Chirurgia.
-
-Art. 116. - Sono costituiti presso la Facolta' di medicina e chirurgia i seguenti Istituti:
-
-1) Istituto di Anatomia umana normale;
-
-2) Istituto di Anatomia chirurgica e corso di operazioni;
-
-3) Istituto di Fisiologia umana;
-
-4) Istituto di Patologia generale;
-
-5) Istituto di Chimica biologica;
-
-6) Istituto di Microbiologia;
-
-7) Istituto di Farmacologia;
-
-8) Istituto di Patologia speciale medica e metodologia clinica;
-
-9) Istituto di Patologia speciale chirurgica e propedeutica clinica;
-
-10) Istituto di Anatomia e istologia patologica;
-
-11) Istituto di Clinica otorinolaringoiatrica;
-
-12) Istituto di Clinica medica generale e terapia medica;
-
-13) Istituto di Clinica chirurgica generale e terapia chirurgica;
-
-14) Istituto di Clinica pediatrica;
-
-15) Istituto di Clinica ostetrica e ginecologia;
-
-16) Istituto di Igiene;
-
-17) Istituto di Medicina legale e delle assicurazioni;
-
-18) Istituto di Clinica delle malattie nervose e mentali;
-
-19) Istituto di Clinica dermosifilopatica;
-
-20) Istituto di Clinica oculistica;
-
-21) Istituto di Clinica odontoiatrica;
-
-22) Istituto di Radiologia;
-
-23) Istituto di Puericultura;
-
-24) Istituto di Semeiotica medica;
-
-25) Istituto di Tisiologia;
-
-26) Istituto di Clinica delle malattie infettive;
-
-27) Istituto di Clinica delle malattie tropicali e subtropicali;
-
-28) Istituto di Medicina del lavoro;
-
-29) Istituto di Clinica ortopedica;
-
-30) Istituto di Psicologia.
-
-Tali Istituti hanno lo scopo di promuovere e coordinare l'insegnamento e la ricerca nelle discipline di loro pertinenza.
-
-Art. 117. - La Facolta' determina, con proprie deliberazioni alla fine di ciascun anno e per l'anno accademico successivo, quali siano gli insegnamenti ufficiali che si svolgeranno presso i singoli Istituti.
-
-Art. 118. - Ogni Istituto e' retto da un direttore, che e' responsabile dell'amministrazione nei limiti acconsentiti dalla legge e del funzionamento dell'Istituto stesso.
-
-Norme particolari a riguardo potranno essere stabilite dalla Facolta' nei casi in cui se ne ravvisi la opportunita'.
-
-Art. 119. - La direzione dell'Istituto e' affidata al titolare della cattedra da cui l'Istituto trae la denominazione.
-
-In mancanza di professore di ruolo, la direzione dell'istituto sara' affidata al professore incaricato dello insegnamento della rispettiva materia.
-
-Art. 120. - Possono essere addetti ad un Istituto assistenti, tecnici, bibliotecari, personale amministrativo e subalterno appartenenti ai ruoli universitari.
-
-E' facolta' del direttore di un Istituto di rilasciare a chi frequenta l'Istituto per almeno sei mesi un attestato degli studi compiuti e dei risultati raggiunti nelle ricerche.
-
-Art. 121. - Ogni Istituto potra' eventualmente disporre, secondo modalita' intese ad assicurare il raggiungimento delle finalita' nel modo piu' idoneo, di fondi per la ricerca e di borse di studio provenienti da enti pubblici e privati italiani e stranieri.
-
-Art. 146. - Agli insegnamenti complementari del corso di laurea in Scienze biologiche e' aggiunto quello di "Scienza dell'alimentazione".
-
-Art. 161. - Agli insegnamenti complementari del corso di laurea in Farmacia e' aggiunto quello di:
-
-"Chimica farmaceutica applicata".
-
-Dopo l'art. 166 e con il conseguente spostamento della successiva numerazione sono aggiunti i seguenti nuovi articoli, relativi alla costituzione e alla regolamentazione dell'Istituto di Chimica farmaceutica e tossicologia.
-
-Art. 167. - E' costituito, presso la Facolta' di farmacia, l'Istituto di chimica farmaceutica e tossicologica; esso ha lo scopo di promuovere e coordinare l'insegnamento e la ricerca nel settore della Chimica farmaceutica e tossicologica sia sul piano teorico che su quello pratico.
-
-Art. 168. - L'Istituto e' diretto dal titolare della Cattedra di chimica farmaceutica e tossicologica, e, in caso di vacanza, da un professore di ruolo di disciplina strettamente affine, designato dalla Facolta' e nominato con decreto rettorale, per un periodo di due anni, o comunque fino alla nomina del titolare dell'insegnamento.
-
-Il direttore e' responsabile dell'amministrazione e del funzionamento dell'Istituto stesso.
-
-Art. 169. - Nell'Istituto, con l'assenso del direttore, possono essere espletati gli insegnamenti affini di Tecnica e Legislazione farmaceutica con esercitazioni, di chimica bromatologica ed esercizi, di biochimica applicata e di chimica farmaceutica applicata.
-
-Nei laboratori annessi all'Istituto vengono svolti i corsi pratici di Esercitazioni di chimica farmaceutica e tossicologica.
-
-Nel caso si istituiscono Corsi di perfezionamento o di specializzazione per laureati in Farmacia, essi potranno essere espletati nell'Istituto medesimo.
-
-Art. 170. - E' in facolta' del direttore di rilasciare, a chi frequenti l'Istituto per almeno sei mesi, un attestato degli studi compiuti e dei risultati conseguiti nelle ricerche.
-
-Art. 171. - L'Istituto di chimica farmaceutica e tossicologica potra' eventualmente disporre, secondo modalita' intese ad assicurare il raggiungimento delle finalita' nel modo piu' idoneo di fondi per la ricerca e di borse di studio provenienti da enti pubblici e privati italiani e stranieri.
-
-Art. 180, relativo alle propedeuticita' nei corsi di laurea in Ingegneria e' modificato nel senso che nel n. 15 e' abolita la propedeuticita' dell'esame di "Elettronica applicata" rispetto all'esame di "Comunicazioni elettriche".
-
-Art. 185. - Agli insegnamenti complementari del triennio di applicazione del corso di laurea in Architettura e' aggiunto quello di "Caratteri dell'architettura moderna".
-
-Art. 209. - Agli insegnamenti complementari del corso di laurea in Scienze agrarie e' aggiunto quello di "Viticoltura" (semestrale).
-
-Dopo l'art. 235 e con il conseguente spostamento della successiva numerazione sono inseriti i seguenti nuovi articoli relativi all'istituzione della Scuola di perfezionamento in Diritto amministrativo e scienze dell'amministrazione.
-
-Art. 236. - E' istituita, presso la Facolta' di giurisprudenza, la Scuola di perfezionamento in Diritto amministrativo e Scienza dell'amministrazione.
-
-Art. 237. - Il corso degli studi ha la durata di due anni, al termine del quale viene rilasciato un diploma di perfezionamento in Diritto amministrativo e scienza dell'amministrazione. Il numero dei posti e' limitato a trenta per ogni anno.
-
-Art. 238. - Alla Scuola di perfezionamento possono essere ammessi i laureati in Giurisprudenza, in Scienze politiche ed in Economia e commercio.
-
-Art. 239. - Il Consiglio direttivo della Scuola e' composto da professori che insegnano nella Scuola stessa.
-
-Art. 240. - Direttore della Scuola e' di diritto il titolare della cattedra di Diritto amministrativo, in caso di vacanza esso sara' nominato dal rettore fra i componenti il Consiglio direttivo della Scuola, su proposta della Facolta'.
-
-Art. 241. - Nella Scuola si impartiscono i seguenti insegnamenti:
-
-A) fondamentali:
-
-1) Teoria generale del diritto;
-
-2) Principi costituzionali e politici dello Stato italiano;
-
-3) Istituzioni di diritto amministrativo;
-
-4) Diritto amministrativo speciale (I corso);
-
-5) Diritto amministrativo speciale (II corso);
-
-6) Diritto processuale amministrativo;
-
-7) Diritto pubblico dell'economia;
-
-8) Diritto degli enti comunitari;
-
-9) Diritto e politica tributaria;
-
-10) Contabilita' dello Stato e degli Enti pubblici;
-
-11) Economia e politica della finanza pubblica.
-
-12) Scienza dell'amministrazione;
-
-13) Metodologia delle scienze sociali e tecniche di ricerca amministrativa;
-
-14) Sociologia e psicologia applicata a fenomeno amministrativo;
-
-15) Tecnica dell'organizzazione amministrativa e delle imprese pubbliche;
-
-16) Tecnica dei servizi amministrativi.
-
-B) complementari:
-
-1) Legislazioni amministrative speciali;
-
-2) Diritto amministrativo comparato;
-
-3) Legislazione amministrativa straniera;
-
-4) Storia del diritto amministrativo;
-
-5) Principi del decentramento e delle autonomie locali;
-
-6) Amministrazione pubblica dell'economia.
-
-Art. 242. - Il richiedente l'ammissione al corso dovra' proporsi per il biennio un proprio piano di studi, redatto conformemente alle proprie finalita' sotto la guida del Consiglio direttivo.
-
-Esso dovra' comprendere nel primo anno: I principi costituzionali, le Istituzioni di diritto amministrativo e la Scienza dell'amministrazione; nel secondo anno: un Corso di Diritto amministrativo speciale ed il Diritto pubblico dell'economia e dovra' inoltre indicare, per ciascuno dei due anni, tre insegnamenti a scelta, di cui due almeno tra quelli fondamentali.
-
-Art. 243. - Gli esami di profitto sono dati per singole materie e alla fine di ciascun anno di corso.
-
-L'iscritto che ha superato l'esame di tutte le undici discipline previste dal suo piano e' ammesso alla fine del biennio all'esame di diploma.
-
-Art. 244. - L'esame di diploma consiste nella discussione orale di una relazione scritta che mira a risolvere o a contribuire a risolvere, con contributi personali, una questione di rilevante interesse relativa ad uno dei campi di insegnamento, nonche' di un colloquio su questioni di grande rilievo pratico che abbiano attinenza all'oggetto delle discipline seguite dal candidato.
-
-Art. 245. - La Commissione degli esami di profitto, e' nominata dal preside della Facolta', ed e' composta dal professore ufficiale della materia, che la presiede, e da due professori della Scuola.
-
-La Commissione per gli esami di diploma e' costituita da cinque membri e nominata dal rettore, fra gli insegnanti della Scuola, su proposta del Consiglio direttivo.
-
-Art. 246. - Gli iscritti alla Scuola sono tenuti a pagare le tasse, sopratasse e contributi, secondo quanto stabilito per gli studenti della Facolta' di giurisprudenza, nonche' la tassa di diploma, nella misura di L. 6000 ai sensi dell'[art. 7 della legge 18 dicembre 1951, n. 1551](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1951-12-18;1551~art7).
-
-Art. 247. - Gli iscritti alla Scuola, sono tenuti, altresi', a pagare un contributo speciale nella misura che sara' determinata annualmente dal Consiglio di amministrazione, previo parere della Facolta', su proposta del direttore della Scuola.
-
-Dopo l'art. 247 e con il conseguente spostamento della successiva numerazione, sono inseriti i seguenti nuovi articoli relativi all'istituzione della Scuola di perfezionamento in Diritto e procedura penale.
-
-Art. 248. - E' istituita presso la Facolta' di giurisprudenza la Scuola di perfezionamento in diritto e procedura penale, per la specializzazione nelle discipline particolari relative a queste materie.
-
-Art. 249. - La Scuola rilascia un diploma di perfezionamento in diritto e procedura penale.
-
-Art. 250. - La durata dei corsi di studio e' di due anni e possono iscriversi i laureati in Giurisprudenza.
-
-Il numero massimo degli iscritti e' di trenta per ogni anno di corso.
-
-Art. 251. - Gli insegnamenti della Scuola sono i seguenti:
-
-Fondamentali:
-
-1) Storia del diritto penale (1 anno);
-
-2) Tecnica dell'interpretazione della legge penale della legge processuale penale (1 anno);
-
-3) Problemi della dottrina del diritto penale (biennale);
-
-4) Esercitazioni pratiche di diritto penale (biennale);
-
-5) Problemi della dottrina della procedura penale (biennale);
-
-6) Esercitazioni pratiche di procedura penale (biennale).
-
-Complementari:
-
-1) Sociologia criminale;
-
-2) Diritto di polizia;
-
-3) Antropologia criminale;
-
-4) Psicopatologia criminale;
-
-5) Medicina legale applicata al diritto penale;
-
-6) Diritto penale militare;
-
-7) Diritto penitenziario;
-
-8) Diritto penale tributario;
-
-9) Diritto della circolazione stradale.
-
-Gli esami complementari si possono sostenere solo al secondo anno.
-
-Per ottenere il diploma e' necessario aver superato gli esami relativi alle materie fondamentali e gli esami relativi ad almeno due materie complementari.
-
-Art. 252. - La Commissione per gli esami speciali e' composta da tre insegnanti della Scuola; tra i quali l'insegnante della materia in esame.
-
-Il diploma viene conseguito attraverso la discussione di una dissertazione scritta dinanzi all'intero Consiglio direttivo della Scuola, costituito in Commissione di esame, dopo aver superato gli esami speciali di entrambi i corsi.
-
-Art. 253. - La Scuola e' diretta da un Consiglio formato dal direttore e dai docenti delle singole discipline. Il direttore viene nominato dal Consiglio della Facolta' di giurisprudenza nella persona del titolare della cattedra di diritto penale. Gli incarichi di insegnamento delle singole discipline sono conferiti dal Consiglio della Facolta' su proposta del direttore della Scuola, con l'approvazione del Senato accademico e del Consiglio di amministrazione dell'Universita' di Napoli.
-
-Art. 254. - I programmi di insegnamento sono approvati all'inizio di ogni anno dal Consiglio direttivo della Scuola.
-
-Art. 255. - Gli iscritti alla Scuola sono tenuti a pagare le tasse, soprattasse e contributi secondo quanto stabilito per gli studenti della Facolta' di giurisprudenza, e la tassa di diploma nella misura di L. 6000, ai sensi dell'[art. 7 della legge 18 dicembre 1951, numero 1551](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1951-12-18;1551~art7).
-
-Sono tenuti, altresi', a pagare un contributo speciale nella misura che sara' determinata annualmente dal Consiglio di amministrazione, previo parere della Facolta', su proposta del direttore della Scuola.
-
-Art. 393, relativo al corso di specializzazione in Ingegneria sanitaria e' abrogato e sostituito dal seguente: "Il corso si svolge presso l'Istituto di Acquedotti e fognature. Il direttore del corso e' il direttore del predetto Istituto".
-
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
-
-Dato a Roma, addi' 26 marzo 1963
-
-SEGNI
-
-GUI
-
-Visto, il Guardasigilli: BOSCO
-
-Registrato
-----------
-
-alla Corte dei conti, addi' 13 maggio 1963 Atti del Governo, registro n. 169, foglio n. 27. - VILLA
-
-Art. 1
-------
-
- IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Napoli, approvato con [regio decreto 20 aprile 1939, numero 1162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1162), modificato con [regio decreto 26 ottobre 1940, n. 1904](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;1904) e successivi;  
-Veduto il testo unico delle leggi sull'istruzione superiore approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita', accademiche dell'Universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
-Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro per la pubblica istruzione;  
+Dopo l'art. 379, e con il conseguente spostamento della numerazione degli articoli successivi, sono aggiunti i seguenti nuovi articoli relativi alla istituzione della scuola di specializzazione in diritto commerciale afferente alla facolta' di giurisprudenza.  
   
-Decreta:  
+Scuola di specializzazione in diritto commerciale  
   
-Lo statuto dell'Universita' degli studi di Napoli, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-Art. 42, relativo alle propedeuticita' del corso di laurea in Economia e Commercio e' modificato nel senso che i numeri 1 e 2 sono abrogati e sostituiti dai seguenti:  
-1. - Le istituzioni di Diritto privato per il Diritto commerciale, il Diritto del lavoro, il Diritto industriale, il Diritto della navigazione, il Diritto processuale civile, il Diritto internazionale.  
-2. - Le istituzioni di Diritto pubblico per il Diritto del lavoro, il Diritto amministrativo, il Diritto internazionale, il Diritto processuale civile.  
-Art. 66. - Agli insegnamenti complementari del corso di laurea in Lettere sono aggiunti quelli di "Epigrafia greca" di "Antichita' medioevale" e di "Etruscologia ed antichita' italiche". Nello stesso articolo dopo l'ultimo comma e' aggiunto il seguente: "La dissertazione di laurea deve essere scritta in italiano o in latino anche se si riferisce ad una letteratura straniera moderna".  
-Art. 73, relativo alle modalita' della dissertazione di laurea in Filosofia e' soppresso con il conseguente spostamento della successiva numerazione.  
-Gli articoli da 79 a 84 relativi all'Istituto di glottologia sono abrogati e sostituiti dai seguenti riguardanti la costituzione e regolamentazione degli Istituti annessi alla Facolta' di lettere e filosofia.  
-Art. 79, sono costituiti presso la Facolta' di lettere e filosofia i seguenti Istituti:  
-Istituto di Glottologia;  
-Istituto di Paleografia latina e diplomatica;  
-Istituto di Geografia;  
-Istituto di Archeologia e Storia dell'arte greca e romana;  
-Istituto di Storia della filosofia;  
-Istituto di Filosofia teoretica;  
-Istituto di Pedagogia;  
-Istituto di Filologia classica;  
-Istituto di Filologia moderna;  
-Istituto di Storia dell'arte medioevale e moderna.  
-Tali Istituti hanno lo scopo di promuovere e coordinare l'insegnamento e la ricerca nelle discipline di loro pertinenza.  
-Art. 80. - La Facolta' determina, con propria deliberazione, alla fine di ciascun anno e per l'anno accademico successivo quali siano gli insegnamenti ufficiali che si svolgeranno presso i singoli Istituti.  
-Art. 81. - Ogni Istituto e' retto da un direttore che e' responsabile della amministrazione e del funzionamento dell'Istituto stesso.  
-Norme particolari al riguardo potranno essere stabilite dalla Facolta' nei casi in cui se ne ravvisi l'opportunita'.  
-Art. 82. - Qualora fra gli insegnamenti assegnati ad un Istituto ve ne sia uno solo tenuto da un professore di ruolo, questi e' di diritto il direttore dell'Istituto.  
-Nel caso che vi siano piu' professori di ruolo, la Facolta' sentito il parere dei medesimi, designera', scegliendo fra di essi, il direttore dell'Istituto, che verra' nominato con decreto rettorale per un periodo di tre anni. Se un Istituto manca di professore di ruolo, la direzione verra' affidata di regola ad un professore di ruolo di materia affine, designato dalla Facolta' e nominato con decreto rettorale per un periodo di tre anni.  
-Art. 83. - Possono essere addetti ad un Istituto assistenti, tecnici, bibliotecari, personale amministrativo e subalterni appartenenti ai ruoli universitari.  
-Art. 84. - E' facolta' del direttore di un Istituto rilasciare a chi frequenta l'Istituto per almeno sei mesi un attestato degli studi compiuti e dei risultati raggiunti nelle ricerche.  
-Art. 85. - Ogni Istituto potra' eventualmente disporre, secondo modalita' intese ad assicurare il raggiungimento delle finalita' nel modo piu' idoneo, di fondi per la ricerca e di borse di studio provenienti da enti pubblici o privati italiani e stranieri.  
-Gli articoli da 85 a 89 riguardanti il Seminario di storia medioevale e moderna assumono la numerazione da 86 a 90. Gli attuali articoli da 90 a 105 riguardanti gli Istituti di "Paleografia latina e diplomatica, di Geografia e di Archeologia e storia dell'arte greca e romana" sono soppressi con il conseguente spostamento della successiva numerazione.  
-Dopo l'art. 115 e con il conseguente spostamento della successiva numerazione sono inseriti i seguenti nuovi articoli, relativi alla costituzione e alla regolamentazione degli Istituti annessi alla Facolta' di Medicina e Chirurgia.  
-Art. 116. - Sono costituiti presso la Facolta' di medicina e chirurgia i seguenti Istituti:  
-1) Istituto di Anatomia umana normale;  
-2) Istituto di Anatomia chirurgica e corso di operazioni;  
-3) Istituto di Fisiologia umana;  
-4) Istituto di Patologia generale;  
-5) Istituto di Chimica biologica;  
-6) Istituto di Microbiologia;  
-7) Istituto di Farmacologia;  
-8) Istituto di Patologia speciale medica e metodologia clinica;  
-9) Istituto di Patologia speciale chirurgica e propedeutica clinica;  
-10) Istituto di Anatomia e istologia patologica;  
-11) Istituto di Clinica otorinolaringoiatrica;  
-12) Istituto di Clinica medica generale e terapia medica;  
-13) Istituto di Clinica chirurgica generale e terapia chirurgica;  
-14) Istituto di Clinica pediatrica;  
-15) Istituto di Clinica ostetrica e ginecologia;  
-16) Istituto di Igiene;  
-17) Istituto di Medicina legale e delle assicurazioni;  
-18) Istituto di Clinica delle malattie nervose e mentali;  
-19) Istituto di Clinica dermosifilopatica;  
-20) Istituto di Clinica oculistica;  
-21) Istituto di Clinica odontoiatrica;  
-22) Istituto di Radiologia;  
-23) Istituto di Puericultura;  
-24) Istituto di Semeiotica medica;  
-25) Istituto di Tisiologia;  
-26) Istituto di Clinica delle malattie infettive;  
-27) Istituto di Clinica delle malattie tropicali e subtropicali;  
-28) Istituto di Medicina del lavoro;  
-29) Istituto di Clinica ortopedica;  
-30) Istituto di Psicologia.  
-Tali Istituti hanno lo scopo di promuovere e coordinare l'insegnamento e la ricerca nelle discipline di loro pertinenza.  
-Art. 117. - La Facolta' determina, con proprie deliberazioni alla fine di ciascun anno e per l'anno accademico successivo, quali siano gli insegnamenti ufficiali che si svolgeranno presso i singoli Istituti.  
-Art. 118. - Ogni Istituto e' retto da un direttore, che e' responsabile dell'amministrazione nei limiti acconsentiti dalla legge e del funzionamento dell'Istituto stesso.  
-Norme particolari a riguardo potranno essere stabilite dalla Facolta' nei casi in cui se ne ravvisi la opportunita'.  
-Art. 119. - La direzione dell'Istituto e' affidata al titolare della cattedra da cui l'Istituto trae la denominazione.  
-In mancanza di professore di ruolo, la direzione dell'istituto sara' affidata al professore incaricato dello insegnamento della rispettiva materia.  
-Art. 120. - Possono essere addetti ad un Istituto assistenti, tecnici, bibliotecari, personale amministrativo e subalterno appartenenti ai ruoli universitari.  
-E' facolta' del direttore di un Istituto di rilasciare a chi frequenta l'Istituto per almeno sei mesi un attestato degli studi compiuti e dei risultati raggiunti nelle ricerche.  
-Art. 121. - Ogni Istituto potra' eventualmente disporre, secondo modalita' intese ad assicurare il raggiungimento delle finalita' nel modo piu' idoneo, di fondi per la ricerca e di borse di studio provenienti da enti pubblici e privati italiani e stranieri.  
-Art. 146. - Agli insegnamenti complementari del corso di laurea in Scienze biologiche e' aggiunto quello di "Scienza dell'alimentazione".  
-Art. 161. - Agli insegnamenti complementari del corso di laurea in Farmacia e' aggiunto quello di:  
-"Chimica farmaceutica applicata".  
-Dopo l'art. 166 e con il conseguente spostamento della successiva numerazione sono aggiunti i seguenti nuovi articoli, relativi alla costituzione e alla regolamentazione dell'Istituto di Chimica farmaceutica e tossicologia.  
-Art. 167. - E' costituito, presso la Facolta' di farmacia, l'Istituto di chimica farmaceutica e tossicologica; esso ha lo scopo di promuovere e coordinare l'insegnamento e la ricerca nel settore della Chimica farmaceutica e tossicologica sia sul piano teorico che su quello pratico.  
-Art. 168. - L'Istituto e' diretto dal titolare della Cattedra di chimica farmaceutica e tossicologica, e, in caso di vacanza, da un professore di ruolo di disciplina strettamente affine, designato dalla Facolta' e nominato con decreto rettorale, per un periodo di due anni, o comunque fino alla nomina del titolare dell'insegnamento.  
-Il direttore e' responsabile dell'amministrazione e del funzionamento dell'Istituto stesso.  
-Art. 169. - Nell'Istituto, con l'assenso del direttore, possono essere espletati gli insegnamenti affini di Tecnica e Legislazione farmaceutica con esercitazioni, di chimica bromatologica ed esercizi, di biochimica applicata e di chimica farmaceutica applicata.  
-Nei laboratori annessi all'Istituto vengono svolti i corsi pratici di Esercitazioni di chimica farmaceutica e tossicologica.  
-Nel caso si istituiscono Corsi di perfezionamento o di specializzazione per laureati in Farmacia, essi potranno essere espletati nell'Istituto medesimo.  
-Art. 170. - E' in facolta' del direttore di rilasciare, a chi frequenti l'Istituto per almeno sei mesi, un attestato degli studi compiuti e dei risultati conseguiti nelle ricerche.  
-Art. 171. - L'Istituto di chimica farmaceutica e tossicologica potra' eventualmente disporre, secondo modalita' intese ad assicurare il raggiungimento delle finalita' nel modo piu' idoneo di fondi per la ricerca e di borse di studio provenienti da enti pubblici e privati italiani e stranieri.  
-Art. 180, relativo alle propedeuticita' nei corsi di laurea in Ingegneria e' modificato nel senso che nel n. 15 e' abolita la propedeuticita' dell'esame di "Elettronica applicata" rispetto all'esame di "Comunicazioni elettriche".  
-Art. 185. - Agli insegnamenti complementari del triennio di applicazione del corso di laurea in Architettura e' aggiunto quello di "Caratteri dell'architettura moderna".  
-Art. 209. - Agli insegnamenti complementari del corso di laurea in Scienze agrarie e' aggiunto quello di "Viticoltura" (semestrale).  
-Dopo l'art. 235 e con il conseguente spostamento della successiva numerazione sono inseriti i seguenti nuovi articoli relativi all'istituzione della Scuola di perfezionamento in Diritto amministrativo e scienze dell'amministrazione.  
-Art. 236. - E' istituita, presso la Facolta' di giurisprudenza, la Scuola di perfezionamento in Diritto amministrativo e Scienza dell'amministrazione.  
-Art. 237. - Il corso degli studi ha la durata di due anni, al termine del quale viene rilasciato un diploma di perfezionamento in Diritto amministrativo e scienza dell'amministrazione. Il numero dei posti e' limitato a trenta per ogni anno.  
-Art. 238. - Alla Scuola di perfezionamento possono essere ammessi i laureati in Giurisprudenza, in Scienze politiche ed in Economia e commercio.  
-Art. 239. - Il Consiglio direttivo della Scuola e' composto da professori che insegnano nella Scuola stessa.  
-Art. 240. - Direttore della Scuola e' di diritto il titolare della cattedra di Diritto amministrativo, in caso di vacanza esso sara' nominato dal rettore fra i componenti il Consiglio direttivo della Scuola, su proposta della Facolta'.  
-Art. 241. - Nella Scuola si impartiscono i seguenti insegnamenti:  
-A) fondamentali:  
-1) Teoria generale del diritto;  
-2) Principi costituzionali e politici dello Stato italiano;  
-3) Istituzioni di diritto amministrativo;  
-4) Diritto amministrativo speciale (I corso);  
-5) Diritto amministrativo speciale (II corso);  
-6) Diritto processuale amministrativo;  
-7) Diritto pubblico dell'economia;  
-8) Diritto degli enti comunitari;  
-9) Diritto e politica tributaria;  
-10) Contabilita' dello Stato e degli Enti pubblici;  
-11) Economia e politica della finanza pubblica.  
-12) Scienza dell'amministrazione;  
-13) Metodologia delle scienze sociali e tecniche di ricerca amministrativa;  
-14) Sociologia e psicologia applicata a fenomeno amministrativo;  
-15) Tecnica dell'organizzazione amministrativa e delle imprese pubbliche;  
-16) Tecnica dei servizi amministrativi.  
-B) complementari:  
-1) Legislazioni amministrative speciali;  
-2) Diritto amministrativo comparato;  
-3) Legislazione amministrativa straniera;  
-4) Storia del diritto amministrativo;  
-5) Principi del decentramento e delle autonomie locali;  
-6) Amministrazione pubblica dell'economia.  
-Art. 242. - Il richiedente l'ammissione al corso dovra' proporsi per il biennio un proprio piano di studi, redatto conformemente alle proprie finalita' sotto la guida del Consiglio direttivo.  
-Esso dovra' comprendere nel primo anno: I principi costituzionali, le Istituzioni di diritto amministrativo e la Scienza dell'amministrazione; nel secondo anno: un Corso di Diritto amministrativo speciale ed il Diritto pubblico dell'economia e dovra' inoltre indicare, per ciascuno dei due anni, tre insegnamenti a scelta, di cui due almeno tra quelli fondamentali.  
-Art. 243. - Gli esami di profitto sono dati per singole materie e alla fine di ciascun anno di corso.  
-L'iscritto che ha superato l'esame di tutte le undici discipline previste dal suo piano e' ammesso alla fine del biennio all'esame di diploma.  
-Art. 244. - L'esame di diploma consiste nella discussione orale di una relazione scritta che mira a risolvere o a contribuire a risolvere, con contributi personali, una questione di rilevante interesse relativa ad uno dei campi di insegnamento, nonche' di un colloquio su questioni di grande rilievo pratico che abbiano attinenza all'oggetto delle discipline seguite dal candidato.  
-Art. 245. - La Commissione degli esami di profitto, e' nominata dal preside della Facolta', ed e' composta dal professore ufficiale della materia, che la presiede, e da due professori della Scuola.  
-La Commissione per gli esami di diploma e' costituita da cinque membri e nominata dal rettore, fra gli insegnanti della Scuola, su proposta del Consiglio direttivo.  
-Art. 246. - Gli iscritti alla Scuola sono tenuti a pagare le tasse, sopratasse e contributi, secondo quanto stabilito per gli studenti della Facolta' di giurisprudenza, nonche' la tassa di diploma, nella misura di L. 6000 ai sensi dell'[art. 7 della legge 18 dicembre 1951, n. 1551](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1951-12-18;1551~art7).  
-Art. 247. - Gli iscritti alla Scuola, sono tenuti, altresi', a pagare un contributo speciale nella misura che sara' determinata annualmente dal Consiglio di amministrazione, previo parere della Facolta', su proposta del direttore della Scuola.  
-Dopo l'art. 247 e con il conseguente spostamento della successiva numerazione, sono inseriti i seguenti nuovi articoli relativi all'istituzione della Scuola di perfezionamento in Diritto e procedura penale.  
-Art. 248. - E' istituita presso la Facolta' di giurisprudenza la Scuola di perfezionamento in diritto e procedura penale, per la specializzazione nelle discipline particolari relative a queste materie.  
-Art. 249. - La Scuola rilascia un diploma di perfezionamento in diritto e procedura penale.  
-Art. 250. - La durata dei corsi di studio e' di due anni e possono iscriversi i laureati in Giurisprudenza.  
-Il numero massimo degli iscritti e' di trenta per ogni anno di corso.  
-Art. 251. - Gli insegnamenti della Scuola sono i seguenti:  
-Fondamentali:  
-1) Storia del diritto penale (1 anno);  
-2) Tecnica dell'interpretazione della legge penale della legge processuale penale (1 anno);  
-3) Problemi della dottrina del diritto penale (biennale);  
-4) Esercitazioni pratiche di diritto penale (biennale);  
-5) Problemi della dottrina della procedura penale (biennale);  
-6) Esercitazioni pratiche di procedura penale (biennale).  
-Complementari:  
-1) Sociologia criminale;  
-2) Diritto di polizia;  
-3) Antropologia criminale;  
-4) Psicopatologia criminale;  
-5) Medicina legale applicata al diritto penale;  
-6) Diritto penale militare;  
-7) Diritto penitenziario;  
-8) Diritto penale tributario;  
-9) Diritto della circolazione stradale.  
-Gli esami complementari si possono sostenere solo al secondo anno.  
-Per ottenere il diploma e' necessario aver superato gli esami relativi alle materie fondamentali e gli esami relativi ad almeno due materie complementari.  
-Art. 252. - La Commissione per gli esami speciali e' composta da tre insegnanti della Scuola; tra i quali l'insegnante della materia in esame.  
-Il diploma viene conseguito attraverso la discussione di una dissertazione scritta dinanzi all'intero Consiglio direttivo della Scuola, costituito in Commissione di esame, dopo aver superato gli esami speciali di entrambi i corsi.  
-Art. 253. - La Scuola e' diretta da un Consiglio formato dal direttore e dai docenti delle singole discipline. Il direttore viene nominato dal Consiglio della Facolta' di giurisprudenza nella persona del titolare della cattedra di diritto penale. Gli incarichi di insegnamento delle singole discipline sono conferiti dal Consiglio della Facolta' su proposta del direttore della Scuola, con l'approvazione del Senato accademico e del Consiglio di amministrazione dell'Universita' di Napoli.  
-Art. 254. - I programmi di insegnamento sono approvati all'inizio di ogni anno dal Consiglio direttivo della Scuola.  
-Art. 255. - Gli iscritti alla Scuola sono tenuti a pagare le tasse, soprattasse e contributi secondo quanto stabilito per gli studenti della Facolta' di giurisprudenza, e la tassa di diploma nella misura di L. 6000, ai sensi dell'[art. 7 della legge 18 dicembre 1951, numero 1551](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1951-12-18;1551~art7).  
-Sono tenuti, altresi', a pagare un contributo speciale nella misura che sara' determinata annualmente dal Consiglio di amministrazione, previo parere della Facolta', su proposta del direttore della Scuola.  
-Art. 393, relativo al corso di specializzazione in Ingegneria sanitaria e' abrogato e sostituito dal seguente: "Il corso si svolge presso l'Istituto di Acquedotti e fognature. Il direttore del corso e' il direttore del predetto Istituto".  
+Art. 380. - E' istituita presso l'Universita' di Napoli la scuola di specializzazione in diritto commerciale che conferisce il diploma di specializzazione in diritto commerciale.  
+Art. 381. - La direzione della scuola ha sede in Napoli, presso la facolta' di giurisprudenza.  
+Art. 382. - La scuola ha lo scopo di approfondire ed estendere la preparazione nelle discipline commercialistiche, di organizzare conferenze, seminari, convegni di studio e pubblicazioni.  
+Art. 383. - La durata del corso e' di due anni e non e' suscettibile di abbreviazione.  
+Art. 384. - Il numero degli iscritti e' di trenta per ogni anno e complessivamente di sessanta per l'intero corso di studi.  
+Art. 385. - Alla scuola sono ammessi solo i laureati in giurisprudenza, in scienze politiche, in economia e commercio e in scienze economiche-marittime. E' richiesto il diploma di abilitazione all'esercizio professionale qualora prescritto.  
+Art. 386. - Per l'ammissione alla scuola e' richiesto il superamento di esame consistente in una prova scritta che dovra' svolgersi mediante domande a risposte multiple, integrate eventualmente da un colloquio e d'una valutazione, in misura non superiore al 30% del punteggio complessivo a disposizione della commissione, dei seguenti titoli:  
+a) la tesi nella disciplina attinente alla specializzazione;  
+b) il voto di laurea;  
+c) il voto riportato negli esami di profitto del corso di laurea nelle materie concernenti la specializzazione;  
+d) le pubblicazioni delle predette materie.  
+Il punteggio dei predetti titoli e' quello stabilito dal decreto ministeriale del 16 settembre 1982 previsto dall'[art. 13, comma quinto, del decreto del Presidente della Repubblica 10 marzo 1982, n. 162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1982-03-10;162~art13-com5).  
+Sono ammessi alla scuola di specializzazione coloro che, in relazione al numero dei posti disponibili, si siano collocati in posizione utile nelle graduatorie compilate sulla base del punteggio complessivo riportato.  
+Art. 387. - Le materie di insegnamento sono le seguenti:  
+Materie obbligatorie:  
+1) diritto commerciale (biennale);  
+2) diritto industriale;  
+3) diritto d'autore;  
+4) diritto fallimentare;  
+5) diritto e legislazione bancaria;  
+6) diritto delle obbligazioni e dei contratti;  
+7) diritto privato comparato;  
+8) storia del diritto commerciale.  
+Materie opzionali:  
+1) diritto dell'impresa;  
+2) diritto commerciale europeo;  
+3) diritto della societa';  
+4) diritto comparato della societa';  
+5) diritto della borsa;  
+6) diritto delle assicurazioni;  
+7) diritto della navigazione;  
+8) diritto dei trasporti;  
+9) diritto cartolare;  
+10) diritto penale commerciale;  
+11) teoria giuridica del commercio internazionale;  
+12) diritto delle associazioni e fondazioni.  
+Gli insegnamenti sono cosi' ripartiti:  
+1° Anno:  
+diritto commerciale I;  
+storia del diritto commerciale;  
+diritto delle obbligazioni e dei contratti;  
+diritto privato comparato;  
+diritto industriale;  
+una materia opzionale.  
+2° Anno:  
+diritto commerciale II;  
+diritto e legislazione bancaria;  
+diritto fallimentare;  
+diritto d'autore;  
+una materia opzionale.  
+Art. 388. - La frequenza ai corsi e' obbligatoria.  
+Alla fine di ogni anno accademico lo specializzando deve sostenere un esame teorico-pratico per il passaggio all'anno di corso successivo. La commissione d'esame, di cui fanno parte il direttore della scuola ed i docenti delle materie relative all'anno di corso, esprimono un giudizio globale sul livello di preparazione del candidato nelle singole discipline e relative attivita' pratiche prescritte per l'anno di corso. Coloro che non supereranno detto esame potranno ripetere l'anno di corso una sola volta.  
+Art. 389. - Ai fini dell'ammissione all'esame teorico-pratico per il passaggio all'anno di corso successivo e dell'ultimo anno, gli specializzandi devono:  
+a) aver frequentato i corsi obbligatori;  
+b) aver frequentato i corsi opzionali prescelti;  
+c) aver svolto esercitazioni pratiche come la predisposizione del testo di contratti commerciali nominati e innominati e di modelli-tipo e formulari di contratti bancari e assicurativi, ovvero la esegesi di decisioni giurisprudenziali inerenti alle materie di insegnamento della scuola.  
+Gli specializzandi sono tenuti a documentare la loro frequenza ai corsi e alle attivita' pratiche svolte, con la apposizione della loro firma sui registri all'uopo predisposti.  
+L'esame di diploma si sostiene innanzi ad una commissione composta dal direttore e da due professori della scuola.  
+L'esame di diploma si sostiene innanzi ad una commissione composta dal direttore e da due professori della scuola.  
+A coloro che abbiano superato l'esame finale viene rilasciato il diploma di specializzazione.  
+Art. 391. - L'importo delle tasse e soprattasse dovute dagli iscritti alla scuola e' quello previsto dalle vigenti disposizioni di legge; i contributi sono stabiliti anno per anno dal consiglio di amministrazione.  
+Art. 392. - Per ciascuna scuola di specializzazione anche se comprendente piu' indirizzi e' costituito un unico consiglio presieduto da un direttore.  
+Il consiglio e' composto da docenti universitari di ruolo e dai professori a contratto previsti dall'[art. 4 del decreto del Presidente della Repubblica 10 marzo 1982, n. 162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1982-03-10;162~art4), ai quali sono affidate attivita' didattiche nella scuola, nonche' da una rappresentanza di tre specializzandi eletti secondo le modalita' di cui all'[art. 99 del decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382~art99). Il consiglio esercita le competenze spettanti, ai sensi dell'art. 94 del decreto del Presidente della Repubblica n. 382, al consiglio di corso di laurea in materia di coordinamento di insegnamenti. La direzione della scuola e' affidata a professore ordinario, straordinario o fuori ruolo che insegni anche nella scuola stessa. In caso di motivato impedimento la direzione della scuola e' affidata a professore associato che pure insegni nella scuola medesima.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 26 marzo 1963
+### Dato a Roma, addi' 13 marzo 1984
 
-SEGNI GUI
+PERTINI FALCUCCI
 
-Visto, il Guardasigilli: BOSCO
+Visto, il Guardasigilli: MARTINAZZOLI
 
-Registrato alla Corte dei conti, addi' 13 maggio 1963
+Registrato alla Corte dei conti, addi' 11 maggio 1984
 
-Atti del Governo, registro n. 169, foglio n. 27. - VILLA
+Registro n. 27 Istruzione, foglio n. 276

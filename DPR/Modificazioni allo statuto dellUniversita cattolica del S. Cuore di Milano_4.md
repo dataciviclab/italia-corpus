@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 ottobre 1968 n. 1563
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 23 settembre 1969 n. 1363
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 ottobre 1968 n. 1563
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 23 settembre 1969 n. 1363
+=================================================================
 
 Modificazioni allo statuto dell'Universita' cattolica del S. Cuore di Milano.
 -----------------------------------------------------------------------------
@@ -10,135 +10,388 @@ Modificazioni allo statuto dell'Universita' cattolica del S. Cuore di Milano.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto della libera Universita' cattolica del S. Cuore di Milano, approvato con [regio decreto 20 aprile 1939, n. 1163](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1163) e modificato con [regio decreto 26 ottobre 1940, n. 2030](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;2030) e successive modificazioni;
+Veduto lo statuto dell'Universita' cattolica del S. Cuore di Milano, approvato con [regio decreto 20 aprile 1939, n. 1163](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1163) e modificato con [regio decreto 26 ottobre 1940, n. 2030](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;2030), e successive modificazioni;
 
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
 
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652) e successive modificazioni;
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652); e successive modificazioni;
 
 Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
 
 Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;
 
-Riconosciuta la particolare necessita' di approvare la nuove modifiche proposte;
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
 
 Sentito il parere del Consiglio superiore della pubblica istruzione;
 
-Sulla
------
+Sulla proposta del Ministro per la pubblica istruzione:
 
-proposta del Ministro per la pubblica istruzione, di concerto con il Ministro per il tesoro; Decreta:
+Decreta:
+
+Lo statuto dell'Universita' cattolica del S. Cuore di Milano, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+
+Art. 2. - E' modificato nel senso che dopo il terzo comma e' aggiunto il seguente:
+
+"Nella facolta' di scienze politiche e' costituita la scuola di scienze politiche e sociali".
+
+Art. 5, relativo alle lauree e diplomi conferiti nell'universita', e' modificato nel senso che il terzo comma e abrogato e sostituito dal seguente:
+
+"Nella facolta' di scienze politiche: la laurea in scienze politiche, specificata nei seguenti indirizzi: A) politico-amministrativo; B) politico-economico; C) politico-internazionale; D) storico-politico; E) politico-sociale".
+
+Art. 11, relativo all'ordinamento del corso di laurea in scienze politiche e' abrogato e sostituito dal seguente:
+
+"Il corso degli studi, della durata di quattro anni, e' articolato in un biennio propedeutico comune per tutti gli indirizzi ed in cinque bienni specialistici in relazione agli indirizzi di cui all'art. 5.
+
+Gli insegnamenti del biennio propedeutico sono:
+
+1) Scienza della politica;
+
+2) Istituzioni di diritto pubblico;
+
+3) Sociologia;
+
+4) Statistica;
+
+5) Storia delle istituzioni politiche;
+
+6) Storia moderna (con esercitazioni di metodologia della ricerca storica);
+
+7) Storia delle dottrine politiche;
+
+8) Diritto costituzionale italiano e comparato;
+
+9) Economia politica.
+
+Per essere ammesso a frequentare il biennio specialistico lo studente deve aver superato gli esami relativi agli insegnamenti predetti e ad una lingua straniera moderna da lui scelta fra quelle appartenenti al gruppo anglo-germanico o al gruppo slavo ed effettivamente insegnate nell'ateneo. E' altresi' in potere del consiglio di facolta' stabilire che lo studente possa essere ammesso a frequentare determinati bienni specialistici soltanto dopo aver seguito con profitto un seminario di "Principi di logica e di matematica", e un seminario di "Metodologia del lavoro scientifico".
+
+Gli insegnamenti obbligatori del biennio specialistico per l'indirizzo politico-amministrativo sono i seguenti:
+
+1) Istituzioni di diritto privato;
+
+2) Diritto internazionale;
+
+3) Storia e sistemi delle relazioni fra Stato e Chiesa nell'eta' moderna;
+
+4) Diritto amministrativo (I anno);
+
+5) Diritto amministrativo (II anno);
+
+6) Storia dell'amministrazione pubblica.
+
+L'iscrizione e gli esami relativi ai primi tre fra gli insegnamenti predetti possono essere anticipati dallo studente, al secondo anno del biennio propedeutico. Per essere ammesso all'esame di laurea lo studente e' tenuto a superare gli esami relativi ai sei insegnamenti predetti, ad almeno quattro discipline scelte nell'elenco che la facolta' appositamente predispone per l'indirizzo all'inizio di ogni anno accademico, e ad una seconda lingua straniera moderna scelta fra quelle effettivamente insegnate nell'ateneo.
+
+Gli insegnamenti obbligatori del biennio specialistico per l'indirizzo politico-economico sono i seguenti:
+
+1) Istituzioni di diritto privato;
+
+2) Diritto internazionale;
+
+3) Statistica (corso superiore);
+
+4) Economia politica (corso superiore);
+
+5) Scienza delle finanze;
+
+6) Storia economica.
+
+L'iscrizione e gli esami relativi ai primi tre fra gli insegnamenti predetti possono essere anticipati dallo studente al secondo anno del biennio propedeutico. Per essere ammesso all'esame di laurea lo studente e' tenuto a superare gli esami relativi ai sei insegnamenti predetti, ad almeno quattro discipline scelte nell'elenco che la facolta' appositamente predispone per l'indirizzo all'inizio di ogni anno accademico, e ad una seconda lingua straniera moderna scelta fra quelle effettivamente insegnate nell'ateneo.
+
+Gli insegnamenti obbligatori del biennio specialistico per l'indirizzo politico-internazionale son i seguenti:
+
+1) Diritto internazionale;
+
+2) Storia delle relazioni e delle istituzioni internazionali (I anno);
+
+3) Storia e sistemi delle relazioni fra Stato e Chiesa nell'eta' moderna;
+
+4) Diritto internazionale (corso superiore);
+
+5) Storia delle relazioni e delle istituzioni internazionali (II anno);
+
+6) Organizzazione internazionale.
+
+L'iscrizione e gli esami relativi ai primi tre fra gli insegnamenti predetti possono essere anticipati dallo studente al secondo anno del biennio propedeutico.
+
+Per essere ammesso all'esame di laurea lo studente e' tenuto a superare gli esami relativi ai sei insegnamenti predetti, ad almeno quattro discipline scelte nell'elenco che la facolta' appositamente predispone per l'indirizzo all'inizio di ogni anno accademico, e ad una seconda lingua straniera moderna scelta fra quelle effettivamente insegnate nell'ateneo.
+
+Gli insegnamenti obbligatori del biennio specialistico per l'indirizzo storico-politico sono i seguenti:
+
+1) Storia moderna (corso superiore);
+
+2) Storia e sistemi delle relazioni fra Stato e Chiesa nell'eta' moderna;
+
+3) Storia economica;
+
+4) Storia contemporanea (I anno);
+
+5) Storia dell'amministrazione pubblica;
+
+6) Storia delle relazioni e delle istituzioni internazionali (I anno).
+
+L'iscrizione e gli esami relativi ai primi tre fra gli insegnamenti predetti possono essere anticipati dallo studente al secondo anno del biennio propedeutico.
+
+Per essere ammesso all'esame di laurea lo studente e' tenuto a superare gli esami relativi ai sei insegnamenti predetti, ad almeno quattro discipline scelte nell'elenco che la facolta' appositamente predispone per l'indirizzo all'inizio di ogni anno accademico, e ad una lingua straniera moderna scelta fra quelle effettivamente insegnate nell'ateneo.
+
+Gli insegnamenti obbligatori del biennio specialistico per l'indirizzo politico-sociale sono i seguenti:
+
+1) Metodologia delle scienze sociali;
+
+2) Sociologia (corso superiore);
+
+3) Psicologia;
+
+4) Storia del pensiero sociologico;
+
+5) Teoria e tecnica dell'informazione;
+
+6) Politica del lavoro e legislazione sociale.
+
+L'iscrizione e gli esami relativi ai primi tre fra gli insegnamenti predetti possono essere anticipati dallo studente al secondo anno del biennio propedeutico. Per essere ammesso all'esame di laurea lo studente e' tenuto a superare gli esami relativi ai sei insegnamenti predetti, ad almeno quattro discipline scelte nell'elenco che la facolta' appositamente predispone per l'indirizzo all'inizio di ogni anno accademico, e ad una seconda lingua straniera moderna scelta fra quelle effettivamente insegnate nell'ateneo.
+
+Gli articoli 56 e 57, concernenti le disposizioni relative alla laurea e alle propedeuticita' del corso di studi in scienze politiche sono abrogati e sostituiti dai seguenti:
+
+Art. 56. - L'esame di laurea consiste nella preparazione e nella discussione di una dissertazione scritta originale su di un argomento attinente l'indirizzo seguito dallo studente.
+
+Sul diploma di laurea vien fatta menzione dell'indirizzo seguito dallo studente.
+
+Art. 57. - Agli effetti della successione cronologica degli esami, le "Istituzioni di diritto pubblico" sono propedeutiche rispetto al "Diritto costituzionale italiano e comparato"; la "Statistica" e' propedeutica all'"Economia politica"; le "Istituzioni di diritto privato" (la' dove sono obbligatorie) sono propedeutiche al "Diritto amministrativo" e al "Diritto internazionale";
+
+il "Diritto internazionale" e' propedeutico alla "Organizzazione internazionale". Gli esami degli insegnamenti definiti "superiori" possono essere sostenuti soltanto dopo quelli dei rispettivi insegnamenti istituzionali.
+
+Spetta al consiglio della facolta' stabilire:
+
+I) le procedure didattiche e le modalita' degli esami di profitto;
+
+II) la distribuzione cronologica degli insegnamenti entro i bienni ed entro i singoli anni di corso con i relativi orari delle lezioni e delle esercitazioni;
+
+III) le modalita' del passaggio:
+
+a) alla facolta' da un altro corso di laurea;
+
+b) dall'uno all'altro indirizzo della facolta';
+
+c) dalla scuola di scienze politiche e sociali, di cui al successivo art. 91, alla facolta' e viceversa.
+
+Dopo l'art. 90 e con il conseguente spostamento della successiva numerazione sono inseriti i seguenti nuovi articoli, relativi alla istituzione, presso la facolta' di scienze politiche della scuola speciale in scienze politiche e sociali.
+
+TITOLO III
+
+FACOLTA' DI SCIENZE POLITICHE
+
+Scuola di scienze politiche e sociali
+
+(Scuola diretta a fini speciali)
+
+Art. 91. - La scuola di scienze politiche e sociali ha lo scopo di curare la preparazione del personale di concetto nelle amministrazioni pubbliche e private.
+
+Il corso degli studi ha la durata di due anni, al termine dei quali la scuola rilascia il diploma in scienze politiche e sociali.
+
+Possono essere ammessi a frequentare la scuola quanti posseggono la laurea rilasciata da qualsiasi facolta' o i titoli di studio che danno accesso alla laurea in scienze politiche. L'ammontare delle tasse, soprattasse e contributi per la scuola di scienze politiche e sociali, e' per ogni singolo anno eguale a quello stabilito per la facolta' di scienze politiche.
+
+Il consiglio della scuola, d'intesa con il consiglio di amministrazione, stabilisce prima dell'inizio di ogni anno accademico il numero massimo di coloro i quali possono essere ammessi a frequentare la scuola in conformita' alla disponibilita' finanziaria e alle strutture didattiche dell'ateneo.
+
+Art. 92. - Il corso degli studi e' articolato in un anno propedeutico e in un anno specialistico.
+
+Durante il primo anno lo studente deve seguire l'insegnamento delle seguenti discipline:
+
+1) Istituzioni di diritto pubblico;
+
+2) Istituzioni di diritto privato;
+
+3) Scienza della politica;
+
+4) Sociologia;
+
+5) Economia politica;
+
+6) Statistica.
+
+Durante il secondo anno lo studente deve seguire sei insegnamenti da lui scelti: a) fra quelli attivati dalla facolta' ai fini del corso di laurea nei suoi diversi indirizzi; b) fra gli insegnamenti impartiti dalle altre facolta' dell'ateneo; e c) in un gruppo di discipline pratico-applicative attivate per la scuola dalla facolta' e stabilite all'inizio di ogni anno accademico.
+
+Il piano di studi di questo secondo anno di corso e' soggetto all'approvazione da parte del consiglio della scuola, il quale predispone una serie di curriculi-tipo corrispondenti alle finalita' della scuola.
+
+Art. 93. - Il diploma in scienze politiche e sociali e' conferito allo studente il quale, avendo superato gli esami relativi ai dodici insegnamenti di cui all'articolo precedente e ad una lingua moderna straniera da lui scelta fra quelle effettivamente insegnate nella facolta', sostiene con esito favorevole un colloquio finale su argomento specifico determinato un mese prima della prova.
+
+Coloro i quali, avendo conseguito il diploma in scienze politiche e sociali, ed essendo in possesso dei titoli di studio necessari, intendono iscriversi al corso per il conseguimento della laurea in scienze politiche, possono chiedere al consiglio di facolta' il riconoscimento del corso di studi seguito presso la scuola e degli esami ivi sostenuti.
+
+Art. 94. - La scuola di scienze politiche e sociali ha un direttore ed un consiglio della scuola.
+
+Le funzioni di direttore spettano al preside della facolta' di scienze politiche.
+
+Il consiglio della scuola e' composto da tutti i professori di ruolo della facolta' di scienze politiche e dai professori incaricati degli insegnamenti specifici della scuola.
+
+Art. 95. - Gli insegnamenti della scuola di scienze politiche e sociali, quando non siano mutuati da quelli impartiti nella facolta' di scienze politiche o in altre facolta' dell'ateneo, sono conferiti per incarico dal consiglio di amministrazione, su proposta del consiglio della scuola, e con il parere favorevole del senato accademico.
+
+I professori incaricati della scuola di scienze politiche e sociali hanno lo stesso trattamento dei professori incaricati dell'Universita' cattolica.
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 23 settembre 1969.
+
+SARAGAT
+
+FERRARI AGGRADI
+
+Visto, il Guardasigilli: GAVA
+
+Registrato
+----------
+
+alla Corte dei conti, addi' 16 novembre 1970 Atti del Governo, registro n. 238, foglio n. 59. - CARUSO
 
 Art. 1
 ------
 
+ IL PRESIDENTE DELLA REPUBBLICA   
   
-E' istituita, in seno all'Universita' cattolica del S. Cuore di Milano, la facolta' di scienze matematiche, fisiche e naturali, con sede in Brescia.  
-
-Art. 2
-------
-
+Veduto lo statuto dell'Universita' cattolica del S. Cuore di Milano, approvato con [regio decreto 20 aprile 1939, n. 1163](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1163) e modificato con [regio decreto 26 ottobre 1940, n. 2030](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;2030), e successive modificazioni;   
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652); e successive modificazioni;   
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);   
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;   
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;   
+Sentito il parere del Consiglio superiore della pubblica istruzione;   
+Sulla proposta del Ministro per la pubblica istruzione:   
   
-Lo statuto dell'universita' predetta, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come dal testo annesso al presente decreto, vistato dal Ministro per la pubblica istruzione.  
-
-Art. 3
-------
-
+Decreta:   
   
-Le attribuzioni che le vigenti disposizioni di legge e di regolamento demandano al consiglio di facolta' sono esercitate da un apposito comitato composto da tre professori di ruolo e fuori ruolo nominati dal rettore della predetta universita', sentito il consiglio di amministrazione della stessa Universita' cattolica del S. Cuore di Milano.  
-I professori di ruolo che, in base alle vigenti disposizioni verranno a far parte della predetta facolta', saranno aggregati al comitato anzidetto. Tale comitato cessera' dalle sue funzioni allorche' alla facolta' stessa risulteranno assegnati tre professori di ruolo.  
-In ogni caso detto comitato non potra' rimanere in carica oltre un triennio e, qualora allo scadere del triennio medesimo non risultino assegnati alla facolta' tre professori di ruolo, il rettore dell'Universita' cattolica provvedera' alla nomina di un nuovo comitato con le stesse modalita' indicate nel primo comma del presente articolo.  
+Lo statuto dell'Universita' cattolica del S. Cuore di Milano, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
+  
+Art. 2. - E' modificato nel senso che dopo il terzo comma e' aggiunto il seguente:   
+"Nella facolta' di scienze politiche e' costituita la scuola di scienze politiche e sociali".   
+  
+Art. 5, relativo alle lauree e diplomi conferiti nell'universita', e' modificato nel senso che il terzo comma e abrogato e sostituito dal seguente:   
+"Nella facolta' di scienze politiche: la laurea in scienze politiche, specificata nei seguenti indirizzi: A) politico-amministrativo; B) politico-economico; C) politico-internazionale; D) storico-politico; E) politico-sociale".   
+  
+Art. 11, relativo all'ordinamento del corso di laurea in scienze politiche e' abrogato e sostituito dal seguente:   
+"Il corso degli studi, della durata di quattro anni, e' articolato in un biennio propedeutico comune per tutti gli indirizzi ed in cinque bienni specialistici in relazione agli indirizzi di cui all'art. 5.   
+Gli insegnamenti del biennio propedeutico sono:   
+1) Scienza della politica;   
+2) Istituzioni di diritto pubblico;   
+3) Sociologia;   
+4) Statistica;   
+5) Storia delle istituzioni politiche;   
+6) Storia moderna (con esercitazioni di metodologia della ricerca storica);   
+7) Storia delle dottrine politiche;   
+8) Diritto costituzionale italiano e comparato;   
+9) Economia politica.   
+  
+Per essere ammesso a frequentare il biennio specialistico lo studente deve aver superato gli esami relativi agli insegnamenti predetti e ad una lingua straniera moderna da lui scelta fra quelle appartenenti al gruppo anglo-germanico o al gruppo slavo ed effettivamente insegnate nell'ateneo. E' altresi' in potere del consiglio di facolta' stabilire che lo studente possa essere ammesso a frequentare determinati bienni specialistici soltanto dopo aver seguito con profitto un seminario di "Principi di logica e di matematica", e un seminario di "Metodologia del lavoro scientifico".   
+  
+Gli insegnamenti obbligatori del biennio specialistico per l'indirizzo politico-amministrativo sono i seguenti:   
+1) Istituzioni di diritto privato;   
+2) Diritto internazionale;   
+3) Storia e sistemi delle relazioni fra Stato e Chiesa nell'eta' moderna;   
+4) Diritto amministrativo (I anno);   
+5) Diritto amministrativo (II anno);   
+6) Storia dell'amministrazione pubblica.   
+  
+L'iscrizione e gli esami relativi ai primi tre fra gli insegnamenti predetti possono essere anticipati dallo studente, al secondo anno del biennio propedeutico. Per essere ammesso all'esame di laurea lo studente e' tenuto a superare gli esami relativi ai sei insegnamenti predetti, ad almeno quattro discipline scelte nell'elenco che la facolta' appositamente predispone per l'indirizzo all'inizio di ogni anno accademico, e ad una seconda lingua straniera moderna scelta fra quelle effettivamente insegnate nell'ateneo.   
+  
+Gli insegnamenti obbligatori del biennio specialistico per l'indirizzo politico-economico sono i seguenti:   
+1) Istituzioni di diritto privato;   
+2) Diritto internazionale;   
+3) Statistica (corso superiore);   
+4) Economia politica (corso superiore);   
+5) Scienza delle finanze;   
+6) Storia economica.   
+  
+L'iscrizione e gli esami relativi ai primi tre fra gli insegnamenti predetti possono essere anticipati dallo studente al secondo anno del biennio propedeutico. Per essere ammesso all'esame di laurea lo studente e' tenuto a superare gli esami relativi ai sei insegnamenti predetti, ad almeno quattro discipline scelte nell'elenco che la facolta' appositamente predispone per l'indirizzo all'inizio di ogni anno accademico, e ad una seconda lingua straniera moderna scelta fra quelle effettivamente insegnate nell'ateneo.   
+  
+Gli insegnamenti obbligatori del biennio specialistico per l'indirizzo politico-internazionale son i seguenti:   
+1) Diritto internazionale;   
+2) Storia delle relazioni e delle istituzioni internazionali (I anno);   
+3) Storia e sistemi delle relazioni fra Stato e Chiesa nell'eta' moderna;   
+4) Diritto internazionale (corso superiore);   
+5) Storia delle relazioni e delle istituzioni internazionali (II anno);   
+6) Organizzazione internazionale.   
+  
+L'iscrizione e gli esami relativi ai primi tre fra gli insegnamenti predetti possono essere anticipati dallo studente al secondo anno del biennio propedeutico.   
+Per essere ammesso all'esame di laurea lo studente e' tenuto a superare gli esami relativi ai sei insegnamenti predetti, ad almeno quattro discipline scelte nell'elenco che la facolta' appositamente predispone per l'indirizzo all'inizio di ogni anno accademico, e ad una seconda lingua straniera moderna scelta fra quelle effettivamente insegnate nell'ateneo.   
+  
+Gli insegnamenti obbligatori del biennio specialistico per l'indirizzo storico-politico sono i seguenti:   
+1) Storia moderna (corso superiore);   
+2) Storia e sistemi delle relazioni fra Stato e Chiesa nell'eta' moderna;   
+3) Storia economica;   
+4) Storia contemporanea (I anno);   
+5) Storia dell'amministrazione pubblica;   
+6) Storia delle relazioni e delle istituzioni internazionali (I anno).   
+  
+L'iscrizione e gli esami relativi ai primi tre fra gli insegnamenti predetti possono essere anticipati dallo studente al secondo anno del biennio propedeutico.   
+Per essere ammesso all'esame di laurea lo studente e' tenuto a superare gli esami relativi ai sei insegnamenti predetti, ad almeno quattro discipline scelte nell'elenco che la facolta' appositamente predispone per l'indirizzo all'inizio di ogni anno accademico, e ad una lingua straniera moderna scelta fra quelle effettivamente insegnate nell'ateneo.   
+  
+Gli insegnamenti obbligatori del biennio specialistico per l'indirizzo politico-sociale sono i seguenti:   
+1) Metodologia delle scienze sociali;   
+2) Sociologia (corso superiore);   
+3) Psicologia;   
+4) Storia del pensiero sociologico;   
+5) Teoria e tecnica dell'informazione;   
+6) Politica del lavoro e legislazione sociale.   
+  
+L'iscrizione e gli esami relativi ai primi tre fra gli insegnamenti predetti possono essere anticipati dallo studente al secondo anno del biennio propedeutico. Per essere ammesso all'esame di laurea lo studente e' tenuto a superare gli esami relativi ai sei insegnamenti predetti, ad almeno quattro discipline scelte nell'elenco che la facolta' appositamente predispone per l'indirizzo all'inizio di ogni anno accademico, e ad una seconda lingua straniera moderna scelta fra quelle effettivamente insegnate nell'ateneo.   
+Gli articoli 56 e 57, concernenti le disposizioni relative alla laurea e alle propedeuticita' del corso di studi in scienze politiche sono abrogati e sostituiti dai seguenti:   
+  
+Art. 56. - L'esame di laurea consiste nella preparazione e nella discussione di una dissertazione scritta originale su di un argomento attinente l'indirizzo seguito dallo studente.   
+Sul diploma di laurea vien fatta menzione dell'indirizzo seguito dallo studente.   
+  
+Art. 57. - Agli effetti della successione cronologica degli esami, le "Istituzioni di diritto pubblico" sono propedeutiche rispetto al "Diritto costituzionale italiano e comparato"; la "Statistica" e' propedeutica all'"Economia politica"; le "Istituzioni di diritto privato" (la' dove sono obbligatorie) sono propedeutiche al "Diritto amministrativo" e al "Diritto internazionale";   
+il "Diritto internazionale" e' propedeutico alla "Organizzazione internazionale". Gli esami degli insegnamenti definiti "superiori" possono essere sostenuti soltanto dopo quelli dei rispettivi insegnamenti istituzionali.   
+Spetta al consiglio della facolta' stabilire:   
+I) le procedure didattiche e le modalita' degli esami di profitto;   
+II) la distribuzione cronologica degli insegnamenti entro i bienni ed entro i singoli anni di corso con i relativi orari delle lezioni e delle esercitazioni;   
+III) le modalita' del passaggio:   
+a) alla facolta' da un altro corso di laurea;   
+b) dall'uno all'altro indirizzo della facolta';   
+c) dalla scuola di scienze politiche e sociali, di cui al successivo art. 91, alla facolta' e viceversa.   
+  
+Dopo l'art. 90 e con il conseguente spostamento della successiva numerazione sono inseriti i seguenti nuovi articoli, relativi alla istituzione, presso la facolta' di scienze politiche della scuola speciale in scienze politiche e sociali.   
+  
+TITOLO III   
+  
+FACOLTA' DI SCIENZE POLITICHE   
+  
+Scuola di scienze politiche e sociali   
+(Scuola diretta a fini speciali)   
+  
+Art. 91. - La scuola di scienze politiche e sociali ha lo scopo di curare la preparazione del personale di concetto nelle amministrazioni pubbliche e private.   
+Il corso degli studi ha la durata di due anni, al termine dei quali la scuola rilascia il diploma in scienze politiche e sociali.   
+Possono essere ammessi a frequentare la scuola quanti posseggono la laurea rilasciata da qualsiasi facolta' o i titoli di studio che danno accesso alla laurea in scienze politiche. L'ammontare delle tasse, soprattasse e contributi per la scuola di scienze politiche e sociali, e' per ogni singolo anno eguale a quello stabilito per la facolta' di scienze politiche.   
+Il consiglio della scuola, d'intesa con il consiglio di amministrazione, stabilisce prima dell'inizio di ogni anno accademico il numero massimo di coloro i quali possono essere ammessi a frequentare la scuola in conformita' alla disponibilita' finanziaria e alle strutture didattiche dell'ateneo.   
+  
+Art. 92. - Il corso degli studi e' articolato in un anno propedeutico e in un anno specialistico.   
+Durante il primo anno lo studente deve seguire l'insegnamento delle seguenti discipline:   
+1) Istituzioni di diritto pubblico;   
+2) Istituzioni di diritto privato;   
+3) Scienza della politica;   
+4) Sociologia;   
+5) Economia politica;   
+6) Statistica.   
+  
+Durante il secondo anno lo studente deve seguire sei insegnamenti da lui scelti: a) fra quelli attivati dalla facolta' ai fini del corso di laurea nei suoi diversi indirizzi; b) fra gli insegnamenti impartiti dalle altre facolta' dell'ateneo; e c) in un gruppo di discipline pratico-applicative attivate per la scuola dalla facolta' e stabilite all'inizio di ogni anno accademico.   
+Il piano di studi di questo secondo anno di corso e' soggetto all'approvazione da parte del consiglio della scuola, il quale predispone una serie di curriculi-tipo corrispondenti alle finalita' della scuola.   
+Art. 93. - Il diploma in scienze politiche e sociali e' conferito allo studente il quale, avendo superato gli esami relativi ai dodici insegnamenti di cui all'articolo precedente e ad una lingua moderna straniera da lui scelta fra quelle effettivamente insegnate nella facolta', sostiene con esito favorevole un colloquio finale su argomento specifico determinato un mese prima della prova.   
+Coloro i quali, avendo conseguito il diploma in scienze politiche e sociali, ed essendo in possesso dei titoli di studio necessari, intendono iscriversi al corso per il conseguimento della laurea in scienze politiche, possono chiedere al consiglio di facolta' il riconoscimento del corso di studi seguito presso la scuola e degli esami ivi sostenuti.   
+  
+Art. 94. - La scuola di scienze politiche e sociali ha un direttore ed un consiglio della scuola.   
+Le funzioni di direttore spettano al preside della facolta' di scienze politiche.   
+Il consiglio della scuola e' composto da tutti i professori di ruolo della facolta' di scienze politiche e dai professori incaricati degli insegnamenti specifici della scuola.   
+  
+Art. 95. - Gli insegnamenti della scuola di scienze politiche e sociali, quando non siano mutuati da quelli impartiti nella facolta' di scienze politiche o in altre facolta' dell'ateneo, sono conferiti per incarico dal consiglio di amministrazione, su proposta del consiglio della scuola, e con il parere favorevole del senato accademico.   
+I professori incaricati della scuola di scienze politiche e sociali hanno lo stesso trattamento dei professori incaricati dell'Universita' cattolica.   
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 14 ottobre 1968
+### Dato a Roma, addi' 23 settembre 1969.
 
-SARAGAT SCAGLIA - COLOMBO
+SARAGAT FERRARI AGGRADI
 
 Visto, il Guardasigilli: GAVA
 
-Registrato alla Corte dei conti, addi' 7 giugno 1969
+Registrato alla Corte dei conti, addi' 16 novembre 1970
 
-Atti del Governo, registro n. 227, foglio n. 27. - GRECO
-
-Allegato
-
-Testo delle modifiche allo statuto della libera Universita' cattolica del S. Cuore di Milano, relative alla istituzione della facolta' di scienze matematiche, fisiche e naturali.   
-  
-Art. 2. - E' modificato nel senso che all'elenco delle facolta' che costituiscono l'Universita' cattolica e' aggiunta la seguente:   
-"Facolta' di scienze matematiche, fisiche e naturali".   
-Art. 5. - E' modificato nel senso che viene aggiunto il seguente ultimo comma:   
-"Nella facolta' di scienze matematiche, fisiche e naturali: la laurea in matematica (indirizzo didattico); il biennio propedeutico di ingegneria.   
-Dopo l'art. 22, e con il conseguente spostamento della successiva numerazione e' inserito il seguente titolo IX con gli articoli 23 e 24 relativi al corso di laurea in matematica ed al biennio propedeutico di ingegneria.   
-  
-TITOLO IX   
-Facolta' di scienze matematiche, fisiche e naturali   
-  
-1) Laurea in matematica (indirizzo didattico).   
-Art. 23. - Titolo di ammissione al corso di laurea in matematica e' il diploma di maturita' classica o scientifica. Possono inoltre essere ammessi i diplomati degli istituiti tecnici industriali, agrari, nautici e per geometri ai sensi delle vigenti disposizioni di legge.   
-Gli insegnamenti del corso di laurea in matematica (indirizzo didattico) sono i seguenti:   
-Insegnamenti fondamentali:   
-1° Biennio:   
-Analisi matematica I   
-Geometria I   
-Algebra   
-Fisica generale I   
-Analisi matematica II   
-Geometria II   
-Fisica generale II   
-Meccanica razionale   
-2° Biennio:   
-Istituzioni di analisi superiore   
-Istituzioni di geometria superiore   
-Matematiche elementari da un punto di vista superiore   
-Matematiche complementari   
-Istituzioni di fisica matematica   
-Insegnamenti complementari:   
-Chimica con esercitazioni di laboratorio (per fisici)   
-Elaboratori elettronici   
-Fisica superiore   
-Istituzioni di fisica teorica   
-Logica matematica   
-Matematica finanziaria attuariale   
-Pedagogia delle scienze matematiche fisiche e naturali   
-Statistica matematica   
-Storia della matematica   
-Struttura della materia   
-2) Biennio propedeutico di ingegneria.   
-Art. 24. - Titolo di ammissione al corso di laurea in ingegneria e' il diploma di maturita' classica o scientifica. Possono inoltre essere ammessi i diplomati degli istituti tecnici industriali, nautici e per geometri, ai sensi delle vigenti disposizioni di legge.   
-Gli insegnamenti del biennio propedeutico di ingegneria sono i seguenti:   
-Insegnamenti fondamentali:   
-Analisi matematica I   
-Geometria I   
-Fisica I   
-Chimica   
-Disegno   
-Analisi matematica II   
-Geometria II   
-Meccanica razionale   
-Fisica II.   
-Il titolo I della parte V e' mutato come segue:   
-  
-Disposizioni comuni alle otto facolta'   
-  
-Nel titolo II - Disposizioni particolari per le varie facolta' - dopo l'art. 81 e con il conseguente spostamento della numerazione degli articoli successivi, e' inserito il seguente nuovo articolo.   
-Art. 82. - Per la laurea in matematica, ogni insegnamento comporta un esame. In particolare gli esami di analisi matematica I; geometria I, fisica generale I sono distinti da quelli di analisi matematica II, geometria II, fisica generale II. Potranno essere iscritti al secondo anno soltanto quegli studenti che abbiano superato almeno due degli esami di analisi matematica I, geometria I, Algebra.   
-I corsi e gli esami di analisi matematica I, geometria I e fisica generale I, sono rispettivamente propedeutici a quelli di analisi matematica II, geometrica II e fisica generale II.   
-Gli esami di analisi matematica I, geometria I, algebra, analisi matematica II, geometria II, meccanica razionale sono propedeutici agli esami del terzo anno.   
-Gli esami del primo biennio e del terzo anno sono propedeutici agli esami del quarto anno.   
-Nel secondo biennio lo studente deve scegliere due insegnamenti fra i complementari del proprio corso di laurea. Uno degli insegnamenti complementari dovra' essere ad indirizzo fisico.   
-Per essere ammesso all'esame di laurea lo studente dovra' aver superato tutti gli esami richiesti.   
-Ogni corso del primo biennio comporta un corso di esercitazioni che ne e' parte integrante.   
-La facolta' potra', qualora lo ritenga opportuno, stabilire un corso di esercitazioni per certi insegnamenti del terzo e quarto anno.   
-L'esame di laurea deve comprendere una esercitazione scritta e la discussione orale di due tesine.   
-Superato l'esame di laurea lo studente consegue il titolo di dottore in matematica.   
-La tabella n. 1 (art. 24) concernente i posti di ruolo dei professori e' modificata nel senso che viene fissato in cinque il numero dei posti di ruolo per la facolta' di scienze matematiche, fisiche e naturali.   
-  
-Visto, d'ordine del Presidente della Repubblica   
-  
-Il Ministro per la pubblica istruzione   
-SCAGLIA   
+Atti del Governo, registro n. 238, foglio n. 59. - CARUSO

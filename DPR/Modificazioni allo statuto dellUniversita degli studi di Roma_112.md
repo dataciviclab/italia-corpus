@@ -1,65 +1,66 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 06 gennaio 1982 n. 126
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 07 febbraio 1970 n. 317
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 06 gennaio 1982 n. 126
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 07 febbraio 1970 n. 317
+===============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Roma.
 ----------------------------------------------------------------
 
-IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
+Art. 1
+------
 
-Veduto lo statuto dell'Universita' di Roma, approvato con [regio decreto n. 1350 del 20 aprile 1939](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1350) e modificato con [regio decreto n. 1734 del 26 ottobre 1939](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-26;1734), e successive modifiche;
-
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
-
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
-
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
-
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
-
-Veduto il [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
-
-Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
-
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Roma e convalidati dal Consiglio universitario nazionale nel suo parere;
-
-Sentito il parere del Consiglio universitario nazionale;
-
-Sulla proposta del Ministro della pubblica istruzione;
-
-Decreta:
---------
-
-Lo statuto dell'Universita' di Roma, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
-
-Articolo unico
---------------
-
+ IL PRESIDENTE DELLA REPUBBLICA  
   
-Nell'art. 58, concernente il corso di laurea in lettere, nell'elenco degli insegnamenti complementari sono inseriti i seguenti insegnamenti:  
-storia contemporanea;  
-dialettologia italiana;  
-storia e critica del cinema;  
-glottodidattica.  
-Nell'art. 59, concernente il corso di laurea in filosofia, nell'elenco degli insegnamenti complementari e' inserito il seguente insegnamento:  
-glottodidattica.  
-Nell'art. 60, concernente il corso di laurea in lingue e letterature straniere moderne, nell'elenco degli insegnamenti complementari sono inseriti i seguenti insegnamenti:  
-dialettologia italiana;  
-glottodidattica.  
+Veduto lo statuto dell'Universita' degli studi di Roma, approvato con [regio decreto 20 aprile 1939, n. 1350](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1350) e modificato con [regio decreto 26 ottobre 1939, n. 1734](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-26;1734), e successive modificazioni;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
+Sentito il parere del Consiglio superiore della pubblica istruzione;  
+Sulla proposta del Ministro per la pubblica istruzione;  
+  
+Decreta:  
+  
+Lo statuto dell'Universita' degli studi di Roma, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+  
+Dopo l'art. 624 e con il conseguente spostamento della successiva numerazione sono inseriti i seguenti nuovi articoli relativi alla istituzione della scuola di specializzazione in chirurgia vascolare.  
+Scuola di specializzazione in chirurgia vascolare  
+Art. 625. - E' istituita, presso l'Istituto di prima patologia chirurgica, la scuola di specializzazione in chirurgia vascolare diretta dal titolare della cattedra stessa.  
+Art. 626. - La durata del corso degli studi per il conseguimento del diploma di "specialista in chirurgia vascolare" e' di tre anni.  
+Art. 627. - Alla scuola sono ammessi i laureati in medicina e chirurgia. Il numero massimo degli iscritti e' stabilito in quarantacinque per l'intero corso.  
+Art. 628. - Non saranno consentite abbreviazioni di corso ne' l'iscrizione contemporanea ad altre scuole di specializzazione.  
+Per l'ammissione agli esami sara' obbligatoria la frequenza alle lezioni ed alle esercitazioni pratiche. Il superamento degli esami di ciascun anno sara' condizione indispensabile per l'iscrizione all'anno successivo.  
+Alla fine del corso, per ottenere il diploma, i candidati dovranno presentare una dissertazione scritta su un argomento di chirurgia vascolare, da discutere in sede di diploma, e dovranno sostenere una prova clinica.  
+Art. 629. - Gli insegnamenti impartiti nella scuola sono i seguenti:  
+1° Anno:  
+1) Embriologia, anatomia macro e microscopica dell'apparato vascolare;  
+2) Fisiopatologia dell'apparato vascolare e della coagulazione sanguigna;  
+3) Anatomia patologica dell'apparato vascolare;  
+4) Semeiologia fisica e strumentale delle malattie vascolari;  
+5) Semeiologia radiologica delle malattie vascolari;  
+6) Vasculopatie di interesse medico e specialistico;  
+2° Anno:  
+7) Patologia e clinica delle malattie del sistema arterioso;  
+8) Patologia e clinica delle malattie del sistema venoso;  
+9) Patologia e clinica delle malattie del sistema linfatico;  
+10) Patologia e clinica delle malattie dei piccoli vasi;  
+3° Anno:  
+11) Nozioni di terapia medica delle malattie vascolari;  
+12) Terapia chirurgica delle malattie vascolari;  
+13) Chirurgia vascolare applicata a malattie dei vari organi.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 6 gennaio 1982
+### Dato a Roma, addi' 7 febbraio 1970
 
-PERTINI BODRATO
+SARAGAT FERRARI AGGRADI
 
-Visto, il Guardasigilli: DARIDA
+Visto, il Guardasigilli: REALE
 
-Registrato alla Corte dei conti, addi' 15 marzo 1982
+Registrato alla Corte dei conti, addi' 21 maggio 1970
 
-Registro n. 41 Istruzione, foglio n. 294
+Atti del Governo, registro n. 235, foglio n. 116. - CARUSO

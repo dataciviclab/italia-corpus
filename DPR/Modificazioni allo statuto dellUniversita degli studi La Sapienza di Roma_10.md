@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 09 aprile 1986 n. 416
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 17 maggio 1983 n. 391
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 09 aprile 1986 n. 416
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 17 maggio 1983 n. 391
 =============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi "La Sapienza" di Roma.
@@ -31,42 +31,31 @@ Veduto il parere del Consiglio universitario nazionale;
 Sulla proposta del Ministro della pubblica istruzione;
 
 Decreta:
+--------
 
 Lo statuto dell'Universita' "La Sapienza" di Roma, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
-Art. 1
-------
+Articolo unico
+--------------
 
   
-Nell'art. 92, relativo al corso di laurea in medicina e chirurgia, all'elenco degli insegnamenti complementari sono aggiunti i seguenti insegnamenti:  
-neuroendocrinologia;  
-neurochimica;  
-anatomia radiologica.  
-
-Art. 2
-------
-
-  
-Nell'art. 104, relativo al corso di laurea in chimica, all'elenco degli insegnamenti complementari dell'indirizzo organico-biologico e dell'indirizzo inorganico-chimico-fisico e' aggiunto l'insegnamento di "analisi degli inquinanti".  
-Nell'art. 105, relativo al corso di laurea in chimica industriale, all'elenco degli insegnamenti complementari sono aggiunti i seguenti insegnamenti:  
-analisi degli inquinanti;  
-analisi chimica strumentale con metodi elettrochimici;  
-analisi chimica strumentale mediante distribuzione tra fasi.  
-Nell'art. 110, relativo al corso di laurea in fisica, all'elenco degli insegnamenti complementari e' aggiunto, per gli indirizzi: generale, didattico e applicativo, l'insegnamento di "fisica del sistema solare".  
-Nell'art. 115, relativo al corso di laurea in scienze naturali, all'elenco degli insegnamenti complementari e' aggiunto l'insegnamento di "astronomia generale".  
+Art. 61 - nell'elenco degli insegnamenti complementari del corso di laurea in lingue e letterature straniere moderne e' inserito il seguente insegnamento:  
+letteratura tedesca moderna e contemporanea.  
+Art. 59 - nell'elenco degli insegnamenti complementari del corso di laurea in lettere sono inseriti i seguenti insegnamenti:  
+iconografia e iconologia;  
+storia della miniatura e delle arti minori;  
+storia del disegno, dell'incisione e della grafica.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 9 aprile 1986
+### Dato a Roma, addi' 17 maggio 1983
 
-COSSIGA
+PERTINI FALCUCCI
 
-FALCUCCI, Ministro della pubblica istruzione
+Visto, il Guardasigilli: DARIDA
 
-Visto, il Guardasigilli: MARTINAZZOLI
+Registrato alla Corte dei conti, addi' 11 agosto 1983
 
-Registrato alla Corte dei conti, addi' 11 luglio 1986
-
-Registro n. 56 Istruzione, foglio n. 14
+Registro n. 58 Istruzione, foglio n. 139

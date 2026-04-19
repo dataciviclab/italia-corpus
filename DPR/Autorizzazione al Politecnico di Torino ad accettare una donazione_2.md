@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 febbraio 1948 n. 348
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 marzo 1948 n. 353
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 febbraio 1948 n. 348
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 marzo 1948 n. 353
+============================================================
 
 Autorizzazione al Politecnico di Torino ad accettare una donazione.
 -------------------------------------------------------------------
@@ -12,7 +12,7 @@ Art. 1
 
 N.
 
-318. Decreto del Presidente della Repubblica 22 febbraio 1948, col quale, sulla proposta del Ministro per la pubblica istruzione, il Politecnico di Torino viene autorizzato ad accettare la donazione della somma di L. 200.000 nominali, in cartelle di rendita italiana 5%, disposta in suo favore dal sig. Tommaso Possio, con atto pubblico in data 19 aprile 1946, per l'istituzione di un premio di studio annuale da denominarsi "Premio prof. Camillo Possio" e da conferirsi ad un ingegnere laureato nel Politecnico di Torino, il quale abbia presentato la migliore tesi di laurea sopra un problema della dinamica dei fluidi, sia nel campo teorico che in quello applicato alla locomozione aerea ovvero al funzionamento delle macchine motrici ed operatrici a fluido.  
+353. Decreto del Presidente della Repubblica 5 marzo 1948, col quale, sulla proposta del Ministro per la pubblica istruzione, il Politecnico di Torino viene autorizzato ad accettare la donazione della somma di L. 200.000 nominali, in buoni del Tesoro novennali 4% a premi 1951, disposta in suo favore dai signori col. Pompeo Flamia, avv. Giordano Lorenzo, Crema Carlo, geometra Garelli Felice e dott. Cappelletto Francesco, con atto pubblico in data 7 marzo 1946, per l'istituzione di un premio di studio annuale da denominarsi "Premio di studio generale Perotti ing. Giuseppe, medaglia d'oro".  
   
 Visto, il Guardasigilli: GRASSI  
-Registrato alla Corte dei conti, addi' 5 aprile 1948
+Registrato alla Corte dei conti, addi' 16 aprile 1948

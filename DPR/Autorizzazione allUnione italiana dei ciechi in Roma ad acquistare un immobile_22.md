@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 16 febbraio 1976 n. 81
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 settembre 1984 n. 810
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 16 febbraio 1976 n. 81
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 settembre 1984 n. 810
+================================================================
 
 Autorizzazione all'Unione italiana dei ciechi, in Roma, ad acquistare un immobile.
 ----------------------------------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-81. Decreto del Presidente della Repubblica 16 febbraio 1976, col quale, sulla proposta del Presidente del Consiglio dei Ministri, l'Unione italiana dei ciechi, in Roma, viene autorizzata ad acquistare, al prezzo di L. 10.168.000, un appartamento facente parte del fabbricato, non ancora accatastato perche' di recente costruzione, sito in Alessandria, via Bergamo n. 2, al piano secondo, scala B, di mq 91 circa, di proprieta' della S.p.a. "Laurenzia Bergamo" in Torino, da adibire a sede della locale sezione provinciale.  
+810. Decreto del Presidente della Repubblica 14 settembre 1984, col quale, sulla proposta del Presidente del Consiglio dei Ministri, l'Unione italiana dei ciechi, in Roma, viene autorizzata ad acquistare dalla sig.ra Luciani Mafalda, al convenuto prezzo di L. 55.000.000 due appartamenti siti in Chieti, via P. A. Valignani n. 33, distinti nel nuovo catasto edilizio urbano alla partita 2127, foglio 36, mappale 77 sub 4 e 5, valutati con perizia di parte in L. 58.140.000, ritenuta congrua dall'ufficio tecnico erariale di Chieti.  
   
-Visto, il Guardasigilli: BONIFACIO  
-Registrato alla Corte dei conti, addi' 30 marzo 1976  
-Atti di Governo, registro n. 4, foglio n. 37
+Visto, il Guardasigilli: MARTINAZZOLI  
+Registrato alla Corte dei conti, addi' 24 novembre 1984  
+Registro n. 10 Presidenza, foglio n. 187

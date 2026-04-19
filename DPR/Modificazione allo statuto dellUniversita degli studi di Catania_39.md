@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 marzo 1983 n. 657
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 24 settembre 1985 n. 800
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 marzo 1983 n. 657
-============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 24 settembre 1985 n. 800
+================================================================
 
 Modificazione allo statuto dell'Universita' degli studi di Catania.
 -------------------------------------------------------------------
@@ -39,19 +39,21 @@ Articolo unico
 --------------
 
   
-Nell'art. 101, relativo al corso di laurea in "ingegneria elettrotecnica", nella lettera c) all'elenco degli insegnamenti dell'indirizzo "impianti elettrici" e' aggiunto il seguente nuovo insegnamento:  
-trasmissione dell'energia elettrica.  
+Nell'art. 51, relativo al corso di laurea in medicina e chirurgia, all'elenco degli insegnamenti complementari e aggiunto il seguente nuovo insegnamento:  
+fisica sanitaria.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 28 marzo 1983
+### Dato a Roma, addi' 24 settembre 1985
 
-PERTINI FALCUCCI
+COSSIGA
+
+FALCUCCI, Ministro della pubblica istruzione
 
 Visto, il Guardasigilli: MARTINAZZOLI
 
-Registrato alla Corte dei conti, addi' 23 novembre 1983
+Registrato alla Corte dei conti, addi' 19 dicembre 1985
 
-Registro n. 71 Istruzione, foglio n. 278
+Registro n. 86 Istruzione, foglio n. 143

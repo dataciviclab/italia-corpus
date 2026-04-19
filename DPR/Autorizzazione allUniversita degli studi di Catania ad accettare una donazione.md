@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 16 settembre 1976 n. 745
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 aprile 1955 n. 423
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 16 settembre 1976 n. 745
-================================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 aprile 1955 n. 423
+=============================================================
 
 Autorizzazione all'Universita' degli studi di Catania ad accettare una donazione.
 ---------------------------------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-745. Decreto del Presidente della Repubblica 16 settembre 1976, col quale, sulla proposta del Ministro per la pubblica istruzione, l'Universita' degli studi di Catania viene autorizzata ad accettare la donazione del monastero S. Nicolo' l'Arena (ex convento dei benedettini), censito al nuovo catasto edilizio urbano alla partita 4641 foglio 69/R particelle 3312 (parte), 22580, 22581, 22583, 22584, 22585, 22586, 22587, 22588, 22589, 22590, 22591 (parte), 22592, 22593, 22595, 22596, 22597, 22598, 22600, 23401, 23403, per un valore complessivo di L. 1.700.000.000, comprese le aree di sedime e pertinenza, disposta dal comune di Catania, e intesa per la sistemazione edilizia delle facolta' di lettere e magistero del predetto Ateneo.  
+423. Decreto del Presidente della Repubblica 2 aprile 1955, col quale, sulla proposta del Ministro per la pubblica istruzione, l'Universita' degli studi di Catania viene autorizzata ad accettare la donazione di L. 116.000 (centosedicimila), disposta in suo favore dalla sig.ra Luisa Lombardi vedova Libertini ad incremento del capitale del "Premio Guido Libertini".  
   
-Visto, il Guardasigilli: BONIFACIO  
-Registrato alla Corte dei conti, addi' 29 ottobre 1976  
-Atti di Governo, registro n. 11, foglio n. 18
+Visto, il Guardasigilli: DE PIETRO  
+Registrato alla Corte dei conti, addi' 6 maggio 1955  
+Atti del Governo, registro n. 90, foglio n. 135. CARLOMAGNO

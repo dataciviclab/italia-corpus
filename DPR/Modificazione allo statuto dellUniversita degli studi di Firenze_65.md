@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 17 maggio 1983 n. 663
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 novembre 1985 n. 1034
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 17 maggio 1983 n. 663
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 novembre 1985 n. 1034
+================================================================
 
 Modificazione allo statuto dell'Universita' degli studi di Firenze.
 -------------------------------------------------------------------
@@ -39,20 +39,22 @@ Articolo unico
 --------------
 
   
-Nell'art. 151, relativo al corso di laurea in scienze agrarie, agli insegnamenti complementari sono aggiunti i seguenti nuovi insegnamenti:  
-geopedologia;  
-costruzioni rurali e topografia.  
+Nell'art. 82, relativo al corso di laurea in scienze biologiche della facolta' di scienze matematiche, fisiche e naturali, all'elenco degli insegnamenti complementari sono aggiunti i seguenti insegnamenti:  
+fisiopatologia vegetale;  
+ultrastrutture vegetali.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 17 maggio 1983
+### Dato a Roma, addi' 22 novembre 1985
 
-PERTINI FALCUCCI
+COSSIGA
 
-Visto, il Guardasigilli: MARTINAZZOLI
+FALCUCCI, Ministro della pubblica istruzione
 
-Registrato alla Corte dei conti, addi' 23 novembre 1983
+Visto, il Guardasigilli MARTINAZZOLI
 
-Registro n. 71 Istruzione, foglio n. 274
+Registrato alla Corte dei conti, addi' 12 aprile 1986
+
+Registro n. 27 Istruzione, foglio n. 316

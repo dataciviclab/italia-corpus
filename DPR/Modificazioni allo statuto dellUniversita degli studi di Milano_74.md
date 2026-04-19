@@ -1,149 +1,85 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1981 n. 1051
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 20 giugno 1972 n. 454
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1981 n. 1051
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 20 giugno 1972 n. 454
+=============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Milano.
 ------------------------------------------------------------------
 
-IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
+Art. 1
+------
 
-Veduto lo statuto dell'Universita' di Milano, approvato con [regio decreto 4 novembre 1926, n. 2280](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-11-04;2280) e modificato con [regio decreto 13 ottobre 1927, n. 2233](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2233), e successive modificazioni;
-
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
-
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
-
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
-
-Veduta la [legge 22 maggio 1978, n. 217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-05-22;217);
-
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
-
-Veduto l'[art. 16 del decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382~art16);
-
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Milano e convalidati dal Consiglio universitario nazionale nel suo parere;
-
-Sentito il parere del Consiglio universitario nazionale;
-
-Veduta la necessita' di adeguare la norma sulla direzione delle scuole di perfezionamento, di specializzazione e delle scuole dirette a fini speciali a quanto disposto dall'art. 16 del citato [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
-
-Sulla
------
-
-proposta del Ministro della pubblica istruzione; Decreta:
-
-Articolo unico
---------------
-
+ IL PRESIDENTE DELLA REPUBBLICA  
   
+Veduto lo statuto dell'Universita' degli studi di Milano, approvato con [regio decreto 4 novembre 1926 numero 2280](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-11-04;2280) e modificato con [regio decreto 26 ottobre 1940, n. 2056](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;2056), e successive modificazioni;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
+Sentito il parere del Consiglio superiore della pubblica istruzione;  
+Sulla proposta del Ministro per la pubblica istruzione;  
   
-Lo statuto dell'Universita' di Milano, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
+Decreta:  
   
-Dopo l'art. 264, e con il conseguente spostamento della numerazione degli articoli successivi, e' aggiunto il seguente nuovo articolo relativo alla istituzione della scuola di specializzazione in pediatria preventiva e puericultura.   
+Lo statuto dell'Universita' degli studi di Milano, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+Art. 31. - All'elenco degli insegnamenti complementari del corso di laurea in chimica per gli indirizzi "organico-biologico" e "inorganico-chimico-fisico" sono aggiunti i seguenti:  
   
-Scuola di specializzazione in pediatria preventiva e puericultura   
-Art. 265. - Presso l'istituto di clinica pediatrica II dell'Universita' di Milano e' istituita la scuola di specializzazione in pediatria preventiva e puericultura.   
-Alla scuola stessa possono iscriversi esclusivamente i laureati in medicina e chirurgia.   
-E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale rilasciato dall'autorita' competente.   
-La scuola si propone di conferire la preparazione teorico-pratica sia nel campo della neonatologia e patologia neonatale, sia nel campo della pratica pediatrica preventiva e sociale, con particolare riguardo alla prevalente funzione preventiva e sociale della medicina infantile sul territorio, che il pediatra e' chiamato a svolgere.   
-Essa ha la durata di quattro anni ed e' articolata in due indirizzi:   
-a) neonatologia e patologia neonatale;   
-b) pediatria sociale.   
-Dopo un primo biennio comune ai due indirizzi, e' istituito un secondo biennio differenziato per ciascuno dei due indirizzi.   
-I medici che abbiano gia' conseguito la specializzazione in pediatria preventiva e puericultura con uno dei due indirizzi, potranno iscriversi direttamente al secondo biennio della scuola con l'altro indirizzo previsto dallo statuto.   
-Il numero massimo degli allievi che possono essere iscritti e' di trentadue (otto per anno) complessivamente per l'intera durata del corso di studi, bienni orientativi inclusi.   
-La direzione della scuola e' affidata a professore ordinario, straordinario o fuori ruolo che insegni anche nella scuola stessa. In caso di motivato impedimento la direzione della scuola e' affidata a professore associato che pure insegni nella scuola medesima.   
-Le materie di insegnamento sono:   
-BIENNIO PROPEDEUTICO COMUNE:   
-1° Anno:   
-1) anatomia e fisiologia dell'eta' evolutiva I;   
-2) elementi di ostetricia e ginecologia;   
-3) semeiotica infantile;   
-4) genetica medica;   
-5) elementi di laboratorio e biochimica clinica;   
-6) fisiologia della nutrizione;   
-7) metabolismo dell'eta' evolutiva I;   
-8) embriologia e fisiologia prenatali;   
-9) patologia infantile I;   
-10) alimentazione nell'eta' evolutiva.   
-2° Anno:   
-1) anatomia e fisiologia dell'eta' evolutiva II;   
-2) metabolismo dell'eta' evolutiva II;   
-3) patologia infantile II;   
-4) auxologia normale;   
-5) malattie infettive e loro prevenzione;   
-6) patologia prenatale;   
-7) patologia perinatale;   
-8) elementi di clinica pediatrica;   
-9) dietologia infantile;   
-10) anatomia patologica infantile;   
-11) O.R.L. e audiologia infantili;   
-12) oculistica e ottica fisio-patologica infantili.   
-INDIRIZZO DI NEONATOLOGIA E PATOLOGIA NEONATALE:   
-3° Anno:   
-1) clinica della gravidanza e del parto normale;   
-2) fisiopatologia embrio-fetale;   
-3) fisiologia neonatale;   
-4) biochimica neonatale;   
-5) immunologia neonatale;   
-6) diagnostica radiologica neonatale;   
-7) tecniche di laboratorio (con riferimento alla fisiopatologia neonatale);   
-8) patologia neonatale I;   
-9) assistenza al neonato sano ed ammalato;   
-10) semeiotica neonatale.   
-4° Anno:   
-1) patologia neonatale II;   
-2) il neonato a rischio;   
-3) farmacologia neonatale;   
-4) clinica e terapia neonatali;   
-5) rianimazione e terapia intensiva del neonato;   
-6) alimentazione del neonato sano e patologico;   
-7) anatomia patologica del feto e del neonato;   
-8) patologia chirurgica neonatale;   
-9) neurologia neonatale.   
-INDIRIZZO DI PEDIATRIA SOCIALE:   
-3° Anno:   
-1) adolescentologia I;   
-2) auxologia patologica ed endocrinologia infantile;   
-3) neuropsichiatria infantile;   
-4) epidemiologia, statistica medica e biometria;   
-5) epidemiologia e prevenzione di malattie di importanza sociale nell'eta' evolutiva;   
-6) igiene dell'alimentazione;   
-7) medicina scolastica e sua legislazione;   
-8) psicologia dell'eta' evolutiva;   
-9) fisioterapia e riabilitazione;   
-10) consulenza genetica sul territorio;   
-11) patologia e clinica delle malattie di importanza sociale nell'eta' evolutiva.   
-4° Anno:   
-1) adolescentologia II;   
-2) medicina dello sport nell'eta' evolutiva;   
-3) odontologia e odontoiatria;   
-4) ortopedia e traumatologia nell'eta' evolutiva;   
-5) legislazione ed assistenza sociale per l'infanzia e l'adolescenza;   
-6) informazione sanitaria;   
-7) servizi pubblici extra-ospedalieri di sanita' e assistenza per l'eta' evolutiva;   
-8) psicopedagogia;   
-9) sociologia applicata alla popolazione infantile.   
-Le norme generali per l'iscrizione, gli esami, le tasse, ecc., sono quelle che regolano le scuole di specializzazione dell'Universita' di Milano. La frequenza alle lezioni, alle esercitazioni pratiche nei reparti e' obbligatoria: gli allievi che non conseguono le attestazioni di frequenza non possono essere ammessi a sostenere le prove di esame.   
-Il tirocinio pratico durante il quarto anno della scuola per l'indirizzo neonatologia e patologia neonatale potra' essere svolto oltreche' presso l'istituto ove la scuola ha sede, presso strutture assistenziali che abbiano, a giudizio del consiglio della scuola, caratteristiche idonee allo scopo. Tale tirocinio sara' attestato per iscritto dal responsabile di ciascuna struttura.   
-Il tirocinio pratico durante il quarto anno per l'indirizzo di pediatria sociale, e' previsto sia svolto almeno in parte, in accordo con le amministrazioni competenti (regioni, province, comuni) presso strutture assistenziali sul territorio (consultori, ecc.) che abbiano, a giudizio del consiglio della scuola, caratteristiche idonee allo scopo. Tale tirocinio sara' attestato dall'ente responsabile della struttura.   
-Alla fine di ciascun anno di corso gli allievi, per essere ammessi agli anni successivi, debbono superare le prove di esame teorico-pratiche sulle materie impartite durante l'anno; per le materie a corso biennale, l'esame sara' sostenuto sotto forma di colloquio, al termine di ciascun anno.   
-Superati gli esami finali, l'allievo sosterra' l'esame di diploma, che potra' essere costituito anche da una dissertazione orale su un argomento precedentemente concordato.   
-All'allievo risultato idoneo verra' rilasciato il diploma di specialista in pediatria preventiva e puericultura, con espressa menzione dell'indirizzo seguito, valido a tutti gli effetti di legge.   
+Stereochimica;  
+Preparazioni di chimica organica.  
+Art. 34, relativo alle modalita' degli esami di laurea in chimica, e' modificato nel senso che il secondo comma e' abrogato e sostituito dal seguente:  
+"L'esame di laurea potra' comprendere anche la discussione di una tesina scritta riguardante argomenti di interesse chimico.  
+Art. 35. - All'elenco degli insegnamenti complementari del corso di laurea in chimica industriale sono aggiunti i seguenti:  
+  
+Stereochimica;  
+Preparazioni di chimica organica;  
+Strutturistica chimica.  
+Art. 38, relativo alle modalita' degli esami di laurea in chimica industriale, e' modificato nel senso che il comma b) e' soppresso e il comma a) e' integrato con la seguente frase:  
+"Potra' essere discusso anche uno studio e un progetto di impianto riguardante l'industria chimica".  
+Art. 45, relativo alle propedeuticita' degli esami per il corso di laurea in scienze naturali, e' modificato nel senso che il secondo comma e' abrogato e sostituito dal seguente:  
+"L'insegnamento biennale di zoologia comporta due esami: il primo di zoologia I (base), il secondo di zoologia II (complementi di zoologia).  
+L'insegnamento biennale di fisiologia generale comporta due esami: il primo di fisiologia generale I (base), il secondo di fisiologia generale II".  
+Art. 48, relativo alle propedeuticita' degli esami per il corso di laurea in scienze biologiche, e' modificato nel senso che il secondo periodo del primo comma e' abrogato e sostituito dal seguente:  
+"L'insegnamento biennale di zoologia comporta due esami: il primo di zoologia I (base), il secondo di zoologia II (complementi di zoologia).  
+L'insegnamento di fisiologia generale comporta due esami: il primo di fisiologia generale I (base), il secondo di fisiologia generale II".  
+Art. 267, relativo alla scuola in diritto e, legislazione veterinaria, e' modificato nel senso che la parola "perfezionamento" e' sostituita da quella di, "specializzazione".  
+Art. 269, relativo alle materie d'insegnamento della scuola di specializzazione in diritto e legislazione e' abrogato e sostituito dal seguente:  
+"Le materie di insegnamento sono:  
+1° Anno:  
+1) Elementi di diritto costituzionale: la disciplina sanitaria veterinaria;  
+2) Elementi di diritto amministrativo con specifica trattazione del diritto sanitario e veterinario;  
+3) Il potere giudiziale: nozioni generali;  
+4) L'amministrazione statale, parastatale e gli enti autarchici;  
+5) La legislazione veterinaria;  
+6) La legislazione internazionale in campo veterinario.  
+2° Anno:  
+1) L'organizzazione veterinaria e sanitaria in Italia;  
+2) Le norme di polizia veterinaria interne ed internazionali;  
+3) Gli alimenti di origine animale nell'attuale legislazione;  
+4) I mangimi nell'attuale legislazione;  
+5) Medicinali per uso veterinario;  
+6) Organizzazione professionale e previdenziale.  
+Art. 271, relativo alla suddetta scuola, e' modificato nel senso che il 2° comma e' abrogato e sostituito dal seguente:  
+"I posti disponibili al primo anno sono 25".  
+Art. 272. - E' modificato nel senso che la parola "perfezionamento" muta la denominazione in quella di "specializzazione".  
+Art. 276. - E' modificato nel senso che nel secondo comma le parole "cinque" e "tre" sono abrogate e sostituite rispettivamente da "sette" e "cinque".  
+Art. 279, relativo alla scuola in tecnologia e igiene delle carni, e' modificato nel senso che la parola perfezionamento" e' sostituita da quella di "specializzazione".  
+Art. 283, relativo alla suddetta scuola, e' modificato nel senso che il secondo comma e' abrogato e sostituito dal seguente:  
+"I posti disponibili al 1° anno sono 20".  
+Art. 284. - E' modificato nel senso che la parola "perfezionamento" muta la denominazione in quella di "specializzazione".  
+Art. 288. - E' abrogato e sostituito dal seguente:  
+"La commissione degli esami di diploma, composta da sette membri, e' presieduta dal preside della facolta' o da un suo delegato e ne fanno parte il direttore della scuola e cinque professori ufficiali da lui designati".  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 31 ottobre 1981
+### Dato a Roma, addi' 20 giugno 1972
 
-PERTINI BODRATO
+LEONE MISASI
 
-Visto, il Guardasigilli: DARIDA
+Visto, il Guardasigilli: GONELLA Registrato alla Corte dei conti addi' 10 agosto 1972
 
-Registrato alla Corte dei conti, addi' 24 febbraio 1982
-
-Registro n. 30 Istruzione, foglio n. 373
+Atti del Governo, registro n. 250, foglio n. 146. - VALENTINI

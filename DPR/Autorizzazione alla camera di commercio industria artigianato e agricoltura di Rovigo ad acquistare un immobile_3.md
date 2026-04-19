@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 15 luglio 1976 n. 687
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 agosto 1979 n. 783
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 15 luglio 1976 n. 687
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 agosto 1979 n. 783
 =============================================================
 
 Autorizzazione alla camera di commercio, industria, artigianato e agricoltura di Rovigo ad acquistare un immobile.
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-687. Decreto del Presidente della Repubblica 15 luglio 1976, col quale, sulla proposta del Ministro per l'industria, il commercio e l'artigianato, la camera di commercio, industria, artigianato e agricoltura di Rovigo viene autorizzata ad acquistare, al prezzo di L. 40.000.000, un complesso immobiliare denominato "Centro tori per la fecondazione artificiale" sito in Rovigo e distinto al nuovo catasto terreni alla partita n. 3763, foglio IX, mappale n. 420 ed al nuovo catasto edilizio urbano alla partita n. 5228, foglio IX, mappali numeri 420 sub 1, 420 sub 2 e 481, di proprieta' della Societa' polesana incremento zootecnia - S.P.I.Z., S.r.l. di Rovigo, allo scopo di effettuare la gestione diretta del predetto servizio di fecondazione artificiale nell'interesse della zootecnia provinciale.  
+783. Decreto del Presidente della Repubblica 11 agosto 1979, col quale, sulla proposta del Ministro dell'industria, del commercio e dell'artigianato, la camera di commercio, industria, artigianato e agricoltura di Rovigo viene autorizzata ad acquistare, al prezzo di L. 932.000, un appezzamento di terreno di mq 932 sito in comune di Lusia (Rovigo), censito al nuovo catasto terreni alla partita n. 1869, foglio n. 4, mappale n. 296, di proprieta' dei fratelli Bruno, Vittorino, Sante ed Umbertina Bassani, come da atto preliminare di compravendita 22 dicembre 1977, da destinare alla rettifica dei confini ed al completamento delle opere di recinzione della adiacente centrale ortofrutticola.  
   
-Visto, il Guardasigilli: BONIFACIO  
-Registrato alla Corte dei conti, addi' 25 settembre 1976  
-Atti di Governo, registro n. 9, foglio n. 35
+Visto, il Guardasigilli: MORLINO  
+Registrato alla Corte dei conti, addi' 31 dicembre 1979  
+Registro n. 12 Industria, foglio n. 66

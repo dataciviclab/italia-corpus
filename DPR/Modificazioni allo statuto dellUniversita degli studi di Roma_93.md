@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 21 luglio 1969 n. 597
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 giugno 1968 n. 807
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 21 luglio 1969 n. 597
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 giugno 1968 n. 807
 =============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Roma.
@@ -12,7 +12,7 @@ Art. 1
 
  IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Roma, approvato con [regio decreto 20 aprile 1939, n. 1350](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1350), e modificato con [regio decreto 26 ottobre 1939, n. 1734](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-26;1734), e successive modificazioni;  
+Veduto lo statuto dell'Universita' degli studi di Roma, approvato con [regio decreto 20 aprile 1939, n. 1350](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1350) e modificato con [regio decreto 26 ottobre 1939, n. 1734](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-26;1734), e successive modificazioni;  
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
@@ -25,106 +25,76 @@ Decreta:
   
 Lo statuto dell'Universita' degli studi di Roma, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
   
-Gli articoli 465, 466 e 467 relativi alla scuola di specializzazione in "Radiologia" e gli articoli 607, 608, 609, 610, 611, 612, 613, 614 e 615 relativi al corso di perfezionamento in "Medicina nucleare" sono abrogati e sostituiti dai seguenti:  
+Dopo l'art. 273 e con il conseguente spostamento della successiva numerazione sono aggiunti i seguenti nuovi articoli relativi all'istituzione della scuola di perfezionamento in filosofia e di preparazione all'insegnamento filosofico annessa alla facolta' di magistero.  
   
-Scuola di specializzazione in radiologia  
+Scuola di perfezionamento in filosofia e di preparazione all'insegnamento filosofico  
   
-Art. 465. - La scuola di specializzazione in "Radiologia" conferisce il diploma di specialista in radiologia che abilita all'esercizio specialistico della roentgendiagnostica, della radioterapia, della medicina nucleare (diagnostica e terapeutica) e il diploma di specialista in radiologia diagnostica, che abilita all'esercizio professionale specialistico della roentgendiagnostica.  
-Il numero degli specializzandi da ammettere alla scuola e' di 10 per anno.  
-Art. 466. - Diploma di specializzazione in radiologia: durata anni 4.  
-Programma d'insegnamento:  
-1° Anno:  
-1) Fisica, con particolare riguardo alla costituzione della materia, alla produzione, all'assorbimento ed alla misura delle radiazioni;  
-2) Nozioni sugli apparecchi ed istrumenti della radiologia;  
-3) Anatomia radiologica normale;  
-4) Fisiologia radiologica;  
-5) Tecnica radiologica generale;  
-6) Semeiotica radiologica generale;  
-7) Fondamenti di radiobiologia;  
-8) Nozioni di statistica e matematica.  
-2° Anno:  
-1) Tecnica e metodica dell'esame radiologico dei vari organi, apparati e sistemi;  
-2) Semeiotica radiologica speciale e diagnosi differenziale;  
-3) Fondamenti di radioterapia;  
-4) Danni da radiazioni e mezzi di protezione;  
-5) Dimostrazioni cliniche di diagnostica radiologica;  
-6) Dimostrazioni cliniche di radioterapia.  
-3° Anno:  
-1) Diagnostica radiologica differenziale;  
-2) Dimostrazioni di casistica di roentgendiagnostica con confronto del quadro anatomopatologico;  
-3) Dimostrazioni di casistica di roentgenterapia con particolare riferimento all'anatomia patologica;  
-4) Radioterapia tradizionale. Curieterapia;  
-5) Radioterapia con alte energie;  
-6) Elementi di medicina nucleare;  
-7) Istrumentario, tecnica e metodica di applicazione;  
-8) Dosimetria.  
-4° Anno:  
-1) Moderne tecniche di esplorazione e terapia radiologica;  
-2) Diagnostica e terapia con isotopi radioattivi somministrati per via interna;  
-3) Radiodiagnostica e radioterapia clinica (casistica);  
-4) Medicina legale e legislazione sanitaria in relazione alla radiologia.  
-I corsi saranno integrati da conferenze, esercitazioni, e seminari.  
-E' obbligatorio l'internato.  
-Art. 467. - Diploma di specializzazione in radiologia diagnostica: durata anni 3.  
-Programma di insegnamento:  
-1° Anno:  
-1) Fisica, con particolare riguardo alla costituzione della materia, alla produzione, all'assorbimento ed alla misura delle radiazioni;  
-2) Nozioni sugli apparecchi ed istrumenti della radiologia;  
-3) Anatomia radiologica normale;  
-4) Fisiologia radiologica;  
-5) Tecnica radiologica generale;  
-6) Semeiotica radiologica generale;  
-7) Fondamenti di radiobiologia;  
-8) Nozioni di statistica e matematica.  
-2° Anno:  
-1) Metodica di esplorazione dei vari organi e apparati;  
-2) Semeiotica radiologica speciale e diagnosi differenziale;  
-3) Nozioni generali sulle lesioni da radiazioni e mezzi di protezione;  
-4) Moderne tecniche di esplorazione radiologica.  
-3° Anno:  
-1) Esplorazione radiologica nella patologia dei vari organi ed apparati. Diagnostica differenziale. Rapporti con l'anatomia patologica;  
-2) Radiodiagnostica clinica;  
-3) Medicina legale e legislazione sanitaria in relazione alla radiologia.  
-I corsi saranno integrati da conferenze, esercitazioni e seminari.  
-E' obbligatorio l'internato.  
-  
-Scuola di specializzazione in medicina nucleare  
-  
-Art. 607. - La scuola di specializzazione in medicina nucleare ha la finalita' di fornire una preparazione specifica, teorica e pratica, per l'impiego diagnostico e per quello terapeutico dei radionuclidi.  
-Art. 608. - Il corso degli studi nella scuola ha la durata di tre anni accademici.  
-Art. 609. - Gli insegnamenti sono impartiti in collaborazione dalla 2° clinica medica e dall'Istituto di radiologia medica della Universita' di Roma.  
-Art. 610. - Alla scuola possono iscriversi i laureati in medicina e chirurgia.  
-E' previsto un concorso per l'ammissione.  
-Art. 611. - Il numero degli iscritti nei tre anni di corso non potra' essere superiore a trenta, dieci per ogni anno.  
-Art. 612. - Alla fine di ogni anno di corso saranno tenuti gli esami relativi agli insegnamenti impartiti.  
-Art. 613. - Per il conseguimento del diploma ogni allievo dovra' sostenere davanti all'apposita commissione la discussione di una tesi scritta su di un argomento di medicina nucleare.  
-Art. 614. - La direzione della scuola viene assunta ad anni alterni dal direttore dalla 20 clinica medica e dal direttore dell'Istituto di radiologia della Universita' di Roma, i quali concordano preventivamente ogni anno i programmi.  
-Art. 615. - Le materie di insegnamento riportate secondo i diversi anni di corso sono le seguenti:  
-1° Anno:  
-1) Fondamenti di matematica e di statistica;  
-2) Fisica nucleare e delle radiazioni;  
-3) Tecniche per le misure di radioattivita';  
-4) Dosimetria.  
-2° Anno:  
-1) Teoria dei traccianti;  
-2) Elementi di radiochimica;  
-3) Applicazioni diagnostica I;  
-4) Elementi di radiobiologia.  
-3° Anno:  
-1) Applicazioni diagnostica II;  
-2) Applicazioni terapeutiche;  
-3) Radioprotezione e legislazione.  
+Art. 274. - Alla scuola di perfezionamento in filosofia e di preparazione all'insegnamento filosofico possono essere iscritti i laureati nella facolta' di magistero, lettere e filosofia, giurisprudenza, scienze politiche, ed eventualmente di altre facolta', subordinatamente al parere favorevole del consiglio della scuola.  
+Possono essere ammessi, alle stesse condizioni, i cittadini stranieri forniti di titoli equipollenti alle lauree sopraindicate.  
+Art. 275. - La scuola ha due indirizzi:  
+a) preparazione all'insegnamento della filosofia nelle scuole secondarie;  
+b) specializzazione nella ricerca filosofica.  
+Art. 276. - La scuola rilascia due tipi di diploma, in relazione all'uno e all'altro degli indirizzi seguiti.  
+Gli studi per il conseguimento del diploma hanno la durata biennale.  
+Art. 277. - Le materie costitutive del piano di studi per il corso di preparazione professionale all'insegnamento filosofico sono:  
+a) problemi fondamentali e orientamenti storiografici della filosofia antica;  
+b) problemi fondamentali e orientamenti storiografici della filosofia medioevale;  
+c) problemi fondamentali e orientamenti storiografici della filosofia moderna;  
+d) problemi e correnti della filosofia contemporanea;  
+e) esercitazioni di didattica della filosofia;  
+f) psicologia dell'eta' evolutiva;  
+g) problemi e teoria dell'educazione;  
+h) sociologia dell'educazione;  
+i) filosofia e storia delle scienze;  
+l) storia delle dottrine politiche;  
+m) storia delle dottrine economiche;  
+n) propedeutica alle ricerche storiografiche;  
+o) estetica.  
+Art. 278. - Il piano di studi per il conseguimento del diploma di specializzazione nella ricerca filosofica sara' concordato entro il primo trimestre del primo anno di corso tra l'allievo e il docente della materia il cui allievo intende svolgere la dissertazione finale.  
+Tale piano dovra' comprendere la frequenza ad almeno due discipline per ogni anno di corso, scelte entro l'ambito dei seguenti insegnamenti:  
+a) problemi fondamentali e orientamenti storiografici della filosofia antica;  
+b) problemi fondamentali e orientamenti storiografici della filosofia medioevale;  
+c) problemi fondamentali e orientamenti storiografici della filosofia moderna;  
+d) problemi e correnti della filosofia contemporanea;  
+e) orientamenti contemporanei di filosofia delle scienze;  
+f) storia della filosofia del secolo XIX;  
+g) metodologia generale delle scienze morali;  
+h) metodologia generale delle scienze biologiche;  
+i) filosofia e analisi del linguaggio;  
+l) storia delle dottrine morali;  
+m) filosofia della religione;  
+n) fenomenologia della religione;  
+o) storia del cristianesimo;  
+p) ricerche di sociologia della conoscenza;  
+q) teorie della conoscenza e psicologia della percezione;  
+r) istituzioni di logica;  
+s) antropologia culturale;  
+t) estetica.  
+Art. 279. - Gli organi della scuola sono:  
+1) il direttore;  
+2) il consiglio.  
+Il direttore della scuola viene nominato dal rettore dell'universita' su proposta del consiglio della facolta' di magistero tra i professori della scuola; egli dura in carica un biennio accademico e puo' essere confermato.  
+Il direttore nomina i docenti della scuola, d'intesa col consiglio della facolta' di magistero.  
+Art. 230. - Il consiglio della scuola e' composto dal direttore, che lo presiede, dai docenti cui spettano gli insegnamenti, fondamentali e complementari, previsti dall'art. 277 e 278.  
+Spetta al consiglio della scuola: di determinare e coordinare i programmi degli insegnamenti e delle attivita' didattiche connesse, operare la selezione dei candidati, decidere su questioni disciplinari.  
+Art. 281. - Al termine del biennio gli iscritti, dopo aver superato gli esami degli insegnamenti fissati dal piano di studi ed un esame riassuntivo generale, sono ammessi all'esame di diploma.  
+L'esame di diploma di preparazione professionale all'insegnamento della filosofia consiste in una prova scritta di cultura filosofica, in una lezione di storia della filosofia, secondo gli attuali programmi della scuola secondaria, e in un colloquio sui programmi svolti in almeno cinque corsi previsti dall'ordinamento della scuola.  
+L'esame di diploma di specializzazione nella ricerca filosofica consiste nella presentazione di un lavoro scritto avente carattere di originalita', seguito dalla discussione orale intorno a detto lavoro.  
+Art. 282. - Le commissioni per gli esami di profitto sono composte dal professore della materia, in qualita' di presidente, e da due altri insegnanti della scuola.  
+La commissione per l'esame di diploma e' composta dal direttore, che la presiede, e da altri sei professori della scuola.  
+Ciascun commissario dispone di dieci punti.  
+Art. 283. - Gli iscritti alla scuola sono tenuti al versamento annuo delle tasse di iscrizione secondo quanto prevede il regolamento dell'Universita' degli studi di Roma per i corsi di laurea (da pagare in due rate uguali, la prima all'atto di iscrizione e la seconda entro il 31 marzo) nonche' al pagamento della tassa di diploma di cui all'[art. 7 della legge 18 dicembre 1951, n. 1551](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1951-12-18;1551~art7).  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 21 luglio 969
+### Dato a Roma, addi' 5 giugno 19%6
 
-SARAGAT FERRARI AGGRADI
+SARAGAT GUI
 
-Visto, il Guardasigilli: GAVA
+Visto, il Guardasigilli: GONELLA
 
-Registrato alla Corte dei conti, addi' 8 settembre 1969
+Registrato alla Corte dei conti, addi' 17 luglio 1963
 
-Atti del Governo, registro n. 229, foglio n. 14. - CARUSO
+Atti del Governo, registro n. 221, foglio n. 43. - GRECO

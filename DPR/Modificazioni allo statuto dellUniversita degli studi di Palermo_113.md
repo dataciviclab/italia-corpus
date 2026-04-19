@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 01 aprile 1963 n. 650
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 maggio 1986 n. 475
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 01 aprile 1963 n. 650
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 maggio 1986 n. 475
 =============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Palermo.
@@ -10,7 +10,9 @@ Modificazioni allo statuto dell'Universita' degli studi di Palermo.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' degli studi di Palermo, approvato con [regio decreto 14 ottobre 1926, n. 2412](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2412), e modificato con [regio decreto 13 ottobre 1927, n. 2240](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2240) e successivi Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+Veduto lo statuto dell'Universita' di Palermo, approvato con [regio decreto 14 ottobre 1926, n. 2412](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2412), e successive modificazioni;
+
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
 
@@ -18,76 +20,45 @@ Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/ur
 
 Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
 
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+Veduto il [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
 
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
+Veduta la [legge 30 ottobre 1981, n. 615](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-10-30;615);
 
-Sentito il parere del Consiglio superiore della pubblica istruzione;
+Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta ai sensi della citata legge n. 615;
 
-Sulla proposta del Ministro per la pubblica istruzione;
+Veduto il parere del Consiglio universitario nazionale;
+
+Sulla proposta del Ministro della pubblica istruzione;
 
 Decreta:
+--------
 
-Lo statuto dell'Universita' degli studi di Palermo, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+Lo statuto dell'Universita' di Palermo, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
-Art. 10. - Agli insegnamenti complementari del corso di laurea in Giurisprudenza sono aggiunti quelli di:
+Articolo unico
+--------------
 
-Diritto canonico;
-
-Diritto della navigazione.
-
-Art. 13, relativo alla propedeuticita' del corso di laurea in giurisprudenza: il primo comma e' abrogato e sostituito dal seguente: "Lo studente iscritto al corso di laurea in giurisprudenza non puo' sostenere gli esami di "Diritto civile", di "Diritto commerciale" e di "Diritto del lavoro" se non ha superato l'esame di "Istituzioni di diritto privato", gli esami di "Diritto romano" e di "Storia del diritto italiano" se non ha superato gli esami di "Istituzioni di diritto romano" e di "Storia del diritto romano", l'esame di "Scienza delle finanze e diritto finanziario" se non ha superato l'esame di "Economia politica", gli esami di "Diritto amministrativo" e di "Diritto del lavoro" se non ha superato l'esame di "Diritto costituzionale".
-
-Art. 23, relativo agli insegnamenti del corso di laurea in Lettere e' modificato nel senso che l'insegnamento complementare di "Letteratura delle tradizioni popolari", e' soppresso ed in sua sostituzione e' istituito l'insegnamento di "Storia delle tradizioni popolari".
-
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
-
-Dato a Roma, addi' 1 aprile 1963
-
-SEGNI
-
-GUI
-
-Visto, il Guardasigilli: BOSCO
-
-Registrato
-----------
-
-Corte dei conti, addi' 8 maggio 1963 Atti del Governo, registro n. 169, foglio n. 16. - VILLA
-
-Art. 1
-------
-
- IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Palermo, approvato con [regio decreto 14 ottobre 1926, n. 2412](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2412), e modificato con [regio decreto 13 ottobre 1927, n. 2240](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2240) e successivi Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
-Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro per la pubblica istruzione;  
-  
-Decreta:  
-  
-Lo statuto dell'Universita' degli studi di Palermo, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-Art. 10. - Agli insegnamenti complementari del corso di laurea in Giurisprudenza sono aggiunti quelli di:  
-Diritto canonico;  
-Diritto della navigazione.  
-Art. 13, relativo alla propedeuticita' del corso di laurea in giurisprudenza: il primo comma e' abrogato e sostituito dal seguente: "Lo studente iscritto al corso di laurea in giurisprudenza non puo' sostenere gli esami di "Diritto civile", di "Diritto commerciale" e di "Diritto del lavoro" se non ha superato l'esame di "Istituzioni di diritto privato", gli esami di "Diritto romano" e di "Storia del diritto italiano" se non ha superato gli esami di "Istituzioni di diritto romano" e di "Storia del diritto romano", l'esame di "Scienza delle finanze e diritto finanziario" se non ha superato l'esame di "Economia politica", gli esami di "Diritto amministrativo" e di "Diritto del lavoro" se non ha superato l'esame di "Diritto costituzionale".  
-Art. 23, relativo agli insegnamenti del corso di laurea in Lettere e' modificato nel senso che l'insegnamento complementare di "Letteratura delle tradizioni popolari", e' soppresso ed in sua sostituzione e' istituito l'insegnamento di "Storia delle tradizioni popolari".  
+Nell'art. 35, relativo al corso di laurea in lettere, all'elenco degli insegnamenti complementari sono aggiunti i seguenti nuovi insegnamenti:  
+archeologia umanistica e storia dell'archeologia;  
+storia del Mediterraneo antico orientale;  
+storia della storiografia greca.  
+Nell'art. 43, relativo al corso di laurea in lingue e letterature straniere moderne (indirizzo europeo), all'elenco degli insegnamenti complementari sono aggiunti i seguenti nuovi insegnamenti:  
+lingua italiana con esercitazioni pratiche;  
+semiotica.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 1 aprile 1963
+### Dato a Roma, addi' 2 maggio 1986
 
-SEGNI GUI
+COSSIGA
 
-Visto, il Guardasigilli: BOSCO
+FALCUCCI, Ministro della pubblica istruzione
 
-Registrato Corte dei conti, addi' 8 maggio 1963
+Visto, il Guardasigilli: MARTINAZZOLI
 
-Atti del Governo, registro n. 169, foglio n. 16. - VILLA
+Registrato alla Corte dei conti, addi' 19 luglio 1986
+
+Registro n. 58 Istruzione, foglio n. 277

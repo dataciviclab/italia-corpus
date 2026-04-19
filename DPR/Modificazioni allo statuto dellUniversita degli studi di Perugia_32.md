@@ -1,216 +1,99 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 24 ottobre 1979 n. 878
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 ottobre 1966 n. 995
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 24 ottobre 1979 n. 878
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 ottobre 1966 n. 995
 ==============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Perugia.
 -------------------------------------------------------------------
 
-IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
-
-Veduto lo statuto dell'Universita' di Perugia, approvato con [regio decreto 20 aprile 1939, n. 1107](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1107) e modificato con [regio decreto 2 ottobre 1940, n. 1471](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-02;1471), e successive modificazioni;
-
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
-
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
-
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
-
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
-
-Veduta la [legge 22 maggio 1978, n. 217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-05-22;217);
-
-Sentito il parere del Consiglio superiore della pubblica istruzione;
-
-Sulla
------
-
-proposta del Ministro della pubblica istruzione; Decreta:
-
 Art. 1
 ------
 
+ IL PRESIDENTE DELLA REPUBBLICA  
+  
+Veduto lo statuto dell'Universita' degli studi di Perugia, approvato con [regio decreto 20 aprile 1939, numero 1107](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1107), e modificato con [regio decreto 2 ottobre 1940, n. 1471](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-02;1471), e successive modificazioni;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936 n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
+Vedute le proposte di modifiche dello statuto formulate dalle Autorita' accademiche dell'Universita' anzidetta;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
+Sentito il parere del Consiglio superiore della pubblica istruzione;  
+Sulla proposta del Ministro per la pubblica istruzione;  
+  
+Decreta:  
   
 Lo statuto dell'Universita' degli studi di Perugia, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-L'art. 107, relativo alla scuola di specializzazione in ostetricia e ginecologia che muta la denominazione in scuola di specializzazione in ginecologia ed ostetricia, e' abrogato e sostituito dal seguente:  
-  
-Scuola di specializzazione in ginecologia ed ostetricia  
-Art. 107. - La scuola di specializzazione in ginecologia ed ostetricia ha sede presso la clinica ostetrica e ginecologica e conferisce il diploma di specialista in ginecologia ed ostetricia.  
-La direzione della scuola e' affidata al professore di ruolo della stessa materia della specializzazione o, in carenza, al professore di ruolo o fuori ruolo di materia affine.  
-Possono iscriversi alla scuola i laureati in medicina e chirurgia.  
-E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale rilasciato dall'autorita' competente.  
-La durata del corso di studi e' di quattro anni e non e' suscettibile di abbreviazione.  
-Il numero massimo degli allievi e' di otto per ogni anno di corso e complessivamente di trentadue iscritti per l'intero corso di studi.  
-L'ammissione al corso avviene per titoli ed esami.  
-Le materie d'insegnamento sono le seguenti:  
+L'art. 59, relativo alla Facolta' di scienze matematiche, fisiche e naturali: il primo e secondo comma sono abrogati e sostituiti dal seguente:  
+"La Facolta' di scienze matematiche, fisiche e naturali conferisce le lauree in Scienze naturali, In Scienze biologiche, in Chimica, in Matematica. La durata del corso degli studi e' di anni quattro per le lauree In Scienze naturali, in Scienze biologiche ed in Matematica e di cinque anni per la laurea in Chimica".  
+Dopo l'art. 69 e con il conseguente spostamento della successiva numerazione sono aggiunti i seguenti nuovi articoli relativi alla istituzione del corso di laurea in Matematica.  
+Art. 70. - Il corso degli studi per la laurea in Matematica si distingue in due indirizzi: didattico ed applicativo.  
+Sono insegnamenti fondamentali comuni al due indirizzi per il primo biennio:  
 1° Anno:  
-elementi di genetica medica;  
-elementi di embriologia, anatomia macro e micro dell'apparato genitale femminile, anatomia della pelvi;  
-elementi di fisiopatologia della riproduzione umana;  
-fisiologia ostetrica;  
-endocrinologia ginecologica ed ostetrica;  
-semeiotica e diagnostica ostetrica;  
-patologia ostetrica e ginecologica (biennale) II;  
-lingua straniera (inglese) (quadriennale) I.  
-2° Anno:  
-semeiotica e diagnostica ginecologica;  
-operazioni ostetriche (biennale) I;  
-anatomia ed istologia patologica della sfera genitale femminile;  
-citologia ginecologica;  
-patologia ostetrica e ginecologica (biennale) II;  
-diagnostica di laboratorio in ostetricia e ginecologia;  
-lingua straniera (inglese) (quadriennale) II.  
-3° Anno:  
-puericultura prenatale;  
-immunologia ostetrica e ginecologica;  
-analgo-anestesia e rianimazione in ostetricia;  
-operazioni ostetriche (biennale) II;  
-operazioni ginecologiche (biennale) I;  
-ostetricia e ginecologia forense;  
-terapia medica in ostetricia e ginecologia;  
-clinica ostetrica e ginecologica (biennale) I;  
-psicosomatica ostetrica e ginecologica;  
-lingua straniera (inglese) (quadriennale) III.  
-4° Anno:  
-neonatologia;  
-urologia ginecologica;  
-radiodiagnostica e terapia fisica in ostetricia e ginecologia; chirurgia addominale;  
-operazioni ginecologiche (biennale) II;  
-clinica ostetrica e ginecologica (biennale) II;  
-lingua straniera (inglese) quadriennale.  
-La frequenza alle lezioni ed alle esercitazioni pratiche e' obbligatoria. Gli allievi che non conseguono le attestazioni di frequenza sul relativo libretto non possono essere ammessi a sostenere le prove di esame.  
-Alla fine di ogni anno di corso gli iscritti per essere ammessi agli anni di corso successivi devono superare le prove di esame sulle materie impartite durante l'anno.  
-Per le materie a corso pluriennale l'esame e' sostenuto alla fine dei corsi medesimi. Al termine del corso di studi per il conseguimento del diploma di specialista in ginecologia ed ostetricia, gli interessati devono superare l'esame di diploma consistente nella dissertazione scritta di un argomento attinente alla specializzazione.  
-
-Art. 2
-------
-
+Analisi matematica I  
+Geometria I  
+Algebra  
+Fisica generale I  
+2° Anno;  
+Analisi matematica II  
+Geometria II  
+Meccanica razionale  
+Fisica generale II  
+Per ciascuno degli insegnamenti elencati vi e' un esame finale.  
+Gli insegnamenti fondamentali sopra elencati sono accompagnati ciascuno da un corso di esercitazioni che ne e' parte integrante.  
+Potranno essere iscritti al secondo anno soltanto quegli studenti che abbiano superato almeno due degli esami di Analisi matematica I", "Geometria I", "Algebra".  
+Sono insegnamenti fondamentali obbligatori comuni ai due indirizzi per il terzo anno:  
+Istituzioni di analisi superiore;  
+Istituzioni di geometria superiore;  
+Istituzioni di fisica matematica.  
+Sono altresi' insegnamenti fondamentali nel terzo anno:  
+Matematiche complementari (per l'indirizzo didattico);  
+Analisi numerica (per l'indirizzo applicativo).  
+e nel quarto anno:  
+Matematica finanziaria ed attuariale (per l'indirizzo didattico);  
+Calcolo delle probabilita' (per l'indirizzo applicativo).  
+Durante il quarto anno lo studente, oltre ai suddetti insegnamenti fondamentali, deve seguire altri due corsi, uno almeno dei quali ad indirizzo fisico, scelti fra i seguenti insegnamenti complementari:  
+1) Analisi numerica;  
+2) Calcolo delle probabilita';  
+3) Matematiche complementari;  
+4) Matematica finanziaria ed attuariale;  
+5) Analisi funzionale;  
+6) Matematiche elementari da un punto di vista superiore;  
+7) Teoria dei numeri;  
+8) Teoria delle funzioni;  
+9) Topologia;  
+10) Esperienze didattiche;  
+11) Pedagogia;  
+12) Statistica matematica;  
+13) Storia delle matematiche;  
+14) Calcolatori elettronici (\*);  
+15) Chimica con esercitazioni di laboratorio (\*);  
+16) Complementi di fisica generale (\*);  
+17) Istituzioni di fisica teorica (\*);  
+18) Meccanica superiore (\*);  
+19) Struttura della materia (\*).  
   
-L'art. 113, relativo alla scuola di specializzazione in anestesiologia e rianimazione che muta la denominazione in scuola di specializzazione in anestesia e rianimazione, e' abrogato e sostituito dal seguente:  
-  
-Scuola di specializzazione in anestesia e rianimazione  
-Art. 113. - La scuola di specializzazione in anestesia e rianimazione ha sede presso la clinica chirurgica (politecnico Monteluce) e conferisce il diploma di specialista in anestesia e rianimazione.  
-La direzione della scuola e' affidata al professore di ruolo o fuori ruolo della stessa materia della specializzazione o, in carenza, al professore di ruolo o fuori ruolo di materia affine.  
-Possono iscriversi alla scuola i laureati in medicina e chirurgia.  
-E' richiesto, almeno per l'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale rilasciato dall'autorita' competente.  
-La durata del corso di studi e' di tre anni e non e' suscettibile di abbreviazione.  
-Il numero massimo di allievi e' di cinque per anno di corso e complessivamente di quindici iscritti per l'intero corso di studi.  
-L'ammissione al corso avviene per titoli ed esami.  
-Le materie d'insegnamento sono le seguenti:  
-1° Anno:  
-1) anatomia applicata all'anestesia ed alla rianimazione;  
-2) biochimica applicata all'anestesia ed alla rianimazione;  
-3) farmacologia applicata all'anestesia ed alla rianimazione;  
-4) fisica applicata all'anestesia ed alla rianimazione;  
-5) fisiologia applicata all'anestesia ed alla rianimazione;  
-6) anestesiologia (I);  
-7) tecniche chirurgiche d'interesse anestesiologico;  
-8) aspetti medico-legali dell'anestesia e della rianimazione;  
-9) esercitazioni pratiche.  
-2° Anno:  
-1) anestesiologia (II);  
-2) terapia antalgica;  
-3) rianimazione (I);  
-4) esercitazioni pratiche.  
-3° Anno:  
-1) rianimazione (II);  
-2) tecniche speciali di anestesia;  
-3) tecniche speciali di rianimazione;  
-4) indagini diagnostiche attinenti alla specialita';  
-5) esercitazioni pratiche.  
-La frequenza alle lezioni e alle esercitazioni pratiche e' obbligatoria.  
-Gli allievi che non conseguono le attestazioni di frequenza sul relativo libretto non possono essere ammessi a sostenere le prove di esame.  
-Alla fine di ogni corso gli iscritti, per essere ammessi agli anni di corso successivi, devono superare le prove di esame sulle materie impartite durante l'anno.  
-Per le materie a corsi pluriennali l'esame e' sostenuto alla fine dei corsi medesimi.  
-Al termine del corso di studi, per il conseguimento del diploma di specialista in anestesia e rianimazione, gli interessati devono superare l'esame di diploma consistente nella dissertazione scritta di un argomento attinente alla specializzazione.  
-
-Art. 3
-------
-
-  
-L'art. 118, relativo alla scuola di specializzazione in ortopedia e traumatologia che muta la denominazione in quella di scuola di specializzazione in ortopedia, e' abrogato e sostituito dal seguente:  
-  
-Scuola di specializzazione in ortopedia  
-Art. 118. - La scuola di specializzazione in ortopedia ha sede presso l'istituto di clinica ortopedica e conferisce il diploma di specialista in ortopedia. La scuola comprende un insegnamento teorico e pratico.  
-La direzione della scuola e' affidata al professore di ruolo o fuori ruolo della stessa materia della specializzazione o, in carenza, al professore di ruolo o fuori ruolo di materia affine.  
-Possono iscriversi alla scuola i laureati in medicine e chirurgia.  
-E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale, rilasciato dall'autorita' competente.  
-La durata del corso di studi e' di cinque anni e non e' suscettibile di abbreviazione.  
-Il numero massimo degli allievi e' di sei per anno di corso e complessivamente di trenta iscritti per l'intero corso di studi.  
-L'ammissione al corso avviene per titoli ed esami.  
-Le materie di insegnamento sono le seguenti:  
-1° Anno:  
-insegnamento pratico:  
-chirurgia generale;  
-pronto soccorso generale;  
-fisioterapia.  
-insegnamento teorico:  
-anatomia dell'apparato locomotore;  
-fisiologia dell'apparato locomotore;  
-semeiotica ortopedica;  
-nozioni di chirurgia generale;  
-bioingegneria dell'apparato locomotore I.  
-2° Anno:  
-insegnamento pratico:  
-chirurgia generale (con frequenza eventuale in reparti specialistici interessanti per l'apparato locomotore);  
-reparti di pronto soccorso traumatologico;  
-reparti di ortopedia e traumatologia;  
-insegnamento teorico:  
-anatomia ed istologia patologica dell'apparato locomotore I;  
-patologia dell'apparato locomotore I;  
-clinica ortopedica I;  
-traumatologia dell'apparato locomotore I;  
-radiologia I;  
-nozioni di chirurgia d'urgenza e pronto soccorso;  
-bioingegneria dell'apparato locomotore II.  
-3° Anno:  
-insegnamento pratico:  
-reparti di ortopedia e traumatologia (in particolare sale di degenza e sale gessi);  
-insegnamento teorico:  
-anatomia ed istologia patologica dell'apparato locomotore II;  
-patologia dell'apparato locomotore II;  
-clinica ortopedica II;  
-traumatologia dell'apparato locomotore II;  
-radiologia II;  
-tecnica operatoria I;  
-apparatoterapia e tecnica degli apparecchi gessi;  
-elementi di reumatologia.  
-4° Anno:  
-insegnamento pratico:  
-reparti di ortopedia e traumatologia (frequenza nei reparti operatori);  
-insegnamento teorico:  
-patologia dell'apparato locomotore III;  
-clinica ortopedica III;  
-traumatologia dell'apparato locomotore III;  
-tecnica operatoria II;  
-fisiokinesiterapia I;  
-neuropatologia dell'apparato locomotore ed elettrodiagnostica; nozioni di medicina legale.  
-5° Anno:  
-insegnamento pratico:  
-reparti di ortopedia e traumatologia (frequenza nei reparti operatori);  
-officine ortopediche;  
-insegnamento teorico:  
-patologia dell'apparato locomotore IV;  
-clinica ortopedica IV;  
-traumatologia dell'apparato locomotore IV;  
-tecnica operatoria III;  
-fisioterapia II.  
-La frequenza alle lezioni e alle esercitazioni pratiche e' obbligatoria. Gli allievi che non conseguono le attestazioni di frequenza sul relativo libretto non possono essere ammessi a sostenere le prove di esame.  
-Alla fine di ogni corso gli iscritti per essere ammessi agli anni successivi devono superare le prove di esame sulle materie pratiche durante l'anno. Per le materie a corso pluriennale l'esame e' sostenuto alla fine dei corsi medesimi.  
-Al termine del corso di studi per il conseguimento del diploma di specialista in ortopedia gli interessati devono superare l'esame di diploma consistente nella dissertazione scritta di un argomento attinente alla specializzazione.  
+Gli insegnamenti segnati con asterisco si intendono ad indirizzo fisico. Ciascuno dei primi quattro insegnamenti dell'elenco e' complementare solo per quello dei due indirizzi per il quale non e' scelto come fondamentale.  
+Art. 71. - Per essere ammesso all'esame di laurea lo studente deve aver seguito i corsi e superato gli esami di profitto in tutti gli insegnamenti fondamentali prescritti e nei due da lui scelti fra i complementari.  
+L'esame di laurea comprende:  
+a) un preliminare esame di cultura generale sulle scienze matematiche;  
+b) la discussione di un lavoro scritto su una tesi aderente all'indirizzo prescelto;  
+c) la discussione di una tesina orale scelta dalla Commissione fra due assegnate.  
+Superato l'esame di laurea lo studente consegue il titolo di dottore in Matematica, indipendentemente dall'indirizzo prescelto, del quale verra' fatta menzione solo nella carriera scolastica.  
+Art. 72. - Per l'iscrizione di coloro che siano gia' forniti di una laurea, il Consiglio di facolta' decidera' caso per caso sull'anno di iscrizione.  
+Il Consiglio decidera' altresi' sugli esami e sulle frequenze che possono essere convalidate.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 24 ottobre 1979
+### Dato a Roma, addi' 11 ottobre 1966
 
-PERTINI VALITUTTI
+SARAGAT GUI
 
-Visto, il Guardasigilli: MORLINO
+Visto, il Guardasigilli: REALE
 
-Registrato alla Corte dei conti, addi' 9 aprile 1980
+Registrato alla Corte dei conti, addi' 22 novembre 1966
 
-Registro n. 31 Istruzione, foglio n. 187
+Atti del Governo, registro n. 207, foglio n. 56. - VILLA

@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 17 maggio 1983 n. 358
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 17 maggio 1986 n. 637
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 17 maggio 1983 n. 358
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 17 maggio 1986 n. 637
 =============================================================
 
 Autorizzazione alla fondazione "Clinica del lavoro", in Pavia, ad acquistare un immobile.
@@ -10,10 +10,10 @@ Autorizzazione alla fondazione "Clinica del lavoro", in Pavia, ad acquistare un 
 Art. 1
 ------
 
-N.
+n.
 
-358. Decreto del Presidente della Repubblica 17 maggio 1983, col quale, sulla proposta del Ministro della sanita', la fondazione "Clinica del lavoro", in Pavia, viene autorizzata ad acquistare, al prezzo di lire 150.000.000, un immobile sito in Padova, via Tassoni n. 6, censito al nuovo catasto edilizio urbano alla sezione C, foglio 9, mappali 256/1 e 256/2, di proprieta' del sig. Callegaro Luigi, come da atto di compravendita 29 maggio 1979, n. 71526 di repertorio, a rogito dott. Gregorio Todeschini, notaio in Padova, registrato a Padova in data 18 giugno 1979, al n. 6920, da adibire a centro per lo studio e la prevenzione dei rischi da lavoro.  
+637. Decreto del Presidente della Repubblica 17 maggio 1986, con quale, sulla proposta del Ministro della sanita', la fondazione "Clinica del lavoro", in Pavia, viene autorizzata ad acquistare, al prezzo convenuto di L. 970.000.000, un immobile sito in Pavia, via Azzario n. 19, censito al nuovo catasto edilizio urbano al foglio 5, mappali 28, 29 e 703, di proprieta' della Gio-Mar S.r.l., in Pavia, come da atto di compravendita 18 gennaio 1984, n. 30290 di repertorio, a rogito dott. Pierluigi Pogliani, notaio in Pavia, registrato a Pavia in data 2 febbraio 1984 al n. 119, da adibire a sede degli uffici amministrativi della fondazione stessa.  
   
-Visto, il Guardasigilli: DARIDA  
-Registrato alla Corte dei conti, addi' 16 luglio 1983  
-Registro n. 6 Sanita', foglio n. 39
+Visto, il Guardasigilli: ROGNONI  
+Registrato alla Corte dei conti, addi' 25 settembre 1986  
+Registro n. 9 Sanita', foglio n. 194

@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 24 dicembre 1954 n. 1450
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 24 settembre 1954 n. 1147
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 24 dicembre 1954 n. 1450
-================================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 24 settembre 1954 n. 1147
+=================================================================
 
 Autorizzazione alla Cassa scolastica della statale Scuola secondaria di avviamento professionale a tipo commerciale "T. Catullo" di Belluno ad accettare una donazione.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -12,9 +12,8 @@ Art. 1
 
 N.
 
-1450. Decreto del Presidente della Repubblica 24 dicembre 1954, col quale, sulla proposta del Ministro per la pubblica istruzione, la Cassa scolastica della statale Scuola secondaria di avviamento professionale a tipo commerciale "T. Catullo" di Belluno viene autorizzata ad accettare la donazione di nominali di L. 100.000), in titoli di Stato, disposta al fine di istituire, col relativo reddito, un premio di studio annuale intitolato "Ex allievi della Scuola secondaria di avviamento professionale a tipo commerciale T.  
-Catullo" di Belluno.  
+1147. Decreto del Presidente della Repubblica 24 settembre 1954, col quale, sulla proposta del Ministro per la pubblica istruzione, la Cassa scolastica della statale Scuola secondaria di avviamento professionale a tipo commerciale "T. Catullo" di Belluno viene autorizzata ad accettare la donazione di nominali L. 55.000 in titoli di Stato, disposta a favore della Cassa stessa al fine di istituire, col relativo reddito, un premio di studio annuale, intitolato alla signora Anna Berton Fratini.  
   
 Visto, il Guardasigilli: DE PIETRO  
-Registrato alla Corte dei conti, addi' 3 marzo 1955  
-Atti del Governo, registro n. 89, foglio n. 39. - CARLOMAGNO
+Registrato alla Corte dei conti, addi' 7 dicembre 1954  
+Atti dei Governo, registro n. 87, foglio n. 72. - CARLOMAGNO

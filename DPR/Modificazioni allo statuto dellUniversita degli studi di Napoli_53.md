@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 agosto 1971 n. 1356
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 13 agosto 1964 n. 967
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 agosto 1971 n. 1356
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 13 agosto 1964 n. 967
+=============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Napoli.
 ------------------------------------------------------------------
@@ -10,19 +10,17 @@ Modificazioni allo statuto dell'Universita' degli studi di Napoli.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' degli studi di Napoli, approvato con [regio decreto 20 aprile 1939, n. 1162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1162) e modificato con [regio decreto 26 ottobre 1940, n. 1904](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;1904), e successive modificazioni;
+Veduto lo statuto dell'Universita' degli studi di Napoli, approvato con [regio decreto 20 aprile 1939, numero 1162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1162) e modificato con [regio decreto 26 ottobre 1940, n. 1904](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;1904) e successive modificazioni;
 
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+Veduto il testo unico delle leggi sull'istruzione superiore approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
 
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652) e successive modificazioni;
 
 Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
 
-Veduta la [legge 11 dicembre 1969, n. 910](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1969-12-11;910);
-
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta intese ad ottenere l'istituzione del corso di laurea in sociologia presso la facolta' di lettere e filosofia;
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
 Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
 
@@ -32,258 +30,368 @@ Sulla proposta del Ministro per la pubblica istruzione;
 
 Decreta:
 
-Presso la facolta' di lettere e filosofia dell'Universita' degli studi di Napoli e' istituito il corso di laurea in sociologia. Tale nuovo corso di laurea comincera' a funzionare a decorrere dall'anno accademico 1971-72 con il primo anno di corso. Negli anni accademici successivi funzioneranno progressivamente gli anni di corso susseguenti al primo.
+Lo statuto dell'Universita' degli studi di Napoli, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
-Alla fine del corso di studi viene rilasciata la laurea in sociologia.
+Gli articoli 49 e 50 relativi agli Istituti di demografia e di finanza sono abrogati e sostituiti dai seguenti con il conseguente spostamento della successiva numerazione:
 
-Lo statuto dell'Universita' degli studi di Napoli, approvato e modificato con i decreti sopraindicati e' modificato come appresso.
+Istituto di statistica e demografia.
 
-L'art. 88 e' abrogato e sostituito dal seguente:
+Art. 49. - Presso la Facolta' e' costituito un Istituto di statistica e demografia.
 
-Art. 88. - La facolta' di lettere e filosofia conferisce esclusivamente:
+L'Istituto e' ordinato anche come seminario ai sensi dell'art. 23 del regolamento generale universitario, approvato con [regio decreto 6 aprile 1924, n. 674](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-04-06;674).
 
-La laurea in lettere;
+Art. 50. - L'Istituto comprende gli insegnamenti di Statistica e di Demografia. Direttore dell'Istituto e' il professore ufficiale dell'insegnamento di Statistica.
 
-La laurea in filosofia;
+L'Istituto ha il fine di coordinare gli insegnamenti della Statistica e della Demografia, nonche' di promuovere e di agevolare studi e ricerche nel campo della Statistica teorica ed applicata e della Demografia.
 
-La laurea in lingue e letterature straniere moderne (indirizzo europeo);
+Art. 51. - Per quanto riguarda il personale assistente, tecnico e subalterno, l'Istituto si avvale del personale assegnato a ciascuna cattedra.
 
-La laurea in sociologia.
+Per il raggiungimento dei suoi fini l'Istituto dispone di attrezzature meccanografiche e di una biblioteca specializzata.
 
-Dopo l'art. 101 e con il conseguente spostamento della numerazione degli articoli successivi sono inseriti i seguenti nuovi articoli relativi alla istituzione del corso di laurea in sociologia.
+L'Istituto organizza ricerche scientifiche, conferenze, discussioni, viaggi di istruzione e cura e pubblica collane o volumi di carattere didattico, scientifico e tecnico dell'istituto.
 
-LAUREA IN SOCIOLOGIA
+Per il conseguimento delle proprie finalita' l'Istituto dispone e si avvale dei normali fondi che gli sono assegnati e di assegnazioni che all'Istituto fossero fatte da Enti o da privati.
 
-Art. 102. - Gli insegnamenti per il conseguimento della laurea in sociologia sono i seguenti:
+Art. 52. - Sono ammessi a frequentare l'Istituto gli studenti ed i laureati della Facolta'. Sono ammessi altresi' a frequentare Istituto gli studenti ed i laureati di altre Facolta' e di Istituti universitari anche stranieri che in base a regolare domanda, ne ottengano la autorizzazione dal direttore.
 
-Insegnamenti fondamentali:
+Istituto di finanza pubblica
 
-1) Sociologia (biennale);
+Art. 53. - Presso la Facolta' e' costituito un Istituto di finanza pubblica.
 
-2) Un insegnamento scelto fra i seguenti: storia della filosofia o storia della filosofia moderna e contemporanea;
+L'Istituto e' ordinato anche come seminario ai sensi dell'art. 23 del regolamento generale universitario, approvato con [regio decreto 6 aprile 1924, n. 674](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-04-06;674).
 
-3) Filosofia morale;
+Art. 54. - All'Istituto fa capo la cattedra di insegnamento di Scienza delle finanze e diritto finanziario.
 
-4) Antropologia culturale;
+Direttore dell'Istituto e' il professore ufficiale dello insegnamento della Scienza delle finanze e diritto finanziario.
 
-5) Un insegnamento scelto fra i seguenti: storia moderna o storia contemporanea;
+Art. 55. - L'Istituto ha il fine di promuovere ed agevolare studi e ricerche nel campo della Finanza pubblica e del Diritto finanziario.
 
-6) Logica;
+Art. 56. - Per quanto riguarda il personale assistente, tecnico e subalterno l'Istituto si avvale del personale assegnato alla cattedra di Scienza delle finanze e diritto finanziario.
 
-7) Metodologia e tecnica della ricerca sociale;
+Per il raggiungimento dei suoi fini l'Istituto dispone di attrezzature meccanografiche e di una biblioteca specializzata.
 
-8) Statistica;
+L'Istituto organizza ricerche scientifiche, conferenze, discussioni, viaggi di istruzione e cura e pubblica collane o volumi di carattere didattico, scientifico e tecnico dell'Istituto.
 
-9) Psicologia;
+Per il conseguimento delle proprie finalita' l'Istituto dispone e si avvale dei normali fondi che gli sono assegnati e di assegnazioni che all'Istituto fossero fatte da Enti o da privati.
 
-10) Storia della sociologia;
+Art. 57. - Sono ammessi a frequentare l'Istituto gli studenti ed i laureati della Facolta'. Sono ammessi altresi' a frequentare l'Istituto gli studenti ed i laureati di altre Facolta' e di Istituti universitari anche stranieri che, in base a regolare domanda, ne ottengano la autorizzazione del direttore.
 
-11) Psicologia sociale.
+Art. 66. - Agli insegnamenti complementari del corso di laurea in Lettere sono aggiunti i seguenti:
 
-Insegnamenti complementari:
+Paleografia greca;
 
-1) Sociologia politica;
+Paleografia latina.
 
-2) Sociologia economica;
+Art. 108. - Agli insegnamenti complementari del corso di laurea in Medicina e chirurgia e' aggiunto quello di "Dermatologia sperimentale".
 
-3) Sociologia dei gruppi;
+Art. 116. - Agli Istituti della Facolta' di medicina e chirurgia e' aggiunto il seguente:
 
-4) Sociologia della comunicazione;
+Istituto di anatomia topografica.
 
-5) Sociologia della conoscenza;
+L'istituto di Clinica odontoiatrica muta denominazione in "Istituto di clinica odontoiatrica e stomatologica".
 
-6) Metodologia delle scienze umane;
+Art. 174. - Agli insegnamenti obbligatori sul piano della Facolta' (b) del corso di laurea in Ingegneria meccanica e' aggiunto quello di "Scienza dei metalli".
 
-7) Sociologia industriale;
+Art. 175. - Nel gruppo delle materie a scelta dello studente (c) del corso di laurea in Ingegneria elettrotecnica, indirizzo elettromeccanico, l'insegnamento di "Tecnologie meccaniche IV anno", e' abrogato e sostituito dall'insegnamento "Scienza dei metalli IV anno.".
 
-8) Sociologia del lavoro;
+Art. 176. - Tra insegnamenti obbligatori sul piano della Facolta' (b) del corso di laurea in Ingegneria chimica l'insegnamento di "Tecnologie meccaniche" e' abrogato e sostituito dall'insegnamento di "Scienza dei metalli".
 
-9) Filosofia del diritto;
+Art. 179. - Agli insegnamenti obbligatori sul piano della Facolta' (5) del corso di laurea in Ingegneria elettronica e' aggiunto quello di "Scienza dei metalli".
 
-10) Sociologia dell'educazione;
+Dopo l'art. 183, e con il conseguente spostamento della successiva numerazione sono aggiunti i seguenti nuovi articoli, relativi alla costituzione e regolamentazione degli Istituti della Facolta' di ingegneria.
 
-11) Sociologia della religione;
+Art. 184. - Gli insegnamenti della Facolta' di ingegneria sono raggruppati in Istituti comprendenti materie affini con lo scopo di promuovere e coordinare l'insegnamento e la ricerca nelle discipline che ad essi fanno capo; unificare i servizi, gli impianti e le attrezzature. Essi utilizzano i locali, il personale e le dotazioni assegnati alle cattedre che li costituiscono.
 
-12) Sociologia del diritto;
+Art. 185. - Ogni cattedra coperta da professore di ruolo costituisce, di regola, Istituto con la denominazione della cattedra stessa.
 
-13) Sociologia dell'arte e della letteratura;
+Potranno essere, pero', costituite in' Istituto quelle cattedre che, pur non essendo coperte da professori di ruolo hanno i requisiti per assumere tale titolo.
 
-14) Filosofia della storia;
+Art. 188. - Il direttore dell'Istituto e' il professore, di ruolo o incaricato, che impartisce l'insegnamento da cui l'Istituto medesimo trae la denominazione.
 
-15) Filosofia della scienza;
+Il direttore e' responsabile dell'amministrazione e del funzionamento dell'Istituto.
 
-16) Filosofia del linguaggio;
+Art. 187. - Previa deliberazione del Consiglio di facolta', potranno essere raggruppati in Istituto due o piu' insegnamenti affini, anche se non coperti da professori di ruolo. In tal caso la direzione dell'Istituto verra' affidata ad uno dei professori incaricati degli insegnamenti che vi fanno capo eccezionalmente, ad un professore di ruolo di altra materia, designato dalla Facolta' e nominato con decreto rettorale.
 
-17) Etnologia;
+Art. 188. - Gli Istituti costituiti presso la Facolta' sono i seguenti:
 
-18) Filosofia teoretica;
+Acquedotti e fognature;
 
-19) Storia della filosofia moderna e contemporanea;
+Aerodinamica;
 
-20) Storia delle dottrine politiche;
+Architettura e composizione architettonica;
 
-21) Estetica;
+Architettura navale Architettura tecnica;
 
-22) Filosofia della religione;
+Chimica industriale;
 
-23) Linguistica generale;
+Costruzioni aeronautiche;
 
-24) Economia aziendale;
+Costruzioni idrauliche;
 
-25) Economia politica;
+Costruzioni di macchine;
 
-26) Storia economica;
+Costruzioni di ponti;
 
-27) Storia delle dottrine economiche;
+Costruzioni di strade, ferrovie ed aeroporti;
 
-28) Storia contemporanea;
+Costruzioni navali mercantili;
 
-29) Legislazione sociale;
+Disegno;
 
-30) Teorie e tecniche delle comunicazioni di massa;
+Elettrochimica;
 
-31) Demografia;
+Elettrotecnica;
 
-32) Psicologia dell'eta' evolutiva;
+Fisica tecnica;
 
-33) Psicologia dinamica;
+Geologia applicata;
 
-34) Sociolinguistica;
+Idraulica;
 
-35) Una lingua e letteratura straniera moderna.
+Impianti chimici;
 
-Art. 103. - Per essere ammesso all'esame di laurea lo studente deve aver superato gli esami di tutti gli insegnamenti fondamentali e di almeno otto degli insegnamenti complementari, previa approvazione del preside della facolta'. La sociologia deve essere seguita per un biennio, e due degli insegnamenti fondamentali possono essere biennalizzati, nel qual caso lo studente puo' ridurre di due gli insegnamenti complementari che deve seguire.
+Impianti meccanici;
 
-Art. 104. - La durata del corso di laurea e' di quattro anni.
+Macchine;
 
-Titolo di ammissione: quello consentito dalle vigenti disposizioni di legge.
+Macchine marine;
 
-Gli insegnamenti fondamentali di sociologia (biennale), psicologia, logica, statistica, storia moderna saranno seguiti dallo studente nel primo anno di corso. Alla fine di esso lo studente presentera' il piano di studi che intende seguire per i tre anni seguenti, facendolo firmare da uno dei professori delle materie fondamentali, col quale si sara' consultato al riguardo.
+Meccanica applicata alle macchine;
 
-Per essere ammesso all'esame di laurea lo studente deve aver seguito i corsi e superato gli esami di tutti gli insegnamenti fondamentali e di almeno otto degli insegnamenti complementari, previa approvazione del preside della facolta'. La sociologia deve essere seguita per un biennio, e due degli insegnamenti fondamentali possono essere biennalizzati, nel qual caso lo studente puo' ridurre di due gli insegnamenti complementari che deve seguire. La dissertazione di laurea, con la quale il corso di studi si conclude, potra' essere sostenuta in una qualsiasi delle discipline scelte dallo studente nel suo piano di studi. Solo ove lo studente lo desideri, essa sara' compilata in lingua diversa dall'italiano.
+Progetti di macchine;
 
-Art. 105. - Coloro che sono gia' in possesso della laurea in lettere, in filosofia, in lingue e letterature straniere moderne, in giurisprudenza, in scienze politiche, in economia e commercio, in materie letterarie e in pedagogia, e che desiderano iscriversi al corso di laurea in sociologia, vengono ammessi al terzo anno di esso.
+Semenza delle costruzioni;
 
-Gli esami da essi sostenuti nei loro precedenti corsi di studio e rientranti tra le materie fondamentali o complementari di cui all'art. 102 sono convalidati ipso facto ai fini del conseguimento della nuova laurea. Il numero degli esami ancora necessari per il rispetto delle norme fissate dall'art. 103 viene ripartito in due anni secondo un piano presentato dallo studente e per il quale valgono le norme fissate dall'art. 104. Se il numero degli esami ancora necessari e' superiore a 12, nonche' nel caso in cui sia egli stesso a farne richiesta, lo studente viene ammesso al secondo anno anziche' al terzo.
+Tecnica delle costruzioni;
+
+Tecnica delle fondazioni e costruzioni in terra;
+
+Tecnica ed economia dei trasporti;
+
+Tecnica urbanistica;
+
+Tecnologie meccaniche;
+
+Topografia.
+
+Per deliberazione del Consiglio di facolta', agli Istituti come sopra costituiti potranno essere unite altre cattedre di materie affini.
+
+Qualora una cattedra coperta per incarico assurgera' a cattedra di ruolo, questa o si distacca dal raggruppamento a cui appartiene per costituirsi in Istituto, ovvero il detto raggruppamento prende la denominazione di Istituto con il nome della cattedra passata di ruolo.
+
+Art. 189. - Ogni Istituto potra' eventualmente disporre, secondo modalita' intese ad assicurare il raggiungimento delle finalita' nel modo piu' idoneo, di fondi per la ricerca e di borse di studio provenienti da enti pubblici e privati italiani e stranieri.
+
+Art. 196. - Agli Istituti della Facolta' di architettura sono aggiunti i seguenti Istituto di edilizia;
+
+Istituto di metodologia architettonica;
+
+Istituto di disegno e rilievo dei monumenti.
+
+Art. 220. - Dopo l'elenco degli insegnamenti del corso di laurea in Medicina veterinaria, il primo comma, relativo alle modalita' di esami dell'insegnamento di Anatomia degli animali domestici con istologia ed embriologia e' abrogato e sostituito dal seguente:
+
+"L'insegnamento di Anatomia degli animali domestici con istologia ed embriologia comprende due esami: uno alla fine del primo anno vertente sulla istologia, embriologia e l'anatomia generale, compreso lo studio della osteologia, artrologia e miologia; uno alla fine del secondo anno vertente sull'anatomia macroscopica e microscopica dei vari apparati".
+
+Art. 297. - Il secondo comma - relativo al numero degli iscritti della scuola di specializzazione in Malattie nervose e mentali - e' abrogato e sostituito dal seguente:
+
+"Il numero degli allievi che possono essere iscritti alla Scuola non puo' essere complessivamente superiore a cinquanta".
+
+Art. 300. - Il primo comma - relativo al numero degli iscritti della Scuola di specializzazione in radiologia medica e medicina nucleare - e' abrogato e sostituito dal seguente:
+
+"La Scuola ha la durata di tre anni. Il numero massimo degli iscritti e' di quindici per ogni anno di corso".
+
+Art. 316. - Il primo comma - relativo al numero degli iscritti della Scuola di specializzazione di Igiene generale e speciale - e' abrogato e sostituito dal seguente:
+
+"Il numero degli allievi da ammettere ogni anno accademico non puo' essere superiore a cinquanta".
+
+Art. 324. - Agli insegnamenti del 5° anno di corso della Scuola di specializzazione in Medicina interna e' aggiunto quello di:
+
+"5) Diagnostica e terapia con isotopi radioattivi in medicina interna".
+
+Art. 327. - Il primo comma - relativo al numero degli iscritti della Scuola di specializzazione in Anestesiologia - e' abrogato e sostituito dal seguente:
+
+"Il numero degli allievi da ammettere ogni anno accademico non puo' essere superiore a quindici: potranno eventualmente ottenere un'abbreviazione di corso coloro i quali siano in possesso di speciali titoli".
+
+Art. 366. - Il primo comma - relativo al numero degli iscritti della Scuola di specializzazione in Cardiologia e malattie dei vasi - e' abrogato e sostituito dal seguente:
+
+"Il numero degli allievi da ammettere ogni anno accademico non puo' essere superiore a venti".
+
+Art. 390. - Il secondo comma - relativo al numero degli iscritti alla Scuola di specializzazione in Semeiotica e diagnostica di laboratorio, e' abrogato e sostituito dal seguente:
+
+"Il numero massimo degli iscritti e' di trentadue per ogni anno di corso".
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 
-Dato a Roma, addi' 28 agosto 1971
+Dato a Roma, addi' 13 agosto 1964
 
-SARAGAT
+Per il Presidente della Repubblica
 
-MISASI
+Il Presidente del Senato
 
-Visto, il Guardasigilli: COLOMBO
+MERZAGORA
+
+GUI
+
+Visto, il Guardasigilli: REALE
 
 Registrato
 ----------
 
-alla Corte dei conti, addi' 23 febbraio 1972 Atti del Governo, registro n. 247, foglio n. 60. - VALENTINI
+alla Corte dal conti, addi' 22 ottobre 1964 Atti del Governo, registro n. 187, foglio n. 160. - VILLA
 
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA   
+ IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Napoli, approvato con [regio decreto 20 aprile 1939, n. 1162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1162) e modificato con [regio decreto 26 ottobre 1940, n. 1904](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;1904), e successive modificazioni;   
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);   
-Veduta la [legge 11 dicembre 1969, n. 910](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1969-12-11;910);   
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta intese ad ottenere l'istituzione del corso di laurea in sociologia presso la facolta' di lettere e filosofia;   
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;   
-Sentito il parere del Consiglio superiore della pubblica istruzione;   
-Sulla proposta del Ministro per la pubblica istruzione;   
+Veduto lo statuto dell'Universita' degli studi di Napoli, approvato con [regio decreto 20 aprile 1939, numero 1162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1162) e modificato con [regio decreto 26 ottobre 1940, n. 1904](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;1904) e successive modificazioni;  
+Veduto il testo unico delle leggi sull'istruzione superiore approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652) e successive modificazioni;  
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
+Sentito il parere del Consiglio superiore della pubblica istruzione;  
+Sulla proposta del Ministro per la pubblica istruzione;  
   
-Decreta:   
+Decreta:  
   
-Presso la facolta' di lettere e filosofia dell'Universita' degli studi di Napoli e' istituito il corso di laurea in sociologia. Tale nuovo corso di laurea comincera' a funzionare a decorrere dall'anno accademico 1971-72 con il primo anno di corso. Negli anni accademici successivi funzioneranno progressivamente gli anni di corso susseguenti al primo.   
-Alla fine del corso di studi viene rilasciata la laurea in sociologia.   
-Lo statuto dell'Universita' degli studi di Napoli, approvato e modificato con i decreti sopraindicati e' modificato come appresso.   
-L'art. 88 e' abrogato e sostituito dal seguente:   
-Art. 88. - La facolta' di lettere e filosofia conferisce esclusivamente:   
+Lo statuto dell'Universita' degli studi di Napoli, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+Gli articoli 49 e 50 relativi agli Istituti di demografia e di finanza sono abrogati e sostituiti dai seguenti con il conseguente spostamento della successiva numerazione:  
   
-La laurea in lettere;   
-La laurea in filosofia;   
-La laurea in lingue e letterature straniere moderne (indirizzo europeo);   
-La laurea in sociologia.   
+Istituto di statistica e demografia.  
   
-Dopo l'art. 101 e con il conseguente spostamento della numerazione degli articoli successivi sono inseriti i seguenti nuovi articoli relativi alla istituzione del corso di laurea in sociologia.   
+Art. 49. - Presso la Facolta' e' costituito un Istituto di statistica e demografia.  
+L'Istituto e' ordinato anche come seminario ai sensi dell'art. 23 del regolamento generale universitario, approvato con [regio decreto 6 aprile 1924, n. 674](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-04-06;674).  
   
-LAUREA IN SOCIOLOGIA   
+Art. 50. - L'Istituto comprende gli insegnamenti di Statistica e di Demografia. Direttore dell'Istituto e' il professore ufficiale dell'insegnamento di Statistica.  
+L'Istituto ha il fine di coordinare gli insegnamenti della Statistica e della Demografia, nonche' di promuovere e di agevolare studi e ricerche nel campo della Statistica teorica ed applicata e della Demografia.  
   
-Art. 102. - Gli insegnamenti per il conseguimento della laurea in sociologia sono i seguenti:   
-Insegnamenti fondamentali:   
+Art. 51. - Per quanto riguarda il personale assistente, tecnico e subalterno, l'Istituto si avvale del personale assegnato a ciascuna cattedra.  
+Per il raggiungimento dei suoi fini l'Istituto dispone di attrezzature meccanografiche e di una biblioteca specializzata.  
+L'Istituto organizza ricerche scientifiche, conferenze, discussioni, viaggi di istruzione e cura e pubblica collane o volumi di carattere didattico, scientifico e tecnico dell'istituto.  
+Per il conseguimento delle proprie finalita' l'Istituto dispone e si avvale dei normali fondi che gli sono assegnati e di assegnazioni che all'Istituto fossero fatte da Enti o da privati.  
   
-1) Sociologia (biennale);   
-2) Un insegnamento scelto fra i seguenti: storia della filosofia o storia della filosofia moderna e contemporanea;   
-3) Filosofia morale;   
-4) Antropologia culturale;   
-5) Un insegnamento scelto fra i seguenti: storia moderna o storia contemporanea;   
-6) Logica;   
-7) Metodologia e tecnica della ricerca sociale;   
-8) Statistica;   
-9) Psicologia;   
-10) Storia della sociologia;   
-11) Psicologia sociale.   
+Art. 52. - Sono ammessi a frequentare l'Istituto gli studenti ed i laureati della Facolta'. Sono ammessi altresi' a frequentare Istituto gli studenti ed i laureati di altre Facolta' e di Istituti universitari anche stranieri che in base a regolare domanda, ne ottengano la autorizzazione dal direttore.  
   
-Insegnamenti complementari:   
-1) Sociologia politica;   
-2) Sociologia economica;   
-3) Sociologia dei gruppi;   
-4) Sociologia della comunicazione;   
-5) Sociologia della conoscenza;   
-6) Metodologia delle scienze umane;   
-7) Sociologia industriale;   
-8) Sociologia del lavoro;   
-9) Filosofia del diritto;   
-10) Sociologia dell'educazione;   
-11) Sociologia della religione;   
-12) Sociologia del diritto;   
-13) Sociologia dell'arte e della letteratura;   
-14) Filosofia della storia;   
-15) Filosofia della scienza;   
-16) Filosofia del linguaggio;   
-17) Etnologia;   
-18) Filosofia teoretica;   
-19) Storia della filosofia moderna e contemporanea;   
-20) Storia delle dottrine politiche;   
-21) Estetica;   
-22) Filosofia della religione;   
-23) Linguistica generale;   
-24) Economia aziendale;   
-25) Economia politica;   
-26) Storia economica;   
-27) Storia delle dottrine economiche;   
-28) Storia contemporanea;   
-29) Legislazione sociale;   
-30) Teorie e tecniche delle comunicazioni di massa;   
-31) Demografia;   
-32) Psicologia dell'eta' evolutiva;   
-33) Psicologia dinamica;   
-34) Sociolinguistica;   
-35) Una lingua e letteratura straniera moderna.   
+Istituto di finanza pubblica  
   
-Art. 103. - Per essere ammesso all'esame di laurea lo studente deve aver superato gli esami di tutti gli insegnamenti fondamentali e di almeno otto degli insegnamenti complementari, previa approvazione del preside della facolta'. La sociologia deve essere seguita per un biennio, e due degli insegnamenti fondamentali possono essere biennalizzati, nel qual caso lo studente puo' ridurre di due gli insegnamenti complementari che deve seguire.   
-Art. 104. - La durata del corso di laurea e' di quattro anni.   
-Titolo di ammissione: quello consentito dalle vigenti disposizioni di legge.   
-Gli insegnamenti fondamentali di sociologia (biennale), psicologia, logica, statistica, storia moderna saranno seguiti dallo studente nel primo anno di corso. Alla fine di esso lo studente presentera' il piano di studi che intende seguire per i tre anni seguenti, facendolo firmare da uno dei professori delle materie fondamentali, col quale si sara' consultato al riguardo.   
-Per essere ammesso all'esame di laurea lo studente deve aver seguito i corsi e superato gli esami di tutti gli insegnamenti fondamentali e di almeno otto degli insegnamenti complementari, previa approvazione del preside della facolta'. La sociologia deve essere seguita per un biennio, e due degli insegnamenti fondamentali possono essere biennalizzati, nel qual caso lo studente puo' ridurre di due gli insegnamenti complementari che deve seguire. La dissertazione di laurea, con la quale il corso di studi si conclude, potra' essere sostenuta in una qualsiasi delle discipline scelte dallo studente nel suo piano di studi. Solo ove lo studente lo desideri, essa sara' compilata in lingua diversa dall'italiano.   
-Art. 105. - Coloro che sono gia' in possesso della laurea in lettere, in filosofia, in lingue e letterature straniere moderne, in giurisprudenza, in scienze politiche, in economia e commercio, in materie letterarie e in pedagogia, e che desiderano iscriversi al corso di laurea in sociologia, vengono ammessi al terzo anno di esso.   
-Gli esami da essi sostenuti nei loro precedenti corsi di studio e rientranti tra le materie fondamentali o complementari di cui all'art. 102 sono convalidati ipso facto ai fini del conseguimento della nuova laurea. Il numero degli esami ancora necessari per il rispetto delle norme fissate dall'art. 103 viene ripartito in due anni secondo un piano presentato dallo studente e per il quale valgono le norme fissate dall'art. 104. Se il numero degli esami ancora necessari e' superiore a 12, nonche' nel caso in cui sia egli stesso a farne richiesta, lo studente viene ammesso al secondo anno anziche' al terzo.   
+Art. 53. - Presso la Facolta' e' costituito un Istituto di finanza pubblica.  
+L'Istituto e' ordinato anche come seminario ai sensi dell'art. 23 del regolamento generale universitario, approvato con [regio decreto 6 aprile 1924, n. 674](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-04-06;674).  
+  
+Art. 54. - All'Istituto fa capo la cattedra di insegnamento di Scienza delle finanze e diritto finanziario.  
+Direttore dell'Istituto e' il professore ufficiale dello insegnamento della Scienza delle finanze e diritto finanziario.  
+  
+Art. 55. - L'Istituto ha il fine di promuovere ed agevolare studi e ricerche nel campo della Finanza pubblica e del Diritto finanziario.  
+  
+Art. 56. - Per quanto riguarda il personale assistente, tecnico e subalterno l'Istituto si avvale del personale assegnato alla cattedra di Scienza delle finanze e diritto finanziario.  
+Per il raggiungimento dei suoi fini l'Istituto dispone di attrezzature meccanografiche e di una biblioteca specializzata.  
+L'Istituto organizza ricerche scientifiche, conferenze, discussioni, viaggi di istruzione e cura e pubblica collane o volumi di carattere didattico, scientifico e tecnico dell'Istituto.  
+Per il conseguimento delle proprie finalita' l'Istituto dispone e si avvale dei normali fondi che gli sono assegnati e di assegnazioni che all'Istituto fossero fatte da Enti o da privati.  
+  
+Art. 57. - Sono ammessi a frequentare l'Istituto gli studenti ed i laureati della Facolta'. Sono ammessi altresi' a frequentare l'Istituto gli studenti ed i laureati di altre Facolta' e di Istituti universitari anche stranieri che, in base a regolare domanda, ne ottengano la autorizzazione del direttore.  
+  
+Art. 66. - Agli insegnamenti complementari del corso di laurea in Lettere sono aggiunti i seguenti:  
+Paleografia greca;  
+Paleografia latina.  
+  
+Art. 108. - Agli insegnamenti complementari del corso di laurea in Medicina e chirurgia e' aggiunto quello di "Dermatologia sperimentale".  
+  
+Art. 116. - Agli Istituti della Facolta' di medicina e chirurgia e' aggiunto il seguente:  
+Istituto di anatomia topografica.  
+L'istituto di Clinica odontoiatrica muta denominazione in "Istituto di clinica odontoiatrica e stomatologica".  
+  
+Art. 174. - Agli insegnamenti obbligatori sul piano della Facolta' (b) del corso di laurea in Ingegneria meccanica e' aggiunto quello di "Scienza dei metalli".  
+  
+Art. 175. - Nel gruppo delle materie a scelta dello studente (c) del corso di laurea in Ingegneria elettrotecnica, indirizzo elettromeccanico, l'insegnamento di "Tecnologie meccaniche IV anno", e' abrogato e sostituito dall'insegnamento "Scienza dei metalli IV anno.".  
+  
+Art. 176. - Tra insegnamenti obbligatori sul piano della Facolta' (b) del corso di laurea in Ingegneria chimica l'insegnamento di "Tecnologie meccaniche" e' abrogato e sostituito dall'insegnamento di "Scienza dei metalli".  
+  
+Art. 179. - Agli insegnamenti obbligatori sul piano della Facolta' (5) del corso di laurea in Ingegneria elettronica e' aggiunto quello di "Scienza dei metalli".  
+Dopo l'art. 183, e con il conseguente spostamento della successiva numerazione sono aggiunti i seguenti nuovi articoli, relativi alla costituzione e regolamentazione degli Istituti della Facolta' di ingegneria.  
+  
+Art. 184. - Gli insegnamenti della Facolta' di ingegneria sono raggruppati in Istituti comprendenti materie affini con lo scopo di promuovere e coordinare l'insegnamento e la ricerca nelle discipline che ad essi fanno capo; unificare i servizi, gli impianti e le attrezzature. Essi utilizzano i locali, il personale e le dotazioni assegnati alle cattedre che li costituiscono.  
+  
+Art. 185. - Ogni cattedra coperta da professore di ruolo costituisce, di regola, Istituto con la denominazione della cattedra stessa.  
+Potranno essere, pero', costituite in' Istituto quelle cattedre che, pur non essendo coperte da professori di ruolo hanno i requisiti per assumere tale titolo.  
+  
+Art. 188. - Il direttore dell'Istituto e' il professore, di ruolo o incaricato, che impartisce l'insegnamento da cui l'Istituto medesimo trae la denominazione.  
+Il direttore e' responsabile dell'amministrazione e del funzionamento dell'Istituto.  
+  
+Art. 187. - Previa deliberazione del Consiglio di facolta', potranno essere raggruppati in Istituto due o piu' insegnamenti affini, anche se non coperti da professori di ruolo. In tal caso la direzione dell'Istituto verra' affidata ad uno dei professori incaricati degli insegnamenti che vi fanno capo eccezionalmente, ad un professore di ruolo di altra materia, designato dalla Facolta' e nominato con decreto rettorale.  
+  
+Art. 188. - Gli Istituti costituiti presso la Facolta' sono i seguenti:  
+Acquedotti e fognature;  
+Aerodinamica;  
+Architettura e composizione architettonica;  
+Architettura navale Architettura tecnica;  
+Chimica industriale;  
+Costruzioni aeronautiche;  
+Costruzioni idrauliche;  
+Costruzioni di macchine;  
+Costruzioni di ponti;  
+Costruzioni di strade, ferrovie ed aeroporti;  
+Costruzioni navali mercantili;  
+Disegno;  
+Elettrochimica;  
+Elettrotecnica;  
+Fisica tecnica;  
+Geologia applicata;  
+Idraulica;  
+Impianti chimici;  
+Impianti meccanici;  
+Macchine;  
+Macchine marine;  
+Meccanica applicata alle macchine;  
+Progetti di macchine;  
+Semenza delle costruzioni;  
+Tecnica delle costruzioni;  
+Tecnica delle fondazioni e costruzioni in terra;  
+Tecnica ed economia dei trasporti;  
+Tecnica urbanistica;  
+Tecnologie meccaniche;  
+Topografia.  
+Per deliberazione del Consiglio di facolta', agli Istituti come sopra costituiti potranno essere unite altre cattedre di materie affini.  
+Qualora una cattedra coperta per incarico assurgera' a cattedra di ruolo, questa o si distacca dal raggruppamento a cui appartiene per costituirsi in Istituto, ovvero il detto raggruppamento prende la denominazione di Istituto con il nome della cattedra passata di ruolo.  
+  
+Art. 189. - Ogni Istituto potra' eventualmente disporre, secondo modalita' intese ad assicurare il raggiungimento delle finalita' nel modo piu' idoneo, di fondi per la ricerca e di borse di studio provenienti da enti pubblici e privati italiani e stranieri.  
+  
+Art. 196. - Agli Istituti della Facolta' di architettura sono aggiunti i seguenti Istituto di edilizia;  
+Istituto di metodologia architettonica;  
+Istituto di disegno e rilievo dei monumenti.  
+  
+Art. 220. - Dopo l'elenco degli insegnamenti del corso di laurea in Medicina veterinaria, il primo comma, relativo alle modalita' di esami dell'insegnamento di Anatomia degli animali domestici con istologia ed embriologia e' abrogato e sostituito dal seguente:  
+"L'insegnamento di Anatomia degli animali domestici con istologia ed embriologia comprende due esami: uno alla fine del primo anno vertente sulla istologia, embriologia e l'anatomia generale, compreso lo studio della osteologia, artrologia e miologia; uno alla fine del secondo anno vertente sull'anatomia macroscopica e microscopica dei vari apparati".  
+  
+Art. 297. - Il secondo comma - relativo al numero degli iscritti della scuola di specializzazione in Malattie nervose e mentali - e' abrogato e sostituito dal seguente:  
+"Il numero degli allievi che possono essere iscritti alla Scuola non puo' essere complessivamente superiore a cinquanta".  
+  
+Art. 300. - Il primo comma - relativo al numero degli iscritti della Scuola di specializzazione in radiologia medica e medicina nucleare - e' abrogato e sostituito dal seguente:  
+"La Scuola ha la durata di tre anni. Il numero massimo degli iscritti e' di quindici per ogni anno di corso".  
+  
+Art. 316. - Il primo comma - relativo al numero degli iscritti della Scuola di specializzazione di Igiene generale e speciale - e' abrogato e sostituito dal seguente:  
+"Il numero degli allievi da ammettere ogni anno accademico non puo' essere superiore a cinquanta".  
+  
+Art. 324. - Agli insegnamenti del 5° anno di corso della Scuola di specializzazione in Medicina interna e' aggiunto quello di:  
+"5) Diagnostica e terapia con isotopi radioattivi in medicina interna".  
+  
+Art. 327. - Il primo comma - relativo al numero degli iscritti della Scuola di specializzazione in Anestesiologia - e' abrogato e sostituito dal seguente:  
+"Il numero degli allievi da ammettere ogni anno accademico non puo' essere superiore a quindici: potranno eventualmente ottenere un'abbreviazione di corso coloro i quali siano in possesso di speciali titoli".  
+  
+Art. 366. - Il primo comma - relativo al numero degli iscritti della Scuola di specializzazione in Cardiologia e malattie dei vasi - e' abrogato e sostituito dal seguente:  
+"Il numero degli allievi da ammettere ogni anno accademico non puo' essere superiore a venti".  
+  
+Art. 390. - Il secondo comma - relativo al numero degli iscritti alla Scuola di specializzazione in Semeiotica e diagnostica di laboratorio, e' abrogato e sostituito dal seguente:  
+"Il numero massimo degli iscritti e' di trentadue per ogni anno di corso".  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 28 agosto 1971
+### Dato a Roma, addi' 13 agosto 1964
 
-SARAGAT MISASI
+Per il Presidente della Repubblica Il Presidente del Senato MERZAGORA GUI
 
-Visto, il Guardasigilli: COLOMBO
+Visto, il Guardasigilli: REALE
 
-Registrato alla Corte dei conti, addi' 23 febbraio 1972
+Registrato alla Corte dal conti, addi' 22 ottobre 1964
 
-Atti del Governo, registro n. 247, foglio n. 60. - VALENTINI
+Atti del Governo, registro n. 187, foglio n. 160. - VILLA

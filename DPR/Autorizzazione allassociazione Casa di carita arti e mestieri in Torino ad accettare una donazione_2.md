@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 01 aprile 1977 n. 400
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 01 aprile 1977 n. 377
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 01 aprile 1977 n. 400
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 01 aprile 1977 n. 377
 =============================================================
 
 Autorizzazione all'associazione "Casa di carita' arti e mestieri", in Torino, ad accettare una donazione.
@@ -12,9 +12,8 @@ Art. 1
 
 N.
 
-400. Decreto del presidente della Repubblica 1 aprile 1977, col quale, sulla proposta del Ministro per il lavoro e la previdenza sociale, l'associazione "Casa di carita' arti e mestieri", in Torino, viene autorizzata ad accettare la donazione, da parte dell'"Unione catechisti del SS. Crocefisso e di Maria SS.  
-Immacolata", di Torino, dell'immobile sito in Torino, via Bernardino Galliari, 2, angolo via Saluzzo, censito al nuovo catasto edilizio urbano alla partita 62614, foglio 189, n. 183, comprendente quattordici unita' immobiliari per vani accatastati 42, mq 274, con atto rogato per notar Billia di Torino in data 28 gennaio 1976, n. 61190/28483 di repertorio, registrato in Torino, ufficio atti pubblici il 13 febbraio 1976, al n. 5850, vol. 1313, allo scopo di destinarlo al raggiungimento dei fini istituzionali.  
+377. Decreto del Presidente della Repubblica 1 aprile 1977, col quale, sulla proposta del Ministro per il lavoro e la previdenza sociale, l'associazione "Casa di carita' arti e mestieri", in Torino, viene autorizzata ad accettare la donazione da parte della congregazione dei fratelli delle scuole cristiane di Asolo (Treviso) del complesso di macchinari, attrezzature, mobili ed arredamenti vari ubicati nell'ufficio della casa della carita' "Fratel Teodoreto", in Grugliasco, via Perrotti, 94, effettuata con atto rogato per notar Billia di Torino in data 15 ottobre 1975, n. 59519/27941 di repertorio, registrato in Torino, ufficio atti pubblici il 28 ottobre 1975 al n. 27373, vol. 1305 (da parte della congregazione) come meglio specificato nell'elenco facente parte dell'atto di donazione.  
   
 Visto, il Guardasigilli: BONIFACIO  
-Registrato alla Corte dei conti, addi' 7 luglio 1977  
-Registro n. 1 Lavoro, foglio n. 26
+Registrato alla Corte dei conti, addi' 2 luglio 1977  
+Registro n. 1 Lavoro, foglio n. 25

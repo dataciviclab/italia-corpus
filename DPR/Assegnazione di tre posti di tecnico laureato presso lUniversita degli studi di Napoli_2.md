@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 23 dicembre 1983 n. 1179
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 21 novembre 1984 n. 1122
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 23 dicembre 1983 n. 1179
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 21 novembre 1984 n. 1122
 ================================================================
 
 Assegnazione di tre posti di tecnico laureato presso l'Universita' degli studi di Napoli.
@@ -10,13 +10,13 @@ Assegnazione di tre posti di tecnico laureato presso l'Universita' degli studi d
 Art. 1
 ------
 
-N.
+n.
 
-1179. Decreto del Presidente della Repubblica 23 dicembre 1983, col quale, sulla proposta del Ministro della pubblica istruzione, tre posti disponibili nel ruolo dei tecnici laureati vengono assegnati all'Universita' di Napoli come segue:  
+1122. Decreto del Presidente della Repubblica 21 novembre 1984, col quale, sulla proposta del Ministro della pubblica istruzione, tre posti disponibili nel ruolo dei tecnici laureati vengono assegnati all'Universita' di Napoli come segue:  
   
-Facolta' di medicina e chirurgia:  
+Centro di calcolo elettronico interfacolta. . . . . . . . . . posti 1 Prima facolta' di medicina e chirurgia:  
 istituto di semeiotica medica . . . . . . . . . . . . . . . . posti 1 Seconda facolta' di medicina e chirurgia:  
-clinica pediatrica. . . . . . . . . . . . . . . . . . . . . . posti 2   
+istituto di medicina legale e delle assicurazioni . . . . . . posti 1   
 Visto, il Guardasigilli: MARTINAZZOLI  
-Registrato alla Corte dei conti, addi' 28 aprile 1984  
-Registro n. 25 Istruzione, loglio n. 211
+Registrato alla Corte dei conti, addi' 5 marzo 1985  
+Registro n. 13 Istruzione, foglio n. 374

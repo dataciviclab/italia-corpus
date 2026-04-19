@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 03 aprile 1984 n. 419
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 luglio 1982 n. 730
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 03 aprile 1984 n. 419
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 luglio 1982 n. 730
 =============================================================
 
 Modificazione allo statuto dell'Universita' degli studi di Palermo.
@@ -18,7 +18,7 @@ Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it
 
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
 
-Vista la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
 
 Veduto il [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
 
@@ -39,19 +39,20 @@ Articolo unico
 --------------
 
   
-Nell'art. 50, relativo al corso di laurea in medicina e chirurgia, all'elenco degli insegnamenti complementari e' aggiunto il seguente nuovo insegnamento:  
-virologia clinica.  
+Nell'art. 67, relativo al corso di laurea in farmacia, all'elenco degli insegnamenti complementari sono aggiunti i seguenti nuovi insegnamenti:  
+laboratorio di preparazione estrattiva e sintetica dei farmaci;  
+istituzioni di patologia generale.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 3 aprile 1984
+### Dato a Roma, addi' 22 luglio 1982
 
-PERTINI FALCUCCI
+PERTINI BODRATO
 
-Visto, il Guardasigilli: MARTINAZZOLI
+Visto, il Guardasigilli: DARIDA
 
-Registrato alla Corte dei conti, addi' 20 luglio 1984
+Registrato alla Corte dei conti, addi' 28 settembre 1982
 
-Registro n. 45 Istruzione, foglio n. 323
+Registro n. 112 Istruzione, foglio n. 367

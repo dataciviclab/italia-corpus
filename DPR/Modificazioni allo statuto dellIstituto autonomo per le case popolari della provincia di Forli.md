@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 24 dicembre 1973 n. 1141
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 01 giugno 1968 n. 912
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 24 dicembre 1973 n. 1141
-================================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 01 giugno 1968 n. 912
+=============================================================
 
 Modificazioni allo statuto dell'Istituto autonomo per le case popolari della provincia di Forli'.
 -------------------------------------------------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-1141. Decreto del Presidente della Repubblica 24 dicembre 1973, col quale, sulla proposta del Ministro per i lavori pubblici, vengono approvate le modificazioni agli articoli 4, 6, 9 e 16 dello statuto dell'Istituto autonomo per le case popolari della provincia di Forli', approvato con regio decreto 23 agosto 1943.  
+912. Decreto del Presidente della Repubblica 1 giugno 1968, col quale, sulla proposta del Ministro per i lavori pubblici vengono approvate le modifiche degli articoli 4, 9, 11, 13 e 21 dello statuto dell'Istituto autonomo per le case popolari della provincia di Forli'.  
   
-Visto, il Guardasigilli: ZAGARI  
-Registrato alla Corte dei conti, addi' 28 agosto 1974  
-Atti di Governo, registro n. 5, foglio n. 23. - SCIARRETTA
+Visto, il Guardasigilli: GONELLA  
+Registrato alla Corte dei conti, addi' 21 agosto 1968  
+Atti del Governo, registro n. 222, foglio n. 87 - DI PRETORO

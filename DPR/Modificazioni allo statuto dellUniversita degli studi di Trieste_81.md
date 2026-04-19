@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 settembre 1980 n. 946
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 29 maggio 1981 n. 902
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 settembre 1980 n. 946
-================================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 29 maggio 1981 n. 902
+=============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Trieste.
 -------------------------------------------------------------------
@@ -18,238 +18,85 @@ Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it
 
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
 
-Veduta la [legge 22 maggio 1978, n. 217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-05-22;217);
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
 
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Trieste e convalidati dal Consiglio universitario nazionale nei suoi pareri;
+Veduto il [decreto del Presidente della Repubblica n. 382 dell'11 luglio 1980](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
+
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Trieste e convalidati dal Consiglio universitario nazionale nel suo parere;
 
 Sentito il parere del Consiglio universitario nazionale;
 
-Veduto il [parere della sezione prima del Consiglio di Stato, n. 1902/74 del 14 febbraio 1975](https://e-justice.europa.eu/ecli/ECLI::::);
+Veduta la necessita' di adeguare le norme sulla direzione delle scuole di perfezionamento, di specializzazione e delle scuole dirette a fini speciali a quanto disposto dall'art. 16 del citato [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
 
-Considerato che non appare opportuno, al momento, procedere ad una generale revisione delle norme statutarie di tutti gli atenei relative alla direzione delle scuole di specializzazione e perfezionamento e degli istituti nonche' delle scuole dirette a fini speciali, attualmente affidata esclusivamente ai professori di ruolo o fuori ruolo, in attesa del provvedimento relativo allo stato giuridico del personale docente;
+Sulla proposta del Ministro della pubblica istruzione;
 
-Sulla
------
+Decreta:
+--------
 
-proposta del Ministro della pubblica istruzione; Decreta:
+Lo statuto dell'Universita' degli studi di Trieste, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
-Art. 1
-------
+Articolo unico
+--------------
 
   
-Lo statuto dell'Universita' di Trieste, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-Gli articoli 140 e 141, relativi alla scuola di specializzazione in igiene e medicina preventiva, sono soppressi e sostituiti dai seguenti:  
-Art. 140. - La scuola di specializzazione in igiene e medicina preventiva ha sede presso l'istituto di igiene di questa Universita' e conferisce il diploma di specialista in igiene e medicina preventiva.  
-La direzione della scuola e' affidata al professore di ruolo o fuori ruolo della stessa materia della specializzazione o, in carenza, al professore di ruolo o fuori ruolo di materia affine.  
-Possono iscriversi alla scuola i laureati in medicina e chirurgia.  
-E' richiesto almeno all'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale rilasciato dall'autorita' competente.  
-La durata del corso di studi e' di quattro anni e non e' suscettibile di abbreviazione.  
-Viene ammessa soltanto l'iscrizione al terzo corso di altro orientamento dopo aver conseguito il diploma di uno degli orientamenti previsti.  
-Il numero massimo degli allievi e' di venti per anno di corso e complessivamente di ottanta iscritti per l'intero corso di studi.  
-L'ammissione al corso avviene per titoli ed esami.  
-Art. 141. - Il corso si articola in un biennio propedeutico seguito da un biennio differenziato con cinque orientamenti e precisamente:  
-a) sanita' pubblica;  
-b) igiene e tecnica ospedaliera;  
-c) igiene del lavoro;  
-d) igiene e medicina scolastica;  
-e) laboratorio.  
-Il piano di studi e' il seguente:  
+Dopo l'art. 120, con il conseguente spostamento della numerazione successiva, sono inseriti i seguenti nuovi articoli:  
   
-I BIENNIO  
+A) Scuola di specializzazione in pedagogia  
+  
+Art. 121. - Alla facolta' di magistero dell'Universita' di Trieste e' annessa una scuola di specializzazione in pedagogia che conferisce il diploma di specializzazione nella ricerca pedagogica e nella sperimentazione.  
+Alla scuola vengono ammessi per concorso ogni anno cinquanta laureati in pedagogia in una facolta' di magistero o laureati con una tesi su argomento pedagogico o didattico in una facolta' umanistica o scientifica.  
+L'esame di ammissione consiste in una prova scritta e in un colloquio, entrambi valutati in trentesimi, e in base ai risultati delle prove sara' stabilita una graduatoria.  
+A parita' di condizioni nella graduatoria hanno precedenza di ammissione i laureati in pedagogia in una facolta' di magistero.  
+Art. 122. - Nella scuola sono impartiti i seguenti insegnamenti cosi' distribuiti per ciascun anno di corso:  
+1° Anno:  
+pedagogia;  
+psicologia pedagogica;  
+auxologia ed igiene;  
+due complementari.  
+2° Anno:  
+storia della pedagogia;  
+didattica;  
+un complementare.  
+Sono insegnamenti complementari:  
+filosofia del linguaggio;  
+istituzioni di diritto pubblico e legislazione scolastica;  
+metodologia e didattica degli audiovisivi;  
+pedagogia comparata;  
+sociologia dell'educazione;  
+storia della letteratura per l'infanzia.  
+Art. 123. - La scuola di specializzazione in pedagogia svolge la sua attivita' secondo le norme di cui al titolo 3, capitolo I, articoli 105, 106, 107, 108, 109, 110 e 111 dello statuto dell'Universita' di Trieste.  
+Ai sensi del suddetto art. 107, oltre agli insegnamenti di cui all'art. 122, presso la scuola potranno svolgersi cicli di conferenze e di esercitazioni su speciali materie stabilite annualmente dal consiglio di facolta'.  
+Su tali materie potra' sostenersi, in ciascun anno, la prova di esame sostitutiva di un esame su un insegnamento complementare di cui all'art. 122.  
+L'organizzazione della scuola e' affidata, nella facolta', all'istituto di pedagogia a cui fanno capo gli insegnamenti della scuola stessa.  
+Detto istituto porra' a disposizione della scuola quanto necessario per il suo funzionamento ed in particolare i corredi di carattere scientifico e bibliografico, i supporti ed i sussidi di carattere didattico gia' disponibili nella sede dell'istituto in misura sufficiente.  
+Salve restando le attribuzioni del preside e del consiglio della facolta' di magistero, la scuola e' retta da un direttore e da un consiglio costituito dai professori che vi insegnano.  
+Il direttore e' nominato dal rettore per un biennio e puo' essere confermato.  
+La direzione della scuola e' affidata a professore ordinario, straordinario o fuori ruolo che insegni anche nella scuola stessa. In caso di motivato impedimento la direzione della scuola e' affidata a professore associato che pure insegni nella scuola medesima.  
+Art. 124. - Ai sensi dell'art. 111 dello statuto dell'Universita' di Trieste le tasse di iscrizione e le soprattasse della scuola sono le seguenti:  
   
 1° Anno:  
-metodologia statistica e biometria;  
-educazione sanitaria;  
-psicologia;  
-microbiologia e immunologia I;  
-parassitologia;  
-epidemiologia generale e metodologia;  
-profilassi generale;  
-sociologia medica ed antropologia culturale.  
-2° Anno:  
-microbiologia ed immunologia II;  
-patologia e clinica delle malattie infettive;  
-epidemiologia e profilassi delle malattie infettive I;  
-patologia e clinica delle malattie non infettive di importanza sociale;  
-epidemiologia e profilassi delle malattie non infettive di importanza sociale I;  
-demografia e statistica sanitaria;  
-legislazione e programmazione sanitaria.  
+tassa di immatricolazione . . . . . . . . . . . . . . . . . L. 10.000 tassa annuale di iscrizione . . . . . . . . . . . . . . . . L. 50.000 tassa annuale di esami. . . . . . . . . . . . . . . . . . . L. 10.000 Totale. . . . . . . . . . . . . . . . . . . . . . . . . . . L. 70.000 Anni successivi:  
+tassa annuale di iscrizione . . . . . . . . . . . . . . . . L. 50.000 tassa annuale di esami. . . . . . . . . . . . . . . . . . . L. 10.000 Totale. . . . . . . . . . . . . . . . . . . . . . . . . . . L. 60.000 soprattassa di diploma. . . . . . . . . . . . . . . . . . . L. 10.000   
+Art. 125. - Il consiglio direttivo della scuola approva:  
+a) i programmi dei singoli corsi di insegnamento e la rispettiva durata;  
+b) l'iscrizione al secondo anno di corso degli allievi che abbiano sostenuto almeno due esami fondamentali ed un complementare del primo anno.  
+Art. 126. - L'esame di diploma consiste nella discussione orale di una dissertazione scritta su di un argomento di ricerca pedagogica e di sperimentazione assegnato da uno dei docenti della scuola sentito il parere del consiglio direttivo.  
+Il candidato non riconosciuto idoneo ad una prima prova dell'esame di diploma puo' ripresentarsi una seconda volta ma non nello stesso anno accademico.  
+Le commissioni di esame sono costituite da insegnanti della scuola secondo le norme vigenti degli esami universitari. Gli esami saranno svolti nelle sessioni di esame previste dalla legge.  
+Art. 127. - Per conseguire il diploma si richiede una frequenza di due anni, il superamento di tutti gli esami relativi al primo ed al secondo anno e dell'esame di diploma.  
   
-II BIENNIO  
-  
-a) Orientamento di sanita' pubblica.  
-3° Anno:  
-epidemiologia e profilassi delle malattie infettive II;  
-epidemiologia e profilassi delle malattie non infettive di importanza sociale II;  
-igiene dell'ambiente fisico e difesa ecologica;  
-igiene degli alimenti e della nutrizione;  
-igiene dell'eta' evolutiva;  
-igiene del lavoro;  
-igiene dell'assistenza dell'anziano.  
-4° Anno:  
-igiene dell'edilizia e dell'aggregato urbano;  
-igiene ospedaliera;  
-organizzazione del territorio e programmazione sanitaria;  
-medicina di comunita';  
-economia sanitaria;  
-elementi di diritto amministrativo.  
-b) Orientamento di igiene e tecnica ospedaliera.  
-3° Anno:  
-epidemiologia e profilassi delle malattie infettive II;  
-epidemiologia e profilassi delle malattie non infettive di importanza sociale II;  
-igiene dell'ambiente fisico e difesa ecologica;  
-igiene e tecnica delle costruzioni ospedaliere;  
-arredamenti ed impianti tecnologici;  
-igiene dell'alimentazione e dietetica ospedaliera;  
-organizzazione e funzionamento degli ospedali I;  
-elementi di diritto e legislazione ospedaliera.  
-4° Anno:  
-organizzazione e funzionamento degli ospedali II;  
-compiti ed attribuzioni della direzione sanitaria;  
-formazione professionale e compiti del personale ospedaliero;  
-programmazione ospedaliera e medicina di comunita';  
-assistenza psichiatrica;  
-aspetti sociosanitari dell'ospitalismo;  
-aspetti economici della gestione ospedaliera.  
-c) Orientamento di igiene del lavoro.  
-3° Anno:  
-epidemiologia e profilassi delle malattie infettive II;  
-epidemiologia e profilassi delle malattie non infettive di importanza sociale II;  
-igiene dell'ambiente fisico e difesa ecologica;  
-epidemiologia e profilassi delle malattie del lavoro;  
-tecnica ed economia degli impianti industriali;  
-tossicologia industriale e diagnostica di laboratorio;  
-elementi di fisica applicata all'igiene;  
-igiene dell'ambiente di lavoro I.  
-4° Anno:  
-igiene dell'ambiente di lavoro II;  
-elementi di diritto e legislazione del lavoro;  
-psicologia del lavoro;  
-prevenzione degli infortuni;  
-politica del territorio e insediamenti industriali;  
-igiene del lavoro e medicina di comunita'.  
-d) Orientamento di igiene e medicina scolastica.  
-3° Anno:  
-epidemiologia e profilassi delle malattie infettive II;  
-epidemiologia e profilassi delle malattie non infettive di importanza sociale II;  
-igiene dell'ambiente fisico e difesa ecologica;  
-clinica delle malattie dell'eta' evolutiva;  
-epidemiologia e profilassi delle malattie dell'eta' evolutiva;  
-igiene degli alimenti e della nutrizione;  
-auxologia normale e patologica;  
-psicologia dell'eta' evolutiva.  
-4° Anno:  
-servizi di medicina scolastica;  
-edilizia e arredamento scolastico;  
-elementi di pedagogia;  
-assistenza parascolastica;  
-educazione sanitaria nella scuola;  
-legislazione scolastica;  
-igiene meritale.  
-c) Orientamento di laboratorio.  
-3° Anno:  
-epidemiologia e profilassi delle malattie infettive II;  
-epidemiologia e profilassi delle malattie non infettive di importanza sociale II;  
-igiene dell'ambiente fisico e difesa ecologica;  
-metodi e dosaggi fisico-chimici per il controllo dell'inquinamento ambientale;  
-metodi e dosaggi biologici per il controllo dell'inquinamento ambientale;  
-strumentazione e metodologie chimico-cliniche ed ematologiche I; microscopia applicata all'igiene;  
-elementi di fisica tecnica applicata all'igiene;  
-accertamento diagnostico delle malattie infettive e parassitarie I.  
-4° Anno:  
-metodi e dosaggi fisico-chimici per il controllo dell'inquinamento ambientale II;  
-accertamento diagnostico delle malattie infettive e parassitarie II;  
-strumentazione e metodologie chimico-cliniche ed ematologiche II; ispezione e controllo degli alimenti;  
-elementi di informatica.  
-Gli esami relativi alle discipline svolte con insegnamento biennale verranno sostenuti alla fine di detti insegnamenti.  
-I corsi saranno completati da insegnamenti complementari scelti dalla scuola tra i seguenti:  
-Materie complementari:  
-automazione del sistema ospedaliero;  
-biochimica applicata;  
-climatologia;  
-diritto sanitario internazionale;  
-elementi di medicina legale;  
-genetica umana;  
-geologia applicata all'igiene;  
-idrologia;  
-igiene dei climi tropicali;  
-igiene dei trasporti;  
-igiene militare;  
-igiene rurale;  
-istituzione di matematica;  
-micologia;  
-radioprotezionistica;  
-ispezione delle carni.  
-A giudizio della scuola possono essere indicati come complementari anche altri insegnamenti regolarmente attivati nei corsi di laurea dell'Universita' degli studi di Trieste.  
-I corsi sono integrati da un tirocinio pratico di durata comunque non inferiore a tre mesi, da svolgersi durante il secondo biennio.  
-La frequenza alle lezioni ed alle esercitazioni pratiche e' obbligatoria. Gli allievi che non conseguono le attestazioni di frequenza sul relativo libretto non potranno essere ammessi a sostenere le prove di esame.  
-Alla fine di ogni anno di corso gli iscritti per essere ammessi agli anni di corso successivi devono superare le prove di esame sulle materie impartite durante l'anno: per le materie a corso pluriennale l'esame e' sostenuto alla fine dei corsi medesimi.  
-Al termine del corso di studi, per il conseguimento del diploma di specialista in igiene e medicina preventiva, gli allievi devono superare l'esame di diploma consistente nella dissertazione scritta di un argomento attinente alla specializzazione.  
-
-Art. 2
-------
-
-  
-Dopo l'art. 171, e con il conseguente spostamento della numerazione successiva, sono inseriti i seguenti nuovi articoli relativi all'istituzione della scuola di specializzazione in oncologia.  
-Scuola di specializzazione in oncologia  
-Art. 172. - La scuola di specializzazione in oncologia ha sede presso l'istituto di anatomia ed istologia patologica dell'Universita' di Trieste e conferisce il diploma di specializzazione in oncologia.  
-Art. 173. - La direzione della scuola e' affidata al professore di ruolo o fuori ruolo della stessa materia della specializzazione o, in carenza, al professore di ruolo o fuori ruolo di materia affine.  
-Art. 174. - Possono iscriversi alla scuola di specializzazione i laureati in medicina e chirurgia. E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale, rilasciato dall'autorita' competente.  
-Art. 175. - La durata del corso di studi e' di tre anni e non e' suscettibile di abbreviazioni.  
-Art. 176. - Il numero massimo degli allievi e' di otto per anno di corso e complessivamente di ventiquattro iscritti per l'intero corso di studi.  
-Art. 177. - L'ammissione al corso avviene per titoli ed esami.  
-Art. 178. - Le materie di insegnamento sono le seguenti:  
-1° Anno:  
-patologia generale dei tumori (I);  
-oncologia sperimentale (I);  
-anatomia ed istologia patologica dei tumori (I);  
-epidemiologia dei tumori;  
-cancerogenesi ambientale e professionale e prevenzione primaria;  
-immunologia dei tumori.  
-2° Anno:  
-patologia dei tumori (II);  
-oncologia sperimentale (II);  
-anatomia ed istologia patologica dei tumori (II);  
-citodiagnostica dei tumori;  
-prevenzione clinica e tecniche diagnostiche e di laboratorio;  
-radiodiagnostica dei tumori;  
-oncologia medica (I);  
-oncologia chirurgica (I).  
-3° Anno:  
-oncologia medica (II);  
-oncologia chirurgica (II);  
-radioterapia dei tumori;  
-oncologia dell'apparato genitale femminile;  
-oncologia pediatrica;  
-principi di riabilitazione oncologica;  
-organizzazione della lotta contro i tumori.  
-La scuola provvedera' inoltre ad organizzare seminari e conferenze su specifici argomenti di:  
-oncologia otoiatrica e laringologica;  
-oncologia stomatologica;  
-oncologia del sistema nervoso centrale;  
-patologia dei tumori dell'apparato respiratorio;  
-terapia del dolore;  
-oncologia dermatologica;  
-oncologia dello scheletro e apparato locomotore;  
-oncologia urologica.  
-Art. 179. - Il corso di lezioni deve essere impartito mediante almeno centoventi lezioni annuali, comprensive delle varie materie.  
-Gli specializzandi hanno percio' obbligo di fare esercitazione pratica nei reparti, negli ambulatori e nei laboratori, oltre a seguire i corsi di lezioni ad essi impartiti. Il superamento degli esami di ciascun anno e' condizione indispensabile per l'iscrizione all'anno successivo. Per le materie a corso pluriennale l'esame deve essere sostenuto alla fine dei corsi medesimi.  
-Art. 180. - Al termine del triennio per ottenere il diploma i candidati devono presentare una dissertazione scritta su un argomento attinente alla specializzazione.  
-Le tasse, soprattasse e contributi della scuola di specializzazione in oncologia sono cosi' fissati:  
-  
-tassa di immatricolazione. . . . . . . . . . . . . . . . . . L. 5.000 costo di libretto d'iscrizione o tesserino . . . . . . . . . L. 1.500 tassa annuale di iscrizione. . . . . . . . . . . . . . . . L. 150.000 soprattassa esami di profitto. . . . . . . . . . . . . . . . L. 7.000 contributo opere sportive ed assistenziali . . . . . . . . . L. 1.000 contributo biblioteca . . . . . . . . . . . . . . . . . . . L. 10.000 contributo clinica e laboratorio. . . . . . . . . . . . . . L. 48.000 prestazioni di segreteria. . . . . . . . . . . . . . . . . . L. 4.000 contributo di riscaldamento. . . . . . . . . . . . . . . . . L. 3.000 tassa di diploma . . . . . . . . . . . . . . . . . . . . . . L. 6.000   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 5 settembre 1980
+### Dato a Roma, addi' 29 maggio 1981
 
-PERTINI SARTI
+PERTINI BODRATO
 
-Visto, il Guardasigilli: MORLINO
+Visto, il Guardasigilli: DARIDA
 
-Registrato alla Corte dei conti, addi' 30 dicembre 1980
+Registrato alla Corte dei conti, addi' 30 gennaio 1982
 
-Registro n. 122 Istruzione, foglio n. 16
+Registro n. 12 Istruzione, foglio n. 27

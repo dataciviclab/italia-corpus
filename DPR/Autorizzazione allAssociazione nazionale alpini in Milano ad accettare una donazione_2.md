@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 07 ottobre 1977 n. 823
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 20 marzo 1978 n. 142
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 07 ottobre 1977 n. 823
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 20 marzo 1978 n. 142
+============================================================
 
 Autorizzazione all'Associazione nazionale alpini, in Milano, ad accettare una donazione.
 ----------------------------------------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-823. Decreto del Presidente della Repubblica 7 ottobre 1977, col quale, sulla proposta del Ministro per la difesa, l'Associazione nazionale alpini, in Milano, viene autorizzata ad accettare, rispettandone la condizione, la donazione disposta dal dott. Sotero Bernardi e dai signori Giuseppe, Anna Maria e Raffaella Baldoni con atto pubblico 2 giugno 1976, n. 28846 di repertorio e n. 8150 di matrice, a rogito dott. Antonio Bosi, notaio in Bagnacavallo (Ravenna), consistente in una chiesetta in comune di Lama Mocogno (Modena) localita' Piane di Mocogno, dedicata agli alpini modenesi caduti per la Patria e del circostante terreno, della superficie catastale di mq 255.  
+142. Decreto del Presidente della Repubblica 20 marzo 1978, col quale, sulla proposta del Ministro della difesa, l'Associazione nazionale alpini, in Milano, viene autorizzata ad accettare, rispettandone gli oneri, la donazione di un immobile ubicato in comune di Varese, disposta dai signori Giuseppe Bonazzola e Piera Castelli ved. Bonazzola con atto pubblico 18 febbraio 1976, n. 70347/5613 di repertorio, a rogito dott. Giuseppe Bortoluzzi, notaio in Varese, consistente in un fabbricato urbano ad un piano fuori terra, composto di sei vani, della superficie coperta di centotrentacinque metri quadrati, con area di pertinenza di cinquecento metri quadrati, esclusa l'area di sedime del fabbricato, il tutto identificato nel nuovo catasto terreni al foglio 31, mappali 12933 e 18842, allibrati alla partita 3511 in ditta "De Micheli Antonietta di Giulio in Bonazzola".  
   
 Visto, il Guardasigilli: BONIFACIO  
-Registrato alla Corte dei conti, addi' 5 novembre 1977  
-Registro n. 29 Difesa, foglio n. 343
+Registrato alla Corte dei conti, addi' 21 aprile 1978  
+Registro n. 12 Difesa, foglio n. 383

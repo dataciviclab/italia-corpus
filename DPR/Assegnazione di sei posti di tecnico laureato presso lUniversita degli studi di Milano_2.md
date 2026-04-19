@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 15 luglio 1983 n. 572
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 29 agosto 1986 n. 695
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 15 luglio 1983 n. 572
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 29 agosto 1986 n. 695
 =============================================================
 
 Assegnazione di sei posti di tecnico laureato presso l'Universita' degli studi di Milano.
@@ -10,22 +10,13 @@ Assegnazione di sei posti di tecnico laureato presso l'Universita' degli studi d
 Art. 1
 ------
 
-N.
+n.
 
-572. Decreto del Presidente della Repubblica 15 luglio 1983, col quale sulla proposta del Ministro della pubblica istruzione, sei posti disponibili nel ruolo dei tecnici laureati vengono assegnati come segue:  
+695. Decreto del Presidente della Repubblica 29 agosto 1986, col quale, sulla proposta del Ministro della pubblica istruzione, sei posti disponibili nel ruolo dei tecnici laureati vengono assegnati all'Universita' di Milano come segue:  
+Facolta' di medicina e chirurgia:  
   
-UNIVERSITA' DI MILANO  
-Facolta' di scienze matematiche, fisiche e naturali:  
-istituto di farmacologia (per le esigenze  
-della cattedra di farmacologia applicata) . . . . . . . . . . posti 2 Facolta' di medicina e chirurgia:  
-istituto di clinica psichiatrica (per le esigenze  
-della prima cattedra) . . . . . . . . . . . . . . . . . . . . posti 1 istituto di ostetricia e ginecologia i (per  
-le esigenze della cattedra di fisiopatologia  
-e terapia del dolore) . . . . . . . . . . . . . . . . . . . . posti 1 dipartimento di scienze e tecnologie biomediche  
-(per le esigenze della ottava cattedra  
-di clinica medica generale e terapia medica). . . . . . . . . posti 1 Facolta' di medicina veterinaria:  
-istituto di malattie infettive, profilassi e  
-polizia veterinaria . . . . . . . . . . . . . . . . . . . . . posti 1   
-Visto, il Guardasigilli: MARTINAZZOLI  
-Registrato alla Corte dei conti, addi' 11 ottobre 1983  
-Registro n. 66 Istruzione, foglio n. 93
+istituto di clinica chirurgica II per le esigenze della cattedra di clinica chirurgica e terapia chirurgica II. . . . . . . . . . posti 1 istituto di clinica chirurgica III e chirurgia plastica . . . posti 1 istituto di medicina legale e delle assicurazioni (per le esigenze della cattedra di tossicologia forense) . . . . . . . . . . . posti 1 cattedra di clinica oculistica III. . . . . . . . . . . . . . posti 1 IX cattedra di clinica medica generale e terapia medica . . . posti 1 Facolta' di scienze matematiche, fisiche e naturali:  
+dipartimento di fisiologia e biochimica generali. . . . . . . posti 1   
+Visto, il Guardasigilli: ROGNONI  
+Registrato alla Corte dei conti, addi' 14 ottobre 1986  
+Registro n. 76 Istruzione, foglio n. 370

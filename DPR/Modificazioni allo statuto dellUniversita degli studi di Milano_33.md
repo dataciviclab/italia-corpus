@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 settembre 1970 n. 815
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 12 luglio 1964 n. 698
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 settembre 1970 n. 815
-================================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 12 luglio 1964 n. 698
+=============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Milano.
 ------------------------------------------------------------------
@@ -12,12 +12,10 @@ Art. 1
 
  IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Milano, approvato con [regio decreto 4 novembre 1926, n. 2280](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-11-04;2280) e modificato con [regio decreto 26 ottobre 1940, n. 2056](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;2056), e successive modificazioni;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto lo statuto dell'Universita' degli studi di Milano, approvato con [regio decreto 22 maggio 1939, n. 1166](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-05-22;1166), e modificato con [regio decreto 26 ottobre 1940, n. 2056](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;2056), e successive modificazioni;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1392](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1392);  
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
 Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
 Sentito il parere del Consiglio superiore della pubblica istruzione;  
 Sulla proposta del Ministro per la pubblica istruzione;  
@@ -25,61 +23,36 @@ Sulla proposta del Ministro per la pubblica istruzione;
 Decreta:  
   
 Lo statuto dell'Universita' degli studi di Milano, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-Art. 21. - All'elenco degli insegnamenti del corso di laurea in lettere sono aggiunti i seguenti:  
+Gli articoli da 79 a 82 relativi al corso di perfezionamento in Filologia moderna, sono abrogati e sostituiti dai seguenti con il conseguente spostamento della successiva numerazione:  
   
-Storia della lingua spagnola;  
-Storia della lingua russa;  
-Antropologia culturale;  
-Storia dell'architettura e urbanistica;  
-Teoria e storia del restauro;  
-Storia della pedagogia;  
-Psicopedagogia;  
-Metodologia e didattica;  
-Filologia italiana;  
-Storia del teatro e dello spettacolo;  
-Storia dell'agricoltura;  
-Africanistica;  
-Storia e civilta' dei Paesi arabi;  
-Storia della lingua tedesca;  
-Civilta' indigene dell'America;  
-Storia della Chiesa;  
-Archeologia e topografia medioevali;  
-Storia del giornalismo;  
-Storia delle relazioni internazionali.  
-Art. 22. - All'elenco degli insegnamenti complementari del corso di laurea in filosofia sono aggiunti i seguenti:  
-  
-Storia greca;  
-Psicologia sociale;  
-Psicologia dell'eta' evolutiva;  
-Antropologia culturale;  
-Storia della pedagogia;  
-Psicopedagogia;  
-Metodologia e didattica;  
-Storia della filosofia e della scienza musulmana;  
-Storia del teatro e dello spettacolo;  
-Istituzioni di filosofia.  
-Art. 23. - All'elenco degli insegnamenti complementari del corso di laurea in lingue e letterature moderne (indirizzo europeo) sono aggiunti i seguenti:  
-  
-Storia della lingua spagnola;  
-Storia della lingua russa;  
-Antropologia culturale;  
-Metodologia e didattica;  
-Storia del teatro e dello spettacolo;  
-Storia della lingua tedesca.  
-Art. 28. - All'elenco degli insegnamenti complementari del corso di laurea in medicina e chirurgia e' aggiunto quello di:  
-  
-Fisiochinesiterapia.  
+Scuola di perfezionamento in Filologia italiana e romanza  
+Art. 79. - E' istituita, presso la Facolta' di lettere e filosofia la scuola di perfezionamento in Filologia italiana e romanza.  
+La durata del corso e' di due anni.  
+Art. 80. - Al corso possono iscriversi i laureati in Lettere o Filosofia o in Lingue e letterature straniere moderne delle Facolta' di lettere.  
+Art. 81. - Per essere ammessi all'esame di diploma.  
+gli iscritti debbono seguire le lezioni, partecipare alle esercitazioni e superare gli esami orali nelle seguenti discipline:  
+a) Letteratura italiana (biennale);  
+b) Filologia romanza (biennale);  
+c) Storia della lingua italiana (biennale);  
+d) Storia medioevale o moderna (annuale);  
+e) Storia della critica (annuale).  
+E' data facolta' all'iscritto alla scuola di sostituire una delle discipline annuali previste dal piano di studio della scuola di perfezionamento con altra disciplina.  
+che abbia maggiore attinenza col suo indirizzo di studi.  
+Il piano di studi dell'iscritto deve essere sottoposto, all'inizio del corso degli studi, alla approvazione del direttore della scuola e del professore della materia in cui l'iscritto intende sostenere l'esame di diploma.  
+Art. 82. - Per conseguire il diploma di perfezionamento in Filologia italiana e romanza i candidati debbono presentare e discutere una dissertazione scritta in una delle discipline biennali previste dal piano di studi della scuola, svolta su un tema fissato all'inizio del corso degli studi d'intesa col professore della materia e con l'approvazione del direttore della scuola.  
+Art. 83. - Il direttore della scuola e' designato ogni triennio dal Consiglio di Facolta' nella persona di uno dei professori ordinari delle discipline comprese nel piano di studio della scuola.  
+Art. 84. - La Commissione degli esami di profitto e' quella prevista per i vari insegnamenti, secondo le disposizioni della Facolta'. La Commissione degli esami di diploma, composta di sette membri, e' presieduta dal preside della Facolta'; di essa fanno parte il direttore della scuola e cinque professori ufficiali da lui designati.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 27 settembre 1970
+### Dato a Roma, addi' 12 luglio 1964
 
-SARAGAT MISASI
+SEGNI GUI
 
 Visto, il Guardasigilli: REALE
 
-Registrato alla Corte dei conti, addi' 17 novembre 1970
+Registrato alla Corte dei conti, addi' 17 agosto 1964
 
-Atti del Governo, registro n. 238, foglio n. 66. - CARUSO
+Atti del governo, registro n. 185, foglio n. 42. - VILLA

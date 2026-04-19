@@ -1,180 +1,159 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 settembre 1957 n. 909
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 giugno 1979 n. 359
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 settembre 1957 n. 909
-================================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 giugno 1979 n. 359
+=============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Bologna.
 -------------------------------------------------------------------
 
+IL PRESIDENTE DELLA REPUBBLICA
+------------------------------
+
+Veduto lo statuto dell'Universita' di Bologna, approvato con [regio decreto 14 ottobre 1926, n. 2170](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2170), e modificato con [regio decreto 13 ottobre 1927, n. 2227](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2227), e successive modificazioni;
+
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
+
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
+
+Veduta la [legge 22 maggio 1978, n. 217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-05-22;217);
+
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Bologna, e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;
+
+Sentito il parere del Consiglio superiore della pubblica istruzione;
+
+Sulla
+-----
+
+proposta del Ministro della pubblica istruzione; Decreta:
+
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA   
   
-Veduto lo statuto dell'Universita' degli studi di Bologna, approvato con [regio decreto 14 ottobre 1926, n. 2170](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2170), e modificato con il [regio decreto 13 ottobre 1927, n. 2227](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2227), e successivi;   
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
-Veduto il regio decreto-legge 20 giugno 1935, ai. 1071, convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);   
-Veduto il [decreto del Presidente della Repubblica 9 novembre 1956, n. 1314](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1956-11-09;1314);   
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;   
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;   
-Sentito il parere del Consiglio superiore della pubblica istruzione.   
-Sulla proposta del Ministro per la pubblica istruzione;   
-  
-Decreta:   
   
 Lo statuto dell'Universita' degli studi di Bologna, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
-L'art. 1 e' sostituito dal seguente:   
-"L'Universita' di Bologna comprende le Facolta' di giurisprudenza, di economia e commercio, di lettere e filosofia, di magistero, di medicina e chirurgia, di scienze matematiche, fisiche e naturali, di chimica industriale, di farmacia, di ingegneria, di agraria, di medicina veterinaria".   
-All'art. 2, dopo la decima alinea e' aggiunto quanto appresso:   
+Gli articoli 520, 521 e 522, relativi alla scuola di specializzazione in psichiatria, sono soppressi e sostituiti dai seguenti:   
   
-Facolta' di magistero   
+Scuola di specializzazione in psichiatria   
+Art. 520. - La scuola di specializzazione in psichiatria ha sede presso l'istituto di psichiatria e conferisce il diploma di specialista in psichiatria.   
+Possono iscriversi alla scuola i laureati in medicina e chirurgia.   
+La durata del corso di studi e' di quattro anni e non e' suscettibile di abbreviazioni.   
+Il numero massimo degli allievi e' di dieci per anno di corso e complessivamente di quaranta iscritti per l'intero corso di studi.   
+L'ammissione al corso avviene per titoli ed esami.   
+Art. 521. - Le materie di insegnamento sono le seguenti:   
+1° Anno:   
+1) metodologia del rapporto medico-paziente (annuale);   
+2) psicologia (annuale);   
+3) elementi di genetica e biochimica (annuale);   
+4) struttura e funzioni integrative del SNC (annuale);   
+5) neurologia clinica (annuale);   
+6) clinica psichiatrica I (quadriennale).   
+2° Anno:   
+1) psicopatologia e psicodinamica (annuale);   
+2) psicoterapia I (triennale);   
+3) psicofarmacologia (annuale);   
+4) psicofarmacoterapia (annuale);   
+5) clinica psichiatrica II (quadriennale).   
+3° Anno:   
+1) psicodiagnostica ed informatica psichiatrica (annuale);   
+2) psichiatria sociale I (biennale);   
+3) psichiatria infantile (annuale);   
+4) psicoterapia II (triennale);   
+5) clinica psichiatrica III (quadriennale).   
+4° Anno:   
+1) psicosomatica (annuale);   
+2) psichiatria sociale II (biennale);   
+3) psichiatria forense (annuale);   
+4) psicoterapia III (triennale);   
+5) clinica psichiatrica IV (quadriennale).   
   
-Laurea in materie letterarie, durata del corso 4 anni;   
-Laurea in pedagogia, durata del corso 4 anni;   
-Laurea in lingue e letterature straniere, durata del corso 4 anni;   
-Diploma di abilitazione alla vigilanza nelle scuole elementari, durata del corso 3 anni.   
-Dopo l'art. 60 vanno inseriti i seguenti nuovi articoli, relativi all'ordinamento della Facolta' di magistero, con il conseguente spostamento della numerazione degli articoli successivi.   
+Note esplicative.   
+1) Strutture e funzioni integrative del SNC: tale materia, annuale, e' comprensiva della anatomofisiologia del SNC e della psicofisiologia.   
+2) Neurologia clinica: tale insegnamento, annuale, deve essere comprensivo, eventualmente con sottodivisioni, di cenni di anatomia patologica del SN, di semeiologia neurologica, clinica e strumentale, di neuroradiologia.   
+3) Clinica psichiatrica: tale materia, quadriennale, e' comprensiva anche degli elementi di semeiotica psichiatrica, delle tecniche laboratoristiche, delle terapie biologiche.   
+4) Psicoterapia: tale materia, triennale, comprende e considera nel corso dei tre anni, le tecniche e i principi fondamentali delle principali psicoterapie individuali, direttive e non direttive, i principi fondamentali e le dinamiche delle piu' importanti psicoterapie di gruppo, delle prassi psicoterapiche, socioterapiche e delle sociodinamiche delle istituzioni psichiatriche.   
+5) Psicodiagnostica ed informatica psichiatrica: tale materia, annuale, e' comprensiva di cenni di statistica, dei reattivi mentali e psicodiagnostica strumentale e di metodologia della ricerca psichiatrica.   
+6) Psichiatria sociale: tale materia, biennale, con molte possibilita' di suddivisioni, e' comprensiva di elementi di sociologia, di antropologia culturale, di etologia, di ecologia psichiatrica, di epidemiologia psichiatrica, di psichiatria transculturale, di psichiatria preventiva ed igiene mentale, prassi ed organizzazione di assistenza psichiatrica sul territorio extraistituzionale.   
+7) Psicosomatica: tale materia, annuale, e' comprensiva degli aspetti psichici delle malattie somatiche della cosiddetta medicina integrata, della endocrinologia in riferimento alla psichiatria delle cosiddette malattie psicosomatiche.   
+Art. 522. - E' obbligatoria la frequenza per undici mesi all'anno; tale periodo comprende sia la frequenza alle lezioni, sia l'esercitazione pratica nei reparti di degenza e nelle strutture ambulatoriali a disposizione della scuola.   
+Gli allievi che non conseguono le attestazioni di frequenza sul relativo libretto non possono essere ammessi a sostenere le prove di esame.   
+La scuola programma lo svolgimento dei corsi di insegnamento.   
+Per il passaggio agli anni successivi e' obbligatorio il superamento degli esami per ogni singolo anno. Per le materie a corso pluriennale l'esame e' sostenuto alla fine dei corsi medesimi.   
+Le lezioni teoriche sono integrate da seminari anche interdisciplinari, da documentazioni cliniche, esperienze effettuate nei vari settori della disciplina.   
+Alla fine dei quattro anni gli allievi che hanno frequentato i corsi sono ammessi all'esame di diploma, consistente nella presentazione e discussione di una tesi scritta di argomento pertinente alla psichiatria, in una prova orale e in una prova pratica.   
+Agli allievi che hanno ottenuto l'approvazione nell'esame di diploma viene rilasciato il diploma di specializzazione in psichiatria valido a tutti gli effetti di legge.   
+
+Art. 2
+------
+
   
-TITOLO VII   
-ORDINAMENTO DELLA FACOLTA' DI MAGISTERO   
   
-Art. 61. - La Facolta' di magistero conferisce dopo un corso di studi della durata di quattro anni le seguenti lauree:   
-a) in materie letterarie;   
-b) in pedagogia;   
-c) in lingue e letterature straniere;   
-conferisce inoltre dopo un corso di studi della durata di tre anni, il diploma di abilitazione alla vigilanza nelle scuole elementari.   
-Titoli di ammissione alla Facolta' sono, per i corsi di laurea in materie letterarie e in pedagogia, e per il diploma di abilitazione alla vigilanza, il diploma di abilitazione magistrale e il concorso; per il corso di laurea in lingue e letterature straniere il diploma di abilitazione magistrale o licenza, a norma dell'[art. 2 della legge 9 ottobre 1951, n. 1130](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1951-10-09;1130~art2), dalla Scuola civica "Regina Margherita" di Genova, ora "Grazia Deledda", o dalla Scuola civica "Alessandro Manzoni" di Milano, o dall'Istituto di cultura e di lingue "Marcelline" di Milano, e concorso.   
+Dopo l'art. 678, e con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi alla istituzione della seconda scuola di specializzazione in ginecologia ed ostetricia:   
   
-Laurea in materie letterarie   
-  
-Art. 62 - Gli insegnamenti per la laurea in materie letterarie sono i seguenti:   
-Fondamentali:   
-1) Lingua e letteratura italiana (triennale);   
-2) Lingua e letteratura latina (triennale);   
-3) Storia (triennale);   
-4) Geografia (triennale);   
-5) Pedagogia;   
-6) Storia della filosofia;   
-7) Lingua e letteratura moderna straniera a scelta (biennale).   
-Complementari:   
-1) Grammatica latina;   
-2) Filologia romanza;   
-3) Filologia germanica;   
-4) Istituzioni di diritto pubblico e legislazione scolastica;   
-5) Storia della grammatica e della lingua italiana;   
-6) Storia dell'arte medioevale e moderna;   
-7) Storia della letteratura latina medioevale;   
-8) Storia delle tradizioni popolari.   
-Il concorso di ammissione consiste:   
-a) nella valutazione dei voti riportati, agli esami per il conseguimento del diploma di abilitazione magistrale, nel gruppo delle materie letterarie;   
-b) in una prova iscritta di cultura generale, per cui sono concesse sei ore di tempo.   
-Il terzo anno del corso di geografia deve essere differenziato come corso di applicazione.   
-Nel corso di storia (triennale) un anno deve essere dedicato alla storia romana, il cui insegnamento sara' impartito ogni anno come corso indipendente: altri due anni devono essere dedicati alla storia medioevale e alla storia moderna, il cui insegnamento verra' impartito ad anni alterni.   
-Lo studente deve sostenere una prova scritta di traduzione latina, una della lingua straniera scelta e una di cultura generale.   
-Per essere ammesso all'esame di laurea lo studente deve aver seguito i corsi e superato gli esami in tutti gli insegnamenti fondamentali ed almeno in quattro da lui scelti tra i complementari.   
-  
-Laurea in pedagogia   
-  
-Art. 63. - Gli insegnamenti per la laurea in pedagogia sono i seguenti:   
-Fondamentali:   
-1) Lingua e letteratura italiana (biennale);   
-2) Lingua e letteratura latina (biennale);   
-3) Storia della filosofia (biennale);   
-4) Filosofia (biennale);   
-5) Pedagogia (biennale);   
-6) Storia (biennale);   
-7) Lingua e letteratura moderna straniera a scelta (biennale).   
-Complementari:   
-1) Filologia romanza;   
-2) Filologia germanica;   
-3) Istituzioni di diritto pubblico e legislazione scolastica;   
-4) Psicologia;   
-5) Storia dell'arte medioevale e moderna;   
-6) Storia della letteratura latina medioevale;   
-7) Storia delle tradizioni popolari.   
-Il concorso di ammissione consiste;   
-a) nella valutazione dei voti riportati, agli esami per il conseguimento del diploma di abilitazione magistrale, nella filosofia e nella pedagogia;   
-b) in una prova scritta di cultura generale, per cui sono Concesse sei ore di tempo;   
-Nel corso di storia (biennale) un anno deve essere dedicato alla storia medioevale ed un anno alla storia moderna, alternativamente.   
-Lo studente deve sostenere una prova scritta di italiano, una di traduzione latina, una della lingua straniera scelta ed una di cultura generale sulle discipline filosofiche.   
-Per essere ammesso all'esame di laurea lo studente deve aver seguito i corsi e superato gli esami in tutti gli insegnamenti fondamentali ed almeno in quattro da lui scelti fra i complementari.   
-  
-Laurea in lingue e letterature straniere   
-  
-Art. 64 - Gli insegnamenti per la laurea in lingue e letterature straniere sono i seguenti:   
-Fondamentali:   
-1) Lingua e letteratura italiana (biennale);   
-2) Lingua e letteratura latina (biennale);   
-3) Lingua e letteratura francese;   
-4) Lingua e letteratura tedesca;   
-5) Lingua e letteratura inglese;   
-6) Lingua e letteratura spagnola;   
-7) Filologia romanza;   
-8) Filologia germanica;   
-9) Storia (biennale);   
-10) Geografia.   
-Complementari:   
-1) Storia della filosofia;   
-2) Filosofia;   
-3) Pedagogia;   
-4) Storia dell'arte medievale e moderna;   
-5) Storia della letteratura latina medioevale;   
-6) Storia della grammatica e della lingua italiana;   
-7) Storia delle tradizioni popolari.   
-Il concorso di ammissione consiste:   
-a) nella valutazione dei voti riportati, nel gruppo delle materie letterarie, agli esami per il conseguimento del titolo di studi medi prescritto per l'ammissione;   
-b) in una prova scritta di cultura generale, per cui sono concesse sei ore di tempo.   
-Le studente deve seguire per tutti i quattro anni lo insegnamento della lingua straniera alla quale intende dedicare i suoi studi, e per due anni quello di un'altra delle lingue straniere: egli puo' inoltre seguire, pure per due anni, l'insegnamento di una terza lingua straniera, nel qual caso puo' diminuire di uno gli insegnamenti complementari.   
-Nel corso di storia (biennale) un anno deve essere dedicato alla storia medioevale ed un anno alla storia moderna, alternativamente.   
-Lo studente deve sostenere una prova scritta di italiano, una di traduzione latina ed una di cultura generale nella lingua straniera nella quale ha approfondito i suoi studi per il conseguimento della laurea.   
-Per essere ammesso all'esame di laurea lo studente deve aver seguito i corsi e superato gli esami in tutti gli insegnamenti fondamentali ad almeno in tre da lui scelti fra i complementari.   
-  
-Diploma di abilitazione alla vigilanza nelle scuole elementari   
-  
-Art. 65. - Gli insegnamenti per il diploma di abilitazione alla vigilanza nelle scuole elementari sono i seguenti:   
-Fondamentali:   
-1) Pedagogia (triennale);   
-2) Lingua e letteratura italiana (biennale);   
-3) Lingua e letteratura latina (biennale);   
-4) Storia (biennale);   
-5) Geografia (biennale);   
-6) Storia della filosofia (biennale);   
-7) Istituzioni di diritto pubblico e legislazione scolastica;   
-8) Igiene.   
-Complementari:   
-1) Lingua moderna straniera a scelta (biennale).   
-Il concorso di ammissione consiste:   
-a) nella valutazione dei voti riportati, agli esami per il conseguimento del diploma di abilitazione magistrale, nel gruppo delle materie letterarie e nella filosofia e pedagogia;   
-b) in una prova scritta di cultura generale per cui sono concesse sei ore di tempo.   
-Lo studente deve sostenere una prova scritta di pedagogia, una di italiano ed una della lingua straniera prescelta.   
-Per conseguire il diploma lo studente deve aver seguito i corsi e superato gli esami in tutti gli insegnamenti fondamentali ed in quello complementare.   
-  
-Norme comuni ai vari corsi di studio   
-  
-Art. 66. - Per gli insegnamenti pluriennali sono prescritti distinti esami annuali. La prova scritta, per le materie in cui e' contemplata, si sostiene quando l'insegnamento ad essa relativo sia frequentato per il prescritto numero di anni; la prova deve precedere l'ultimo esame orale della relativa materia, ed esclude da questo se non viene sostenuto con esito positivo.   
-  
-Art. 67. - Con pubblico manifesto sono comunicati annualmente i piani di studi consigliati per i singoli corsi di laurea e di diploma e sono prescritte le esercitazioni e le eventuali prove per gli insegnamenti per i quali siano ritenute opportune dal Consiglio della Facolta'.   
-Gli studenti che aspirano all'esenzione delle tasse scolastiche sono tenuti a seguire i piani di studi consigliati, con le norme stabilite dalle vigenti disposizioni di legge.   
-  
-Art. 68. - La prova scritta di cultura generale, nei corsi di laurea, deve essere preceduta da tutti gli altri esami di profitto.   
-La prova scritta di pedagogia, nel corso di diploma di vigilanza, e preceduta da tutti gli altri esami di profitto, salvo che dal terzo ed ultimo esame orale di pedagogia, ed esclude da questo se non viene sostenuta con esito positivo.   
-  
-Art. 69. - L'esame di laurea consiste nella discussione di una dissertazione scritta, svolta su un tema consigliato dal professore della materia scelta dal candidato.   
-L'argomento della dissertazione deve essere letterario, storico o geografico per gli aspiranti alla laurea in materie letterarie, di carattere pedagogico o filosofico per gli aspiranti alla laurea in pedagogia; per gli aspiranti alla laurea in lingue e letterature straniere deve riguardare la letteratura straniera fondamentale seguita per quattro anni.   
+Scuola di specializzazione in ginecologia ed ostetricia   
+Art. 679. - Il corso di studi per la specializzazione in ginecologia ed ostetricia ha la durata di quattro anni.   
+L'ammissione alla scuola avviene a seguito di concorso per titoli ed esami.   
+Art. 680. - La direzione della scuola e' affidata al professore di ruolo o fuori ruolo della stessa materia della specializzazione o, in carenza, al professore di ruolo o fuori ruolo di materia affine. Egli e' nominato dalla facolta' di medicina e chirurgia per un anno ed e' sempre riconfermabile. Egli presiede il consiglio della scuola costituito a norma dell'art. 187 ed e' tenuto a dare comunicazione al preside della facolta' medico-chirurgica di tutti gli atti e di tutte le deliberazioni del consiglio da lui presieduto.   
+Art. 681. - Il numero massimo degli allievi e' di quattro per anno di corso e complessivamente di sedici iscritti per l'intero corso di studi.   
+Per nessun motivo il corso di quattro anni puo' essere abbreviato.  
+Nessun titolo puo' esonerare dalla frequenza gli iscritti ai quattro anni di corso.   
+Art. 682. - Gli iscritti, oltre all'obbligo di frequenza alle lezioni cattedratiche, esercitazioni, seminari, ecc., hanno l'obbligo di esercitazioni pratiche nei reparti per non meno di dieci mesi su dodici all'anno. La scelta dei mesi di permesso e' in facolta' del consiglio della scuola, a seconda dell'epoca delle lezioni e delle esigenze di servizio nella clinica.   
+Alla fine di ogni anno di corso gli iscritti, per essere ammessi agli anni successivi di corso, devono superare le prove di esame sulle materie impartite durante l'anno accademico. Per le materie a corsi pluriennali l'esame e' sostenuto alla fine dei corsi medesimi.   
+La frequenza degli iscritti deve essere convalidata e confermata dalla firma degli insegnanti delle rispettive materie.   
+Art. 683. - Le materie di insegnamento sono le seguenti:   
+1° Anno:   
+a) elementi di genetica medica;   
+b) elementi di embriologia; anatomia macro e micro dell'apparato genitale femminile; anatomia della pelvi;   
+c) elementi di fisiopatologia della riproduzione umana;   
+d) fisiologia ostetrica;   
+e) endocrinologia ginecologica ed ostetrica;   
+f) semeiotica e diagnostica ostetrica;   
+g) patologia ostetrica e ginecologica (biennale) I;   
+h) lingua straniera (inglese) quadriennale I.   
+2° Anno:   
+a) semeiotica e diagnostica ginecologica;   
+b) operazioni ostetriche (biennale) I;   
+c) anatomia e istologia patologica della sfera genitale femminile;   
+d) citologia ginecologica;   
+e) patologia ostetrica e ginecologica (biennale) II;   
+f) diagnostica di laboratorio in ostetricia e ginecologia;   
+g) lingua straniera (inglese) quadriennale II.   
+3° Anno:   
+a) puericultura prenatale;   
+b) immunologia ostetrica e ginecologica;   
+c) analgo-anestesia e rianimazione in ostetricia;   
+d) operazioni ostetriche (biennale) II;   
+e) operazioni ginecologiche (biennale) I;   
+f) ostetricia e ginecologia forense;   
+g) terapia medica in ostetricia e ginecologia;   
+h) clinica ostetrica e ginecologica (biennale) I;   
+i) psicosomatica ostetrica e ginecologica;   
+l) lingua straniera (inglese) quadriennale III.   
+4° Anno:   
+a) neonatologia;   
+b) urologia ginecologica;   
+c) radiodiagnostica e terapia fisica in ostetricia e ginecologia;   
+d) chirurgia addominale;   
+e) operazioni ginecologiche (biennale) II;   
+f) clinica ostetrica e ginecologica (biennale) II;   
+g) lingua straniera (inglese) quadriennale.   
+Art. 684. - Al termine del corso di studi per il conseguimento del diploma di specialista in ginecologia e ostetricia, gli interessati devono superare l'esame di diploma consistente nella dissertazione scritta di un argomento attinente alla specializzazione.   
   
 
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica Italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 2 settembre 1957
+### Dato a Roma, addi' 27 giugno 1979
 
-GRONCHI MORO
+PERTINI SPADOLINI
 
-Visto, il Guardasigilli: GONELLA
+Visto, il Guardasigilli: MORLINO
 
-Registrato alla Corte dei conti, addi' 11 ottobre 1957
+Registrato alla Corte dei conti, addi' 6 agosto 1979
 
-Atti del Governo, registro n. 108, foglio n. 69. - RELLEVA
+Registro n. 60 Istruzione, foglio n. 214

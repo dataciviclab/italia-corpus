@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 12 settembre 1978 n. 728
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1972 n. 1174
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 12 settembre 1978 n. 728
-================================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1972 n. 1174
+===============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Padova.
 ------------------------------------------------------------------
@@ -10,259 +10,268 @@ Modificazioni allo statuto dell'Universita' degli studi di Padova.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' di Padova, approvato con [regio decreto 20 aprile 1939, n. 1058](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1058) e modificato con [regio decreto 5 ottobre 1939, n. 1847](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-05;1847), e successive modificazioni;
+Veduto lo statuto dell'Universita' degli studi di Padova, approvato con [regio decreto 20 aprile 1939, numero 1058](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1058), e modificato con [regio decreto 5 ottobre 1939, n. 1847](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-05;1847), e successive modificazioni;
 
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
 
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
 
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
+Veduta la [legge 11 aprile 1953, n. 512](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;512);
 
 Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Padova e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
 
 Sentito il parere del Consiglio superiore della pubblica istruzione;
 
-Sulla proposta del Ministro della pubblica istruzione;
+Sulla proposta del Ministro per la pubblica istruzione;
 
 Decreta:
 
 Lo statuto dell'Universita' degli studi di Padova, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
-Gli articoli 180 e 181, relativi al corso di laurea in scienze forestali, sono abrogati e sostituiti dai seguenti:
+Art. 190. - All'elenco degli insegnamenti complementari del corso di laurea in scienze agrarie e' aggiunto quello di:
 
-Corso di laurea in scienze forestali
+Fisiologia generale.
 
-Art. 180. - La durata del corso di studi per la laurea in scienze forestali e' di quattro anni.
+Gli articoli 232, 241, 242 relativi alle scuole di perfezionamento in storia antica, di specializzazione per archivisti e di specializzazione per bibliotecari sono abrogati e sostituiti dai seguenti:
 
-Titoli di ammissione sono quelli previsti dall'[art. 1 della legge 11 dicembre 1969, n. 910](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1969-12-11;910~art1).
+Scuola di perfezionamento in storia antica
 
-Insegnamenti fondamentali:
+Art. 232. - Sono titoli di ammissione le seguenti lauree: in lettere, in materie letterarie, in filosofia, in giurisprudenza.
 
-1) alpicoltura I (prati, pascoli, agricoltura nella regione di montagna) (semestrale);
+Sono discipline fondamentali:
 
-2) alpicoltura II (zootecnica nella regione di montagna) (semestrale);
+Antichita' greche e romane;
 
-3) assestamento forestale;
+Epigrafia e istituzioni greche;
 
-4) botanica forestale;
+Epigrafia e istituzioni romane;
 
-\*5) botanica generale;
+Storia greca;
 
-\*6) botanica sistematica;
+Storia orientale antica;
 
-7) chimica forestale;
+Storia romana.
 
-\*8) chimica generale ed inorganica con applicazioni di analitica;
+Sono discipline complementari tutte quelle insegnate nella facolta' di lettere e filosofia nonche' quelle, insegnate in altre facolta' o scuole di perfezionamento, che il direttore della scuola, su proposta del professore della disciplina di perfezionamento, ritenga utile ai fini del perfezionamento stesso.
 
-\*9) chimica organica;
+In linea di massima gli iscritti dovranno sostenere nel biennio due esami in singole discipline fondamentali, entro i corsi in atto nell'anno, scelte d'accordo con il docente della disciplina in cui rientra il tema della dissertazione di perfezionamento e approvate dal direttore della scuola.
 
-10) costruzioni forestali (semestrale);
+Una delle discipline fondamentali puo' essere sostituita, sempre con il consenso del docente suddetto e con l'approvazione del direttore, da una delle discipline complementari.
 
-11) dendrometria (semestrale);
+Nella prova preliminare di traduzione a vista deve essere compresa, in ogni caso, la lingua tedesca.
 
-12) economia ed estimo forestale;
+Alla fine del biennio, il perfezionando deve presentare una dissertazione scientifica originale, possibilmente a stampa.
 
-\*13) fisica;
+Le tasse e soprattasse annuali a carico degli iscritti restano cosi' determinate:
 
-14) industrie chimico-forestali (semestrale);
+Tassa di iscrizione per studenti di corso . . . . . . . L. 11.000 Tassa di iscrizione per studenti fuori corso . . . . . . L. 5.000 Soprattassa esami. . . . . . . . . . . . . . . . . . . . . L. 400
 
-15) legislazione forestale;
+Il consiglio di amministrazione dell'Universita', su proposta del senato accademico, udito il consiglio della facolta' di lettere e filosofia, stabilira' di anno in anno l'ammontare dei contributi.
 
-16) matematica;
+Scuola di specializzazione per archivisti
 
-\*17) mineralogia e geologia;
+Art. 241. - Titolo di ammissione alla scuola e' una qualsiasi laurea conseguita presso una universita' o istituto superiore universitario.
 
-18) patologia vegetale forestale;
+Sono materie fondamentali:
 
-\*19) principi di economia politica e di statistica;
+Archivistica;
 
-20) selvicoltura I (ecologia e selvicoltura generale);
+Diplomatica;
 
-21) selvicoltura II (selvicoltura speciale);
+Paleografia;
 
-22) sistemazioni idraulico-forestali;
+Storia delle Venezie;
 
-23) tecnologia e utilizzazione forestale (compresa meccanica applicata);
+Sono materie complementari:
 
-24) topografia;
+Bibliografia;
 
-25) zoologia forestale venatoria e acquicoltura;
+Biblioteconomia;
 
-\*26) zoologia generale.
+Dialetti veneti;
 
-Insegnamenti complementari:
+Latino medioevale;
 
-1) agronomia montana;
+Storia del diritto italiano;
 
-2) allevamenti minori in zone montane (semestrale);
+Storia economica, nonche' tutte le altre discipline che il consiglio della scuola si riserva di indicare tenendo conto della preparazione degli iscritti, e dello scopo della specializzazione.
 
-3) alterazioni del legname (semestrale);
+Gli iscritti debbono frequentare i corsi e superare gli esami delle quattro materie fondamentali e di quelle materie complementari la cui scelta sara' concordata col professore della materia della dissertazione per il diploma ed approvata dal direttore della scuola.
 
-4) conservazione della natura e delle sue risorse;
+Nel secondo anno gli iscritti debbono compiere un tirocinio presso un archivio designato dal direttore della scuola, con esercitazioni dirette dal professore di archivistica; alla fine devono superare, una prova pratica di ricerca archivistica. In questa prova i candidati dovranno dimostrare di conoscere la lingua francese e la lingua tedesca o inglese.
 
-5) difesa dagli inquinamenti (semestrale);
+Per conseguire il diploma di archivistica, gli aspiranti debbono, dopo aver assolto gli obblighi determinati dai precedenti commi, presentare e discutere una dissertazione scritta sopra una delle materie costitutive della specializzazione, scelta di concerto con il direttore della scuola, preferibilmente tra le materie fondamentali.
 
-6) ecologia;
+Le tasse e soprattasse annuali a carico degli iscritti restano cosi' determinate:
 
-7) ecologia zootecnica;
+Tassa di iscrizione per studenti di corso . . . . . . . L. 11.000 Tassa di iscrizione per studenti fuori corso . . . . . . L. 5.000 Soprattassa esami. . . . . . . . . . . . . . . . . . . . . L. 400
 
-8) economia di mercato dei prodotti forestali;
+Il consiglio di amministrazione dell'Universita', su proposta del senato accademico, udito il consiglio della facolta' di lettere e filosofia, stabilira' di anno in anno l'ammontare dei contributi.
 
-9) elementi di idraulica e di idrologia;
+Scuola di specializzazione per bibliotecari
 
-10) fisiologia degli alberi forestali (semestrale);
+Art. 242. - Titolo di ammissione alla scuola e' una qualsiasi laurea conseguita presso una universita' o istituto superiore universitario.
 
-11) geologia applicata;
+La scuola puo' articolarsi in due indirizzi: letterario o scientifico.
 
-12) idrologia forestale;
+L'ammissione all'uno o all'altro degli indirizzi e' demandata al consiglio della scuola, tenuto conto del diploma di laurea in possesso dell'aspirante.
 
-13) meccanizzazione forestale;
+Sono materie fondamentali:
 
-14) microbiologia forestale;
+Bibliografia;
 
-15) miglioramento genetico degli alberi forestali (semestrale);
+Biblioteconomia;
 
-16) pedologia forestale;
+Paleografia;
 
-17) pianificazione ecologica del territorio;
+Storia delle Venezie.
 
-18) protezione dagli incendi boschivi (semestrale);
+Sono materie complementari:
 
-19) protezione della natura e riassetto del paesaggio;
+Archivistica;
 
-20) selvicoltura industriale ed alberature;
+Aspetti artistici del libro;
 
-21) tecniche di rimboschimento nelle zone aride (semestrale);
+Dialetti veneti;
 
-22) tutela del paesaggio agricolo forestale e riassetto del territorio;
+Diplomatica;
 
-23) vivaistica forestale e rimboschimento;
+Latino medioevale;
 
-24) zoologia venatoria.
+Filologia medioevale e umanistici, nonche' tutte le altre discipline che il consiglio della scuola si riserva di indicare tenendo conto della preparazione degli iscritti e dell'indirizzo letterario o scientifico.
 
-Le materie contrassegnate con un asterisco sono in comune con il corso di laurea in scienze agrarie.
+Gli iscritti debbono frequentare i corsi e superare gli esami delle quattro materie fondamentali e di quelle materie complementari la cui scelta sara' concordata col professore della materia della dissertazione per il diploma e approvata dal direttore della scuola.
 
-Sono inoltre da ritenere complementari del corso di laurea in scienze forestali tutti gli insegnamenti (fondamentali e complementari) impartiti nel corso di laurea in scienze agrarie.
+Nel secondo anno della scuola gli iscritti debbono compiere un tirocinio in una biblioteca designata dal direttore della scuola con esercitazioni dirette dal professore di biblioteconomia e alla fine superare una prova pratica di ricerca bibliografica. In queste prove i candidati dovranno dimostrare di conoscere la lingua francese e di saper usare repertori inglesi e tedeschi; potranno anche dare saggio di catalogazione di opere scritte in una lingua slava od orientale.
 
-Per essere ammesso all'esame di laurea lo studente deve aver seguito i corsi e superati gli esami in tutti gli insegnamenti fondamentali ed almeno in tre complementari a corso annuale. A tale effetto due corsi complementari semestrali sono computati come corso annuale.
+Per conseguire il diploma di bibliotecario, gli aspiranti debbono, dopo aver assolto gli obblighi determinati dal precedente comma, presentare e discutere una dissertazione sopra una delle materie della specializzazione, scelte di concerto con il direttore della scuola, preferibilmente tra le materie fondamentali.
 
-Art. 181. - L'esame di laurea consiste in una discussione orale intorno ad una dissertazione scritta sopra un tema scelto dal candidato su di un argomento forestale o avente stretta attinenza con le discipline impartite nella facolta'.
+Le tasse e soprattasse annuali a carico degli iscritti restano cosi' determinate:
 
-Tutti gli insegnamenti impartiti nella facolta' sono di lezioni teoriche e di esercizi pratici che possono essere integrati da visite a fabbriche industriali e da esercitazioni in foresta.
+Tassa di iscrizione per studenti di corso . . . . . . . L. 11.000 Tassa di iscrizione per studenti fuori corso . . . . . . L. 5.000 Soprattassa esami. . . . . . . . . . . . . . . . . . . . . L. 400
 
-Gli esami di profitto sono orali, ma possono essere integrati da prove pratiche. Il voto e' pero' complessivo.
+Il consiglio di amministrazione dell'Universita', su proposta del senato accademico, udito il consiglio della facolta' di lettere e filosofia, stabilira' di anno in anno l'ammontare dei contributi.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 
-Dato a Roma, addi' 12 settembre 1978
+Dato a Roma, addi' 31 ottobre 1972
 
-PERTINI
+LEONE
 
-PEDINI
+SCALFARO
 
-Visto, il Guardasigilli: BONIFACIO
+Visto, il Guardasigilli: GONELLA
 
 Registrato
 ----------
 
-alla Corte dei conti, addi' 13 novembre 1978 Registro n. 121 Istruzione, foglio n. 170
+alla Corte dei conti, addi' 28 giugno 1973 Atti di Governo, registro n. 258, foglio n. 131. - VALENTINI
 
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA   
+ IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' di Padova, approvato con [regio decreto 20 aprile 1939, n. 1058](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1058) e modificato con [regio decreto 5 ottobre 1939, n. 1847](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-05;1847), e successive modificazioni;   
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);   
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;   
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Padova e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;   
-Sentito il parere del Consiglio superiore della pubblica istruzione;   
-Sulla proposta del Ministro della pubblica istruzione;   
+Veduto lo statuto dell'Universita' degli studi di Padova, approvato con [regio decreto 20 aprile 1939, numero 1058](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1058), e modificato con [regio decreto 5 ottobre 1939, n. 1847](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-05;1847), e successive modificazioni;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
+Veduta la [legge 11 aprile 1953, n. 512](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;512);  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
+Sentito il parere del Consiglio superiore della pubblica istruzione;  
+Sulla proposta del Ministro per la pubblica istruzione;  
   
-Decreta:   
+Decreta:  
   
-Lo statuto dell'Universita' degli studi di Padova, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
-Gli articoli 180 e 181, relativi al corso di laurea in scienze forestali, sono abrogati e sostituiti dai seguenti:   
+Lo statuto dell'Universita' degli studi di Padova, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
   
-Corso di laurea in scienze forestali   
-Art. 180. - La durata del corso di studi per la laurea in scienze forestali e' di quattro anni.   
-Titoli di ammissione sono quelli previsti dall'[art. 1 della legge 11 dicembre 1969, n. 910](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1969-12-11;910~art1).   
-Insegnamenti fondamentali:   
-1) alpicoltura I (prati, pascoli, agricoltura nella regione di montagna) (semestrale);   
-2) alpicoltura II (zootecnica nella regione di montagna) (semestrale);   
-3) assestamento forestale;   
-4) botanica forestale;   
-\*5) botanica generale;   
-\*6) botanica sistematica;   
-7) chimica forestale;   
-\*8) chimica generale ed inorganica con applicazioni di analitica;  
-\*9) chimica organica;   
-10) costruzioni forestali (semestrale);   
-11) dendrometria (semestrale);   
-12) economia ed estimo forestale;   
-\*13) fisica;   
-14) industrie chimico-forestali (semestrale);   
-15) legislazione forestale;   
-16) matematica;   
-\*17) mineralogia e geologia;   
-18) patologia vegetale forestale;   
-\*19) principi di economia politica e di statistica;   
-20) selvicoltura I (ecologia e selvicoltura generale);   
-21) selvicoltura II (selvicoltura speciale);   
-22) sistemazioni idraulico-forestali;   
-23) tecnologia e utilizzazione forestale (compresa meccanica applicata);   
-24) topografia;   
-25) zoologia forestale venatoria e acquicoltura;   
-\*26) zoologia generale.   
-Insegnamenti complementari:   
-1) agronomia montana;   
-2) allevamenti minori in zone montane (semestrale);   
-3) alterazioni del legname (semestrale);   
-4) conservazione della natura e delle sue risorse;   
-5) difesa dagli inquinamenti (semestrale);   
-6) ecologia;   
-7) ecologia zootecnica;   
-8) economia di mercato dei prodotti forestali;   
-9) elementi di idraulica e di idrologia;   
-10) fisiologia degli alberi forestali (semestrale);   
-11) geologia applicata;   
-12) idrologia forestale;   
-13) meccanizzazione forestale;   
-14) microbiologia forestale;   
-15) miglioramento genetico degli alberi forestali (semestrale);   
-16) pedologia forestale;   
-17) pianificazione ecologica del territorio;   
-18) protezione dagli incendi boschivi (semestrale);   
-19) protezione della natura e riassetto del paesaggio;   
-20) selvicoltura industriale ed alberature;   
-21) tecniche di rimboschimento nelle zone aride (semestrale);   
-22) tutela del paesaggio agricolo forestale e riassetto del territorio;   
-23) vivaistica forestale e rimboschimento;   
-24) zoologia venatoria.   
-Le materie contrassegnate con un asterisco sono in comune con il corso di laurea in scienze agrarie.   
-Sono inoltre da ritenere complementari del corso di laurea in scienze forestali tutti gli insegnamenti (fondamentali e complementari) impartiti nel corso di laurea in scienze agrarie.   
-Per essere ammesso all'esame di laurea lo studente deve aver seguito i corsi e superati gli esami in tutti gli insegnamenti fondamentali ed almeno in tre complementari a corso annuale. A tale effetto due corsi complementari semestrali sono computati come corso annuale.   
-Art. 181. - L'esame di laurea consiste in una discussione orale intorno ad una dissertazione scritta sopra un tema scelto dal candidato su di un argomento forestale o avente stretta attinenza con le discipline impartite nella facolta'.   
-Tutti gli insegnamenti impartiti nella facolta' sono di lezioni teoriche e di esercizi pratici che possono essere integrati da visite a fabbriche industriali e da esercitazioni in foresta.   
-Gli esami di profitto sono orali, ma possono essere integrati da prove pratiche. Il voto e' pero' complessivo.   
+Art. 190. - All'elenco degli insegnamenti complementari del corso di laurea in scienze agrarie e' aggiunto quello di:  
+Fisiologia generale.  
+Gli articoli 232, 241, 242 relativi alle scuole di perfezionamento in storia antica, di specializzazione per archivisti e di specializzazione per bibliotecari sono abrogati e sostituiti dai seguenti:  
+  
+Scuola di perfezionamento in storia antica  
+  
+Art. 232. - Sono titoli di ammissione le seguenti lauree: in lettere, in materie letterarie, in filosofia, in giurisprudenza.  
+Sono discipline fondamentali:  
+Antichita' greche e romane;  
+Epigrafia e istituzioni greche;  
+Epigrafia e istituzioni romane;  
+Storia greca;  
+Storia orientale antica;  
+Storia romana.  
+Sono discipline complementari tutte quelle insegnate nella facolta' di lettere e filosofia nonche' quelle, insegnate in altre facolta' o scuole di perfezionamento, che il direttore della scuola, su proposta del professore della disciplina di perfezionamento, ritenga utile ai fini del perfezionamento stesso.  
+In linea di massima gli iscritti dovranno sostenere nel biennio due esami in singole discipline fondamentali, entro i corsi in atto nell'anno, scelte d'accordo con il docente della disciplina in cui rientra il tema della dissertazione di perfezionamento e approvate dal direttore della scuola.  
+Una delle discipline fondamentali puo' essere sostituita, sempre con il consenso del docente suddetto e con l'approvazione del direttore, da una delle discipline complementari.  
+Nella prova preliminare di traduzione a vista deve essere compresa, in ogni caso, la lingua tedesca.  
+Alla fine del biennio, il perfezionando deve presentare una dissertazione scientifica originale, possibilmente a stampa.  
+Le tasse e soprattasse annuali a carico degli iscritti restano cosi' determinate:  
+  
+Tassa di iscrizione per studenti di corso . . . . . . . L. 11.000 Tassa di iscrizione per studenti fuori corso . . . . . . L. 5.000 Soprattassa esami. . . . . . . . . . . . . . . . . . . . . L. 400   
+Il consiglio di amministrazione dell'Universita', su proposta del senato accademico, udito il consiglio della facolta' di lettere e filosofia, stabilira' di anno in anno l'ammontare dei contributi.  
+  
+Scuola di specializzazione per archivisti  
+  
+Art. 241. - Titolo di ammissione alla scuola e' una qualsiasi laurea conseguita presso una universita' o istituto superiore universitario.  
+Sono materie fondamentali:  
+Archivistica;  
+Diplomatica;  
+Paleografia;  
+Storia delle Venezie;  
+Sono materie complementari:  
+Bibliografia;  
+Biblioteconomia;  
+Dialetti veneti;  
+Latino medioevale;  
+Storia del diritto italiano;  
+Storia economica, nonche' tutte le altre discipline che il consiglio della scuola si riserva di indicare tenendo conto della preparazione degli iscritti, e dello scopo della specializzazione.  
+Gli iscritti debbono frequentare i corsi e superare gli esami delle quattro materie fondamentali e di quelle materie complementari la cui scelta sara' concordata col professore della materia della dissertazione per il diploma ed approvata dal direttore della scuola.  
+Nel secondo anno gli iscritti debbono compiere un tirocinio presso un archivio designato dal direttore della scuola, con esercitazioni dirette dal professore di archivistica; alla fine devono superare, una prova pratica di ricerca archivistica. In questa prova i candidati dovranno dimostrare di conoscere la lingua francese e la lingua tedesca o inglese.  
+Per conseguire il diploma di archivistica, gli aspiranti debbono, dopo aver assolto gli obblighi determinati dai precedenti commi, presentare e discutere una dissertazione scritta sopra una delle materie costitutive della specializzazione, scelta di concerto con il direttore della scuola, preferibilmente tra le materie fondamentali.  
+Le tasse e soprattasse annuali a carico degli iscritti restano cosi' determinate:  
+  
+Tassa di iscrizione per studenti di corso . . . . . . . L. 11.000 Tassa di iscrizione per studenti fuori corso . . . . . . L. 5.000 Soprattassa esami. . . . . . . . . . . . . . . . . . . . . L. 400   
+Il consiglio di amministrazione dell'Universita', su proposta del senato accademico, udito il consiglio della facolta' di lettere e filosofia, stabilira' di anno in anno l'ammontare dei contributi.  
+  
+Scuola di specializzazione per bibliotecari  
+  
+Art. 242. - Titolo di ammissione alla scuola e' una qualsiasi laurea conseguita presso una universita' o istituto superiore universitario.  
+La scuola puo' articolarsi in due indirizzi: letterario o scientifico.  
+L'ammissione all'uno o all'altro degli indirizzi e' demandata al consiglio della scuola, tenuto conto del diploma di laurea in possesso dell'aspirante.  
+Sono materie fondamentali:  
+Bibliografia;  
+Biblioteconomia;  
+Paleografia;  
+Storia delle Venezie.  
+Sono materie complementari:  
+Archivistica;  
+Aspetti artistici del libro;  
+Dialetti veneti;  
+Diplomatica;  
+Latino medioevale;  
+Filologia medioevale e umanistici, nonche' tutte le altre discipline che il consiglio della scuola si riserva di indicare tenendo conto della preparazione degli iscritti e dell'indirizzo letterario o scientifico.  
+Gli iscritti debbono frequentare i corsi e superare gli esami delle quattro materie fondamentali e di quelle materie complementari la cui scelta sara' concordata col professore della materia della dissertazione per il diploma e approvata dal direttore della scuola.  
+Nel secondo anno della scuola gli iscritti debbono compiere un tirocinio in una biblioteca designata dal direttore della scuola con esercitazioni dirette dal professore di biblioteconomia e alla fine superare una prova pratica di ricerca bibliografica. In queste prove i candidati dovranno dimostrare di conoscere la lingua francese e di saper usare repertori inglesi e tedeschi; potranno anche dare saggio di catalogazione di opere scritte in una lingua slava od orientale.  
+Per conseguire il diploma di bibliotecario, gli aspiranti debbono, dopo aver assolto gli obblighi determinati dal precedente comma, presentare e discutere una dissertazione sopra una delle materie della specializzazione, scelte di concerto con il direttore della scuola, preferibilmente tra le materie fondamentali.  
+Le tasse e soprattasse annuali a carico degli iscritti restano cosi' determinate:  
+  
+Tassa di iscrizione per studenti di corso . . . . . . . L. 11.000 Tassa di iscrizione per studenti fuori corso . . . . . . L. 5.000 Soprattassa esami. . . . . . . . . . . . . . . . . . . . . L. 400   
+Il consiglio di amministrazione dell'Universita', su proposta del senato accademico, udito il consiglio della facolta' di lettere e filosofia, stabilira' di anno in anno l'ammontare dei contributi.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 12 settembre 1978
+### Dato a Roma, addi' 31 ottobre 1972
 
-PERTINI PEDINI
+LEONE SCALFARO
 
-Visto, il Guardasigilli: BONIFACIO
+Visto, il Guardasigilli: GONELLA
 
-Registrato alla Corte dei conti, addi' 13 novembre 1978
+Registrato alla Corte dei conti, addi' 28 giugno 1973
 
-Registro n. 121 Istruzione, foglio n. 170
+Atti di Governo, registro n. 258, foglio n. 131. - VALENTINI

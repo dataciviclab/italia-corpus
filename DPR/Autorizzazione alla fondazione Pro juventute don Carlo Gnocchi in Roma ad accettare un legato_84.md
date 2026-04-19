@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 23 gennaio 1976 n. 34
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 12 giugno 1985 n. 465
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 23 gennaio 1976 n. 34
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 12 giugno 1985 n. 465
 =============================================================
 
 Autorizzazione alla fondazione "Pro juventute don Carlo Gnocchi", in Roma, ad accettare un legato.
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-34. Decreto del Presidente della Repubblica 23 gennaio 1976, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare il legato disposto dalla sig.ra Angela Ripamonti con testamento olografo 8 luglio 1969, pubblicato a rogito dott. Pietro Gaetani, notaio in Lecco (Como), in data 11 ottobre 1973, n. 40734 di repertorio, n. 17996 di raccolta, registrato a Lecco il 15 ottobre 1973 col n. 1836, vol. 211, consistente nella somma di L. 5.000.000.  
+465. Decreto del Presidente della Repubblica 12 giugno 1985, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare il legato, consistente in titoli ordinari per un valore di L. 220.728.000, disposto dal sig. Airoldi Benigno con testamento olografo 1 febbraio 1980, pubblicato in data 2 giugno 1983, n. 10094 di repertorio e n. 1462 di raccolta, a rogito dott. Mario Laimati, notaio in Gallarate (Varese), registrato a Gallarate il 4 agosto 1983 al n. 2486.  
   
-Visto, il Guardasigilli: BONIFACIO  
-Registrato alla Corte dei conti, addi' 3 marzo 1976  
-Atti di Governo, registro n. 3, foglio n. 57
+Visto, il Guardasigilli: MARTINAZZOLI  
+Registrato alla Corte dei conti, addi' 2 settembre 1985  
+Registro n. 8 Presidenza, foglio n. 156

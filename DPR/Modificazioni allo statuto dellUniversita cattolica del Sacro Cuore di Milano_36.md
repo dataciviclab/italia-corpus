@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1979 n. 793
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1972 n. 1053
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1979 n. 793
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1972 n. 1053
+===============================================================
 
 Modificazioni allo statuto dell'Universita' cattolica del Sacro Cuore di Milano.
 --------------------------------------------------------------------------------
@@ -18,134 +18,79 @@ Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it
 
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
 
-Veduta la [legge 22 maggio 1978, n. 217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-05-22;217);
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
 
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;
 
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' cattolica del Sacro Cuore di Milano e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
 
 Sentito il parere del Consiglio superiore della pubblica istruzione;
 
-Sulla
------
+Sulla proposta del Ministro per la pubblica istruzione;
 
-proposta del Ministro della pubblica istruzione; Decreta:
+Decreta:
+
+Lo statuto dell'Universita' cattolica del Sacro Cuore di Milano, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+
+Art. 2, relativo all'elenco degli istituti annessi alla facolta' di medicina e chirurgia e' modificato nel senso che l'istituto di "Psicologia" muta denominazione in "Istituto di psicologia generale e clinica".
+
+Art. 23. - Nell'elenco degli insegnamenti complementari del corso di laurea in medicina e chirurgia l'insegnamento di "Psicologia" muta denominazione in quella di "Psicologia generale e clinica".
+
+L'art. 54 e' modificato nel senso che l'ultimo comma viene abrogato e sostituito dal seguente:
+
+"Il punto tre del presente articolo non si applica alla facolta' di giurisprudenza, di lettere e filosofia e di economia e commercio".
+
+Art. 106. - All'elenco degli insegnamenti del 3° anno della scuola di specializzazione in oncologia della facolta' di medicina e chirurgia e' aggiunto quello di radiologia (diagnostica e terapia dei tumori).
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 31 ottobre 1972
+
+LEONE
+
+SCALFARO
+
+Visto, il Guardasigilli: GONELLA
+
+Registrato
+----------
+
+alla Corte dei conti, addi' 27 febbraio 1973 Atti di Governo, registro n. 256, foglio n. 36. - VALENTINI
 
 Art. 1
 ------
 
+ IL PRESIDENTE DELLA REPUBBLICA  
   
+Veduto lo statuto dell'Universita' cattolica del Sacro Cuore di Milano, approvato con [regio decreto 20 aprile 1939, n. 1163](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1163) e modificato con [regio decreto 26 ottobre 1940, n. 2030](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;2030), e successive modificazioni;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
+Sentito il parere del Consiglio superiore della pubblica istruzione;  
+Sulla proposta del Ministro per la pubblica istruzione;  
   
-Lo statuto dell'Universita' cattolica del Sacro Cuore di Milano, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
-L'art. 115, relativo alla scuola di specializzazione in clinica dermosifilopatica, che muta la denominazione in quella di scuola di specializzazione in dermatologia e venereologia, e' soppresso e sostituito dal seguente:   
+Decreta:  
   
-Scuola di specializzazione in dermatologia e venereologia   
-  
-Art. 115. - La scuola di specializzazione in dermatologia e venereologia ha sede presso l'istituto di clinica dermosifilopatica e conferisce il diploma di specialista in dermatologia e venereologia.   
-La direzione della scuola e' affidata al professore di ruolo o fuori ruolo della stessa materia della specializzazione o, in carenza, al professore di ruolo o fuori ruolo di materia affine.   
-Possono iscriversi alla scuola i laureati in medicina e chirurgia.  
-E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale rilasciato dall'autorita' competente.   
-La durata del corso di studi e' di tre anni e non e' suscettibile di abbreviazioni.   
-Il numero massimo degli allievi e' di sei per anno di corso e complessivamente di diciotto iscritti per l'intero corso di studi.   
-L'ammissione al corso avviene per titoli ed esami.   
-  
-Le materie di insegnamento sono le seguenti:   
-1° Anno:   
-anatomia e istologia normale della cute;   
-fisiologia della cute e degli annessi;   
-anatomia e fisiologia dell'apparato genitale;   
-microbiologia e parassitologia applicate;   
-tecniche di laboratorio applicate alla disciplina;   
-semeiotica dermatologica e venereologica.   
-2° Anno:   
-patologia delle malattie cutanee;   
-patologia delle infezioni veneree;   
-istopatologia e citologia dermatologica e venereologica;   
-immunopatologia cutanea;   
-dermatologia allergologica e professionale;   
-angiologia;   
-sessuologia.   
-3° Anno:   
-clinica delle malattie cutanee;   
-clinica delle infezioni veneree;   
-dermatologia pediatrica;   
-farmacologia e terapia;   
-fisioterapia dermatologica;   
-cosmetologia;   
-chirurgia plastica riparatrice;   
-igiene e profilassi delle malattie cutanee e veneree e relativa legislazione.   
-Il corso di lezioni deve essere impartito mediante almeno cinquanta lezioni annuali, comprensive delle varie materie e la frequenza giornaliera degli iscritti non deve essere inferiore alle quattro ore effettive per tutta la durata dell'anno accademico. Gli specializzandi hanno percio' obblighi di esercitazioni pratiche nei reparti onde seguire i corsi di lezione e svolgere contemporaneamente esercitazioni pratiche nelle corsie, negli ambulatori e nei laboratori. Gli esami di profitto vengono sostenuti in due sessioni.  
-L'esame di diploma consiste nella esposizione e discussione di un argomento della disciplina su un tema dato al candidato ventiquattro ore prima della prova.   
-
-Art. 2
-------
-
-  
-L'art. 140, relativo alla scuola di specializzazione in oftalmologia, e' modificato nel senso che il terzo comma e' soppresso.  
-
-Art. 3
-------
-
-  
-  
-Dopo l'art. 155, e con il conseguente spostamento della numerazione degli articoli successivi, e' inserito il seguente articolo relativo alla istituzione della scuola di specializzazione in biologia clinica:   
-  
-Scuola di specializzazione in biologia clinica   
-  
-Art. 156. - La scuola di specializzazione in biologia clinica ha sede presso gli istituti di chimica biologica e di microbiologia e conferisce il diploma di specialista in biologia clinica.   
-La scuola di specializzazione in biologia clinica ha lo scopo di preparare sul piano scientifico e tecnico i medici che intendono dedicarsi particolarmente alle analisi di laboratorio chimico-cliniche e microbiologiche applicate alla clinica.   
-La direzione della scuola e' affidata al professore di ruolo o fuori ruolo della stessa materia della specializzazione o, in carenza, al professore di ruolo o fuori ruolo di materia affine.   
-Possono iscriversi alla scuola i laureati in medicina e chirurgia.  
-E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale rilasciato dall'autorita' competente.   
-La durata del corso di studi e' di quattro anni e non e' suscettibile di abbreviazioni.   
-Il numero massimo degli allievi e' di quindici per anno di corso e complessivamente di sessanta iscritti per l'intero corso di studi.   
-L'ammissione al corso avviene per titoli ed esami.   
-Le materie di insegnamento sono le seguenti:   
-1° Anno:   
-chimica biologica generale;   
-fondamenti di chimico-fisica biologica;   
-batteriologia generale;   
-biochimica analitica I;   
-tecnica dei prelevamenti;   
-fisiopatologia I;   
-fondamenti di statistica biologica.   
-2° Anno:   
-chimica biologica speciale di organi e tessuti;   
-fisiopatologia II;   
-ematologia ed ematochimica I;   
-batteriologia speciale;   
-immunologia e sierologia;   
-biochimicaanalitica II.   
-3° Anno:   
-nozioni di igiene e legislazione sanitaria;   
-ematologia ed ematochimica II;   
-chimica clinica;   
-immunochimica;   
-parassitologia;   
-virologia.   
-4° Anno:   
-analisi biologico-tossicologiche;   
-endocrinologia clinica e dosaggi ormonali;   
-micologia;   
-enzimologia clinica;   
-automazione e controlli di qualita';   
-metodiche microanalitiche;   
-microscopia clinica e citodiagnostica.   
-La frequenza alle lezioni e alle esercitazioni pratiche e' obbligatoria.   
-Gli allievi che non conseguono le attestazioni di frequenza sul relativo libretto non possono essere ammessi a sostenere le prove di esame.   
-Alla fine di ogni corso gli iscritti per essere ammessi agli anni di corso successivi devono superare le prove di esame sulle materie impartite durante l'anno. Per le materie a corso pluriennale l'esame e' sostenuto alla fine dei corsi medesimi.   
-Al termine del corso di studi per il conseguimento del diploma di specialista in biologia clinica gli interessati devono superare l'esame di diploma consistente nella dissertazione scritta di un argomento attinente alla specializzazione e nell'espletamento di prove pratiche.   
+Lo statuto dell'Universita' cattolica del Sacro Cuore di Milano, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+Art. 2, relativo all'elenco degli istituti annessi alla facolta' di medicina e chirurgia e' modificato nel senso che l'istituto di "Psicologia" muta denominazione in "Istituto di psicologia generale e clinica".  
+Art. 23. - Nell'elenco degli insegnamenti complementari del corso di laurea in medicina e chirurgia l'insegnamento di "Psicologia" muta denominazione in quella di "Psicologia generale e clinica".  
+L'art. 54 e' modificato nel senso che l'ultimo comma viene abrogato e sostituito dal seguente:  
+"Il punto tre del presente articolo non si applica alla facolta' di giurisprudenza, di lettere e filosofia e di economia e commercio".  
+Art. 106. - All'elenco degli insegnamenti del 3° anno della scuola di specializzazione in oncologia della facolta' di medicina e chirurgia e' aggiunto quello di radiologia (diagnostica e terapia dei tumori).  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 31 ottobre 1979
+### Dato a Roma, addi' 31 ottobre 1972
 
-PERTINI VALITUTTI
+LEONE SCALFARO
 
-Visto, il Guardasigilli: MORLINO
+Visto, il Guardasigilli: GONELLA
 
-Registrato alla Corte dei conti, addi' 22 febbraio 1980
+Registrato alla Corte dei conti, addi' 27 febbraio 1973
 
-Registro n. 13 Istruzione, foglio n. 325
+Atti di Governo, registro n. 256, foglio n. 36. - VALENTINI

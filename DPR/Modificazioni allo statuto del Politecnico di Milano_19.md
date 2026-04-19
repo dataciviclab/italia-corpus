@@ -1,62 +1,279 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 settembre 1954 n. 1201
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 ottobre 1983 n. 1028
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 settembre 1954 n. 1201
-=================================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 ottobre 1983 n. 1028
+===============================================================
 
 Modificazioni allo statuto del Politecnico di Milano.
 -----------------------------------------------------
 
-Art. 1
-------
+IL PRESIDENTE DELLA REPUBBLICA
+------------------------------
 
- IL PRESIDENTE DELLA REPUBBLICA  
+Veduto lo statuto del Politecnico di Milano, approvato con [regio decreto 20 aprile 1939, n. 1028](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1028), e successive modificazioni;
+
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
+
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652).
+
+e successive modificazioni;
+
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
+
+Veduto il [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
+
+Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche del Politecnico anzidetto;
+
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici del Politecnico di Milano e convalidati dal Consiglio universitario nazionale nel suo parere;
+
+Sentito il parere del Consiglio universitario nazionale;
+
+Sulla proposta del Ministro della pubblica istruzione;
+
+Decreta:
+--------
+
+Lo statuto del Politecnico di Milano, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+
+Articolo unico
+--------------
+
   
-Veduto lo statuto del Politecnico di Milano, approvato con [regio decreto 20 aprile 1939, n. 1028](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1028), e modificato con [regio decreto 11 luglio 1942, n. 921](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1942-07-11;921), e con [decreto del Presidente della Repubblica 27 ottobre 1951, n. 1802](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-10-27;1802);  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche del Politecnico anzidetto;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
-Veduta la Convenzione in data 18 novembre 1952, stipulata con atto pubblico amministrativo, repertorio n. 213, per l'istituzione presso il Politecnico di Milano di un corso di perfezionamento in metallurgia (Fondazione Giorgio Enrico Falck - Carlo e Guido Vanzetti);  
-Veduto il decreto Ministeriale in data 12 marzo 1954, col quale in seguito al raggruppamento delle Fondazioni ing. Giorgio Enrico Falck e ing. Carlo Vanzetti e' istituita presso il Politecnico di Milano la "Fondazione Giorgio Enrico Falck - Carlo e Guido Vanzetti" con lo scopo di svolgere studi e ricerche in un corso di perfezionamento in metallurgia presso la Facolta' di ingegneria;  
-Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro per la pubblica istruzione;  
   
-Decreta:  
-  
-Lo statuto del Politecnico di Milano, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-  
-Titolo III - Corsi di perfezionamento.  
-  
-Il corso di perfezionamento in siderurgia (Fondazione ing. Giorgio Enrico Falck) e' soppresso. In sua sostituzione e' istituito il "Corso di perfezionamento in metallurgia (Fondazione Giorgio Enrico Falck - Carlo e Guido Vanzetti)", con il seguente ordinamento:  
-Art. 21. - IX - Corso di perfezionamento in metallurgia (Fondazione Giorgio Enrico Falck - Carlo e Guido Vanzetti), con i seguenti insegnamenti:  
-Fondamentali:  
-1) Metallurgia generale;  
-2) Scienza dei metalli ed esercitazioni metallografiche;  
-3) Chimica e chimica-fisica metallurgica;  
-4) Tecnologie metallurgiche riguardanti le lavorazioni plastiche;  
-5) Fonderia.  
-Complementari:  
-1) Metallurgia delle polveri;  
-2) Elettrometallurgia;  
-3) Corrosione e protezione dei metalli;  
-4) Metodi di analisi e controllo;  
-5) Organizzazione industriale, estimo, costi di produzione, leggi e disposizioni sindacali.  
-Altri insegnamenti monografici eventuali.  
-Lo studente ha l'obbligo di iscrizione e di frequenza per tutti gli insegnamenti fondamentali e per due insegnamenti complementari a sua scelta.  
-Al corso possono essere iscritti i laureati in ingegneria, in chimica, in chimica industriale ed in fisica.  
+Gli articoli 32, 33, 34, 35, 36 e 37, relativi al corso di laurea in architettura, sono soppressi e sostituiti come segue, con il conseguente scorrimento della numerazione degli articoli successivi.   
+Art. 32. - La facolta' di architettura ha il fine di promuovere gli studi e la ricerca nel campo dell'architettura e delle scienze del territorio e la formazione culturale e professionale degli studenti.  
+Essa prepara gli iscritti al conseguimento della laurea in architettura secondo indirizzi ed attraverso percorsi formativi.   
+Art. 33 - Corso di laurea ed indirizzi. - La facolta' di architettura conferisce la laurea in architettura.   
+Il corso di laurea e' articolato in quattro indirizzi:   
+indirizzo di progettazione architettonica;   
+indirizzo di tutela e recupero del patrimonio storico-architettonico;   
+indirizzo tecnologico;   
+indirizzo urbanistico;   
+La facolta' indica nel manifesto annuale degli studi l'attivazione degli indirizzi istituiti, specificandone i contenuti scientifici e didattici e gli obiettivi di formazione professionale.   
+Art. 34 - Durata degli studi e condizioni di ammissione. - Gli studi del corso di laurea in architettura hanno la durata di cinque anni e comprendono il numero complessivo di trenta annualita' di insegnamento.   
+L'ammissione all'esame di laurea avviene dopo il superamento delle trenta annualita' previste.   
+Al termine degli studi la facolta' rilascia il titolo di dottore in architettura.   
+I titoli di studio che danno diritto all'ammissione al primo anno di corso di laurea in architettura sono quelli previsti dalle vigenti leggi.   
+Il consiglio di facolta' determina caso per caso, in relazione all'indirizzo prescelto, a quale anno di corso possono essere ammessi gli studenti provenienti da altre facolta' universitarie o istituti superiori, italiani o stranieri, e i laureati in altre facolta' stabilendo quali degli esami sostenuti sono convalidati.   
+Il consiglio di facolta' determina le equipollenze al fine del riconoscimento di lauree conseguite all'estero ai sensi dell'[art. 332 del testo unico n. 1592/1933](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933;1592~art332).   
+Art. 35 - Aree disciplinari e relativi insegnamenti. - Per il corso di laurea in architettura sono attivabili ai sensi del [decreto del Presidente della Repubblica 9 settembre 1982, n. 806](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1982-09-09;806), i seguenti insegnamenti raccolti, ai fini della organizzazione didattica in nove aree disciplinari:   
+1) Area progettuale architettonica:   
+composizione architettonica (1ª annualita);   
+composizione architettonica (2ª annualita);   
+allestimento e museografia;   
+arte dei giardini;   
+caratteri tipologici dell'architettura;   
+arredamento e architettura degli interni;   
+normative e legislazione per l'edilizia;   
+progettazione architettonica (1ª annualita);   
+progettazione architettonica (2ª annualita);   
+scenografia;   
+teoria dei modelli per la progettazione;   
+teoria e tecniche della progettazione architettonica;   
+architettura sociale;   
+composizione architettonica (3ª annualita);   
+arredamento e architettura degli interni (2ª annualita).   
+2) Area della progettazione territoriale e urbanistica:   
+urbanistica (1ª annualita);   
+urbanistica (2ª annualita);   
+analisi di sistemi urbani;   
+analisi delle strutture urbanistiche e territoriali (1ª annualita);   
+analisi delle strutture urbanistiche e territoriali (2ª annualita);   
+diritto e legislazione urbanistica;   
+ecologia applicata;   
+geologia applicata ed idrogeologia;   
+gestione urbanistica del territorio;   
+organizzazione del territorio;   
+progettazione urbanistica (1ª annualita);   
+progettazione urbanistica (2ª annualita);   
+teoria dell'urbanistica (1ª annualita);   
+teoria dell'urbanistica (2ª annualita);   
+conservazione e gestione delle risorse ambientali;   
+pianificazione del territorio.   
+3) Area storico-critica e del restauro:   
+storia dell'architettura (1ª annualita);   
+storia dell'architettura (2ª annualita);   
+storia dell'urbanistica (1ª annualita);   
+storia dell'urbanistica (2ª annualita);   
+storia dell'architettura contemporanea;   
+storia dell'arte;   
+storia della citta' e del territorio;   
+storia della critica e della letteratura architettonica;   
+storia della scienza;   
+storia della tecnologia;   
+restauro architettonico;   
+restauro urbano;   
+teoria del restauro;   
+storia dell'architettura (3ª annualita);   
+restauro architettonico (2ª annualita);   
+storia della cartografia;   
+storia del paesaggio urbano e rurale.   
+4) Area tecnologica:   
+tecnologia dell'architettura (1ª annualita);   
+tecnologia dell'architettura (2ª annualita);   
+cultura tecnologica della progettazione;   
+disegno industriale;   
+ergonomia;   
+igiene ambientale;   
+morfologia dei componenti;   
+progettazione ambientale;   
+sperimentazione di sistemi e componenti;   
+tecnica ed economia della produzione edilizia;   
+tecnologie dei materiali da costruzione;   
+tipologia strutturale;   
+unificazione edilizia e prefabbricazione;   
+tecnologie del recupero edilizio;   
+programmazione edilizia;   
+disegno industriale (2ª annualita);   
+metodi e tecniche della normazione edilizia;   
+organizzazione della produzione.   
+5) Area impiantistica:   
+fisica tecnica e impianti;   
+illuminotecnica, acustica e climatizzazione nella edilizia;   
+impianti speciali di sicurezza;   
+impianti tecnici urbani;   
+ubicazione e distribuzione della produzione della energia;   
+tecnica e normativa impiantistica;   
+infrastrutture di viabilita' e trasporto.   
+6) Area fisico-matematica:   
+istituzioni di matematica;   
+calcolo numerico e programmazione;   
+elaborazione elettronica dei dati;   
+elaborazione elettronica della progettazione;   
+fisica;   
+geometria descrittiva;   
+istituzioni di statistica;   
+linguaggio per l'uso dei calcolatori;   
+matematica applicata;   
+statistica applicata;   
+teoria dei sistemi;   
+modelli matematici per la programmazione territoriale.   
+7) Area della scienza e tecnica delle costruzioni:   
+statica;   
+consolidamento e adattamento degli edifici;   
+costruzioni in zone sismiche;   
+dinamica delle costruzioni;   
+geotecnica e tecnica delle fondazioni;   
+progettazione di grandi strutture;   
+scienza delle costruzioni;   
+tecnica delle costruzioni (1ª annualita);   
+tecnica delle costruzioni (2ª annualita);   
+sperimentazione dei materiali, delle strutture.   
+8) Area socio-economica:   
+estimo ed esercizio professionale;   
+economia urbana e regionale;   
+antropologia culturale;   
+demografia;   
+economia dei trasporti;   
+fondamenti di economia;   
+geografia urbana e regionale;   
+sociologia urbana e rurale;   
+tecniche economiche e finanziarie della programmazione.   
+9) Area della rappresentazione:   
+disegno e rilievo;   
+applicazioni di geometria descrittiva;   
+cartografia tematica;   
+elementi di fotogrammetria;   
+interpretazione di immagini e telerilevamenti;   
+strumenti e metodi per il rilievo architettonico;   
+strumenti e tecniche di comunicazione visiva;   
+tecniche della cartografia automatica;   
+tecniche di rappresentazione dell'architettura;   
+topografia;   
+rappresentazione dei fenomeni territoriali.   
+Nel manifesto annuale degli studi vengono indicati, con la collocazione nelle rispettive aree disciplinari:   
+gli insegnamenti ufficiali attivati;   
+i corsi integrativi di quelli ufficiali affidati a professori a contratto;   
+gli insegnamenti svolti nell'Ateneo e presso altre facolta' universitarie o istituti superiori universitari al fine del riconoscimento dell'esame ai sensi dell'[art. 22 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art22).   
+Art. 36. - A) Sono discipline fondamentali e obbligatorie per tutti gli studenti del corso di laurea in architettura indipendentemente dall'indirizzo scelto, quindici discipline, come di seguito indicato:   
+1) composizione architettonica (1ª annualita);   
+2) urbanistica (1ª annualita);   
+3) storia dell'architettura (1ª annualita);   
+4) tecnologia dell'architettura (1ª annualita);   
+5) fisica tecnica e impianti;   
+6) istituzioni di matematica;   
+7) statica;   
+8) estimo ed esercizio professionale;   
+9) disegno e rilievo;   
+10) composizione architettonica (2ª annualita);   
+11) progettazione architettonica (1ª annualita);   
+12) urbanistica (2ª annualita);   
+13) restauro architettonico;   
+14) tecnologia dell'architettura (2ª annualita);   
+15) scienza delle costruzioni.   
+Le prime nove sono fondamentali e comuni per tutte le facolta' di architettura, le successive sei sono fondamentali caratterizzanti il corso di laurea della facolta' di architettura di Milano.   
+B) Sono fondamentali per ciascuno indirizzo tre discipline individuanti rispettivamente:   
+L'indirizzo di progettazione architettonica:   
+1) composizione architettonica (3ª annualita);   
+2) arredamento e architettura degli interni;   
+3) tecnica delle costruzioni (1ª annualita).   
+L'indirizzo di tutela e recupero del patrimonio storico-architettonico:   
+1) storia dell'architettura (2ª annualita);   
+2) restauro urbano;   
+3) teoria del restauro.   
+L'indirizzo urbanistico:   
+1) analisi delle strutture urbanistiche e territoriali;   
+2) pianificazione del territorio;   
+3) progettazione urbanistica.   
+L'indirizzo tecnologico:   
+1) disegno industriale;   
+2) unificazione edilizia e prefabbricazione;   
+3) tecnica ed economia della produzione edilizia.   
+Le discipline di cui sopra possono essere sostituite dagli studenti con altre discipline fermo restando il rispetto dei criteri di appartenenza delle discipline scelte alle stesse aree disciplinari.   
+C) Sono discipline caratterizzanti il corso di laurea tre annualita' che possono essere diversamente specificate, in funzione degli indirizzi attivati, nel manifesto annuale degli studi, secondo i seguenti criteri di appartenenza alle aree disciplinari:   
+una annualita' dell'area 1) progettuale-architettonica;   
+una annualita' dell'area 3) storico-critica e del restauro;   
+una annualita' dell'area 8) socio-economica.   
+D) Sono discipline individuanti ciascun indirizzo nove annualita' che saranno indicate per ogni indirizzo nel manifesto annuale degli studi, secondo i seguenti criteri di appartenenza alle aree disciplinari, escluse quelle gia' fissate al precedente punto B):   
+Per l'indirizzo di progettazione architettonica:   
+tre annualita' dall'area 1) progettuale-architettonica;   
+una annualita' dall'area 2) della progettazione territoriale ed urbanistica;   
+una annualita' dall'area 3) storico-critica e del restauro;   
+una annualita' dall'area 4) tecnologica;   
+due annualita' dall'area 7) della scienza e tecnica delle costruzioni;   
+una annualita' dall'area 9) della rappresentazione.   
+Per l'indirizzo tutela e recupero:   
+due annualita' dall'area 1) progettuale-architettonica;   
+una annualita' dall'area 2) della progettazione territoriale ed urbanistica;   
+tre annualita' dall'area 3) storico-critica e del restauro;   
+una annualita' dall'area 4) tecnologica;   
+una annualita' dall'area 7) della scienza e tecnica delle costruzioni;   
+una annualita' dall'area 9) della rappresentazione.   
+Per l'indirizzo tecnologico:   
+una annualita' dall'area 1) progettuale-architettonica;   
+una annualita' dall'area 3) storico-critica e del restauro;   
+tre annualita' dall'area 4) tecnologica;   
+una annualita' dall'area 5) impiantistica;   
+una annualita' dall'area 6) fisico-matematica;   
+una annualita' dall'area 7) della scienza e tecnica delle costruzioni:   
+una annualita' dall'area 9) della rappresentazione.   
+Per l'indirizzo urbanistico:   
+tre annualita' dall'area 2) della progettazione territoriale e urbanistica;   
+una annualita' dall'area 3) storico-critica e del restauro; una annualita' dall'area 4) tecnologica;   
+una annualita' dall'area 6) fisico-matematica;   
+due annualita' dall'area 8) socio-economica;   
+una annualita' dall'area 9) della rappresentazione.   
+Art. 37 - Scelte dell'indirizzo e piani di studio. - Lo studente, iscrivendosi al primo anno del corso di laurea in architettura e' tenuto ad indicare l'indirizzo prescelto.   
+Il consiglio di facolta' puo' fissare specificandole nel manifesto annuale degli studi:   
+la distribuzione degli insegnamenti negli anni di corso;   
+la frequenza a lezioni, seminari, esercitazioni.   
+Art. 38 - Esame di laurea. - Per poter sostenere l'esame di laurea il candidato deve redigere individualmente una tesi sotto la guida di un professore ufficiale dell'indirizzo seguito, che funge da relatore; l'argomento e il contenuto della tesi dovra' essere coerente con gli studi seguiti dal candidato.   
+L'argomento e il titolo della tesi di laurea, concordato con un relatore, dovra' essere comunicato dal candidato, nei modi che verranno indicati dalla facolta', almeno dodici mesi prima della data fissata per l'esame di laurea.   
+L'elaborato predisposto dal candidato per la discussione della tesi deve assumere carattere di contributo originale applicativo o teorico nell'ambito delle tematiche degli indirizzi di laurea, cioe' specifico delle aree che interessano l'architetto, e derivare dagli insegnamenti impartiti nella facolta'.   
+La facolta' si accerta della conoscenza di almeno una lingua straniera fra quelle indicate nel manifesto annuale degli studi, mediante colloquio e traduzione di testi scientifici, da effettuarsi prima dell'assegnazione della tesi di laurea con il relatore e docenti di discipline attinenti alla tesi stessa.   
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Dogliani, addi' 14 settembre 1954
+### Dato a Roma, addi' 28 ottobre 1983
 
-EINAUDI MARTINO
+PERTINI FALCUCCI
 
-Visto, il Guardasigilli: DE PIETRO
+Visto, il Guardasigilli: MARTINAZZOLI
 
-Registrato alla Corte dei conti, addi' 30 dicembre 1954
+Registrato alla Corte dei conti, addi' 29 febbraio 1984
 
-Atti del Governo, registro n. 87, foglio n. 110. - CARLOMAGNO
+Registro n. 13 Istruzione, foglio n. 33

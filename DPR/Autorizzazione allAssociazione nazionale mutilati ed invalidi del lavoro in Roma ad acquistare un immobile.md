@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 settembre 1984 n. 860
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 03 ottobre 1975 n. 869
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 settembre 1984 n. 860
-================================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 03 ottobre 1975 n. 869
+==============================================================
 
 Autorizzazione all'Associazione nazionale mutilati ed invalidi del lavoro, in Roma, ad acquistare un immobile.
 --------------------------------------------------------------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-860. Decreto del Presidente della Repubblica 14 settembre 1984, col quale, sulla proposta del Ministro del lavoro e della previdenza sociale, l'Associazione nazionale mutilati ed invalidi del lavoro, in Roma, viene autorizzata ad acquistare, al prezzo di lire 75 milioni, un appartamento di nove vani ed accessori sito in Siena, viale Cavour n. 142-152, primo piano, censito al nuovo catasto edilizio urbano alla partita 6677, foglio 40, n. 27 sub 7, n. 28 sub 2, di proprieta' della sig.ra Marisa Cesarano in Ciampalini, come da atto di compravendita sottoposto a condizione sospensiva 6 maggio 1975, n. 8989 di repertorio, a rogito dottor Mario Lucarelli, notaio in Siena, registrato a Siena in data 13 maggio 1975 al n. 2326.  
+869. Decreto del Presidente della Repubblica 3 ottobre 1975, col quale, sulla proposta del Ministro per il lavoro e la previdenza sociale, l'Associazione nazionale mutilati ed invalidi del lavoro, in Roma, viene autorizzata ad acquistare, al prezzo di L. 64.800.000, un fabbricato sito in Arezzo alla via Madonna del Prato numeri 38-40, angolo via Tolletta numeri 2-4-6, distinto nel nuovo catasto edilizio urbano alla partita 5276, foglio 174, part. 72, di proprieta' del sig. Dino Matteini.  
   
-Visto, il Guardasigilli: MARTINAZZOLI  
-Registrato alla Corte dei conti, addi' 11 dicembre 1984  
-Registro n. 1 Lavoro, foglio n. 222
+Visto, il Guardasigilli: REALE  
+Registrato alla Corte dei conti, addi' 13 febbraio 1976  
+Atti di Governo, registro n. 2, foglio n. 56

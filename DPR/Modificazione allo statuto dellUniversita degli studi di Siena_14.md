@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1985 n. 997
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 marzo 1983 n. 403
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1985 n. 997
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 marzo 1983 n. 403
+============================================================
 
 Modificazione allo statuto dell'Universita' degli studi di Siena.
 -----------------------------------------------------------------
@@ -24,11 +24,13 @@ Veduto il [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http:
 
 Veduta la [legge 30 ottobre 1981, n. 615](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-10-30;615);
 
-Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta ai sensi della citata legge n. 615;
+Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
-Veduto il parere del Consiglio universitario nazionale;
+Considerato che nel decreto ministeriale 4 dicembre 1980, concernente la "Prima tornata dei giudizi di idoneita' a professore di ruolo, fascia degli associati", l'insegnamento come proposto dagli organi accademici non risulta in alcun raggruppamento;
 
-Sulla proposta del Ministro della pubblica istruzione:
+Veduto il parere del Consiglio universitario nazionale, che propone l'insegnamento di storia del Mediterraneo antico orientale, come incluso nel raggruppamento 47;
+
+Sulla proposta del Ministro della pubblica istruzione;
 
 Decreta:
 --------
@@ -39,21 +41,19 @@ Articolo unico
 --------------
 
   
-Nell'art 69, relativo al corso di laurea in medicina e chirurgia, all'elenco degli insegnamenti complementari, e' aggiunto il seguente nuovo insegnamento:  
-malattie del ricambio.  
+Nell'art. 58, relativo al corso di laurea in materie letterarie, all'elenco degli insegnamenti complementari e' aggiunto il nuovo seguente insegnamento:  
+storia del Mediterraneo antico orientale.  
   
 
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservano e di farlo osservare.
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 31 ottobre 1985
+### Dato a Roma, addi' 28 marzo 1983
 
-COSSIGA
+PERTINI FALCUCCI
 
-FALCUCCI, Ministro della pubblica istruzione
+Visto, il Guardasigilli: DARIDA
 
-Visto, il Guardasigilli: MARTINAZZOLI
+Registrato alla Corte dei conti, addi' 17 agosto 1983
 
-Registrato alla Corte dei conti, addi' 3 aprile 1986
-
-Registro n. 23 Istruzione, foglio n. 74
+Registro n. 59 Istruzione, foglio n. 102

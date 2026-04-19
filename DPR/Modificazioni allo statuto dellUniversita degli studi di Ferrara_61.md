@@ -1,171 +1,59 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1975 n. 946
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 25 maggio 1976 n. 710
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1975 n. 946
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 25 maggio 1976 n. 710
+=============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Ferrara.
 -------------------------------------------------------------------
 
-IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
-
-Veduto lo statuto dell'Universita' degli studi di Ferrara, approvato con [decreto del Presidente della Repubblica 18 aprile 1951, n. 964](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-04-18;964) e modificato con [decreto del Presidente della Repubblica 25 luglio 1952, n. 1207](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-07-25;1207), e successive modificazioni;
-
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
-
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
-
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
-
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
-
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Ferrara e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;
-
-Sentito il parere del Consiglio superiore della pubblica istruzione;
-
-Sulla proposta del Ministro per la pubblica istruzione;
-
-Decreta:
-
-Lo statuto dell'Universita' degli studi di Ferrara, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
-
-Gli articoli da 124 a 129, relativi alla "Scuola di perfezionamento in diagnostica di laboratorio" che muta denominazione in quella di "Scuola di specializzazione per medici laboratoristi", sono abrogati e sostituiti dai seguenti:
-
-Scuola di specializzazione per medici laboratoristi
-
-Art. 124. - La scuola di specializzazione per medici laboratoristi ha lo scopo di preparare sul piano scientifico e tecnico i medici che intendono dedicarsi particolarmente alle analisi di laboratorio applicate alla clinica e rilascia il diploma di "specialista in analisi cliniche di laboratorio".
-
-Possono essere ammessi i laureati in medicina e chirurgia.
-
-Art. 125. - Il corso ha la durata di tre anni ed ha luogo negli istituti di chimica biologica e di microbiologia, ovvero in loro mancanza presso gli istituti ove le suddette cattedre hanno sede.
-
-Art. 126. - Gli iscritti al primo anno non potranno superare il numero di 15 con un numero complessivo nei tre anni di 45. Nel caso di domande eccedenti, la selezione verra' effettuata mediante concorso con norme che verranno precisate nel manifesto annuale.
-
-Art. 127. - La direzione della scuola viene assunta dai professori di ruolo di chimica biologica e di microbiologia.
-
-Art. 128. - Gli insegnamenti impartiti dalla scuola sono distribuiti nei tre anni come segue:
-
-1° Anno:
-
-1) fisiologia;
-
-2) patologia generale;
-
-3) chimica biologica generale;
-
-4) batteriologia generale;
-
-5) nozioni di igiene applicate al laboratorio di analisi cliniche;
-
-6) tecnica dei prelevamenti;
-
-7) tecnica di laboratorio.
-
-2° Anno:
-
-8) batteriologia speciale;
-
-9) chimica biologica applicata;
-
-10) fisico-chimica biologica;
-
-11) parassitologia e tecniche relative;
-
-12) micologia.
-
-3° Anno:
-
-13) nozioni di statistica biologica;
-
-14) nozioni di immunochimica applicata;
-
-15) virologia e tecniche relative;
-
-16) microscopia clinica;
-
-17) immunologia e tecniche relative;
-
-18) identificazione di tracce biologiche;
-
-19) tecniche ematologiche di laboratorio.
-
-Art. 129. - Alla fine di ciascun anno scolastico gli specializzandi dovranno sostenere un esame di profitto, il cui superamento e' condizione necessaria per l'iscrizione all'anno successivo e, per quelli che sono iscritti all'ultimo anno, per poter accedere all'esame di diploma. Alla fine del terzo anno del corso ha luogo l'esame di diploma consistente nella preparazione e discussione di una dissertazione scritta su un argomento previamente concordato tra il diplomando e il direttore della scuola.
-
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
-
-Dato a Roma, addi' 31 ottobre 1975
-
-LEONE
-
-MALFATTI
-
-Visto, il Guardasigilli: BONIFACIO
-
-Registrato
-----------
-
-alla Corte dei conti, addi' 30 marzo 1976 Atti di Governo, registro n. 4, foglio n. 48
-
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA   
+ IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Ferrara, approvato con [decreto del Presidente della Repubblica 18 aprile 1951, n. 964](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-04-18;964) e modificato con [decreto del Presidente della Repubblica 25 luglio 1952, n. 1207](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-07-25;1207), e successive modificazioni;   
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;   
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Ferrara e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;   
-Sentito il parere del Consiglio superiore della pubblica istruzione;   
-Sulla proposta del Ministro per la pubblica istruzione;   
-Decreta:   
-Lo statuto dell'Universita' degli studi di Ferrara, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
-Gli articoli da 124 a 129, relativi alla "Scuola di perfezionamento in diagnostica di laboratorio" che muta denominazione in quella di "Scuola di specializzazione per medici laboratoristi", sono abrogati e sostituiti dai seguenti:   
+Veduto lo statuto dell'Universita' di Ferrara, approvato con [decreto del Presidente della Repubblica 18 aprile 1951, n. 964](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-04-18;964) e modificato con [decreto del Presidente della Repubblica 25 luglio 1952, n. 1207](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-07-25;1207), e successive modificazioni;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Ferrara e convalidati dal Consiglio superiore della pubblica istruzione nei suoi pareri;  
+Sentito il parere del Consiglio superiore della pubblica istruzione;  
+Sulla proposta del Ministro per la pubblica istruzione;  
   
-Scuola di specializzazione per medici laboratoristi   
+Decreta:  
   
-Art. 124. - La scuola di specializzazione per medici laboratoristi ha lo scopo di preparare sul piano scientifico e tecnico i medici che intendono dedicarsi particolarmente alle analisi di laboratorio applicate alla clinica e rilascia il diploma di "specialista in analisi cliniche di laboratorio".   
-Possono essere ammessi i laureati in medicina e chirurgia.   
-Art. 125. - Il corso ha la durata di tre anni ed ha luogo negli istituti di chimica biologica e di microbiologia, ovvero in loro mancanza presso gli istituti ove le suddette cattedre hanno sede.   
-Art. 126. - Gli iscritti al primo anno non potranno superare il numero di 15 con un numero complessivo nei tre anni di 45. Nel caso di domande eccedenti, la selezione verra' effettuata mediante concorso con norme che verranno precisate nel manifesto annuale.   
-Art. 127. - La direzione della scuola viene assunta dai professori di ruolo di chimica biologica e di microbiologia.   
-Art. 128. - Gli insegnamenti impartiti dalla scuola sono distribuiti nei tre anni come segue:   
-1° Anno:   
-1) fisiologia;   
-2) patologia generale;   
-3) chimica biologica generale;   
-4) batteriologia generale;   
-5) nozioni di igiene applicate al laboratorio di analisi cliniche;   
-6) tecnica dei prelevamenti;   
-7) tecnica di laboratorio.   
-2° Anno:   
-8) batteriologia speciale;   
-9) chimica biologica applicata;   
-10) fisico-chimica biologica;   
-11) parassitologia e tecniche relative;   
-12) micologia.   
-3° Anno:   
-13) nozioni di statistica biologica;   
-14) nozioni di immunochimica applicata;   
-15) virologia e tecniche relative;   
-16) microscopia clinica;   
-17) immunologia e tecniche relative;   
-18) identificazione di tracce biologiche;   
-19) tecniche ematologiche di laboratorio.   
-Art. 129. - Alla fine di ciascun anno scolastico gli specializzandi dovranno sostenere un esame di profitto, il cui superamento e' condizione necessaria per l'iscrizione all'anno successivo e, per quelli che sono iscritti all'ultimo anno, per poter accedere all'esame di diploma. Alla fine del terzo anno del corso ha luogo l'esame di diploma consistente nella preparazione e discussione di una dissertazione scritta su un argomento previamente concordato tra il diplomando e il direttore della scuola.   
+Lo statuto dell'Universita' degli studi di Ferrara, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+Art. 85 - all'elenco degli insegnamenti complementari del corso di laurea in farmacia sono aggiunti i seguenti:  
+chimica dei composti eterociclici;  
+biologia molecolare;  
+chimica terapeutica;  
+chimica analitica clinica.  
+Dallo stesso elenco e' soppresso l'insegnamento complementare di idrologia.  
+Art. 90 - all'elenco degli insegnamenti complementari del corso di laurea in chimica e tecnologia farmaceutiche sono aggiunti i seguenti:  
+chimica dei composti eterociclici;  
+biologia molecolare;  
+chimica terapeutica;  
+chimica analitica clinica;  
+biopolimeri;  
+chimica analitica.  
+Dallo stesso elenco sono soppressi i seguenti insegnamenti:  
+prodotti dietetici;  
+prodotti cosmetici.  
+Nello stesso articolo gli insegnamenti fondamentali di chimica organica I e chimica organica II perdono gli asterischi.  
+Inoltre, l'ultimo comma e' modificato nel senso che sono soppresse le seguenti parole: "quelle segnate con due asterischi sono comuni alla laurea in chimica".  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 31 ottobre 1975
+### Dato a Roma, addi' 25 maggio 1976
 
 LEONE MALFATTI
 
 Visto, il Guardasigilli: BONIFACIO
 
-Registrato alla Corte dei conti, addi' 30 marzo 1976
+Registrato alla Corte dei conti, addi' 19 ottobre 1976
 
-Atti di Governo, registro n. 4, foglio n. 48
+Atti di Governo, registro n. 10, foglio n. 166

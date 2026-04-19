@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 15 marzo 1973 n. 386
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 15 ottobre 1969 n. 982
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 15 marzo 1973 n. 386
-============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 15 ottobre 1969 n. 982
+==============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Palermo.
 -------------------------------------------------------------------
@@ -10,13 +10,17 @@ Modificazioni allo statuto dell'Universita' degli studi di Palermo.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' degli studi di Palermo, approvato con [regio decreto 14 ottobre 1926, n. 2412](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2412), e modificato con [regio decreto 13 ottobre 1927, n. 2240](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2240), e successive modificazioni;
+Veduto lo statuto dell'Universita' degli studi di Palermo, approvato con [regio decreto 14 ottobre 1926, n. 2412](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2412) e modificato con [regio decreto 13 ottobre 1927, n. 2230](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2230), e successive modificazioni;
 
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
 
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
+
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
+
+Veduta la [legge 25 luglio 1966, n. 602](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1966-07-25;602);
 
 Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;
 
@@ -30,190 +34,206 @@ Decreta:
 
 Lo statuto dell'Universita' degli studi di Palermo, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
-Gli articoli 152, 153, 155, 157, 158, 161, 162, 163 e 165 relativi alle norme generali per le scuole di specializzazione annesse alla facolta' di medicina e chirurgia sono abrogati e sostituiti dai seguenti:
+Art. 17. - E' modificato nel senso che la parte concernente la facolta' di economia e commercio e' sostituita dalla seguente:
 
-Art. 152. - Presso le facolta' di medicina e chirurgia sono istituite le seguenti scuole di specializzazione che conferiscono diplomi di "Specialisti nelle discipline professionali medico-chirurgiche" ai sensi dell'[art. 4 del regio decreto 31 dicembre 1923, n. 2909](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-31;2909~art4):
+La facolta' di economia e commercio:
 
-Scuola di medicina interna;
+1) Laurea in economia e commercio durata del corso 4 anni;
 
-Scuola di chirurgia;
+2) Laurea in scienze statistiche ed economiche durata del corso 4 anni;
 
-Scuola di ostetricia e ginecologia;
+3) Diploma in statistica durata del corso 2 anni.
 
-Scuola di ortopedia e traumatologia;
+Dopo l'art. 21 e con il conseguente spostamento della successiva numerazione sono inseriti i seguenti nuovi articoli relativi all'istituzione del corso di laurea in scienze statistiche ed economiche e del corso di studi per il conseguimento del diploma in statistica.
 
-Scuola di otorinolaringoiatria e patologia cervicofacciale;
+Laurea in scienze statistiche ed economiche
 
-Scuola di neurologia;
+Art. 22. - La durata del corso degli studi per la laurea in scienze statistiche ed economiche e' di quattro anni. Il titolo di ammissione e' quello previsto per la laurea in economia e commercio: i diplomati in statistica sono ammessi al terzo anno e il consiglio di facolta' provvedera' a prescrivere di volta in volta il piano di studi per la laurea.
 
-Scuola di psichiatria;
+Sono insegnamenti fondamentali:
 
-Scuola di clinica oculistica;
+1) Istituzioni di analisi matematica;
 
-Scuola di clinica pediatrica;
+2) Analisi matematica;
 
-Scuola di clinica dermosifilopatica;
+3) Geometria analitica;
 
-Scuola di igiene e medicina preventiva (con orientamento di sanita' pubblica, di laboratorio, di igiene e direzione ospedaliera);
+4) Calcolo delle probabilita';
 
-Scuola di medicina legale e delle assicurazioni;
+5) Istituzioni di statistica;
 
-Scuola di radiologia (A) radiologia (B) radiologia diagnostica;
+6) Statistica;
 
-Scuola di tisiologia e malattie dell'apparato respiratorio;
+7) Statistica metodologica;
 
-Scuola di anestesiologia e rianimazione;
+8) Demografia;
 
-Scuola di medicina del lavoro;
+9) e 10) Economia politica (biennale);
 
-Scuola di urologia;
+11) Politica economica e finanziaria;
 
-Scuola di malattie dell'apparato digerente;
+12) Istituzioni di statistica economica;
 
-Scuola di chirurgia vascolare;
+13) Economia d'azienda;
 
-Scuola di odontoiatria e protesi dentaria.
+14) Statistica economica;
 
-Art. 153. - La durata dei corsi e' indicata negli statuti delle singole scuole.
+15) Statistica aziendale e analisi di mercato;
 
-Art. 155. - I corsi delle lezioni saranno tenuti dal direttore della scuola e da un corpo di insegnanti che verra' designato ogni anno dalla facolta' stessa, su proposta del direttore della scuola, tra i professori di ruolo, aggregati, incaricati, liberi docenti, assistenti o cultori della materia, salvo quanto previsto nello statuto delle singole scuole.
+16) Controllo statistico delle qualita' e statistica industriale;
 
-Art. 157. - I piani di studio sono indicati nell'ordinamento di ciascuna scuola.
+17) Istituzioni di diritto privato;
 
-Gli insegnamenti fondamentali e le esercitazioni vanno tenuti distinti da quelli per gli studenti del corso di laurea.
+18) Istituzioni di diritto pubblico;
 
-Gli insegnamenti possono avere, anziche' carattere di lezioni cattedratiche, quella diversa forma che e' consentita dall'indole di ciascuna disciplina.
+19) Teoria dei campioni.
 
-E' obbligatorio per gli allievi un periodo di internato che non puo' essere complessivamente inferiore alla meta' della durata del corso, salvo quanto previsto nello statuto delle singole scuole.
+Sono insegnamenti complementari:
 
-Art. 158. - Lo svolgimento dei corsi e il diario degli esami saranno predisposti dalla facolta' su proposta dei direttori delle scuole, salvo quanto previsto nello statuto delle singole scuole.
+1) Geografia politica ed economica;
 
-Art. 161. - A queste scuole di specializzazione sono ammessi soltanto laureati in medicina e chirurgia. Il diploma sara' rilasciato soltanto a coloro che siano abilitati all'esercizio della professione medico-chirurgica.
+2) Statistica sociale;
 
-Non e' consentita l'iscrizione contemporanea a piu' di una scuola di specializzazione.
+3) Sociologia;
 
-La domanda di ammissione alla scuola va diretta al rettore dell'universita' corredata dal diploma di maturita' classica o scientifica, di diploma di laurea originale, della carriera scolastica e degli altri titoli che l'aspirante ritenga di dover presentare.
+4) Scienza delle finanze;
 
-L'iscrizione alle singole scuole avviene nel limite dei posti disponibili per ciascuna scuola in base ad una graduatoria stabilita a seguito di concorso per titoli eventualmente integrato, se ritenuto necessario dalla commissione esaminatrice, da un esame di accertamento della preparazione.
+5) Econometrica;
 
-Ogni commissione e' costituita dal direttore della scuola di specializzazione che la presiede, da un professore ufficiale della stessa materia o di materia affine e da un libero docente in una materia compresa nel piano di studio della scuola stessa.
+6) Contabilita' nazionale;
 
-La commissione e' nominata, su proposta del direttore della scuola, dalla facolta' di medicina e chirurgia. La graduatoria deve essere approvata dalla facolta'.
+7) Diritto commerciale;
 
-Art. 162. - Non sono consentite abbreviazioni di corso.
+8) Diritto del lavoro;
 
-Solo agli assistenti ordinari, straordinari e incaricati puo' essere concesso, a giudizio della facolta', un'abbreviazione di corso pari agli anni di servizio prestati nella predetta qualita' in cliniche o istituti universitari, ne quali vengono impartite discipline strettamente affini alla specialita'.
+9) Matematica finanziaria e istituzioni di matematica attuariale;
 
-Se gli anni di servizio sono pari a quelli del corso di specializzazione e' consentita su proposta della Facolta' e con l'approvazione del senato accademico, l'ammissione diretta all'esame di specializzazione.
+10) Teoria e tecnica dell'elaborazione automatica dei dati;
 
-Salvo quanto previsto negli statuti delle singole scuole.
+11) Ricerca operativa;
 
-Art. 163. - Per ottenere il diploma di specialista e' necessario:
+12) Teoria dei sistemi;
 
-avere eseguito le esercitazioni cliniche e di laboratorio, l'assistenza e l'esecuzione degli atti operativi;
+13) Psicologia sperimentale;
 
-aver superato gli esami teorici e pratici della scuola presentare una tesi corredata di contributi personali e discutere oralmente la tesi stessa nell'esame di diploma salvo quanto previsto negli statuti delle singole scuole.
+14) Antropologia;
 
-Art. 165. - Gli specializzandi dovranno ottenere la firma di frequenza relativa ai singoli corsi di lezioni Gli esami di profitto vengono sostenuti alla fine del l'anno accademico per singole materie o per gruppi di materie stabiliti dalla facolta'.
+15) Statistica medica e biometria;
 
-I riprovati in non piu' di due materie potranno esser ammessi all'anno successivo, mantenendo l'obbligo di superare tali esami alla prima sessione.
+16) Statistica applicata alle scienze fisiche;
 
-Le commissioni per gli esami di profitto, composte da due professori ufficiali e da un libero docente cultore della materia, sono nominate dal preside su proposta del direttore della scuola.
+17) Genetica;
 
-Le commissioni per l'esame di diploma sono costituite da cinque membri nominati dal preside della facolta', udito il direttore della scuola.
+18) Diritto dell'economia pubblica;
 
-Tali commissioni sono costituite da professori ufficiali in maggioranza e da liberi docenti o cultori della disciplina impartita nella scuola.
+19) Storia della statistica.
 
-I candidati non riconosciuti idonei possono presentarsi all'esame di diploma soltanto una seconda volta dopo un altro anno di frequenza alla scuola.
+Gli insegnamenti complementari possono essere scelti dallo studente anche fra le discipline impartite nel biennio per il diploma di statistica o fra quelle impartite nei corsi di laurea della facolta' e delle altre facolta' dell'ateneo, previa approvazione del preside della facolta'. Detta approvazione deve essere richiesta entro il 31 dicembre di ogni anno.
 
-A coloro che superano l'esame di diploma viene rilasciato il diploma di specialista.
+Per essere ammesso all'esame di laurea lo studente deve avere seguito i corsi e superato gli esami di tutti gli insegnamenti fondamentali e di almeno tre complementari. Deve anche aver seguito per due anni e superato, dopo un biennio di frequenza, gli esami di lingua inglese e di un'altra lingua moderna scelta fra quelle insegnate nella facolta'.
 
-Le norme del presente articolo sono valide salve quanto previsto negli statuti delle singole scuole.
+Per essere iscritto al secondo anno lo studente deve aver superato almeno due esami fondamentali del primo anno.
 
-All'art. 170 relativo alla Scuola di specializzazione in ortopedia e traumatologia" sono inseriti i seguenti nuovi comma:
+Per l'insegnamento biennale di economia politica e' prescritto l'esame alla fine di ciascun corso annuale, dovendosi il primo considerare propedeutico rispetto al secondo.
 
-Art. 170. - La scuola di specializzazione in ortopedia e traumatologia ha sede presso l'istituto di clinica ortopedica e conferisce il diploma di specializzazione in ortopedia e traumatologia.
+Art. 23. - Gli esami di istituzioni di analisi matematica, di analisi matematica, di geometria analitica, di calcolo delle probabilita', di istituzioni di statistica, di statistica, di economia politica (primo esame), di istituzioni di statistica economica, di statistica economica, di istituzioni di diritto privato, di istituzioni di diritto pubblico, devono essere superati prima degli altri esami fondamentali.
 
-Potranno essere ammessi alla scuola i laureati in medicina e chirurgia.
+Gli esami di istituzioni di analisi matematica e di geometria analitica, dovranno essere superati prima degli esami di analisi matematica e di statistica.
 
-La frequenza e' obbligatoria nell'istituto sede della scuola per un periodo di almeno nove mesi per ogni anno accademico. E' in facolta' del direttore della scuola concedere una deroga a tale norma solo agli iscritti alla scuola che facciano parte della clinica ortopedica che non abbia la scuola di specializzazione o che siano assistenti di ruolo in divisioni di ortopedia di ospedale di prima categoria. Per queste due categorie di iscritti i il periodo di frequenza presso l'istituto sede della scuola puo' essere ridotto fino a non meno di un mese ogni anno.
+L'esame di istituzioni di statistica dovra' essere superato prima degli esami di statistica, di demografia e di statistica economica.
 
-Per nessun motivo sono ammesse abbreviazioni della durata degli studi.
+L'esame di analisi matematica dovra' essere superato prima dell'esame di calcolo delle probabilita'.
 
-Gli insegnamenti si svolgeranno con indirizzo prevalentemente pratico, dimostrativo, ma per ogni singola materia di insegnamento dovra' anche svolgersi un corso 3 regolare di lezioni, il cui numero verra' fissato annualmente dal direttore della scuola in accordo con i docenti delle singole materie.
+Gli esami di economia politica (primo esame) e di istituzioni di statistica economica, dovranno essere superati prima dell'esame di statistica economica.
 
-Gli esami si svolgeranno per singole materie.
+L'esame di economia politica (secondo esame) dovra' essere superato prima dell'esame di politica economica e finanziaria.
 
-Gli esami di clinica ortopedica e traumatologica saranno teorici e pratici.
+L'esame di laurea consiste nella discussione di una dissertazione scritta svolta sul tema approvato dal professore della materia o nella discussione di almeno due o tre temi orali scelti dal candidato vertenti su materie fondamentali nel suo corso di studio e parimenti approvati dai professori delle rispettive materie.
 
-Per l'ammissione al corso successivo e' obbligatorio il superamento degli esami delle materie di ciascun corso.
+Uno di questi temi deve riguardare la statistica metodologica ed uno la statistica applicata.
 
-Per l'ammissione all'esame di diploma il candidato dovra' presentare una tesi a stampa o dattiloscritta su un argomento della specialita' All'art. 176 relativo alla "Scuola di specializzazione in clinica pediatrica" sono inseriti i seguenti nuovi comma:
+Art. 24. - La durata del corso degli studi per il diploma di statistica e' di due anni.
 
-Art. 176. - Ammissione al corso per esami e per titoli.
+E' titolo di ammissione il diploma di maturita' classica, di maturita' scientifica, di abilitazione per i provenienti dagli istituti tecnici commerciali, per geometri, industriali, agrari, nautici, per il turismo, per perito aziendale e corrispondenti in lingue estere.
 
-Internato obbligatorio con non piu' di due mesi di ferie all'anno.
+Sono insegnamenti fondamentali:
 
-L'iscrizione direttamente al 2° anno del corso puo' essere consentita, a giudizio del consiglio della scuola per i candidati che abbiano conseguito il diploma di specializzazione in puericoltura o che abbiano titoli pediatrici.
+1) Elementi di matematica;
 
-Le materie fondamentali saranno integrate a giudizio del consiglio di ciascuna scuola da almeno tre insegnamenti scelti tra i seguenti:
+2) Statistica;
 
-Chirurgia pediatrica;
+3) Statistica economica - corso elementare;
 
-Ortopedia e traumatologia infantile;
+4) Statistica giudiziaria (semestrale);
 
-Odontoiatria;
+5) Statistica sociale (semestrale);
 
-Clinica dermosifilopatica;
+6) Antropometria (semestrale);
 
-Clinica oculistica;
+7) Statistica sanitaria (semestrale);
 
-Clinica otorinolaringoiatrica;
+8) Sociologia generale;
 
-Cardiologia;
+9) Demografia;
 
-Genetica, ed altre eventuali che il consiglio della scuola puo' stabilire di anno in anno.
+10) Geografia politica ed economica.
 
-Il direttore della scuola, inoltre, puo' disporre che si tengano un certo numero di conferenze su argomenti d'interesse pediatrico.
+Sono insegnamenti complementari.
 
-Per conseguire il diploma di specializzazione in clinica pediatrica gli iscritti al corso dopo aver superato tutti gli esami e completata la frequenza obbligatoria, dovranno presentare e discutere una dissertazione scritta su un argomento di pediatria.
+1) Economia politica - corso elementare;
 
-All'art. 179 relativo alla "Scuola di specializzazione in medicina legale e delle assicurazioni" sono inseriti i seguenti nuovi comma:
+2) Biometria;
 
-Art. 179. - Possono accedere alla scuola i laureati in medicina e chirurgia abilitati all'esercizio della professione.
+3) Antropologia;
 
-Gli iscritti alla scuola hanno l'obbligo di frequentare le lezioni e le esercitazioni nonche' di prestare servizio di medico interno per almeno sei mesi per ciascun anno.
+4) Nozioni elementari di diritto privato e pubblico;
 
-Alla fine di ogni anno gli iscritti sosterranno gli esami di profitto sulle singole materie di insegnamento. Lo specializzando che non abbia superato tutti gli esami dell'anno frequentato non potra' essere iscritto all'anno successivo.
+5) Calcolo delle probabilita'; sue applicazioni statistiche;
 
-L'esame di diploma consistera' in una dissertazione scritta su un argomento di medicina legale e di medicina delle assicurazioni.
+6) Controllo statistico della qualita' e statistica industriale;
 
-I candidati non riconosciuti idonei all'esame di diploma potranno ripresentarsi dopo un altro anno di frequenza alla scuola; se al secondo esame non sara' loro riconosciuta la idoneita' verranno senz'altro esclusi da ulteriori prove.
+7) Programmazione ed interpretazione statistica degli esperimenti;
+
+8) Ricerca operativa.
+
+Gli insegnamenti semestrali di statistica giudiziaria e statistica sociale e quelli pure semestrali di antropometria e statistica sanitaria, comportano rispettivamente esami unici.
+
+L'insegnamento biennale di statistica economica comporta un esame alla fine di ogni anno.
+
+L'insegnamento di elementi di matematica e' propedeutico rispetto a quello di statistica.
+
+Gli insegnamenti complementari possono essere scelti dallo studente anche fra le discipline impartite nel corso di laurea in scienze statistiche ed economiche o in altre facolta' dell'ateneo, previa approvazione del preside della facolta'.
+
+Per essere ammesso all'esame di diploma lo studente deve aver seguito i corsi e superato gli esami in tutti gli insegnamenti fondamentali e almeno in due complementari.
+
+Pertanto, gli articoli 111, 112 e 113 relativi alla scuola di statistica sono soppressi con il conseguente spostamento della numerazione degli articoli successivi.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 
-Dato a Roma, addi' 15 marzo 1973
+Dato a Roma, addi' 15 ottobre 1969
 
-LEONE
+SARAGAT
 
-SCALFARO
+FERRARI AGGRADI
 
-Visto, il Guardasigilli: GONELLA
+Visto, il Guardasigilli: GAVA
 
 Registrato
 ----------
 
-alla Corte dei conti, addi' 10 luglio 1973 Atti di Governo, registro n. 258, foglio n. 185. - VALENTINI
+alla Corte dei conti, addi' 30 dicembre 1969 Atti del Governo, registro n. 230, foglio n. 175. - CARUSO
 
 Art. 1
 ------
 
  IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Palermo, approvato con [regio decreto 14 ottobre 1926, n. 2412](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2412), e modificato con [regio decreto 13 ottobre 1927, n. 2240](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2240), e successive modificazioni;  
+Veduto lo statuto dell'Universita' degli studi di Palermo, approvato con [regio decreto 14 ottobre 1926, n. 2412](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2412) e modificato con [regio decreto 13 ottobre 1927, n. 2230](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2230), e successive modificazioni;  
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
+Veduta la [legge 25 luglio 1966, n. 602](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1966-07-25;602);  
 Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;  
 Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
 Sentito il parere del Consiglio superiore della pubblica istruzione;  
@@ -222,99 +242,121 @@ Sulla proposta del Ministro per la pubblica istruzione;
 Decreta:  
   
 Lo statuto dell'Universita' degli studi di Palermo, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-Gli articoli 152, 153, 155, 157, 158, 161, 162, 163 e 165 relativi alle norme generali per le scuole di specializzazione annesse alla facolta' di medicina e chirurgia sono abrogati e sostituiti dai seguenti:  
-Art. 152. - Presso le facolta' di medicina e chirurgia sono istituite le seguenti scuole di specializzazione che conferiscono diplomi di "Specialisti nelle discipline professionali medico-chirurgiche" ai sensi dell'[art. 4 del regio decreto 31 dicembre 1923, n. 2909](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-31;2909~art4):  
   
-Scuola di medicina interna;  
-Scuola di chirurgia;  
-Scuola di ostetricia e ginecologia;  
-Scuola di ortopedia e traumatologia;  
-Scuola di otorinolaringoiatria e patologia cervicofacciale;  
-Scuola di neurologia;  
-Scuola di psichiatria;  
-Scuola di clinica oculistica;  
-Scuola di clinica pediatrica;  
-Scuola di clinica dermosifilopatica;  
-Scuola di igiene e medicina preventiva (con orientamento di sanita' pubblica, di laboratorio, di igiene e direzione ospedaliera);  
-Scuola di medicina legale e delle assicurazioni;  
-Scuola di radiologia (A) radiologia (B) radiologia diagnostica;  
-Scuola di tisiologia e malattie dell'apparato respiratorio;  
-Scuola di anestesiologia e rianimazione;  
-Scuola di medicina del lavoro;  
-Scuola di urologia;  
-Scuola di malattie dell'apparato digerente;  
-Scuola di chirurgia vascolare;  
-Scuola di odontoiatria e protesi dentaria.  
-Art. 153. - La durata dei corsi e' indicata negli statuti delle singole scuole.  
-Art. 155. - I corsi delle lezioni saranno tenuti dal direttore della scuola e da un corpo di insegnanti che verra' designato ogni anno dalla facolta' stessa, su proposta del direttore della scuola, tra i professori di ruolo, aggregati, incaricati, liberi docenti, assistenti o cultori della materia, salvo quanto previsto nello statuto delle singole scuole.  
-Art. 157. - I piani di studio sono indicati nell'ordinamento di ciascuna scuola.  
-Gli insegnamenti fondamentali e le esercitazioni vanno tenuti distinti da quelli per gli studenti del corso di laurea.  
-Gli insegnamenti possono avere, anziche' carattere di lezioni cattedratiche, quella diversa forma che e' consentita dall'indole di ciascuna disciplina.  
-E' obbligatorio per gli allievi un periodo di internato che non puo' essere complessivamente inferiore alla meta' della durata del corso, salvo quanto previsto nello statuto delle singole scuole.  
-Art. 158. - Lo svolgimento dei corsi e il diario degli esami saranno predisposti dalla facolta' su proposta dei direttori delle scuole, salvo quanto previsto nello statuto delle singole scuole.  
-Art. 161. - A queste scuole di specializzazione sono ammessi soltanto laureati in medicina e chirurgia. Il diploma sara' rilasciato soltanto a coloro che siano abilitati all'esercizio della professione medico-chirurgica.  
-Non e' consentita l'iscrizione contemporanea a piu' di una scuola di specializzazione.  
-La domanda di ammissione alla scuola va diretta al rettore dell'universita' corredata dal diploma di maturita' classica o scientifica, di diploma di laurea originale, della carriera scolastica e degli altri titoli che l'aspirante ritenga di dover presentare.  
-L'iscrizione alle singole scuole avviene nel limite dei posti disponibili per ciascuna scuola in base ad una graduatoria stabilita a seguito di concorso per titoli eventualmente integrato, se ritenuto necessario dalla commissione esaminatrice, da un esame di accertamento della preparazione.  
-Ogni commissione e' costituita dal direttore della scuola di specializzazione che la presiede, da un professore ufficiale della stessa materia o di materia affine e da un libero docente in una materia compresa nel piano di studio della scuola stessa.  
-La commissione e' nominata, su proposta del direttore della scuola, dalla facolta' di medicina e chirurgia. La graduatoria deve essere approvata dalla facolta'.  
-Art. 162. - Non sono consentite abbreviazioni di corso.  
-Solo agli assistenti ordinari, straordinari e incaricati puo' essere concesso, a giudizio della facolta', un'abbreviazione di corso pari agli anni di servizio prestati nella predetta qualita' in cliniche o istituti universitari, ne quali vengono impartite discipline strettamente affini alla specialita'.  
-Se gli anni di servizio sono pari a quelli del corso di specializzazione e' consentita su proposta della Facolta' e con l'approvazione del senato accademico, l'ammissione diretta all'esame di specializzazione.  
-Salvo quanto previsto negli statuti delle singole scuole.  
-Art. 163. - Per ottenere il diploma di specialista e' necessario:  
-avere eseguito le esercitazioni cliniche e di laboratorio, l'assistenza e l'esecuzione degli atti operativi;  
-aver superato gli esami teorici e pratici della scuola presentare una tesi corredata di contributi personali e discutere oralmente la tesi stessa nell'esame di diploma salvo quanto previsto negli statuti delle singole scuole.  
-Art. 165. - Gli specializzandi dovranno ottenere la firma di frequenza relativa ai singoli corsi di lezioni Gli esami di profitto vengono sostenuti alla fine del l'anno accademico per singole materie o per gruppi di materie stabiliti dalla facolta'.  
-I riprovati in non piu' di due materie potranno esser ammessi all'anno successivo, mantenendo l'obbligo di superare tali esami alla prima sessione.  
-Le commissioni per gli esami di profitto, composte da due professori ufficiali e da un libero docente cultore della materia, sono nominate dal preside su proposta del direttore della scuola.  
-Le commissioni per l'esame di diploma sono costituite da cinque membri nominati dal preside della facolta', udito il direttore della scuola.  
-Tali commissioni sono costituite da professori ufficiali in maggioranza e da liberi docenti o cultori della disciplina impartita nella scuola.  
-I candidati non riconosciuti idonei possono presentarsi all'esame di diploma soltanto una seconda volta dopo un altro anno di frequenza alla scuola.  
-A coloro che superano l'esame di diploma viene rilasciato il diploma di specialista.  
-Le norme del presente articolo sono valide salve quanto previsto negli statuti delle singole scuole.  
-All'art. 170 relativo alla Scuola di specializzazione in ortopedia e traumatologia" sono inseriti i seguenti nuovi comma:  
-Art. 170. - La scuola di specializzazione in ortopedia e traumatologia ha sede presso l'istituto di clinica ortopedica e conferisce il diploma di specializzazione in ortopedia e traumatologia.  
-Potranno essere ammessi alla scuola i laureati in medicina e chirurgia.  
-La frequenza e' obbligatoria nell'istituto sede della scuola per un periodo di almeno nove mesi per ogni anno accademico. E' in facolta' del direttore della scuola concedere una deroga a tale norma solo agli iscritti alla scuola che facciano parte della clinica ortopedica che non abbia la scuola di specializzazione o che siano assistenti di ruolo in divisioni di ortopedia di ospedale di prima categoria. Per queste due categorie di iscritti i il periodo di frequenza presso l'istituto sede della scuola puo' essere ridotto fino a non meno di un mese ogni anno.  
-Per nessun motivo sono ammesse abbreviazioni della durata degli studi.  
-Gli insegnamenti si svolgeranno con indirizzo prevalentemente pratico, dimostrativo, ma per ogni singola materia di insegnamento dovra' anche svolgersi un corso 3 regolare di lezioni, il cui numero verra' fissato annualmente dal direttore della scuola in accordo con i docenti delle singole materie.  
-Gli esami si svolgeranno per singole materie.  
-Gli esami di clinica ortopedica e traumatologica saranno teorici e pratici.  
-Per l'ammissione al corso successivo e' obbligatorio il superamento degli esami delle materie di ciascun corso.  
-Per l'ammissione all'esame di diploma il candidato dovra' presentare una tesi a stampa o dattiloscritta su un argomento della specialita' All'art. 176 relativo alla "Scuola di specializzazione in clinica pediatrica" sono inseriti i seguenti nuovi comma:  
-Art. 176. - Ammissione al corso per esami e per titoli.  
-Internato obbligatorio con non piu' di due mesi di ferie all'anno.  
-L'iscrizione direttamente al 2° anno del corso puo' essere consentita, a giudizio del consiglio della scuola per i candidati che abbiano conseguito il diploma di specializzazione in puericoltura o che abbiano titoli pediatrici.  
-Le materie fondamentali saranno integrate a giudizio del consiglio di ciascuna scuola da almeno tre insegnamenti scelti tra i seguenti:  
+Art. 17. - E' modificato nel senso che la parte concernente la facolta' di economia e commercio e' sostituita dalla seguente:  
   
-Chirurgia pediatrica;  
-Ortopedia e traumatologia infantile;  
-Odontoiatria;  
-Clinica dermosifilopatica;  
-Clinica oculistica;  
-Clinica otorinolaringoiatrica;  
-Cardiologia;  
-Genetica, ed altre eventuali che il consiglio della scuola puo' stabilire di anno in anno.  
-Il direttore della scuola, inoltre, puo' disporre che si tengano un certo numero di conferenze su argomenti d'interesse pediatrico.  
-Per conseguire il diploma di specializzazione in clinica pediatrica gli iscritti al corso dopo aver superato tutti gli esami e completata la frequenza obbligatoria, dovranno presentare e discutere una dissertazione scritta su un argomento di pediatria.  
-All'art. 179 relativo alla "Scuola di specializzazione in medicina legale e delle assicurazioni" sono inseriti i seguenti nuovi comma:  
-Art. 179. - Possono accedere alla scuola i laureati in medicina e chirurgia abilitati all'esercizio della professione.  
-Gli iscritti alla scuola hanno l'obbligo di frequentare le lezioni e le esercitazioni nonche' di prestare servizio di medico interno per almeno sei mesi per ciascun anno.  
-Alla fine di ogni anno gli iscritti sosterranno gli esami di profitto sulle singole materie di insegnamento. Lo specializzando che non abbia superato tutti gli esami dell'anno frequentato non potra' essere iscritto all'anno successivo.  
-L'esame di diploma consistera' in una dissertazione scritta su un argomento di medicina legale e di medicina delle assicurazioni.  
-I candidati non riconosciuti idonei all'esame di diploma potranno ripresentarsi dopo un altro anno di frequenza alla scuola; se al secondo esame non sara' loro riconosciuta la idoneita' verranno senz'altro esclusi da ulteriori prove.  
+La facolta' di economia e commercio:  
+1) Laurea in economia e commercio durata del corso 4 anni;  
+2) Laurea in scienze statistiche ed economiche durata del corso 4 anni;  
+3) Diploma in statistica durata del corso 2 anni.  
+  
+Dopo l'art. 21 e con il conseguente spostamento della successiva numerazione sono inseriti i seguenti nuovi articoli relativi all'istituzione del corso di laurea in scienze statistiche ed economiche e del corso di studi per il conseguimento del diploma in statistica.  
+  
+Laurea in scienze statistiche ed economiche  
+  
+Art. 22. - La durata del corso degli studi per la laurea in scienze statistiche ed economiche e' di quattro anni. Il titolo di ammissione e' quello previsto per la laurea in economia e commercio: i diplomati in statistica sono ammessi al terzo anno e il consiglio di facolta' provvedera' a prescrivere di volta in volta il piano di studi per la laurea.  
+  
+Sono insegnamenti fondamentali:  
+  
+1) Istituzioni di analisi matematica;  
+2) Analisi matematica;  
+3) Geometria analitica;  
+4) Calcolo delle probabilita';  
+5) Istituzioni di statistica;  
+6) Statistica;  
+7) Statistica metodologica;  
+8) Demografia;  
+9) e 10) Economia politica (biennale);  
+11) Politica economica e finanziaria;  
+12) Istituzioni di statistica economica;  
+13) Economia d'azienda;  
+14) Statistica economica;  
+15) Statistica aziendale e analisi di mercato;  
+16) Controllo statistico delle qualita' e statistica industriale;  
+17) Istituzioni di diritto privato;  
+18) Istituzioni di diritto pubblico;  
+19) Teoria dei campioni.  
+  
+Sono insegnamenti complementari:  
+  
+1) Geografia politica ed economica;  
+2) Statistica sociale;  
+3) Sociologia;  
+4) Scienza delle finanze;  
+5) Econometrica;  
+6) Contabilita' nazionale;  
+7) Diritto commerciale;  
+8) Diritto del lavoro;  
+9) Matematica finanziaria e istituzioni di matematica attuariale;  
+10) Teoria e tecnica dell'elaborazione automatica dei dati;  
+11) Ricerca operativa;  
+12) Teoria dei sistemi;  
+13) Psicologia sperimentale;  
+14) Antropologia;  
+15) Statistica medica e biometria;  
+16) Statistica applicata alle scienze fisiche;  
+17) Genetica;  
+18) Diritto dell'economia pubblica;  
+19) Storia della statistica.  
+  
+Gli insegnamenti complementari possono essere scelti dallo studente anche fra le discipline impartite nel biennio per il diploma di statistica o fra quelle impartite nei corsi di laurea della facolta' e delle altre facolta' dell'ateneo, previa approvazione del preside della facolta'. Detta approvazione deve essere richiesta entro il 31 dicembre di ogni anno.  
+Per essere ammesso all'esame di laurea lo studente deve avere seguito i corsi e superato gli esami di tutti gli insegnamenti fondamentali e di almeno tre complementari. Deve anche aver seguito per due anni e superato, dopo un biennio di frequenza, gli esami di lingua inglese e di un'altra lingua moderna scelta fra quelle insegnate nella facolta'.  
+Per essere iscritto al secondo anno lo studente deve aver superato almeno due esami fondamentali del primo anno.  
+Per l'insegnamento biennale di economia politica e' prescritto l'esame alla fine di ciascun corso annuale, dovendosi il primo considerare propedeutico rispetto al secondo.  
+  
+Art. 23. - Gli esami di istituzioni di analisi matematica, di analisi matematica, di geometria analitica, di calcolo delle probabilita', di istituzioni di statistica, di statistica, di economia politica (primo esame), di istituzioni di statistica economica, di statistica economica, di istituzioni di diritto privato, di istituzioni di diritto pubblico, devono essere superati prima degli altri esami fondamentali.  
+Gli esami di istituzioni di analisi matematica e di geometria analitica, dovranno essere superati prima degli esami di analisi matematica e di statistica.  
+L'esame di istituzioni di statistica dovra' essere superato prima degli esami di statistica, di demografia e di statistica economica.  
+L'esame di analisi matematica dovra' essere superato prima dell'esame di calcolo delle probabilita'.  
+Gli esami di economia politica (primo esame) e di istituzioni di statistica economica, dovranno essere superati prima dell'esame di statistica economica.  
+L'esame di economia politica (secondo esame) dovra' essere superato prima dell'esame di politica economica e finanziaria.  
+L'esame di laurea consiste nella discussione di una dissertazione scritta svolta sul tema approvato dal professore della materia o nella discussione di almeno due o tre temi orali scelti dal candidato vertenti su materie fondamentali nel suo corso di studio e parimenti approvati dai professori delle rispettive materie.  
+Uno di questi temi deve riguardare la statistica metodologica ed uno la statistica applicata.  
+  
+Art. 24. - La durata del corso degli studi per il diploma di statistica e' di due anni.  
+E' titolo di ammissione il diploma di maturita' classica, di maturita' scientifica, di abilitazione per i provenienti dagli istituti tecnici commerciali, per geometri, industriali, agrari, nautici, per il turismo, per perito aziendale e corrispondenti in lingue estere.  
+  
+Sono insegnamenti fondamentali:  
+  
+1) Elementi di matematica;  
+2) Statistica;  
+3) Statistica economica - corso elementare;  
+4) Statistica giudiziaria (semestrale);  
+5) Statistica sociale (semestrale);  
+6) Antropometria (semestrale);  
+7) Statistica sanitaria (semestrale);  
+8) Sociologia generale;  
+9) Demografia;  
+10) Geografia politica ed economica.  
+  
+Sono insegnamenti complementari.  
+  
+1) Economia politica - corso elementare;  
+2) Biometria;  
+3) Antropologia;  
+4) Nozioni elementari di diritto privato e pubblico;  
+5) Calcolo delle probabilita'; sue applicazioni statistiche;  
+6) Controllo statistico della qualita' e statistica industriale;  
+7) Programmazione ed interpretazione statistica degli esperimenti;  
+8) Ricerca operativa.  
+  
+Gli insegnamenti semestrali di statistica giudiziaria e statistica sociale e quelli pure semestrali di antropometria e statistica sanitaria, comportano rispettivamente esami unici.  
+L'insegnamento biennale di statistica economica comporta un esame alla fine di ogni anno.  
+L'insegnamento di elementi di matematica e' propedeutico rispetto a quello di statistica.  
+Gli insegnamenti complementari possono essere scelti dallo studente anche fra le discipline impartite nel corso di laurea in scienze statistiche ed economiche o in altre facolta' dell'ateneo, previa approvazione del preside della facolta'.  
+Per essere ammesso all'esame di diploma lo studente deve aver seguito i corsi e superato gli esami in tutti gli insegnamenti fondamentali e almeno in due complementari.  
+Pertanto, gli articoli 111, 112 e 113 relativi alla scuola di statistica sono soppressi con il conseguente spostamento della numerazione degli articoli successivi.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 15 marzo 1973
+### Dato a Roma, addi' 15 ottobre 1969
 
-LEONE SCALFARO
+SARAGAT FERRARI AGGRADI
 
-Visto, il Guardasigilli: GONELLA
+Visto, il Guardasigilli: GAVA
 
-Registrato alla Corte dei conti, addi' 10 luglio 1973
+Registrato alla Corte dei conti, addi' 30 dicembre 1969
 
-Atti di Governo, registro n. 258, foglio n. 185. - VALENTINI
+Atti del Governo, registro n. 230, foglio n. 175. - CARUSO

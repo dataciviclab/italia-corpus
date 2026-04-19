@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 ottobre 1984 n. 1031
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 dicembre 1980 n. 1082
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 ottobre 1984 n. 1031
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 dicembre 1980 n. 1082
+================================================================
 
 Autorizzazione all'Associazione italiana della Croce rossa, in Roma, ad accettare una donazione.
 ------------------------------------------------------------------------------------------------
@@ -12,14 +12,8 @@ Art. 1
 
 N.
 
-1031. Decreto del Presidente della Repubblica 11 ottobre 1984, col quale, sulla proposta del Ministro della sanita', l'Associazione   
-italiana della Croce rossa, in Roma, viene autorizzata ad accettare   
-la donazione, consistente in due buoni del Tesoro novennali 1979 al   
-9% per l'importo nominale complessivo di lire 1.000.000, disposta dal prof. Enrico Gasparri con atto pubblico 14 luglio 1978, n.   
-11495/7435 di repertorio, a rogito dott. Giampaolo Ferri, notaio in   
-Rimini (Forli) e registrato a Rimini in data 1 agosto 1978 al n.   
-3374.   
+1082. Decreto del Presidente della Repubblica 10 dicembre 1980, col quale, sulla proposta del Ministro della sanita', l'Associazione italiana della Croce rossa, in Roma, viene autorizzata ad accettare la donazione, consistente in un appartamento in Santo Stefano al Mare, composto di due camere, con servitu' perpetua di parcheggio nel cortile antistante, del valore periziato di L. 8.000.000, disposta dalla S.I.C.E. - Societa' immobiliare costruzioni edili di Odetto Pietro e C., con atto 25 luglio 1975, n. 5118/3053 di repertorio, a rogito dott. Dario Vietri, notaio in Ventimiglia (Imperia), rettificato parzialmente con successivo atto 6 marzo 1976, n. 6365/3471 di repertorio, a rogito dello stesso notaio, per i fini sociali dell'ente.  
   
-Visto, il Guardasigilli: MARTINAZZOLI   
-Registrato alla Corte dei conti, addi' 31 gennaio 1985   
-Registro n. 1 Sanita', foglio n. 230
+Visto, il Guardasigilli: SARTI  
+Registrato alla Corte dei conti, addi' 26 febbraio 1981  
+Registro n. 2 Sanita', foglio n. 216

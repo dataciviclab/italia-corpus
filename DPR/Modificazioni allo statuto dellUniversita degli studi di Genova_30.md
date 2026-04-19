@@ -1,293 +1,74 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 maggio 1970 n. 680
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 13 maggio 1966 n. 430
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 maggio 1970 n. 680
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 13 maggio 1966 n. 430
 =============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Genova.
 ------------------------------------------------------------------
-
-IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
-
-Veduto lo statuto dell'Universita' degli studi di Genova, approvato con [regio decreto 7 ottobre 1926, n. 2054](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-07;2054), e modificato con [regio decreto 13 ottobre 1927, n. 2846](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2846), e successive modificazioni;
-
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
-
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
-
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
-
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;
-
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
-
-Sentito il parere del Consiglio superiore della pubblica istruzione;
-
-Sulla proposta del Ministro per la pubblica istruzione;
-
-Decreta:
-
-Lo statuto dell'Universita' degli studi di Genova, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
-
-Art. 122, relativo all'elenco delle scuole di specializzazione annesse alla facolta' di medicina e chirurgia e' modificato nel senso che la scuola in "Igiene" muta la denominazione in quella di "Igiene e medicina preventiva".
-
-Nello stesso elenco le scuole in "Igiene e tecnica ospedaliera" e in "Igiene e medicina scolastica" sono soppresse.
-
-Gli articoli 237, 238, 239, relativi alla scuola di specializzazione in igiene, che muta denominazione in quella di igiene e medicina preventiva, sono abrogati e sostituiti dai seguenti:
-
-Scuola di specializzazione in igiene e medicina preventiva
-
-Art. 237. - Presso l'istituto di igiene e' istituita la scuola di specializzazione in igiene e medicina preventiva, la quale ha lo scopo di conferire adeguata competenza teorica e pratica ai laureati in medicina e chirurgia, i quali intendano conseguire il diploma di specializzazione in igiene e medicina preventiva.
-
-La scuola e' articolata in quattro orientamenti: a) Sanita' pubblica; b) Laboratorio; c) Igiene e direzione ospedaliera; d) Igiene e medicina scolastica.
-
-La scuola ha la durata di tre anni. Ad essa possono iscriversi soltanto i laureati in medicina e chirurgia.
-
-Non possono essere iscritti piu' di quindici allievi per anno.
-
-Le norme di iscrizione, esami, pagamento tasse, ecc. sono quelle generali delle scuole di specializzazione e di perfezionamento riferite negli articoli da 122 a 137 del presente statuto.
-
-Art. 238. - Le materie di insegnamento sono:
-
-1° Anno:
-
-Metodologia statistica e biometria;
-
-Educazione sanitaria;
-
-Psicologia;
-
-Microbiologia;
-
-Parassitologia;
-
-Epidemiologia e profilassi generale.
-
-2° Anno:
-
-Patologia e clinica delle malattie infettive;
-
-Epidemiologia e profilassi delle malattie infettive;
-
-Patologia e clinica delle malattie non infettive di importanza sociale;
-
-Epidemiologia e profilassi delle malattie non infettive di importanza sociale;
-
-Demografia e statistica sanitaria;
-
-Legislazione e organizzazione sanitaria.
-
-3° Anno (con orientamento di sanita' pubblica):
-
-Approvvigionamento idrico; raccolta e smaltimento dei rifiuti liquidi e solidi; inquinamenti atmosferici;
-
-Igiene edilizia e urbanistica;
-
-Igiene dell'alimentazione;
-
-Igiene e medicina scolastica;
-
-Igiene ospitaliera;
-
-Servizi di sanita' pubblica.
-
-3° Anno (con orientamento di laboratorio):
-
-Microscopia applicata all'igiene;
-
-Microbiologia applicata all'igiene;
-
-Chimica clinica;
-
-Accertamento diagnostico delle malattie batteriche e parassitarie;
-
-Accertamento diagnostico delle infezioni virali;
-
-Nozioni di anatomia e istologia patologica.
-
-3° anno [con orientamento di igiene e tecnica (o direzione) ospitaliera]:
-
-Storia degli ospedali e principi metodologici dell'assistenza ospitaliera;
-
-Igiene e tecnica delle costruzioni ospitaliere, arredamento ed impianti sanitari;
-
-Organizzazione e funzione degli ospedali generali e speciali;
-
-Diritto amministrativo e legislazione ospitaliera;
-
-Igiene dell'alimentazione, ispezione degli alimenti, dietologia ospitaliera;
-
-Selezione e istruzione professionale del personale ospitaliero;
-
-Organizzazione e funzione dei laboratori di analisi e di accertamento necroscopico.
-
-3° Anno (con orientamento di igiene e medicina scolastica):
-
-Auxologia normale e patologica;
-
-Epidemiologia e profilassi delle malattie dell'eta' scolare;
-
-Servizi di medicina scolastica;
-
-Elementi di psicologia e pedagogia per l'eta' scolare;
-
-Igiene dell'alimentazione;
-
-Assistenza parascolastica;
-
-Edilizia scolastica.
-
-Materie complementari, una per anno a scelta dell'iscritto:
-
-Ispezioni delle carni;
-
-Geologia applicata all'igiene;
-
-Igiene mentale;
-
-Malattie professionali e loro prevenzione;
-
-Diritto sanitario;
-
-Igiene navale e dell'emigrazione;
-
-Antropologia culturale e sociologica;
-
-Malattie tropicali;
-
-Istituzioni di matematica;
-
-Genetica;
-
-Gerontologia e geriatria;
-
-Elementi di economia politica.
-
-Tutte le discipline sono svolte sotto forma di lezioni e dimostrazioni pratiche. L'internato e' obbligatorio durante i tre anni di corso. Le lezioni teoriche e le esercitazioni pratiche sono integrate da visite ad impianti interessanti la specialita'.
-
-Art. 239. - Alla fine del triennio gli allievi che hanno frequentato i corsi saranno ammessi all'esame di diploma, consistente nella presentazione e discussione di una tesi scritta di argomento pertinente all'igiene ed alla medicina preventiva, in una prova orale teorica ed in una prova pratica.
-
-Agli allievi che hanno ottenuto l'approvazione all'esame di diploma verra' rilasciato il diploma di specializzazione in igiene e medicina preventiva, valido a tutti gli effetti di legge.
-
-Gli articoli 248, 249, 250, relativi alla scuola in igiene e tecnica ospedaliera, e gli articoli 273, 274, 275, relativi alla scuola in igiene e medicina scolastica sono soppressi con il conseguente spostamento della numerazione successiva.
-
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
-
-Dato a Roma, addi' 18 maggio 1970
-
-SARAGAT
-
-MISASI
-
-Visto, il Guardasigilli: REALE
-
-Registrato
-----------
-
-alla Corte dei conti, addi' 23 settembre 1970 Atti del Governo, registro n. 237, foglio n. 105. - GRECO
 
 Art. 1
 ------
 
  IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Genova, approvato con [regio decreto 7 ottobre 1926, n. 2054](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-07;2054), e modificato con [regio decreto 13 ottobre 1927, n. 2846](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2846), e successive modificazioni;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto lo statuto dell'Universita' degli studi di Genova approvato con [regio decreto 7 ottobre 1926, numero 2054](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-07;2054), e modificato con [regio decreto 13 ottobre 1927, n. 2846](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2846), e successive modificazioni;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;  
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
 Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
 Sentito il parere del Consiglio superiore della pubblica istruzione;  
 Sulla proposta del Ministro per la pubblica istruzione;  
   
 Decreta:  
   
-Lo statuto dell'Universita' degli studi di Genova, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-Art. 122, relativo all'elenco delle scuole di specializzazione annesse alla facolta' di medicina e chirurgia e' modificato nel senso che la scuola in "Igiene" muta la denominazione in quella di "Igiene e medicina preventiva".  
-Nello stesso elenco le scuole in "Igiene e tecnica ospedaliera" e in "Igiene e medicina scolastica" sono soppresse.  
-Gli articoli 237, 238, 239, relativi alla scuola di specializzazione in igiene, che muta denominazione in quella di igiene e medicina preventiva, sono abrogati e sostituiti dai seguenti:  
-  
-Scuola di specializzazione in igiene e medicina preventiva  
-  
-Art. 237. - Presso l'istituto di igiene e' istituita la scuola di specializzazione in igiene e medicina preventiva, la quale ha lo scopo di conferire adeguata competenza teorica e pratica ai laureati in medicina e chirurgia, i quali intendano conseguire il diploma di specializzazione in igiene e medicina preventiva.  
-La scuola e' articolata in quattro orientamenti: a) Sanita' pubblica; b) Laboratorio; c) Igiene e direzione ospedaliera; d) Igiene e medicina scolastica.  
-La scuola ha la durata di tre anni. Ad essa possono iscriversi soltanto i laureati in medicina e chirurgia.  
-Non possono essere iscritti piu' di quindici allievi per anno.  
-Le norme di iscrizione, esami, pagamento tasse, ecc. sono quelle generali delle scuole di specializzazione e di perfezionamento riferite negli articoli da 122 a 137 del presente statuto.  
-Art. 238. - Le materie di insegnamento sono:  
-1° Anno:  
-Metodologia statistica e biometria;  
-Educazione sanitaria;  
-Psicologia;  
-Microbiologia;  
-Parassitologia;  
-Epidemiologia e profilassi generale.  
-2° Anno:  
-Patologia e clinica delle malattie infettive;  
-Epidemiologia e profilassi delle malattie infettive;  
-Patologia e clinica delle malattie non infettive di importanza sociale;  
-Epidemiologia e profilassi delle malattie non infettive di importanza sociale;  
-Demografia e statistica sanitaria;  
-Legislazione e organizzazione sanitaria.  
-3° Anno (con orientamento di sanita' pubblica):  
-Approvvigionamento idrico; raccolta e smaltimento dei rifiuti liquidi e solidi; inquinamenti atmosferici;  
-Igiene edilizia e urbanistica;  
-Igiene dell'alimentazione;  
-Igiene e medicina scolastica;  
-Igiene ospitaliera;  
-Servizi di sanita' pubblica.  
-3° Anno (con orientamento di laboratorio):  
-Microscopia applicata all'igiene;  
-Microbiologia applicata all'igiene;  
-Chimica clinica;  
-Accertamento diagnostico delle malattie batteriche e parassitarie;  
-Accertamento diagnostico delle infezioni virali;  
-Nozioni di anatomia e istologia patologica.  
-3° anno [con orientamento di igiene e tecnica (o direzione) ospitaliera]:  
-Storia degli ospedali e principi metodologici dell'assistenza ospitaliera;  
-Igiene e tecnica delle costruzioni ospitaliere, arredamento ed impianti sanitari;  
-Organizzazione e funzione degli ospedali generali e speciali;  
-Diritto amministrativo e legislazione ospitaliera;  
-Igiene dell'alimentazione, ispezione degli alimenti, dietologia ospitaliera;  
-Selezione e istruzione professionale del personale ospitaliero;  
-Organizzazione e funzione dei laboratori di analisi e di accertamento necroscopico.  
-3° Anno (con orientamento di igiene e medicina scolastica):  
-Auxologia normale e patologica;  
-Epidemiologia e profilassi delle malattie dell'eta' scolare;  
-Servizi di medicina scolastica;  
-Elementi di psicologia e pedagogia per l'eta' scolare;  
-Igiene dell'alimentazione;  
-Assistenza parascolastica;  
-Edilizia scolastica.  
-Materie complementari, una per anno a scelta dell'iscritto:  
-Ispezioni delle carni;  
-Geologia applicata all'igiene;  
-Igiene mentale;  
-Malattie professionali e loro prevenzione;  
-Diritto sanitario;  
-Igiene navale e dell'emigrazione;  
-Antropologia culturale e sociologica;  
-Malattie tropicali;  
-Istituzioni di matematica;  
-Genetica;  
-Gerontologia e geriatria;  
-Elementi di economia politica.  
-Tutte le discipline sono svolte sotto forma di lezioni e dimostrazioni pratiche. L'internato e' obbligatorio durante i tre anni di corso. Le lezioni teoriche e le esercitazioni pratiche sono integrate da visite ad impianti interessanti la specialita'.  
-Art. 239. - Alla fine del triennio gli allievi che hanno frequentato i corsi saranno ammessi all'esame di diploma, consistente nella presentazione e discussione di una tesi scritta di argomento pertinente all'igiene ed alla medicina preventiva, in una prova orale teorica ed in una prova pratica.  
-Agli allievi che hanno ottenuto l'approvazione all'esame di diploma verra' rilasciato il diploma di specializzazione in igiene e medicina preventiva, valido a tutti gli effetti di legge.  
-Gli articoli 248, 249, 250, relativi alla scuola in igiene e tecnica ospedaliera, e gli articoli 273, 274, 275, relativi alla scuola in igiene e medicina scolastica sono soppressi con il conseguente spostamento della numerazione successiva.  
+Lo statuto dell'Universita' degli studi di Genova, approvato e modificato con i decreti sopraindicati, e ulteriormente modificato come appresso:  
+Art. 55. - Agli insegnamenti complementari del corso di laurea in Scienze biologiche e' aggiunto quello di:  
+23) Bio-polimeri (Biochimica macromolecolare).  
+Dopo l'art. 238, e con il conseguente spostamento della numerazione degli articoli successivi, sono aggiunti i seguenti nuovi articoli relativi alla istituzione della Scuola per ortottiste (Scuola diretta a fini speciali).  
+Art. 239. - La Scuola per ortottiste ha sede presso la Clinica oculistica dell'Universita' degli studi di Genova. Essa ha lo scopo di dare una preparazione completa teorica e pratica alle allieve, istruendole sui problemi dei difetti di refrazione, disturbi della oculomazione, dell'ambliopia in genere, per avviarle alla professione di ortottiste.  
+Art. 240. - La durata del corso degli studi per il conseguimento del diploma e' di due anni.  
+Possono essere ammesse alla Scuola allieve di eta' non inferiore ai 17 anni, in possesso del titolo di studio prescritto per l'ammissione all'Universita' (preferibilmente del diploma di maturita' classica, del diploma di maturita' scientifica e del diploma di abilitazione magistrale).  
+Art. 241. - Chi aspira ad ottenere l'iscrizione al primo anno della Scuola dovra' sostenere un esame di ammissione. Il numero massimo di posti disponibili annualmente e' stabilito nella misura di quattro.  
+Art. 242. - L'esame di ammissione consiste in una prova orale di cultura generale dinanzi ad una Commissione composta di tre professori ufficiali della Facolta', fra i quali il direttore della Scuola.  
+Art. 243. - L'anno scolastico inizia il 1 novembre e termina il 30 giugno di ogni anno.  
+La domanda di iscrizione alla Scuola e' diretta al rettore dell'Universita' e deve essere corredata del titolo originale di studi medi superiori di cui all'art. 240.  
+Art. 244. - Il direttore della Scuola e' di diritto il titolare della cattedra di Clinica oculistica dell'Universita'. Gli insegnanti della Scuola sono proposti dal Consiglio di facolta' di Medicina e chirurgia, udito il direttore e nominati dal rettore.  
+Art. 245. - Le materie di insegnamento sono le seguenti:  
+1° anno:  
+1) Elementi di anatomia e fisiologia generale;  
+2) Anatomia e fisiologia dell'apparato oculare;  
+3) Ottica fisica e fisiologica;  
+4) Ortottica;  
+5) Pleottica;  
+6) Esercitazioni di ortottica;  
+7) Esercitazioni di pleottica.  
+2° anno:  
+1) Ortottica;  
+2) Pleottica;  
+3) Elementi di patologia oculare;  
+4) Nozioni di infermieristica oculare;  
+5) Esercitazioni di ortottica;  
+6) Esercitazioni di pleottica.  
+L'intero corso di studi e' costituito da lezioni teoriche e pratiche ed esercitazioni nel reparto ortottico della Clinica oculistica.  
+Art. 246. - Per essere ammesse a sostenere l'esame di diploma le allieve dovranno aver seguito i corsi, superando gli esami di tutti gli insegnamenti prescritti ed aver compiuto con esito favorevole tutte le esercitazioni previste.  
+Art. 247. - Le Commissioni per gli esami di profitto sono nominate dal preside della Facolta' di medicina e chirurgia su proposta del direttore della Scuola. Le Commissioni sono composte di tre membri: dal professore ufficiale della materia, presidente, di un professore ufficiale di materia affine e di un libero docente o cultore della materia. Ogni commissario ha a disposizione dieci punti.  
+Art. 248. - L'esame per il conseguimento del "diploma di ortottista" consiste in un colloquio su un tema preventivamente assegnato dal direttore della Scuola di fronte ad una Commissione di cinque membri, composta dal direttore della Scuola e da altri quattro membri designati dal preside della Facolta' di medicina e chirurgia.  
+Ogni commissario ha a sua disposizione dieci punti.  
+Art. 249. - Le tasse e soprattasse per la Scuola sono fissate dal Consiglio di amministrazione, ai sensi dell'[art. 7 della legge 18 dicembre 1951, n. 1551](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1951-12-18;1551~art7).  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 18 maggio 1970
+### Dato a Roma, addi' 13 maggio 1966.
 
-SARAGAT MISASI
+SARAGAT GUI
 
 Visto, il Guardasigilli: REALE
 
-Registrato alla Corte dei conti, addi' 23 settembre 1970
+Registrato alla Corte dei conti, addi' 18 giugno 1966
 
-Atti del Governo, registro n. 237, foglio n. 105. - GRECO
+Atti del Governo, registro n. 203, foglio n. 147. - VILLA

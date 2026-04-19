@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 marzo 1953 n. 573
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 ottobre 1986 n. 1014
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 marzo 1953 n. 573
-============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 ottobre 1986 n. 1014
+===============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Torino.
 ------------------------------------------------------------------
@@ -10,7 +10,7 @@ Modificazioni allo statuto dell'Universita' degli studi di Torino.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' degli studi di Torino, approvato con [regio decreto 20 aprile 1939, n. 1118](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1118) e modificato con [regi decreti 12 gennaio 1941, n. 34](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1941-01-12;34); [27 aprile 1942, n. 571](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1942-04-27;571); [5 settembre 1942, n. 1237](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1942-09-05;1237); [24 ottobre 1942, n. 1438, con decreti del Capo provvisorio dello Stato](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto:1942-10-24;1438) [4 febbraio 1947, n. 196](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto:1947-02-04;196) e [7 marzo 1947, n. 1727, e con decreti del Presidente della Repubblica](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1947-03-07;1727) [26 febbraio 1949, n. 430](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-02-26;430); [21 aprile 1949, n. 613](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-04-21;613); [1 settembre 1949, n. 816](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-09-01;816); [13 marzo 1950, n. 599](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1950-03-13;599); [30 ottobre 1950, n. 1125](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1950-10-30;1125); [31 ottobre 1950, n. 1310](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1950-10-31;1310); [30 giugno 1951, n. 1148](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-06-30;1148); [27 ottobre 1951, n. 1794](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-10-27;1794) e [25 luglio 1952, n. 1352](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-07-25;1352);
+Veduto lo statuto dell'Universita' degli studi di Torino, approvato con [regio decreto 14 ottobre 1926, n. 2284](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2284), e modificato con [regio decreto 13 ottobre 1927, n. 2788](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2788), e successive modificazioni;
 
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
@@ -18,169 +18,613 @@ Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it
 
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
 
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+Veduta la [legge 22 maggio 1978, n. 217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-05-22;217); Veduta la [legge 21 febbraio 1980, n. 28](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1980-02-21;28);
 
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
+Veduto il [decreto del Presidente della Repubblica 10 marzo 1982, n. 162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1982-03-10;162);
 
-Sentito il parere del Consiglio superiore della pubblica istruzione;
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' degli studi anzidetta;
 
-Sulla proposta del Ministro per la pubblica istruzione;
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17);
+
+Sentito il parere del Consiglio universitario nazionale;
+
+Sulla proposta del Ministro della pubblica istruzione;
 
 Decreta:
+--------
 
-Lo statuto dell'Universita' degli studi di Torino, approvato e modificato con i decreti sopraindicati e' cosi' ulteriormente modificato:
-
-All'art. 75, dopo il n. 20, e' aggiunto quanto appresso: 21) chirurgia plastica.
-
-Dopo l'art. 127 sono aggiunti i seguenti nuovi articoli, relativi alla istituzione di una Scuola di specializzazione in chirurgia plastica.
-
-Scuola di specializzazione in chirurgia plastica
-
-Art. 128. - La durata del corso degli studi della Scuola di specializzazione in chirurgia plastica e' di tre anni.
-
-A) La Scuola fa parte integrante dell'Istituto di clinica chirurgica generale.
-
-B) La Scuola e' posta sotto la direzione e la diretta sorveglianza del titolare della cattedra chirurgica generale o di chi avra' l'incarico dell'insegnamento della chirurgia plastica coadiuvato da docenti proposti e particolarmente preparati su tale materia.
-
-C) Il materiale didattico e' anche costituito dalla biblioteca e dalla documentazione raccolta nell'archivio della clinica.
-
-D) Il corso, triennale, si compone di insegnamenti fondamentali e di conferenze su argomenti speciali.
-
-E) Durante i tre anni del corso verranno quotidianamente tenute esercitazioni di diagnostica, di tecnica operatoria, di laboratorio ed altre di indole pratica.
-
-F) La frequenza sia delle lezioni e conferenze che delle esercitazioni teoriche e pratiche e' obbligatoria.
-
-G) Il termine di presentazione delle domande di iscrizione alla scuola, scade il 30 ottobre di ogni anno.
-
-H) Alla fine di ciascun anno scolastico, i perfezionandi, che abbiano ottenuto la firma di frequenza, dovranno sostenere un esame di profitto nelle materie fondamentali, il cui superamento e' condizione necessaria per l'iscrizione all'anno successivo, e, per quelli che sono stati iscritti all'ultimo anno per poter accedere all'esame di diploma.
-
-I) Alla fine del terzo anno del corso ha luogo l'esame di diploma, consistente nella presentazione e discussione di una dissertazione scritta su argomento di chirurgia plastica, concordata fra il diplomando ed il direttore di detta Scuola all'inizio del terzo anno.
-
-La dissertazione deve essere approvata dal direttore stesso e depositata presso la segreteria almeno quindici giorni prima dell'esame.
-
-L) Le Commissioni per gli esami di profitto sono costituite dal direttore della Scuola e da due membri scelti fra i docenti del corso.
-
-M) La Commissione per l'esame di diploma e' composta di sette membri ed e' presieduta dal preside della Facolta'. Di essa fanno parte altri membri scelti dal preside fra i professori ed i liberi docenti dell'Universita' di Torino.
-
-Art. 129. - Gli insegnamenti impartiti nella Scuola sono i seguenti:
-
-1° anno:
-
-Embriologia e anatomia (annuale) - Embriologia generale e speciale - Fenogenesi e classificazione delle malformazioni congenite dello estremo cefalico e dell'apparato genitale esterno - Anatomia delle forme esterne: rivestimento cutaneo, aponeurosi, fascie, muscoli, tendini e nervi periferici - Cavita' nasoboccale - Genitali esterni;
-
-Patologia generale (annuale) - Il processo di guarigione delle ferite (in genere e di quelle tegumentarie in ispecie) - Patologia delle cicatrici - Innesti e trapianti dei vari tessuti;
-
-Anestesia e tecnica operatoria, generale (annuale) - Narcosi e anestesia locale - Esigenze di un reparto operatorio - Sepsi ed antisepsi - Exeresi e sintesi dei tessuti ecc. Chirurgia plastica generale (triennale) - Definizione, storia impostazione attuale, studio della personalita' del mutilato, finalita' dell'opera del chirurgo - Patologia chirurgica delle lesioni congenite e acquisite che richiedono interventi plastici - Clinica e terapia chirurgica: tecnica operatoria.
-
-2° anno:
-
-Chirurgia plastica generale (triennale);
-
-Dermatologia (annuale) - Anomalie congenite della cute - Patologia speciale della cute (processi infiammatori degenerativi, neoplastici) - Lesioni traumatiche - Le ustioni - Le dermatosi antiestetiche - cosmetologia della pelle;
-
-Chirurgia plastica in otorinolaringologia (annuale);
-
-Chirurgia plastica in stomatologia (annuale);
-
-Chirurgia plastica degli organi di movimento (annuale);
-
-Chirurgia plastica in urologia (annuale);
-
-Chirurgia plastica in ginecologia (annuale);
-
-Chirurgia plastica in oculistica (annuale).
-
-3° anno:
-
-Chirurgia plastica generale (triennale);
-
-Medicina legale - Il danno estetico e criteri di sua valutazione (annuale);
-
-Anatomia artistica (annuale);
-
-Fisioterapia delle lesioni cutanee.
-
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
-
-Dato a Roma, addi' 11 marzo 1953
-
-EINAUDI
-
-SEGNI
-
-Visto, il Guardasigilli: ZOLI
-
-Registrato
-----------
-
-alla Corte dei conti, addi' 8 agosto 1953 Atti del Governo, registro n. 78, foglio n. 95. - CARLOMAGNO
+Lo statuto dell'Universita' degli studi di Torino, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Torino, approvato con [regio decreto 20 aprile 1939, n. 1118](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1118) e modificato con [regi decreti 12 gennaio 1941, n. 34](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1941-01-12;34); [27 aprile 1942, n. 571](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1942-04-27;571); [5 settembre 1942, n. 1237](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1942-09-05;1237); [24 ottobre 1942, n. 1438, con decreti del Capo provvisorio dello Stato](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto:1942-10-24;1438) [4 febbraio 1947, n. 196](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto:1947-02-04;196) e [7 marzo 1947, n. 1727, e con decreti del Presidente della Repubblica](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1947-03-07;1727) [26 febbraio 1949, n. 430](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-02-26;430); [21 aprile 1949, n. 613](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-04-21;613); [1 settembre 1949, n. 816](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-09-01;816); [13 marzo 1950, n. 599](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1950-03-13;599); [30 ottobre 1950, n. 1125](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1950-10-30;1125); [31 ottobre 1950, n. 1310](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1950-10-31;1310); [30 giugno 1951, n. 1148](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-06-30;1148); [27 ottobre 1951, n. 1794](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-10-27;1794) e [25 luglio 1952, n. 1352](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-07-25;1352);  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
-Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro per la pubblica istruzione;  
+Gli articoli da 233 a 236, relativi alla scuola di specializzazione in medicina legale e delle assicurazioni, sono soppressi.  
+
+Art. 2
+------
+
   
-Decreta:  
+Gli articoli da 268 a 276, relativi alla scuola di specializzazione in cardioangiochirurgia, sono soppressi.  
+
+Art. 3
+------
+
   
-Lo statuto dell'Universita' degli studi di Torino, approvato e modificato con i decreti sopraindicati e' cosi' ulteriormente modificato:  
+Gli articoli da 298 a 306, relativi alla scuola di specializzazione in oncologia, sono soppressi.  
+
+Art. 4
+------
+
   
-All'art. 75, dopo il n. 20, e' aggiunto quanto appresso: 21) chirurgia plastica.  
-Dopo l'art. 127 sono aggiunti i seguenti nuovi articoli, relativi alla istituzione di una Scuola di specializzazione in chirurgia plastica.  
+Gli articoli da 307 a 309, relativi alla scuola di specializzazione in microbiologia, sono soppressi.  
+
+Art. 5
+------
+
   
-Scuola di specializzazione in chirurgia plastica  
   
-Art. 128. - La durata del corso degli studi della Scuola di specializzazione in chirurgia plastica e' di tre anni.  
-A) La Scuola fa parte integrante dell'Istituto di clinica chirurgica generale.  
-B) La Scuola e' posta sotto la direzione e la diretta sorveglianza del titolare della cattedra chirurgica generale o di chi avra' l'incarico dell'insegnamento della chirurgia plastica coadiuvato da docenti proposti e particolarmente preparati su tale materia.  
-C) Il materiale didattico e' anche costituito dalla biblioteca e dalla documentazione raccolta nell'archivio della clinica.  
-D) Il corso, triennale, si compone di insegnamenti fondamentali e di conferenze su argomenti speciali.  
-E) Durante i tre anni del corso verranno quotidianamente tenute esercitazioni di diagnostica, di tecnica operatoria, di laboratorio ed altre di indole pratica.  
-F) La frequenza sia delle lezioni e conferenze che delle esercitazioni teoriche e pratiche e' obbligatoria.  
-G) Il termine di presentazione delle domande di iscrizione alla scuola, scade il 30 ottobre di ogni anno.  
-H) Alla fine di ciascun anno scolastico, i perfezionandi, che abbiano ottenuto la firma di frequenza, dovranno sostenere un esame di profitto nelle materie fondamentali, il cui superamento e' condizione necessaria per l'iscrizione all'anno successivo, e, per quelli che sono stati iscritti all'ultimo anno per poter accedere all'esame di diploma.  
-I) Alla fine del terzo anno del corso ha luogo l'esame di diploma, consistente nella presentazione e discussione di una dissertazione scritta su argomento di chirurgia plastica, concordata fra il diplomando ed il direttore di detta Scuola all'inizio del terzo anno.  
-La dissertazione deve essere approvata dal direttore stesso e depositata presso la segreteria almeno quindici giorni prima dell'esame.  
-L) Le Commissioni per gli esami di profitto sono costituite dal direttore della Scuola e da due membri scelti fra i docenti del corso.  
-M) La Commissione per l'esame di diploma e' composta di sette membri ed e' presieduta dal preside della Facolta'. Di essa fanno parte altri membri scelti dal preside fra i professori ed i liberi docenti dell'Universita' di Torino.  
-Art. 129. - Gli insegnamenti impartiti nella Scuola sono i seguenti:  
-1° anno:  
-Embriologia e anatomia (annuale) - Embriologia generale e speciale - Fenogenesi e classificazione delle malformazioni congenite dello estremo cefalico e dell'apparato genitale esterno - Anatomia delle forme esterne: rivestimento cutaneo, aponeurosi, fascie, muscoli, tendini e nervi periferici - Cavita' nasoboccale - Genitali esterni;  
-Patologia generale (annuale) - Il processo di guarigione delle ferite (in genere e di quelle tegumentarie in ispecie) - Patologia delle cicatrici - Innesti e trapianti dei vari tessuti;  
-Anestesia e tecnica operatoria, generale (annuale) - Narcosi e anestesia locale - Esigenze di un reparto operatorio - Sepsi ed antisepsi - Exeresi e sintesi dei tessuti ecc. Chirurgia plastica generale (triennale) - Definizione, storia impostazione attuale, studio della personalita' del mutilato, finalita' dell'opera del chirurgo - Patologia chirurgica delle lesioni congenite e acquisite che richiedono interventi plastici - Clinica e terapia chirurgica: tecnica operatoria.  
-2° anno:  
-Chirurgia plastica generale (triennale);  
-Dermatologia (annuale) - Anomalie congenite della cute - Patologia speciale della cute (processi infiammatori degenerativi, neoplastici) - Lesioni traumatiche - Le ustioni - Le dermatosi antiestetiche - cosmetologia della pelle;  
-Chirurgia plastica in otorinolaringologia (annuale);  
-Chirurgia plastica in stomatologia (annuale);  
-Chirurgia plastica degli organi di movimento (annuale);  
-Chirurgia plastica in urologia (annuale);  
-Chirurgia plastica in ginecologia (annuale);  
-Chirurgia plastica in oculistica (annuale).  
-3° anno:  
-Chirurgia plastica generale (triennale);  
-Medicina legale - Il danno estetico e criteri di sua valutazione (annuale);  
-Anatomia artistica (annuale);  
-Fisioterapia delle lesioni cutanee.  
+Dopo l'art. 296 sono aggiunti i seguenti nuovi articoli, con il conseguente spostamento della numerazione degli articoli successivi, relativi all'istituzione della scuola di specializzazione in anatomia patologica e al riordinamento delle scuole di specializzazione in medicina legale e delle assicurazioni, in oncologia, in cardiochirurgia e in microbiologia e virologia.   
+  
+Scuola di specializzazione in anatomia patologica   
+Art. 297. - E' istituita la scuola di specializzazione in anatomia patologica presso l'Universita' degli studi di Torino.   
+La scuola ha lo scopo di formare professionisti che esercitino la pratica autoptica (riscontri diagnostici e peritali), istopatologica e citopatologica ai fini epidemiologici, diagnostici e prognostici.   
+La scuola rilascia il titolo di specialista in anatomia patologica.  
+Art. 298. - La scuola ha la durata di quattro anni. Ciascun anno di corso prevede ottocento ore di insegnamento e di attivita' pratiche guidate.   
+In base alle strutture ed attrezzature disponibili, la scuola e' in grado di accettare il numero massimo di iscritti determinato in dieci per ciascun anno di corso, per un totale di quaranta specializzandi.   
+Art. 299. - Per l'attuazione delle attivita' didattiche programmate dal consiglio della scuola provvede la facolta' di medicina e chirurgia.   
+Art. 300. - Sono ammessi alle prove per ottenere l'iscrizione i laureati in medicina e chirurgia.   
+Per l'iscrizione alla scuola e' richiesto il possesso del diploma di abilitazione all'esercizio della professione.   
+Art. 301. - La scuola comprende cinque aree di insegnamento e tirocinio professionale:   
+a) propedeutica generale;   
+b) metodologie propedeutiche;   
+c) diagnostica generale;   
+d) diagnostica speciale;   
+e) sanita' pubblica.   
+Art. 302. - Gli insegnamenti relativi a ciascuna area didattica e formativa professionale sono i seguenti:   
+a) Propedeutica generale:   
+genetica medica;   
+immunologia;   
+oncologia;   
+statistica medica ed epidemiologia.   
+b) Metodologie propedeutiche:   
+tecnica delle autopsie;   
+tecniche isto e citologiche;   
+tecniche isto ed immunochimiche;   
+tecniche ultrastrutturali;   
+anatomia patologica sistematica;   
+anatomia patologica pediatrica;   
+anatomia patologica gerontologica;   
+teratologia e patologia delle malformazioni.   
+c) Diagnostica generale:   
+diagnostica autoptica;   
+diagnostica istologica;   
+diagnostica citologica;   
+diagnostica e graduazione in oncologia;   
+diagnostica intraoperatoria estemporanea.   
+d) Diagnostica speciale:   
+diagnostica neuro ed endrocrina patologica;   
+istocitodiagnostica in patologia digestiva;   
+istocitodiagnostica in ematologia;   
+istocitodiagnostica ginecologica;   
+diagnostica nefrourologica;   
+istopatologia dermatologica;   
+diagnostica di patologia dell'apparato locomotore.   
+e) Sanita' pubblica:   
+deontologia professionale;   
+aspetti medico-legali e tossicologici;   
+patologia del lavoro e infortunistica;   
+patologia iatrogena e indicazioni preventive.   
+Art. 303. - L'attivita' didattica comprende ogni anno ottocento ore di didattica formale e tirocinio professionale guidato. Essa e' organizzata in una attivita' didattica teorico-pratica comune per tutti gli studenti (quattrocento ore come di seguito ripartite) ed in una attivita' didattica elettiva, prevalentemente di carattere tecnico-applicativo di ulteriori quattrocento ore, rivolta all'approfondimento del curriculum corrispondente ad uno dei settori formativo-professionali.   
+La frequenza nelle diverse aree avviene pertanto come di seguito specificato:   
+  
+1° Anno:   
+Propedeutica generale (ore 100):   
+genetica medica. . . . . . . . . . . . . . . . . . . . . . . . ore 20 immunologia. . . . . . . . . . . . . . . . . . . . . . . . . . ore 20 oncologia. . . . . . . . . . . . . . . . . . . . . . . . . . . ore 30 statistica medica ed epidemiologia . . . . . . . . . . . . . . ore 30 Metodologie propedeutiche (ore 200):   
+tecnica delle autopsie . . . . . . . . . . . . . . . . . . . . ore 50 tecniche isto e citologiche. . . . . . . . . . . . . . . . . . ore 40 tecniche isto ed immunochimiche. . . . . . . . . . . . . . . . ore 30 tecniche ultrastrutturali. . . . . . . . . . . . . . . . . . . ore 30 anatomia patologica sistematica. . . . . . . . . . . . . . . . ore 50 Diagnostica generale (ore 100):   
+diagnostica autoptica. . . . . . . . . . . . . . . . . . . . . ore 30 diagnostica istologica . . . . . . . . . . . . . . . . . . . . ore 70 Monte ore elettivo. . . . . . . . . . . . . . . . . . . . . . ore 400 2° Anno:   
+Metodologie propedeutiche (ore 50):   
+anatomia patologica pediatrica . . . . . . . . . . . . . . . . ore 20 anatomia patologica gerontologica. . . . . . . . . . . . . . . ore 20 teratologia e patologia delle malformazioni. . . . . . . . . . ore 10 Diagnostica generale (ore 250):   
+diagnostica istologica. . . . . . . . . . . . . . . . . . . . ore 150 diagnostica citologica. . . . . . . . . . . . . . . . . . . . ore 100 Diagnostica speciale (ore 100):   
+diagnostica neuro ed endocrina patologica. . . . . . . . . . . ore 50 istocitodiagnostica in patologia digestiva . . . . . . . . . . ore 50 Monte ore elettivo. . . . . . . . . . . . . . . . . . . . . . ore 400 3° Anno:   
+Diagnostica generale (ore 150):   
+diagnostica e graduazione in oncologia. . . . . . . . . . . . ore 150 Diagnostica speciale (200):   
+istocitodiagnostica in ematologia . . . . . . . . . . . . . . ore 100 diagnostica nefrourologica. . . . . . . . . . . . . . . . . . ore 100 Sanita' pubblica (ore 50):   
+deontologia professionale. . . . . . . . . . . . . . . . . . . ore 20 aspetti medico-legali e tossicologici. . . . . . . . . . . . . ore 30 Monte ore elettivo. . . . . . . . . . . . . . . . . . . . . . ore 400 4° Anno:   
+Diagnostica generale (ore 200):   
+diagnostica intraoperatoria estemporanea. . . . . . . . . . . ore 200 Diagnostica speciale (ore 150):   
+istopatologia dematologica . . . . . . . . . . . . . . . . . . ore 50 istocitodiagnostica ginecologica . . . . . . . . . . . . . . . ore 50 diagnostica di patologia dell'app.locomotore . . . . . . . . . ore 50 Sanita' pubblica (ore 50):   
+patologia del lavoro e infortunistica. . . . . . . . . . . . . ore 25 patologia iatrogena, indicazioni preventive. . . . . . . . . . ore 25 Monte ore elettivo. . . . . . . . . . . . . . . . . . . . . . ore 400   
+  
+Art. 304. - Durante i quattro anni di corso e' richiesta la frequenza nei seguenti laboratori e reparti:   
+sala anatomica dell'istituto di anatomia e istologia patologica; laboratorio di istopatologia (I servizio) dell'istituto di anatomia e istologia patologica;   
+laboratorio di istopatologia (II servizio) dell'istituto di anatomia e istologia patologica;   
+laboratorio di istocitopatologia (II servizio) dell'istituto di anatomia e istologia patologica;   
+laboratorio di microscopia elettronica dell'istituto di anatomia e istologia patologica;   
+laboratorio di istochimica e immunoistochimica dell'istituto di anatomia e istologia patologica;   
+laboratorio di immunopatologia dell'istituto di anatomia e istologia patologica;   
+laboratorio di ematopatologia dell'istituto di anatomia e istologia patologica;   
+istituto di medicina legale;   
+istituto di genetica medica.   
+La frequenza nelle varie aree per complessive ottocento ore annue, compreso il monte ore elettivo di quattrocento ore annue, avverra' secondo delibera del consiglio della scuola, tale da assicurare ad ogni specializzando un adeguato periodo di esperienza e di formazione professionale. Il consiglio della scuola ripartira' annualmente il monte ore elettivo.   
+Il consiglio della scuola predispone apposito libretto di formazione, che consente allo specializzando ed al consiglio stesso il controllo dell'attivita' svolta e della acquisizione dei progressi compiuti, per sostenere gli esami annuali e finali.   
+  
+Scuola di specializzazione in medicina legale e delle assicurazioni Art. 305. - E' istituita la scuola di specializzazione in medicina legale e delle assicurazioni.   
+La scuola ha lo scopo di preparare i laureati in medicina e chirurgia per una ulteriore e piu' specifica qualificazione professionale e di fornire le competenze professionali volte a soddisfare:   
+a) le esigenze di collaborazione tecnica con l'autorita' giudiziaria e con gli operatori forensi per indagini che richiedono conoscenze medico-biologiche da considerare in rapporto a particolari previsioni di diritto;   
+b) le esigenze di natura medico-legale del servizio sanitario nazionale;   
+c) le esigenze di natura medico-legale di enti previdenziali, enti pubblici, societa' di assicurazioni e privati cittadini.   
+La scuola rilascia il titolo di specialista in medicina legale e delle assicurazioni.   
+Art. 306. - La scuola ha la durata di quattro anni. Ciascun anno di corso prevede ottocento ore di insegnamento e di attivita' pratiche guidate.   
+In base alle strutture ed attrezzature disponibili, la scuola e' in grado di accettare il numero massimo di iscritti determinato in otto per ciascun anno di corso, per un totale di trentadue specializzandi.   
+Art. 307. - Per l'attuazione delle attivita' didattiche programmate dal consiglio della scuola provvede la facolta' di medicina e chirurgia e di giurisprudenza, quest'ultima limitatamente alle discipline dell'area giuridica.   
+Art. 308. - Sono ammessi alle prove per ottenere l'iscrizione i laureati in medicina e chirurgia.   
+Per l'iscrizione alla scuola e' richiesto il possesso del diploma di abilitazione all'esercizio della professione.   
+Art. 309. - La scuola comprende sei aree di insegnamento e tirocinio professionale:   
+a) propedeutica;   
+b) giuridica;   
+c) medicina legale;   
+d) medicina delle assicurazioni;   
+e) medicina legale applicata;   
+f) sanita' pubblica.   
+Art. 310. - Gli insegnamenti relativi a ciascuna area didattica e formativa professionale sono i seguenti:   
+a) Propedeutica:   
+tecnica e diagnostica anatomo-patologica;   
+patologia clinica.   
+b) Giuridica:   
+elementi di diritto pubblico;   
+elementi di diritto privato;   
+elementi di diritto penale;   
+elementi di diritto previdenziale.   
+c) Medicina legale:   
+medicina legale generale;   
+metodologia medico-legale;   
+tanatologia medico-legale;   
+patologia medico-legale;   
+tecnica e diagnostica delle autopsie in medicina legale;   
+tossicologia forense;   
+ematologia forense;   
+medicina legale militare.   
+d) Medicina delle assicurazioni:   
+medicina legale delle assicurazioni;   
+pensionistica privilegiata.   
+e) Medicina legale applicata:   
+medicina legale penalistica;   
+medicina legale civilistica e canonistica;   
+identificazione personale e indagini di sopralluogo;   
+psicopatologia forense;   
+elementi di criminologia e difesa sociale.   
+f) Sanita' pubblica:   
+elementi di medicina del lavoro;   
+deontologia medica e legislazione sanitaria;   
+medicina legale del Servizio sanitario nazionale, e medicina sociale.   
+Art. 311. - L'attivita' didattica comprende ogni anno ottocento ore di didattica formale e di tirocinio professionale guidato. Essa e' organizzata in una attivita' didattica teorico-pratica comune per tutti gli studenti (quattrocento ore come di seguito ripartite) ed in una attivita' didattica elettiva prevalentemente di carattere tecnico-applicativo di ulteriori quattrocento ore, rivolta all'approfondimento del curriculum corrispondente ad uno dei settori formativo-professionali (monte ore elettivo).   
+La frequenza nelle diverse aree avviene pertanto come di seguito specificato:   
+  
+1° Anno:   
+Propedeutica (ore 100):   
+tecnica e diagnostica anatomo-patologica . . . . . . . . . . . ore 50 patologia clinica. . . . . . . . . . . . . . . . . . . . . . . ore 50 Giuridica (ore 160):   
+elementi di diritto pubblico . . . . . . . . . . . . . . . . . ore 30 elementi di diritto privato. . . . . . . . . . . . . . . . . . ore 30 elementi di diritto penale . . . . . . . . . . . . . . . . . . ore 50 elementi di diritto previdenziale. . . . . . . . . . . . . . . ore 50 Medicina legale (ore 140):   
+medicina legale generale . . . . . . . . . . . . . . . . . . . ore 50 metodologia medico-legale. . . . . . . . . . . . . . . . . . . ore 50 tanatologia medico-legale. . . . . . . . . . . . . . . . . . . ore 40 Monte ore elettivo. . . . . . . . . . . . . . . . . . . . . . ore 400 2° Anno:   
+Medicina legale (ore 300):   
+metodologia medico-legale . . . . . . . . . . . . . . . . . . ore 100 patologia medico-legale . . . . . . . . . . . . . . . . . . . ore 100 tecnica e diagnostica delle autopsie medico legali . . . . . . ore 50 tossicologia forense . . . . . . . . . . . . . . . . . . . . . ore 50 Medicina legale applicata (ore 100):   
+medicina legale penalistica . . . . . . . . . . . . . . . . . ore 100 Monte ore elettivo. . . . . . . . . . . . . . . . . . . . . . ore 400 3° Anno:   
+Medicina legale (ore 80):   
+ematologia forense . . . . . . . . . . . . . . . . . . . . . . ore 80 Medicina legale applicata (ore 240):   
+medicina legale penalistica. . . . . . . . . . . . . . . . . . ore 80 medicina legale civilistica e canonistica. . . . . . . . . . . ore 80 identificazione personale e indagine di sopralluogo. . . . . . ore 80 Sanita' pubblica (ore 80):   
+elementi di medicina del lavoro. . . . . . . . . . . . . . . . ore 80 Monte ore elettivo. . . . . . . . . . . . . . . . . . . . . . ore 400 4° Anno:   
+Medicina legale (ore 50):   
+medicina legale militare . . . . . . . . . . . . . . . . . . . ore 50 Medicina delle assicurazioni (ore 100):   
+medicina legale delle assicurazioni. . . . . . . . . . . . . . ore 50 pensionistica privilegiata . . . . . . . . . . . . . . . . . . ore 50 Medicina legale applicata (ore 100):   
+psicopatologia forense . . . . . . . . . . . . . . . . . . . . ore 50 elementi di criminologia e difesa sociale. . . . . . . . . . . ore 50 Sanita' pubblica (ore 150):   
+deontologia medica e legislazione sanitaria. . . . . . . . . . ore 50   
+medicina legale del Servizio sanitario   
+nazionale e medicina sociale. . . . . . . . . . . . . . . . . ore 100 Monte ore elettivo. . . . . . . . . . . . . . . . . . . . . . ore 400   
+  
+Art. 312. - Durante i quattro anni di corso e' obbligatoria la frequenza in:   
+sala settoria; sala visita; laboratorio di istologia; laboratorio di microscopia elettronica; laboratorio di tossicologia forense.   
+La frequenza nelle varie aree per complessive ottocento ore annue, compreso il monte ore elettivo di quattrocento ore annue, avverra' secondo delibera del consiglio della scuola, tale da assicurare ad ogni specializzando un adeguato periodo di esperienza e di formazione professionale.   
+Il consiglio della scuola ripartira' annualmente il monte ore elettivo.   
+Il consiglio della scuola predispone un apposito libretto di formazione, che consenta allo specializzando ed al consiglio stesso il controllo dell'attivita' svolta e dell'acquisizione dei progressi compiuti, per sostenere gli esami annuali e finali.   
+  
+Scuola di specializzazione in oncologia   
+Art. 313. - E' istituita la scuola di specializzazione in oncologia presso l'Universita' degli studi di Torino.   
+La scuola ha lo scopo di fornire le competenze oncologiche professionali relative ai settori formativi professionali seguenti: prevenzione ed epidemiologia clinica dei tumori, diagnostica anatomo-patologica dei tumori; diagnostica di laboratorio in oncologia, oncologia medica, chirurgia oncologica, radioterapia oncologica.   
+La scuola ha altresi' lo scopo di fornire le competenze di oncologia generale necessarie per altre specializzazioni.   
+Attesa la diversa provenienza degli specializzandi e le diverse professionalita' conseguibili al termine della scuola stessa tutte in ambito oncologico, la scuola si articola negli indirizzi di oncologia generale, diagnostica e preventiva, di oncologia medica, di radioterapia oncologica, di oncologia diagnostica anatomo-patologica.   
+La scuola rilascia i titoli di specialista in:   
+a) oncologia (indirizzo oncologia generale, diagnostica e preventiva) per i laureati in medicina e chirurgia;   
+b) oncologia (indirizzo in oncologia medica) per i laureati in medicina e chirurgia che siano in possesso di specializzazione in medicina interna;   
+c) oncologia (indirizzo di radioterapia oncologica) per i laureati che siano specialisti in radioterapia oncologica (o in radiologica secondo il vecchio ordinamento);   
+d) oncologica (indirizzo oncologia diagnostica anatomo-patologica) per i laureati in medicina e chirurgia che siano in possesso di specializzazione in anatomia patologica;   
+e) oncologia (indirizzo chirurgia oncologica) per i laureati in medicina e chirurgia che siano in possesso di specializzazione in chirurgia generale o in altra specialita' chirurgica strettamente affine a giudizio del consiglio di scuola.   
+Art. 314. - La scuola ha la durata di quattro anni.   
+Dopo gli anni comuni lo specializzando all'atto dell'iscrizione all'anno di corso nel quale dovra' essere frequentato uno degli indirizzi attivati dovra' indicare l'indirizzo prescelto.   
+Ciascun anno di corso prevede ottocento ore di insegnamento e di attivita' pratiche guidate.   
+In base alle strutture ed attrezzature disponibili, la scuola e' in grado di accettare il numero massimo di iscritti determinato in venti per ciascun anno di corso, per un totale di ottanta specializzandi.   
+Art. 315. - Per l'attuazione delle attivita' didattiche programmate dal consiglio della scuola provvede la facolta' di medicina e chirurgia.   
+Art. 316. - Sono ammessi alle prove per ottenere l'iscrizione all'indirizzo di oncologia generale diagnostica e preventiva i laureati in medicina e chirurgia; di oncologia diagnostica anatomo-patologica i laureati in medicina e chirurgia che siano specialisti in medicina interna; di chirurgia oncologica i laureati in medicina e chirurgia che siano specialisti in chirurgia generale od in altra specialita' chirurgica strettamente affine a giudizio del consiglio di scuola; di radioterapia oncologica i laureati in medicina e chirurgia che siano specialisti in radioterapia oncologica (o radiologica secondo il vecchio ordinamento).   
+Per l'iscrizione alla scuola e' richiesto il possesso del diploma di abilitazione all'esercizio della professione.   
+Art. 317. - La scuola di specializzazione in oncologia comprende cinque aree di insegnamento e tirocinio professionale:   
+a) oncologia generale, che comprende gli insegnamenti propri della patologia generale;   
+b) epidemiologia e prevenzione dei tumori;   
+c) morfologia dei tumori, che comprende gli insegnamenti proprii della anatomia patologica;   
+d) diagnostica di laboratorio e strumentale in oncologia;   
+e) oncologia clinica, che comprende gli insegnamenti oncologici di pertinenza medica, chirurgica e radioterapica.   
+Art. 318. - Gli insegnamenti relativi a ciascuna area didattica e formativa professionale sono i seguenti:   
+a) Oncologia generale:   
+cancerogenesi;   
+patologia molecolare (trasformazione neoplastica), cinetica cellulare, metabolismo;   
+genetica e citogenetica;   
+rapporti tumore/ospite;   
+immunologia;   
+ormoni e crescita tumorale;   
+biologia delle metastasi;   
+citopatologia e patologia ultrastrutturale dei tumori;   
+storia naturale dei principali tumori umani.   
+b) Epidemiologia e prevenzione:   
+metodologia statistica e tecniche di informatica;   
+epidemiologia;   
+prevenzione primaria, secondaria e diagnosi precoce;   
+aspetti medico-legali e deontologia in oncologia;   
+organizzazione sanitaria.   
+c) Morfologia dei tumori (diagnostica anatomo-patologica dei tumori):   
+morfologia macroscopica, microscopica e ultrastrutturale dei tumori;   
+diagnostica isto e cito-patologica;   
+diagnostica ultrastrutturale dei tumori;   
+tecniche di indagine isto e cito-patologiche;   
+tecniche di indagine ultrastrutturale;   
+istochimica patologica;   
+correlazioni anatomo-cliniche nei tumori.   
+d) Diagnostica di laboratorio in oncologia:   
+patologia clinica (compresi i marcatori tumorali);   
+citocinetica;   
+citofluorimetria;   
+diagnostica e tecnica diagnostica immunologica e immunogenetica;   
+diagnostica e tecnica diagnostica genetica molecolare;   
+diagnostica per immagini;   
+diagnostica radio-isotopica;   
+tecnica e diagnostica endoscopica.   
+e) Oncologia clinica (oncologia medica, chirurgia oncologica, radioterapia oncologica):   
+stadiazione dei tumori, fattori prognostici;   
+farmacologia e chemioterapia dei tumori;   
+endocrinologia oncologica;   
+radioterapia;   
+terapia radio-isotopica;   
+chirurgia oncologica (terapia chirurgica dei tumori e tecniche speciali chirurgiche in oncologia);   
+terapie integrate (compresa la progettazione di trials clinici);   
+terapia del dolore;   
+riabilitazione psicologica e funzionale del paziente neoplastico;   
+terapie di supporto in oncologia;   
+oncologia pediatrica;   
+oncologia ematologica;   
+oncologia medica (tumori dell'apparato genitale femminile, della testa e del collo, dell'apparato respiratorio, dell'apparato digerente, dell'apparato urinario e genitale maschile, dell'apparato nervoso centrale e periferico, dell'apparato tegumentario, delle ghiandole endocrine, dei tessuti molli).   
+Art. 319. - L'attivita' didattica comprende ogni anno ottocento ore di didattica formale e di tirocinio professionale guidato. Essa e' organizzata in una attivita' didattica teorico-pratica comune per tutti gli studenti (quattrocento ore come di seguito ripartite) ed in una attivita' didattica elettiva, prevalentemente di carattere tecnico-applicativo, di ulteriori quattrocento ore, rivolta all'approfondimento del curriculum corrispondente ad uno dei settori formativo-professionali (monte ore elettivo).   
+Gli indirizzi sono attivati presso gli istituti o dipartimenti di pertinenza, secondo le pertinenze di area di cui ai precedenti articoli.   
+Per quanto attiene l'area elettiva il tirocinio tecnico applicativo sara' svolto come appresso specificato:   
+a) settori formativi in oncologia generale, diagnostica anatomo-patologica preventiva e diagnostica, il tirocinio sara' svolto nell'ambito delle aree di oncologia generale. Epidemiologia e prevenzione dei tumori, diagnostica anatomo-patologica dei tumori, diagnostica di laboratorio in oncologia;   
+b) settori formativi in oncologia medica, chirurgia oncologica, radioterapia oncologica, il tirocinio sara' svolto nell'ambito dell'area di oncologia clinica.   
+La frequenza nelle diverse aree avviene pertanto come di seguito specificato, relativamente al primo biennio comune ed alle diverse sezioni nel secondo biennio:   
+  
+1° Anno:   
+Oncologia generale (ore 140):   
+cancerogenesi. . . . . . . . . . . . . . . . . . . . . . . . . ore 30 patologia molecolare, cinetica cellulare, metabolismo. . . . . ore 40 rapporti tumore/ospite . . . . . . . . . . . . . . . . . . . . ore 40 immunologia. . . . . . . . . . . . . . . . . . . . . . . . . . ore 40 Epidemiologia e prevenzione dei tumori (ore 40):   
+metodologia statistica e tecniche di informatica . . . . . . . ore 40 Morfologia dei tumori (ore 60):   
+morfologia macroscopica, microscopica e   
+ultrastrutturale dei tumori. . . . . . . . . . . . . . . . . . ore 40 tecniche di indagine isto e citopatologica . . . . . . . . . . ore 20 Diagnostica di laboratorio in oncologia (ore 100):   
+patologia clinica (compresi i marcatori tumorali). . . . . . . ore 70 diagnostica per immagini . . . . . . . . . . . . . . . . . . . ore 30 Oncologia clinica (ore 60):   
+stadiazione dei tumori, fattori prognostici. . . . . . . . . . ore 30 farmacologia e chemioterapia dei tumori. . . . . . . . . . . . ore 30 Monte ore elettivo. . . . . . . . . . . . . . . . . . . . . . ore 400 2° Anno:   
+Oncologia generale (ore 100):   
+ormoni e crescita tumorale . . . . . . . . . . . . . . . . . . ore 30 biologia delle metastasi . . . . . . . . . . . . . . . . . . . ore 30 citopatologia e patologia ultrastrutturale dei tumori. . . . . ore 40 Morfologia dei tumori (ore 70):   
+diagnostica isto e citopatologica. . . . . . . . . . . . . . . ore 20 diagnostica ultrastrutturale dei tumori. . . . . . . . . . . . ore 10 tecniche di indagine ultrastrutturale . . . . . . . . . . . . . ore 5 istochimica patologica . . . . . . . . . . . . . . . . . . . . ore 15 correlazioni anatomo-cliniche nei tumori . . . . . . . . . . . ore 20 Diagnostica di laboratorio in oncologia (ore 100):   
+diagnostica radio-isotopica. . . . . . . . . . . . . . . . . . ore 50 tecnica e diagnostica endoscopica. . . . . . . . . . . . . . . ore 50 Epidemiologia e prevenzione dei tumori (ore 60):   
+epidemiologia. . . . . . . . . . . . . . . . . . . . . . . . . ore 20   
+prevenzione primaria, secondaria e diagnosi   
+precoce dei tumori . . . . . . . . . . . . . . . . . . . . . . ore 40 Oncologia clinica (ore 70):   
+endocrinologia oncologica. . . . . . . . . . . . . . . . . . . ore 40 oncologia medica . . . . . . . . . . . . . . . . . . . . . . . ore 30 Monte ore elettivo. . . . . . . . . . . . . . . . . . . . . . ore 400 3° Anno (indirizzo oncologia generale diagnostica e preventiva):   
+Oncologia generale (ore 60):   
+patologia molecolare, cinetica cellulare e metabolismo . . . . ore 30 immunologia. . . . . . . . . . . . . . . . . . . . . . . . . . ore 30 Morfologia dei tumori (ore 50):   
+diagnostica isto e citopatologica. . . . . . . . . . . . . . . ore 30 correlazioni anatomo-cliniche nei tumori . . . . . . . . . . . ore 20 Diagnostica di laboratorio in oncologia (ore 150):   
+patologia clinica (compresi i marcatori tumorali). . . . . . . ore 50 citogenetica . . . . . . . . . . . . . . . . . . . . . . . . . ore 50 citofluorimetria . . . . . . . . . . . . . . . . . . . . . . . ore 50 Epidemiologia e prevenzione dei tumori (ore 70):   
+prevenzione primaria, secondaria e diagnosi   
+precoce dei tumori . . . . . . . . . . . . . . . . . . . . . . ore 70 Oncologia clinica (ore 60):   
+oncologia medica . . . . . . . . . . . . . . . . . . . . . . . ore 60 Monte ore elettivo. . . . . . . . . . . . . . . . . . . . . . ore 400 4° Anno (indirizzo oncologia generale diagnostica e preventiva):   
+Oncologia generale (ore 60):   
+citopatologia e patologia ultrastrutturale dei tumori. . . . . ore 30 storia naturale dei principali tumori umani. . . . . . . . . . ore 30 Morfologia dei tumori (ore 50):   
+diagnostica ultrastrutturale dei tumori. . . . . . . . . . . . ore 20 correlazioni anatomo-cliniche nei tumori . . . . . . . . . . . ore 30 Diagnostica di laboratorio in oncologia (ore 150):   
+patologia clinica (compresi i marcatori tumorali). . . . . . . ore 50   
+diagnostica e tecnica diagnostica immunologica e   
+immunogenetica . . . . . . . . . . . . . . . . . . . . . . . . ore 50 diagnostica e tecnica diagnostica di genetica molecolare . . . ore 50 Epidemiologia e prevenzione dei tumori (ore 80):   
+prevenzione primaria, secondaria e diagnosi   
+precoce dei tumori . . . . . . . . . . . . . . . . . . . . . . ore 40 aspetti medico-legali e deontologia in oncologia . . . . . . . ore 20 organizzazione sanitaria . . . . . . . . . . . . . . . . . . . ore 20 Oncologia clinica (ore 60):   
+stadiazione dei tumori, fattori prognostici. . . . . . . . . . ore 40 chirurgia oncologica . . . . . . . . . . . . . . . . . . . . . ore 20 Monte ore elettivo. . . . . . . . . . . . . . . . . . . . . . ore 400 3° Anno (indirizzo oncologia medica):   
+Oncologia generale (ore 60):   
+patologia molecolare, cinetica cellulare, metabolismo. . . . . ore 30 immunologia. . . . . . . . . . . . . . . . . . . . . . . . . . ore 30 Morfologia dei tumori (ore 50):   
+diagnostica isto e citopatologica. . . . . . . . . . . . . . . ore 30 correlazioni anatomo-cliniche nei tumori . . . . . . . . . . . ore 20 Diagnostica di laboratorio in oncologia (ore 40):   
+patologia clinica (compresi i marcatori tumorali). . . . . . . ore 20 diagnostica per immagini . . . . . . . . . . . . . . . . . . . ore 20 Epidemiologia e prevenzione dei tumori (ore 40):   
+prevenzione primaria, secondaria e diagnosi   
+precoce dei tumori . . . . . . . . . . . . . . . . . . . . . . ore 40 Oncologia clinica (ore 240):   
+oncologia medica. . . . . . . . . . . . . . . . . . . . . . . ore 100 chirurgia oncologica . . . . . . . . . . . . . . . . . . . . . ore 40 radioterapia oncologica. . . . . . . . . . . . . . . . . . . . ore 40 terapia di supporto in oncologia . . . . . . . . . . . . . . . ore 20 oncologia pediatrica . . . . . . . . . . . . . . . . . . . . . ore 20 oncologia ematologica. . . . . . . . . . . . . . . . . . . . . ore 20 Monte ore elettivo. . . . . . . . . . . . . . . . . . . . . . ore 400 4° Anno (indirizzo oncologia medica):   
+Oncologia generale (ore 60):   
+citopatologia e patologia ultrastrutturale dei tumori. . . . . ore 30 storia naturale dei principali tumori umani. . . . . . . . . . ore 30 Morfologia dei tumori (ore 50):   
+diagnostica ultrastrutturale dei tumori. . . . . . . . . . . . ore 20 correlazioni anatomo-cliniche nei tumori . . . . . . . . . . . ore 30 Diagnostica di laboratorio in oncologia (ore 40):   
+diagnostica per immagini . . . . . . . . . . . . . . . . . . . ore 20 diagnostica radio-isotopica. . . . . . . . . . . . . . . . . . ore 10 tecnica e diagnostica endoscopica. . . . . . . . . . . . . . . ore 10 Epidemiologia e prevenzione dei tumori (ore 30):   
+aspetti medico-legali e deontologia in oncologia . . . . . . . ore 10 organizzazione sanitaria . . . . . . . . . . . . . . . . . . . ore 20 Oncologia clinica (ore 240):   
+oncologia medica. . . . . . . . . . . . . . . . . . . . . . . ore 100 chirurgia oncologica . . . . . . . . . . . . . . . . . . . . . ore 40 radioterapia oncologica. . . . . . . . . . . . . . . . . . . . ore 40   
+terapie integrate (compresa la progettazione   
+di trials clinici) . . . . . . . . . . . . . . . . . . . . . . ore 20 terapia del dolore . . . . . . . . . . . . . . . . . . . . . . ore 20 riabilitazione psicologica e funzionale del paziente . . . . . ore 20   
+Monte ore elettivo... ore 400   
+3° Anno (indirizzo radioterapia oncologica):   
+Oncologia generale (ore 60):   
+patologia molecolare, cinetica cellulare e metabolismo . . . . ore 30 immunologia. . . . . . . . . . . . . . . . . . . . . . . . . . ore 30 Morfologia dei tumori (ore 50):   
+diagnostica isto e citopatologica. . . . . . . . . . . . . . . ore 20 correlazioni anatomo-cliniche nei tumori . . . . . . . . . . . ore 30 Epidemiologia e prevenzione dei tumori (ore 30):   
+aspetti medico-sociali e deontologia in oncologia. . . . . . . ore 10 organizzazione sanitaria . . . . . . . . . . . . . . . . . . . ore 20 Diagnostica di laboratorio in oncologia (ore 70):   
+diagnostica per immagini . . . . . . . . . . . . . . . . . . . ore 30 diagnostica radio-isotopica. . . . . . . . . . . . . . . . . . ore 20 tecnica e diagnostica endoscopica. . . . . . . . . . . . . . . ore 20 Oncologia clinica (ore 240):   
+oncologia medica . . . . . . . . . . . . . . . . . . . . . . . ore 40 chirurgia oncologica . . . . . . . . . . . . . . . . . . . . . ore 40 radioterapia oncologica . . . . . . . . . . . . . . . . . . . ore 100 terapia di supporto in oncologia . . . . . . . . . . . . . . . ore 20 oncologia pediatrica . . . . . . . . . . . . . . . . . . . . . ore 20 oncologia ematologia . . . . . . . . . . . . . . . . . . . . . ore 20 Monte ore elettivo. . . . . . . . . . . . . . . . . . . . . . ore 400 4° Anno (indirizzo radioterapia oncologica):   
+Oncologia generale (ore 60):   
+citopatologia e patologia ultrastrutturale dei tumori. . . . . ore 30 storia naturale dei principali tumori umani. . . . . . . . . . ore 30 Morfologia dei tumori (ore 50):   
+diagnostica ultrastrutturale dei tumori. . . . . . . . . . . . ore 20 correlazioni anatomo-cliniche nei tumori . . . . . . . . . . . ore 30 Epidemiologia e prevenzione dei tumori (ore 30):   
+aspetti medico-sociali e deontologia in oncologia. . . . . . . ore 10 organizzazione sanitaria . . . . . . . . . . . . . . . . . . . ore 20 Diagnostica di laboratorio in oncologia (ore 70):   
+diagnostica per immagini . . . . . . . . . . . . . . . . . . . ore 30 diagnostica radio-isotopica. . . . . . . . . . . . . . . . . . ore 20 tecnica e diagnostica endoscopica. . . . . . . . . . . . . . . ore 20 Oncologia clinica (ore 240):   
+oncologia medica . . . . . . . . . . . . . . . . . . . . . . . ore 40 chirurgia oncologica . . . . . . . . . . . . . . . . . . . . . ore 40 radioterapia oncologica . . . . . . . . . . . . . . . . . . . ore 100   
+terapie integrate (compresa la progettazione di   
+trials clinici). . . . . . . . . . . . . . . . . . . . . . . . ore 20 terapia del dolore . . . . . . . . . . . . . . . . . . . . . . ore 20   
+riabilitazione psicologica e funzionale del paziente   
+neoplastico. . . . . . . . . . . . . . . . . . . . . . . . . . ore 20 Monte ore elettivo. . . . . . . . . . . . . . . . . . . . . . ore 400 3° Anno (indirizzo oncologia diagnostica anatomopatologica):   
+Oncologia generale (ore 60):   
+patologia molecolare, cinetica cellulare, metabolismo. . . . . ore 30 immunologia. . . . . . . . . . . . . . . . . . . . . . . . . . ore 30 Morfologia dei tumori (ore 180):   
+diagnostica macroscopica dei tumori. . . . . . . . . . . . . . ore 30 diagnostica isto e citopatologica . . . . . . . . . . . . . . ore 100 istochimica patologica . . . . . . . . . . . . . . . . . . . . ore 20 correlazioni anatomo-cliniche. . . . . . . . . . . . . . . . . ore 30 Epidemiologia e prevenzione dei tumori (ore 50):   
+prevenzione primaria, secondaria e diagnosi   
+precoce dei tumori . . . . . . . . . . . . . . . . . . . . . . ore 50 Diagnostica di laboratorio in oncologia (ore 50):   
+patologia clinica (compresi i marcatori tumorali). . . . . . . ore 30 diagnostica per immagini . . . . . . . . . . . . . . . . . . . ore 20 Oncologia clinica (ore 60):   
+oncologia medica . . . . . . . . . . . . . . . . . . . . . . . ore 60 Monte ore elettivo. . . . . . . . . . . . . . . . . . . . . . ore 400 4° Anno (indirizzo oncologia diagnostica anatomopatologica):   
+Oncologia generale (ore 60):   
+citopatologia e patologia ultrastrutturale dei tumori. . . . . ore 30 storia naturale dei principali tumori umani. . . . . . . . . . ore 30 Morfologia dei tumori (ore 180):   
+diagnostica macroscopica . . . . . . . . . . . . . . . . . . . ore 30 diagnostica isto e citopatologica . . . . . . . . . . . . . . ore 100 diagnostica ultrastrutturale . . . . . . . . . . . . . . . . . ore 30 correlazioni anatomo-cliniche. . . . . . . . . . . . . . . . . ore 30 Epidemiologia e prevenzione dei tumori (ore 30):   
+aspetti medico-sociali e deontologia in oncologia. . . . . . . ore 10 organizzazione sanitaria . . . . . . . . . . . . . . . . . . . ore 20 Oncologia clinica (ore 60):   
+stadiazione dei tumori, fattori prognostici. . . . . . . . . . ore 40 chirurgia oncologica . . . . . . . . . . . . . . . . . . . . . ore 20 Monte ore elettivo. . . . . . . . . . . . . . . . . . . . . . ore 400   
+  
+Art. 320. - Durante i quattro anni di corso e' richiesta la frequenza ai fini dell'apprendimento nei reparti, laboratori e servizi dell'istituto di oncologia di Torino e nei laboratori di oncologia sperimentale dell'istituto di patologia generale dell'Universita' di Torino.   
+La frequenza nelle varie aree per complessive ottocento ore annue, compreso il monte ore elettivo di quattrocento ore annue, avverra' secondo delibera del consiglio della scuola, tale da assicurare ad ogni specializzando un adeguato periodo di esperienza e di formazione professionale. Il consiglio della scuola ripartira' annualmente il monte ore elettivo.   
+Il consiglio della scuola predispone apposito libretto di formazione, che consenta allo specializzando ed al consiglio stesso il controllo dell'attivita' svolta e dell'acquisizione dei progressi compiuti per sostenere gli esami annuali e finali.   
+  
+Scuola di specializzazione in cardiochirurgia   
+Art. 321. - E' istituita la scuola di specializzazione in cardiochirurgia presso l'Universita' degli studi di Torino.   
+La scuola ha lo scopo di insegnare e di approfondire gli studi nel campo della chirurgia cardiovascolare e di fornire le competenze professionali necessarie per il conseguimento del diploma che legittima l'assunzione della qualifica di specialista in cardiochirurgia.   
+La scuola rilascia il titolo di specialista in cardiochirurgia.   
+Art. 322. - La scuola ha la durata di cinque anni. Ciascun anno di corso prevede ottocento ore di insegnamento e di attivita' pratiche guidate.   
+In base alle strutture ed attrezzature disponibili, la scuola e' in grado di accettare il numero massimo di iscritti determinato in tre per ciascun anno di corso, per un totale di quindici specializzandi.   
+Art. 323. - Per l'attuazione delle attivita' didattiche programmate dal consiglio della scuola provvede la facolta' di medicina e chirurgia.   
+Art. 324. - Sono ammessi alle prove per ottenere l'iscrizione i laureati in medicina e chirurgia.   
+Per l'iscrizione alla scuola e' richiesteci il possesso del diploma di abilitazione all'esercizio della professione.   
+Art. 325. - La scuola comprende dieci aree di insegnamento e tirocinio professionale:   
+a) struttura e metabolismo del cuore e dei vasi;   
+b) fisiologia dell'apparato cardiovascolare;   
+c) fisiopatologia respiratoria;   
+d) chirurgia generale;   
+e) diagnostica clinica e strumentale;   
+f) patologia, clinica e terapia chirurgica cardiovascolare e toracica;   
+g) patologia, clinica e terapia medica cardiovascolare;   
+h) anestesia, rianimazione e terapia intensiva cardiovascolare;   
+i) circolazione extracorporea, assistenza e sostituzione meccanica cardiocircolatoria;   
+l) informatica medica e bioingegneria.   
+Art. 326. - Gli insegnamenti relativi a ciascuna area didattica e formativa professionale sono i seguenti:   
+a) Struttura e metabolismo del cuore e dei vasi:   
+embriologia e anatomia umana descrittiva e topografica;   
+biochimica;   
+biofisica.   
+b) Fisiologia dell'apparato cardiovascolare:   
+fisiologia dell'apparato cardiovascolare.   
+c) Fisiopatologia respiratoria:   
+fisiopatologia respiratoria.   
+d) Chirurgia generale:   
+patologia chirurgica generale I;   
+patologia chirurgica generale II;   
+clinica chirurgica generale.   
+e) Diagnostica clinica e strumentale:   
+semeiotica clinica delle cardiopatie;   
+radiologia generale;   
+indagini diagnostiche cardiovascolari non invasive I (elettrocardiografia, elettrocardiografia dinamica, vettocardiografia, fonocardiografia, poligrafia, ecocardiografia);   
+indagini diagnostiche cardiovascolari non invasive II (cardioangioradiologia, TAC, risonanza magnetica nucleare (RMN), metodiche radioisotopiche);   
+indagini diagnostiche cardiovascolari invasive (emodinamica, elettrofisiologia);   
+semeiotica strumentale delle angiopatie.   
+f) Patologia, clinica e terapia chirurgica cardiovascolare e toracica:   
+anatomia e istologia patologica I;   
+anatomia e istologia patologica II;   
+patologia e clinica delle angiopatie chirurgiche;   
+patologia e clinica delle cardiopatie chirurgiche I;   
+patologia e clinica delle cardiopatie chirurgiche II;   
+terapia chirurgica e tecnica operatoria delle malattie del cuore e dei grossi vasi I;   
+terapia chirurgica e tecnica operatoria delle malattie del cuore e dei grossi vasi II;   
+terapia chirurgica e tecnica operatoria delle malattie del cuore e dei grossi vasi III;   
+terapia chirurgica e tecnica operatoria delle vasculopatie periferiche;   
+cardiochirurgia pediatrica I;   
+cardiochirurgia pediatrica II;   
+chirurgia toracica generale.   
+g) Patologia, clinica e terapia medica cardiovascolare:   
+cardiologia medica I;   
+cardiologia medica II;   
+cardiochirurgia pediatrica;   
+farmacologia e terapia cardiovascolare.   
+h) Anestesia, rianimazione, terapia intensiva cardiovascolare:   
+anestesia e rianimazione;   
+terapia intensiva cardiovascolare I;   
+terapia intensiva cardiovascolare II.   
+i) Circolazione extracorporea, assistenza e sostituzione meccanica cardiocircolatoria:   
+principi e tecniche della circolazione extracorporea;   
+assistenza e sostituzione meccanica cardiocircolatoria.   
+l) Informatica medica e bioingegneria:   
+elementi di informatica medica;   
+elementi di bioingegneria.   
+Art. 327. - L'attivita' didattica comprende ogni anno ottocento ore di didattica formale e di tirocinio professionale guidato. Essa e' organizzata in una attivita' didattica teorico-pratica comune per tutti gli studenti (quattrocento ore come di seguito ripartite) ed in una attivita' didattica elettiva, prevalentemente di carattere tecnico-applicativo di ulteriori quattrocento ore rivolta all'approfondimento del curriculum corrispondente ad uno dei settori formativo-professionali (monte ore elettivo).   
+La frequenza nelle diverse aree avviene pertanto come di seguito specificato:   
+  
+1° Anno:   
+Struttura e metabolismo del cuore e dei vasi (ore 100):   
+embriologia e anatomia umana descrittiva e topografica . . . . ore 50 biochimica . . . . . . . . . . . . . . . . . . . . . . . . . . ore 25 biofisica. . . . . . . . . . . . . . . . . . . . . . . . . . . ore 25 Fisiologia dell'apparato cardiovascolare (ore 50):   
+fisiologia dell'apparato cardiovascolare . . . . . . . . . . . ore 50 Fisiologia respiratoria (ore 25):   
+fisiologia respiratoria. . . . . . . . . . . . . . . . . . . . ore 25 Chirurgia generale (ore 125):   
+patologia chirurgica generale I . . . . . . . . . . . . . . . ore 125 Diagnostica clinica e strumentale (ore 50):   
+radiologia generale. . . . . . . . . . . . . . . . . . . . . . ore 50 Informatica medica e bioingegneria (ore 50):   
+elementi di informatica medica . . . . . . . . . . . . . . . . ore 50 Monte ore elettivo. . . . . . . . . . . . . . . . . . . . . . ore 400 2° Anno:   
+Chirurgia generale (ore 150):   
+patologia chirurgica generale . . . . . . . . . . . . . . . . ore 150 Patologia, clinica e terapia chirurgica cardiovascolare e toracica (ore 125):   
+anatomia e istologia patologica I. . . . . . . . . . . . . . . ore 50 patologia e clinica delle angiopatie chirurgiche . . . . . . . ore 50 patologia e clinica delle cardiopatie chirurgiche I. . . . . . ore 25 Patologia, clinica e terapia medica cardiovascolare (ore 50):   
+cardiologia medica I . . . . . . . . . . . . . . . . . . . . . ore 50 Anestesia, rianimazione e terapia intensiva cardiovascolare (ore 75):   
+anestesia e rianimazione . . . . . . . . . . . . . . . . . . . ore 75 Monte ore elettivo. . . . . . . . . . . . . . . . . . . . . . ore 400 3° Anno:   
+Chirurgia generale (ore 150):   
+clinica chirurgica generale . . . . . . . . . . . . . . . . . ore 150 Diagnostica clinica e strumentale ore 75):   
+indagini diagnostiche cardiovascolari non invasive I . . . . . ore 50 semeiotica strumentale delle angiopatie. . . . . . . . . . . . ore 25 Patologia, clinica e terapia chirurgica cardiovascolare e toracica (ore 100):   
+anatomia e istologia patologica II . . . . . . . . . . . . . . ore 25 patologia e clinica delle cardiopatie chirurgiche II . . . . . ore 25 terapia chirurgica e tecnica operatoria delle malattie del cuore e dei grossi vasi I. . . . . . . . . . . . . . . . . . . . . . . ore 25   
+terapia chirurgica e tecnica operatoria   
+delle vasculopatie periferiche . . . . . . . . . . . . . . . . ore 25 Patologia, clinica e terapia medica cardiovascolare (ore 35):   
+cardiologia medica II. . . . . . . . . . . . . . . . . . . . . ore 35 Circolazione extracorporea, assistenza e sostituzione meccanica cardiocircolatoria (ore 40):   
+principi e tecniche della circolazione extracorporea . . . . . ore 40 Monte ore elettivo. . . . . . . . . . . . . . . . . . . . . . ore 400 4° Anno:   
+Diagnostica clinica e strumentale (ore 100):   
+semeiotica clinica delle cardiopatie . . . . . . . . . . . . . ore 20 indagini diagnostiche cardiovascolari non invasive III . . . . ore 40 indagini diagnostiche cardiovascolari invasive . . . . . . . . ore 40 Patologia, clinica e terapia chirurgica cardiovascolare e toracica (ore 150):   
+terapia chirurgica e tecnica operatoria delle malattie del cuore e dei grossi vasi II. . . . . . . . . . . . . . . . . . . . . . ore 100 cardiochirurgia pediatrica I . . . . . . . . . . . . . . . . . ore 50 Patologia, clinica e terapia medica cardiovascolare (ore 100):   
+cardiologia pediatrica . . . . . . . . . . . . . . . . . . . . ore 50 farmacologia e terapia cardiovascolare . . . . . . . . . . . . ore 50 Anestesia, rianimazione e terapia intensiva cardiovascolare (ore 50):   
+terapia intensiva cardiovascolare I. . . . . . . . . . . . . . ore 50 Monte ore elettivo. . . . . . . . . . . . . . . . . . . . . . ore 400 5° Anno:   
+Patologia, clinica e terapia chirurgica cardiovascolare e toracica (ore 250):   
+terapia chirurgica e tecnica operatoria delle malattie del cuore e dei grossi vasi II. . . . . . . . . . . . . . . . . . . . . . ore 100 cardiochirurgia pediatrica II. . . . . . . . . . . . . . . . . ore 75 chirurgia toracica generale. . . . . . . . . . . . . . . . . . ore 75 Anestesia, rianimazione e terapia intensiva cardiovascolare (ore 75):   
+terapia intensiva cardiovascolare II . . . . . . . . . . . . . ore 75 Circolazione extracorporea, assistenza e sostituzione meccanica cardiocircolatoria (ore 50):   
+assistenza e sostituzione meccanica cardiocircolatoria . . . . ore 50 Informatica medica e bioingegneria (ore 25):   
+elementi di bioingegneria. . . . . . . . . . . . . . . . . . . ore 25 Monte ore elettivo. . . . . . . . . . . . . . . . . . . . . . ore 400   
+  
+Art. 328. - Durante i cinque anni di corso e' richiesta la frequenza nei seguenti reparti/divisioni/ambulatori/ laboratori:   
+reparti clinici di degenza, reparto di terapia intensiva cardiovascolare, sale operatorie, ambulatori, laboratori di diagnostica non invasiva e invasiva, laboratori di indagini anatomiche, laboratori sperimentali e di bioingegneria.   
+La frequenza nelle varie aree per complessive ottocento ore annue, compreso il monte ore elettivo di quattrocento ore annue, avverra' secondo delibera del consiglio della scuola, tale da assicurare ad ogni specializzando un adeguato periodo di esperienza e di formazione professionale. Il consiglio della scuola ripartira' annualmente il monte ore elettivo.   
+Il consiglio della scuola predispone apposito libretto di formazione, che consenta allo specializzando ed al consiglio stesso il controllo dell'attivita' svolta e dell'acquisizione dei progressi compiuti, per sostenere gli esami annuali e finali.   
+  
+Scuola di specializzazione in microbiologia e virologia   
+Art. 329. - E' istituita la scuola di specializzazione in microbiologia e virologia presso l'Universita' degli studi di Torino.   
+La scuola ha lo scopo di fornire le competenze; diagnostiche professionali e direttive applicate alla medicina nel campo della microbiologia, virologia, micologia e parassitologia, relativamente all'indirizzo di microbiologia e virologia medica, nonche' per l'indirizzo tecnico di fornire sul piano tecnico una preparazione pratica microbiologica specifica.   
+Attesa la diversa provenienza degli specializzandi e le diverse professionalita' conseguibili al termine della scuola stessa entrambe in ambito microbiologico, la scuola si articola negli indirizzi:   
+a) microbiologia e virologia medica;   
+b) tecniche microbiologiche e virologiche.   
+Art. 330. - La scuola ha la durata di quattro anni. Dopo gli anni comuni lo specializzando, all'atto dell'iscrizione all'anno di corso nel quale dovra' essere frequentato uno degli indirizzi attivati, dovra' indicare l'indirizzo prescelto, in relazione al diploma di laurea.   
+Ciascun anno di corso prevede ottocento ore di, insegnamento e di attivita' pratiche guidate.   
+In base alle strutture ed attrezzature disponibili la scuola e' in grado di accettare il numero massimo di iscritti determinato in quindici per ciascun anno di corso, per un totale di sessanta specializzandi.   
+Art. 331. - Per l'attuazione delle attivita' didattiche programmate dal consiglio della scuola provvedono le facolta' di medicina e chirurgia, biologia, agraria.   
+Art. 332. - Sono ammessi alle prove per l'iscrizione all'indirizzo di microbiologia e virologia medica i laureati in medicina e chirurgia, all'indirizzo di tecniche microbiologiche e virologiche i laureati in scienze biologiche, in scienze naturali, in farmacia, in chimica e tecnologie farmaceutiche, in medicina veterinaria, in scienze agrarie.   
+Per l'iscrizione alla scuola, relativamente all'indirizzo di microbiologia e virologia medica e' richiesto il possesso del diploma di abilitazione all'esercizio della professione.   
+Art. 333. - La scuola di specializzazione in microbiologia e virologia comprende tredici aree di insegnamento e tirocinio professionale:   
+a) metodologia generale microbiologica;   
+b) batteriologia;   
+c) virologia;   
+d) micologia;   
+e) parassitologia;   
+f) immunologia;   
+g) controllo microbiologico degli alimenti e dell'ambiente;   
+h) agenti antimicrobici;   
+i) tecnologie biomediche applicate alla microbiologia clinica;   
+l) ecologia microbica;   
+m) microbiologia clinica;   
+n) microbiologia applicata;   
+o) tecniche microbiologiche.   
+Art. 334. - Gli insegnamenti relativi a ciascuna area didattica e formativa professionale sono i seguenti:   
+a) Metodologia generale microbiologica:   
+statistica ed epidemiologia;   
+coltivazione ed isolamento dei microrganismi;   
+strumentazione di laboratorio.   
+b) Batteriologia:   
+citologia e fisiologia batteriche;   
+genetica batterica;   
+batteriologia speciale.   
+c) Virologia:   
+virologia generale;   
+virologia speciale.   
+d) Micologia:   
+micologia generale;   
+micologia speciale.   
+e) Parassitologia:   
+parassitologia;   
+protozoologia.   
+f) Immunologia:   
+immunologia;   
+immunoprofilassi e immunoterapia;   
+sierologia.   
+g) Controllo microbiologico degli alimenti e dell'ambiente:   
+controllo microbiologico degli alimenti;   
+metodi di controllo microbiologico dell'aria e degli ambienti.   
+h) Agenti antimicrobici:   
+disinfettanti e chemioterapici;   
+antibiotici e antivirali.   
+i) Tecnologie biomediche applicate alla microbiologia clinica:   
+micrometodi in microbiologia clinica;   
+automazione e computerizzazione in microbiologia clinica.   
+l) Ecologia microbica:   
+microbiologia dell'ambiente ed ecologia microbica.   
+m) Microbiologia clinica:   
+epidemiologia delle malattie infettive;   
+microbiologia clinica;   
+criteri generali per la terapia antimicrobica.   
+n) Microbiologia applicata:   
+biotecnologie;   
+microbiologia industriale.   
+o) Tecniche microbiologiche:   
+tecniche batteriologiche;   
+tecniche virologiche;   
+tecniche immunologiche e sierologiche;   
+tecniche micologiche;   
+tecniche parassitologiche;   
+dosaggi microbiologici.   
+Art. 335. - L'attivita' didattica comprende ogni anno ottocento ore di didattica formale e di tirocinio professionale guidato. Essa e' organizzata in una attivita' didattica teorico-pratica comune per tutti gli studenti (quattrocento ore come di seguito ripartite) ed in una attivita' didattica elettiva, prevalentemente di carattere tecnico-applicativo di ulteriori quattrocento ore rivolta all'approfondimento del curriculum corrispondente ad uno dei settori formativo-professionali (monte ore elettivo).   
+La frequenza nelle diverse aree avviene come di seguito specificato relativamente al primo biennio comune e, successivamente, ai diversi indirizzi:   
+  
+1° Anno:   
+Metodologia generale microbiologica (ore 100):   
+statistica ed epidemiologia. . . . . . . . . . . . . . . . . . ore 30 coltivazione ed isolamento dei micro organismi . . . . . . . . ore 50 strumentazione di laboratorio. . . . . . . . . . . . . . . . . ore 20 Batteriologia (ore 210):   
+citologia e fisiologia batterica . . . . . . . . . . . . . . . ore 60 genetica batterica . . . . . . . . . . . . . . . . . . . . . . ore 50 batteriologia speciale. . . . . . . . . . . . . . . . . . . . ore 100 Virologia (ore 60):   
+virologia generale . . . . . . . . . . . . . . . . . . . . . . ore 60 Micologia (ore 30):   
+micologia generale . . . . . . . . . . . . . . . . . . . . . . ore 30 Monte ore elettivo. . . . . . . . . . . . . . . . . . . . . . ore 400 2° Anno:   
+Batteriologia (ore 150):   
+batteriologia speciale. . . . . . . . . . . . . . . . . . . . ore 150 Virologia (ore 100):   
+virologia speciale. . . . . . . . . . . . . . . . . . . . . . ore 100 Parassitologia (ore 50):   
+parassitologia . . . . . . . . . . . . . . . . . . . . . . . . ore 20 protozoologia. . . . . . . . . . . . . . . . . . . . . . . . . ore 30 Immunologia (ore 50):   
+immunologia generale . . . . . . . . . . . . . . . . . . . . . ore 50 Controllo microbiologico degli alimenti e dell'ambiente (ore 50):   
+controllo microbiologico degli alimenti. . . . . . . . . . . . ore 50 Monte ore elettivo. . . . . . . . . . . . . . . . . . . . . . ore 400 3° Anno (indirizzo medico):   
+Immunologia (ore 50):   
+immunoprofilassi ed immunoterapia. . . . . . . . . . . . . . . ore 50 Agenti antimicrobici (ore 70):   
+disinfettanti e chemioterapici . . . . . . . . . . . . . . . . ore 70 Microbiologia clinica (ore 250):   
+epidemiologia delle malattie infettive . . . . . . . . . . . . ore 50 microbiologia clinica . . . . . . . . . . . . . . . . . . . . ore 200 Micologia speciale (ore 30):   
+micologia speciale . . . . . . . . . . . . . . . . . . . . . . ore 30 Monte ore elettivo. . . . . . . . . . . . . . . . . . . . . . ore 400 4° Anno (indirizzo medico):   
+Microbiologia clinica (ore 250):   
+microbiologia clinica . . . . . . . . . . . . . . . . . . . . ore 200 criteri generali per la terapia antimicrobica. . . . . . . . . ore 50 Agenti antimicrobici (ore 100):   
+antibiotici e antivirali. . . . . . . . . . . . . . . . . . . ore 100 Immunologia (ore 50):   
+sieriologia. . . . . . . . . . . . . . . . . . . . . . . . . . ore 50 Monte ore elettivo. . . . . . . . . . . . . . . . . . . . . . ore 400 3° Anno (indirizzo tecnico):   
+Controllo microbiologico degli alimenti e dell'ambiente (ore 50):   
+metodi di controllo microbiologico dell'aria e   
+dell'ambiente. . . . . . . . . . . . . . . . . . . . . . . . . ore 50 Tecnologie biomediche applicate alla microbiologia (ore 50):   
+micrometodi in microbiologia . . . . . . . . . . . . . . . . . ore 50 Ecologia microbica (ore 50):   
+microbiologia ambientale ed ecologia microbica . . . . . . . . ore 50 Microbiologia applicata (ore 50):   
+biotecnologia. . . . . . . . . . . . . . . . . . . . . . . . . ore 50 Tecniche microbiologiche (ore 200):   
+tecniche batteriologiche. . . . . . . . . . . . . . . . . . . ore 150 tecniche immunologiche e sierologiche. . . . . . . . . . . . . ore 50   
+Monte ore elettivo... ore 400   
+4° Anno (indirizzo tecnico):   
+Tecnologie biomediche applicate alla microbiologia (ore 50):   
+automazione e computerizzazione in microbiologia . . . . . . . ore 50 Microbiologia applicata (ore 70):   
+microbiologia industriale. . . . . . . . . . . . . . . . . . . ore 70 Tecniche microbiologiche (ore 180):   
+dosaggi microbiologici . . . . . . . . . . . . . . . . . . . . ore 20 tecniche virologiche. . . . . . . . . . . . . . . . . . . . . ore 100 tecniche micologiche . . . . . . . . . . . . . . . . . . . . . ore 30 tecniche parassitologiche. . . . . . . . . . . . . . . . . . . ore 30 Ecologia microbica (ore 100):   
+microbiologia ambientale ed ecologia microbica. . . . . . . . ore 100 Monte ore elettivo. . . . . . . . . . . . . . . . . . . . . . ore 400   
+  
+Art. 336. - Durante i quattro anni di corso e' richiesta la frequenza ai fini dell'apprendimento nei seguenti laboratori di diagnostica:   
+microbiologica, virologica, parassitologica e micologica.   
+La frequenza nelle varie aree per complessive ottocento ore annue, compreso il monte ore elettivo di quattrocento ore annue, avviene secondo delibera del consiglio della scuola, tale da assicurare ad ogni specializzando un adeguato periodo di esperienza e di formazione scientifica. Il consiglio della scuola ripartisce annualmente il monte ore elettivo.   
+Il consiglio della scuola predispone apposito libretto di formazione, che consenta allo specializzando ed al consiglio stesso il controllo dell'attivita' svolta e dell'acquisizione dei progressi compiuti, per sostenere gli esami annuali e finali.   
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 11 marzo 1953
+### Dato a Roma, addi' 4 ottobre 1986
 
-EINAUDI SEGNI
+COSSIGA
 
-Visto, il Guardasigilli: ZOLI
+FALCUCCI, Ministro della pubblica istruzione
 
-Registrato alla Corte dei conti, addi' 8 agosto 1953
+Visto, il Guardasigilli: ROGNONI
 
-Atti del Governo, registro n. 78, foglio n. 95. - CARLOMAGNO
+Registrato alla Corte dei conti, addi' 20 gennaio 1987
+
+Registro n. 2 Istruzione, foglio n. 70

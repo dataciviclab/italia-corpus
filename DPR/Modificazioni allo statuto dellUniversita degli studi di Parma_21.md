@@ -1,206 +1,23 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 07 giugno 1972 n. 382
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 aprile 1961 n. 593
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 07 giugno 1972 n. 382
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 aprile 1961 n. 593
 =============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Parma.
 -----------------------------------------------------------------
-
-IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
-
-Veduto lo statuto dell'Universita' degli studi di Parma, approvato con [regio decreto 13 ottobre 1927, n. 2797](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2797) e modificato con [regio decreto 30 ottobre 1930, n. 1772](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-30;1772), e successive modificazioni;
-
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
-
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
-
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
-
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;
-
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
-
-Sentito il parere del Consiglio superiore della pubblica istruzione;
-
-Sulla proposta del Ministro per la pubblica istruzione;
-
-Decreta:
-
-Lo statuto dell'Universita' degli studi di Parma, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
-
-L'art. 142, relativo all'elenco delle scuole di specializzazione annesse alla facolta' di medicina e chirurgia, e' modificato nel senso che la "Scuola in malattie veneree e della pelle" e la "Scuola in medicina generale" mutano rispettivamente la denominazione in quelle di "Scuola in clinica dermosifilopatica" e in "Scuola di medicina interna":
-
-Gli articoli 161, 162 e 163, relativi alla "Scuola di specializzazione in medicina generale" che muta la denominazione in quello di "Scuola di specializzazione in medicina interna", sono abrogati e sostituiti dai seguenti:
-
-Scuola di specializzazione in medicina interna
-
-Art. 161. - La scuola ha la durata di 5 anni.
-
-Le materie di insegnamento sono:
-
-1° Anno:
-
-Malattie infettive, disreattive e del sangue;
-
-Istituzioni di terapia;
-
-Anatomia ed istologia patologica (biennale);
-
-Clinica medica generale e terapia medica (quinquennale).
-
-2° Anno:
-
-Malattie dell'apparato cardiovascolare;
-
-Microbiologia e sierologia;
-
-Chimica clinica;
-
-Anatomia ed istologia patologica (biennale);
-
-Clinica medica generale e terapia medica (quinquennale).
-
-3° Anno:
-
-Malattie dell'apparato digerente;
-
-Malattie renali;
-
-Clinica medica generale e terapia medica (quinquennale).
-
-4° Anno:
-
-Malattie dell'apparato respiratorio:
-
-Malattie del sistema nervoso;
-
-Clinica medica generale e terapia medica (quinquennale).
-
-5° Anno:
-
-Malattie del ricambio;
-
-Malattie delle ghiandole endocrine;
-
-Clinica medica generale e terapia medica (quinquennale).
-
-Gli insegnamenti fondamentali saranno integrati, a giudizio del consiglio della scuola, da almeno tre insegnamenti scelti fra i seguenti, che possono essere stabiliti di anno in anno.
-
-Insegnamenti complementari:
-
-Parassitologia medica;
-
-Genetica medica;
-
-Semeiotica dermatologica;
-
-Radiologia;
-
-Semeiotica oculistica;
-
-Semeiotica ginecologica.
-
-Art. 162. - Il numero complessivo degli specializzandi da ammettere alla scuola e' fissato in sessanta.
-
-Art. 163. - Gli iscritti alla scuola debbono sostenere l'esame annuale di profitto e l'esame finale di diploma.
-
-Non puo' essere iscritto all'anno successivo chi non abbia superato gli esami delle materie del corso precedente.
-
-Art. 173. - L'ordinamento della "Scuola di specializzazione in radiologia" e' integrato con il seguente comma:
-
-"Gli specializzati in radiologia diagnostica che intendono conseguire il diploma in radiologia, potranno essere ammessi al 3° o 4° anno del corso di radiologia in base alla valutazione dei titoli e a giudizio della direzione della scuola".
-
-Gli articoli da 181 a 184, relativi alla "Scuola di specializzazione in malattie veneree e della pelle" che muta la denominazione in quella di "Scuola di specializzazione in clinica dermosifilopatica", sono abrogati e sostituiti dai seguenti:
-
-Scuola di specializzazione in clinica dermosifilopatica
-
-Art. 181. - La scuola di specializzazione in clinica dermosifilopatica ha la durata di tre anni.
-
-Sono ammessi i laureati in medicina e chirurgia.
-
-Il numero degli iscritti alla scuola e' limitato, per ogni anno accademico, a dieci allievi.
-
-Gli aspiranti alla scuola di specializzazione saranno previamente sottoposti ad un esame di ammissione e saranno valutati i titoli preferenziali che i candidati stessi eventualmente abbiano presentato.
-
-Art. 182. - Le materie di insegnamento sono:
-
-1° Anno:
-
-Anatomia e istologia normale della cute;
-
-Fisiologia della cute e degli annessi cutanei;
-
-Anatomia e fisiologia dell'apparato genitale;
-
-Microbiologia e parassitologia applicata;
-
-Tecnica di laboratorio con particolare riferimento alla sierologia applicata;
-
-Semeiotica dermatologica e venereologica.
-
-2° Anno:
-
-Patologia delle malattie cutanee;
-
-Patologia delle infezioni sessuali;
-
-Anatomia e istologia patologica della cute;
-
-Anatomia patologica delle malattie veneree e sessuali;
-
-Angiologia;
-
-Sessuologia.
-
-3° Anno:
-
-Clinica delle malattie cutanee;
-
-Clinica delle infezioni sessuali;
-
-Farmacologia e terapia medicamentosa;
-
-Fisioterapia dermatologica;
-
-Cosmetologia;
-
-Chirurgia plastica riparatrice;
-
-Igiene e profilassi delle malattie cutanee e veneree e relativa legislazione.
-
-Art. 183. - Il corso di lezioni dovra' essere impartito mediante almeno cinquanta lezioni annuali comprensive delle varie materie e la frequenza giornaliera degli iscritti dovra' essere non inferiore alle quattro ore effettive per tutta la durata dell'anno accademico. Gli specializzandi avranno pertanto obbligo di internato nelle corsie, negli ambulatori e nei laboratori.
-
-Art. 184. - Gli esami di profitto verranno dati in tre gruppi ed in tre sessioni distinte; ogni gruppo comprende le materie proprie di ciascun anno di studio.
-
-L'esame di diploma consistera' nella esposizione e discussione di un argomento della disciplina su un tema dato al candidato 24 ore prima della prova.
-
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
-
-Dato a Roma, addi' 7 giugno 1972
-
-LEONE
-
-MISASI
-
-Visto, il Guardasigilli: GONELLA
-
-Registrato
-----------
-
-alla Corte dei conti, addi' 25 luglio 1972 Atti del Governo, registro n. 250, foglio n. 73. - CARUSO
 
 Art. 1
 ------
 
  IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Parma, approvato con [regio decreto 13 ottobre 1927, n. 2797](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2797) e modificato con [regio decreto 30 ottobre 1930, n. 1772](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-30;1772), e successive modificazioni;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto lo statuto dell'Universita' degli studi di Parma, approvato con [regio decreto 13 ottobre 1927, numero 2797](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2797), modificato con [regio decreto 30 ottobre 1930, n. 1772](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-30;1772) e successivi;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652) e successive modificazioni;  
+Veduto il [decreto del Presidente della Repubblica 31 gennaio 1960, n. 53](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1960-01-31;53);  
+Vedute le proposte di modifiche dello statuto formulate dalle Autorita' accademiche dell'Universita' anzidetta;  
 Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
 Sentito il parere del Consiglio superiore della pubblica istruzione;  
 Sulla proposta del Ministro per la pubblica istruzione;  
@@ -208,102 +25,60 @@ Sulla proposta del Ministro per la pubblica istruzione;
 Decreta:  
   
 Lo statuto dell'Universita' degli studi di Parma, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-L'art. 142, relativo all'elenco delle scuole di specializzazione annesse alla facolta' di medicina e chirurgia, e' modificato nel senso che la "Scuola in malattie veneree e della pelle" e la "Scuola in medicina generale" mutano rispettivamente la denominazione in quelle di "Scuola in clinica dermosifilopatica" e in "Scuola di medicina interna":  
-Gli articoli 161, 162 e 163, relativi alla "Scuola di specializzazione in medicina generale" che muta la denominazione in quello di "Scuola di specializzazione in medicina interna", sono abrogati e sostituiti dai seguenti:  
-Scuola di specializzazione in medicina interna  
-Art. 161. - La scuola ha la durata di 5 anni.  
-Le materie di insegnamento sono:  
-1° Anno:  
-Malattie infettive, disreattive e del sangue;  
-Istituzioni di terapia;  
-Anatomia ed istologia patologica (biennale);  
-Clinica medica generale e terapia medica (quinquennale).  
   
-2° Anno:  
-Malattie dell'apparato cardiovascolare;  
-Microbiologia e sierologia;  
-Chimica clinica;  
-Anatomia ed istologia patologica (biennale);  
-Clinica medica generale e terapia medica (quinquennale).  
-  
-3° Anno:  
-Malattie dell'apparato digerente;  
-Malattie renali;  
-Clinica medica generale e terapia medica (quinquennale).  
-  
-4° Anno:  
-Malattie dell'apparato respiratorio:  
-Malattie del sistema nervoso;  
-Clinica medica generale e terapia medica (quinquennale).  
-  
-5° Anno:  
-Malattie del ricambio;  
-Malattie delle ghiandole endocrine;  
-Clinica medica generale e terapia medica (quinquennale).  
-  
-Gli insegnamenti fondamentali saranno integrati, a giudizio del consiglio della scuola, da almeno tre insegnamenti scelti fra i seguenti, che possono essere stabiliti di anno in anno.  
-Insegnamenti complementari:  
-  
-Parassitologia medica;  
-Genetica medica;  
-Semeiotica dermatologica;  
-Radiologia;  
-Semeiotica oculistica;  
-Semeiotica ginecologica.  
-  
-Art. 162. - Il numero complessivo degli specializzandi da ammettere alla scuola e' fissato in sessanta.  
-Art. 163. - Gli iscritti alla scuola debbono sostenere l'esame annuale di profitto e l'esame finale di diploma.  
-Non puo' essere iscritto all'anno successivo chi non abbia superato gli esami delle materie del corso precedente.  
-Art. 173. - L'ordinamento della "Scuola di specializzazione in radiologia" e' integrato con il seguente comma:  
-"Gli specializzati in radiologia diagnostica che intendono conseguire il diploma in radiologia, potranno essere ammessi al 3° o 4° anno del corso di radiologia in base alla valutazione dei titoli e a giudizio della direzione della scuola".  
-Gli articoli da 181 a 184, relativi alla "Scuola di specializzazione in malattie veneree e della pelle" che muta la denominazione in quella di "Scuola di specializzazione in clinica dermosifilopatica", sono abrogati e sostituiti dai seguenti:  
-  
-Scuola di specializzazione in clinica dermosifilopatica  
-Art. 181. - La scuola di specializzazione in clinica dermosifilopatica ha la durata di tre anni.  
-Sono ammessi i laureati in medicina e chirurgia.  
-Il numero degli iscritti alla scuola e' limitato, per ogni anno accademico, a dieci allievi.  
-Gli aspiranti alla scuola di specializzazione saranno previamente sottoposti ad un esame di ammissione e saranno valutati i titoli preferenziali che i candidati stessi eventualmente abbiano presentato.  
-Art. 182. - Le materie di insegnamento sono:  
-  
-1° Anno:  
-Anatomia e istologia normale della cute;  
-Fisiologia della cute e degli annessi cutanei;  
-Anatomia e fisiologia dell'apparato genitale;  
-Microbiologia e parassitologia applicata;  
-Tecnica di laboratorio con particolare riferimento alla sierologia applicata;  
-Semeiotica dermatologica e venereologica.  
-  
-2° Anno:  
-Patologia delle malattie cutanee;  
-Patologia delle infezioni sessuali;  
-Anatomia e istologia patologica della cute;  
-Anatomia patologica delle malattie veneree e sessuali;  
-Angiologia;  
-Sessuologia.  
-  
-3° Anno:  
-Clinica delle malattie cutanee;  
-Clinica delle infezioni sessuali;  
-Farmacologia e terapia medicamentosa;  
-Fisioterapia dermatologica;  
-Cosmetologia;  
-Chirurgia plastica riparatrice;  
-Igiene e profilassi delle malattie cutanee e veneree e relativa legislazione.  
-  
-Art. 183. - Il corso di lezioni dovra' essere impartito mediante almeno cinquanta lezioni annuali comprensive delle varie materie e la frequenza giornaliera degli iscritti dovra' essere non inferiore alle quattro ore effettive per tutta la durata dell'anno accademico. Gli specializzandi avranno pertanto obbligo di internato nelle corsie, negli ambulatori e nei laboratori.  
-Art. 184. - Gli esami di profitto verranno dati in tre gruppi ed in tre sessioni distinte; ogni gruppo comprende le materie proprie di ciascun anno di studio.  
-L'esame di diploma consistera' nella esposizione e discussione di un argomento della disciplina su un tema dato al candidato 24 ore prima della prova.  
+Gli articoli 62, 63 e 64, relativi al corso biennale di studi propedeutici per la laurea in Ingegneria sono abrogati e sostituiti dai seguenti:  
+Art. 62. - Titolo di ammissione al biennio propedeutico agli studi di Ingegneria e' il diploma di maturita' classica o scientifica.  
+Sono insegnamenti fondamentali comuni a tutti i corsi di laurea in Ingegneria:  
+1° anno:  
+1) Analisi matematica 1°;  
+2) Geometria 1°;  
+3) Fisica 1°;  
+4) Chimica;  
+5) Disegno.  
+2° anno:  
+1) Analisi matematica 2°;  
+2) Meccanica razionale;  
+3) Fisica 2°.  
+In relazione ai diversi corsi di laurea, si hanno inoltre i seguenti insegnamenti, dei quali il primo e' fondamentale, mentre gli altri sono aggiuntivi:  
+1) Ingegneria civile:  
+a) Disegno 2° (civile);  
+b) Litologia e geologia;  
+c) Tecnologie generali dei materiali.  
+2) Ingegneria meccanica:  
+a) Disegno 2° (macchine);  
+b) Tecnologie generali dei materiali;  
+c) Chimica applicata.  
+3) Ingegneria elettrotecnica ed Ingegneria elettronica:  
+a) Geometria 2°;  
+b) Disegno 2° (macchine).  
+4) Ingegneria chimica:  
+a) Disegno 2° (macchine);  
+b) Chimica organica.  
+5) Ingegneria aeronautica:  
+a) Geometria 2°;  
+b) Disegno 2° (civile).  
+6) Ingegneria mineraria:  
+a) Geometria 2°;  
+b) Mineralogia.  
+7) Ingegneria nucleare:  
+a) Disegno 2° (macchine)  
+b) Fisica atomica.  
+Art. 63. - Gli insegnamenti biennali di Analisi matematica, di Geometria e di Fisica importano ciascuno due esami distinti.  
+I due esami di Fisica, comprendono anche la parte riguardante le relative esercitazioni.  
+Gli insegnamenti di Geometria e di Meccanica razionale sono distinti dagli analoghi insegnamenti per il corso di laurea in Matematica.  
+Art. 64. - Gli studenti del 1° anno di corso potranno ottenere la iscrizione a 2° anno di corso qualora abbiano superato almeno due fra i quattro seguenti insegnamenti: Analisi matematica 1°, Geometria 1°, Fisica 1° Chimica.  
+Al termine del 2° anno di corso lo studente per essere ammesso al 3° anno di corso presso una qualunque Facolta' di ingegneria e Politecnico dovra' aver superato tutti gli esami fondamentali comuni ai vari indirizzi, e l'esame fondamentale di cui alla lettera a) relativo all'indirizzo prescelto al momento dell'iscrizione al secondo corso.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 7 giugno 1972
+### Dato a Roma, addi' 5 aprile 1961
 
-LEONE MISASI
+GRONCHI BOSCO
 
 Visto, il Guardasigilli: GONELLA
 
-Registrato alla Corte dei conti, addi' 25 luglio 1972
+Registrato alla Corte dei conti, addi' 19 luglio 1961
 
-Atti del Governo, registro n. 250, foglio n. 73. - CARUSO
+Atti del Governo, registro n. 137, foglio n. 139. - VILLA

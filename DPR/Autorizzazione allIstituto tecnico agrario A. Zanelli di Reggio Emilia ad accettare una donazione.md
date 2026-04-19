@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 marzo 1952 n. 1040
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 23 febbraio 1952 n. 1030
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 marzo 1952 n. 1040
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 23 febbraio 1952 n. 1030
+================================================================
 
 Autorizzazione all'Istituto tecnico agrario "A. Zanelli" di Reggio Emilia ad accettare una donazione.
 -----------------------------------------------------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-1040. Decreto del Presidente della Repubblica 14 marzo 1952, col quale, sulla proposta del Ministro per la pubblica istruzione, l'Istituto tecnico agrario "A. Zanelli" di Reggio Emilia viene autorizzato ad accettare la donazione di nominali L. 200.000 disposta al fine dell'istituzione di un premio di studio intitolato al nome del "Prof. Piero Nizzi".  
+1030. Decreto del Presidente della Repubblica 23 febbraio 1952, col quale, sulla proposta del Ministro per la pubblica istruzione, l'Istituto tecnico agrario "A. Zanelli" di Reggio Emilia viene autorizzato ad accettare la donazione di nominali L. 200.000 disposta al fine dell'istituzione di un premio di studio intitolato al nome del dott. Antonio Angeli.  
   
 Visto, il Guardasigilli: ZOLI  
-Registrato alla Corte dei conti, addi' 31 luglio 1952  
-Atti del Governo, registro n. 56, foglio n. 78. - FRASCA
+Registrato alla Corte del conti, addi' 31 luglio 1952  
+Atti del Governo, registro n. 56, foglio n. 77. - FRASCA

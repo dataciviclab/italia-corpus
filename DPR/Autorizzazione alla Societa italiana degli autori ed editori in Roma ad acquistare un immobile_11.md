@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 25 febbraio 1981 n. 174
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 06 agosto 1985 n. 576
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 25 febbraio 1981 n. 174
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 06 agosto 1985 n. 576
+=============================================================
 
 Autorizzazione alla Societa' italiana degli autori ed editori, in Roma, ad acquistare un immobile.
 --------------------------------------------------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-174. Decreto del Presidente della Repubblica 25 febbraio 1981, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la Societa' italiana degli autori ed editori, in Roma, viene autorizzata ad acquistare, al prezzo di L. 16.500.000, un appartamento sito in Roma, via dei Frassini, 46, villino B, distinto nel nuovo catasto edilizio urbano alla partita 215045, foglio 946, mappale 1002, 1003 sub 3, come da atto di compravendita 4 luglio 1979, n. 1050 di repertorio, a rogito avv. Nicodemo Operamolla, notaio in Roma.  
+576. Decreto del Presidente della Repubblica 6 agosto 1985, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la Societa' italiana degli autori ed editori (SIAE), in Roma, viene autorizzata ad acquistare, come da atto preliminare di compravendita 10 agosto 1981, n. 64200 di repertorio, a rogito dott. Alberto Menazzi, notaio in Udine, al convenuto prezzo di L. 70.000.000, un immobile sito in Udine, via Valussi, costituito da porzione di fabbricato nel complesso condominiale "Gardenia III", distinto nel catasto terreni con la particella 568 del foglio 48, di are 49.16, consistente in un appartamento al piano primo e locale scantinato complessivamente di m quadri 134,80, valutato con perizia di parte L. 70.300.000.  
   
-Visto, il Guardasigilli: SARTI  
-Registrato alla Corte dei conti, addi' 23 aprile 1981  
-Registro n. 3 Presidenza, foglio n. 211
+Visto, il Guardasigilli: MARTINAZZOLI  
+Registrato alla Corte dei conti, addi' 11 ottobre 1985  
+Registro n. 9 Presidenza, foglio n. 73

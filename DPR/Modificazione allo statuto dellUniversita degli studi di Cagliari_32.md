@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 13 marzo 1984 n. 411
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 luglio 1984 n. 1176
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 13 marzo 1984 n. 411
-============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 luglio 1984 n. 1176
+==============================================================
 
 Modificazione allo statuto dell'Universita' degli studi di Cagliari.
 --------------------------------------------------------------------
@@ -40,18 +40,20 @@ Articolo unico
 
   
 Nell'art. 65, relativo al corso di laurea in scienze geologiche, all'elenco degli insegnamenti complementari e' aggiunto il seguente nuovo insegnamento:  
-geologia strutturale.  
+geologia e petrografia del carbone.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 13 marzo 1984
+### Dato a Roma, addi' 10 luglio 1984
 
-PERTINI FALCUCCI
+PERTINI
+
+FALCUCCI, Ministro della pubblica istruzione
 
 Visto, il Guardasigilli: MARTINAZZOLI
 
-Registrato alla Corte dei conti, addi' 20 luglio 1984
+Registrato alla Corte dei conti, addi' 11 aprile 1985
 
-Registro n. 45 Istruzione, foglio n. 322
+Registro n. 22 Istruzione, foglio n. 142

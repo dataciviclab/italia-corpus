@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 ottobre 1969 n. 869
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 ottobre 1972 n. 715
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 ottobre 1969 n. 869
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 ottobre 1972 n. 715
 ==============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Trieste.
@@ -12,11 +12,10 @@ Art. 1
 
  IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Trieste, approvato con [decreto del Presidente della Repubblica 31 ottobre 1961, n. 1836](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1961-10-31;1836) e modificato con [decreto del Presidente della Repubblica 7 settembre 1962, numero 1540](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1962-09-07;1540), e successive modificazioni;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto lo statuto dell'Universita' degli studi di Trieste, approvato con [decreto del Presidente della Repubblica 31 ottobre 1961, n. 1836](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1961-10-31;1836) e modificato con [decreto del Presidente della Repubblica 7 settembre 1962, n. 1540](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1962-09-07;1540), e successive modificazioni;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
 Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;  
 Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
 Sentito il parere del Consiglio superiore della pubblica istruzione;  
@@ -25,54 +24,21 @@ Sulla proposta del Ministro per la pubblica istruzione;
 Decreta:  
   
 Lo statuto dell'Universita' degli studi di Trieste, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-Art. 78, relativo al biennio di studi propedeutici della facolta' di ingegneria e' modificato come segue:  
+Art. 60. - All'elenco degli istituti annessi alla facolta' di medicina e chirurgia sono aggiunti i seguenti:  
   
-Al secondo anno per la laurea in ingegneria chimica gli insegnamenti di "Disegno II (industriale)" e di "Mineralogia (con elementi di geologia)" sono abrogati e sostituiti rispettivamente da quelli di "Chimica applicata" e da "Chimica analitica".  
-Al secondo anno per la laurea in ingegneria elettronica l'insegnamento di "Disegno II (industriale)" e' soppresso, mentre viene incluso l'insegnamento di "Calcoli numerici e grafici, con elementi di programmazione".  
-Al secondo anno per la laurea in ingegneria elettrotecnica l'insegnamento di "Metodi di osservazione e misura" e' abrogato e sostituito da quello di "Calcoli numerici e grafici, con elementi di programmazione".  
-Al secondo anno per la laurea in ingegneria meccanica l'insegnamento di "Disegno II (industriale)" e' soppresso, mentre viene incluso l'insegnamento di "Calcoli numerici e grafici, con elementi di programmazione".  
-Al secondo anno per la laurea in ingegneria navale e meccanica l'insegnamento di "Disegno II (industriale)" e' soppresso, mentre viene incluso quello di "Disegno navale".  
-Art. 79, relativo al triennio di applicazione di studi della facolta' di ingegneria e' modificato come segue:  
-  
-Nel corso di laurea in ingegneria chimica gli insegnamenti fondamentali di "Chimica analitica I" e di "Chimica applicata" (trasferiti al biennio) vengono abrogati e sostituiti da "Impianti chimici II" e da "Teoria dei processi chimici", mentre l'insegnamento di impianti chimici viene contraddistinto dal numero I.  
-Nello stesso corso di laurea i gruppi di indirizzo sono cosi' modificati:  
-  
-Indirizzo a): Gli insegnamenti di "Elettrochimica" e di "Materiali e chimica nucleare" vengono abrogati e sostituiti dagli insegnamenti di "Tecnologia dei metalli" e di "Scienza e tecnologia dei materiali ceramurgici e compositi".  
-L'indirizzo c) e' soppresso.  
-Nel corso di laurea in ingegneria civile i gruppi di indirizzo vengono cosi' modificati:  
-per la sezione edile nell'indirizzo b): l'insegnamento di "Tecnica delle costruzioni II" e' abrogato e sostituito da quello di "Grandi strutture";  
-per la sezione idraulica nell'indirizzo b): l'insegnamento di "Complementi di costruzioni idrauliche" e' abrogato e sostituito da quello di "Complementi di idraulica";  
-per la sezione trasporti nell'indirizzo b): l'insegnamento di "Tecnica delle costruzioni II" e' abrogato e sostituito da quello di "Costruzione di ponti".  
-Nel corso di laurea in ingegneria elettronica gli insegnamenti fondamentali di "Macchine elettriche" e di "Materiali per uso elettrotecnico" sono soppressi, mentre viene incluso quello di "Economia e direzione delle aziende".  
-Nello stesso corso di laurea i gruppi di indirizzo sono cosi' modificati:  
-nell'indirizzo a) viene incluso l'insegnamento di "Teoria dell'informazione";  
-nell'indirizzo b) viene incluso l'insegnamento di "Complementi di automatica";  
-nell'indirizzo c) l'insegnamento di "Economia e direzione delle aziende" e' abrogato e sostituito da quello di "Calcolatrici elettroniche" e viene aggiunto quello di "Tecnologie speciali elettriche".  
-Nel corso di laurea in ingegneria elettrotecnica i gruppi di indirizzo sono cosi' modificati:  
-nell'indirizzo a) gli insegnamenti di "Costruzione di macchine" e di "Trazione elettrica" sono abrogati e sostituiti da quelli di "Complementi di macchine elettriche" e di "Tecnologie speciali elettriche";  
-nell'indirizzo b) l'insegnamento di "Grandi utilizzazioni dell'energia elettrica" diviene semestrale e viene incluso l'insegnamento semestrale di "Trazione elettrica";  
-nell'indirizzo c) l'insegnamento di "Tecnologie speciali elettriche" e' abrogato e sostituito da quello di "Tecnologia dei sistemi di controllo".  
-Nel corso di laurea in ingegneria meccanica i gruppi di indirizzo sono cosi' modificati:  
-nell'indirizzo a) gli insegnamenti di "Tecnica ed economia dei trasporti" e di "Teoria dei modelli" sono abrogati, mentre viene incluso quello di "Centrali termiche e forni industriali";  
-nell'indirizzo b) gli insegnamenti di "Complementi di macchine e centrali termiche", di "Impianti chimici" e di "Impianti speciali idraulici" sono abrogati e sostituiti da quelli di "Impianti nucleari", di "Macchine speciali" e di "Teoria dei modelli";  
-nell'indirizzo d) gli insegnamenti di "Impianti nucleari" e di "Teoria dei modelli" sono abrogati e sostituiti da quelli di "Gardinamica" e di "Tecnica ed economia dei trasporti".  
-Nel corso di laurea in ingegneria navale e meccanica l'insegnamento fondamentale di "Tecnologia navale" e' soppresso, mentre viene incluso quello di "Fondamenti di elettronica".  
-Nello stesso corso di laurea ai gruppi di indirizzo e' aggiunto il nuovo indirizzo c) con i seguenti insegnamenti:  
-  
-Attrezzature e strumenti di bordo;  
-Automazione navale;  
-Strumentazione.  
+Istituto di psichiatria;  
+Istituto di anestesiologia e rianimazione.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 30 ottobre 1969
+### Dato a Roma, addi' 2 ottobre 1972
 
-SARAGAT FERRARI AGGRADI
+LEONE SCALFARO
 
-Visto, il Guardasigilli: GAVA
+Visto, il Guardasigilli: GONELLA
 
-Registrato alla Corte dei conti, addi' 29 novembre 1969
+Registrato alla Corte dei conti, addi' 21 novembre 1972
 
-Atti del Governo, registro n. 230, foglio n. 85. - CARUSO
+Atti del Governo, registro n. 253, foglio n. 62. - CARUSO

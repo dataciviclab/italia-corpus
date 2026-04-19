@@ -1,63 +1,84 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 settembre 1980 n. 915
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1975 n. 952
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 settembre 1980 n. 915
-================================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1975 n. 952
+==============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Padova.
 ------------------------------------------------------------------
 
-IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
-
-Veduto lo statuto dell'Universita' di Padova, approvato con [regio decreto 20 aprile 1939, n. 1058](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1058) e modificato con [regio decreto 5 ottobre 1939, n. 1847](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-05;1847), e successive modificazioni;
-
-Veduto il testo unico delle leggi - sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
-
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
-
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
-
-Veduta la [legge 22 maggio 1978, n. 217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-05-22;217);
-
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
-
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Padova e convalidati dal Consiglio universitario nazionale nel suo parere;
-
-Sentito il parere del Consiglio universitario nazionale;
-
-Sulla
------
-
-proposta del Ministro della pubblica istruzione; Decreta:
-
 Art. 1
 ------
 
+ IL PRESIDENTE DELLA REPUBBLICA  
   
-Lo statuto dell'Universita' di Padova, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-Art. 421 - all'elenco delle scuole annesse alla facolta' di medicina e chirurgia e' apportata la seguente modifica:  
+Veduto lo statuto dell'Universita' degli studi di Padova, approvato con [regio decreto 20 aprile 1939, numero 1058](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1058) e modificato con [regio decreto 5 ottobre 1939, n. 1847](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-05;1847), e successive modificazioni;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Padova e convalidati dal Consiglio superiore della pubblica istruzione nei suoi pareri;  
+Sentito il parere del Consiglio superiore della pubblica istruzione;  
+Sulla proposta del Ministro per la pubblica istruzione;  
   
-La scuola di specializzazione in ematologia clinica e di laboratorio, che conferisce il diploma di specialista in ematologia clinica e di laboratorio, muta la denominazione in quella di ematologia generale (clinica e laboratorio) che conferisce il diploma di specialista in ematologia generale (clinica e laboratorio).  
-
-Art. 2
-------
-
+Decreta:  
   
-All'art. 422, relativo agli ordinamenti delle scuole di specializzazione annesse alla facolta' di medicina e chirurgia, e' apportata la seguente modifica:  
+Lo statuto dell'Universita' degli studi di Padova, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
   
-La scuola di specializzazione in ematologia clinica e di laboratorio muta la denominazione in quella di ematologia generale (clinica e laboratorio).  
+Dopo l'art. 265, e con lo spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli, relativi alla istituzione della scuola di perfezionamento in "Metodologia della ricerca filosofica e filosofia delle scienze" annessa alla facolta' di magistero.  
+  
+Scuola di perfezionamento in metodologia della ricerca filosofica e in filosofia delle scienze  
+  
+Art. 266. - La scuola di perfezionamento in metodologia della ricerca filosofica e in filosofia delle scienze ha lo scopo di sviluppare la ricerca interdisciplinare sul rapporto tra le discipline matematiche, fisiche, biologiche e naturali, sociologiche e quelle filosofiche. Essa promuove cosi' la formazione di ricercatori a livello teorico ed anche, sottolineando gli interessi metodologici, contribuisce a preparare all'insegnamento liceale delle discipline filosofiche, matematiche e naturali.  
+Art. 267. - I corsi di studio hanno la durata di due anni.  
+Art. 268. - La struttura della scuola prevede un consiglio presieduto da un direttore. Il consiglio e' formato da tutti i professori ufficiali della scuola stessa.  
+Il direttore della scuola e' nominato dal rettore su proposta dell'istituto di storia della filosofia e su designazione del consiglio della facolta' di magistero e dura in carica due anni; e' riconfermabile.  
+Il direttore nomina i docenti della scuola d'intesa con l'istituto di storia della filosofia e con il consiglio della facolta' di magistero.  
+Art. 269. - Alla scuola possono essere ammessi i laureati in filosofia, pedagogia, lettere, materie letterarie, psicologia, matematica, fisica, scienze biologiche, scienze naturali e i laureati di altre facolta' subordinatamente al parere favorevole del consiglio della scuola.  
+L'accoglimento della domanda d'ammissione avviene dopo un colloquio d'accertamento del richiedente con l'apposita commissione.  
+Art. 270. - La scuola comprende le seguenti discipline:  
+istituzioni di logica;  
+linguaggi formali;  
+storia della logica;  
+istituzioni di matematica;  
+algebra di Boole;  
+fondamenti della teoria della probabilita' e della induzione;  
+storia della matematica;  
+filosofia della scienza;  
+cosmologia;  
+metodologia delle scienze fisiche;  
+metodologia delle scienze biologiche;  
+metodologia delle scienze sociali;  
+storia del pensiero scientifico;  
+filosofia;  
+metodologia della ricerca filosofica;  
+filosofia della cultura;  
+estetica e metodologia della critica;  
+filosofia del linguaggio;  
+semiologia;  
+semantica;  
+sociologia linguistica;  
+storia della filosofia moderna e contemporanea;  
+storia della filosofia analitica.  
+Art. 271. - Fin dal primo anno di frequenza ogni iscritto e' tenuto a presentare un piano di studi concordato con il docente della disciplina sulla quale vertera' la sua dissertazione. Il piano di studi dovra' comprendere almeno sei materie scelte nell'ambito di quelle attivate e dovra' essere approvato dal consiglio della scuola.  
+Il diploma di perfezionamento si consegue dopo aver superato gli esami previsti nel piano di studi ed aver discusso una dissertazione che costituisce un contributo originale.  
+Art. 272. - Le commissioni giudicatrici degli esami sono nominate dal direttore della scuola. La commissione giudicatrice dell'esame di diploma di perfezionamento e' nominata dal rettore ed e' composta di sette membri fra cui il direttore della scuola che la presiede.  
+Art. 273. - Il consiglio di amministrazione, su proposta della direzione della scuola, stabilisce di anno in anno l'ammontare dei contributi.  
+Le tasse e sopratasse annuali che gli iscritti sono tenuti a versare sono le seguenti:  
+  
+tassa di immatricolazione. . . . . . . . . . . . . . . . . . L. 5.000 tassa iscrizione studenti in corso. . . . . . . . . . . . . L. 18.000 sopratassa esami . . . . . . . . . . . . . . . . . . . . . . L. 7.000 tassa di diploma . . . . . . . . . . . . . . . . . . . . . . L. 6.000   
+Art. 274. - Il funzionamento della scuola e' a carico del bilancio della facolta' di magistero.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 5 settembre 1980
+### Dato a Roma, addi' 31 ottobre 1975
 
-PERTINI SARTI
+LEONE MALFATTI
 
-Visto, il Guardasigilli: MORLINO
+Visto, il Guardasigilli: BONIFACIO
 
-Registrato alla Corte dei conti, addi' 19 dicembre 1980
+Registrato alla Corte dei conti, addi' 30 marzo 1976
 
-Registro n. 120 Istruzione, foglio n. 160
+Atti di Governo, registro n. 4, foglio n. 52

@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1979 n. 802
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 03 agosto 1970 n. 708
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1979 n. 802
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 03 agosto 1970 n. 708
+=============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Napoli.
 ------------------------------------------------------------------
@@ -10,7 +10,7 @@ Modificazioni allo statuto dell'Universita' degli studi di Napoli.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' di Napoli, approvato con [regio decreto 20 aprile 1939, n. 1162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1162), e modificato con [regio decreto 26 ottobre 1940, n. 1904](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;1904), e successive modificazioni;
+Veduto lo statuto dell'Universita' degli studi di Napoli, approvato con [regio decreto 20 aprile 1939, n. 1162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1162) e modificato con [regio decreto 26 ottobre 1940, n. 1904](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;1904), e successive modificazioni;
 
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
@@ -22,108 +22,478 @@ Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?u
 
 Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;
 
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Napoli e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
 
 Sentito il parere del Consiglio superiore della pubblica istruzione;
 
-Sulla proposta del Ministro della pubblica istruzione;
+Sulla proposta del Ministro per la pubblica istruzione;
 
 Decreta:
---------
 
-Lo statuto dell'Universita' di Napoli e modificato come appresso:
+Lo statuto dell'Universita' degli studi di Napoli, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+
+Art. 90. - All'elenco degli insegnamenti complementari del corso di laurea in lettere sono aggiunti i seguenti:
+
+Storia economica;
+
+Storia dei partiti e dei movimenti politici;
+
+Storia dei movimenti e delle organizzazioni sindacali;
+
+Storia della sociologia;
+
+Storia della storiografia;
+
+Storia delle istituzioni parlamentari;
+
+Storia e istituzioni del Mezzogiorno d'Italia nel medioevo e nella eta' moderna;
+
+Storia della Chiesa;
+
+Storia della critica letteraria;
+
+Filologia dantesca;
+
+Critica del testo;
+
+Sociologia della letteratura;
+
+Linguistica francese;
+
+Linguistica tedesca;
+
+Filologia ibero-romanza;
+
+Letterature latino-americane;
+
+Storia della lingua greca;
+
+Filologia micenea;
+
+Papirologia ercolanese;
+
+Sociologia generale;
+
+Storia della filosofia antica;
+
+Religioni del mondo classico;
+
+Storia della psicologia;
+
+Storia della tecnica;
+
+Esegesi delle fonti storiche medioevali;
+
+Archeologia medioevale;
+
+Numismatica medioevale e moderna;
+
+Storia dell'arte contemporanea;
+
+Storia dell'arte bizantina;
+
+Storia dell'arte islamica;
+
+Storia dell'arte orientale;
+
+Storia dell'arte precolombiana;
+
+Sociologia dell'arte;
+
+Storia bizantina;
+
+Storia dell'America anglo-sassone;
+
+Storia dell'America latina.
+
+Art. 93. - All'elenco degli insegnamenti complementari del corso di laurea in filosofia sono aggiunti i seguenti:
+
+Storia economica;
+
+Storia dei partiti e dei movimenti politici;
+
+Storia dei movimenti e delle organizzazioni sindacali;
+
+Storia della sociologia;
+
+Storia della storiografia;
+
+Storia delle istituzioni parlamentari;
+
+Storia e istituzioni del Mezzogiorno d'Italia nel medioevo e nell'eta' moderna;
+
+Storia della Chiesa;
+
+Sociologia generale;
+
+Psicologia dinamica;
+
+Metodologia generale e speciale della ricerca psicologica;
+
+Psicologia differenziale;
+
+Storia della psicologia;
+
+Storia della tecnica;
+
+Sociologia dell'arte.
+
+Art. 98. - All'elenco degli insegnamenti complementari del corso di laurea in lingue e letterature straniere moderne (indirizzo europeo) sono aggiunti i seguenti:
+
+Storia economica;
+
+Storia dei partiti e dei movimenti politici;
+
+Storia dei movimenti e delle organizzazioni sindacali;
+
+Storia della sociologia;
+
+Storia della critica letteraria;
+
+Storia della storiografia;
+
+Critica del testo;
+
+Sociologia della letteratura;
+
+Linguistica francese;
+
+Linguistica tedesca;
+
+Filologia ibero-romanza;
+
+Letterature latino-americane;
+
+Sociologia generale;
+
+Storia della tecnica;
+
+Storia dell'arte contemporanea;
+
+Storia dell'arte precolombiana;
+
+Sociologia dell'arte;
+
+Storia dell'America anglo-sassone;
+
+Storia dell'America latina.
+
+Art. 102. - All'elenco degli istituti annessi alla facolta' di lettere e filosofia e' aggiunto il seguente:
+
+Istituto di studi storico-religiosi.
+
+Art. 132. - All'elenco degli insegnamenti complementari del corso di laurea in chimica per tutti e due gli indirizzi organico-biologico ed inorganico-chimico-fisico e' aggiunto quello di:
+
+Spettroscopia interpretativa organica.
+
+Art. 133, relativo agli esami di laurea in chimica e' modificato nel senso che il quinto, sesto e settimo comma sono abrogati e sostituiti dal seguente:
+
+"L'esame di laurea in chimica consta:
+
+a) della discussione di una dissertazione scritta, o sperimentale o avente comunque carattere di elaborazione autonoma, svolta personalmente dallo studente o da un gruppo di studenti non superiore a cinque, la discussione e' comunque individuale;
+
+b) di una prova pratica, con eventuale discussione di essa".
+
+Art. 136, relativo agli esami di laurea in chimica industriale e' modificato nel senso che il sesto, settimo e ottavo comma sono abrogati e sostituiti dal seguente:
+
+"L'esame di laurea in chimica industriale consta:
+
+a) della discussione di una dissertazione scritta, o sperimentale o avente comunque carattere di elaborazione autonoma, svolta personalmente dallo studente o da un gruppo di studenti non superiore a cinque; la discussione e' comunque individuale;
+
+b) di una prova pratica, con eventuale discussione di essa".
+
+Art. 139, relativo agli indirizzi del secondo biennio per la laurea in fisica e' modificato nel senso che all'elenco C) corsi per l'indirizzo didattico e' aggiunto il seguente:
+
+Storia della fisica.
+
+Art. 140. - Il punto b) per l'indirizzo didattico, le parole "due corsi" sono sostituite da "un corso".
+
+Art. 143, relativo agli esami di laurea in fisica e' modificato nel senso che il secondo comma e' abrogato e sostituito dal seguente:
+
+L'esame di laurea in fisica consta:
+
+a) della discussione di una dissertazione scritta, o sperimentale o avente comunque carattere di elaborazione autonoma, svolta personalmente dallo studente o da un gruppo di studenti non superiore a cinque; la discussione e' comunque individuale;
+
+b) dell'esposizione e discussione di un argomento orale, scelto dal candidato in una materia diversa da quella su cui verte la dissertazione scritta, di cui al precedente punto a).
+
+Art. 146. - All'elenco degli insegnamenti complementari del corso di laurea in matematica per l'indirizzo generale, sono aggiunti quelli di:
+
+Complementi di fisica generale;
+
+Preparazione di esperienze didattiche;
+
+Astrodinamica.
+
+Art. 147. - All'elenco degli insegnamenti complementari per il corso di laurea in matematica per l'indirizzo didattico sono aggiunti quelli di:
+
+Astrodinamica;
+
+Geometria algebrica.
+
+Art. 148. - All'elenco degli insegnamenti complementari del corso di laurea in matematica per l'indirizzo applicativo, nei due orientamenti numerico e meccanico sono aggiunti quelli di:
+
+Complementi di fisica generale;
+
+Preparazione di esperienze didattiche;
+
+Astrodinamica.
+
+Art. 150, relativo agli esami di laurea in matematica e' modificato nel senso che il secondo comma e' abrogato e sostituito dal seguente:
+
+"L'esame di laurea in matematica consta:
+
+a) della discussione di una dissertazione scritta, o sperimentale o avente comunque carattere di elaborazione autonoma, svolta personalmente dallo studente o da un gruppo di studenti non superiore a cinque; la discussione e' comunque individuale;
+
+b) dell'esposizione e discussione di un argomento orale, scelto dal candidato in una materia diversa da quella su cui verte la dissertazione scritta, di cui al precedente punto a)".
+
+Art. 152. - All'elenco degli insegnamenti complementari del corso di laurea in scienze naturali sono aggiunti quelli di:
+
+Geomorfologia;
+
+Paleobiogeografia ed elementi di paleoecologia;
+
+Fisica del vulcanismo.
+
+Art. 153, relativo alle propedeuticita' degli esami del corso di laurea in scienze naturali e' abrogato e sostituito dal seguente:
+
+"Gli esami di istituzioni di matematiche, di fisica e di chimica generale ed inorganica sono propedeutici rispetto a tutti gli altri esami previsti dal piano di studio".
+
+Art. 154, relativo agli esami di laurea in scienze naturali e' modificato nel senso che il secondo comma e' abrogato e sostituito dal seguente:
+
+"L'esame di laurea in scienze naturali consta:
+
+a) della discussione di una dissertazione scritta, o sperimentale o avente comunque carattere di elaborazione autonoma, svolta personalmente dallo studente o da un gruppo di studenti non superiore a cinque; la discussione e' comunque individuale;
+
+b) dell'esposizione e discussione di un argomento orale; scelto dal candidato in una materia diversa da quella su cui verte la dissertazione scritta, di cui al precedente punto a)".
+
+Art. 156. - All'elenco degli insegnamenti complementari del corso di laurea in scienze biologiche sono aggiunti quelli di:
+
+Farmacologia;
+
+Biochimica comparata;
+
+Neurochimica;
+
+Citologia ed istologia patologica;
+
+Neurologia comparata.
+
+Nello stesso articolo l'ultimo comma e' abrogato e sostituito dal seguente:
+
+"Gli esami di istituzioni di matematiche, di fisica e di chimica generale ed inorganica sono propedeutici rispetto a tutti gli altri esami previsti dal piano di studio".
+
+Art. 157, relativo agli esami di laurea in scienze biologiche e' abrogato e sostituito dal seguente:
+
+"L'esame di laurea in scienze biologiche consta:
+
+a) della discussione di una dissertazione scritta, o sperimentale o avente comunque carattere di elaborazione autonoma, svolta personalmente dallo studente o da un gruppo di studenti non superiore a cinque; la discussione e' comunque individuale;
+
+b) dell'esposizione e discussione di un argomento orale, scelto dal candidato in una materia diversa da quella su cui verte la dissertazione scritta, di cui al precedente punto a)".
+
+Art. 159. - All'elenco degli insegnamenti complementari del corso di laurea in scienze geologiche sono aggiunti quelli di:
+
+Geomorfologia;
+
+Esercitazioni di geologia;
+
+Geochimica applicata;
+
+Paleobiogeografia ed elementi di paleoecologia;
+
+Geofisica nucleare.
+
+Art. 161, relativo agli esami di laurea in scienze geologiche e' modificato nel senso che il secondo e terzo comma sono abrogati e sostituiti dal seguente:
+
+"L'esame di laurea in scienze geologiche consta:
+
+a) della discussione di una dissertazione scritta, o sperimentale o avente comunque carattere di elaborazione autonoma, svolta personalmente dallo studente o da un gruppo di studenti non superiore a cinque; la discussione e' comunque individuale;
+
+b) di una prova pratica, con eventuale discussione di essa".
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 3 agosto 1970
+
+SARAGAT
+
+MISASI
+
+Visto, il Guardasigilli: REALE
+
+Registrato
+----------
+
+alla Corte dei conti, addi' 29 settembre 1970 Atti del Governo, registro n. 237, foglio n. 128. - CARUSO
 
 Art. 1
 ------
 
+ IL PRESIDENTE DELLA REPUBBLICA   
   
-L'art. 187 e' sostituito dal seguente:  
-"La facolta' di farmacia rilascia la laurea in farmacia e la laurea in chimica e tecnologia farmaceutiche".  
-
-Art. 2
-------
-
+Veduto lo statuto dell'Universita' degli studi di Napoli, approvato con [regio decreto 20 aprile 1939, n. 1162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1162) e modificato con [regio decreto 26 ottobre 1940, n. 1904](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;1904), e successive modificazioni;   
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);   
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;   
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;   
+Sentito il parere del Consiglio superiore della pubblica istruzione;   
+Sulla proposta del Ministro per la pubblica istruzione;   
   
+Decreta:   
   
-Dopo l'art. 194, e con lo spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli, relativi alla istituzione del corso di laurea in chimica e tecnologia farmaceutiche:   
+Lo statuto dell'Universita' degli studi di Napoli, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
   
-Laurea in chimica e tecnologia farmaceutiche   
-  
-Art. 195. - La durata del corso degli studi per la laurea in chimica e tecnologia farmaceutiche e' di cinque anni, divisi in un biennio ed un triennio.   
-I titoli di ammissione sono quelli previsti dalle vigenti disposizioni di legge.   
-Art. 196. - Gli insegnamenti per il conseguimento della laurea in chimica e tecnologia farmaceutiche sono i seguenti:   
-  
-FONDAMENTALI   
-  
-Biennio:   
-1) analisi chimico-farmaceutica I (analisi qualitativa);   
-\* 2) anatomia umana;   
-\* 3) botanica farmaceutica;   
-\* 4) chimica fisica;   
-5) chimica generale ed inorganica;   
-6) chimica organica I;   
-7) fisica;   
-8) fisiologia generale;   
-\* 9) istituzioni di matematiche;   
-10) microbiologia e igiene.   
-Triennio:   
-11) analisi chimico-farmaceutica II (analisi quantitativa);   
-12) analisi chimico-farmaceutica III (analisi dei medicamenti); \* 13) biochimica applicata;   
-\* 14) chimica biologica;   
-\* 15) chimica degli alimenti;   
-\* 16) chimica farmaceutica applicata;   
-\* 17) chimica farmaceutica e tossicologica I;   
-\* 18) chimica farmaceutica e tossicologica II;   
-19) chimica organica II;   
-\* 20) farmacologia e farmacognosia;   
-21) impianti dell'industria farmaceutica;   
-22) laboratorio di preparazione estrattiva e sintetica dei farmaci;   
-23) metodi fisici in chimica organica;   
-24) saggi e dosaggi farmacologici;   
-\* 25) tecnica e legislazione farmaceutica.   
-  
-INSEGNAMENTI COMPLEMENTARI   
-  
-\* analisi chimica tossicologica;   
-\* fisiologia vegetale;   
-\* biologia e zoologia generale;   
-\* scienza dell'alimentazione;   
-\* idrologia chimica;   
-\* fitofarmacia;   
-\* chimica e tecnologia dei prodotti cosmetici;   
-\* chimica e tecnologia dei prodotti dietetici;   
-\* tossicologia;   
-\* farmacognosia;   
-\* patologia generale;   
-\* chemioterapia;   
-\* farmacologia applicata;   
-\* statistica e biometria;   
-\* chimica delle fermentazioni;   
-\* chimica dei composti eterociclici;   
-\* biologia molecolare;   
-\* enzimologia;   
-\* chimica delle sostanze naturali.   
-Le materie segnate con un asterisco sono comuni alla laurea in farmacia.   
-Art. 197. - Per ottenere l'iscrizione al terzo anno di corso lo studente deve avere seguito i corsi e superati gli esami in tutti gli insegnamenti fissati per i due anni precedenti.   
-Nel biennio, l'esame di istituzioni di matematiche deve precedere quelli di fisica e di chimica fisica. L'esame di chimica generale ed inorganica deve precedere quello di chimica organica I, di analisi chimico-farmaceutica I e di chimica fisica.   
-L'esame di anatomia umana deve precedere quello di fisiologia generale. Nel triennio l'esame di chimica biologica deve precedere quello di biochimica applicata e quello di farmacologia e farmacognosia deve precedere quello di saggi e dosaggi farmacologici.  
-Gli esami di chimica farmaceutica e tossicologica I e II devono precedere quello di chimica farmaceutica applicata e di tecnica e legislazione farmaceutica.   
-L'esame di analisi chimico-farmaceutica II deve precedere quello di analisi chimico-farmaceutica III.   
-Art. 198. - Per essere ammesso all'esame di laurea in chimica e tecnologia farmaceutiche, lo studente deve aver seguito i corsi e superato tutti gli esami dei corsi fondamentali e almeno due esami a scelta tra i corsi complementari.   
-La prova di laurea comporta la discussione di una tesi sperimentale. L'esame di laurea in chimica e tecnologia farmaceutiche consiste nella discussione orale di una dissertazione scritta di natura sperimentale svolta su un argomento concernente una delle materie del corso.   
-Art. 199. - Per essere ammesso a sostenere l'esame di Stato per l'esercizio della professione di farmacista, il laureato in chimica e tecnologia farmaceutiche deve aver compiuto un semestre di pratica professionale presso una farmacia, oppure un trimestre presso una farmacia e un trimestre presso un'industria farmaceutica.   
-Il periodo di pratica professionale dovra' avere inizio dopo il conseguimento del titolo accademico.   
+Art. 90. - All'elenco degli insegnamenti complementari del corso di laurea in lettere sono aggiunti i seguenti:   
+Storia economica;   
+Storia dei partiti e dei movimenti politici;   
+Storia dei movimenti e delle organizzazioni sindacali;   
+Storia della sociologia;   
+Storia della storiografia;   
+Storia delle istituzioni parlamentari;   
+Storia e istituzioni del Mezzogiorno d'Italia nel medioevo e nella eta' moderna;   
+Storia della Chiesa;   
+Storia della critica letteraria;   
+Filologia dantesca;   
+Critica del testo;   
+Sociologia della letteratura;   
+Linguistica francese;   
+Linguistica tedesca;   
+Filologia ibero-romanza;   
+Letterature latino-americane;   
+Storia della lingua greca;   
+Filologia micenea;   
+Papirologia ercolanese;   
+Sociologia generale;   
+Storia della filosofia antica;   
+Religioni del mondo classico;   
+Storia della psicologia;   
+Storia della tecnica;   
+Esegesi delle fonti storiche medioevali;   
+Archeologia medioevale;   
+Numismatica medioevale e moderna;   
+Storia dell'arte contemporanea;   
+Storia dell'arte bizantina;   
+Storia dell'arte islamica;   
+Storia dell'arte orientale;   
+Storia dell'arte precolombiana;   
+Sociologia dell'arte;   
+Storia bizantina;   
+Storia dell'America anglo-sassone;   
+Storia dell'America latina.   
+Art. 93. - All'elenco degli insegnamenti complementari del corso di laurea in filosofia sono aggiunti i seguenti:   
+Storia economica;   
+Storia dei partiti e dei movimenti politici;   
+Storia dei movimenti e delle organizzazioni sindacali;   
+Storia della sociologia;   
+Storia della storiografia;   
+Storia delle istituzioni parlamentari;   
+Storia e istituzioni del Mezzogiorno d'Italia nel medioevo e nell'eta' moderna;   
+Storia della Chiesa;   
+Sociologia generale;   
+Psicologia dinamica;   
+Metodologia generale e speciale della ricerca psicologica;   
+Psicologia differenziale;   
+Storia della psicologia;   
+Storia della tecnica;   
+Sociologia dell'arte.   
+Art. 98. - All'elenco degli insegnamenti complementari del corso di laurea in lingue e letterature straniere moderne (indirizzo europeo) sono aggiunti i seguenti:   
+Storia economica;   
+Storia dei partiti e dei movimenti politici;   
+Storia dei movimenti e delle organizzazioni sindacali;   
+Storia della sociologia;   
+Storia della critica letteraria;   
+Storia della storiografia;   
+Critica del testo;   
+Sociologia della letteratura;   
+Linguistica francese;   
+Linguistica tedesca;   
+Filologia ibero-romanza;   
+Letterature latino-americane;   
+Sociologia generale;   
+Storia della tecnica;   
+Storia dell'arte contemporanea;   
+Storia dell'arte precolombiana;   
+Sociologia dell'arte;   
+Storia dell'America anglo-sassone;   
+Storia dell'America latina.   
+Art. 102. - All'elenco degli istituti annessi alla facolta' di lettere e filosofia e' aggiunto il seguente:   
+Istituto di studi storico-religiosi.   
+Art. 132. - All'elenco degli insegnamenti complementari del corso di laurea in chimica per tutti e due gli indirizzi organico-biologico ed inorganico-chimico-fisico e' aggiunto quello di:   
+Spettroscopia interpretativa organica.   
+Art. 133, relativo agli esami di laurea in chimica e' modificato nel senso che il quinto, sesto e settimo comma sono abrogati e sostituiti dal seguente:   
+"L'esame di laurea in chimica consta:   
+a) della discussione di una dissertazione scritta, o sperimentale o avente comunque carattere di elaborazione autonoma, svolta personalmente dallo studente o da un gruppo di studenti non superiore a cinque, la discussione e' comunque individuale;   
+b) di una prova pratica, con eventuale discussione di essa".   
+Art. 136, relativo agli esami di laurea in chimica industriale e' modificato nel senso che il sesto, settimo e ottavo comma sono abrogati e sostituiti dal seguente:   
+"L'esame di laurea in chimica industriale consta:   
+a) della discussione di una dissertazione scritta, o sperimentale o avente comunque carattere di elaborazione autonoma, svolta personalmente dallo studente o da un gruppo di studenti non superiore a cinque; la discussione e' comunque individuale;   
+b) di una prova pratica, con eventuale discussione di essa".   
+Art. 139, relativo agli indirizzi del secondo biennio per la laurea in fisica e' modificato nel senso che all'elenco C) corsi per l'indirizzo didattico e' aggiunto il seguente:   
+Storia della fisica.   
+Art. 140. - Il punto b) per l'indirizzo didattico, le parole "due corsi" sono sostituite da "un corso".   
+Art. 143, relativo agli esami di laurea in fisica e' modificato nel senso che il secondo comma e' abrogato e sostituito dal seguente:   
+L'esame di laurea in fisica consta:   
+a) della discussione di una dissertazione scritta, o sperimentale o avente comunque carattere di elaborazione autonoma, svolta personalmente dallo studente o da un gruppo di studenti non superiore a cinque; la discussione e' comunque individuale;   
+b) dell'esposizione e discussione di un argomento orale, scelto dal candidato in una materia diversa da quella su cui verte la dissertazione scritta, di cui al precedente punto a).   
+Art. 146. - All'elenco degli insegnamenti complementari del corso di laurea in matematica per l'indirizzo generale, sono aggiunti quelli di:   
+Complementi di fisica generale;   
+Preparazione di esperienze didattiche;   
+Astrodinamica.   
+Art. 147. - All'elenco degli insegnamenti complementari per il corso di laurea in matematica per l'indirizzo didattico sono aggiunti quelli di:   
+Astrodinamica;   
+Geometria algebrica.   
+Art. 148. - All'elenco degli insegnamenti complementari del corso di laurea in matematica per l'indirizzo applicativo, nei due orientamenti numerico e meccanico sono aggiunti quelli di:   
+Complementi di fisica generale;   
+Preparazione di esperienze didattiche;   
+Astrodinamica.   
+Art. 150, relativo agli esami di laurea in matematica e' modificato nel senso che il secondo comma e' abrogato e sostituito dal seguente:   
+"L'esame di laurea in matematica consta:   
+a) della discussione di una dissertazione scritta, o sperimentale o avente comunque carattere di elaborazione autonoma, svolta personalmente dallo studente o da un gruppo di studenti non superiore a cinque; la discussione e' comunque individuale;   
+b) dell'esposizione e discussione di un argomento orale, scelto dal candidato in una materia diversa da quella su cui verte la dissertazione scritta, di cui al precedente punto a)".   
+Art. 152. - All'elenco degli insegnamenti complementari del corso di laurea in scienze naturali sono aggiunti quelli di:   
+Geomorfologia;   
+Paleobiogeografia ed elementi di paleoecologia;   
+Fisica del vulcanismo.   
+Art. 153, relativo alle propedeuticita' degli esami del corso di laurea in scienze naturali e' abrogato e sostituito dal seguente:   
+"Gli esami di istituzioni di matematiche, di fisica e di chimica generale ed inorganica sono propedeutici rispetto a tutti gli altri esami previsti dal piano di studio".   
+Art. 154, relativo agli esami di laurea in scienze naturali e' modificato nel senso che il secondo comma e' abrogato e sostituito dal seguente:   
+"L'esame di laurea in scienze naturali consta:   
+a) della discussione di una dissertazione scritta, o sperimentale o avente comunque carattere di elaborazione autonoma, svolta personalmente dallo studente o da un gruppo di studenti non superiore a cinque; la discussione e' comunque individuale;   
+b) dell'esposizione e discussione di un argomento orale; scelto dal candidato in una materia diversa da quella su cui verte la dissertazione scritta, di cui al precedente punto a)".   
+Art. 156. - All'elenco degli insegnamenti complementari del corso di laurea in scienze biologiche sono aggiunti quelli di:   
+Farmacologia;   
+Biochimica comparata;   
+Neurochimica;   
+Citologia ed istologia patologica;   
+Neurologia comparata.   
+Nello stesso articolo l'ultimo comma e' abrogato e sostituito dal seguente:   
+"Gli esami di istituzioni di matematiche, di fisica e di chimica generale ed inorganica sono propedeutici rispetto a tutti gli altri esami previsti dal piano di studio".   
+Art. 157, relativo agli esami di laurea in scienze biologiche e' abrogato e sostituito dal seguente:   
+"L'esame di laurea in scienze biologiche consta:   
+a) della discussione di una dissertazione scritta, o sperimentale o avente comunque carattere di elaborazione autonoma, svolta personalmente dallo studente o da un gruppo di studenti non superiore a cinque; la discussione e' comunque individuale;   
+b) dell'esposizione e discussione di un argomento orale, scelto dal candidato in una materia diversa da quella su cui verte la dissertazione scritta, di cui al precedente punto a)".   
+Art. 159. - All'elenco degli insegnamenti complementari del corso di laurea in scienze geologiche sono aggiunti quelli di:   
+Geomorfologia;   
+Esercitazioni di geologia;   
+Geochimica applicata;   
+Paleobiogeografia ed elementi di paleoecologia;   
+Geofisica nucleare.   
+Art. 161, relativo agli esami di laurea in scienze geologiche e' modificato nel senso che il secondo e terzo comma sono abrogati e sostituiti dal seguente:   
+"L'esame di laurea in scienze geologiche consta:   
+a) della discussione di una dissertazione scritta, o sperimentale o avente comunque carattere di elaborazione autonoma, svolta personalmente dallo studente o da un gruppo di studenti non superiore a cinque; la discussione e' comunque individuale;   
+b) di una prova pratica, con eventuale discussione di essa".   
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 31 ottobre 1979
+### Dato a Roma, addi' 3 agosto 1970
 
-PERTINI VALITUTTI
+SARAGAT MISASI
 
-Visto, il Guardasigilli: MORLINO
+Visto, il Guardasigilli: REALE
 
-Registrato alla Corte dei conti, addi' 28 febbraio 1980
+Registrato alla Corte dei conti, addi' 29 settembre 1970
 
-Registro n. 16 Istruzione, foglio n. 253
+Atti del Governo, registro n. 237, foglio n. 128. - CARUSO

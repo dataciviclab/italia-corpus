@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 settembre 1981 n. 1158
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 ottobre 1970 n. 849
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 settembre 1981 n. 1158
-=================================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 ottobre 1970 n. 849
+==============================================================
 
 Modificazioni allo statuto dell'Istituto universitario di magistero "Maria SS. Assunta" di Roma.
 ------------------------------------------------------------------------------------------------
@@ -10,25 +10,25 @@ Modificazioni allo statuto dell'Istituto universitario di magistero "Maria SS. A
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Istituto universitario di magistero "Maria SS. Assunta" di Roma, approvato con [regio decreto 26 ottobre 1939, n. 1760](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-26;1760) e modificato con [decreto del Presidente della Repubblica 20 maggio 1958, n. 648](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1958-05-20;648), e successive modificazioni;
+Veduto lo statuto dell'Istituto universitario di magistero "Maria SS. Assunta" di Roma, approvato con regio decreto 26 ottobre 1939, n.
+
+1760, e modificato con [decreto del Presidente della Repubblica 20 maggio 1958, n. 648](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1958-05-20;648), e successive modificazioni;
 
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
 
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modifiche;
-
-Veduto il [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
 
 Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
 
-Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'istituto universitario di magistero anzidetto;
 
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Istituto universitario di magistero "Maria SS. Assunta" di Roma e convalidati dal Consiglio universitario nazionale nel suo parere;
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
 
-Sentito il parere del Consiglio universitario nazionale;
+Sentito il parere del Consiglio superiore della pubblica istruzione;
 
-Sulla proposta del Ministro della pubblica istruzione di concerto con il Ministro del tesoro;
+Sulla proposta del Ministro per la pubblica istruzione;
 
 Decreta:
 
@@ -36,315 +36,187 @@ Lo statuto dell'istituto universitario di magistero "Maria SS.
 
 Assunta" di Roma, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
-Titolo I
+Art. 17. - All'elenco degli insegnamenti complementari del corso di laurea in materie letterarie sono aggiunti i seguenti:
 
-Costituzione dell'Istituto
+Biblioteconomia e bibliografia;
 
-All'art. 4 viene aggiunto il seguente nuovo comma:
+Didattica;
 
-A seguito del disposto del [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382), il magistero "Maria SS. Assunta" adegua i propri organici al citato decreto del Presidente della Repubblica attuando accanto al ruolo dei professori ordinari, il ruolo dei professori associati e quello dei ricercatori, secondo le tabelle annesse.
+Estetica;
 
-Art. 9, lettera c), l'espressione "mediante incarichi" viene cosi' modificata: "... mediante affidamenti, supplenze a norma dell'art. 9, ultimo comma, del [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382), o contratti di diritto privato";
+Filosofia morale;
 
-Art. 13, viene cosi' modificato:
+Letteratura cristiana antica;
 
-Il consiglio direttivo si compone dei membri previsti dalle disposizioni di legge.
+Civilta' greca;
 
-Art. 14, lettera a), l'espressione "mediante incarico" viene cosi' modificata: "... mediante affidamenti, supplenze a norma dell'art. 9, ultimo comma, del [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382), o contratti di diritto privato"; alla lettera b), dopo l'espressione "professori di ruolo" si aggiunge "... in merito al conferimento degli affidamenti, supplenze a norma dell'art. 9, ultimo comma, del [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382), o contratti di diritto privato".
+Psicologia dell'eta' evolutiva;
 
-Titolo III
+Sociologia;
 
-Ordinamento degli studi
+Storia contemporanea;
 
-Art. 17 - all'elenco degli insegnamenti complementari del corso di laurea in materie letterarie sono aggiunti seguenti:
+Storia della Chiesa;
 
-ermeneutica filosofica;
+Storia della filosofia contemporanea;
 
-filologia slava;
+Storia della filosofia medioevale;
 
-filosofia dell'educazione;
+Storia della grammatica e della lingua italiana;
 
-filosofia della scienza;
+Storia della letteratura italiana moderna e contemporanea.
 
-filosofia della storia;
+Art. 18. - All'elenco degli insegnamenti complementari del corso di laurea in pedagogia sono aggiunti i seguenti:
 
-letteratura ispano-americana;
+Biblioteconomia e bibliografia;
 
-lingua e letteratura greca;
+Didattica;
 
-lingua e letteratura polacca;
+Estetica;
 
-linguistica generale;
+Filosofia morale;
 
-storia del cristianesimo;
+Letteratura cristiana antica;
 
-storia della musica;
+Civilta' greca;
 
-storia delle dottrine politiche;
+Psicologia dell'eta' evolutiva;
 
-storia del teatro e dello spettacolo;
+Sociologia;
 
-storia greca.
+Storia contemporanea;
 
-Art. 18 - all'elenco degli insegnamenti complementari del corso di laurea in pedagogia sono aggiunti i seguenti:
+Storia della Chiesa;
 
-ermeneutica filosofica;
+Storia della filosofia contemporanea;
 
-filosofia dell'educazione;
+Storia della filosofia medioevale;
 
-filosofia del linguaggio;
+Storia della grammatica e della lingua italiana;
 
-filosofia della religione;
+Storia della letteratura italiana moderna e contemporanea.
 
-filosofia della scienza;
+Art. 19. - All'elenco degli insegnamenti complementari del corso di laurea in lingue e letterature straniere sono aggiunti i seguenti:
 
-filosofia della storia;
+Biblioteconomia e bibliografia;
 
-pedagogia comparata;
+Didattica;
 
-pedagogia sociale;
+Estetica;
 
-pedagogia speciale;
+Filosofia morale;
 
-pedagogia sperimentale;
+Letteratura cristiana antica;
 
-psicologia scolastica;
+Civilta' greca;
 
-psicopedagogia;
+Psicologia dell'eta' evolutiva;
 
-storia del cristianesimo;
+Sociologia;
 
-storia delle dottrine politiche;
+Storia contemporanea;
 
-storia della filosofia antica;
+Storia della Chiesa;
 
-storia del teatro e dello spettacolo.
+Storia della filosofia contemporanea;
 
-Art. 19 - all'elenco degli insegnamenti complementari del corso di laurea in lingue e letterature straniere sono aggiunti i seguenti:
+Storia della filosofia medioevale;
 
-ermeneutica filosofica;
+Storia della grammatica e della lingua italiana;
 
-filologia slava;
-
-filosofia della storia;
-
-filosofia del linguaggio;
-
-letteratura ispano-americana;
-
-lingua e letteratura araba;
-
-lingua e letteratura polacca;
-
-lingua e letteratura portoghese;
-
-linguistica applicata;
-
-linguistica generale;
-
-storia del cristianesimo;
-
-storia delle dottrine politiche;
-
-storia del teatro e dello spettacolo.
-
-Art. 24 - viene cosi modificato: L'insegnamento e' impartito da professori di ruolo e da professori a contratto.
-
-Art. 25 - viene cosi' modificato: Per l'assunzione, lo stato giuridico ed il trattamento economico dei professori di ruolo e dei ricercatori saranno osservate, in quanto applicabili, le norme legislative e regolamentari vigenti in materia per i professori di ruolo e per i ricercatori delle Universita' dello Stato. La nomina viene fatta dal consiglio di amministrazione.
-
-Art. 27 - viene cosi modificato: " Il conferimento delle supplenze a norma dell'art. 9, ultimo comma, del [decreto del Presidente della Repubblica n. 382/80](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980;382) e la stipula di contratti di diritto privato sono deliberati dal consiglio di amministrazione su proposta del consiglio direttivo. In ogni caso dovranno essere osservate le disposizioni contenute nel [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382) "·
-
-Art. 28 - dopo l'espressione " ai professori di ruolo " e' aggiunta l'espressione " e ai ricercatori " e dopo l'espressione " per i professori di ruolo " e' aggiunta l'espressione " e per i ricercatori " a norma dell'art. 9, ultimo comma, del [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382).
-
-Art. 29 - dopo l'espressione " ai professori di ruolo " e' aggiunta l'espressione " e ai ricercatori "·
-
-Art. 30 - viene soppresso.
-
-Art. 32 - viene cosi' modificato: I posti di lettore di lingua madre sono determinati in base all'[art. 28 del decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382~art28).
-
-Art. 33 - viene cosi' modificato: Per l'assunzione, lo stato giuridico e il trattamento economico dei lettori saranno osservate, in quanto applicabili, le norme legislative e regolamentari, vigenti in materia per i lettori delle Universita' dello Stato.
-
-II testo dell'art. 48 - titolo VIII, e' trasferito al titolo IV e prende il numero di art. 44.
-
-L'art. 44 e' sostituito con i due nuovi seguenti articoli che prendono la numerazione di articoli 45 e 46.
-
-Art. 45. - L'ufficio di segreteria e' costituito da una segretaria capo, da una o piu' impiegate, secondo le esigenze dell'ufficio.
-
-Art. 46. - L'ufficio di economato e cassa e' costituito da una economa capo, da una o piu' impiegate, secondo le esigenze dell'ufficio.
-
-L'art: 50 prende la numerazione di art. 47 e viene cosi' modificato:
-
-Art. 47. - L'istituto ha una propria biblioteca. Al servizio della biblioteca universitaria provvedono un direttore di biblioteca, una o piu' impiegate e il personale d'ordine necessario.
-
-Il funzionamento di essa sara' disciplinato dal consiglio direttivo con apposito regolamento interno.
-
-L'art. 45 prende la numerazione di art. 48 e viene cosi' modificato:
-
-Art. 48. - Le retribuzioni e le previdenze del personale non docente sono fissate dal consiglio di amministrazione in misura non superiore e comunque secondo quanto previsto per le corrispondenti categorie di personale statale.
-
-L'art. 46 assume il numero di art. 49.
-
-L'art. 47 del titolo VII e' trasferito al titolo VIII ed assume il numero di art. 50.
-
-L'art. 49 del titolo VIII viene soppresso.
-
-Tabella n. 1 (Art. 4):
-
-Posti di ruolo di professori:
-
-professori ordinari n. 8;
-
-professori associati n. 12.
-
-Tabella n. 2 (Art. 4):
-
-Posti di ruolo dei ricercatori:
-
-ricercatori n. 10.
+Storia della letteratura italiana moderna e contemporanea.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 
-Dato a Roma, addi' 22 settembre 1981
+Dato a Roma, addi' 14 ottobre 1970
 
-PERTINI
+SARAGAT
 
-BODRATO - ANDREATTA
+MISASI
 
-Visto, il Guardasigilli: DARIDA
+Visto, il Guardasigilli: REALE
 
 Registrato
 ----------
 
-alla Corte dei conti, addi' 20 luglio 1982 Registro n. 92 Istruzione, foglio n. 318
+alla Corte dei conti, addi' 18 novembre 1970 Atti del Governo, registro n. 238, foglio n. 81. - CARUSO
 
-CAPO I Titolo I COSTITUZIONE DELL'ISTITUTO
-------------------------------------------
-
-### Art. 1
+Art. 1
+------
 
  IL PRESIDENTE DELLA REPUBBLICA   
   
-  
-Veduto lo statuto dell'Istituto universitario di magistero "Maria SS. Assunta" di Roma, approvato con [regio decreto 26 ottobre 1939, n. 1760](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-26;1760) e modificato con [decreto del Presidente della Repubblica 20 maggio 1958, n. 648](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1958-05-20;648), e successive modificazioni;   
+Veduto lo statuto dell'Istituto universitario di magistero "Maria SS. Assunta" di Roma, approvato con [regio decreto 26 ottobre 1939, n.   
+1760](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-26;1760), e modificato con [decreto del Presidente della Repubblica 20 maggio 1958, n. 648](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1958-05-20;648), e successive modificazioni;   
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modifiche;   
-Veduto il [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);   
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
 Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);   
-Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;   
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Istituto universitario di magistero "Maria SS. Assunta" di Roma e convalidati dal Consiglio universitario nazionale nel suo parere;   
-Sentito il parere del Consiglio universitario nazionale;   
-Sulla proposta del Ministro della pubblica istruzione di concerto con il Ministro del tesoro;   
-  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'istituto universitario di magistero anzidetto;   
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;   
+Sentito il parere del Consiglio superiore della pubblica istruzione;   
+Sulla proposta del Ministro per la pubblica istruzione;   
   
 Decreta:   
   
-  
 Lo statuto dell'istituto universitario di magistero "Maria SS.  
 Assunta" di Roma, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
+Art. 17. - All'elenco degli insegnamenti complementari del corso di laurea in materie letterarie sono aggiunti i seguenti:   
+Biblioteconomia e bibliografia;   
+Didattica;   
+Estetica;   
+Filosofia morale;   
+Letteratura cristiana antica;   
+Civilta' greca;   
+Psicologia dell'eta' evolutiva;   
+Sociologia;   
+Storia contemporanea;   
+Storia della Chiesa;   
+Storia della filosofia contemporanea;   
+Storia della filosofia medioevale;   
+Storia della grammatica e della lingua italiana;   
+Storia della letteratura italiana moderna e contemporanea.   
+Art. 18. - All'elenco degli insegnamenti complementari del corso di laurea in pedagogia sono aggiunti i seguenti:   
+Biblioteconomia e bibliografia;   
+Didattica;   
+Estetica;   
+Filosofia morale;   
+Letteratura cristiana antica;   
+Civilta' greca;   
+Psicologia dell'eta' evolutiva;   
+Sociologia;   
+Storia contemporanea;   
+Storia della Chiesa;   
+Storia della filosofia contemporanea;   
+Storia della filosofia medioevale;   
+Storia della grammatica e della lingua italiana;   
+Storia della letteratura italiana moderna e contemporanea.   
+Art. 19. - All'elenco degli insegnamenti complementari del corso di laurea in lingue e letterature straniere sono aggiunti i seguenti:   
+Biblioteconomia e bibliografia;   
+Didattica;   
+Estetica;   
+Filosofia morale;   
+Letteratura cristiana antica;   
+Civilta' greca;   
+Psicologia dell'eta' evolutiva;   
+Sociologia;   
+Storia contemporanea;   
+Storia della Chiesa;   
+Storia della filosofia contemporanea;   
+Storia della filosofia medioevale;   
+Storia della grammatica e della lingua italiana;   
+Storia della letteratura italiana moderna e contemporanea.   
   
-  
-  
-Titolo I   
-Costituzione dell'Istituto   
-  
-  
-All'art. 4 viene aggiunto il seguente nuovo comma:   
-A seguito del disposto del [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382), il magistero "Maria SS. Assunta" adegua i propri organici al citato decreto del Presidente della Repubblica attuando accanto al ruolo dei professori ordinari, il ruolo dei professori associati e quello dei ricercatori, secondo le tabelle annesse.   
-Art. 9, lettera c), l'espressione "mediante incarichi" viene cosi' modificata: "... mediante affidamenti, supplenze a norma dell'art. 9, ultimo comma, del [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382), o contratti di diritto privato";   
-Art. 13, viene cosi' modificato:   
-Il consiglio direttivo si compone dei membri previsti dalle disposizioni di legge.   
-Art. 14, lettera a), l'espressione "mediante incarico" viene cosi' modificata: "... mediante affidamenti, supplenze a norma dell'art. 9, ultimo comma, del [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382), o contratti di diritto privato"; alla lettera b), dopo l'espressione "professori di ruolo" si aggiunge "... in merito al conferimento degli affidamenti, supplenze a norma dell'art. 9, ultimo comma, del [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382), o contratti di diritto privato".   
-  
-  
-Titolo III   
-Ordinamento degli studi   
-  
-  
-  
-Art. 17 - all'elenco degli insegnamenti complementari del corso di laurea in materie letterarie sono aggiunti seguenti:   
-ermeneutica filosofica;   
-filologia slava;   
-filosofia dell'educazione;   
-filosofia della scienza;   
-filosofia della storia;   
-letteratura ispano-americana;   
-lingua e letteratura greca;   
-lingua e letteratura polacca;   
-linguistica generale;   
-storia del cristianesimo;   
-storia della musica;   
-storia delle dottrine politiche;   
-storia del teatro e dello spettacolo;   
-storia greca.   
-Art. 18 - all'elenco degli insegnamenti complementari del corso di laurea in pedagogia sono aggiunti i seguenti:   
-ermeneutica filosofica;   
-filosofia dell'educazione;   
-filosofia del linguaggio;   
-filosofia della religione;   
-filosofia della scienza;   
-filosofia della storia;   
-pedagogia comparata;   
-pedagogia sociale;   
-pedagogia speciale;   
-pedagogia sperimentale;   
-psicologia scolastica;   
-psicopedagogia;   
-storia del cristianesimo;   
-storia delle dottrine politiche;   
-storia della filosofia antica;   
-storia del teatro e dello spettacolo.   
-Art. 19 - all'elenco degli insegnamenti complementari del corso di laurea in lingue e letterature straniere sono aggiunti i seguenti:   
-ermeneutica filosofica;   
-filologia slava;   
-filosofia della storia;   
-filosofia del linguaggio;   
-letteratura ispano-americana;   
-lingua e letteratura araba;   
-lingua e letteratura polacca;   
-lingua e letteratura portoghese;   
-linguistica applicata;   
-linguistica generale;   
-storia del cristianesimo;   
-storia delle dottrine politiche;   
-storia del teatro e dello spettacolo.   
-Art. 24 - viene cosi modificato: L'insegnamento e' impartito da professori di ruolo e da professori a contratto.   
-Art. 25 - viene cosi' modificato: Per l'assunzione, lo stato giuridico ed il trattamento economico dei professori di ruolo e dei ricercatori saranno osservate, in quanto applicabili, le norme legislative e regolamentari vigenti in materia per i professori di ruolo e per i ricercatori delle Universita' dello Stato. La nomina viene fatta dal consiglio di amministrazione.   
-Art. 27 - viene cosi modificato: " Il conferimento delle supplenze a norma dell'art. 9, ultimo comma, del [decreto del Presidente della Repubblica n. 382/80](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980;382) e la stipula di contratti di diritto privato sono deliberati dal consiglio di amministrazione su proposta del consiglio direttivo. In ogni caso dovranno essere osservate le disposizioni contenute nel [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382) "·   
-Art. 28 - dopo l'espressione " ai professori di ruolo " e' aggiunta l'espressione " e ai ricercatori " e dopo l'espressione " per i professori di ruolo " e' aggiunta l'espressione " e per i ricercatori " a norma dell'art. 9, ultimo comma, del [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382).   
-Art. 29 - dopo l'espressione " ai professori di ruolo " e' aggiunta l'espressione " e ai ricercatori "·   
-Art. 30 - viene soppresso.   
-Art. 32 - viene cosi' modificato: I posti di lettore di lingua madre sono determinati in base all'[art. 28 del decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382~art28).   
-Art. 33 - viene cosi' modificato: Per l'assunzione, lo stato giuridico e il trattamento economico dei lettori saranno osservate, in quanto applicabili, le norme legislative e regolamentari, vigenti in materia per i lettori delle Universita' dello Stato.   
-II testo dell'art. 48 - titolo VIII, e' trasferito al titolo IV e prende il numero di art. 44.   
-L'art. 44 e' sostituito con i due nuovi seguenti articoli che prendono la numerazione di articoli 45 e 46.   
-Art. 45. - L'ufficio di segreteria e' costituito da una segretaria capo, da una o piu' impiegate, secondo le esigenze dell'ufficio.   
-Art. 46. - L'ufficio di economato e cassa e' costituito da una economa capo, da una o piu' impiegate, secondo le esigenze dell'ufficio.   
-L'art: 50 prende la numerazione di art. 47 e viene cosi' modificato:   
-Art. 47. - L'istituto ha una propria biblioteca. Al servizio della biblioteca universitaria provvedono un direttore di biblioteca, una o piu' impiegate e il personale d'ordine necessario.   
-Il funzionamento di essa sara' disciplinato dal consiglio direttivo con apposito regolamento interno.   
-L'art. 45 prende la numerazione di art. 48 e viene cosi' modificato:   
-Art. 48. - Le retribuzioni e le previdenze del personale non docente sono fissate dal consiglio di amministrazione in misura non superiore e comunque secondo quanto previsto per le corrispondenti categorie di personale statale.   
-L'art. 46 assume il numero di art. 49.   
-L'art. 47 del titolo VII e' trasferito al titolo VIII ed assume il numero di art. 50.   
-L'art. 49 del titolo VIII viene soppresso.   
-Tabella n. 1 (Art. 4):   
-Posti di ruolo di professori:   
-professori ordinari n. 8;   
-professori associati n. 12.   
-Tabella n. 2 (Art. 4):   
-Posti di ruolo dei ricercatori:   
-ricercatori n. 10.   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 22 settembre 1981
+### Dato a Roma, addi' 14 ottobre 1970
 
-PERTINI BODRATO - ANDREATTA
+SARAGAT MISASI
 
-Visto, il Guardasigilli: DARIDA
+Visto, il Guardasigilli: REALE
 
-Registrato alla Corte dei conti, addi' 20 luglio 1982
+Registrato alla Corte dei conti, addi' 18 novembre 1970
 
-Registro n. 92 Istruzione, foglio n. 318
+Atti del Governo, registro n. 238, foglio n. 81. - CARUSO

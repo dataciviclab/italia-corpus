@@ -1,121 +1,166 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 06 giugno 1981 n. 841
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 ottobre 1972 n. 767
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 06 giugno 1981 n. 841
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 ottobre 1972 n. 767
+==============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Napoli.
 ------------------------------------------------------------------
 
-IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
-
-Veduto lo statuto dell'Universita' di Napoli, approvato con [regio decreto 20 aprile 1939, n. 1162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1162) e modificato con [regio decreto 26 ottobre 1940, n. 1904](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;1904), e successive modificazioni;
-
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
-
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
-
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
-
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
-
-Veduta la [legge 21 febbraio 1980, n. 28](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1980-02-21;28);
-
-Veduto il [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
-
-Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
-
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Napoli e convalidati dal Consiglio universitario nazionale nel suo parere;
-
-Sentito il parere del Consiglio universitario nazionale;
-
-Veduta la necessita' di adeguare la norma sulla direzione delle scuole di perfezionamento, di specializzazione e delle scuole dirette a fini speciali a quanto disposto dall'art. 16 del citato [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
-
-Sulla proposta del Ministro della pubblica istruzione;
-
-Decreta:
---------
-
-Lo statuto dell'Universita' degli studi di Napoli, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
-
 Art. 1
 ------
 
+ IL PRESIDENTE DELLA REPUBBLICA  
   
-Gli articoli 42, 43, 44, 45, 46, 47, 48, 49 e 50 relativi al "seminario di studi per la protezione e la sicurezza sociali" sono soppressi.  
-
-Art. 2
-------
-
+Veduto lo statuto dell'Universita' degli studi di Napoli, approvato con [regio decreto 20 aprile 1939, n. 1162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1162) e modificato con [regio decreto 26 ottobre 1960, n. 1904](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1960-10-26;1904) e successive modificazioni;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
+Sentito il parere del Consiglio superiore della pubblica istruzione;  
+Sulla proposta del Ministro per la pubblica istruzione;  
   
+Decreta:  
   
-Dopo l'art. 379, con il conseguente spostamento della numerazione successiva, sono aggiunti i seguenti nuovi articoli.   
+Lo statuto dell'Universita' degli studi di Napoli, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+Gli articoli 380 e 381 relativi alla "Scuola di specializzazione in odontoiatria e protesi dentaria" sono abrogati e sostituiti dai seguenti:  
   
-Scuola di perfezionamento in diritto sindacale, diritto del lavoro e della previdenza sociale   
+Scuola di specializzazione in odontoiatria e protesi dentaria  
   
-Art. 380. - E' istituita presso la facolta' di giurisprudenza la scuola di perfezionamento in diritto sindacale, diritto del lavoro e della previdenza sociale, con l'intento di perfezionare i giovani nelle discipline sindacali, del lavoro e degli ordinamenti assistenziali, di promuovere ricerche scientifiche sul diritto del mondo del lavoro, di organizzare conferenze, seminari, convegni di studio, pubblicazioni e di coordinare gli insegnamenti delle discipline riflettenti gli studi giuslavoristici, impartiti dalla facolta' di giurisprudenza.   
-Art. 381. - Alla scuola possono iscriversi i laureati in giurisprudenza, in economia e commercio, in lingue e letteratura straniera, in scienze politiche, in scienze agrarie, in lettere e filosofia, in ingegneria, in medicina e chirurgia, in chimica, o coloro in possesso di laurea o diploma conferito dalla facolta' di magistero o di altri titoli, equiparati ai precedenti, conferiti da istituti italiani o stranieri.   
-Art. 382. - Alla direzione della scuola sara' preposto un professore ordinario, straordinario o fuori ruolo che insegni anche nella scuola stessa.   
-In caso di motivato impedimento la direzione della scuola e' affidata ad un professore associato che pure insegni nella scuola medesima.   
-Art. 383. - La scuola e' retta da un consiglio direttivo composto dal direttore, da due professori di ruolo e da due docenti incaricati nella scuola stessa, designati dalla facolta' di giurisprudenza. Esso potra' essere integrato, per cooptazione, da membri con voto consultivo scelti in rappresentanza di enti o associazioni operanti nel campo industriale, sindacale o previdenziale, e degli istituti per l'intervento pubblico nel Mezzogiorno.   
-Art. 384. - Gli incarichi della scuola sono deliberati dalla facolta' di giurisprudenza su proposta del direttore, che potra' scegliere tra professori universitari di ruolo, tra liberi docenti e assistenti ed, in mancanza, tra persone di riconosciuta competenza nella materia.   
-Art. 385. - La scuola rilascia un diploma di perfezionamento in diritto sindacale, del lavoro e della previdenza sociale, dopo due anni di corso e dopo che i candidati abbiano superato gli esami nelle materie fondamentali e in almeno quattro altre materie a scelta del medesimo indirizzo.   
-Art. 386. - L'esame di diploma consiste nella discussione di una dissertazione scritta, approvata, anche sotto il profilo della originalita', dal direttore della scuola. La commissione per l'esame di diploma, composta da sette membri di cui almeno quattro professori ufficiali della scuola, e' nominata, su proposta del direttore della scuola, dal preside della facolta' di giurisprudenza.   
-Art. 387. - Gli esami speciali hanno luogo nella sessione estiva ed autunnale dinanzi ad una commissione composta da un professore ordinario di materie lavoristiche, che la Presiede, e da due professori della scuola.   
-Art. 388. - Gli insegnamenti della scuola si distinguono in:   
-a) fondamentali a carattere generale;   
-b) materie a scelta dell'iscritto ripartite in due indirizzi:   
-1) forense-previdenziale;   
-2) sindacale e relazioni industriali.   
-a) 1° Anno:   
-diritto sindacale;   
-rapporto individuale di lavoro;   
-economia del lavoro;   
-rapporto di pubblico impiego;   
-storia del movimento operaio sindacale.   
-a) 2° Anno:   
-legislazione sociale e previdenziale;   
-storia del diritto del lavoro;   
-diritto internazionale e comunitario del lavoro;   
-diritto processuale e controversie del lavoro;   
-storia delle dottrine politiche ed economiche.   
-b-1) Indirizzo forense-previdenziale:   
-lavoro nautico;   
-diritto della contrattazione collettiva;   
-diritto sindacale comparato;   
-ordinamenti previdenziali comparati;   
-organizzazione degli enti previdenziali;   
-contenzioso delle assicurazioni sociali;   
-politica della sicurezza del lavoro;   
-tecnica della prevenzione degli infortuni;   
-assicurazione sociale di invalidita', vecchiaia e superstiti; assicurazione sociale di malattia;   
-assicurazione sociale per infortuni e malattie professionali.   
-b-2) Indirizzo sindacale e di relazioni industriali:   
-teoria del sindacalismo e delle relazioni industriali;   
-sociologia del lavoro;   
-diritto sindacale comparato;   
-tecnica della contrattazione collettiva;   
-metodi retributivi;   
-psicologia del lavoro, organizzazione aziendale e del lavoro; direzione del personale dell'impresa;   
-tutela amministrativa del lavoro.   
-Il consiglio della scuola stabilisce quali insegnamenti per ciascun indirizzo opzionale possono essere impartiti e se su tali insegnamenti debba sostenersi la relativa prova di esame. Al momento dell'iscrizione, l'allievo deve indicare quale dei due indirizzi intende seguire.   
-Art. 389. - Le tasse e le soprattasse annuali a carico degli iscritti sono cosi' fissate:   
+Art. 380. - La scuola ha la durata di tre anni. Il numero degli allievi da ammettere al I corso della scuola e' limitato a dieci (totale 30 iscritti).  
+La selezione dei candidati avverra' all'inizio dell'anno accademico in base ai titoli di studio ed al risultato di una prova scritta di esame.  
+Art. 381. - Le materie di insegnamento, tutte obbligatorie, sono le seguenti:  
+1° Anno:  
+1) Embriologia ed anatomia dentaria e maxillo-facciale;  
+2) Microbiologia ed anatomia dentaria e maxillo-facciale;  
+3) Farmacologia;  
+4) Patologia odontostomatologica;  
+5) Odontotecnica;  
+6) Anestesia e chirurgia stomatologica;  
+7) Odontoiatria conservativa (1° anno: biennale);  
+8) Esercitazioni pratiche.  
+2° Anno:  
+1) Odontoiatria conservativa (2° anno);  
+2) Clinica protesica dentaria e maxillo-facciale (1° anno: biennale);  
+3) Paradontologia (1° anno: biennale);  
+4) Anatomia e istopatologia odontostomatologica;  
+5) Odontoiatria infantile;  
+6) Radiologia odontostomatologica;  
+7) Ortopedia dento maxillo-facciale (1° anno: biennale);  
+8) Chirurgia maxillo-facciale (1° anno: biennale);  
+9) Esercitazioni pratiche.  
+3° Anno:  
+1) Clinica odontostomatologica;  
+2) Chirurgia maxillo-facciale (2° anno);  
+3) Medicina legale odontostomatologica e delle ossificazioni;  
+4) Ortopedia dento maxillo-facciale (2° anno);  
+5) Clinica protesica dentaria e maxillo-facciale (2° anno);  
+6) Paradontologia (2° anno);  
+7) Esercitazioni pratiche.  
+Gli insegnamenti sono teorico-pratici ed integrati da esercitazioni pratiche. Gli iscritti non possono essere ammessi all'anno successivo di corso se non avranno superato gli esami dell'anno precedente.  
+Per essere ammessi agli esami e' necessaria la frequenza alle lezioni ed alle esercitazioni.  
+Gli esami di profitto teorici e pratici saranno sostenuti alla fine di ogni anno di corso in una unica sessione (ottobre).  
+Alla fine del 3° anno, dopo aver superato gli esami di profitto, gli allievi saranno ammessi a sostenere l'esame di diploma che consiste nella discussione orale di una dissertazione scritta su un tema proposto in precedenza dall'insegnante della materia sulla quale verte l'argomento, ed approvato dal direttore della scuola.  
+Ogni iscritto alla scuola dovra' provvedere al proprio corredo di strumenti.  
+Gli articoli 385 e 386 relativi alla "Scuola di specializzazione in idrologia, crenologia e climatoterapia" che assume la denominazione di "Scuola di specializzazione in idroclimatologia medica e clinica termale" sono abrogati e sostituiti dai seguenti:  
   
-tassa annuale di iscrizione . . . . . . . . . . . . . . . . L. 20.000 soprattassa annuale . . . . . . . . . . . . . . . . . . . . L. 10.000 tassa erariale di diploma. . . . . . . . . . . . . . . . . . L. 6.000 tassa annuale per fuori corso . . . . . . . . . . . . . . . L. 10.000   
+Scuola di specializzazione in idroclimatologia medica e clinica termale  
   
-Gli iscritti sono tenuti altresi' a pagare un contributo nella misura che sara' determinata dal consiglio di amministrazione su proposta del consiglio direttivo.   
+Art. 385. - La scuola ha la durata di tre anni. Il numero massimo degli allievi da ammettere alla scuola e' di quindici per ogni anno accademico. Gli insegnamenti sono i seguenti:  
+1° Anno:  
+1) Geologia idrologica, geofisica, metereologia e climatologia generale;  
+2) Chimica e chimico-fisica idroclimatologica;  
+3) Effetti biologici e meccanismo d'azione nei fattori idroclimatologici;  
+4) Ecologia medica, geografia idroclimatologica;  
+5) Cure idroclimatologiche e terapie fisiche nelle malattie reumatiche.  
+2° Anno:  
+1) Cure idroclimatologiche nelle malattie dell'apparato respiratorio;  
+2) Cure idroclimatologiche nelle malattie dell'apparato cardio-vascolare;  
+3) Cure idroclimatologiche nelle malattie del fegato e del tubo digerente;  
+4) Cure idroclimatologiche in dermatologia (complementare).  
+3° Anno:  
+1) Cure idroclimatologiche nelle malattie delle vie urinarie;  
+2) Cure idroclimatologiche nelle malattie del ricambio e malattie endocrine;  
+3) Cure idroclimatologiche in ginecologia (complementare);  
+4) Organizzazione termale e legislazione in campo idroclimatologico;  
+5) Tecniche per l'applicazione delle cure idroclimatologiche.  
+Art. 386. - Le lezioni del 1° e 2° anno sono corredate da esercitazioni, potranno essere effettuate visite di istruzione alle stazioni termali.  
+Gli specializzandi hanno l'obbligo di frequentare come interni durante il triennio l'istituto ove ha sede la scuola di idroclimatologia.  
+La frequenza alle lezioni ed alle esercitazioni nonche' l'internato sono obbligatori.  
+Al termine di ogni anno verra' sostenuto un esame teorico-pratico sugli insegnamenti impartiti.  
+La commissione, costituita da tre membri, esprime il giudizio con una votazione in trentesimi.  
+Al termine dei tre anni verra' presentata una tesi di specializzazione compilativa e sperimentale che verra' giudicata da una commissione di cinque membri.  
+La votazione e' espressa in cinquantesimi.  
+L'esito favorevole degli esami e' provato da un diploma che da' diritto al titolo professionale di "Specialista in idroclimatologia medica e clinica termale".  
+Gli articoli 395, 396, 397 relativi alla "Scuola di specializzazione in medicina del lavoro" sono abrogati e sostituiti dai seguenti:  
+  
+Scuola di specializzazione in medicina del lavoro  
+  
+Art. 395. - La scuola ha la durata di tre anni. Il numero degli allievi da ammettere alla scuola non puo' essere superiore a trenta; l'ammissione avverra' a seguito di concorso per esame scritto e titoli.  
+Art. 396. - Le materie di insegnamento sono le seguenti:  
+1° Anno:  
+Fisiologia del lavoro ed ergonomia;  
+Tecnologia ed igiene del lavoro;  
+Patologia e clinica del lavoro;  
+Psicologia del lavoro.  
+2° Anno:  
+Fisiologia del lavoro ed ergonomia;  
+Tecnologia ed igiene del lavoro;  
+Patologia e clinica del lavoro;  
+Psicologia del lavoro;  
+Tossicologia industriale e diagnostica di laboratorio;  
+Infortunistica e pronto soccorso;  
+Biometria e statistica sanitaria;  
+Medicina preventiva dei lavoratori.  
+3° Anno:  
+Patologia e clinica del lavoro;  
+Tecnologia ed igiene del lavoro;  
+Infortunistica e pronto soccorso;  
+Medicina legale e delle assicurazioni;  
+Medicina preventiva dei lavoratori;  
+Radiologia e medicina nucleare;  
+Tossicologia industriale e diagnostica di laboratorio;  
+Dermatologia professionale.  
+I corsi saranno integrati da esercitazioni pratiche e turni di internato. - - Art. 397. - Alla fine di ogni anno scolastico e' obbligatorio sostenere gli esami sulle varie materie, in caso contrario non puo' aversi l'iscrizione all'anno successivo. Al termine dei tre anni di corso di specializzazione dovranno sostenere gli esami secondo le norme generali dello statuto dell'universita'.  
+Gli articoli da 404 a 409 relativi alla "Scuola di specializzazione in anestesiologia" che muta la denominazione in quella di "Scuola di specializzazione in anestesiologia e rianimazione" sono abrogati e sostituiti dai seguenti:  
+  
+Scuola di specializzazione in anestesiologia e rianimazione  
+  
+Art. 404. - E' istituita una scuola di specializzazione in anestesiologia e rianimazione per il conferimento del diploma di specialista in anestesiologia e rianimazione.  
+Art. 405. - Il numero degli allievi da ammettere ogni anno accademico non puo' essere superiore a sessanta: non e' concessa nessuna abbreviazione di corso, ad eccezione dei candidati che, gia' in possesso del diploma di specializzazione in anestesiologia, possono essere ammessi al 3° anno per ottenere il completamento.  
+Art. 406. - La scuola ha la durata di tre anni.  
+Le materie di insegnamento sono:  
+1° Anno:  
+Anatomia, biochimica, farmacologia, fisica, fisiologia applicata all'anestesiologia e rianimazione;  
+Anestesiologia;  
+Tecniche chirurgiche di interesse anestesiologico;  
+Aspetti medico legali dell'anestesia e della rianimazione;  
+Internato.  
+2° Anno:  
+Anestesiologia;  
+Terapia antalgica;  
+Rianimazione;  
+Internato.  
+3° Anno:  
+Rianimazione;  
+Tecniche speciali di anestesia e rianimazione;  
+Indagini diagnostiche attinenti alla specialita';  
+Internato.  
+Art. 407. - Gli esami di profitto sono dati per singole materie alla fine di ciascun anno di corso. Per accedere ai corsi successivi e' obbligatorio il superamento di tutti gli esami del corso precedente.  
+Art. 408. - Il diploma viene rilasciato dopo aver superato tutti gli esami e dopo la discussione di una tesi scritta a carattere clinico e sperimentale.  
+Art. 409. - Per quanto non previsto dal presente statuto valgono le norme generali relative alle scuole di specializzazione contenute nello statuto dell'universita'.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 6 giugno 1981
+### Dato a Roma, addi' 2 ottobre 1972
 
-PERTINI BODRATO
+LEONE SCALFARO
 
-Visto, il Guardasigilli: DARIDA
+Visto, il Guardasigilli: GONELLA
 
-Registrato alla Corte dei conti, addi' 7 gennaio 1982
+Registrato alla Corte dei conti, addi' 5 dicembre 1972
 
-Registro n. 1 Istruzione, foglio n. 137
+Atti del Governo, registro n. 253, foglio n. 100. - CARUSO

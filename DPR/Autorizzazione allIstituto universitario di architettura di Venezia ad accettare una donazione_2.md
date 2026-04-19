@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 25 ottobre 1950 n. 1157
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 marzo 1970 n. 191
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 25 ottobre 1950 n. 1157
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 marzo 1970 n. 191
+============================================================
 
 Autorizzazione all'Istituto universitario di architettura di Venezia ad accettare una donazione.
 ------------------------------------------------------------------------------------------------
@@ -12,7 +12,8 @@ Art. 1
 
 N.
 
-1157. Decreto del Presidente della Repubblica 25 ottobre 1950, col quale, sulla proposta del Ministro per la pubblica istruzione l'Istituto universitario di architettura di Venezia, viene autorizzato ad accettare la donazione della somma di L. 2.000.000 nominali, in titoli dello Stato rendita 5%, disposta in suo favore dal prof. dott. Viscardo Montanari, con atto pubblico amministrativo in data 19 gennaio 1950, per l'istituzione di una borsa di studio da intitolarsi al nome del figlio "Silvano Montanari" e da conferirsi a quello studente dell'Istituto medesimo che si sia maggiormente distinto per buona condotta, diligenza e profitto e appartenga a famiglia di disagiate condizioni economiche.  
+191. Decreto del Presidente della Repubblica 11 marzo 1970, col quale, sulla proposta del Ministro per la pubblica istruzione, l'Istituto universitario di architettura di Venezia viene autorizzato ad accettare la donazione del complesso immobiliare denominato "ex convento delle Terese", sito in Venezia, sestiere Dorsoduro, S. Marta, disposta dalla giunta municipale di Venezia con le deliberazioni dell'8 marzo e 2 aprile 1968, il cui valore e' stato valutato in lire 220.000.000.  
   
-Visto, il Guardasigilli: PICCIONI  
-Registrato alla Corte dei conti, addi' 2 febbraio 1951
+Visto, il Guardasigilli: REALE  
+Registrato alla Corte dei conti, addi' 23 aprile 1970  
+Atti del Governo, registro n. 234, foglio n. 198. - CARUSO

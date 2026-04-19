@@ -1,85 +1,58 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1962 n. 1705
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 dicembre 1985 n. 1070
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1962 n. 1705
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 dicembre 1985 n. 1070
+================================================================
 
 Modificazione allo statuto del Politecnico di Milano.
 -----------------------------------------------------
 
-Art. 1
-------
+IL PRESIDENTE DELLA REPUBBLICA
+------------------------------
 
- IL PRESIDENTE DELLA REPUBBLICA  
+Veduto lo statuto del Politecnico di Milano, approvato con [regio decreto 20 aprile 1939, n. 1028](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1028), e successive modificazioni;
+
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
+
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
+
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
+
+Veduto il [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
+
+Veduta la [legge 30 ottobre 1981, n. 615](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-10-30;615);
+
+Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta ai sensi della citata legge n. 615;
+
+Veduto il parere del Consiglio universitario nazionale;
+
+Sulla proposta del Ministro della pubblica istruzione;
+
+Decreta:
+--------
+
+Lo statuto del Politecnico di Milano, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+
+Articolo unico
+--------------
+
   
-Veduto lo statuto del Politecnico di Milano, approvato con [regio decreto 20 aprile 1939, n. 1028](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1028), modificato con [regio decreto 11 luglio 1942, n. 921](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-07-11;921) e successivi;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592):  
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche del Politecnico anzidetto;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
-Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro per la pubblica istruzione;  
-  
-Decreta:  
-  
-Lo statuto del Politecnico di Milano, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-  
-Art. 23. - I corsi di perfezionamento in Elettrochimica e Chimica fisica, in Radiotecnica ed in Comunicazioni su filo sono soppressi, mentre vengono istituiti i seguenti nuovi corsi di perfezionamento in Elettrochimica ed Elettrometallurgia, in Comunicazioni a grande distanza, in Telefonia e Telegrafia, ed in Controlli automatici.  
-  
-Corso di perfezionamento in Elettrochimica ed Elettrometallurgia coi seguenti insegnamenti:  
-1) Elettrochimica (con esercitazioni);  
-2) Complementi di Chimica-fisica (con esercitazioni);  
-3) Misure ed analisi elettrochimiche (con esercitazioni);  
-4) Tecnologie elettrochimiche generali  
-5) Procedimenti elettrochimici preparativi;  
-6) Elettrometallurgia;  
-7) Elettrotermia ed elettrosiderurgia;  
-8) Corrosione;  
-9) Finitura e protezione dei metalli;  
-10) Tecnologie elettrochimiche speciali.  
-Altri insegnamenti monografici eventuali.  
-Gli studenti debbono svolgere durante l'anno di frequenza una tesi sperimentale.  
-Al Corso possono essere iscritti i laureati in ingegneria chimica ed elettrotecnica, in chimica ed in chimica industriale.  
-  
-Corso di perfezionamento in Comunicazioni a grande distanza, coi seguenti insegnamenti:  
-1) Teorie delle reti elettriche;  
-2) Complementi di matematiche teoria delle formazioni;  
-3) Circuiti elettronici;  
-4) Tecnologie elettroniche;  
-5) Trasmissioni su linee e cavi;  
-6) Propagazione ed antenne;  
-7) Circuiti e tubi per microonde;  
-8) Ponti radio e multiplex telefonici.  
-Il Corso viene integrato con conferenze e seminari su argomenti particolari.  
-  
-Al corso possono essere iscritti i laureati in ingegneria elettrotecnica ed in Ingegneria elettronica - Corso di perfezionamento in Telefonia e Telegrafia.  
-1) Teoria delle reti elettriche  
-2) Complementi di matematiche e teoria delle informazioni;  
-3) Circuiti elettronici;  
-4) Tecnologie elettroniche;  
-5) Telefonia  
-6) Teoria del traffico telefonico e commutazione;.  
-7) Trasmissioni di dati e telegrafia;  
-8) Teoria e circuiti di commutazione.  
-Il corso viene integrato con conferenze e seminari su argomenti particolari.  
-Al Corso, possono essere scritti i laureati in ingegneria elettrotecnica ed in ingegneria elettronica.  
-  
-Corso di perfezionamento, in Controlli automatici coi seguenti insegnamenti;  
-1) Teoria delle reti elettriche;  
-2) Complementi di matematiche e teoria delle informazioni:  
-3) Circuiti elettronici;  
-4) Tecnologie elettroniche:  
-5) Teoria della regolazione automatica;  
-6) Sistemi elettronici;  
-7) Macchine elettriche e fluidodinamiche:  
-8) Regolazione degli impianti.  
-Il Corso viene integrato o con conferenze e seminari sul Corso possono essere iscritti i laureati in ingegneria elettrotecnica ed in ingegneria elettronica.  
+Nell'art. 29, all'elenco degli insegnamenti complementari della facolta' di ingegneria, e' aggiunto l'insegnamento di "materiali polimerici".  
   
 
-Il presente decreto munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo chiunque spetti di osservarlo e di farlo osservare.
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 31 ottobre 1962
+### Dato a Roma, addi' 31 dicembre 1985
 
-GUI Visto, il Guardasigilli: BOSCO Registrato alla Corte dei conti, addi' 15 dicembre 1962 Atti del Governo, registro n. 160, foglio n. 91. - VILLA
+COSSIGA
+
+FALCUCCI, Ministro della pubblica istruzione
+
+Visto, il Guardasigilli: MARTINAZZOLI
+
+Registrato alla Corte dei conti, addi' 29 aprile 1986
+
+Registro n. 34 Istruzione, foglio n. 115

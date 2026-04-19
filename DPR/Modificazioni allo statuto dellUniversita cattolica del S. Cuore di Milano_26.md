@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 aprile 1981 n. 506
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 ottobre 1984 n. 1194
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 aprile 1981 n. 506
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 ottobre 1984 n. 1194
+===============================================================
 
 Modificazioni allo statuto dell'Universita' cattolica del S. Cuore di Milano.
 -----------------------------------------------------------------------------
@@ -10,7 +10,7 @@ Modificazioni allo statuto dell'Universita' cattolica del S. Cuore di Milano.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' cattolica del S. Cuore di Milano, approvato con [regio decreto 20 aprile 1939, n. 1163](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1163), e modificato con [regio decreto 26 ottobre 1940, n. 2030](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;2030), e successive modificazioni;
+Veduto lo statuto dell'Universita' cattolica del S. Cuore di Milano, approvato con [regio decreto 20 aprile 1939, n. 1163](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1163) e modificato con [regio decreto 26 ottobre 1940, n. 2030](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;2030), e successive modificazioni;
 
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
@@ -20,9 +20,13 @@ Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/ur
 
 Veduta la [legge 22 maggio 1978, n. 217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-05-22;217);
 
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+Veduta la [legge 21 febbraio 1980, n. 28](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1980-02-21;28);
 
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' cattolica del S. Cuore di Milano e convalidati dal Consiglio universitario nazionale nei suoi pareri;
+Veduto il [decreto del Presidente della Repubblica 10 marzo 1982, n. 162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1982-03-10;162);
+
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' degli studi anzidetta;
+
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17);
 
 Sentito il parere del Consiglio universitario nazionale;
 
@@ -31,42 +35,126 @@ Sulla
 
 proposta del Ministro della pubblica istruzione; Decreta:
 
-Art. 1
-------
+Articolo unico
+--------------
 
   
-Lo statuto dell'Universita' cattolica del S. Cuore di Milano, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
   
-L'art. 105, quinto comma, dello statuto dell'Universita' cattolica del S. Cuore di Milano, di cui al [decreto del Presidente della Repubblica 14 gennaio 1980, n. 162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-01-14;162), relativo alla scuola di specializzazione in oncologia, e' modificato nel senso che il numero degli iscritti e' stabilito in venticinque per anno di corso per un totale di settantacinque per l'intero corso di studi.  
-
-Art. 2
-------
-
+Lo statuto dell'Universita' cattolica del S. Cuore di Milano, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
   
-L'art. 112, quinto comma, dello statuto dell'Universita' cattolica del S. Cuore di Milano, di cui al [decreto del Presidente della Repubblica 31 ottobre 1977, n. 1260](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1977-10-31;1260), relativo alla scuola di specializzazione in ginecologia e ostetricia, e' modificato nel senso che il numero degli iscritti e' stabilito in quindici per anno di corso per un totale di sessanta per l'intero corso di studi.  
-
-Art. 3
-------
-
+Dopo l'art. 94, e con il conseguente spostamento della numerazione degli articoli successivi, sono aggiunti i seguenti nuovi articoli relativi alla istituzione delle scuole di specializzazione in "discipline economiche, bancarie e finanziarie" e in "economia e politica del lavoro", afferenti alla facolta' di economia e commercio.   
   
-L'art. 119, quinto comma, dello statuto dell'Universita' cattolica del S. Cuore di Milano, di cui al [decreto del Presidente della Repubblica 31 ottobre 1978, n. 965](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1978-10-31;965), relativo alla scuola di specializzazione in gastroenterologia ed endoscopia digestiva, e' modificato nel senso che il numero degli iscritti e' stabilito in quindici per anno di corso per un totale di sessanta per l'intero corso di studi.  
-
-Art. 4
-------
-
+Parte VI   
   
-L'art. 124, relativo alla scuola di specializzazione in endocrinologia, e' modificato nel senso che la denominazione degli insegnamenti del primo e secondo anno di corso "anatomia patologica delle materie endocrine (biennale)" e' rettificata in quella di "anatomia patologica delle malattie endocrine (biennale)".  
+DELLE SCUOLE POST-UNIVERSITARIE DI SPECIALIZZAZIONE   
+  
+FACOLTA' DI ECONOMIA E COMMERCIO   
+  
+Scuola di specializzazione in discipline economiche bancarie e finanziarie   
+  
+Art. 95. - E' istituita presso l'Universita' cattolica del Sacro Cuore di Milano la scuola di specializzazione in discipline economiche bancarie e finanziarie, che conferisce il diploma di specialista in disciplina economiche bancarie e finanziarie.   
+Art. 96. - La direzione della scuola ha sede presso la facolta' di economia e commercio.   
+Art. 97. La scuola ha lo scopo di promuovere la formazione professionale nelle aree disciplinari di interesse economico e bancario.   
+Art. 98. - La durata del corso e' di tre anni e non e' suscettibile di abbreviazioni.   
+Art. 99. - Il numero degli iscritti e' di venti per ogni anno e complessivamente di sessanta per l'intero corso di studi.   
+Art. 100. - Alla scuola sono ammessi i laureati in economia e commercio, in scienze economiche e bancarie, in economia politica, in economia aziendale e in scienze politiche, in possesso del diploma di abilitazione all'esercizio professionale, qualora prescritto.   
+Art. 101. - Per l'ammissione alla scuola e' richiesto il superamento di un esame consistente in una prova scritta che dovra' svolgersi mediante domande a risposte multiple integrata eventualmente da un colloquio e da una valutazione, in misura non superiore al 30% del punteggio complessivo a disposizione della commissione, dei seguenti titoli:   
+a) la tesi nella disciplina attinente alla specializzazione;   
+b) il voto di laurea;   
+c) il voto riportato negli esami di profitto del corso di laurea nelle materie concernenti la specializzazione;   
+d) le pubblicazioni nelle predette materie.   
+Il punteggio dei predetti titoli e' quello stabilito dal decreto ministeriale 16 settembre 1982.   
+Sono ammessi alla scuola di specializzazione coloro che, in relazione al numero dei posti disponibili, si siano collocati in posizione utile nelle graduatorie compilate sulla base del punteggio complessivo riportato.   
+Art. 102. - Le materie di insegnamento, tutte afferenti alla facolta' di economia e commercio, sono le seguenti:   
+1° Anno:   
+economia e politica monetaria;   
+economia e tecnica operativa delle aziende di credito;   
+finanza aziendale;   
+statistica economica e finanziaria;   
+storia della banca.   
+2° Anno:   
+contabilita' e bilancio bancario;   
+economia e tecnica operativa degli intermediari finanziari non bancari;   
+metodologie di valutazione del fido bancario;   
+tecnica dei crediti speciali;   
+tecnica valutaria.   
+3° Anno:   
+controllo di gestione e pianificazione;   
+marketing bancario;   
+mercati monetari e finanziari interni ed internazionali;   
+organizzazione e informatica;   
+problematiche fiscali delle istituzioni creditizie.   
+Le materie di insegnamento fondamentali possono essere integrate di anno in anno, su richiesta del consiglio della scuola, da corsi, conferenze e seminari su argomenti specialistici tenuti da studiosi delle varie materie.   
+Art. 103. - La frequenza ai corsi e' obbligatoria.   
+L'insegnamento ha carattere prevalentemente seminariale con possibilita' di svolgimento interdisciplinare.   
+Il numero minimo di riunioni seminariali, ciascuna di durata non inferiore alle due ore, e' di quindici per ogni materia di insegnamento.   
+Al termine di ciascun anno di corso - che puo' essere ripetuto una sola volta - ogni iscritto deve sostenere un esame teorico-pratico individuale, davanti, ad una commissione di cui fanno parte il direttore della scuola e i docenti delle materie prescritte per l'anno di corso, per dimostrare il suo grado di preparazione nelle singole discipline.   
+Il giudizio globale sul livello di preparazione del candidato e' espresso in trentesimi.   
+Art. 104. - Al termine del curriculum degli studi, e superato l'esame dell'ultimo anno, gli iscritti sono tenuti a presentare una tesi scritta di specializzazione che dovra' vertere su una o piu' materie oggetto di insegnamento. L'esito positivo della discussione della tesi, che sara' valutata in settantesimi, da' diritto al diploma di specialista in discipline economiche bancarie e finanziarie.   
+La commissione per il rilascio del diploma e' composta di almeno sette docenti. La presidenza della commissione spetta al direttore della scuola o ad altro docente da quest'ultimo delegato.   
+Art. 105. - L'importo delle tasse e soprattasse dovute dagli iscritti alla scuola e' quello previsto dallo statuto dell'Universita' cattolica, determinato dal consiglio di amministrazione in base alle vigenti disposizioni di legge; i contributi sono stabiliti anno per anno dal consiglio di amministrazione.   
+Art. 106. - Nella scuola e' costituito un consiglio presieduto da un direttore.   
+Il consiglio e' composto dai docenti universitari di ruolo e dai professori a contratto previsti dall'[art. 4 del decreto del Presidente della Repubblica 10 marzo 1982, n. 162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1982-03-10;162~art4), ai quali sono affidate attivita' didattiche nella scuola, nonche' da una rappresentanza di tre specializzandi eletti secondo le modalita' di cui all'[art. 99 del decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382~art99).   
+Il consiglio esercita le competenze spettanti, ai sensi dell'[art. 94 del decreto del Presidente della Repubblica n. 382/80](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980;382~art94), al consiglio di corso di laurea in materia di coordinamento insegnamenti.   
+Il direttore viene nominato dal rettore, su proposta del consiglio della scuola, tra i professori ordinari, straordinari o fuori ruolo che insegnino anche nella scuola stessa; dura in carica tre anni ed e' riconfermabile.   
+In caso di motivato impedimento la direzione della scuola e' affidata a un professore associato che pure insegni nella scuola medesima.   
+  
+Scuola di specializzazione in economia e politica del lavoro   
+  
+Art. 107. - E' istituita presso l'Universita' cattolica del Sacro Cuore di Milano la scuola di specializzazione in economia e politica del lavoro, che conferisce il diploma di economista del lavoro.   
+Art. 108. - La direzione della scuola ha sede presso la facolta' di economia e commercio.   
+Art. 109. - La scuola ha lo scopo di promuovere la formazione professionale nella trattazione dei problemi del lavoro, specificatamente quelli di ordine economico, sia microeconomico che macroeconomico.   
+Art. 110. - La durata del corso e' di tre anni e non e' suscettibile di abbreviazioni.   
+Art. 111. - Il numero degli iscritti e' di venti per ogni anno e complessivamente di sessanta per l'intero corso di studi.   
+Art. 112. - Alla scuola sono ammessi i laureati in economia e commercio, in giurisprudenza, in scienze politiche e in sociologia, in possesso del diploma di abilitazione all'esercizio professionale, qualora prescritto.   
+Art. 113. - Per l'ammissione alla scuola e' richiesto il superamento di un esame consistente in una prova scritta che dovra' svolgersi mediante domande a risposte multiple, integrata eventualmente da un colloquio e da una valutazione, in misura non superiore al 30% del punteggio complessivo a disposizione della commissione, dei seguenti titoli:   
+a) la tesi nella disciplina attinente alla specializzazione;   
+b) il voto di laurea;   
+c) il voto riportato negli esami di profitto del corso di laurea nelle materie concernenti la specializzazione;   
+d) le pubblicazioni nelle predette materie.   
+Il punteggio dei predetti titoli e' quello stabilito dal decreto ministeriale 16 settembre 1982.   
+Sono ammessi alla scuola di specializzazione coloro che, in relazione al numero dei posti disponibili, si siano collocati in posizione utile nelle graduatorie compilate sulla base del punteggio complessivo riportato.   
+Art. 114. - Le materie d'insegnamento, tutte afferenti alla facolta' di economia e commercio, sono le seguenti:   
+1° Anno:   
+diritto del lavoro;   
+statistica economica;   
+economia del lavoro;   
+storia del movimento sindacale.   
+2° Anno:   
+psicologia del lavoro;   
+economia della sicurezza sociale;   
+tecnologia dei cicli produttivi.   
+3° Anno:   
+diritto della previdenza sociale;   
+economia industriale;   
+sociologia economica.   
+Le materie d'insegnamento fondamentali possono essere integrate di anno in anno, su richiesta del consiglio della scuola, da corsi, conferenze e seminari su argomenti specialistici tenuti da studiosi delle varie materie.   
+Art. 115. - I doveri e gli adempimenti degli iscritti alla scuola in ordine al programma didattico, alla frequenza alle lezioni, seminari ed attivita' pratiche devono soddisfare i seguenti requisiti:   
+a) i corsi annuali vengono impartiti con un numero di ore di lezione pari a quelle di un corso universitario e quelli semestrali con ore di lezione pari alla meta' di un corso annuale;   
+b) la frequenza e' obbligatoria per un numero di ore di lezione non inferiore all'85% delle lezioni del corso. Tale numero di ore obbligatorie, per cio' che concerne l'eventuale distribuzione temporale nel corso dell'anno, viene stabilito all'inizio dell'anno dagli organi direttivi della scuola in base ai programmi dei corsi obbligatori ed opzionali;   
+c) durante l'anno di corso vengono tenuti seminari ed attivita' pratiche, stabiliti all'inizio dell'anno. E' fatto obbligo di partecipare agli stessi secondo le modalita' di cui al punto b) precedente;   
+d) durante l'anno potranno essere tenute, a seconda delle esigenze dei singoli insegnamenti, attivita' pratiche consistenti nella predisposizione da parte degli studenti di elaborati sui temi di insegnamento e sotto la supervisione dei docenti.   
+Restano fermi i disposti degli [articoli 11](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1982-03-10;162~art11) e [12 del decreto del Presidente della Repubblica 10 marzo 1982, n. 162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1982-03-10;162~art12), nel cui ambito altre specificazioni sui doveri e sugli adempimenti degli specializzandi possono essere stabilite dagli organi direttivi della scuola all'inizio di ogni anno accademico.   
+Al termine di ciascun anno di corso - che puo' essere ripetuto una sola volta - ogni iscritto deve sostenere un esame individuale davanti ad una commissione, di cui fanno parte il direttore della scuola e i docenti delle materie prescritte per l'anno di corso, per dimostrare il suo grado di preparazione nelle singole discipline. Il giudizio globale sul livello di preparazione del candidato e' espresso in trentesimi. L'esito positivo del colloquio e' condizione per l'accesso al successivo anno di corso e per l'ammissione alla discussione della tesi scritta di specializzazione che dovra' vertere su un tema rientrante in una delle materie oggetto di insegnamento.   
+L'esito positivo della discussione della tesi, che sara' valutata in settantesimi, da' diritto al diploma. La commissione per il rilascio del diploma e' composta da almeno sette docenti. La presidenza della commissione spetta al direttore della scuola o ad altro docente da quest'ultimo delegato.   
+Art. 116. - Nella scuola e' costituito un consiglio presieduto da un direttore.   
+Il consiglio e' composto dai docenti universitari di ruolo e dai professori a contratto previsti dall'[art. 4 del decreto del Presidente della Repubblica 10 marzo 1982, n. 162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1982-03-10;162~art4), ai quali sono affidate attivita' didattiche nella scuola, nonche' da una rappresentanza di tre specializzandi eletti secondo le modalita' di cui all'[art. 99 del decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382~art99).   
+Il consiglio esercita le competenze spettanti, ai sensi dell'[art. 94 del decreto del Presidente della Repubblica n. 382/1980](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980;382~art94), al consiglio di corso di laurea in materia di coordinamento di insegnamenti.   
+Il direttore viene nominato dal rettore, su proposta del consiglio della scuola, tra i professori ordinari, straordinari o fuori ruolo che insegnino anche nella scuola stessa; dura in carica tre anni ed e' riconfermabile. In caso di motivato impedimento la direzione della scuola e' affidata a un professore associato che pure insegni nella scuola medesima.   
+Art. 117 - L'importo delle tasse e soprattasse dovute dagli iscritti alla scuola e' quello previsto dallo statuto dell'Universita' cattolica, determinato dal consiglio di amministrazione in base alle vigenti disposizioni di legge; i contributi sono stabiliti anno per anno dal consiglio di amministrazione.   
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 10 aprile 1981
+### Dato a Roma, addi' 30 ottobre 1984
 
-PERTINI BODRATO
+PERTINI
 
-Visto, il Guardasigilli: DARIDA
+FALCUCCI, Ministro della pubblica istruzione
 
-Registrato alla Corte dei conti, addi' 1 settembre 1981
+Visto, il Guardasigilli: MARTINAZZOLI
 
-Registro n. 80 Istruzione, foglio n. 33
+Registrato alla Corte dei conti, addi' 4 maggio 1985
+
+Registro n. 29 Istruzione, foglio n. 339

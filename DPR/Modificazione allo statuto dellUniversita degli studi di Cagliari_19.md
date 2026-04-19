@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 febbraio 1986 n. 223
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 maggio 1983 n. 1109
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 febbraio 1986 n. 223
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 maggio 1983 n. 1109
+==============================================================
 
 Modificazione allo statuto dell'Universita' degli studi di Cagliari.
 --------------------------------------------------------------------
@@ -39,22 +39,19 @@ Articolo unico
 --------------
 
   
-Nell'art. 78, relativo all'elenco degli insegnamenti complementari dei vari corsi di laurea della facolta' di ingegneria, sono aggiunti i seguenti nuovi insegnamenti complementari:  
-materie giuridiche;  
-sistemi per l'elaborazione dell'informazione.  
+Nell'art. 29, relativo al corso di laurea in economia e commercio, all'elenco degli insegnamenti complementari e' aggiunto il seguente nuovo insegnamento:  
+statistica economica.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 10 febbraio 1986
+### Dato a Roma, addi' 4 maggio 1983
 
-COSSIGA
-
-FALCUCCI, Ministro della pubblica istruzione
+PERTINI FALCUCCI
 
 Visto, il Guardasigilli: MARTINAZZOLI
 
-Registrato alla Corte dei conti, addi' 10 maggio 1986
+Registrato alla Corte dei conti, addi' 22 marzo 1984
 
-Registro n. 36 Istruzione, foglio n. 193
+Registro n. 17 Istruzione, foglio n. 327

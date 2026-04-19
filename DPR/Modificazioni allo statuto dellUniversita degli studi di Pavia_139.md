@@ -1,67 +1,73 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 settembre 1965 n. 1223
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 07 febbraio 1986 n. 247
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 settembre 1965 n. 1223
-=================================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 07 febbraio 1986 n. 247
+===============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Pavia.
 -----------------------------------------------------------------
 
+IL PRESIDENTE DELLA REPUBBLICA
+------------------------------
+
+Veduto lo statuto dell'Universita' di Pavia, approvato con [regio decreto 14 ottobre 1926, n. 2130](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2130), e successive modificazioni;
+
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
+
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
+
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
+
+Veduto il [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
+
+Veduta la [legge 30 ottobre 1981, n. 615](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-10-30;615);
+
+Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta ai sensi della citata legge n. 615;
+
+Veduto il parere del Consiglio universitario nazionale;
+
+Sulla proposta del Ministro della pubblica istruzione;
+
+Decreta:
+--------
+
+Lo statuto dell'Universita' di Pavia, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Pavia, approvato con [regio decreto 14 ottobre 1926, n. 2133](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2133) e modificato con regio decreto 13 ottobre 1927, n: 2229 e successive modificazioni;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il regio decreto 30 settembre 1038, n. 1652 e successive modificazioni;  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita', accademiche dell'Universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
-Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro per la pubblica istruzione;  
+Nell'art. 59, relativo al corso di laurea in medicina e chirurgia, nell'elenco degli insegnanti complementari e' inserito l'insegnamento di "nefrologia chirurgica".  
+
+Art. 2
+------
+
   
-Decreta:  
+Nell'art. 67, relativo al corso di laurea in chimica, nell'elenco degli insegnamenti complementari dell'indirizzo organico biologico e' inserito l'insegnamento di "sintesi speciali organiche".  
+
+Art. 3
+------
+
   
-Lo statuto dell'Universita' degli studi di Pavia, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-Dopo l'art. 199, e con il conseguente spostamento della successiva numerazione, sono inseriti i seguenti nuovi articoli relativi alla istituzione della Scuola di specializzazione in Ortopedia e traumatologia.  
   
-Scuola di specializzazione in ortopedia e traumatologia  
-  
-Art. 200. - Presso la clinica ortopedica dell'Universita' e' istituita la scuola di specializzazione in Clinica ortopedica e traumatologica che e' posta sotto in direzione del titolare di Clinica ortopedica e dispone delle attrezzature e dei laboratori della Clinica ortopedica. La scuola di specializzazione in Ortopedia e traumatologia conferisce il diploma di specialita' in clinica ortopedica e traumatologica.  
-Art. 201. - Gli anni di studio necessari per conseguire il diploma sono tre. Alla scuola saranno ammessi n. 15 aspiranti.  
-Art. 202. - Nei tre anni di studio e' fatto obbligo dell'internato nella Clinica ortopedica. L'internato obbliga l'aspirante a presenziare alle visite quotidiani degli ammalati, all'ambulatorio, agli atti operativi, ad eseguirli ed a frequentare i laboratori di ricerche radiologiche ed istologiche.  
-Art. 2011. - Le materie d'insegnamento durante i tre anni sono quelle indicate qui di seguito, tutte obbligatorie ai funi della frequenza e dell'esame:  
-1) Anatomia ed istologia dell'apparato locomotore;  
-2) Fisiologia dell'apparato locomotore;  
-3) Anatomia patologica dell'apparato locomotore;  
-4) Patologia delle lesioni, deformita', malattie del sistema locomotorio;  
-5) Terapia fisica;  
-6) Neuropatologia del sistema locomotore;  
-7) Pediatria ortopedica;  
-8) Fondamenti di radiologia medica;  
-9) Semeiologia e radiodiagnostica ortopedica e traumatologica;  
-10) Clinica ortopedica e traumatologica;  
-11) Corso teorico-pratico di operazioni ortopediche e di traumatologia;  
-12) Corso teorico-pratico di apparato-terapia ortopedica e traumatologica;  
-13) Infortunistica.  
-Art. 204. - L'esame di profitto e' diviso in due gruppi:  
-1° gruppo: materie indicate ai numeri: 1), 2), 3), d), 7), 9), 10), 11) e 12);  
-2° gruppo: materie indicate ai numeri: 5), 6), 8) e 13).  
-Gli allievi sono esaminati sul 1° gruppo alla fine del primo biennio, sul 20 prima dell'esame di diploma.  
-L'esame di diploma consiste in una dissertazione scritta su di un argomento approvato preventivamente dalla Direzione della scuola.  
-Art. 205. - La Commissione di esame e di diploma viene nominata secondo le norme vigenti.  
+Nell'art. 96, relativo alla facolta' di ingegneria, nell'elenco degli insegnamenti complementari sono inseriti i seguenti insegnamenti:   
+progetti di impianti di trattamento;   
+disegno industriale.   
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 28 settembre 1965
+### Dato a Roma, addi' 7 febbraio 1986
 
-SARAGAT GUI
+COSSIGA
 
-Visto, il Guardasigilli: REALE
+FALCUCCI, Ministro della pubblica istruzione
 
-Registrato alla Corte dei conti, addi' 30 ottobre 1965
+Visto, il Guardasigilli: MARTINAZZOLI
 
-Atti del Governo, registro n. 198, foglio n. 2. - VILLA
+Registrato alla Corte dei conti, addi' 19 maggio 1986
+
+Registro n. 39 Istruzione, foglio n. 154

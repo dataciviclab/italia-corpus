@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 aprile 1952 n. 888
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 ottobre 1981 n. 916
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 aprile 1952 n. 888
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 ottobre 1981 n. 916
+==============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Roma.
 ----------------------------------------------------------------
@@ -10,223 +10,99 @@ Modificazioni allo statuto dell'Universita' degli studi di Roma.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' degli studi di Roma, approvato con [regio decreto 20 aprile 1939, n. 1350](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1350), modificato con [regi decreti 26 ottobre 1939, n. 1734](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1939-10-26;1734); [26 ottobre 1940, n. 2069](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1940-10-26;2069); [4 maggio 1942, n. 565](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1942-05-04;565); [24 luglio 1942, n. 949](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1942-07-24;949); [24 agosto 1942, n. 1098](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1942-08-24;1098); [24 ottobre 1942, n. 1672, con decreto luogotenenziale](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto.legislativo.luogotenenziale:1942-10-24;1672) [8 febbraio 1946, n. 242, con decreti del Capo provvisorio dello Stato](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto:1946-02-08;242) [12 aprile 1917, n. 461](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto:1917-04-12;461); [31 dicembre 1947, n. 1758 e con decreti del Presidente della Repubblica](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1947-12-31;1758) [24 dicembre 1948, n. 1619](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1948-12-24;1619); [18 luglio 1949, n. 882](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-07-18;882); [20 ottobre 1949, n. 989](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-10-20;989); [20 ottobre 1949, n. 991](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-10-20;991); [30 ottobre 1949, n. 1152](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-10-30;1152); [20 ottobre 1949, n. 1178](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-10-20;1178); [11 giugno 1950, n. 622](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1950-06-11;622); [16 novembre 1950, n. 1313](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1950-11-16;1313) e [11 maggio 1951, n. 653](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-05-11;653);
+Veduto lo statuto dell'Universita' di Roma, approvato con [regio decreto 20 aprile 1939, n. 1350](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1350) e modificato con [regio decreto 26 ottobre 1939, n. 1734](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-26;1734), e successive modificazioni;
 
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella, [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
 
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
 
-Vedute le proposte di modifica allo statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+Veduta la [legge 22 maggio 1978, n. 217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-05-22;217);
 
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
+Veduto il [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
 
-Sentito il parere del Consiglio superiore della pubblica istruzione;
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
-Sulla proposta del Ministro per la pubblica istruzione;
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Roma e convalidati dal Consiglio universitario nazionale nel suo parere;
+
+Sentito il parere del Consiglio universitario nazionale;
+
+Veduta la necessita' di adeguare la norma sulla direzione delle scuole di perfezionamento, di specializzazione e delle scuole dirette a fini speciali a quanto disposto dall'art. 16 del citato [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
+
+Sulla proposta del Ministro della pubblica istruzione;
 
 Decreta:
+--------
 
-Lo statuto dell'Universita' degli studi di Roma, approvato e modificato con i decreti sopraindicati e' cosi' ulteriormente modificato:
+Lo statuto dell'Universita' di Roma, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
-Dopo l'attuale art. 194 sono aggiunti i seguenti nuovi articoli, relativi all'istituzione della scuola di perfezionamento in "storia del diritto medioevale e moderno", con il conseguente spostamento della numerazione degli articoli successivi:
+Articolo unico
+--------------
 
-Scuola di perfezionamento in storia del diritto medioevale e moderno
-
-Art. 195. - La scuola di perfezionamento in storia dei diritto medioevale e moderno si propone di ampliare e approfondire la conoscenza del fenomeno storico-giuridico, sia come problema di ricerca scientifica con l'addestramento nell'uso e nella critica delle fonti, sia come problema metodologico della scienza del diritto.
-
-La scuola, che ha sede presso l'Istituto di storia del diritto italiano della Facolta' di giurisprudenza, e' diretta dal professore ufficiale di storia dei diritto italiano.
-
-Art. 196. - Possono essere ammessi alla scuola i laureati in giurisprudenza.
-
-Possono essere ammessi alla scuola anche i laureati in lettere, in filosofia, in scienze politiche, in economia e commercio, in materie letterarie, i quali possano dimostrare, all'atto dell'iscrizione, di avere gia' superato i tre seguenti esami della Facolta' di giurisprudenza:
-
-1) istituzioni di diritto romano;
-
-2) storia del diritto romano;
-
-3) storia del diritto italiano (biennale). Nel caso che di questa materia si fosse sostenuto soltanto un esame annuale, lo studente si impegna a sostenere un secondo esame annuale durante il primo anno del corso di perfezionamento.
-
-L'ammissione alla scuola di coloro che hanno conseguito titoli di studio non conferiti dalle Universita' italiane e' regolata dalle disposizioni generali vigenti in materia.
-
-Art. 197. - La scuola funziona come seminario per le esercitazioni pratiche di storia del diritto medioevale e moderno per gli studenti della Facolta' di giurisprudenza iscritti al corso ufficiale di storia del diritto italiano e rilascia, in tal caso, attestato di frequenza.
-
-Art. 198. - La scuola di perfezionamento in "storia del diritto medioevale e moderno" ha la durata di due anni, e conduce a un diploma di perfezionamento.
-
-Eccezionalmente, e solo per i laureati in giurisprudenza che dimostrino, all'atto dell'iscrizione, di aver gia' sostenuto gli esami in due delle materie obbligatorie e in una delle facoltative, previste dalla scuola, il corso degli studi potra' essere ridotto a un unico anno.
-
-Art. 199. - La scuola di perfezionamento comprende insegnamenti ordinari, con prove di esame, e seminari.
-
-Art. 200. - Gli insegnamenti ordinari, utilizzati tra quelli impartiti nella Facolta' di giurisprudenza o in altre Facolta', sono obbligatori e facoltativi.
-
-Sono insegnamenti obbligatori i seguenti:
-
-Facolta' di giurisprudenza:
-
-1) diritto comune;
-
-2) diritto canonico;
-
-3) esegesi delle fonti del diritto italiano.
-
-Facolta' di lettere e filosofia:
-
-4) paleografia;
-
-5) diplomatica;
-
-6) storia medioevale (ovvero storia moderna).
-
-Sono insegnamenti facoltativi i seguenti:
-
-Facolta' di giurisprudenza:
-
-1) diritto bizantino;
-
-2) diritto musulmano.
-
-Facolta' di scienze politiche:
-
-3) storia delle dottrine politiche;
-
-4) storia dei trattati e politica internazionale.
-
-Facolta' di economia e commercio:
-
-5) storia economica.
-
-Facolta' di lettere e filosofia:
-
-6) filosofia della storia;
-
-7) storia del Cristianesimo;
-
-8) storia della filosofia;
-
-9) filologia romanza;
-
-10) latino medioevale;
-
-11) storia della lingua italiana;
-
-12) storia moderna (ovvero storia medioevale).
-
-I corsi verranno seguiti presso le rispettive Facolta' e ivi ne saranno sostenuti gli esami.
-
-Art. 201. - Nei seminari, affidati a studiosi specializzati, si svolgono conferenze a titolo di esercitazione intorno a problemi o argomenti specifici. All'inizio di ciascun anno ne viene comunicato il programma.
-
-Essi non danno luogo a prove d'esame, ma la frequenza e' obbligatoria. Non saranno ammessi all'esame di diploma gli iscritti che non possono provare di aver partecipato ad almeno due terzi delle conferenze tenute a questo titolo.
-
-Art. 202. - Saranno ammessi all'esame di diploma gli iscritti che avranno superato, nell'ordine da essi liberamente scelto, gli esami nei sei insegnamenti obbligatori e in almeno tre, a loro scelta, degli insegnamenti facoltativi.
-
-Art. 203. - Durante il primo anno di corso, e comunque non piu' tardi del 31 maggio, l'iscritto ha l'obbligo di concordare col direttore della scuola un tema di dissertazione monografica, da svolgere con ricerche personali, nella storia del diritto medioevale e moderno.
-
-L'iscritto al quale sia stata consentita l'abbreviazione di corso di cui all'art. 198, dovra' concordare il tema di diploma entro il 31 dicembre.
-
-Art. 204. - La dissertazione dovra' essere presentata in triplice copia, a stampa o dattiloscritta, entro il 20 novembre del secondo anno di corso: ne sara' relatore il direttore della scuola e correlatori dei professori che abbiano impartito nella scuola stessa insegnamenti ordinari o tenuto esercitazioni nei seminari.
-
-Art. 205. - L'esame di diploma consistera' nella discussione orale sulla dissertazione, davanti ad una Commissione composta di nove membri, e si svolgera' entro il mese di dicembre.
-
-Le dissertazioni giudicate, con parere unanime dalla Commissione di diploma, degne di stampa, saranno pubblicate, appena possibile, a spese della scuola.
-
-Di tutte le dissertazioni sara' data notizia, col riassunto dei principali risultati, nella "Rivista italiana per le scienze giuridiche", pubblicata sotto gli auspici della Facolta' di giurisprudenza, e nella "Rivista di storia del diritto italiano".
-
-Il presente decreto, munito del sigillo dello Stato, sara', inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
-
-Dato a Roma, addi' 14 aprile 1952
-
-EINAUDI
-
-SEGNI
-
-Visto, il Guardasigilli: ZOLI
-
-Registrato
-----------
-
-alla Corte dei conti, addi' 15 luglio 1952 Atti del Governo, registro n. 55, foglio n. 128 - FRASCA
-
-Art. 1
-------
-
- IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Roma, approvato con [regio decreto 20 aprile 1939, n. 1350](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1350), modificato con [regi decreti 26 ottobre 1939, n. 1734](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1939-10-26;1734); [26 ottobre 1940, n. 2069](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1940-10-26;2069); [4 maggio 1942, n. 565](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1942-05-04;565); [24 luglio 1942, n. 949](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1942-07-24;949); [24 agosto 1942, n. 1098](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1942-08-24;1098); [24 ottobre 1942, n. 1672, con decreto luogotenenziale](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto.legislativo.luogotenenziale:1942-10-24;1672) [8 febbraio 1946, n. 242, con decreti del Capo provvisorio dello Stato](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto:1946-02-08;242) [12 aprile 1917, n. 461](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto:1917-04-12;461); [31 dicembre 1947, n. 1758 e con decreti del Presidente della Repubblica](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1947-12-31;1758) [24 dicembre 1948, n. 1619](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1948-12-24;1619); [18 luglio 1949, n. 882](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-07-18;882); [20 ottobre 1949, n. 989](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-10-20;989); [20 ottobre 1949, n. 991](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-10-20;991); [30 ottobre 1949, n. 1152](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-10-30;1152); [20 ottobre 1949, n. 1178](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-10-20;1178); [11 giugno 1950, n. 622](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1950-06-11;622); [16 novembre 1950, n. 1313](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1950-11-16;1313) e [11 maggio 1951, n. 653](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-05-11;653);  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella, [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Vedute le proposte di modifica allo statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
-Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro per la pubblica istruzione;  
+Gli articoli 508, 509, 510, 511 e 512, relativi all'ordinamento degli studi della prima e seconda scuola di "ostetricia e ginecologia" che muta la denominazione in quella di "ginecologia e ostetricia", sono sostituiti dai seguenti:  
   
-Decreta:  
-  
-Lo statuto dell'Universita' degli studi di Roma, approvato e modificato con i decreti sopraindicati e' cosi' ulteriormente modificato:  
-Dopo l'attuale art. 194 sono aggiunti i seguenti nuovi articoli, relativi all'istituzione della scuola di perfezionamento in "storia del diritto medioevale e moderno", con il conseguente spostamento della numerazione degli articoli successivi:  
-  
-Scuola di perfezionamento in storia del diritto medioevale e moderno   
-Art. 195. - La scuola di perfezionamento in storia dei diritto medioevale e moderno si propone di ampliare e approfondire la conoscenza del fenomeno storico-giuridico, sia come problema di ricerca scientifica con l'addestramento nell'uso e nella critica delle fonti, sia come problema metodologico della scienza del diritto.  
-La scuola, che ha sede presso l'Istituto di storia del diritto italiano della Facolta' di giurisprudenza, e' diretta dal professore ufficiale di storia dei diritto italiano.  
-Art. 196. - Possono essere ammessi alla scuola i laureati in giurisprudenza.  
-Possono essere ammessi alla scuola anche i laureati in lettere, in filosofia, in scienze politiche, in economia e commercio, in materie letterarie, i quali possano dimostrare, all'atto dell'iscrizione, di avere gia' superato i tre seguenti esami della Facolta' di giurisprudenza:  
-1) istituzioni di diritto romano;  
-2) storia del diritto romano;  
-3) storia del diritto italiano (biennale). Nel caso che di questa materia si fosse sostenuto soltanto un esame annuale, lo studente si impegna a sostenere un secondo esame annuale durante il primo anno del corso di perfezionamento.  
-L'ammissione alla scuola di coloro che hanno conseguito titoli di studio non conferiti dalle Universita' italiane e' regolata dalle disposizioni generali vigenti in materia.  
-Art. 197. - La scuola funziona come seminario per le esercitazioni pratiche di storia del diritto medioevale e moderno per gli studenti della Facolta' di giurisprudenza iscritti al corso ufficiale di storia del diritto italiano e rilascia, in tal caso, attestato di frequenza.  
-Art. 198. - La scuola di perfezionamento in "storia del diritto medioevale e moderno" ha la durata di due anni, e conduce a un diploma di perfezionamento.  
-Eccezionalmente, e solo per i laureati in giurisprudenza che dimostrino, all'atto dell'iscrizione, di aver gia' sostenuto gli esami in due delle materie obbligatorie e in una delle facoltative, previste dalla scuola, il corso degli studi potra' essere ridotto a un unico anno.  
-Art. 199. - La scuola di perfezionamento comprende insegnamenti ordinari, con prove di esame, e seminari.  
-Art. 200. - Gli insegnamenti ordinari, utilizzati tra quelli impartiti nella Facolta' di giurisprudenza o in altre Facolta', sono obbligatori e facoltativi.  
-Sono insegnamenti obbligatori i seguenti:  
-Facolta' di giurisprudenza:  
-1) diritto comune;  
-2) diritto canonico;  
-3) esegesi delle fonti del diritto italiano.  
-Facolta' di lettere e filosofia:  
-4) paleografia;  
-5) diplomatica;  
-6) storia medioevale (ovvero storia moderna).  
-Sono insegnamenti facoltativi i seguenti:  
-Facolta' di giurisprudenza:  
-1) diritto bizantino;  
-2) diritto musulmano.  
-Facolta' di scienze politiche:  
-3) storia delle dottrine politiche;  
-4) storia dei trattati e politica internazionale.  
-Facolta' di economia e commercio:  
-5) storia economica.  
-Facolta' di lettere e filosofia:  
-6) filosofia della storia;  
-7) storia del Cristianesimo;  
-8) storia della filosofia;  
-9) filologia romanza;  
-10) latino medioevale;  
-11) storia della lingua italiana;  
-12) storia moderna (ovvero storia medioevale).  
-I corsi verranno seguiti presso le rispettive Facolta' e ivi ne saranno sostenuti gli esami.  
-Art. 201. - Nei seminari, affidati a studiosi specializzati, si svolgono conferenze a titolo di esercitazione intorno a problemi o argomenti specifici. All'inizio di ciascun anno ne viene comunicato il programma.  
-Essi non danno luogo a prove d'esame, ma la frequenza e' obbligatoria. Non saranno ammessi all'esame di diploma gli iscritti che non possono provare di aver partecipato ad almeno due terzi delle conferenze tenute a questo titolo.  
-Art. 202. - Saranno ammessi all'esame di diploma gli iscritti che avranno superato, nell'ordine da essi liberamente scelto, gli esami nei sei insegnamenti obbligatori e in almeno tre, a loro scelta, degli insegnamenti facoltativi.  
-Art. 203. - Durante il primo anno di corso, e comunque non piu' tardi del 31 maggio, l'iscritto ha l'obbligo di concordare col direttore della scuola un tema di dissertazione monografica, da svolgere con ricerche personali, nella storia del diritto medioevale e moderno.  
-L'iscritto al quale sia stata consentita l'abbreviazione di corso di cui all'art. 198, dovra' concordare il tema di diploma entro il 31 dicembre.  
-Art. 204. - La dissertazione dovra' essere presentata in triplice copia, a stampa o dattiloscritta, entro il 20 novembre del secondo anno di corso: ne sara' relatore il direttore della scuola e correlatori dei professori che abbiano impartito nella scuola stessa insegnamenti ordinari o tenuto esercitazioni nei seminari.  
-Art. 205. - L'esame di diploma consistera' nella discussione orale sulla dissertazione, davanti ad una Commissione composta di nove membri, e si svolgera' entro il mese di dicembre.  
-Le dissertazioni giudicate, con parere unanime dalla Commissione di diploma, degne di stampa, saranno pubblicate, appena possibile, a spese della scuola.  
-Di tutte le dissertazioni sara' data notizia, col riassunto dei principali risultati, nella "Rivista italiana per le scienze giuridiche", pubblicata sotto gli auspici della Facolta' di giurisprudenza, e nella "Rivista di storia del diritto italiano".  
+Scuola di specializzazione in ginecologia e ostetricia (due scuole) Art. 508. - Sono istituite due scuole di specializzazione in ginecologia e ostetricia; la prima scuola ha sede presso l'istituto di clinica ostetrica e ginecologica I, la seconda presso l'istituto di clinica ostetrica e ginecologica 11.  
+Le scuole conferiscono il "diploma di specialista in ginecologia ed ostetricia".  
+La direzione della scuola e' affidata a professore ordinario, straordinario o fuori ruolo che insegni nella scuola stessa. In caso di motivato impedimento la direzione della scuola e' affidata a professore associato, che pure insegni nella scuola medesima.  
+Possono iscriversi alla scuola i laureati in medicina e chirurgia.  
+E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale rilasciato dall'autorita' competente.  
+Art. 509. - La durata del corso di studi e' di quattro anni e non e' suscettibile di abbreviazione.  
+Art. 510. - Il numero degli allievi da ammettere a ciascuna scuola e' stabilito in:  
+cento specializzandi (venticinque per ogni anno di corso) per la prima scuola;  
+cento specializzandi (venticinque per ogni anno di corso) per la seconda scuola.  
+Art. 511. - Le materie di insegnamento sono le seguenti:  
+1° Anno:  
+1) elementi di genetica medica;  
+2) elementi di embriologia; anatomia macro e micro dell'apparato genitale femminile; anatomia della pelvi;  
+3) elementi di fisiopatologia della riproduzione umana;  
+4) fisiologia ostetrica;  
+5) endocrinologia ginecologica ed ostetrica;  
+6) semeiotica e diagnostica ostetrica;  
+7) patologia ostetrica e ginecologica I (biennale);  
+8) lingua straniera (inglese) I (quadriennale).  
+2° Anno:  
+9) semeiotica e diagnostica ginecologica;  
+10) operazioni ostetriche I (biennale);  
+11) anatomia ed istologia patologica della sfera genitale femminile;  
+12) citologia ginecologica;  
+13) patologia ostetrica e ginecologica II (biennale);  
+14) diagnostica di laboratorio in ostetricia e ginecologia;  
+15) lingua straniera (inglese) II (quadriennale).  
+3° Anno:  
+16) puericultura prenatale;  
+17) immunologia ostetrica e ginecologica;  
+18) analgo-anestesia e rianimazione in ostetricia;  
+19) operazioni ostetriche II (biennale);  
+20) operazioni ginecologiche I (biennale);  
+21) ostetricia e ginecologia forense;  
+22) terapia medica in ostetricia e ginecologia;  
+23) clinica ostetrica e ginecologica I (biennale);  
+24) psicosomatica ostetrica e ginecologica;  
+25) lingua straniera (inglese) III (quadriennale).  
+4° Anno:  
+26) neonatologia;  
+27) urologia ginecologica;  
+28) radiodiagnostica e terapia fisica in ostetricia e ginecologia;  
+29) chirurgia addominale;  
+30) operazioni ginecologiche II (biennale);  
+31) clinica ostetrica e ginecologica II (biennale);  
+32) lingua straniera (inglese) IV (quadriennale).  
+Art. 512. - La frequenza alle lezioni ed alle esercitazioni pratiche e' obbligatoria. Gli allievi che non conseguono le attestazioni di frequenza sul relativo libretto non potranno essere ammessi a sostenere le prove di esame.  
+Alla fine di ogni anno di corso gli iscritti per essere ammessi agli anni di corso successivi devono superare le prove di esame sulle materie impartite durante l'anno. Per le materie a corsi pluriennali sara' sostenuto l'esame alla fine dei corsi medesimi.  
+Al termine del corso di studi, per il conseguimento del diploma di specialista in ginecologia ed ostetricia, gli interessati dovranno superare l'esame di diploma, consistente nella dissertazione scritta di un argomento attinente alla specializzazione.  
   
 
-Il presente decreto, munito del sigillo dello Stato, sara', inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 14 aprile 1952
+### Dato a Roma, addi' 28 ottobre 1981
 
-EINAUDI SEGNI
+PERTINI BODRATO
 
-Visto, il Guardasigilli: ZOLI
+Visto, il Guardasigilli: DARIDA
 
-Registrato alla Corte dei conti, addi' 15 luglio 1952
+Registrato alla Corte dei conti, addi' 30 gennaio 1982
 
-Atti del Governo, registro n. 55, foglio n. 128 - FRASCA
+Registro n. 12 Istruzione, foglio n. 36

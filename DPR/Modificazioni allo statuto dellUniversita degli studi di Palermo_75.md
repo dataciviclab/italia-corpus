@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 marzo 1980 n. 1058
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1974 n. 843
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 marzo 1980 n. 1058
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1974 n. 843
+==============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Palermo.
 -------------------------------------------------------------------
@@ -10,7 +10,7 @@ Modificazioni allo statuto dell'Universita' degli studi di Palermo.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' di Palermo, approvato con [regio decreto 14 ottobre 1926, n. 2412](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2412) e modificato con [regio decreto 13 ottobre 1927, n. 2240](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2240), e successive modificazioni;
+Veduto lo statuto dell'Universita' degli studi di Palermo, approvato con [regio decreto 14 ottobre 1926, n. 2412](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2412), e modificato con [regio decreto 13 ottobre 1927, n. 2240](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2240), e successive modificazioni;
 
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
@@ -18,130 +18,422 @@ Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it
 
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
 
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
-Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
 
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Palermo e convalidati dal Consiglio universitario nazionale e dal Consiglio superiore della pubblica istruzione nei loro pareri;
+Sentito il parere del Consiglio superiore della pubblica istruzione;
 
-Sentiti i pareri del Consiglio universitario nazionale e del Consiglio superiore della pubblica istruzione;
-
-Sulla proposta del Ministro della pubblica istruzione;
+Sulla proposta del Ministro per la pubblica istruzione;
 
 Decreta:
---------
 
 Lo statuto dell'Universita' degli studi di Palermo, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
-Articolo unico
---------------
+L'art. 180, relativo alla scuola di specializzazione in radiologia, e' abrogato e sostituito dal seguente:
 
+Scuola di specializzazione in radiologia
+
+Art. 180. - La scuola di specializzazione in radiologia rilascia due diplomi:
+
+a) diploma di specializzazione in radiologia;
+
+b) diploma di specializzazione in radiologia diagnostica.
+
+La scuola e' riservata ai laureati in medicina e chirurgia che possono essere accolti in numero massimo di sei per ciascun anno di corso per radiologia e radiologia diagnostica (totale quarantadue iscritti).
+
+A) Diploma di specializzazione in radiologia:
+
+Durata del corso: quattro anni;
+
+Numero massimo di iscritti: sei per ogni anno di corso (totale iscritti ventiquattro).
+
+Gli insegnamenti sono i seguenti:
+
+a) Matematica, fisica, nozioni di statistica ed informatica (annuale) comprendente:
+
+1) richiami di matematica e fisica generale;
+
+2) costituzione della materia;
+
+3) produzione, assorbimento e misura delle radiazioni;
+
+4) statistica applicata alla medicina;
+
+5) informatica e cibernetica.
+
+b) Radiodiagnostica (triennale) comprendente:
+
+1) principi generali di radiodiagnostica;
+
+2) apparecchi, strumenti e tecnica radiodiagnostica;
+
+3) tecnica e fisiologia applicata alla radiodiagnostica;
+
+4) i mezzi di contrasto artificiale in radiodiagnostica - effetti collaterali connessi con il loro impiego e loro terapia;
+
+5) semeiologia radiologica;
+
+6) diagnostica differenziale radiologica;
+
+7) dimostrazioni autoptiche di pazienti sottoposti ad esami radiologici;
+
+8) dimostrazioni di casistica clinica.
+
+c) Radiobiologia (annuale) comprendente:
+
+1) radiobiologia generale;
+
+2) danni da radiazioni e radiopatie.
+
+d) Protezioni radiologiche, legislazione sanitaria e problemi di tecnica ospedaliera applicati alla radiologia (annuale) comprendente:
+
+1) legislazione sanitaria applicata alla radiologia;
+
+2) compiti e responsabilita' medico-legali del radiologo;
+
+3) radioprotezione fisica e dosimetria ad essa connessa;
+
+4) fattori che influenzano l'effetto biologico delle radiazioni e problemi connessi con le radioprotezioni;
+
+5) radioprotezione chimica;
+
+6) problemi tecnici e funzionali inerenti la progettazione ed attivazione dei reparti radiologici.
+
+e) Radioterapia e terapia fisica (triennale) comprendente:
+
+1) radiobiologia applicata;
+
+2) fondamenti generali di radioterapia e terapia fisica;
+
+3) istopatologia speciale dei tumori;
+
+4) nozioni sugli apparecchi e strumenti per la radioterapia;
+
+5) tecnica e metodica radioterapica;
+
+6) dosimetria;
+
+7) clinica radioterapica;
+
+8) fondamenti generali di chemioterapia oncologica;
+
+9) chemioterapia clinica dei tumori e sua associazione alla radioterapia;
+
+10) dimostrazione di casistica clinica.
+
+f) Medicina nucleare (triennale) comprendente:
+
+1) elementi di medicina nucleare;
+
+2) istrumentario, tecnica e metodica dell'impiego dei radioisotopi in medicina nucleare;
+
+3) dosimetria dei radioisotopi somministrati per via interna;
+
+4) diagnostica con radioisotopi somministrati per via interna;
+
+5) radioterapia metabolica;
+
+6) dimostrazioni di casistica clinica.
+
+I singoli insegnamenti, tenuti da uno o piu' docenti, a seconda di quanto opportuno al loro migliore svolgimento e completati da conferenze, dimostrazioni pratiche e, ove opportuno e possibile, da visite ad istituzioni di particolare interesse, sono cosi' distribuiti nei quattro anni di corso:
+
+1° Anno (tronco comune):
+
+Matematica, fisica, nozioni di statistica ed informatica;
+
+Radiologia;
+
+Protezioni radiologiche, legislazione sanitaria e problemi di tecnica ospedaliera applicati alla radiologia;
+
+Radiodiagnostica (I).
+
+2° Anno:
+
+Radiodiagnostica (II);
+
+Radioterapia e terapia fisica (I).
+
+3° Anno:
+
+Radiodiagnostica (III);
+
+Radioterapia e terapia fisica (II);
+
+Medicina nucleare (I).
+
+4° Anno:
+
+Radioterapia e terapia fisica (III);
+
+Medicina nucleare (II).
+
+B) Diploma di specializzazione in radiologia diagnostica:
+
+Durata del corso: tre anni;
+
+Numero massimo di iscritti: sei per ogni anno di corso (totale diciotto iscritti).
+
+Gli insegnamenti sono i seguenti:
+
+a) Matematica, fisica, nozioni di statistica ed informatica (annuale) comprendente:
+
+1) Richiami di matematica e fisica generale;
+
+2) Costituzione della materia;
+
+3) Produzione, assorbimento e misura delle radiazioni;
+
+4) Statistica applicata alla medicina;
+
+5) Informatica e cibernetica applicate alla radiologia.
+
+b) Radiodiagnostica (triennale) comprendente:
+
+1) Principi generali di radiodiagnostica;
+
+2) Apparecchi, strumenti e tecnica radiodiagnostica;
+
+3) Tecnica e fisiologia applicate alla radiodiagnostica;
+
+4) I mezzi di contrasto artificiale di radiodiagnostica - effetti collaterali connessi con il loro impiego e loro terapia;
+
+5) Semeiologia radiologica;
+
+6) Diagnostica differenziale radiologica;
+
+7) Dimostrazioni autoptiche di pazienti sottoposti ad esami radiologici;
+
+8) Dimostrazioni di casistica clinica.
+
+c) Radiobiologia (annuale) comprendente:
+
+1) Radiobiologia generale;
+
+2) Danni da radiazioni e radiopatie.
+
+d) Protezioni radiologiche, legislazione sanitaria e problemi di tecnica ospedaliera applicati alla radiologia (annuale) comprendente:
+
+1) Legislazione sanitaria applicata alla radiologia;
+
+2) Compiti e responsabilita' medico-legali del radiologo;
+
+3) Radioprotezione fisica e dosimetria ad essa connessa;
+
+4) Fattori che influenzano l'effetto biologico delle radiazioni e problemi connessi con le radioprotezioni;
+
+5) Radioprotezione chimica;
+
+6) Problemi tecnici e funzionali inerenti la progettazione, organizzazione ed attivazione dei reparti radiologici.
+
+I singoli insegnamenti, tenuti da uno o piu' docenti a seconda di quanto opportuno al loro migliore svolgimento e completati da conferenze e dimostrazioni pratiche, sono cosi' distribuiti nei tre anni di corso:
+
+1° Anno (tronco comune):
+
+Matematica, fisica, nozioni di statistica ed informatica;
+
+Radiobiologia;
+
+Protezioni radiologiche, legislazione sanitaria e problemi di tecnica ospedaliera applicati alla radiologia;
+
+Radiodiagnostica (I).
+
+2° Anno:
+
+Radiodiagnostica (II).
+
+3°Anno:
+
+Radiodiagnostica (III).
+
+E' obbligatorio l'internato. L'obbligo della frequenza durante tutto l'anno accademico (nove mesi) presso l'istituto di radiologia, sede della scuola, puo' essere ridotto ad un mese (su concessione del direttore della scuola) per gli specializzandi che fanno parte di istituti universitari della stessa disciplina che non abbiano la scuola e per gli assistenti di ruolo di primariato della stessa disciplina presso ospedali di prima categoria.
+
+Non e' consentita l'abbreviazione dei corsi, fatta eccezione per gli specializzati in radiologia diagnostica, che intendano conseguire il diploma di specializzazione in radiologia, i quali potranno essere ammessi al terzo o quarto anno del corso in radiologia a giudizio del direttore della scuola in base alla valutazione dei loro titoli.
+
+E' obbligatorio il superamento degli esami di un corso per l'ammissione al corso successivo.
+
+Per essere ammessi agli esami di diploma in radiologia e, radiologia diagnostica, gli iscritti, oltre ad aver compiuto un congruo periodo di internato, devono aver superato un esame su ciascuna materia di insegnamento ed elaborata una tesi scritta su di un argomento radiologico concordato con il direttore della scuola.
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 31 ottobre 1974
+
+LEONE
+
+MALFATTI
+
+Visto, il Guardasigilli: REALE
+
+Registrato
+----------
+
+alla Corte dei conti, addi' 10 febbraio 1975 Atti di Governo, registro n. 8, foglio n. 102
+
+Art. 1
+------
+
+ IL PRESIDENTE DELLA REPUBBLICA   
   
+Veduto lo statuto dell'Universita' degli studi di Palermo, approvato con [regio decreto 14 ottobre 1926, n. 2412](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2412), e modificato con [regio decreto 13 ottobre 1927, n. 2240](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2240), e successive modificazioni;   
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;   
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;   
+Sentito il parere del Consiglio superiore della pubblica istruzione;   
+Sulla proposta del Ministro per la pubblica istruzione;   
   
-Dopo l'art. 202 dello statuto sono aggiunti i seguenti articoli relativi all'istituzione di una scuola di specializzazione in farmacia ospedaliera e una in scienze dell'alimentazione presso la facolta' di farmacia.   
+Decreta:   
   
-FACOLTA' DI FARMACIA   
+Lo statuto dell'Universita' degli studi di Palermo, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
   
-Scuola di specializzazione in farmacia ospedaliera   
-Art. 203. - E' istituita presso la facolta' di farmacia dell'Universita' di Palermo la scuola di specializzazione in farmacia ospedaliera, con l'intento di assicurare ai laureati in discipline farmaceutiche (farmacia e chimica e tecnologia farmaceutiche) la possibilita' di un perfezionamento nelle materie necessarie ad esercitare la loro attivita' nella farmacia ospedaliera.   
-Art. 204. - La scuola rilascia il diploma di specializzazione in farmacia ospedaliera al termine del corso di studi che ha durata biennale.   
-Art. 205. - Alla scuola di specializzazione sono ammessi i laureati in farmacia ed in chimica e tecnologia farmaceutiche.   
-L'ammissione alla scuola e' condizionata al superamento dell'esame di istituzioni di matematiche (programma del corso di laurea in chimica e tecnologia farmaceutiche), ove questo non sia stato superato nel corso degli studi universitari.   
-Art. 206. - Gli insegnamenti della scuola sono i seguenti:   
-1° Anno:   
-1) matematica e informatica;   
-2) patologia generale (\*);   
-3) biofarmaceutica e farmacocinetica I;   
-4) tossicita', interazioni, effetti secondari dei farmaci;   
-5) radiochimica e radiobiologia;   
-6) microbiologia e igiene (\*);   
-7) tecnologia delle preparazioni magistrali.   
+L'art. 180, relativo alla scuola di specializzazione in radiologia, e' abrogato e sostituito dal seguente:   
+  
+Scuola di specializzazione in radiologia   
+  
+Art. 180. - La scuola di specializzazione in radiologia rilascia due diplomi:   
+a) diploma di specializzazione in radiologia;   
+b) diploma di specializzazione in radiologia diagnostica.   
+La scuola e' riservata ai laureati in medicina e chirurgia che possono essere accolti in numero massimo di sei per ciascun anno di corso per radiologia e radiologia diagnostica (totale quarantadue iscritti).   
+  
+A) Diploma di specializzazione in radiologia:   
+Durata del corso: quattro anni;   
+Numero massimo di iscritti: sei per ogni anno di corso (totale iscritti ventiquattro).   
+Gli insegnamenti sono i seguenti:   
+  
+a) Matematica, fisica, nozioni di statistica ed informatica (annuale) comprendente:   
+1) richiami di matematica e fisica generale;   
+2) costituzione della materia;   
+3) produzione, assorbimento e misura delle radiazioni;   
+4) statistica applicata alla medicina;   
+5) informatica e cibernetica.   
+  
+b) Radiodiagnostica (triennale) comprendente:   
+1) principi generali di radiodiagnostica;   
+2) apparecchi, strumenti e tecnica radiodiagnostica;   
+3) tecnica e fisiologia applicata alla radiodiagnostica;   
+4) i mezzi di contrasto artificiale in radiodiagnostica - effetti collaterali connessi con il loro impiego e loro terapia;   
+5) semeiologia radiologica;   
+6) diagnostica differenziale radiologica;   
+7) dimostrazioni autoptiche di pazienti sottoposti ad esami radiologici;   
+8) dimostrazioni di casistica clinica.   
+  
+c) Radiobiologia (annuale) comprendente:   
+1) radiobiologia generale;   
+2) danni da radiazioni e radiopatie.   
+  
+d) Protezioni radiologiche, legislazione sanitaria e problemi di tecnica ospedaliera applicati alla radiologia (annuale) comprendente:   
+1) legislazione sanitaria applicata alla radiologia;   
+2) compiti e responsabilita' medico-legali del radiologo;   
+3) radioprotezione fisica e dosimetria ad essa connessa;   
+4) fattori che influenzano l'effetto biologico delle radiazioni e problemi connessi con le radioprotezioni;   
+5) radioprotezione chimica;   
+6) problemi tecnici e funzionali inerenti la progettazione ed attivazione dei reparti radiologici.   
+  
+e) Radioterapia e terapia fisica (triennale) comprendente:   
+1) radiobiologia applicata;   
+2) fondamenti generali di radioterapia e terapia fisica;   
+3) istopatologia speciale dei tumori;   
+4) nozioni sugli apparecchi e strumenti per la radioterapia;   
+5) tecnica e metodica radioterapica;   
+6) dosimetria;   
+7) clinica radioterapica;   
+8) fondamenti generali di chemioterapia oncologica;   
+9) chemioterapia clinica dei tumori e sua associazione alla radioterapia;   
+10) dimostrazione di casistica clinica.   
+  
+f) Medicina nucleare (triennale) comprendente:   
+1) elementi di medicina nucleare;   
+2) istrumentario, tecnica e metodica dell'impiego dei radioisotopi in medicina nucleare;   
+3) dosimetria dei radioisotopi somministrati per via interna;   
+4) diagnostica con radioisotopi somministrati per via interna;   
+5) radioterapia metabolica;   
+6) dimostrazioni di casistica clinica.   
+  
+I singoli insegnamenti, tenuti da uno o piu' docenti, a seconda di quanto opportuno al loro migliore svolgimento e completati da conferenze, dimostrazioni pratiche e, ove opportuno e possibile, da visite ad istituzioni di particolare interesse, sono cosi' distribuiti nei quattro anni di corso:   
+  
+1° Anno (tronco comune):   
+Matematica, fisica, nozioni di statistica ed informatica;   
+Radiologia;   
+Protezioni radiologiche, legislazione sanitaria e problemi di tecnica ospedaliera applicati alla radiologia;   
+Radiodiagnostica (I).   
+  
 2° Anno:   
-1) biofarmaceutica e farmacocinetica II;   
-2) immunochimica;   
-3) farmacia clinica;   
-4) documentazione e informazione sui farmaci;   
-5) officina galenica;   
-6) chimica degli alimenti (\*);   
-7) economia, organizzazione e legislazione ospedaliera.   
-Gli insegnamenti comprendono lezioni teoriche ed esercitazioni pratiche.   
-Ove gli esami delle materie segnate con asterisco (\*) non fossero stati superati durante gli studi universitari, queste materie dovranno essere seguite in un regolare corso universitario. Esse sono oggetto di esame, al pari di tutte le altre materie comprese nel piano di studi della scuola.   
-E' prevista la possibilita' di insegnamento e di esami integrati.   
-Art. 207. - La scuola e' organizzata dalla facolta' di farmacia dell'Universita' di Palermo.   
-Potranno essere invitati a tenere lezioni, conferenze, seminari ed esercitazioni, docenti di altre facolta' o universita', od esperti, anche dall'estero.   
-La direzione della scuola e' affidata ad un docente di ruolo o fuori ruolo eletto dal consiglio direttivo costituito da cinque docenti nominati dal consiglio di facolta', per la durata di tre anni, scelti fra i docenti di discipline:   
-chimico-farmaceutiche (due) farmaco-biologiche (due) tecnologiche (uno).   
-Art. 208. - Gli incarichi di insegnamento, anche per un limitato numero di lezioni o esercitazioni, sono conferiti dal rettore su proposta del consiglio direttivo della scuola con l'approvazione del senato accademico e del consiglio di amministrazione della Universita'.   
-Art. 209. - Le tasse e sopratasse per l'iscrizione alla scuola sono quelle stabilite per la facolta' di farmacia.   
-I contributi a carico degli iscritti dovranno essere fissati annualmente dal consiglio di amministrazione su proposta del consiglio della scuola e verranno resi noti ogni anno con apposito manifesto.   
-Art. 210. - Il numero massimo di iscritti e' di quindici per ogni anno di corso. L'ammissione alla scuola e' decisa dal consiglio direttivo sulla base di un concorso per esami e per titoli.   
-Art. 211. - La scuola e' finanziata con le quote di iscrizione e attraverso eventuali contributi della Societa' italiana di farmacia ospedaliera e da contributi, lasciti o donazioni di altri enti privati. L'eventuale accettazione di contributi, lasciti, donazioni, dovra' avvenire tramite l'Universita' nel rispetto delle normative vigenti.   
+Radiodiagnostica (II);   
+Radioterapia e terapia fisica (I).   
   
-Scuola di specializzazione in scienza dell'alimentazione   
-  
-Art. 212. - E' istituita presso la facolta' di farmacia dell'Universita' di Palermo la scuola di specializzazione in scienza dell'alimentazione.   
-Il direttore della scuola e' il titolare della cattedra di scienza dell'alimentazione.   
-In caso di vacanza della cattedra di scienza dell'alimentazione, la direzione della scuola puo' essere affidata al titolare della cattedra di chimica biologica o di fisiologia generale o ad un professore fuori ruolo delle stesse discipline.   
-Art. 213. - La scuola di specializzazione in scienza dell'alimentazione e' articolata secondo il seguente triplice indirizzo:   
-a) indirizzo dietetico;   
-b) indirizzo nutrizionistico;   
-c) indirizzo tecnologico.   
-L'indirizzo dietetico mira ad approfondire nei medici le basi teoriche e pratiche di fondamentale importanza per la dietetica preventiva e curativa ed a stimolare, altresi', la ricerca scientifica nel vasto campo della nutrizione umana. A tale indirizzo possono iscriversi soltanto i laureati in medicina e chirurgia.   
-L'indirizzo nutrizionistico mira alla preparazione specialistica di laureati in settori concernenti lo studio dei problemi generali e speciali dell'alimentazione negli aspetti fisiologici, biochimici, igienici, ecologici, economico-sociali, nonche' a stimolare la ricerca scientifica nei sopracitati settori.   
-A tale indirizzo possono essere ammessi i laureati in chimica e tecnologia farmaceutiche, in farmacia, in medicina e chirurgia, in medicina veterinaria, in scienze biologiche, in scienze naturali, in scienze agrarie.   
-L'indirizzo tecnologico mira alla preparazione di laureati per le attivita' direttive in settori concernenti le tecnologie alimentari in funzione dei loro riflessi nutritivi ed igienici sul prodotto finito, nonche' a stimolare la ricerca in questo settore.   
-A tale indirizzo possono essere ammessi i laureati in chimica, chimica e tecnologia farmaceutiche, farmacia, ingegneria chimica, scienze agrarie, scienze biologiche, scienza delle preparazioni alimentari.   
-Art. 214. - Il numero degli iscritti e' fissato a dieci per ogni anno di corso e per ogni indirizzo.   
-La durata del corso per tutti e tre gli indirizzi e' di tre anni.  
-Non sono ammesse abbreviazioni di corso, ad eccezione dei candidati che, gia' in possesso del diploma di specializzazione in scienza dell'alimentazione possono essere ammessi al terzo anno per ottenere il completamento di corso in uno dei tre indirizzi.   
-Art. 215. - Nel primo biennio vengono impartiti insegnamenti comuni agli iscritti a tutti e tre gli indirizzi:   
-gli insegnamenti si differenziano invece al terzo anno a seconda dell'indirizzo prescelto.   
-Il piano di insegnamento della scuola risulta pertanto cosi' strutturato:   
-1° Anno:   
-1) chimica degli alimenti;   
-2) biochimica della nutrizione;   
-3) fisiologia generale della nutrizione;   
-4) istituzioni di statistica applicata ai problemi alimentari. 2° Anno:   
-1) fisiologia della nutrizione umana;   
-2) igiene degli alimenti ed elementi di legislazione;   
-3) istituzioni di tecnologie alimentari;   
-4) biochimica patologica della nutrizione.   
 3° Anno:   
-A) Indirizzo dietetico:   
-1) alimentazione umana;   
-2) dietetica nell'eta' adulta;   
-3) dietetica nell'infanzia;   
-4) dietetica per le collettivita';   
-5) malattie dell'alimentazione e dietoterapia;   
-6) dietetica ospedaliera e organizzazione dei relativi servizi.   
-B) Indirizzo nutrizionistico:   
-1) alimentazione umana;   
-2) alimentazione degli animali da allevamento e da lavoro;   
-3) ecologia e geografia dell'alimentazione;   
-4) economia e statistica applicata all'alimentazione;   
-5) tecnica dei rilevamenti alimentari;   
-6) analisi chimiche degli alimenti: additivi chimici, frodi alimentari.   
-C) Indirizzo tecnologico:   
-1) microbiologia e chimica delle fermentazioni nell'industria alimentare;   
-2) tecnologie industriali di preparazione, conservazione e confezionamento degli alimenti di origine animale;   
-3) tecnologie industriali di preparazione, conservazione e confezionamento degli alimenti di origine vegetale;   
-4) analisi chimiche degli alimenti: additivi chimici; frodi alimentari.   
-I corsi sopra indicati possono essere integrati da esercitazioni pratiche e seminari decisi dal consiglio della scuola, nonche' da conferenze su argomenti speciali (psicologia dell'alimentazione, antropologia nutrizionale, organizzazione della vigilanza e del controllo sulla produzione e commercio degli alimenti e bevande, ecc.).   
-Art. 216. - Alla fine di ogni anno di corso gli iscritti che abbiano ottenuto la firma di frequenza dovranno sostenere un esame di profitto sulle materie d'insegnamento annuali contemplate nel piano di studio. L'esame di diploma consistera' nella discussione di una dissertazione scritta su un argomento approvato dalla direzione della scuola.   
-Le commissioni per gli esami di profitto e per l'esame del diploma sono costituite rispettivamente da tre a cinque membri, nominati dal preside della facolta' di farmacia su proposta del direttore della scuola.   
-Art. 217. - A coloro che hanno frequentato la scuola e superate le prove di esame prescritte verra' rilasciato un diploma di specialista valido a tutti gli effetti di legge.   
-Art. 218. - Le tasse di immatricolazione e di iscrizione alla scuola sono le stesse dovute dagli studenti della facolta' di farmacia: la misura dei contributi di laboratorio verra' fissata dal consiglio di amministrazione su proposta del senato accademico sentito il consiglio della scuola.   
+Radiodiagnostica (III);   
+Radioterapia e terapia fisica (II);   
+Medicina nucleare (I).   
+  
+4° Anno:   
+Radioterapia e terapia fisica (III);   
+Medicina nucleare (II).   
+  
+B) Diploma di specializzazione in radiologia diagnostica:   
+Durata del corso: tre anni;   
+Numero massimo di iscritti: sei per ogni anno di corso (totale diciotto iscritti).   
+Gli insegnamenti sono i seguenti:   
+  
+a) Matematica, fisica, nozioni di statistica ed informatica (annuale) comprendente:   
+1) Richiami di matematica e fisica generale;   
+2) Costituzione della materia;   
+3) Produzione, assorbimento e misura delle radiazioni;   
+4) Statistica applicata alla medicina;   
+5) Informatica e cibernetica applicate alla radiologia.   
+  
+b) Radiodiagnostica (triennale) comprendente:   
+1) Principi generali di radiodiagnostica;   
+2) Apparecchi, strumenti e tecnica radiodiagnostica;   
+3) Tecnica e fisiologia applicate alla radiodiagnostica;   
+4) I mezzi di contrasto artificiale di radiodiagnostica - effetti collaterali connessi con il loro impiego e loro terapia;   
+5) Semeiologia radiologica;   
+6) Diagnostica differenziale radiologica;   
+7) Dimostrazioni autoptiche di pazienti sottoposti ad esami radiologici;   
+8) Dimostrazioni di casistica clinica.   
+  
+c) Radiobiologia (annuale) comprendente:   
+1) Radiobiologia generale;   
+2) Danni da radiazioni e radiopatie.   
+  
+d) Protezioni radiologiche, legislazione sanitaria e problemi di tecnica ospedaliera applicati alla radiologia (annuale) comprendente:   
+1) Legislazione sanitaria applicata alla radiologia;   
+2) Compiti e responsabilita' medico-legali del radiologo;   
+3) Radioprotezione fisica e dosimetria ad essa connessa;   
+4) Fattori che influenzano l'effetto biologico delle radiazioni e problemi connessi con le radioprotezioni;   
+5) Radioprotezione chimica;   
+6) Problemi tecnici e funzionali inerenti la progettazione, organizzazione ed attivazione dei reparti radiologici.   
+  
+I singoli insegnamenti, tenuti da uno o piu' docenti a seconda di quanto opportuno al loro migliore svolgimento e completati da conferenze e dimostrazioni pratiche, sono cosi' distribuiti nei tre anni di corso:   
+  
+1° Anno (tronco comune):   
+Matematica, fisica, nozioni di statistica ed informatica;   
+Radiobiologia;   
+Protezioni radiologiche, legislazione sanitaria e problemi di tecnica ospedaliera applicati alla radiologia;   
+Radiodiagnostica (I).   
+  
+2° Anno:   
+Radiodiagnostica (II).   
+  
+3°Anno:   
+Radiodiagnostica (III).   
+  
+E' obbligatorio l'internato. L'obbligo della frequenza durante tutto l'anno accademico (nove mesi) presso l'istituto di radiologia, sede della scuola, puo' essere ridotto ad un mese (su concessione del direttore della scuola) per gli specializzandi che fanno parte di istituti universitari della stessa disciplina che non abbiano la scuola e per gli assistenti di ruolo di primariato della stessa disciplina presso ospedali di prima categoria.   
+Non e' consentita l'abbreviazione dei corsi, fatta eccezione per gli specializzati in radiologia diagnostica, che intendano conseguire il diploma di specializzazione in radiologia, i quali potranno essere ammessi al terzo o quarto anno del corso in radiologia a giudizio del direttore della scuola in base alla valutazione dei loro titoli.   
+E' obbligatorio il superamento degli esami di un corso per l'ammissione al corso successivo.   
+Per essere ammessi agli esami di diploma in radiologia e, radiologia diagnostica, gli iscritti, oltre ad aver compiuto un congruo periodo di internato, devono aver superato un esame su ciascuna materia di insegnamento ed elaborata una tesi scritta su di un argomento radiologico concordato con il direttore della scuola.   
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 27 marzo 1980
+### Dato a Roma, addi' 31 ottobre 1974
 
-PERTINI VALITUTTI
+LEONE MALFATTI
 
-Visto, il Guardasigilli: MORLINO
+Visto, il Guardasigilli: REALE
 
-Registrato alla Corte dei conti, addi' 18 febbraio 1981
+Registrato alla Corte dei conti, addi' 10 febbraio 1975
 
-Registro n. 14 Istruzione, foglio n. 368
+Atti di Governo, registro n. 8, foglio n. 102

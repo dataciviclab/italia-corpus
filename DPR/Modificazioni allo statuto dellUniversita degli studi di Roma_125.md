@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 ottobre 1978 n. 973
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1970 n. 1170
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 ottobre 1978 n. 973
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1970 n. 1170
+===============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Roma.
 ----------------------------------------------------------------
@@ -12,34 +12,67 @@ Art. 1
 
  IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' di Roma, approvato con [regio decreto 20 aprile 1939, n. 1350](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1350) e modificato con [regio decreto 26 ottobre 1939, n. 1734](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-26;1734), e successive modificazioni;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
+Veduto lo statuto dell'Universita' degli studi di Roma, approvato con [regio decreto 20 aprile 1939, n. 1350](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1350) e modificato con [regio decreto 26 ottobre 1939, n. 1734](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-26;1734), e successive modificazioni;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto il, [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
 Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Roma e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
 Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro della pubblica istruzione;  
+Sulla proposta del Ministro per la pubblica istruzione;  
   
 Decreta:  
   
 Lo statuto dell'Universita' degli studi di Roma, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-Art. 58 - all'elenco degli insegnamenti complementari del corso di laurea in lettere e' aggiunto il seguente:  
-tibetologia.  
-Art. 60 - all'elenco degli insegnamenti complementari del corso di laurea in lingue e letterature straniere moderne (indirizzo orientale) e' aggiunto il seguente:  
-tibetologia.  
+gli articoli da 698 a 708 relativi al corso di specializzazione in ingegneria dei controlli automatici che assume la denominazione di corso di specializzazione in ingegneria dei sistemi di controllo e calcolo automatici, sono abrogati e sostituiti dai seguenti:  
+  
+Corso di specializzazione in ingegneria  
+dei sistemi di controllo e calcolo automatici  
+  
+Art. 698. - Presso la facolta' di ingegneria e' istituito un corso di specializzazione in ingegneria dei sistemi di controllo e calcolo automatici, per la formazione di esperti nei diversi settori riguardanti la teoria e l'applicazione dell'automatica e dell'informatica.  
+Art. 699. - Il corso ha la durata di un anno; e' direttore del corso il professore titolare della cattedra di "Controlli automatici I". Il consiglio direttivo e' costituito dal direttore e dai docenti dei singoli insegnamenti.  
+Art. 700. - Al corso sono ammessi i laureati in ingegneria aeronautica, ingegneria chimica, ingegneria elettronica, ingegneria elettrotecnica, ingegneria meccanica, ingegneria mineraria, ingegneria nucleare; il consiglio del corso potra' ammettere laureati in altre discipline e laureati in Paesi stranieri.  
+Il consiglio direttivo delibera tempestivamente di anno in anno l'inizio e lo svolgimento delle lezioni, il numero degli iscritti e le norme per l'ammissione, nonche' il numero minimo di iscritti affinche' il corso stesso abbia luogo. L'ammissione al corso e' subordinata all'esito di un colloquio per quei laureati che non abbiano sostenuto un esame sui fondamenti dei sistemi di controllo automatico o su quelli di calcolo automatico o su materie affini. Il consiglio di facolta' potra' sospendere lo svolgimento del corso a partire dall'anno accademico successivo alla deliberazione.  
+Art. 701. - La frequenza ai singoli insegnamenti deve essere attestata dai rispettivi docenti secondo le modalita' stabilite dal consiglio del corso.  
+Art. 702. - Ciascun allievo puo' predisporre un piano di studi nell'ambito delle discipline elencate nel successivo articolo o insegnate presso l'Universita' di Roma.  
+Il numero degli insegnamenti deve essere almeno equivalente a sei insegnamenti annuali. Il piano di studi e' sottoposto all'approvazione del consiglio del corso.  
+Art. 703. - Gli insegnamenti impartiti sono annuali; alcuni di essi potranno essere suddivisi in insegnamenti semestrali. Essi sono:  
+1) Applicazioni gestionali degli elaboratori;  
+2) Automazione degli impianti industriali;  
+3) Bioingegneria;  
+4) Calcolatori elettronici;  
+5) Calcolo numerico con elementi di programmazione;  
+6) Compilatori e sistemi operativi;  
+7) Elettronica industriale;  
+8) Esercitazioni di linguaggi programmativi;  
+9) Misure e strumentazione automatica;  
+10) Modelli dei processi industriali;  
+11) Principi di economia ed econometria;  
+12) Ricerca operativa;  
+13) Sintesi dei sistemi di controllo;  
+14) Sistemi combinatori e sequenziali;  
+15) Sistemi aziendali;  
+16) Tecniche dei controlli automatici;  
+17) Tecniche digitali;  
+18) Teoria dell'identificazione e della stima;  
+19) Teoria dell'ottimizzazione;  
+20) Teoria della probabilita' e statistica;  
+21) Teoria dei sistemi.  
+Art. 704. - Gli insegnanti del corso sono proposti dal direttore che puo' sceglierli fra i professori di ruolo e fuori ruolo, fra i liberi docenti, fra gli aiuti e gli assistenti o anche fra persone di riconosciuta competenza delle rispettive specialita', ovvero giovarsi, per talune materie, di insegnamenti svolti presso una delle facolta'.  
+Tali proposte sono subordinate all'approvazione del consiglio di facolta' ed alle nomine provvede il rettore.  
+Art. 705. - Per la validita' del corso e cioe' per il conseguimento dell'attestato di cui all'art. 771 ciascun iscritto dovra' superare gli esami in tutti gli insegnamenti previsti nel suo piano di studi e dovra' svolgere un lavoro personale di carattere teorico o sperimentale.  
+Art. 706. - Agli iscritti che abbiano superato gli esami e abbiano ottenuto l'idoneita' per il lavoro personale eseguito viene rilasciato un attestato comprovante la carriera scolastica compiuta.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 27 ottobre 1978
+### Dato a Roma, addi' 31 ottobre 1970
 
-PERTINI PEDINI
+SARAGAT MISASI
 
-Visto, il Guardasigilli: BONIFACIO
+Visto, il Guardasigilli: REALE
 
-Registrato alla Corte dei conti, addi' 10 febbraio 1979
+Registrato alla Corte dei conti, addi' 9 gennaio 1971
 
-Registro n. 5 Istruzione, foglio n. 362
+Atti del Governo, registro n. 240, foglio n. 10. - CARUSO

@@ -1,577 +1,240 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 aprile 1979 n. 507
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 01 maggio 1972 n. 447
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 aprile 1979 n. 507
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 01 maggio 1972 n. 447
 =============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Bologna.
 -------------------------------------------------------------------
 
-IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
-
-Veduto lo statuto dell'Universita' di Bologna, approvato con [regio decreto 14 ottobre 1926, n. 2170](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2170) e modificato con [regio decreto 13 ottobre 1927, n. 2227](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2227), e successive modificazioni;
-
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
-
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
-
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
-
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
-
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Bologna e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;
-
-Veduta la [legge 22 maggio 1978, n. 217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-05-22;217);
-
-Sentito il parere del Consiglio superiore della pubblica istruzione;
-
-Sulla
------
-
-proposta del Ministro della pubblica istruzione; Decreta:
-
 Art. 1
 ------
 
+ IL PRESIDENTE DELLA REPUBBLICA   
   
-Lo statuto dell'Universita' degli studi di Bologna, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-Gli articoli 454, 455 e 457, relativi alle norme generali delle scuole di specializzazione in medicina e chirurgia, sono soppressi e sostituiti dai seguenti:  
-Art. 454. - Le scuole post-universitarie di specializzazione conferiscono i rispettivi diplomi di specialista ai sensi dell'[art. 178 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art178).  
-Possono iscriversi alle scuole di specializzazione i laureati in medicina e chirurgia. E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale rilasciato dall'autorita' competente. L'ammissione e' per titoli ed esami.  
-Gli esami si sostengono in due sessioni, una estiva ed una autunnale e comunque non oltre il 31 dicembre.  
-Art. 455. - La direzione della scuola e' affidata al professore di ruolo o fuori ruolo della stessa materia della specializzazione o, in carenza, al professore di ruolo o fuori ruolo di materia affine.  
-Egli presiede il consiglio della scuola costituito a norma dell'art. 187, vigila sul buon funzionamento di essa ed e' tenuto a dare comunicazione al preside della facolta' medico-chirurgica di tutti gli atti e di tutte le deliberazioni del consiglio da lui presieduto.  
-Art. 457. - Non sono consentite le abbreviazioni di corso.  
-
-Art. 2
-------
-
+Veduto lo statuto dell'Universita' degli studi di Bologna, approvato con [regio decreto 14 ottobre 1926, n. 2170](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2170) e modificato con [regio decreto 13 ottobre 1927, n. 2227](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2227), e successive modificazioni;   
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;   
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;   
+Sentito il parere del Consiglio superiore della pubblica istruzione;   
+Sulla proposta del Ministro per la pubblica istruzione;   
   
-Gli articoli 475, 476, 477, 478, 479 e 480, relativi alla scuola di specializzazione in clinica pediatrica che muta la denominazione in scuola di specializzazione in pediatria, sono abrogati e sostituiti dai seguenti:  
-Art. 475. - La scuola di specializzazione in pediatria ha sede presso la clinica pediatrica e conferisce il diploma di specialista in pediatria. Possono iscriversi alla scuola i laureati in medicina e chirurgia.  
-Art. 476. - La durata del corso di studi e' di quattro anni.  
-Il numero massimo degli allievi e' di diciannove per anno di corso e complessivamente di settantasei per l'intero corso di studi.  
-Art. 477. - Le materie di insegnamento sono le seguenti:  
-1° Anno:  
-genetica;  
-auxologia;  
-alimentazione;  
-epidemiologia;  
-malattie infettive;  
-clinica pediatrica I.  
-2° Anno:  
-radiologia;  
-legislazione del minore;  
-organizzazione sanitaria;  
-psicologia pediatrica;  
-oculistica ed ortottica;  
-otorino e foniatria;  
-odonto;  
-neonatologia I;  
-chirurgia pediatrica I;  
-pediatria preventiva e sociale I;  
-clinica pediatrica II.  
-3° Anno:  
-neurologia;  
-psichiatria infantile;  
-nefrologia e urologia;  
-ginecologia pediatrica;  
-neonatologia II;  
-chirurgia pediatrica II;  
-pediatria preventiva e sociale II;  
-cardiologia I;  
-endocrinologia I;  
-ematologia I;  
-immunologia I;  
-gastroenterologia I;  
-clinica pediatrica III.  
-4° Anno:  
-oncologia;  
-pneumologia;  
-ortopedia e traumatologia;  
-dermatologia;  
-cardiologia II;  
-endocrinologia II;  
-ematologia II;  
-immunologia II;  
-gastroenterologia II;  
-clinica pediatrica IV.  
-Art. 478. - La frequenza alle lezioni e alle esercitazioni pratiche e' obbligatoria. Gli allievi che non conseguono le attestazioni di frequenza sul relativo libretto, non potranno essere ammessi a sostenere le prove di esame.  
-Art. 479. - Alla fine di ciascun anno di corso gli iscritti, per essere ammessi agli anni successivi, devono superare le prove di esame sulle materie impartite durante l'anno. Per le materie a corso pluriennale l'esame sara' sostenuto alla fine dei corsi medesimi.  
-Art. 480. - Al termine del corso di studi, per il conseguimento del diploma di specialista in pediatria, gli interessati dovranno superare l'esame di diploma consistente nella dissertazione scritta di un argomento attinente alla specializzazione.  
-
-Art. 3
-------
-
+Decreta:   
   
-L'art. 486, relativo alla scuola di specializzazione in odontoiatria e protesi dentaria che muta la denominazione in scuola di specializzazione in odontostomatologia, viene abrogato e sostituito dal seguente:  
+Lo statuto dell'Universita' degli studi di Bologna, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
+Gli articoli da 426 a 431, relativi alla "Scuola di perfezionamento in ostetricia e ginecologia" che muta la denominazione in quella di "Scuola di specializzazione in ostetricia e ginecologia", sono abrogati e sostituiti dai seguenti:   
   
-Scuola di specializzazione in odontostomatologia  
-Art. 486. - La scuola di specializzazione in odontostomatologia conferisce il diploma in odontostomatologia.  
-Il titolo per l'iscrizione e' la laurea in medicina e chirurgia ed il possesso, almeno all'inizio del corso, del diploma di abilitazione all'esercizio professionale.  
-Il corso della scuola ha la durata di tre anni ed il corso di studi non e' suscettibile di abbreviazioni.  
-
-Art. 4
-------
-
+Scuola di specializzazione in ostetricia e ginecologia   
   
+Art. 426. - Il corso di studi per la specializzazione in ostetricia e ginecologia ha la durata di quattro anni.   
+Quando il numero dei candidati all'iscrizione al primo anno di corso superi il numero di dieci, l'ammissione alla scuola avverra' a seguito di concorso per titoli ed esami, concorso che deve essere espletato entro il mese di dicembre; le domande di iscrizione devono essere presentate alla segreteria della scuola presso l'Universita' di Bologna entro il 30 novembre dell'anno accademico in corso.   
+Sono da considerare titoli preferenziali, a parita' di risultato dell'esame di ammissione (prova scritta ed orale su temi di medicina generale o di anatomia patologica):   
+a) il voto di laurea in medicina e chirurgia;   
+b) l'aver frequentato come medico o come studente interno una clinica ostetrica e ginecologica e l'avervi preparato la tesi di laurea;   
+c) la documentazione di eventuali servizi prestati in grossi reparti ospedalieri della specialita';   
+d) eventuali pubblicazioni attinenti alla materia.   
+Nel caso in cui il numero delle domande di iscrizione fosse inferiore a dieci, il consiglio della scuola, a parere unanime, puo' decidere di non dare luogo agli esami di ammissione, ma puo' ammettere, senza altre formalita', i candidati al primo anno di corso. In tali casi l'ammissione potra' avvenire anche in base ai soli titoli presentati.   
+Art. 427. - Direttore della scuola di specializzazione in ostetricia e ginecologia e' il titolare della cattedra, che da' il titolo alla scuola; egli e' nominato dalla facolta' di medicina e chirurgia per un anno ed e' sempre riconfermabile. Nel caso in cui il detto titolare non sia professore di ruolo, il direttore e' scelto dalla facolta' fra i titolari di studio. Egli presiede il consiglio della scuola, costituito a norma dell'art. 186 ed e' tenuto a dare comunicazione al preside della facolta' medico-chirurgica di tutti gli atti e di tutte le deliberazioni del consiglio da lui presieduto.   
+Art. 428. - Il numero complessivo degli iscritti alla scuola non deve essere superiore a quaranta.   
+Per nessun motivo il corso di quattro anni puo' essere abbreviato.  
+Nessun titolo puo' esonerare dalla frequenza gli iscritti ai quattro anni di corso.   
+Art. 429. - Gli iscritti, oltre all'obbligo di frequenza alle lezioni cattedratiche, esercitazioni, seminari ecc., debbono prestare servizio analogo a quello degli assistenti per non meno di dieci mesi su dodici all'anno.   
+La scelta dei mesi di permesso e' in facolta' del consiglio della scuola, a seconda dell'epoca delle lezioni e delle esigenze di servizio nella clinica.   
+Gli iscritti alla scuola debbono sostenere esami annuali di profitto (per le materie in programma nello anno) e l'esame finale di diploma, dopo un esame di profitto in clinica ostetrica e ginecologica.   
+La sessione di esami di profitto e' unica ed e' espletata nel mese di novembre.   
+Non puo' essere iscritto all'anno successivo chi non abbia superato le materie fondamentali della specialita'.   
+La frequenza degli iscritti deve essere convalidata e confermata dalla firma degli insegnanti delle rispettive materie.   
+Art. 430. - Le materie di insegnamento sono:   
   
-Gli articoli 503, 504, 505 e 506, relativi alla scuola di specializzazione in radiologia, sono abrogati e sostituiti dai seguenti:   
-  
-Scuola di specializzazione in radiologia   
-Art. 503. - La scuola di specializzazione in radiologia ha sede presso l'istituto di radiologia.   
-Il numero massimo di iscritti in corso alla scuola e' di settanta da ripartirsi annualmente fra i due corsi di diploma previsti dall'art. 504.   
-Art. 504. - La scuola conferisce i seguenti diplomi:   
-a) diploma di specialista in radiodiagnostica. Gli anni di studio necessari per conseguire questo titolo sono quattro;   
-b) diploma di specialista in radioterapia oncologica Gli anni di studio necessari per conseguire questo titolo sono quattro.   
-Art. 505. - La scuola ha un tronco comune di due anni identico per i diplomi in radiodiagnostica e radioterapia oncologica.   
-Gli insegnamenti per il diploma di specialista in radiodiagnostica sono cosi' distribuiti nei quattro anni di corso:   
-1° Anno (comune alla specializzazione in radioterapia oncologica):   
-a) fisica (con richiamo di matematica, nozioni di statistica, informatica e dosimetria);   
-b) radiobiologia, legislazione e norme generali di radioprotezione;   
-c) tecnica di acquisizione e memorizzazione dei dati, fotodocumentazione e archiviazione;   
-d) nozioni di anatomia e fisiologia generale.   
-2° Anno (comune alla specializzazione in radioterapia oncologica):   
-a) anatomia patologica;   
-b) apparecchiature e tecniche radiologiche;   
-c) semeiotica radiologica (integrata con le semeiotiche clinica, isotopica e di laboratorio);   
-d) radiopatologia;   
-e) dosimetria applicata.   
-3° Anno:   
-a) tecniche speciali e relativa semeiotica I;   
-b) radiodiagnostica speciale dei vari organi ed apparati I.   
-4° Anno:   
-a) tecniche speciali e relativa semeiotica (termografia, ecografia, xerografia, TAK) II;   
-b) radiodiagnostica speciale dei vari organi ed apparati II.   
-Gli insegnamenti per il diploma di specialista in radioterapia oncologica sono cosi' distribuiti nei quattro anni di corso:   
 1° Anno:   
-a) fisica (con richiami di matematica, nozioni di statistica, informatica e dosimetria);   
-b) radiobiologia, legislazione e norme generali di radioprotezione;   
-c) tecnica di acquisizione e memorizzazione dei dati, fotodocumentazione e archiviazione);   
-d) nozioni di anatomia e fisiologia generale.   
-2° Anno (comune alla specializzazione in radiodiagnostica):   
-a) anatomia patologica;   
-b) apparecchiature e tecniche radiologiche;   
-c) semeiotica radiologica (integrata con le semeiotiche clinica, isotopica e di laboratorio);   
-d) radiopatologia;   
-e) dosimetria applicata.   
-3° Anno:   
-a) oncologia generale;   
-b) oncologia clinica I;   
-c) tecniche radioterapiche.   
-4° Anno:   
-a) oncologia clinica II;   
-b) fondamenti di terapia chirurgica dei tumori;   
-c) radioterapia clinica;   
-d) trattamento del canceroso in fase avanzata.   
-I singoli insegnamenti saranno tenuti da uno o piu' docenti a seconda di quanto appaia opportuno per il loro migliore svolgimento.   
-Art. 506. - La frequenza pratica e' obbligatoria (dieci mesi all'anno) e deve avvenire in reparti riconosciuti idonei.  
-L'insegnamento verra' svolto mediante lezioni, esercitazioni, seminari, conferenze, corsi di aggiornamento aperti anche a specialisti, ecc.   
-Gli allievi, per essere ammessi a sostenere gli esami delle singole materie, dovranno avere la firma di frequenza da parte del direttore della scuola stessa.   
-Gli allievi al termine di ogni anno di corso dovranno superare gli esami di profitto delle materie prescritte per poter ottenere l'iscrizione all'anno successivo.   
-Gli allievi per conseguire il diploma di specializzazione, oltre ad essere stati approvati in tutti gli esami, dovranno elaborare e discutere una tesi scritta su un argomento concordato con il direttore della scuola.   
-
-Art. 5
-------
-
+A) Elementi di genetica e di eugenica;   
+B) Anatomia normale ed embriologia dell'apparato genitale femminile;   
+C) Fisiologia ostetrica;   
+D) Fisiologia dell'apparato genitale femminile;   
+E) Endocrinologia fisiologica;   
+F) Diagnostica ostetrica;   
+G) Clinica ostetrica e ginecologica.   
   
-Gli articoli 532, 533, 534, 535 e 536, relativi alla scuola di specializzazione in medicina del lavoro, sono abrogati e sostituiti dai seguenti:  
-  
-Scuola di specializzazione in medicina del lavoro  
-Art. 532. - Presso la facolta' di medicina e chirurgia e' istituita la scuola di specializzazione in medicina del lavoro, che conferisce il diploma di specialista in medicina del lavoro.  
-Art. 533. - Gli anni di studio occorrenti al conseguimento del titolo sono quattro, la durata del corso non e' suscettibile di abbreviazioni.  
-Sono impartiti i seguenti insegnamenti cosi' distribuiti per ciascun anno di corso:  
-1° Anno:  
-1) igiene del lavoro (I corso);  
-2) fisiologia del lavoro ed ergonomia (I corso);  
-3) tecnologia industriale;  
-4) statistica medica e biometria;  
-5) tecniche di laboratorio.  
-2° Anno:  
-1) patologia e clinica delle malattie del lavoro (I corso);  
-2) igiene del lavoro (II corso);  
-3) fisiologia del lavoro ed ergonomia (II corso);  
-4) psicologia del lavoro;  
-5) tossicologia industriale.  
-3° Anno:  
-1) patologia e clinica delle malattie da lavoro (II corso);  
-2) prevenzione degli infortuni e delle malattie da lavoro (I corso);  
-3) epidemiologia delle malattie da lavoro;  
-4) radiologia e radioprotezione;  
-5) dermatologia professionale.  
-4° Anno:  
-1) patologia e clinica delle malattie da lavoro (III corso);  
-2) prevenzione degli infortuni e delle malattie da lavoro (II corso);  
-3) pronto soccorso;  
-4) medicina legale e delle assicurazioni;  
-5) organizzazione dei servizi di medicina e igiene del lavoro.  
-Gli esami delle discipline svolte in corsi pluriennali verranno sostenuti alla fine dell'ultimo corso.  
-Art. 534. - Possono iscriversi alla scuola i laureati in medicina e chirurgia. E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione dell'esercizio professionale rilasciato dall'autorita' competente.  
-L'iscrizione alla scuola avviene per titoli ed esami.  
-Art. 535. - Il numero massimo degli allievi e' di otto per anno di corso e complessivamente di trentadue iscritti per l'intero corso di studi.  
-Gli iscritti alla scuola hanno l'obbligo di frequentare le lezioni e le esercitazioni pratiche.  
-Gli allievi che non conseguono le attestazioni di frequenza sul relativo libretto non potranno essere ammessi a sostenere le prove d'esame.  
-Art. 536. - Alla fine di ogni corso gli iscritti che abbiano conseguito le attestazioni di frequenza sul relativo libretto, per essere ammessi al corso successivo, devono superare le prove d'esame sulle materie impartite durante l'anno.  
-Per le materie biennali o triennali l'esame sara' sostenuto alla fine del biennio o del triennio.  
-Al termine del corso di studi per il conseguimento del diploma di specialista in medicina del lavoro, gli interessati dovranno superare l'esame di diploma, consistente nella dissertazione scritta su di un argomento di medicina del lavoro.  
-
-Art. 6
-------
-
-  
-Gli articoli 537, 538, 539, 540 e 541, relativi alla scuola di specializzazione in tisiologia e malattie dell'apparato respiratorio, sono abrogati e sostituiti dai seguenti:  
-  
-Scuola di specializzazione in tisiologia e malattie dell'apparato respiratorio  
-Art. 537. - E' istituita presso la facolta' di medicina e chirurgia la scuola di specializzazione in tisiologia e malattie dell'apparato respiratorio la quale conferisce il diploma di specialista in tisiologia e malattie dell'apparato respiratorio.  
-Possono iscriversi alla scuola i laureati in medicina e chirurgia.  
-E' richiesto il possesso dell'abilitazione professionale almeno all'inizio ufficiale dei corsi e della frequenza nei reparti.  
-La durata del corso di studio e' di anni quattro e non e' suscettibile di abbreviazioni. Sono disponibili dieci posti per ciascun anno di corso con un totale di quaranta posti.  
-Art. 538. - Le materie di insegnamento sono le seguenti:  
-1° Anno:  
-1) anatomia e istologia patologica della tubercolosi e delle malattie dell'apparato respiratorio (biennale) (I);  
-2) patologia della tubercolosi polmonare ed extra polmonare;  
-3) patologia delle malattie dell'apparato respiratorio;  
-4) fisiologia e fisiopatologia generale dell'apparato respiratorio;  
-5) semeiotica fisica e funzionale dell'apparato respiratorio;  
-6) microbiologia;  
-7) epidemiologia e statistica sanitaria della tubercolosi e delle malattie dell'apparato respiratorio.  
-2° Anno:  
-1) anatomia e istologia patologica della tubercolosi e delle malattie dell'apparato respiratorio (biennale) (II);  
-2) clinica della tubercolosi (triennale) (I);  
-3) clinica delle malattie dell'apparato respiratorio (triennale) (I);  
-4) fisiopatologia speciale della tubercolosi e delle malattie dell'apparato respiratorio;  
-5) broncologia;  
-6) radiologia dell'apparato respiratorio;  
-7) profilassi della tubercolosi;  
-8) igiene e legislazione sociale.  
-3° Anno:  
-1) clinica delle malattie dell'apparato respiratorio (triennale) (II);  
-2) clinica della tubercolosi (triennale) (II);  
-3) chemioterapia della tubercolosi e delle malattie dell'apparato respiratorio;  
-4) terapia fisiomeccanica nella tubercolosi e nelle malattie dell'apparato respiratorio;  
-5) terapia chirurgica nella tubercolosi e nelle malattie dell'apparato respiratorio.  
-4° Anno:  
-1) clinica delle malattie dell'apparato respiratorio (triennale) (III);  
-2) clinica della tubercolosi (triennale) (III).  
-Gli insegnamenti complementari che possono essere inseriti negli statuti sono i seguenti: immunologia clinica, cardiologia, medicina nucleare, malattie professionali dell'apparato respiratorio, terapia intensiva pneumologica.  
-Art. 539. - I corsi di insegnamento sono integrati da conferenze e da seminari interdisciplinari (questi ultimi prevalentemente destinati al IV anno) o da esercitazioni pratiche nei reparti di degenza e nei laboratori per i quali gli specializzandi hanno l'obbligo di frequenza al pari che per le lezioni.  
-Art. 540. - L'ammissione alla scuola avviene per titoli e con un colloquio orale. Nel caso che le domande di iscrizione superino il numero dei posti, l'ammissione avverra' con l'integrazione di una prova scritta.  
-Art. 541. - Alla fine di ogni anno, gli iscritti che abbiano conseguito le attestazioni di frequenza sul relativo libretto, sono tenuti a superare tutti gli esami di profitto di ogni anno di corso e per singola materia, per il passaggio all'anno di corso successivo.  
-Per il conseguimento del diploma di specializzazione e' prescritta la presentazione e la discussione di una dissertazione scritta.  
-
-Art. 7
-------
-
-  
-  
-Gli articoli 553, 554, 555, 556 e 557, relativi alla prima scuola di specializzazione in malattie dell'apparato cardiovascolare che muta la denominazione in quella di prima scuola di specializzazione in cardiologia, sono abrogati e sostituiti dai seguenti:   
-  
-Prima scuola di specializzazione in cardiologia   
-Art. 553. - Presso la facolta' di medicina e chirurgia e' istituita la prima scuola di specializzazione in cardiologia che conferisce il diploma di specialista in cardiologia.   
-La durata del corso di studi non e' suscettibile di abbreviazioni.   
-La direzione della scuola e' affidata al professore di ruolo o fuori ruolo della stessa materia della specializzazione o, in carenza, a professore di ruolo o fuori ruolo di materia affine.   
-Il corso ha la durata di quattro anni.   
-Art. 554. - Le materie di insegnamento sono le seguenti:   
-1° Anno:   
-1) anatomia umana normale ed embriologia dell'apparato cardiovascolare;   
-2) fisiologia dell'apparato cardiovascolare (I);   
-3) biochimica e biofisica;   
-4) semeiotica fisica e strumentale dell'apparato cardiovascolare (I);   
-5) informatica medica e strumentazione biomedica (I).   
 2° Anno:   
-1) anatomia patologica (I);   
-2) fisiologia dell'apparato cardiovascolare (II);   
-3) patologia e clinica cardiovascolare (I);   
-4) semeiotica fisica e strumentale dell'apparato cardiovascolare (II);   
-5) informatica medica e strumentazione biomedica (II);   
-6) radiologia (I);   
-7) aspetti sociali ed epidemiologici delle malattie cardiovascolari.   
+A) Tecnica operatoria ostetrica;   
+B) Diagnostica ginecologica;   
+C) Clinica ostetrica e ginecologica;   
+D) Tecnica diagnostica di laboratorio nel campo ostetrico e ginecologico, esclusa la istologia (sierologia, batteriologia, citologia, ematologia, biochimica).   
+  
 3° Anno:   
-1) anatomia patologica (II);   
-2) semeiotica fisica e strumentale dell'apparato cardiovascolare (III);   
-3) patologia e clinica cardiovascolare (II);   
-4) radiologia (II);   
-5) terapia medica e farmacologia clinica (I).   
+A) Anatomia patologica ostetrica e ginecologica;   
+B) Istologia normale e patologica nel campo della specialita';   
+C) Puericultura prenatale;   
+D) Emoterapia nel campo ostetrico e ginecologico;   
+E) Anestesia e analgesia nel campo ostetrico e ginecologico;   
+F) Tecnica operatoria ginecologica;   
+G) Clinica ostetrica e ginecologica;   
+H) Terapia medica ostetrica e ginecologica.   
+  
 4° Anno:   
-1) semeiotica fisica e strumentale dell'apparato cardiovascolare (IV);   
-2) patologia e clinica cardiovascolare (III);   
-3) terapia medica e farmacologia clinica (II);   
-4) terapia chirurgica;   
-5) terapie intensive cardiologiche.   
-Art. 555. - L'ammissione alla scuola avviene per titoli ed esami.   
-Il numero massimo degli allievi e' di dieci per anno di corso e complessivamente di quaranta iscritti per l'intero corso di studi.   
-Art. 556. - La frequenza alle lezioni ed alle esercitazioni pratiche e' obbligatoria.   
-Gli allievi che non conseguono le attestazioni di frequenza sul relativo libretto non potranno essere ammessi a sostenere le prove di esame.   
-Art. 557. - Alla fine di ogni corso gli iscritti, per essere ammessi agli esami di corso successivi, dovranno superare le prove di esame sulle materie impartite durante l'anno.   
-Al termine del corso di studi, per il conseguimento del diploma di specialista in cardiologia, gli interessati dovranno superare l'esame di diploma consistente nella dissertazione scritta di un argomento di carattere cardiologico.   
-
-Art. 8
-------
-
+A) Puericultura postnatale e malattie del neonato;   
+B) Ostetricia e ginecologia forense;   
+C) Clinica ostetrica e ginecologica (esame alla fine del 4° anno);   
+D) Urologia ginecologica;   
+E) Chirurgia addominale extragenitale;   
+F) Diagnostica roentgen, radioterapia in ostetricia e ginecologia.   
   
-Gli articoli 558, 559, 560, 561, 562 e 563, relativi alla scuola di perfezionamento per settori e medici laboratoristi ospedalieri che muta la denominazione in scuola di specializzazione in anatomia patologica sono abrogati e sostituiti dai seguenti:  
+Gli esami si fanno per gruppo di materie ed i membri delle commissioni saranno proposti dal direttore della scuola.   
+Art. 431. - A giudizio del consiglio della scuola, formulato sulla base del rendimento di ogni iscritto (media agli esami 9/10), gli specializzandi potranno essere esonerati dal pagamento delle tasse universitarie.   
+Per il conseguimento del diploma (votazione in settantesimi), l'iscritto deve presentare e discutere una dissertazione scritta con contributo personale.   
+Gli articoli da 437 a 442, relativi alla "Scuola di perfezionamento in dermosifilopatia e venereologia" che muta la denominazione in quella di "Scuola di specializzazione in clinica dermosifilopatica", sono abrogati e sostituiti dai seguenti:   
   
-Scuola di specializzazione in anatomia patologica  
-Art. 558. - La scuola di specializzazione in anatomia patologica ha sede presso l'istituto di anatomia e istologia patologica dell'Universita' di Bologna e conferisce il diploma di specializzazione in anatomia patologica.  
-Art. 559. - Possono iscriversi alla scuola di specializzazione i laureati in medicina e chirurgia.  
-La durata del corso di studio e' di quattro anni.  
-Il numero massimo degli allievi e' di sei per anno di corso e complessivamente di ventiquattro iscritti per l'intero corso di studio.  
-Art. 560. - Le materie di insegnamento sono le seguenti:  
-1° Anno:  
-anatomia patologica sistematica I;  
-tecnica delle autopsie;  
-diagnostica anatomo-patologica macroscopica I;  
-tecniche istologiche ed istochimiche.  
-20 Anno:  
-anatomia patologica sistematica II;  
-diagnostica anatomo-patologica macroscopica II;  
-diagnostica istopatologica I;  
-tecniche e diagnostica citologica e citogenetica.  
-3° Anno:  
-diagnostica istopatologica II;  
-tecniche di microscopia elettronica e biologia ultrastrutturale;  
-immunopatologia.  
-4° Anno:  
-diagnostica istopatologica III;  
-diagnostica isto-cito-patologica ultrastrutturale;  
-diagnostica autoptica medico-legale ed elementi di legislazione sanitaria;  
-applicazioni statistiche ed epidemiologiche.  
-Art. 561. - La frequenza alle lezioni, alle esercitazioni pratiche, e' obbligatoria. Gli allievi che non conseguono le attestazioni di frequenza sul relativo libretto non potranno essere ammessi a sostenere le prove di esame.  
-Art. 562. - Alla fine di ogni corso gli iscritti, per essere ammessi agli anni successivi, devono superare le prove di esame sulle materie impartite durante l'anno.  
-Per le materie a corso pluriennale l'esame sara' sostenuto alla fine dei corsi medesimi.  
-Art. 563. - Al termine del corso di studi per il conseguimento del diploma di specialista in anatomia patologica gli interessati dovranno superare l'esame di diploma consistente nella dissertazione scritta di un argomento attinente alla specializzazione.  
-
-Art. 9
-------
-
+Scuola di specializzazione in clinica dermosifilopatica   
   
-Gli articoli 577, 578, 579, 580, 581 e 582, relativi alla scuola di specializzazione in chirurgia vascolare sono abrogati e sostituiti dai seguenti:  
+Art. 437. - La scuola di specializzazione in clinica dermosifilopatica, della durata di tre anni accademici, conferisce il diploma di specialista in clinica dermosifilopatica.   
+Art. 438. - L'ammissione alla scuola avviene per titoli. Sono ammessi i laureati in medicina e chirurgia.   
+Abbreviazioni di corso potranno essere concesse, a giudizio insindacabile del consiglio della scuola, ai candidati che presentino titoli equivalenti all'abbreviazione richiesta.   
+Art. 439. - Sono disponibili sedici posti per ciascun anno. Il numero complessivo dei posti dei tre anni di corso non potra' essere superiore a quarantotto.   
+Art. 440. - Le materie di insegnamento, distribuite nei tre anni di corso, sono le seguenti:   
   
-Scuola di specializzazione in chirurgia vascolare  
-Art. 577. - Presso la facolta' di medicina e chirurgia dell'Universita' di Bologna e' istituita la scuola di specializzazione in chirurgia vascolare che ha indirizzo teorico pratico con lo scopo di conferire il diploma di specialista in chirurgia vascolare.  
-Art. 578. - Possono iscriversi alla scuola i laureati in medicina e chirurgia. E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale rilasciato dall'autorita' competente. La ammissione al corso avviene per titoli ed esami. Il numero massimo degli allievi e' di quattro per anno di corso e complessivamente di venti iscritti per l'intero corso di studi. La durata del corso di studi e' di cinque anni e non e' suscettibile di abbreviazioni.  
-Art. 579. - La direzione della scuola e' affidata ad un professore di ruolo o fuori ruolo della stessa materia della specializzazione o, in carenza, ad altro professore di ruolo o fuori ruolo di materia affine.  
-Art. 580. - Le materie di insegnamento sono:  
-1° Anno:  
-1) embriologia, anatomia macro e microscopica dell'apparato vascolare;  
-2) fisiopatologia dell'apparato vascolare e della coagulazione sanguigna;  
-3) anatomia patologica dell'apparato vascolare;  
-4) semeiologia fisica e strumentale delle malattie vascolari;  
-5) semeiologia radiologica delle malattie vascolari;  
-6) vasculopatie di interesse medico e specialistico.  
-2° Anno:  
-7) patologia e clinica delle malattie del sistema arterioso;  
-8) patologia e clinica delle malattie del sistema venoso;  
-9) patologia e clinica delle malattie del sistema linfatico;  
-10) patologia e clinica delle malattie dei piccoli vasi.  
-3° Anno:  
-11) nozioni di terapia medica delle malattie vascolari;  
-12) terapia chirurgica delle malattie vascolari;  
-13) chirurgia vascolare applicata a malattie dei vari organi (I).  
-4° Anno:  
-14) informatica medica;  
-15) rianimazione e terapia intensiva;  
-16) patologia e clinica vascolare pediatrica (I);  
-17) epidemiologia delle malattie vascolari;  
-18) elementi di legislazione sanitaria comunitaria;  
-19) chirurgia vascolare applicata a malattie dei vari organi (II).  
-5° Anno:  
-20) elementi di bioingegneria applicati al circolo;  
-21) principi e tecnica di circolazione extracorporea;  
-22) terapia intensiva;  
-23) patologia e clinica vascolare pediatrica (II);  
-24) tecniche chirurgiche applicate alla patologia vascolare;  
-25) chirurgia vascolare applicata a malattie dei vari organi (III).  
-Art. 581. - La frequenza alle lezioni e alle esercitazioni pratiche e' obbligatoria. Gli allievi che non conseguono le attestazioni di frequenza sul relativo libretto non potranno essere ammessi a sostenere le prove di esame. Alla fine di ogni anno di corso gli iscritti per essere ammessi agli anni di corso successivi devono superare le prove di esame sulle materie impartite durante l'anno.  
-Per le materie a corso pluriennale l'esame sara' sostenuto alla fine dei corsi medesimi.  
-Art. 582. - Al termine del corso di studi per il conseguimento del diploma di specialista in chirurgia vascolare gli interessati dovranno superare l'esame di diploma consistente nella dissertazione scritta di un argomento attinente alla specializzazione e dovranno sostenere una prova clinica.  
-
-Art. 10
--------
-
-  
-Gli articoli 610, 611 e 612, relativi alla scuola di specializzazione in malattie infettive, sono abrogati e sostituiti dai seguenti:  
-  
-Scuola di specializzazione in malattie infettive  
-Art. 610. - La scuola di specializzazione in malattie infettive, istituita presso la facolta' di medicina e chirurgia, ha lo scopo di conferire adeguata competenza teorica e pratica ai laureati in medicina e chirurgia che intendono conseguire il diploma di specializzazione in malattie infettive.  
-Possono iscriversi alla scuola i laureati in medicina e chirurgia.  
-La durata del corso di studi e' di quattro anni e non e' suscettibile di abbreviazione.  
-Il numero massimo degli allievi e' di cinque per anno di corso e complessivamente di venti iscritti per l'intero corso di studi.  
-L'ammissione al corso avviene per titoli ed esami.  
-Art. 611. - Le materie di insegnamento sono le seguenti:  
-1° Anno:  
-1) epidemiologia generale delle malattie infettive;  
-2) batteriologia e micologia;  
-3) virologia;  
-4) parassitologia;  
-5) immunologia generale.  
-2° Anno:  
-1) tecniche batteriologiche e micologia applicata alle malattie infettive;  
-2) tecniche virologiche applicate alle malattie infettive;  
-3) tecniche parassitologiche applicate alle malattie infettive;  
-4) tecniche immunologiche applicate alle malattie infettive;  
-5) anatomia patologica;  
-6) genetica.  
-3° Anno:  
-1) clinica delle malattie infettive (I);  
-2) diagnostica e semeiotica delle malattie infettive;  
-3) radiologia;  
-4) medicina preventiva delle malattie infettive.  
-4° Anno:  
-1) clinica delle malattie infettive (II);  
-2) malattie tropicali;  
-3) legislazione sanitaria delle malattie infettive;  
-4) farmacologia e terapia delle malattie infettive.  
-Art. 612. - La frequenza alle lezioni ed alle esercitazioni pratiche e' obbligatoria. Durante i quattro anni di corso gli iscritti nelle ore libere dalle lezioni e dalle esercitazioni hanno l'obbligo di effettuare esercitazioni pratiche nei reparti dell'istituto di malattie infettive prestando servizio nei reparti di degenza, nei laboratori, nell'ambulatorio, con le modalita' e l'orario che saranno stabiliti dal direttore dell'istituto; potranno inoltre essere obbligati a pernottare a turno nell'istituto.  
-Detto internato potra' essere autorizzato, dal consiglio direttivo della scuola anche presso altre istituzioni che abbiano caratteristiche tali da assicurare lo svolgimento di un efficace tirocinio eminentemente pratico.  
-Al termine di ciascun anno di corso gli allievi sono tenuti a sostenere gli esami del rispettivo anno; al termine del corso di studi per il conseguimento del diploma di specialista in malattie infettive gli interessati dovranno superare l'esame di diploma consistente nella dissertazione scritta di un argomento attinente la specialita'.  
-Agli allievi, i quali abbiano ottenuto l'approvazione nell'esame di diploma, verra' rilasciato il diploma di specialista in malattie infettive.  
-
-Art. 11
--------
-
-  
-Gli articoli 613, 614, 615 e 616, relativi alla scuola di specializzazione in virologia sono abrogati e sostituiti dai seguenti:  
-  
-Scuola di specializzazione in virologia  
-Art. 613. - La scuola di specializzazione in virologia ha lo scopo di allargare ed approfondire sul piano scientifico la cultura di coloro che si dedicano allo studio di questa disciplina e di fornire sul piano tecnico una preparazione pratica specifica.  
-Sono ammessi alla scuola i laureati in medicina e chirurgia.  
-Il corso ha la durata di tre anni ed ha luogo presso l'istituto di microbiologia o l'istituto di virologia della facolta' di medicina e chirurgia.  
-Art. 614. - E' contemplato un secondo indirizzo "tecniche virologiche" al quale sono ammessi i laureati in medicina veterinaria, scienze biologiche, scienze naturali, farmacia, chimica e tecnologie farmaceutiche.  
-Il numero degli iscritti alla scuola deve essere strettamente rapportato alle strutture esistenti e non deve comunque superare il numero massimo complessivo, per i due indirizzi, di quindici specializzandi per i tre anni di corso.  
-L'ammissione e' per titoli ed esami.  
-Art. 615. - Gli insegnamenti impartiti nella scuola sono i seguenti, cosi' ripartiti nei vari anni di corso:  
-1° Anno (comune ai due indirizzi):  
-1) virologia generale (I parte);  
-2) tecnica virologica generale (I parte);  
-3) biometria applicata alla virologia;  
-4) metodi immunologici in virologia.  
-2° Anno (comune ai due indirizzi):  
-5) virologia generale (II parte);  
-6) tecnica virologica generale (II parte);  
-7) microscopia elettronica e studio delle ultrastrutture;  
-8) metodi chimici in virologia;  
-9) metodi fisici in virologia;  
-10) diagnostica virologica generale.  
-3° Anno (indirizzo medico):  
-11) genetica del virus;  
-12) virologia oncologica;  
-13) studio dei farmaci antivirali;  
-14) virologia clinica;  
-15) epidemiologia e profilassi delle malattie da virus.  
-3° Anno (indirizzo in tecniche virologiche):  
-11) metodi genetici in virologia;  
-12) tecniche per lo studio dei virus oncogeni;  
-13) metodi per lo studio dei farmaci antivirali;  
-14) metodi diagnostici interessanti la virologia clinica;  
-15) tecniche per l'allestimento ed il controllo dei vaccini virali.  
-Il direttore puo' stabilire, per un piu' proficuo conseguimento dei fini della scuola, che siano tenuti corsi complementari di conferenze o seminari su materie e argomenti che abbiano attinenza o affinita' con gli insegnamenti impartiti nella scuola.  
-Art. 616. - Gli esami di profitto saranno sostenuti per gruppi di materie alla fine di ogni anno di corso.  
-Il primo gruppo comprende tutte le materie del primo anno di corso ed il superamento dell'esame e' necessario per l'iscrizione al secondo anno. Il secondo gruppo comprende tutte le materie del secondo anno ed il superamento dell'esame e' necessario per l'iscrizione al terzo anno. Il terzo gruppo comprende tutte le materie del terzo anno ed il superamento dell'esame e' necessario per l'ammissione all'esame di diploma.  
-L'esame di diploma constera' di una discussione sopra una tesi scritta su un argomento attinente alla specializzazione.  
-A coloro che abbiano superato l'esame di diploma verra' rilasciato un diploma di specialista in virologia o, per i laureati ammessi al secondo indirizzo, un diploma di specialista in virologia con indirizzo tecnico.  
-
-Art. 12
--------
-
-  
-Gli articoli 627, 628, 629, 630 e 631, relativi alla scuola di specializzazione in nefrologia medica che muta la denominazione in nefrologia, sono abrogati e sostituiti dai seguenti:  
-  
-Scuola di specializzazione in nefrologia  
-Art. 627. - La scuola di specializzazione in nefrologia ha sede presso la facolta' di medicina e chirurgia e conferisce il diploma di specialista in nefrologia.  
-La direzione della scuola e' affidata al professore di ruolo o fuori ruolo della stessa materia della specializzazione o, in carenza, al professore di ruolo o fuori ruolo di materia affine.  
-Art. 628. - Possono iscriversi alla scuola i laureati in medicina e chirurgia. E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione allo esercizio professionale rilasciato dall'autorita' competente.  
-La durata del corso di studi e' di quattro anni e non e' suscettibile di abbreviazioni.  
-Il numero massimo degli allievi e' di otto per anno di corso e complessivamente di trentadue iscritti per l'intero corso di studi.  
-L'ammissione al corso avviene per titoli ed esami.  
-Art. 629. - Le materie di insegnamento sono le seguenti:  
-1° Anno:  
-1) struttura ed ultrastruttura normale del rene;  
-2) aspetti biochimici della funzione renale;  
-3) fisiologia renale;  
-4) microbiologia ed immunologia applicata alla nefrologia;  
-5) genetica applicata alla nefrologia;  
-6) semeiotica renale (1° anno).  
-2° Anno:  
-1) struttura ed ultrastruttura patologica del rene;  
-2) patologia del ricambio idroelettrolitico;  
-3) insufficienza renale;  
-4) rene o ipertensione arteriosa;  
-5) semeiotica renale (2° anno);  
-6) nefropatie tubulari.  
-3° Anno:  
-1) nefropatie glomerulari;  
-2) nefropatie intersiziali;  
-3) nefropatie vascolari;  
-4) terapia dietetica e dialitica (1° anno);  
-5) farmacologia d'interesse nefrologico.  
-4° Anno:  
-1) nefrouropatie calcolotiche, malformative e neoplastiche;  
-2) terapia dietetica e dialitica (2° anno);  
-3) fisiopatologia e clinica del trapianto renale;  
-4) aspetti di nefrologia nell'eta' pediatrica;  
-5) problemi chirurgici in nefrologia;  
-6) terapia medica delle nefropatie.  
-Art. 630. - La frequenza alle lezioni e alle esercitazioni pratiche e' obbligatoria. Gli allievi che non conseguono le attestazioni di frequenza sul relativo libretto non potranno essere ammessi a sostenere le prove di esame.  
-Art. 631. - Alla fine di ogni anno di corso gli iscritti per essere ammessi agli anni di corso successivi devono superare le prove di esame sulle materie impartite durante l'anno.  
-Al termine del corso di studi per il conseguimento del diploma di specialista in nefrologia, gli interessati dovranno superare l'esame di diploma consistente nella dissertazione scritta di un argomento attinente alla specializzazione.  
-
-Art. 13
--------
-
-  
-  
-L'ordinamento della seconda scuola di specializzazione in malattie dell'apparato cardiovascolare che muta la denominazione in seconda scuola di specializzazione in cardiologia istituita con [decreto del Presidente della Repubblica 10 maggio 1976, n. 564](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1976-05-10;564), e' modificato nel modo seguente:   
-  
-Seconda scuola di specializzazione in cardiologia   
-Presso la facolta' di medicina e chirurgia e' istituita la seconda scuola di specializzazione in cardiologia, della durata di quattro anni, che conferisce il diploma di specialista in cardiologia.   
-La durata del corso di studi non e' suscettibile di abbreviazioni.   
-La direzione della scuola e' affidata al professore di ruolo o fuori ruolo della stessa materia della specializzazione o, in carenza, a professore di ruolo o fuori ruolo di materia affine.   
-Le materie di insegnamento sono le seguenti:   
 1° Anno:   
-1) anatomia umana normale ed embriologia dell'apparato cardiovascolare;   
-2) fisiologia dell'apparato cardiovascolare (I);   
-3) biochimica e biofisica;   
-4) semeiotica fisica e strumentale dell'apparato cardiovascolare (I);   
-5) informatica medica e strumentazione biomedica (I).   
+1) Anatomia e istologia normale della cute;   
+2) Fisiologia della cute e degli annessi cutanei;   
+3) Semeiotica dermatologica e venereologica;   
+4) Tecnica di laboratorio con particolare riferimento alla sierologia applicata;   
+5) Anatomia e fisiologia dell'apparato genitale;   
+6) Microbiologia e parassitologia applicata.   
+  
 2° Anno:   
-1) anatomia patologica (I);   
-2) fisiologia dell'apparato cardiovascolare (II);   
-3) patologia e clinica cardiovascolare (I);   
-4) semeiotica fisica e strumentale dell'apparato cardiovascolare (II);   
-5) informatica medica e strumentazione biomedica (II);   
-6) radiologia (I);   
-7) aspetti sociali ed epidemiologici delle malattie cardiovascolari.   
+1) Patologia delle malattie cutanee;   
+2) Patologia delle infezioni sessuali;   
+3) Anatomia e istologia patologica della cute;   
+4) Anatomia patologica delle malattie veneree e sessuali;   
+5) Angiologia;   
+6) Sessuologia.   
+  
 3° Anno:   
-1) anatomia patologica (II);   
-2) semeiotica fisica e strumentale dell'apparato cardiovascolare (III);   
-3) patologia e clinica cardiovascolare (II);   
-4) radiologia (II);   
-5) terapia medica e farmacologia clinica (I).   
-4° Anno:   
-1) semeiotica fisica e strumentale dell'apparato cardiovascolare (IV);   
-2) patologia e clinica cardiovascolare (III);   
-3) terapia medica e farmacologia clinica (II);   
-4) terapia chirurgica;   
-5) terapie intensive cardiologiche.   
-L'ammissione alla scuola avviene per titoli ed esami.   
-Il numero massimo degli allievi e' di dieci per anno di corso e complessivamente di quaranta iscritti per l'intero corso di studi.   
-La frequenza alle lezioni ed alle esercitazioni pratiche e' obbligatoria.   
-Gli allievi che non conseguono le attestazioni di frequenza sul relativo libretto non potranno essere ammessi a sostenere le prove di esame.   
-Alla fine di ogni corso gli iscritti, per essere ammessi agli anni di corso successivi, dovranno superare le prove d'esame sulle materie impartite durante l'anno.   
-Al termine del corso di studi, per il conseguimento del diploma di specialista in cardiologia, gli interessati dovranno superare l'esame di diploma consistente nella dissertazione scritta in un argomento di carattere cardiologico.   
+1) Clinica delle malattie cutanee;   
+2) Clinica delle infezioni sessuali;   
+3) Farmacologia e terapia medicamentosa;   
+4) Fisioterapia dermatologica;   
+5) Cosmetologia;   
+6) Chirurgia plastica riparatrice;   
+7) Igiene e profilassi delle malattie cutanee e veneree e relativa legislazione.   
+  
+Art. 441. - Gli iscritti alla scuola hanno l'obbligo di frequentare le lezioni, i laboratori e gli ambulatori, nonche' di svolgere turni di internato.   
+Art. 442. - Gli iscritti, alla fine di ogni corso, per il passaggio all'anno successivo, hanno l'obbligo di superare l'esame di profitto, in un gruppo unico, delle materie relative all'anno di corso corrispondente. Alla fine del corso, gli allievi, dopo aver superato l'esame di profitto, in un unico gruppo, delle materie del terzo anno, per conseguire il diploma di specializzazione dovranno superare l'esame di diploma consistente nella discussione di una tesi scritta di argomento pertinente alla clinica dermosifilopatica.   
+Gli articoli da 449 a 453, relativi alla "Scuola di perfezionamento in ortopedia e traumatologia" che muta la denominazione in quella di "Scuola di specializzazione in ortopedia e traumatologia", sono abrogati e sostituiti dai seguenti:   
+  
+Scuola di specializzazione in ortopedia e traumatologia   
+  
+Art. 449. - La scuola di specializzazione in ortopedia e traumatologia ha sede presso l'istituto di clinica ortopedica e conferisce il diploma di specializzazione in ortopedia e traumatologia.   
+Il corso ha la durata di tre anni.   
+Potranno essere ammessi alla scuola, per titoli, i laureati in medicina e chirurgia.   
+Il numero degli iscritti e' di dieci per ogni anno e non potra' superare il numero di trenta per l'intero corso.   
+Art. 450. - La frequenza e' obbligatoria nell'istituto sede della scuola per un periodo almeno di nove mesi per ogni anno accademico.   
+E' in facolta' del consiglio della scuola di concedere una deroga a tale norma solo agli iscritti alla scuola che facciano parte di cliniche ortopediche che non abbiano la scuola di specializzazione e che siano assistenti di ruolo in divisioni di ortopedia e traumatologia di ospedali di prima categoria: per queste due categorie di iscritti il periodo di frequenza presso l'istituto sede della scuola puo' essere ridotto fino a non meno di un mese ogni anno.   
+Per nessun motivo sono ammesse abbreviazioni della durata degli studi.   
+Art. 451. - Gli insegnamenti si svolgeranno con indirizzo prevalentemente pratico, dimostrativo, ma per ogni singola materia di insegnamento dovra' anche svolgersi un corso regolare di lezioni, il cui numero verra' fissato annualmente dal direttore della scuola in accordo con i docenti delle singole materie.   
+Art. 452. - Le materie di insegnamento sono le seguenti:   
+  
+1° Anno:   
+1) Clinica ortopedica e traumatologica (triennale);   
+2) Patologia delle lesioni, deformita' e malattie degli organi di movimento (triennale);   
+3) Tecnica operatoria cruenta ed incruenta ortopedica e traumatologica (triennale);   
+4) Radiodiagnostica ortopedica e traumatologica ed elementi di radioterapia (biennale);   
+5) Anatomia ed istologia dell'apparato locomotore;   
+6) Fisiologia dell'apparato locomotore;   
+7) Nozioni di chirurgia generale;   
+8) Nozioni di pediatria.   
+  
+2° Anno:   
+1) Clinica ortopedica e traumatologica (triennale);   
+2) Patologia delle lesioni, deformita' e malattie degli organi di movimento (triennale);   
+3) Tecnica operatoria cruenta ed incruenta ortopedica e traumatologica (biennale);   
+4) Radiodiagnostica ortopedica e traumatologica ed elementi di radioterapia (biennale);   
+5) Neuropatologia dell'apparato locomotore ed elettrodiagnostica;   
+6) Anatomia ed istologia patologica dell'apparato locomotore.   
+  
+3° Anno:   
+1) Clinica ortopedica e traumatologica (triennale);   
+2) Patologia delle lesioni, deformita' e malattie degli organi di movimento (triennale);   
+3) Tecnica operatoria cruenta ed incruenta ortopedica e traumatologica (triennale);   
+4) Apparato-terapia ortopedica;   
+5) Fisiochinesiterapia;   
+6) Infortunistica.   
+  
+Art. 453. - Gli esami si svolgeranno per singole materie. Gli esami di clinica ortopedica e traumatologica, di tecnica operatoria cruenta ed incruenta ortopedica e traumatologica, di radiodiagnostica, saranno teorici e pratici. Per l'ammissione al corso successivo e' obbligatorio il superamento degli esami delle materie di ciascun corso.   
+Per conseguire il diploma di specialista i candidati dovranno superare l'esame di diploma, consistente nella dissertazione di una tesi a stampa o dattiloscritta su argomento della specialita'.   
+Gli articoli da 454 a 460, relativi alla "Scuola di specializzazione in stomatologia (malattie della bocca e protesi dentaria)" che muta la denominazione in quella di "Scuola di specializzazione in odontoiatria e protesi dentaria", sono abrogati e sostituiti dai seguenti con il relativo spostamento della numerazione degli articoli successivi.   
+Scuola di specializzazione in odontoiatria e protesi dentaria   
+Art. 454. - La scuola di specializzazione in odontoiatria e protesi dentaria conferisce il diploma di specialista in odontoiatria e protesi dentaria.   
+Il titolo per l'iscrizione e' la laurea in medicina e chirurgia.   
+Il corso della scuola ha la durata di tre anni.   
+Art. 455. - Gli insegnamenti che formano materia del corso di studio sono i seguenti:   
+1) Embriologia e anatomia dentaria e maxillo-facciale;   
+2) Anatomia e istopatologia odontostomatologica;   
+3) Microbiologia e igiene orale;   
+4) Farmacologia odontostomatologica;   
+5) Patologia odontostomatologica;   
+6) Clinica odontostomatologica;   
+7) Chirurgia maxillo-facciale;   
+8) Anestesia e chirurgia stomatologica;   
+9) Odontoiatria conservativa;   
+10) Paradontologia;   
+11) Clinica protesica dentaria e maxillo-facciale;   
+12) Ortopedia dento-maxillo-facciale;   
+13) Radiologia odontostomatologica;   
+14) Odontotecnica;   
+15) Odontoiatria infantile;   
+16) Medicina legale odontostomatologica e delle assicurazioni.   
+Esercitazioni pratiche affiancheranno gli insegnamenti.   
+Art. 456. - Le materie elencate all'articolo precedente sono cosi' distribuite nei tre anni di corso:   
+  
+1° Anno:   
+1) Odontotecnica;   
+2) Embriologia ed anatomia dentaria e maxillo-facciale;   
+3) Microbiologia e igiene orale;   
+4) Farmacologia odontostomatologica;   
+5) Patologia odontostomatologica;   
+6) Anestesia e chirurgia stomatologica;   
+7) Odontoiatria conservativa (I anno) (biennale).   
+Esercitazioni pratiche.   
+  
+2° Anno:   
+1) Odontoiatria conservativa (II anno);   
+2) Clinica protesica dentaria e maxillo-facciale (I anno) (biennale);   
+3) Parodontologia (I anno) (biennale);   
+4) Anatomia e istopatologia odontostomatologica;   
+5) Odontoiatria infantile;   
+6) Radiologia odontostomatologica;   
+7) Ortopedia dento-maxillo-facciale (I anno) (biennale);   
+8) Chirurgia maxillo-facciale (I anno) (biennale).   
+Esercitazioni pratiche.   
+  
+3° Anno:   
+1) Clinica odontostomatologica;   
+2) Chirurgia maxillo-facciale (II anno);   
+3) Medicina legale odontostomatologica e delle assicurazioni;   
+4) Ortopedia dento-maxillo-facciale (II anno);   
+5) Clinica protesica dentaria e maxillo-facciale (II anno);   
+6) Parodontologia (II anno).   
+Esercitazioni pratiche.   
+  
+Art. 457. - La frequenza e' obbligatoria per l'intero anno scolastico.   
+Gli esami di profitto teorici e pratici saranno sostenuti alla fine di ogni anno in un'unica sessione (ottobre).   
+Alla fine del 30 anno, dopo aver superato gli esami di profitto, gli allievi saranno ammessi a sostenere l'esame di diploma che consiste nella discussione orale di una dissertazione scritta, su un tema proposto in precedenza dall'insegnante della materia sulla quale verte l'argomento, e approvato dal direttore della scuola.   
+Ogni iscritto deve provvedere al proprio corredo di strumenti.   
+Le vacanze sono conformi al calendario universitario, con un solo mese completo estivo (agosto).   
+Art. 458. - Il numero degli iscritti e' fissato in settantacinque unita' (venticinque per ciascuno dei tre anni di corso). Tuttavia il numero dei posti disponibili al 1° anno per ogni anno accademico e' limitato alla capacita' di ricezione della scuola medesima.   
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 18 aprile 1979
+### Dato a Roma, addi' 1 maggio 1972
 
-PERTINI SPADOLINI
+LEONE MISASI
 
-Visto, il Guardasigilli: MORLINO
+Visto, il Guardasigilli: GONELLA
 
-Registrato alla Corte dei conti, addi' 12 ottobre 1979
+Registrato alla Corte dei conti, addi' 3 agosto 1972
 
-Registro n. 73 Istruzione, foglio n. 272
+Atti del Governo, registro n. 250, foglio n. 109. - VALENTINI

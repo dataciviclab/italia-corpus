@@ -1,10 +1,10 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 giugno 1972 n. 492
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 aprile 1972 n. 258
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 giugno 1972 n. 492
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 aprile 1972 n. 258
 =============================================================
 
-Autorizzazione alla fondazione "Pro juventute Don Carlo Gnocchi", con sede in Roma, ad accettare una eredita'.
+Autorizzazione alla fondazione "Pro juventute Don Carlo Gnocchi", con sede in Roma; ad accettare una eredita'.
 --------------------------------------------------------------------------------------------------------------
 
 Art. 1
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-492. Decreto del Presidente della Repubblica 19 giugno 1972, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute Don Carlo Gnocchi" viene autorizzata ad accettare, col beneficio d'inventario, l'eredita' - consistente nella nuda proprieta' di un appartamento, sito in Levico, con orto annesso e terreno, con tutto quanto in esso appartamento contenuto, gravato d'usufrutto a favore del sig. Libardi Giuseppe, fratello della defunta, e tutto del valore presunto di L. 800.000 - disposta dalla signorina Libardi Maria con testamento pubblico del 6 marzo 1966, pubblicato l'11 maggio 1966 per rogito del dott. Bruno Bertuzzo, notaio in Levico, col n. 6153 di repertorio e n. 952 di raccolta, registrato a Borgo Valsugana il 25 maggio 1966 al n. 346, vol. 40.  
+258. Decreto del Presidente della Repubblica 22 aprile 1972, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute Don Carlo Gnocchi", con sede in Roma, viene autorizzata ad accettare, col beneficio d'inventario, l'eredita' - disposta dalla signora Baldina Rugarli vedova Bianco con testamento olografo del 17 gennaio 1963 pubblicato con verbale a rogito dott. Lucia Bassani, notaio in Milano, in data 10 marzo 1970 (n. 13506 di rep., n. 3343 di racc.), registrato a Milano il 24 marzo 1970 al n. 4974 71/N serie E) - consistente in uno stabile in Milano, via Ennio n. 10, composto di vari locali, del valore complessivo presunto di L. 35.000.000.   
   
-Visto, il Guardasigilli: GONELLA  
-Registrato alla Corte dei conti, addi' 23 agosto 1972  
-Atti del Governo, registro n. 250, foglio n. 167. - VALENTINI
+Visto, il Guardasigilli: GONELLA   
+Registrato, alla Corte dei conti, addi' 22 giugno 1972   
+Atti del Governo, registro n. 249, foglio n. 94. - VALENTINI

@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1973 n. 1119
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 settembre 1956 n. 1135
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1973 n. 1119
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 settembre 1956 n. 1135
+=================================================================
 
 Modificazioni allo statuto del Politecnico di Milano.
 -----------------------------------------------------
@@ -10,7 +10,7 @@ Modificazioni allo statuto del Politecnico di Milano.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto del Politecnico di Milano, approvato con [regio decreto 20 aprile 1939, n. 1028](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1028) e modificato con [regio decreto 11 luglio 1942, n. 921](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-07-11;921), e successive modificazioni;
+Veduto lo statuto del Politecnico di Milano, approvato con [regio decreto 20 aprile 1939, n. 1028](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1028) e modificato con [regio decreto 11 luglio 1912, n. 921](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1912-07-11;921) e con [decreti del presidente della Repubblica 27 ottobre 1951, n. 1802](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-10-27;1802), [14 settembre 1954, n. 1201](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1954-09-14;1201) e [11 aprile 1955, n. 621](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1955-04-11;621);
 
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
@@ -26,47 +26,109 @@ Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
 
 Sentito il parere del Consiglio superiore della pubblica istruzione;
 
-Sulla, proposta del Ministro per la pubblica istruzione;
+Sulla proposta del Ministro per la pubblica istruzione;
 
 Decreta:
 
 Lo statuto del Politecnico di Milano, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
-Art. 8 - all'elenco degli insegnamenti obbligatori sul piano della facolta' del corso di laurea in ingegneria chimica sono aggiunti i seguenti:
+Dopo l'art. 10 e' aggiunto il seguente nuovo articolo, con il conseguente spostamento della numerazione degli articoli successivi.
 
-Metallurgia;
+Art. 11. - Nel triennio di studi di applicazione del corso di laurea in ingegneria sono istituiti, ai sensi della [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312), seguenti insegnamenti complementari, di durata annuale, comuni a tutte le Sezioni del triennio:
 
-Processi per la riduzione degli inquinanti nell'industria chimica (semestrale);
+1) Complementi di analisi matematica con calcoli grafici e numerici;
 
-Trattamento degli effluenti dell'industria chimica (semestrale).
+2) Complementi di meccanica razionale;
 
-Art. 9 - all'elenco degli insegnamenti obbligatori sul piano della facolta' del corso di laurea in ingegneria civile (sezione edile) e' aggiunto quello di "Istituzioni di scienze economico-sociali II".
+3) Complementi di fisica con elementi di fisica matematica e tecnica;
 
-Art. 10 - nell'elenco degli insegnamenti obbligatori sul piano della facolta' del corso di laurea in ingegneria elettronica, l'insegnamento di "Complementi di analisi matematica" e' soppresso e sostituito da quello di "Analisi matematica III".
+4) Elettronica;
 
-Art. 12 - all'elenco degli insegnamenti obbligatori sul piano della facolta' del corso di laurea in ingegneria meccanica e' aggiunto quello di "Motori alternativi".
+5) Fisica nucleare e impianti nucleari;
 
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+6) Geodesia;
 
-Dato a Roma, addi' 31 ottobre 1973
+7) Complementi di scienza delle costruzioni;
 
-LEONE
+8) Complementi di meccanica delle macchine;
 
-MALFATTI
+9) Meccanica delle terre;
 
-Visto, il Guardasigilli: ZAGARI
+10) Costruzione di macchine fluidodinamiche;
+
+11) Costruzioni di macchine operatrici;
+
+12) Costruzioni automobilistiche;
+
+13) Forni industriali;
+
+14) Tecnologie tessili;
+
+15) Tecnologia del freddo;
+
+16) Tecnologia della cellulosa e della carta;
+
+17) Tecnologie degli olii, grassi e vernici;
+
+18) Tecnologia dei leganti idraulici;
+
+19) Tecnologie del legno;
+
+20) Tecnologie delle materie plastiche;
+
+21) Tecnologia dei combustibili;
+
+22) Complementi di metallurgia;
+
+21) Tecnologia dei materiali aeronautici;
+
+24) Meteorologia;
+
+25) Complementi di elettrotecnica;
+
+26) Complementi di misure elettriche;
+
+27) Complementi di elettronica;
+
+28) Tecnologia ed impianti radiotecnici;
+
+29) Idrologia tecnica;
+
+30) ingegneria sanitaria;
+
+31) Edilizia industriale;
+
+32) Prospezione geofisica;
+
+33) Organizzazione dei cantieri;
+
+34) Estimo industriale;
+
+35) Economia ed organizzazione aziendale;
+
+36) Fotogrammetria.
+
+Il presente decreto, munito del sigillo dello Stato sara' inserto nella Raccolta ufficiale delle leggi e de decreti della Repubblica italiana. E' fatto obbligo chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 5 settembre 1956
+
+GRONCHI
+
+ROSSI
+
+Visto, il Guardasigilli: MORO
 
 Registrato
 ----------
 
-alla Corte dei conti, addi' 31 maggio 1974 Atti di Governo, registro n. 3, foglio n. 58. - SCIARRETTA
+alla Corte dei conti, addi' 12 ottobre 1956 Atti del Governo, registro n. 101, foglio n. 19. - CARLOMAGNO
 
 Art. 1
 ------
 
  IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto del Politecnico di Milano, approvato con [regio decreto 20 aprile 1939, n. 1028](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1028) e modificato con [regio decreto 11 luglio 1942, n. 921](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-07-11;921), e successive modificazioni;  
+Veduto lo statuto del Politecnico di Milano, approvato con [regio decreto 20 aprile 1939, n. 1028](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1028) e modificato con [regio decreto 11 luglio 1912, n. 921](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1912-07-11;921) e con [decreti del presidente della Repubblica 27 ottobre 1951, n. 1802](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-10-27;1802), [14 settembre 1954, n. 1201](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1954-09-14;1201) e [11 aprile 1955, n. 621](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1955-04-11;621);  
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
@@ -74,30 +136,61 @@ Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?u
 Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche del Politecnico anzidetto;  
 Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
 Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla, proposta del Ministro per la pubblica istruzione;  
+Sulla proposta del Ministro per la pubblica istruzione;  
   
 Decreta:  
   
 Lo statuto del Politecnico di Milano, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-Art. 8 - all'elenco degli insegnamenti obbligatori sul piano della facolta' del corso di laurea in ingegneria chimica sono aggiunti i seguenti:  
   
-Metallurgia;  
-Processi per la riduzione degli inquinanti nell'industria chimica (semestrale);  
-Trattamento degli effluenti dell'industria chimica (semestrale).  
-Art. 9 - all'elenco degli insegnamenti obbligatori sul piano della facolta' del corso di laurea in ingegneria civile (sezione edile) e' aggiunto quello di "Istituzioni di scienze economico-sociali II".  
-Art. 10 - nell'elenco degli insegnamenti obbligatori sul piano della facolta' del corso di laurea in ingegneria elettronica, l'insegnamento di "Complementi di analisi matematica" e' soppresso e sostituito da quello di "Analisi matematica III".  
-Art. 12 - all'elenco degli insegnamenti obbligatori sul piano della facolta' del corso di laurea in ingegneria meccanica e' aggiunto quello di "Motori alternativi".  
+Dopo l'art. 10 e' aggiunto il seguente nuovo articolo, con il conseguente spostamento della numerazione degli articoli successivi.  
+Art. 11. - Nel triennio di studi di applicazione del corso di laurea in ingegneria sono istituiti, ai sensi della [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312), seguenti insegnamenti complementari, di durata annuale, comuni a tutte le Sezioni del triennio:  
+1) Complementi di analisi matematica con calcoli grafici e numerici;  
+2) Complementi di meccanica razionale;  
+3) Complementi di fisica con elementi di fisica matematica e tecnica;  
+4) Elettronica;  
+5) Fisica nucleare e impianti nucleari;  
+6) Geodesia;  
+7) Complementi di scienza delle costruzioni;  
+8) Complementi di meccanica delle macchine;  
+9) Meccanica delle terre;  
+10) Costruzione di macchine fluidodinamiche;  
+11) Costruzioni di macchine operatrici;  
+12) Costruzioni automobilistiche;  
+13) Forni industriali;  
+14) Tecnologie tessili;  
+15) Tecnologia del freddo;  
+16) Tecnologia della cellulosa e della carta;  
+17) Tecnologie degli olii, grassi e vernici;  
+18) Tecnologia dei leganti idraulici;  
+19) Tecnologie del legno;  
+20) Tecnologie delle materie plastiche;  
+21) Tecnologia dei combustibili;  
+22) Complementi di metallurgia;  
+21) Tecnologia dei materiali aeronautici;  
+24) Meteorologia;  
+25) Complementi di elettrotecnica;  
+26) Complementi di misure elettriche;  
+27) Complementi di elettronica;  
+28) Tecnologia ed impianti radiotecnici;  
+29) Idrologia tecnica;  
+30) ingegneria sanitaria;  
+31) Edilizia industriale;  
+32) Prospezione geofisica;  
+33) Organizzazione dei cantieri;  
+34) Estimo industriale;  
+35) Economia ed organizzazione aziendale;  
+36) Fotogrammetria.  
   
 
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Il presente decreto, munito del sigillo dello Stato sara' inserto nella Raccolta ufficiale delle leggi e de decreti della Repubblica italiana. E' fatto obbligo chiunque spetti di osservarlo e di farlo osservare.
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 31 ottobre 1973
+### Dato a Roma, addi' 5 settembre 1956
 
-LEONE MALFATTI
+GRONCHI ROSSI
 
-Visto, il Guardasigilli: ZAGARI
+Visto, il Guardasigilli: MORO
 
-Registrato alla Corte dei conti, addi' 31 maggio 1974
+Registrato alla Corte dei conti, addi' 12 ottobre 1956
 
-Atti di Governo, registro n. 3, foglio n. 58. - SCIARRETTA
+Atti del Governo, registro n. 101, foglio n. 19. - CARLOMAGNO

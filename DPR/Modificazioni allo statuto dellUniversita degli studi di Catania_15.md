@@ -1,22 +1,139 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 01 agosto 1972 n. 590
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 24 settembre 1957 n. 1240
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 01 agosto 1972 n. 590
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 24 settembre 1957 n. 1240
+=================================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Catania.
 -------------------------------------------------------------------
+
+IL PRESIDENTE DELLA REPUBBLICA
+------------------------------
+
+Veduto lo statuto dell'Universita' degli studi di Catania, approvato con [regio decreto 20 aprile 1939, n. 1073](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1073), modificato con [regio decreto 16 ottobre 1940, n. 1527](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-16;1527), e successivi;
+
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
+
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
+
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
+
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
+
+Sentito il parere del Consiglio superiore della pubblica istruzione;
+
+Sulla proposta del Ministro per la pubblica istruzione;
+
+Decreta:
+
+Lo statuto dell'Universita' degli studi di Catania, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+
+Art. 28. - Con la soppressione della dicitura che gli insegnamenti di "Storia medioevale" e di "Storia moderna" sono tenuti ad anni alterni nel corso di laurea in lettere, il primo comma e' cosi' modificato:
+
+"I corsi degli insegnamenti di "Storia greca" e di "Storia romana" sono tenuti ad anni alterni. Sara' indicato ogni anno nel manifesto degli studi il corso che sara' impartito".
+
+Art. 34, concernente l'alternativita' dei corsi degli insegnamenti di "Storia medioevale" e di "Storia moderna" nel corso di laurea in filosofia e' abrogato, con il conseguente spostamento della numerazione degli articoli successivi.
+
+Art. 45. - Il primo comma e' abrogato e sostituito dal seguente:
+
+"L'esame di laurea in scienze matematiche e' preceduto da una prova di cultura sui concetti fondamentali delle materie di matematica e fisica del primo biennio. Quello per la laurea in fisica, e in matematica e fisica da una prova di cultura sui concetti fondamentali delle materie di matematica e fisica del primo biennio, nonche' da una prova pratica in fisica. La prova di cultura non ha carattere eliminatorio rispetto alla discussione della tesi di laurea".
+
+Art. 50. - Agli insegnamenti complementari del corso di laurea in fisica sono aggiunti quelli di "Acustica", "Elettronica", "Fisica dei solidi", "Meccanica statistica" e "Meccanica quantistica".
+
+Art. 51, relativo alla laurea in fisica, il quarto comma e' abrogato e sostituito dal seguente: "Per la analisi superiore e' propedeutico, nell'iscrizione e nell'esame, l'analisi infinitesimale".
+
+Art. 54, relativo alla laurea in scienze matematiche, il quarto comma e' abrogato e' sostituito dal seguente: "Per l'analisi superiore e' propedeutico, nell'iscrizione e nell'esame, l'analisi infinitesimale".
+
+Art. 56. - Agli insegnamenti complementari del corso di laurea in matematica e fisica sono aggiunti quelli di "Acustica", "Elettronica", "Fisica dei solidi", e Meccanica statistica" e "Meccanica quantistica".
+
+Art. 57, relativo alla laurea in matematica e fisica, il terzo comma e' abrogato e sostituito dal seguente: "Per l'analisi superiore e' propedeutico, nell'iscrizione e nell'esame, l'analisi infinitesimale".
+
+Art. 170, relativo agli insegnamenti impartiti nella Scuola di specializzazione in radiologia e' cosi' modificato:
+
+L'insegnamento di "Fisica dei raggi X" e' biennale in modo che si possa svolgere un corso di fisica dei raggi X al 1° anno e un corso di fisica nucleare al 2° anno.
+
+Agli insegnamenti del secondo anno sono aggiunti quelli di:
+
+"Roentgendiagnostica dell'apparato respiratorio"
+
+"Roentgendiagnostica dell'apparato cardiovascolare".
+
+Scuola di specializzazione in igiene
+
+Art. 172, relativo agli insegnamenti impartiti nella scuola di specializzazione in igiene, e' cosi' modificato:
+
+"Gli insegnamenti di "Patologia e clinica delle malattie da infezione, da intossicazione, da carenza" e quello di:
+
+"Etiologia, epidemiologia, profilassi delle malattie infettive-contagiose, immunoprofilassi, parassitologia" hanno durata di un triennio.
+
+Alle scuole di specializzazione annesse alla Facolta' di medicina e chirurgia e' aggiunta quella di:
+
+"Anestesiologia".
+
+Scuola di specializzazione in anestesiologia
+
+Art. 173. - Il corso degli studi della scuola di specializzazione in anestesiologia ha la durata di due anni.
+
+La scuola non puo' accogliere piu' di cinque allievi per ciascun anno di corso.
+
+Art. 174. - Gli insegnamenti impartiti nella Scuola sono:
+
+1° anno:
+
+1) Anatomia, con particolare riguardo ai nervi periferici;
+
+2) Fisiologia del sistema cardio-vascolare del sistema respiratorio e del sistema nervoso;
+
+3) Farmacologia con particolare riguardo ai narcotici, ipnotici, anestetici ad azione locale;
+
+4) Generalita' e tecnica della narcosi (1° corso);
+
+5) Esercitazioni (1° corso).
+
+2° anno:
+
+1) Generalita' e tecnica della narcosi (2° corso);
+
+2) Generalita' e tecnica delle anestesie periferiche;
+
+3) Anestesia del parto;
+
+4) Patogenesi del dolore e terapia antalgica;
+
+5) Trattamento pre, intra e post operatorio;
+
+6) Esercitazioni (2° corso).
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 24 settembre 1957
+
+GRONCHI
+
+MORO
+
+Visto, il Guardasigilli: GONELLA
+
+Registrato
+----------
+
+alla Corte dei conti, addi' 27 dicembre 1957 Atti del Governo, registro n. 109, foglio n. 141. - RELLEVA
 
 Art. 1
 ------
 
  IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Catania, approvato con [regio decreto 20 aprile 1939, n. 1073](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1073) e modificato con [regio decreto 16 ottobre 1940, n. 1527](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-16;1527), e successive modificazioni;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto lo statuto dell'Universita' degli studi di Catania, approvato con [regio decreto 20 aprile 1939, n. 1073](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1073), modificato con [regio decreto 16 ottobre 1940, n. 1527](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-16;1527), e successivi;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;  
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
 Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
 Sentito il parere del Consiglio superiore della pubblica istruzione;  
 Sulla proposta del Ministro per la pubblica istruzione;  
@@ -25,57 +142,61 @@ Decreta:
   
 Lo statuto dell'Universita' degli studi di Catania, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
   
-L'art. 157, relativo all'elenco delle scuole di specializzazione annesse alla facolta' di medicina e chirurgia e' modificato nel senso che la scuola in "Otorinolaringoiatria" muta la denominazione in quella di "Scuola di specializzazione in otorinolaringoiatria e patologia cervico-facciale".  
-Gli articoli 209, 210, relativi alla scuola di specializzazione in otorinolaringoiatria sono abrogati e sostituiti dai seguenti:  
+Art. 28. - Con la soppressione della dicitura che gli insegnamenti di "Storia medioevale" e di "Storia moderna" sono tenuti ad anni alterni nel corso di laurea in lettere, il primo comma e' cosi' modificato:  
+"I corsi degli insegnamenti di "Storia greca" e di "Storia romana" sono tenuti ad anni alterni. Sara' indicato ogni anno nel manifesto degli studi il corso che sara' impartito".  
+Art. 34, concernente l'alternativita' dei corsi degli insegnamenti di "Storia medioevale" e di "Storia moderna" nel corso di laurea in filosofia e' abrogato, con il conseguente spostamento della numerazione degli articoli successivi.  
+Art. 45. - Il primo comma e' abrogato e sostituito dal seguente:  
+"L'esame di laurea in scienze matematiche e' preceduto da una prova di cultura sui concetti fondamentali delle materie di matematica e fisica del primo biennio. Quello per la laurea in fisica, e in matematica e fisica da una prova di cultura sui concetti fondamentali delle materie di matematica e fisica del primo biennio, nonche' da una prova pratica in fisica. La prova di cultura non ha carattere eliminatorio rispetto alla discussione della tesi di laurea".  
+Art. 50. - Agli insegnamenti complementari del corso di laurea in fisica sono aggiunti quelli di "Acustica", "Elettronica", "Fisica dei solidi", "Meccanica statistica" e "Meccanica quantistica".  
+Art. 51, relativo alla laurea in fisica, il quarto comma e' abrogato e sostituito dal seguente: "Per la analisi superiore e' propedeutico, nell'iscrizione e nell'esame, l'analisi infinitesimale".  
+Art. 54, relativo alla laurea in scienze matematiche, il quarto comma e' abrogato e' sostituito dal seguente: "Per l'analisi superiore e' propedeutico, nell'iscrizione e nell'esame, l'analisi infinitesimale".  
+Art. 56. - Agli insegnamenti complementari del corso di laurea in matematica e fisica sono aggiunti quelli di "Acustica", "Elettronica", "Fisica dei solidi", e Meccanica statistica" e "Meccanica quantistica".  
+Art. 57, relativo alla laurea in matematica e fisica, il terzo comma e' abrogato e sostituito dal seguente: "Per l'analisi superiore e' propedeutico, nell'iscrizione e nell'esame, l'analisi infinitesimale".  
+Art. 170, relativo agli insegnamenti impartiti nella Scuola di specializzazione in radiologia e' cosi' modificato:  
+L'insegnamento di "Fisica dei raggi X" e' biennale in modo che si possa svolgere un corso di fisica dei raggi X al 1° anno e un corso di fisica nucleare al 2° anno.  
+Agli insegnamenti del secondo anno sono aggiunti quelli di:  
+"Roentgendiagnostica dell'apparato respiratorio"  
+"Roentgendiagnostica dell'apparato cardiovascolare".  
   
-Scuola di specializzazione in otorinolaringoiatria e patologia cervico-facciale  
-Art. 209. - La scuola di specializzazione in otorinolaringoiatria e patologia cervico-facciale conferisce il diploma di specialista in otorinolaringoiatria e patologia cervico-facciale.  
-Gli anni di studio post-universitari necessari per conseguire il titolo sono tre.  
-Il numero massimo degli iscritti ad ogni anno di corso e' di cinque, per un totale di quindici specializzandi.  
-Gli allievi hanno l'obbligo della frequenza alle lezioni, alle visite cliniche, alle medicature, agli ambulatori ed a tutte quelle pratiche inerenti ai servizi della specialita'.  
-Art. 210. - Il piano degli studi prevede i seguenti insegnamenti:  
+Scuola di specializzazione in igiene  
   
-1° Anno:  
-Anatomia;  
-Fisiologia;  
-Audiologia (1° anno);  
-Semeiotica otorinolaringoiatrica;  
-Tecnica di laboratorio;  
-Patologia otorinolaringoiatrica e cervico-facciale (1° anno);  
-Anatomia e istologia patologica otorinolaringoiatrica.  
+Art. 172, relativo agli insegnamenti impartiti nella scuola di specializzazione in igiene, e' cosi' modificato:  
+"Gli insegnamenti di "Patologia e clinica delle malattie da infezione, da intossicazione, da carenza" e quello di:  
+"Etiologia, epidemiologia, profilassi delle malattie infettive-contagiose, immunoprofilassi, parassitologia" hanno durata di un triennio.  
+Alle scuole di specializzazione annesse alla Facolta' di medicina e chirurgia e' aggiunta quella di:  
+"Anestesiologia".  
   
-2° Anno:  
-Tecniche operative in otorinolaringoiatria;  
-Anestesiologia in otorinolaringoiatria;  
-Patologia e clinica otorinolaringoiatrica e cervico-facciale (2° anno);  
-Radiologia in rapporto all'otorinolaringoiatria;  
-Pediatria in rapporto all'otorinolaringoiatria;  
-Audiologia (2° anno);  
-Otoneurologia;  
-Foniatria.  
+Scuola di specializzazione in anestesiologia  
   
-3° Anno:  
-Patologia e clinica otorinolaringoiatrica e cervico-facciale (3° anno);  
-Terapia medica e fisica in otorinolaringoiatria;  
-Neuropatologia in rapporto con l'otorinolaringoiatria;  
-Oculistica in rapporto con l'otorinolaringoiatria;  
-Chirurgia plastica;  
-Tracheobroncoscopia;  
-Medicina legale ed infortunistica in otorinolaringoiatria.  
+Art. 173. - Il corso degli studi della scuola di specializzazione in anestesiologia ha la durata di due anni.  
+La scuola non puo' accogliere piu' di cinque allievi per ciascun anno di corso.  
+Art. 174. - Gli insegnamenti impartiti nella Scuola sono:  
   
-Le lezioni sono teoriche e pratiche sulla scorta dei casi clinici che si presentano di volta in volta all'esame.  
-Alla fine di ogni anno di corso gli allievi dovranno sostenere un esame sulle materie dell'anno e non potranno essere ammessi al corso successivo senza aver superato tale esame.  
+1° anno:  
+1) Anatomia, con particolare riguardo ai nervi periferici;  
+2) Fisiologia del sistema cardio-vascolare del sistema respiratorio e del sistema nervoso;  
+3) Farmacologia con particolare riguardo ai narcotici, ipnotici, anestetici ad azione locale;  
+4) Generalita' e tecnica della narcosi (1° corso);  
+5) Esercitazioni (1° corso).  
+  
+2° anno:  
+1) Generalita' e tecnica della narcosi (2° corso);  
+2) Generalita' e tecnica delle anestesie periferiche;  
+3) Anestesia del parto;  
+4) Patogenesi del dolore e terapia antalgica;  
+5) Trattamento pre, intra e post operatorio;  
+6) Esercitazioni (2° corso).  
   
 
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e farlo osservare.
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 1 agosto 1972
+### Dato a Roma, addi' 24 settembre 1957
 
-LEONE SCALFARO -
+GRONCHI MORO
 
 Visto, il Guardasigilli: GONELLA
 
-Registrato alla Corte dei conti, addi' 10 ottobre 1972
+Registrato alla Corte dei conti, addi' 27 dicembre 1957
 
-Atti del Governo, registro n. 251, foglio n. 116. - CARUSO
+Atti del Governo, registro n. 109, foglio n. 141. - RELLEVA

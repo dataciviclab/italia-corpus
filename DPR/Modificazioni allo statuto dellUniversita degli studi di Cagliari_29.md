@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 23 ottobre 1973 n. 1157
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 06 dicembre 1963 n. 2157
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 23 ottobre 1973 n. 1157
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 06 dicembre 1963 n. 2157
+================================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Cagliari.
 --------------------------------------------------------------------
@@ -10,203 +10,95 @@ Modificazioni allo statuto dell'Universita' degli studi di Cagliari.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' degli studi di Cagliari, approvato con [regio decreto 20 aprile 1939, n. 1098](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1098), e modificato con [regio decreto 5 ottobre 1939, n. 1743](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-05;1743), e successive modificazioni;
+Veduto lo statuto dell'Universita' degli studi di Cagliari, approvato con [regio decreto 20 aprile 1939, numero 1098](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1098), modificato con [regio decreto 5 ottobre 1939, n. 1734](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-05;1734), e successivi;
 
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+Veduto il testo unico delle, leggi sull'istruzione superiore approvato con [regio decreto 31 agosto 1933, numero 1392](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1392);
 
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
 
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
+Veduto il [regio decreto 30 settembre 1935, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1935-09-30;1652), e successive modificazioni Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
 
 Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
 Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
 
-Sentito il parere del Consiglio superiore della pubblica istruzione;
+Sentito il parere del Consiglio superiore della pubblica a istruzione;
 
 Sulla proposta del Ministro per la pubblica istruzione;
 
 Decreta:
 
-Lo statuto dell'Universita' degli studi di Cagliari, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+Lo statuto dell'Universita' degli studi di Cagliari, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato conte appresso:
 
-Dopo l'art. 189, e con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi alla istituzione della scuola di specializzazione in "Terapia fisica e riabilitazione".
+Art. 12. - All'elenco degli insegnamenti complementari per il corso di laurea in Giurisprudenza sono aggiunti i seguenti:
 
-Scuola di specializzazione in terapia fisica e riabilitazione
+Diritto privato comparato privato comparato;
 
-Art. 190. - Alla facolta' di medicina e chirurgia e' annessa una scuola di specializzazione in terapia fisica con sede presso l'istituto di clinica ortopedica. La scuola conferisce il diploma di specialista in terapia fisica e riabilitazione.
+Diritto diplomatico consolare.
 
-Art. 191. - La durata dei corsi e' di tre anni.
+Art. 13. - All'elenco degli insegnamenti complementari per il corso di la laurea in Scienze politiche sono aggiunti i seguenti:
 
-Art. 192. - Alla scuola vengono ammessi i laureati in medicina e chirurgia; il numero complessivo fra tutti gli iscritti ai tre anni di corso non dovra' essere superiore a quindici (cinque allievi per anno di corso).
+Statistica economica;
 
-La selezione dei candidati aspiranti all'ammissione alla scuola avverra' sulla base di titoli ed esami.
+Storia dei partiti politici;
 
-Art. 193. - Non sono consentite iscrizioni alla scuola con abbreviazioni di corso.
+Storia del giornalismo.
 
-Art. 194. - Gli iscritti alla scuola hanno l'obbligo di frequentare i corsi ufficiali e le esercitazioni.
+Art. 50. - All'elenco degli insegnamenti complementari per il corso di laurea in Medicina e chirurgia e' aggiunto quello di "Semeiotica chirurgica".
 
-E' inoltre obbligatorio per gli iscritti ai corsi, l'internato presso la clinica.
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della, Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 
-Gli allievi hanno doveri di permanenza presso l'istituto durante le ore della sua attivita' con presenza giornaliera in ambulatori e in reparti di terapia fisica e di degenza.
+Dato a Roma, addi' 6 dicembre 1963
 
-Dall'obbligo dell'internato potranno essere esentati quegli allievi che in qualita' di assistenti o di aiuti prestino effettivamente servizio presso reparti della stessa specialita' in universita' ed ospedali di I e II categoria.
+SEGNI
 
-Per i corsi che non siano strettamente dimostrati presso la clinica ortopedica possono essere stabiliti, su parere del direttore della scuola, periodi di continuativa frequenza presso i relativi reparti specialistici, qualora siano costituiti in reparti indipendenti ed abbiano adeguata attrezzatura per la fisioterapia e riabilitazione (neurologia, centri di recupero spastici, fisiopatologia respiratoria, otorinolaringologia, reumatologia, oculistica, ecc.).
+GUI
 
-Il direttore e gli insegnanti della scuola si accerteranno durante l'anno accademico dell'operosita' scolastica degli allievi, con frequenti interrogazioni e vigilando sulle esercitazioni e sui turni di servizio interno.
-
-L'allievo che non abbia ottemperato agli obblighi di frequenza non sara' ammesso a sostenere gli esami annuali.
-
-Art. 195. - Le materie di insegnamento sono cosi' suddivise nei tre anni di corso:
-
-1° Anno:
-
-Principi di anatomia funzionale (propedeutico per tutte le materie di base degli anni successivi e per quelle facoltative);
-
-Fisiopatologia dell'apparato neuro-motore (come sopra).
-
-2° Anno:
-
-Semeiotica e clinica delle motulesioni neurologiche (propedeutico per le materie d'insegnamento di base del terzo anno);
-
-Semeiotica e clinica delle deformita' e motulesioni ortopediche (come sopra);
-
-Massoterapia e terapia manuale;
-
-Cinesiologia e cinesiterapia e ginnastica medica;
-
-Idroterapia e balneoterapia.
-
-3° Anno:
-
-Elettroterapia ed elettrologia;
-
-Terapia con onde corte ed altri mezzi fisici;
-
-Rieducazione motoria e riabilitazione in campo ortopedico e traumatologico;
-
-Rieducazione motoria e riabilitazione in campo neurologico.
-
-Art. 196. - Le materie facoltative, qui di seguito elencate, potranno essere distribuite nel 2° e nel 3° anno a seconda delle necessita' della scuola previa approvazione del consiglio di facolta':
-
-Elettromiografia;
-
-Cinesiterapia e riabilitazione nelle malattie internistiche;
-
-Rieducazione respiratoria;
-
-Riabilitazione nei disturbi del linguaggio;
-
-Psicologia e psicopatologia della riabilitazione;
-
-Medicina assicurativa;
-
-Rieducazione nei disturbi della vista;
-
-Climatoterapia;
-
-Problemi della riabilitazione geriatrica;
-
-Riqualificazione professionale.
-
-Art. 197. - Per accedere ai corsi successivi al primo e' obbligatorio il superamento di tutti gli esami del corso precedente, ivi comprese le materie biennali.
-
-Gli esami possono essere sostenuti solamente in due sessioni, una estiva ed una autunnale, e comunque non oltre il trenta novembre dell'anno in corso.
-
-Il diploma viene rilasciato dopo aver superato tutti gli esami e dopo la discussione di una tesi scritta a carattere clinico o sperimentale.
-
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
-
-Dato a Roma, addi' 23 ottobre 1973
-
-LEONE
-
-MALFATTI
-
-Visto, il Guardasigilli: ZAGARI
+Visto, il Guardasigilli: REALE
 
 Registrato
 ----------
 
-alla Corte dei conti, addi' 28 ottobre 1974 Atti di Governo, registro n. 6, foglio n. 57. - SCIARRETTA
+alla Corte dei conti, addi' 8 febbraio 1964 Atti del governo, registro n. 180, foglio n. 97. VILLA
 
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA   
+ IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Cagliari, approvato con [regio decreto 20 aprile 1939, n. 1098](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1098), e modificato con [regio decreto 5 ottobre 1939, n. 1743](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-05;1743), e successive modificazioni;   
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;   
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;   
-Sentito il parere del Consiglio superiore della pubblica istruzione;   
-Sulla proposta del Ministro per la pubblica istruzione;   
+Veduto lo statuto dell'Universita' degli studi di Cagliari, approvato con [regio decreto 20 aprile 1939, numero 1098](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1098), modificato con [regio decreto 5 ottobre 1939, n. 1734](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-05;1734), e successivi;  
+Veduto il testo unico delle, leggi sull'istruzione superiore approvato con [regio decreto 31 agosto 1933, numero 1392](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1392);  
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
+Veduto il [regio decreto 30 settembre 1935, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1935-09-30;1652), e successive modificazioni Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
+Sentito il parere del Consiglio superiore della pubblica a istruzione;  
+Sulla proposta del Ministro per la pubblica istruzione;  
   
-Decreta:   
+Decreta:  
   
-Lo statuto dell'Universita' degli studi di Cagliari, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
+Lo statuto dell'Universita' degli studi di Cagliari, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato conte appresso:  
+Art. 12. - All'elenco degli insegnamenti complementari per il corso di laurea in Giurisprudenza sono aggiunti i seguenti:  
   
-Dopo l'art. 189, e con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi alla istituzione della scuola di specializzazione in "Terapia fisica e riabilitazione".   
-Scuola di specializzazione in terapia fisica e riabilitazione   
-Art. 190. - Alla facolta' di medicina e chirurgia e' annessa una scuola di specializzazione in terapia fisica con sede presso l'istituto di clinica ortopedica. La scuola conferisce il diploma di specialista in terapia fisica e riabilitazione.   
-Art. 191. - La durata dei corsi e' di tre anni.   
-Art. 192. - Alla scuola vengono ammessi i laureati in medicina e chirurgia; il numero complessivo fra tutti gli iscritti ai tre anni di corso non dovra' essere superiore a quindici (cinque allievi per anno di corso).   
-La selezione dei candidati aspiranti all'ammissione alla scuola avverra' sulla base di titoli ed esami.   
-Art. 193. - Non sono consentite iscrizioni alla scuola con abbreviazioni di corso.   
-Art. 194. - Gli iscritti alla scuola hanno l'obbligo di frequentare i corsi ufficiali e le esercitazioni.   
-E' inoltre obbligatorio per gli iscritti ai corsi, l'internato presso la clinica.   
-Gli allievi hanno doveri di permanenza presso l'istituto durante le ore della sua attivita' con presenza giornaliera in ambulatori e in reparti di terapia fisica e di degenza.   
-Dall'obbligo dell'internato potranno essere esentati quegli allievi che in qualita' di assistenti o di aiuti prestino effettivamente servizio presso reparti della stessa specialita' in universita' ed ospedali di I e II categoria.   
-Per i corsi che non siano strettamente dimostrati presso la clinica ortopedica possono essere stabiliti, su parere del direttore della scuola, periodi di continuativa frequenza presso i relativi reparti specialistici, qualora siano costituiti in reparti indipendenti ed abbiano adeguata attrezzatura per la fisioterapia e riabilitazione (neurologia, centri di recupero spastici, fisiopatologia respiratoria, otorinolaringologia, reumatologia, oculistica, ecc.).   
-Il direttore e gli insegnanti della scuola si accerteranno durante l'anno accademico dell'operosita' scolastica degli allievi, con frequenti interrogazioni e vigilando sulle esercitazioni e sui turni di servizio interno.   
-L'allievo che non abbia ottemperato agli obblighi di frequenza non sara' ammesso a sostenere gli esami annuali.   
-Art. 195. - Le materie di insegnamento sono cosi' suddivise nei tre anni di corso:   
-1° Anno:   
+Diritto privato comparato privato comparato;  
+Diritto diplomatico consolare.  
+Art. 13. - All'elenco degli insegnamenti complementari per il corso di la laurea in Scienze politiche sono aggiunti i seguenti:  
   
-Principi di anatomia funzionale (propedeutico per tutte le materie di base degli anni successivi e per quelle facoltative);   
-Fisiopatologia dell'apparato neuro-motore (come sopra).   
-2° Anno:   
-  
-Semeiotica e clinica delle motulesioni neurologiche (propedeutico per le materie d'insegnamento di base del terzo anno);   
-Semeiotica e clinica delle deformita' e motulesioni ortopediche (come sopra);   
-Massoterapia e terapia manuale;   
-Cinesiologia e cinesiterapia e ginnastica medica;   
-Idroterapia e balneoterapia.   
-3° Anno:   
-  
-Elettroterapia ed elettrologia;   
-Terapia con onde corte ed altri mezzi fisici;   
-Rieducazione motoria e riabilitazione in campo ortopedico e traumatologico;   
-Rieducazione motoria e riabilitazione in campo neurologico.   
-Art. 196. - Le materie facoltative, qui di seguito elencate, potranno essere distribuite nel 2° e nel 3° anno a seconda delle necessita' della scuola previa approvazione del consiglio di facolta':   
-  
-Elettromiografia;   
-Cinesiterapia e riabilitazione nelle malattie internistiche;   
-Rieducazione respiratoria;   
-Riabilitazione nei disturbi del linguaggio;   
-Psicologia e psicopatologia della riabilitazione;   
-Medicina assicurativa;   
-Rieducazione nei disturbi della vista;   
-Climatoterapia;   
-Problemi della riabilitazione geriatrica;   
-Riqualificazione professionale.   
-Art. 197. - Per accedere ai corsi successivi al primo e' obbligatorio il superamento di tutti gli esami del corso precedente, ivi comprese le materie biennali.   
-Gli esami possono essere sostenuti solamente in due sessioni, una estiva ed una autunnale, e comunque non oltre il trenta novembre dell'anno in corso.   
-Il diploma viene rilasciato dopo aver superato tutti gli esami e dopo la discussione di una tesi scritta a carattere clinico o sperimentale.   
+Statistica economica;  
+Storia dei partiti politici;  
+Storia del giornalismo.  
+Art. 50. - All'elenco degli insegnamenti complementari per il corso di laurea in Medicina e chirurgia e' aggiunto quello di "Semeiotica chirurgica".  
   
 
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della, Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 23 ottobre 1973
+### Dato a Roma, addi' 6 dicembre 1963
 
-LEONE MALFATTI
+SEGNI GUI
 
-Visto, il Guardasigilli: ZAGARI
+Visto, il Guardasigilli: REALE
 
-Registrato alla Corte dei conti, addi' 28 ottobre 1974
+Registrato alla Corte dei conti, addi' 8 febbraio 1964
 
-Atti di Governo, registro n. 6, foglio n. 57. - SCIARRETTA
+Atti del governo, registro n. 180, foglio n. 97. VILLA

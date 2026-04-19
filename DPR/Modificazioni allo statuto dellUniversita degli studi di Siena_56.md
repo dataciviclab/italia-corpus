@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 15 gennaio 1982 n. 130
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 29 settembre 1973 n. 777
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 15 gennaio 1982 n. 130
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 29 settembre 1973 n. 777
+================================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Siena.
 -----------------------------------------------------------------
@@ -10,84 +10,180 @@ Modificazioni allo statuto dell'Universita' degli studi di Siena.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' di Siena, approvato con [regio decreto 13 ottobre 1927, n. 2831](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2831) e modificato con [regio decreto 31 ottobre 1929, n. 2395](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1929-10-31;2395), e successive modificazioni;
+Veduto lo statuto dell'Universita' degli studi di Siena, approvato con [regio decreto 13 ottobre 1927, n. 2831](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2831) e modificato con [regio decreto 31 ottobre 1929, n. 2395](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1929-10-31;2395), e successive modificazioni;
 
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
 
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
 
-Veduta la [legge 22 maggio 1978, n. 217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-05-22;217);
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;
 
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
 
-Veduto l'[art. 16 del decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382~art16);
+Sentito il parere del Consiglio superiore della pubblica istruzione;
 
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Siena e convalidati dal Consiglio universitario nazionale nel suo parere;
+Sulla proposta del Ministro per la pubblica istruzione;
 
-Sentito il parere del Consiglio universitario nazionale;
+Decreta:
 
-Veduta la necessita' di adeguare la norma sulla direzione delle scuole di perfezionamento, di specializzazione e delle scuole dirette a fini speciali a quanto disposto dall'art. 16 del citato [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
+Lo statuto dell'Universita' degli studi di Siena, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
-Sulla
------
+Dopo l'art. 167 sono inseriti i seguenti nuovi articoli relativi alla istituzione della scuola di specializzazione in "Tisiologia e malattie dell'apparato respiratorio".
 
-proposta del Ministro della pubblica istruzione; Decreta:
+Scuola di specializzazione in tisiologia e malattie dell'apparato respiratorio
 
-Articolo unico
---------------
+Art. 168. - Alla facolta' di medicina e chirurgia e' annessa la scuola di specializzazione in tisiologia e malattie dell'apparato respiratorio. Il numero degli iscritti al primo anno non potra' essere superiore a otto.
 
+Possono iscriversi alla scuola i laureati in medicina e chirurgia.
+
+Art. 169. - Il piano di studi e' il seguente:
+
+1° Anno:
+
+1) Anatomia ed istologia patologica della tubercolosi e delle malattie dell'apparato respiratorio I;
+
+2) Patologia della tubercolosi polmonare ed extrapolmonare;
+
+3) Patologia delle malattie dell'apparato respiratorio;
+
+4) Fisiologia e fisiopatologia generale dell'apparato respiratorio;
+
+5) Semeiotica fisica e funzionale dell'apparato respiratorio;
+
+6) Microbiologia;
+
+7) Epidemiologia e statistica sanitaria della tubercolosi e delle malattie dell'apparato respiratorio.
+
+2° Anno:
+
+1) Anatomia ed istologia patologica della tubercolosi e delle malattie dell'apparato respiratorio II;
+
+2) Clinica della tubercolosi I;
+
+3) Clinica delle malattie dell'apparato respiratorio I;
+
+4) Fisiopatologia speciale della tubercolosi e delle malattie dell'apparato respiratorio;
+
+5) Broncologia;
+
+6) Radiologia dell'apparato respiratorio;
+
+7) Profilassi della tubercolosi;
+
+8) Igiene e legislazione sociale.
+
+3° Anno:
+
+1) Clinica della tubercolosi II;
+
+2) Clinica delle malattie dell'apparato respiratorio II;
+
+3) Chemioterapia della tubercolosi e delle malattie dell'apparato respiratorio;
+
+4) Terapia fisiomeccanica nella tubercolosi e nelle malattie dell'apparato respiratorio;
+
+5) Terapia chirurgica nella tubercolosi e nelle malattie dell'apparato respiratorio.
+
+Art. 170. - I corsi di insegnamento sono integrati da turni obbligatori di internato nei reparti di degenza e nei laboratori di ricerca, da esercitazioni pratiche, da seminari e da conferenze.
+
+Alla fine di ogni anno saranno tenuti gli esami relativi.
+
+Le materie di insegnamento saranno raggruppate in due esami teorici per ogni anno di corso. Gli esami di clinica saranno teorici e pratici.
+
+Per il conseguimento del diploma di specializzazione e' prevista la presentazione e la discussione di una dissertazione scritta.
+
+Art. 171. - Il consiglio della scuola su proposta del direttore, puo' concedere una abbreviazione al massimo di un anno del corso di specializzazione a quegli aspiranti che oltre alle condizioni prescritte per l'ammissione normale documentino una specifica attivita' e diano prova della loro preparazione tecnica e culturale.
+
+In ogni caso, pero', gli iscritti saranno tenuti al pagamento delle tasse, soprattasse e contributi ed a sostenere gli esami speciali previsti anche per l'anno di corso dalla frequenza del quale sono stati esonerati.
+
+Art. 172. - Le tasse, soprattasse e contributi della scuola di specializzazione in tisiologia dell'apparato respiratorio sono cosi' fissate:
+
+Immatricolazione. . . . . . . . . . . . . . . . . . . . L. 12.000 Tassa annuale di iscrizione. . . . . . . . . . . . . . L. 100.000 Soprattassa annuale di esame. . . . . . . . . . . . . . L. 16.000 Contributi annuali di laboratorio . . . . . . . . . . . L. 14.000 Tassa di diploma. . . . . . . . . . . . . . . . . . . . L. 20.000
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 29 settembre 1973
+
+LEONE
+
+MALFATTI
+
+Visto, il Guardasigilli: ZAGARI
+
+Registrato
+----------
+
+alla Corte dei conti, addi' 1 dicembre 1973 Atti di Governo, registro n. 262, foglio n. 72. - CARUSO
+
+Art. 1
+------
+
+ IL PRESIDENTE DELLA REPUBBLICA  
   
-Lo statuto dell'Universita' di Siena, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+Veduto lo statuto dell'Universita' degli studi di Siena, approvato con [regio decreto 13 ottobre 1927, n. 2831](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2831) e modificato con [regio decreto 31 ottobre 1929, n. 2395](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1929-10-31;2395), e successive modificazioni;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
+Sentito il parere del Consiglio superiore della pubblica istruzione;  
+Sulla proposta del Ministro per la pubblica istruzione;  
   
-Dopo l'art. 362, e con il conseguente spostamento della numerazione degli articoli successivi, sono aggiunti i seguenti nuovi articoli relativi alla istituzione della scuola di specializzazione in sicurezza sociale e organizzazione sanitaria.  
+Decreta:  
   
-Scuola di specializzazione in sicurezza sociale e organizzazione sanitaria  
+Lo statuto dell'Universita' degli studi di Siena, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
   
-Art. 363. - La scuola di specializzazione in sicurezza sociale e organizzazione sanitaria ha sede presso la cattedra di medicina sociale e conferisce il diploma di specialista in sicurezza sociale e organizzazione sanitaria.  
-Art. 364. - La direzione della scuola e' affidata a professore ordinario, straordinario o fuori ruolo che insegni anche nella scuola stessa. In caso di motivato impedimento la direzione della scuola e' affidata a professore associato che pure insegni nella scuola medesima.  
-Art. 365. - Possono iscriversi alla scuola i laureati in medicina e chirurgia. E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale rilasciato dalle autorita' competenti.  
-Art. 366. - La durata del corso di studi e' di quattro anni e non e' suscettibile di abbreviazione.  
-Art. 367. - Il numero massimo degli allievi e' di quindici per anno di corso e complessivamente di sessanta iscritti per l'intero corso di studi.  
-Art. 368. - L'ammissione al corso avviene per titoli ed esami.  
-Art. 369. - L'insegnamento verra' impartito per certe materie secondo moduli interdisciplinari e si articolera' in lezioni e in seminari di ricerca. Le materie d'insegnamento sono le seguenti:  
+Dopo l'art. 167 sono inseriti i seguenti nuovi articoli relativi alla istituzione della scuola di specializzazione in "Tisiologia e malattie dell'apparato respiratorio".  
+  
+Scuola di specializzazione in tisiologia e malattie dell'apparato respiratorio  
+  
+Art. 168. - Alla facolta' di medicina e chirurgia e' annessa la scuola di specializzazione in tisiologia e malattie dell'apparato respiratorio. Il numero degli iscritti al primo anno non potra' essere superiore a otto.  
+Possono iscriversi alla scuola i laureati in medicina e chirurgia.  
+Art. 169. - Il piano di studi e' il seguente:  
 1° Anno:  
-storia delle istituzioni sanitarie e previdenziali nel secolo XX;  
-medicina legale e della sicurezza sociale (biennale - 1° anno); deontologia e legislazione sanitaria;  
-diritto della sicurezza sociale;  
-psicopatologia sociale;  
-sociologia medica delle devianze.  
+1) Anatomia ed istologia patologica della tubercolosi e delle malattie dell'apparato respiratorio I;  
+2) Patologia della tubercolosi polmonare ed extrapolmonare;  
+3) Patologia delle malattie dell'apparato respiratorio;  
+4) Fisiologia e fisiopatologia generale dell'apparato respiratorio;  
+5) Semeiotica fisica e funzionale dell'apparato respiratorio;  
+6) Microbiologia;  
+7) Epidemiologia e statistica sanitaria della tubercolosi e delle malattie dell'apparato respiratorio.  
 2° Anno:  
-medicina legale e della sicurezza sociale (2° anno);  
-medicina sociale e preventiva (insegnamento interdisciplinare sugli aspetti sociali delle situazioni patologiche di maggiore importanza) (triennale - 1° anno);  
-informatica ed epidemiologia (insegnamento interdisciplinare: elementi di statistica, statistica sanitaria, informatica sanitaria, epidemiologia generale e clinica, biometria).  
+1) Anatomia ed istologia patologica della tubercolosi e delle malattie dell'apparato respiratorio II;  
+2) Clinica della tubercolosi I;  
+3) Clinica delle malattie dell'apparato respiratorio I;  
+4) Fisiopatologia speciale della tubercolosi e delle malattie dell'apparato respiratorio;  
+5) Broncologia;  
+6) Radiologia dell'apparato respiratorio;  
+7) Profilassi della tubercolosi;  
+8) Igiene e legislazione sociale.  
 3° Anno:  
-medicina sociale e preventiva (2° anno);  
-igiene sociale;  
-tossicologia industriale e medicina preventiva dei lavoratori; economia sanitaria;  
-programmazione ed organizzazione dei servizi sanitari (insegnamento interdisciplinare: indicatori di efficienza e di efficacia dei servizi, principi e metodiche di controllo delle prestazioni mediche e farmaceutiche, automazione dei servizi, personale paramedico) (biennale - 1° anno).  
-4° Anno:  
-medicina sociale e preventiva (3° anno);  
-programmazione e organizzazione dei servizi sanitari (i servizi di prevenzione e riabilitazione nel piano fisico e mentale) (2° anno);  
-caratteristiche e competenze dell'U.S.L.;  
-organizzazione e competenze sanitarie e previdenziali nei Paesi della Comunita' europea.  
-Art. 370. - La frequenza alle lezioni e ai seminari di ricerca e' obbligatoria. Gli allievi che non conseguono le attestazioni di frequenza sul relativo libretto non potranno essere ammessi a sostenere le prove d'esame.  
-Art. 371. - Alla fine di ogni corso gli iscritti, per essere ammessi agli anni di corso successivi, devono superare le prove d'esame sulle materie impartite durante l'anno. Dovranno altresi' presentare un rendiconto scritto sulle loro ricerche seminariali.  
-Per le materie biennali o triennali l'esame sara' sostenuto alla fine del biennio o del triennio.  
-Al termine del corso di studi per il conseguimento del diploma di specialista in "sicurezza sociale e organizzazione sanitaria", gli interessati dovranno superare lo esame di diploma consistente nella dissertazione scritta su un argomento attinente alla specializzazione.  
-Art. 372. - Le tasse, soprattasse e contributi della scuola di specializzazione in sicurezza sociale e organizzazione sanitaria sono quelle previste dalle norme generali del presente statuto.  
+1) Clinica della tubercolosi II;  
+2) Clinica delle malattie dell'apparato respiratorio II;  
+3) Chemioterapia della tubercolosi e delle malattie dell'apparato respiratorio;  
+4) Terapia fisiomeccanica nella tubercolosi e nelle malattie dell'apparato respiratorio;  
+5) Terapia chirurgica nella tubercolosi e nelle malattie dell'apparato respiratorio.  
+Art. 170. - I corsi di insegnamento sono integrati da turni obbligatori di internato nei reparti di degenza e nei laboratori di ricerca, da esercitazioni pratiche, da seminari e da conferenze.  
+Alla fine di ogni anno saranno tenuti gli esami relativi.  
+Le materie di insegnamento saranno raggruppate in due esami teorici per ogni anno di corso. Gli esami di clinica saranno teorici e pratici.  
+Per il conseguimento del diploma di specializzazione e' prevista la presentazione e la discussione di una dissertazione scritta.  
+Art. 171. - Il consiglio della scuola su proposta del direttore, puo' concedere una abbreviazione al massimo di un anno del corso di specializzazione a quegli aspiranti che oltre alle condizioni prescritte per l'ammissione normale documentino una specifica attivita' e diano prova della loro preparazione tecnica e culturale.  
+In ogni caso, pero', gli iscritti saranno tenuti al pagamento delle tasse, soprattasse e contributi ed a sostenere gli esami speciali previsti anche per l'anno di corso dalla frequenza del quale sono stati esonerati.  
+Art. 172. - Le tasse, soprattasse e contributi della scuola di specializzazione in tisiologia dell'apparato respiratorio sono cosi' fissate:  
   
+Immatricolazione. . . . . . . . . . . . . . . . . . . . L. 12.000 Tassa annuale di iscrizione. . . . . . . . . . . . . . L. 100.000 Soprattassa annuale di esame. . . . . . . . . . . . . . L. 16.000 Contributi annuali di laboratorio . . . . . . . . . . . L. 14.000 Tassa di diploma. . . . . . . . . . . . . . . . . . . . L. 20.000   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 15 gennaio 1982
+### Dato a Roma, addi' 29 settembre 1973
 
-PERTINI BODRATO
+LEONE MALFATTI
 
-Visto, il Guardasigilli: DARIDA
+Visto, il Guardasigilli: ZAGARI
 
-Registrato alla Corte dei conti, addi' 20 marzo 1982
+Registrato alla Corte dei conti, addi' 1 dicembre 1973
 
-Registro n. 43 Istruzione, foglio n. 323
+Atti di Governo, registro n. 262, foglio n. 72. - CARUSO

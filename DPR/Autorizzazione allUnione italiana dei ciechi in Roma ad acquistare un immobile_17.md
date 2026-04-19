@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 aprile 1976 n. 466
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 12 marzo 1982 n. 229
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 aprile 1976 n. 466
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 12 marzo 1982 n. 229
+============================================================
 
 Autorizzazione all'Unione italiana dei ciechi, in Roma, ad acquistare un immobile.
 ----------------------------------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-466. Decreto del Presidente della Repubblica 30 aprile 1976, col quale, sulla proposta del Presidente del Consiglio dei Ministri, l'Unione italiana dei ciechi, in Roma, viene autorizzata ad acquistare dai coniugi Lerino Nicola e Garo Giuseppa, al convenuto prezzo di L. 10.700.000, un appartamento sito in Reggio Calabria, via Torrione n. 2/N, angolo via Don Minzoni, di vani sei, identificato dalla particella 71 sub. 13 del foglio 122 del nuovo catasto edilizio urbano, da destinare a sede della locale sezione.  
+229. Decreto del Presidente della Repubblica 12 marzo 1982, col quale, sulla proposta del Presidente del Consiglio dei Ministri, l'Unione italiana dei ciechi, in Roma, viene autorizzata ad acquistare, al prezzo di L. 60.000.000 ritenuto congruo dall'ufficio tecnico erariale di Torino, un appartamento di mq. 310 circa, sito in Torino, via M. Gioia 49, censito al nuovo catasto edilizio urbano alla partita 175159, foglio 194 particella 18 sub 14, di proprieta' della sig.ra Anna Maria Glavinaz in Vassoney, come da atto di compravendita in data 21 dicembre 1967, n. 30509/14565 di repertorio, a rogito dott. Giovanni Re, notaio in Torino, registrato a Torino in data 9 gennaio 1968 al n. 1401, da destinare a pensionato per giovani lavoratori ciechi.  
   
-Visto, il Guardasigilli: BONIFACIO  
-Registrato alla Corte dei conti, addi' 30 giugno 1976  
-Atti di Governo, registro n. 7, foglio n. 33
+Visto, il Guardasigilli: DARIDA  
+Registrato alla Corte dei conti, addi' 27 aprile 1982  
+Registro n. 3 Presidenza, foglio n. 342

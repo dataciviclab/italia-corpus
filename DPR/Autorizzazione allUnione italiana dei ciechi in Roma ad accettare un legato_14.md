@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 21 marzo 1977 n. 155
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 08 febbraio 1982 n. 145
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 21 marzo 1977 n. 155
-============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 08 febbraio 1982 n. 145
+===============================================================
 
 Autorizzazione all'Unione italiana dei ciechi, in Roma, ad accettare un legato.
 -------------------------------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-155. Decreto del Presidente della Repubblica 21 marzo 1977, col quale, sulla proposta del Presidente del Consiglio dei Ministri, l'Unione italiana dei ciechi, in Roma, viene autorizzata ad accettare il legato disposto dalla sig.ra Vigo Giuseppina in favore della Scuola nazionale cani guida per ciechi, in Scandicci (Firenze), con testamento olografo pubblicato a rogito notaio Luigi Zanzi in data 19 ottobre 1970, numero 69948/14526 di repertorio, registrato a Varese il 10 novembre 1970 al n. 2149, vol. 259, consistente nella somma di L. 3.000.000.  
+145. Decreto del Presidente della Repubblica 8 febbraio 1982, col quale, sulla proposta del Presidente del Consiglio dei Ministri, l'Unione italiana dei ciechi, in Roma, viene autorizzata ad accettare il legato disposto dalla sig.ra Fortunata Margherita Brusa ved. Kumbrija con testamento olografo 15 marzo 1973, pubblicato a rogito dott. Turbil Emilio, notaio in Torino, in data 15 dicembre 1976, n. 45070/13923 di repertorio, registrato a Torino il 3 gennaio 1977 al n. 114, vol. 1337, a favore della Unione italiana dei ciechi, sezione provinciale di Torino, consistente nella quota di 1/2 di un appartamento sito in Torino, corso Rosselli n. 111, censito nel nuovo catasto edilizio urbano alla partita n. 109194, foglio 88, mappale 580 sub 21, valutata con perizia di parte come segue: valore nuda proprieta' L. 14.950.000, quota 1/2 L. 7.475.000; valore usufrutto L. 8.050.000, quota 1/2 L. 4.025.000, valori ritenuti congrui dall'ufficio tecnico erariale di Torino alla data del 30 marzo 1977 e aggiornati come segue: valore nuda proprieta' L. 20.800.000, quota 1/2 L. 10.400.000; valore usufrutto L. 11.200.000, quota 1/2 L. 5.600.000, il tutto per un totale di L. 32.000.000, quota 1/2 L. 16.000.000.  
   
-Visto, il Guardasigilli: BONIFACIO  
-Registrato alla Corte dei conti, addi' 23 aprile 1977  
-Registro n. 4 Presidenza, foglio n. 129
+Visto, il Guardasigilli: DARIDA  
+Registrato alla Corte dei conti, addi' 31 marzo 1982  
+Registro n. 3 Presidenza, foglio n. 111

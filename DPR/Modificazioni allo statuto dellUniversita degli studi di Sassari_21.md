@@ -1,266 +1,23 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 23 ottobre 1973 n. 1154
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 21 febbraio 1969 n. 22
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 23 ottobre 1973 n. 1154
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 21 febbraio 1969 n. 22
+==============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Sassari.
 -------------------------------------------------------------------
-
-IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
-
-Veduto lo statuto dell'Universita' degli studi di Sassari, approvato con [regio decreto 20 aprile 1939, n. 1084](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1084), e modificato con [regio decreto 17 ottobre 1941, n. 1217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-10-17;1217), e successive modificazioni;
-
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
-
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
-
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
-
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
-
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
-
-Sentito il parere del Consiglio superiore della pubblica istruzione;
-
-Sulla proposta del Ministro per la pubblica istruzione;
-
-Decreta:
-
-Lo statuto dell'Universita' degli studi di Sassari, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
-
-Art. 76 - all'elenco delle scuole di specializzazione annesse alla facolta' di medicina e chirurgia sono aggiunte le scuole di specializzazione in "Neurochirurgia" e in "Neuropsichiatria infantile".
-
-Dopo l'art. 126, e con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi alla istituzione delle scuole di specializzazione in "Neurochirurgia" e in "Neuropsichiatria infantile".
-
-Scuola di specializzazione in neurochirurgia
-
-Art. 127. - Presso l'istituto di clinica neurochirurgica e' istituita la scuola di specializzazione in neurochirurgia.
-
-La scuola conferisce il diploma di specialista in neurochirurgia.
-
-Il corso ha la durata di quattro anni.
-
-Art. 128. - Le materie di insegnamento ed i piani di studio sono:
-
-1° Anno:
-
-Semeiotica e clinica neurologica;
-
-Elementi di psichiatria;
-
-Neuroanatomia;
-
-Neurofisiologia;
-
-Clinica neurochirurgica (quadriennale).
-
-2° Anno:
-
-Neurooftalmologia;
-
-Neurootoiatria;
-
-Elettroencefalografia ed elettromiografia;
-
-Clinica neurochirurgica.
-
-3° Anno:
-
-Anestesiologia;
-
-Neuropatologia;
-
-Neuroradiologia (biennale);
-
-Clinica neurochirurgica.
-
-4° Anno:
-
-Tecniche operatorie;
-
-Neurochirurgia infantile;
-
-Neurochirurgia stereotossica;
-
-Neuroradiologia;
-
-Neurotraumatologia;
-
-Clinica neurochirurgica;
-
-Neurochirurgia spinale.
-
-Art. 129. - Potranno essere ammessi alla scuola i laureati in medicina e chirurgia.
-
-Il numero massimo degli iscritti e' di cinque per anno.
-
-Le ammissioni avvengono per titoli ed esami.
-
-Agli anni successivi al primo sono ammessi gli allievi che abbiano regolarmente frequentato il corso precedente e superato i relativi esami di profitto.
-
-Le prove d'esame per ciascun anno di corso riguardano gli insegnamenti impartiti in quell'anno, secondo il piano di studio.
-
-Gli esami possono essere sostenuti in due sessioni: estiva ed autunnale.
-
-Gli allievi che chiedono il trasferimento da altre universita' potranno essere ammessi alla scuola secondo i modi di legge.
-
-Sono ammessi all'esame di diploma gli allievi che abbiano superato tutti gli esami di profitto.
-
-L'esame di diploma consiste nella discussione orale di una tesi scritta, su un tema in precedenza approvato dal direttore della scuola.
-
-Abbreviazioni del corso non sono consentite per alcun motivo.
-
-La frequenza e' obbligatoria per un periodo di almeno nove mesi per anno accademico. Il corso comprende lezioni, seminari, esercitazioni e internato presso l'istituto di clinica neurochirurgica.
-
-Deroghe parziali dall'obbligo dell'internato potranno essere concesse, nei limiti delle norme vigenti, unicamente agli assistenti e borsisti che prestino regolare servizio in istituti universitari di neurochirurgia.
-
-Soggiorni di studio presso istituti italiani o stranieri sono ammessi solo previa presentazione di un programma di ricerca, che dovra' essere approvato dal direttore della scuola.
-
-Scuola di specializzazione in neuropsichiatria infantile
-
-Art. 130. - Titolo necessario per l'ammissione alla scuola di specializzazione in neuropsichiatria infantile e' la laurea in medicina e chirurgia. L'ammissione e' per titoli ed esami.
-
-Art. 131. - Il corso di studio ha la durata di quattro anni.
-
-La frequenza alle lezioni e' obbligatoria.
-
-L'internato e' obbligatorio per la durata di sei mesi in clinica pediatrica per gli studenti del primo anno; per tre mesi in neurologia e per tre mesi in psichiatria per gli studenti del secondo anno; in neuropsichiatria infantile per la durata di sei mesi per gli studenti del terzo anno e per la durata di sei mesi per quelli del quarto anno.
-
-Il numero degli iscritti per ogni anno del corso non potra' essere superiore a otto.
-
-Art. 132. - Le materie d'insegnamento sono:
-
-1° Anno:
-
-Anatomia ed embriologia del sistema nervoso;
-
-Fisiologia del sistema nervoso con particolare riguardo all'eta' evolutiva;
-
-Genetica;
-
-Endocrinologia dell'eta' evolutiva e auxologia;
-
-Patologia e clinica pediatrica;
-
-Tecniche di laboratorio.
-
-2° Anno:
-
-Anatomia patologica del sistema nervoso;
-
-Biochimica patologica del sistema nervoso;
-
-Psicologia dell'eta' evolutiva;
-
-Semeiotica e clinica neurologica;
-
-Semeiotica e clinica psichiatrica.
-
-3° Anno:
-
-Psicopatologia dell'eta' evolutiva;
-
-Semeiotica e clinica neurologica infantile;
-
-Psicodiagnostica dell'eta' evolutiva;
-
-Elettrofisiologia;
-
-Neuroradiologia;
-
-Neurochirurgia dell'eta' evolutiva;
-
-Semeiotica e clinica psichiatrica infantile (I);
-
-4° Anno:
-
-Clinica psichiatrica infantile (II);
-
-Terapia generale delle malattie mentali infantili;
-
-Psicoterapia dell'eta' evolutiva;
-
-Fonoiatria;
-
-Psicopedagogia;
-
-Sociologia applicata alla popolazione infantile;
-
-Organizzazione diagnostico assistenziale e legislazione.
-
-Gli esami da sostenere sono:
-
-1° Anno:
-
-1) Embriologia e anatomia del sistema nervoso;
-
-2) Fisiologia del sistema nervoso;
-
-3) Genetica, endocrinologia e auxologia;
-
-4) Patologia e clinica pediatrica.
-
-2° Anno:
-
-5) Anatomia e biochimica patologica del sistema nervoso;
-
-6) Psicologia dell'eta' evolutiva;
-
-7) Semeiotica e clinica neurologica;
-
-8) Semeiotica e clinica psichiatrica.
-
-3° Anno:
-
-9) Semeiotica e clinica neurologica infantile;
-
-10) Psicopatologia dell'eta' evolutiva;
-
-11) Psicodiagnostica dell'eta' evolutiva.
-
-4° Anno:
-
-12) Semeiotica e clinica psichiatrica infantile;
-
-13) Psicopedagogia;
-
-14) Organizzazione diagnostico-assistenziale e legislazione.
-
-Art. 133. - Per ottenere l'iscrizione al 2°, 3° e 4° anno di specializzazioni gli iscritti dovranno avere sostenuto gli esami delle materie prescritte per l'anno precedente, tranne che per la clinica pediatrica infantile, il cui esame va sostenuto al quarto anno.
-
-Gli specialisti in clinica delle malattie nervose e mentali o in neurologia o in psichiatria sono iscritti d'ufficio al secondo anno della scuola e sono esentati dal sostenere gli esami di profitto numeri 1), 2), 5), 7) e 8) e dall'espletare il periodo di internato in neurologia e psichiatria.
-
-Gli specialisti in clinica pediatrica sono iscritti d'ufficio al secondo anno della scuola e sono esentati dal sostenere gli esami di profitto numeri 3) e 4) e dall'espletare il periodo di internato del primo anno.
-
-Per conseguire il diploma di specialista in neuropsichiatria infantile gli iscritti, al termine degli esami, dovranno presentare e discutere una dissertazione scritta su argomento di neuropsichiatria infantile.
-
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
-
-Dato a Roma, addi' 23 ottobre 1973
-
-LEONE
-
-MALFATTI
-
-Visto, il Guardasigilli: ZAGARI
-
-Registrato
-----------
-
-alla Corte dei conti, addi' 28 ottobre 1974 Atti di Governo, registro n. 6, foglio n. 47. - SCIARRETTA
 
 Art. 1
 ------
 
  IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Sassari, approvato con [regio decreto 20 aprile 1939, n. 1084](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1084), e modificato con [regio decreto 17 ottobre 1941, n. 1217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-10-17;1217), e successive modificazioni;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto lo statuto dell'Universita' degli studi di Sassari, approvato con [regio decreto 20 aprile 1939, n. 1084](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1084) e modificato con [regio decreto 17 ottobre 1941, n. 1217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-10-17;1217), e successive modificazioni;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;  
 Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
 Sentito il parere del Consiglio superiore della pubblica istruzione;  
 Sulla proposta del Ministro per la pubblica istruzione;  
@@ -268,152 +25,45 @@ Sulla proposta del Ministro per la pubblica istruzione;
 Decreta:  
   
 Lo statuto dell'Universita' degli studi di Sassari, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-  
-Art. 76 - all'elenco delle scuole di specializzazione annesse alla facolta' di medicina e chirurgia sono aggiunte le scuole di specializzazione in "Neurochirurgia" e in "Neuropsichiatria infantile".  
-  
-Dopo l'art. 126, e con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi alla istituzione delle scuole di specializzazione in "Neurochirurgia" e in "Neuropsichiatria infantile".  
-  
-Scuola di specializzazione in neurochirurgia  
-  
-Art. 127. - Presso l'istituto di clinica neurochirurgica e' istituita la scuola di specializzazione in neurochirurgia.  
-La scuola conferisce il diploma di specialista in neurochirurgia.  
-Il corso ha la durata di quattro anni.  
-  
-Art. 128. - Le materie di insegnamento ed i piani di studio sono:  
-  
-1° Anno:  
-  
-Semeiotica e clinica neurologica;  
-Elementi di psichiatria;  
-Neuroanatomia;  
-Neurofisiologia;  
-Clinica neurochirurgica (quadriennale).  
-  
-2° Anno:  
-  
-Neurooftalmologia;  
-Neurootoiatria;  
-Elettroencefalografia ed elettromiografia;  
-Clinica neurochirurgica.  
-  
-3° Anno:  
-  
-Anestesiologia;  
-Neuropatologia;  
-Neuroradiologia (biennale);  
-Clinica neurochirurgica.  
-  
-4° Anno:  
-  
-Tecniche operatorie;  
-Neurochirurgia infantile;  
-Neurochirurgia stereotossica;  
-Neuroradiologia;  
-Neurotraumatologia;  
-Clinica neurochirurgica;  
-Neurochirurgia spinale.  
-  
-Art. 129. - Potranno essere ammessi alla scuola i laureati in medicina e chirurgia.  
-Il numero massimo degli iscritti e' di cinque per anno.  
-Le ammissioni avvengono per titoli ed esami.  
-Agli anni successivi al primo sono ammessi gli allievi che abbiano regolarmente frequentato il corso precedente e superato i relativi esami di profitto.  
-Le prove d'esame per ciascun anno di corso riguardano gli insegnamenti impartiti in quell'anno, secondo il piano di studio.  
-Gli esami possono essere sostenuti in due sessioni: estiva ed autunnale.  
-Gli allievi che chiedono il trasferimento da altre universita' potranno essere ammessi alla scuola secondo i modi di legge.  
-Sono ammessi all'esame di diploma gli allievi che abbiano superato tutti gli esami di profitto.  
-L'esame di diploma consiste nella discussione orale di una tesi scritta, su un tema in precedenza approvato dal direttore della scuola.  
-Abbreviazioni del corso non sono consentite per alcun motivo.  
-La frequenza e' obbligatoria per un periodo di almeno nove mesi per anno accademico. Il corso comprende lezioni, seminari, esercitazioni e internato presso l'istituto di clinica neurochirurgica.  
-Deroghe parziali dall'obbligo dell'internato potranno essere concesse, nei limiti delle norme vigenti, unicamente agli assistenti e borsisti che prestino regolare servizio in istituti universitari di neurochirurgia.  
-Soggiorni di studio presso istituti italiani o stranieri sono ammessi solo previa presentazione di un programma di ricerca, che dovra' essere approvato dal direttore della scuola.  
-  
-Scuola di specializzazione in neuropsichiatria infantile  
-  
-Art. 130. - Titolo necessario per l'ammissione alla scuola di specializzazione in neuropsichiatria infantile e' la laurea in medicina e chirurgia. L'ammissione e' per titoli ed esami.  
-  
-Art. 131. - Il corso di studio ha la durata di quattro anni.  
-La frequenza alle lezioni e' obbligatoria.  
-L'internato e' obbligatorio per la durata di sei mesi in clinica pediatrica per gli studenti del primo anno; per tre mesi in neurologia e per tre mesi in psichiatria per gli studenti del secondo anno; in neuropsichiatria infantile per la durata di sei mesi per gli studenti del terzo anno e per la durata di sei mesi per quelli del quarto anno.  
-Il numero degli iscritti per ogni anno del corso non potra' essere superiore a otto.  
-  
-Art. 132. - Le materie d'insegnamento sono:  
-  
-1° Anno:  
-  
-Anatomia ed embriologia del sistema nervoso;  
-Fisiologia del sistema nervoso con particolare riguardo all'eta' evolutiva;  
-Genetica;  
-Endocrinologia dell'eta' evolutiva e auxologia;  
-Patologia e clinica pediatrica;  
-Tecniche di laboratorio.  
-  
-2° Anno:  
-  
-Anatomia patologica del sistema nervoso;  
-Biochimica patologica del sistema nervoso;  
-Psicologia dell'eta' evolutiva;  
-Semeiotica e clinica neurologica;  
-Semeiotica e clinica psichiatrica.  
-  
-3° Anno:  
-  
-Psicopatologia dell'eta' evolutiva;  
-Semeiotica e clinica neurologica infantile;  
-Psicodiagnostica dell'eta' evolutiva;  
-Elettrofisiologia;  
-Neuroradiologia;  
-Neurochirurgia dell'eta' evolutiva;  
-Semeiotica e clinica psichiatrica infantile (I);  
-  
-4° Anno:  
-  
-Clinica psichiatrica infantile (II);  
-Terapia generale delle malattie mentali infantili;  
-Psicoterapia dell'eta' evolutiva;  
-Fonoiatria;  
-Psicopedagogia;  
-Sociologia applicata alla popolazione infantile;  
-Organizzazione diagnostico assistenziale e legislazione.  
-  
-Gli esami da sostenere sono:  
-  
-1° Anno:  
-1) Embriologia e anatomia del sistema nervoso;  
-2) Fisiologia del sistema nervoso;  
-3) Genetica, endocrinologia e auxologia;  
-4) Patologia e clinica pediatrica.  
-  
-2° Anno:  
-5) Anatomia e biochimica patologica del sistema nervoso;  
-6) Psicologia dell'eta' evolutiva;  
-7) Semeiotica e clinica neurologica;  
-8) Semeiotica e clinica psichiatrica.  
-  
-3° Anno:  
-9) Semeiotica e clinica neurologica infantile;  
-10) Psicopatologia dell'eta' evolutiva;  
-11) Psicodiagnostica dell'eta' evolutiva.  
-  
-4° Anno:  
-12) Semeiotica e clinica psichiatrica infantile;  
-13) Psicopedagogia;  
-14) Organizzazione diagnostico-assistenziale e legislazione.  
-  
-Art. 133. - Per ottenere l'iscrizione al 2°, 3° e 4° anno di specializzazioni gli iscritti dovranno avere sostenuto gli esami delle materie prescritte per l'anno precedente, tranne che per la clinica pediatrica infantile, il cui esame va sostenuto al quarto anno.  
-Gli specialisti in clinica delle malattie nervose e mentali o in neurologia o in psichiatria sono iscritti d'ufficio al secondo anno della scuola e sono esentati dal sostenere gli esami di profitto numeri 1), 2), 5), 7) e 8) e dall'espletare il periodo di internato in neurologia e psichiatria.  
-Gli specialisti in clinica pediatrica sono iscritti d'ufficio al secondo anno della scuola e sono esentati dal sostenere gli esami di profitto numeri 3) e 4) e dall'espletare il periodo di internato del primo anno.  
-Per conseguire il diploma di specialista in neuropsichiatria infantile gli iscritti, al termine degli esami, dovranno presentare e discutere una dissertazione scritta su argomento di neuropsichiatria infantile.  
+Art. 25. - All'elenco degli istituti annessi alla facolta' di medicina e chirurgia e' aggiunto il seguente: "Istituto di clinica neurochirurgica".  
+Art. 26. - All'elenco degli insegnamenti complementari, del corso di laurea in medicina e' chirurgia sono aggiunti quelli di:  
+Psichiatria;  
+Neuropsichiatria infantile;  
+Fisiologia della nutrizione;  
+Tossicologia;  
+Gerontologia;  
+Anestesia e rianimazione.  
+Art. 39. - Nell'elenco degli insegnamenti complementari del corso di laurea in scienze agrarie l'insegnamento di zoocultura e' soppresso e sono istituiti i seguenti:  
+Avicoltura e coniglicoltura;  
+Apicoltura e bachicoltura (semestrale);  
+Agrumicoltura;  
+Microbiologia lattiero-casearia;  
+Microbiologia del terreno;  
+Parassitologia animale dei vegetali;  
+Tecnica della meccanizzazione agricola (semestrale);  
+Urbanistica rurale;  
+Virologia vegetale;  
+Sociologia rurale (semestrale);  
+Economia del mercato dei prodotti agricoli.  
+Art. 48. - All'elenco degli insegnamenti complementari del corso di laurea in scienze biologiche sono aggiunti i seguenti:  
+Chimica delle sostanze organiche naturali;  
+Biochimica fisica.  
+Art. 56, relativo alle propedeuticita' di esami per il corso di laurea in scienze biologiche e' abrogato e sostituito dal seguente:  
+1) l'esame di istituzioni di matematiche dovra' precedere l'esame di fisica e quello di genetica;  
+2) l'esame di chimica generale ed inorganica dovra' precedere l'esame di chimica organica;  
+3) l'esame di fisica dovra' precedere l'esame di chimica organica;  
+4) l'esame di chimica organica dovra' precedere quello di chimica biologica;  
+5) l'esame di istologia ed embriologia dovra' precedere gli esami di anatomia umana e di anatomia comparata;  
+6) l'esame di chimica biologica dovra' precedere lo esame di fisiologia generale.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 23 ottobre 1973
+### Dato a Roma, addi' 21 febbraio 1969
 
-LEONE MALFATTI
+SARAGAT SULLO
 
-Visto, il Guardasigilli: ZAGARI
+Visto, il Guardasigilli: GAVA Registrato alla Corte dei conti addi' 28 febbraio 1969
 
-Registrato alla Corte dei conti, addi' 28 ottobre 1974
-
-Atti di Governo, registro n. 6, foglio n. 47. - SCIARRETTA
+Atti del Governo, registro n. 225, foglio n. 103. - GRECO

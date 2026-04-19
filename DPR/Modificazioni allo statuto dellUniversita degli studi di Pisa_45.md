@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 luglio 1967 n. 1459
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 20 settembre 1966 n. 923
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 luglio 1967 n. 1459
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 20 settembre 1966 n. 923
+================================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Pisa.
 ----------------------------------------------------------------
@@ -10,13 +10,13 @@ Modificazioni allo statuto dell'Universita' degli studi di Pisa.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' degli studi di Pisa, approvato con [regio decreto 14 ottobre 1926, n. 2278](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2278) e modificato con [regio decreto 13 ottobre 1927, n. 2225](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2225), e successive modificazioni;
+Veduto lo statuto dell'Universita' degli studi di Pisa, approvato con [regio decreto 14 ottobre 1926, n. 2278](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2278) e modificato con [regio decreto 13 ottobre 1927, n. 2225](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2225) e successive modificazioni;
 
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
 
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652) e successive modificazioni;
 
 Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
 
@@ -30,81 +30,89 @@ Sulla proposta del Ministro per la pubblica istruzione;
 
 Decreta:
 
-Lo statuto dell'Universita' degli studi di Pisa, approvato e modificato con i decreti sopraindicati, e ulteriormente modificato come appresso:
+Lo statuto dell'Universita' degli studi di Pisa, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
-Art. 42. - All'elenco degli insegnamenti complementari del corso di laurea in economia e commercio e' aggiunto quello di "Principi e tecnica delle applicazioni meccanografiche ed elettroniche".
+Art. 45. - All'elenco degli Istituti della Facolta' di economia e commercio per il corso di laurea in economia e commercio e' aggiunto quello di "Matematica finanziaria". Nello stesso elenco l'istituto di Economia politica muta denominazione in quella di "Istituto di Scienze economiche G. Bruguier Pacini".
 
-Art. 45. - All'elenco degli istituti annessi al corso di laurea in economia e commercio e' aggiunto l'istituto giuridico "Santi Romano".
+Art. 49. - All'elenco degli Istituti annessi alla Facolta' di economia e commercio per il corso di laurea in Lingue e letterature straniere sono aggiunti i seguenti:
 
-Art. 51. - All'elenco degli insegnamenti complementari del corso di laurea in lettere sono aggiunti i seguenti:
+Istituto di Lingua e letteratura inglese;
 
-Linguistica generale;
+Istituto di Lingua e letteratura francese.
 
-Dialettologia italiana;
+Art. 74. - L'elenco degli Istituti annessi alla Facolta' di scienze matematiche fisiche e naturali e' modificato nel senso che l'Istituto e museo di Geologia e paleontologia viene scisso in due distinti Istituti con la seguente denominazione:
 
-Storia contemporanea;
+Istituto di Geologia e paleontologia;
 
-Storia della filosofia antica;
+Museo di paleontologia.
 
-Antichita' medioevale;
+Art. 84. - All'elenco degli insegnamenti complementari del corso di laurea in Scienze naturali sono aggiunti i seguenti:
 
-Storia della storiografia;
+"Protozoologia";
 
-Storia della critica d'arte;
+"Ultrastruttura del protoplasma".
 
-Storia dell'arte contemporanea.
+Art. 87. - All'elenco degli insegnamenti complementari del corso di laurea in Scienze biologiche sono aggiunti i seguenti:
 
-Art. 59. - E' abrogato e sostituito dal seguente: "La dissertazione per il conseguimento della laurea in lettere deve riferirsi a discipline letterarie, storiche e geografiche; quella per il conseguimento della laurea in filosofia, a discipline filosofiche e storiche".
+"Protozoologia";
 
-Art. 74, relativo agli istituti annessi alla facolta' di scienze matematiche, fisiche e naturali e' modificato nel senso che l'istituto di chimica analitica muta denominazione in quella di "Istituto di chimica analitica ed elettrochimica".
+Ultrastruttura dal protoplasma".
 
-Art. 76. - All'elenco degli insegnamenti complementari del corso di laurea in chimica (ind. organico-biologico) e' aggiunto quello di "Complementi di matematica".
+Art. 116. - Gli insegnamenti del terzo gruppo di materie a scelta dello studente per il corso di laurea in Ingegneria elettrotecnica sono soppressi e sostituiti dai seguenti:
 
-Art. 78. - All'elenco degli insegnamenti complementari del corso di laurea in chimica industriale e' aggiunto quello di "Complementi di matematica".
+Gruppo III:
 
-Art. 116. - Titolo V - per il corso di laurea in ingegneria meccanica nel gruppo 30 e gruppo 40 degli insegnamenti a scelta dello studente, l'insegnamento di elettronica applicata e' sostituito da "Elementi di elettronica".
+Impianti elettrici navali;
 
-Titolo VII - per il corso di laurea in ingegneria chimica nel gruppo 3 degli insegnamenti a scelta dello studente l'insegnamento di mineralogia e' sostituito da "Chimica fisica tecnica".
+Servomeccanismi.
 
-Titolo IX - per il corso di laurea in ingegneria elettronica, l'insegnamento di "Complementi di fisica (semestrale) e' sostituito da "Elettronica generale".
+L'insegnamento di Mineralogia, obbligatorio sul piano della Facolta' per il corso di laurea in Ingegneria chimica e' soppresso.
 
-Art. 122, relativo alle norme sulle propedeuticita' di esami del triennio di applicazione della facolta' d'ingegneria e' modificato nel senso che vengono aggiunte o modificate le seguenti:
+Nello stesso corso di laurea i tre gruppi di materie a scelta dello studente sono soppressi e sostituiti dai seguenti:
 
-Analisi e sviluppo dei progetti (Principi di ingegneria chimica, c o-
+Gruppo I:
 
-struzione di apparecchiature ch i-
+Scienza dei metalli;
 
-miche)
+Elettrochimica e tecnologie elettrochimiche;
 
-Elementi di elettro nica (Elettrotecnica)
+Tecnologie dei materiali dei reattori nucleari;
 
-Impianti chimici (Principi di ingegneria chimica, c o-
+Tecnologie inorganiche speciali;
 
-struzione di apparecchiature ch i-
+Mineralogia.
 
-miche)
+Gruppo II:
 
-Principi di ingegne ria chimica (Chimica fisica, fisica tecnica)
+Chimica dei composti elementorganici;
 
-Processi di apparecchiature di (Principi di ingegneria chimica)
+Chimica e tecnologia delle fermentazioni;
 
-trasferimento
+Chimica macromolecolare e tecnologia degli alti polimeri;
 
-Strumentazione e controllo dei (Fisica tecnica, elettrotecnic a,
+Tecnologia del petrolio;
 
-processi chimici chimica fisica. Chimica analiti ca
+Tecnologie organiche speciali.
 
-e strumentazione)
+Gruppo III:
 
-Teoria e sviluppo dei processi (Principi di ingegneria chimic a.
+Mineralogia;
 
-Processi chimici fondamentali)
+Teoria e sviluppo dei processi;
 
-Art. 175, relativo al corso di perfezionamento in ingegneria applicata all'agricoltura e' soppresso.
+Strumentazione e controllo dei processi chimici;
+
+Processi e apparecchiature di trasferimenti;
+
+Analisi e sviluppo dei progetti.
+
+Art. 122. - Relativo alle propedeuticita' del triennio di ingegneria e' modificato nel senso che, ai fini dell'obbligo di precedenza per la materia di "Statica dei modelli e tecnica della sperimentazione, l'insegnamento di "Complementi di Scienza delle costruzioni" e' sostituito con quello di "Scienza delle costruzioni".
+
+Art. 134. - All'elenco degli insegnamenti complementari del corso di laurea in Medicina veterinaria e' aggiunto quello di: "Istologia ed embriologia generale".
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 
-Dato a Roma, addi' 4 luglio 1967
+Dato a Roma, addi' 20 settembre 1966
 
 SARAGAT
 
@@ -115,17 +123,17 @@ Visto, il Guardasigilli: REALE
 Registrato
 ----------
 
-alla Corte dei conti, addi' 18 marzo 1968 Atti del Governo, registro n. 218, foglio n. 51. - GRECO
+alla Corte dei conti, addi' 29 ottobre 1966 Atti del Governo, registro n. 206, foglio n. 135. - VILLA
 
 Art. 1
 ------
 
  IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Pisa, approvato con [regio decreto 14 ottobre 1926, n. 2278](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2278) e modificato con [regio decreto 13 ottobre 1927, n. 2225](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2225), e successive modificazioni;  
+Veduto lo statuto dell'Universita' degli studi di Pisa, approvato con [regio decreto 14 ottobre 1926, n. 2278](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2278) e modificato con [regio decreto 13 ottobre 1927, n. 2225](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2225) e successive modificazioni;  
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652) e successive modificazioni;  
 Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
 Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
 Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
@@ -134,62 +142,59 @@ Sulla proposta del Ministro per la pubblica istruzione;
   
 Decreta:  
   
-Lo statuto dell'Universita' degli studi di Pisa, approvato e modificato con i decreti sopraindicati, e ulteriormente modificato come appresso:  
+Lo statuto dell'Universita' degli studi di Pisa, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+Art. 45. - All'elenco degli Istituti della Facolta' di economia e commercio per il corso di laurea in economia e commercio e' aggiunto quello di "Matematica finanziaria". Nello stesso elenco l'istituto di Economia politica muta denominazione in quella di "Istituto di Scienze economiche G. Bruguier Pacini".  
+Art. 49. - All'elenco degli Istituti annessi alla Facolta' di economia e commercio per il corso di laurea in Lingue e letterature straniere sono aggiunti i seguenti:  
+Istituto di Lingua e letteratura inglese;  
+Istituto di Lingua e letteratura francese.  
+Art. 74. - L'elenco degli Istituti annessi alla Facolta' di scienze matematiche fisiche e naturali e' modificato nel senso che l'Istituto e museo di Geologia e paleontologia viene scisso in due distinti Istituti con la seguente denominazione:  
+Istituto di Geologia e paleontologia;  
+Museo di paleontologia.  
+Art. 84. - All'elenco degli insegnamenti complementari del corso di laurea in Scienze naturali sono aggiunti i seguenti:  
+"Protozoologia";  
+"Ultrastruttura del protoplasma".  
+Art. 87. - All'elenco degli insegnamenti complementari del corso di laurea in Scienze biologiche sono aggiunti i seguenti:  
+"Protozoologia";  
+Ultrastruttura dal protoplasma".  
+Art. 116. - Gli insegnamenti del terzo gruppo di materie a scelta dello studente per il corso di laurea in Ingegneria elettrotecnica sono soppressi e sostituiti dai seguenti:  
   
-Art. 42. - All'elenco degli insegnamenti complementari del corso di laurea in economia e commercio e' aggiunto quello di "Principi e tecnica delle applicazioni meccanografiche ed elettroniche".  
-Art. 45. - All'elenco degli istituti annessi al corso di laurea in economia e commercio e' aggiunto l'istituto giuridico "Santi Romano".  
-Art. 51. - All'elenco degli insegnamenti complementari del corso di laurea in lettere sono aggiunti i seguenti:  
-Linguistica generale;  
-Dialettologia italiana;  
-Storia contemporanea;  
-Storia della filosofia antica;  
-Antichita' medioevale;  
-Storia della storiografia;  
-Storia della critica d'arte;  
-Storia dell'arte contemporanea.  
+Gruppo III:  
+Impianti elettrici navali;  
+Servomeccanismi.  
+L'insegnamento di Mineralogia, obbligatorio sul piano della Facolta' per il corso di laurea in Ingegneria chimica e' soppresso.  
+Nello stesso corso di laurea i tre gruppi di materie a scelta dello studente sono soppressi e sostituiti dai seguenti:  
   
-Art. 59. - E' abrogato e sostituito dal seguente: "La dissertazione per il conseguimento della laurea in lettere deve riferirsi a discipline letterarie, storiche e geografiche; quella per il conseguimento della laurea in filosofia, a discipline filosofiche e storiche".  
-Art. 74, relativo agli istituti annessi alla facolta' di scienze matematiche, fisiche e naturali e' modificato nel senso che l'istituto di chimica analitica muta denominazione in quella di "Istituto di chimica analitica ed elettrochimica".  
-Art. 76. - All'elenco degli insegnamenti complementari del corso di laurea in chimica (ind. organico-biologico) e' aggiunto quello di "Complementi di matematica".  
-Art. 78. - All'elenco degli insegnamenti complementari del corso di laurea in chimica industriale e' aggiunto quello di "Complementi di matematica".  
-Art. 116. - Titolo V - per il corso di laurea in ingegneria meccanica nel gruppo 30 e gruppo 40 degli insegnamenti a scelta dello studente, l'insegnamento di elettronica applicata e' sostituito da "Elementi di elettronica".  
-Titolo VII - per il corso di laurea in ingegneria chimica nel gruppo 3 degli insegnamenti a scelta dello studente l'insegnamento di mineralogia e' sostituito da "Chimica fisica tecnica".  
-Titolo IX - per il corso di laurea in ingegneria elettronica, l'insegnamento di "Complementi di fisica (semestrale) e' sostituito da "Elettronica generale".  
-Art. 122, relativo alle norme sulle propedeuticita' di esami del triennio di applicazione della facolta' d'ingegneria e' modificato nel senso che vengono aggiunte o modificate le seguenti:  
-Analisi e sviluppo dei progetti (Principi di ingegneria chimica, c o-  
-struzione di apparecchiature ch i-  
-miche)  
-  
-Elementi di elettro nica (Elettrotecnica)  
-  
-Impianti chimici (Principi di ingegneria chimica, c o-  
-struzione di apparecchiature ch i-  
-miche)  
-  
-Principi di ingegne ria chimica (Chimica fisica, fisica tecnica)  
-  
-Processi di apparecchiature di (Principi di ingegneria chimica)  
-trasferimento  
-  
-Strumentazione e controllo dei (Fisica tecnica, elettrotecnic a,  
-processi chimici chimica fisica. Chimica analiti ca  
-e strumentazione)  
-  
-Teoria e sviluppo dei processi (Principi di ingegneria chimic a.  
-Processi chimici fondamentali)  
-  
-Art. 175, relativo al corso di perfezionamento in ingegneria applicata all'agricoltura e' soppresso.  
+Gruppo I:  
+Scienza dei metalli;  
+Elettrochimica e tecnologie elettrochimiche;  
+Tecnologie dei materiali dei reattori nucleari;  
+Tecnologie inorganiche speciali;  
+Mineralogia.  
+Gruppo II:  
+Chimica dei composti elementorganici;  
+Chimica e tecnologia delle fermentazioni;  
+Chimica macromolecolare e tecnologia degli alti polimeri;  
+Tecnologia del petrolio;  
+Tecnologie organiche speciali.  
+Gruppo III:  
+Mineralogia;  
+Teoria e sviluppo dei processi;  
+Strumentazione e controllo dei processi chimici;  
+Processi e apparecchiature di trasferimenti;  
+Analisi e sviluppo dei progetti.  
+Art. 122. - Relativo alle propedeuticita' del triennio di ingegneria e' modificato nel senso che, ai fini dell'obbligo di precedenza per la materia di "Statica dei modelli e tecnica della sperimentazione, l'insegnamento di "Complementi di Scienza delle costruzioni" e' sostituito con quello di "Scienza delle costruzioni".  
+Art. 134. - All'elenco degli insegnamenti complementari del corso di laurea in Medicina veterinaria e' aggiunto quello di: "Istologia ed embriologia generale".  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 4 luglio 1967
+### Dato a Roma, addi' 20 settembre 1966
 
 SARAGAT GUI
 
 Visto, il Guardasigilli: REALE
 
-Registrato alla Corte dei conti, addi' 18 marzo 1968
+Registrato alla Corte dei conti, addi' 29 ottobre 1966
 
-Atti del Governo, registro n. 218, foglio n. 51. - GRECO
+Atti del Governo, registro n. 206, foglio n. 135. - VILLA

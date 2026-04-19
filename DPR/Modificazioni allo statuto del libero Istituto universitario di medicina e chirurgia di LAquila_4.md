@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 maggio 1971 n. 624
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 17 ottobre 1972 n. 890
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 maggio 1971 n. 624
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 17 ottobre 1972 n. 890
+==============================================================
 
 Modificazioni allo statuto del libero Istituto universitario di medicina e chirurgia di L'Aquila.
 -------------------------------------------------------------------------------------------------

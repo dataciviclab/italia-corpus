@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 marzo 1959 n. 156
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 dicembre 1954 n. 1233
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 marzo 1959 n. 156
-============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 dicembre 1954 n. 1233
+================================================================
 
 Autorizzazione alla Camera di commercio, industria e agricoltura di Roma ad acquistare un immobile per l'ampliamento della propria sede.
 ----------------------------------------------------------------------------------------------------------------------------------------
@@ -10,13 +10,13 @@ Autorizzazione alla Camera di commercio, industria e agricoltura di Roma ad acqu
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Visto il [regio decreto 20 settembre 1934, n. 2011](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-09-20;2011), che approva il testo unico delle leggi sui Consigli provinciali dell'economia, modificato con [regio decreto-legge 2 settembre 1936, n. 1900](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1936-09-02;1900), convertito nella [legge 3 giugno 1937, n. 1000](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1937-06-03;1000), e con [regio decreto-legge 28 aprile 1937, n. 524](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1937-04-28;524), convertito nella [legge 7 giugno 1937, numero 1387](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1937-06-07;1387);
+Visto il [regio decreto 20 settembre 1934, n. 2011](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-09-20;2011), che approva il testo unico delle leggi sui Consigli e sugli Uffici provinciali dell'economia, modificato con [regio decreto-legge 3 settembre 1936, n. 1900](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1936-09-03;1900), convertito nella [legge 3 giugno 1937, n. 1000](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1937-06-03;1000), e con [regio decreto-legge 28 aprile 1937, n. 524](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1937-04-28;524), convertito nella [legge 7 giugno 1937, n. 1387](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1937-06-07;1387);
 
 Visto il [decreto legislativo luogotenenziale 21 settembre 1944, n. 315](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1944-09-21;315), sulla soppressione dei Consigli e degli Uffici provinciali dell'economia e la ricostituzione delle Camere di commercio, industria e agricoltura, nonche' degli Uffici provinciali del commercio e dell'industria;
 
-Vista la legge 5 giugno 1850, n. 1037, ed il [regio decreto 26 giugno 1864, n. 1817](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1864-06-26;1817);
+Vista la legge 5 giugno 1850, n. 1037 ed il regio decreto 26 giugno 1564, n. 1817;
 
-Vista la [deliberazione n. 993 del 9 dicembre 1958](http://www.normattiva.it/uri-res/N2Ls?urn:nir::delibera:1958-12-09;993), con la quale la Camera di commercio, industria e agricoltura di Roma ha stabilito di acquistare un immobile per l'ampliamento della propria sede;
+Vista la [deliberazione n. 664 in data 9 luglio 1954](http://www.normattiva.it/uri-res/N2Ls?urn:nir::delibera:1954-07-09;664), con la quale la Camera di commercio, industria e agricoltura di Roma ha stabilito di acquistare un immobile per l'ampliamento della propria sede;
 
 Udito il parere del Consiglio di Stato;
 
@@ -30,18 +30,18 @@ Articolo unico
 
   
   
-La Camera di commercio, industria e agricoltura di Roma e' autorizzata ad acquistare dal prof. Riccardo Argenziano il terzo piano dello stabile, sito in Roma, piazza Sant'Ignazio n. 125, alle condizioni previste nella [deliberazione n. 993 del 9 dicembre 1958](http://www.normattiva.it/uri-res/N2Ls?urn:nir::delibera:1958-12-09;993).  
+La Camera di commercio, industria e agricoltura di Roma e autorizzata ad acquistare dagli eredi Sauve un immobile sito in Roma, via de' Burro' n. 144, 145, 145-a e n. 127 di piazza Sant'Ignazio, alle condizioni previste nella [deliberazione n. 664 del 9 luglio 1954](http://www.normattiva.it/uri-res/N2Ls?urn:nir::delibera:1954-07-09;664).  
   
 
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 19 marzo 1959
+### Dato a Roma, addi' 4 dicembre 1954
 
-GRONCHI COLOMBO
+EINAUDI VILLABRUNA
 
-Visto, il Guardasigilli: GONELLA
+Visto, il Guardasigilli: DE PIETRO
 
-Registrato alla Corte dei conti, addi' 14 aprile 1959
+Registrato alla Corte dei conti, addi' 8 gennaio 1955
 
-Atti del Governo, registro n. 118, foglio n. 40. - VILLA
+Atti del Governo, registro n. 88, foglio n. 8. - CARLOMAGNO

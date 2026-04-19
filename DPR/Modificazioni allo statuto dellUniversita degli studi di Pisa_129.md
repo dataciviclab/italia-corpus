@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 ottobre 1952 n. 4558
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 23 dicembre 1983 n. 1155
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 ottobre 1952 n. 4558
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 23 dicembre 1983 n. 1155
+================================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Pisa.
 ----------------------------------------------------------------
@@ -10,361 +10,382 @@ Modificazioni allo statuto dell'Universita' degli studi di Pisa.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' degli studi di Pisa, approvato con [regio decreto 14 ottobre 1926, n. 2278](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2278), e modificato con i [regi decreti 13 ottobre 1927, n. 2225](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1927-10-13;2225); [20 settembre 1928, n. 2251](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1928-09-20;2251); [31 ottobre 1929, n. 2473](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1929-10-31;2473); [30 ottobre 1930, n. 1916](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1930-10-30;1916), [22 ottobre 1931, n. 1339](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1931-10-22;1339); [27 ottobre 1932, n. 2098](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1932-10-27;2098); [13 dicembre 1934, n. 2408](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1934-12-13;2408); [1 ottobre 1936, n. 2462](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1936-10-01;2462); [27 ottobre 1937, n. 2170](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1937-10-27;2170); [5 ottobre 1939, n. 1744](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1939-10-05;1744); [26 ottobre 1940, n. 2071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1940-10-26;2071); [27 aprile 1942, n. 469](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1942-04-27;469) e [24 ottobre 1942, n. 1652; con decreto del Capo provvisorio dello Stato](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto:1942-10-24;1652) [30 dicembre 1947, n. 1689, e con decreti del Presidente della Repubblica](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1947-12-30;1689) [17 febbraio 1949, n. 97](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-02-17;97); [30 ottobre 1949, n. 1169](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-10-30;1169); [31 ottobre 1950, n. 1309](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1950-10-31;1309); [11 aprile 1951, n. 566](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-04-11;566); [27 ottobre 1951, n. 1801](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-10-27;1801) e [25 marzo 1952, n. 872](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-03-25;872);
+Veduto lo statuto dell'Universita' di Pisa, approvato con [regio decreto 14 ottobre 1926, n. 2278](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2278), e successive modificazioni;
 
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+Visto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
 
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
 
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzi riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
 
-Sentito il parere del Consiglio superiore della pubblica istruzione;
+Veduto il [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
 
-Sulla proposta del Ministro per la pubblica istruzione;
+Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Pisa e convalidati dal Consiglio universitario nazionale nel suo parere;
+
+Sentito il parere del Consiglio universitario nazionale;
+
+Sulla proposta del Ministro della pubblica istruzione;
 
 Decreta:
+--------
 
-Lo statuto dell'Universita' degli studi di Pisa, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
-
-L'elenco degli insegnamenti complementari del corso di laurea in lettere di cui all'art. 38 e' sostituito dal seguente:
-
-Sono insegnamenti complementari:
-
-1) Filologia greco-latina;
-
-2) Grammatica greca e latina;
-
-3) Storia comparata delle lingue classiche;
-
-4) Epigrafia greca;
-
-5) Papirologia;
-
-6) Antichita' greche e romane;
-
-7) Etruscologia ed archeologia italica;
-
-8) Storia della letteratura latina medioevale;
-
-9) Storia della lingua italiana;
-
-10) Storia del Risorgimento;
-
-11) Sanscrito;
-
-12) Filologia iranica;
-
-13) Ebraico e lingue semitiche comparate;
-
-14) Epigrafia ed antichita' semitiche;
-
-15) Lingua e letteratura araba;
-
-16) Lingua e letteratura copta;
-
-17) Filologia bizantina;
-
-18) Filologia germanica;
-
-19) Filologia slava;
-
-20) Paleografia e diplomatica;
-
-21) Numismatica;
-
-22) Paleontologia;
-
-23) Lingua e letteratura francese;
-
-24) Lingua e letteratura tedesca;
-
-25) Lingua e letteratura inglese;
-
-26) Lingua e letteratura spagnola;
-
-27) Lingua e letteratura portoghese;
-
-28) Lingua e letteratura neogreca;
-
-29) Lingua e letteratura romena;
-
-30) Lingua e letteratura russa;
-
-31) Lingua e letteratura polacca;
-
-32) Lingua e letteratura ungherese;
-
-33) Lingua e letteratura albanese;
-
-34) Lingua, letteratura e storia cinese;
-
-35) Storia delle religioni;
-
-30) Storia del Cristianesimo;
-
-37) Storia della Chiesa;
-
-38) Archeologia cristiana;
-
-30) Letteratura cristiana antica;
-
-40) Storia religiosa dell'Oriente cristiano;
-
-41) Egittologia;
-
-42) Assiriologia ed archeologia orientale;
-
-43) Storia orientale antica;
-
-44) Storia dell'arte del Medio ed Estremo Oriente;
-
-45) Storia dell'arte musulmana e copta;
-
-46) Biblioteconomia e bibliografia;
-
-47) Storia della musica;
-
-48) Letteratura delle tradizioni popolari;
-
-49) Etnologia;
-
-50) Uno degli insegnamenti filosofici che non sia stato prescelto come fondamentale;
-
-51) Lingua e letteratura slovena;
-
-52) Lingua e letteratura serbo-croata.
-
-L'elenco degli insegna menti complementari del corso di laurea in filosofia di cui all'art. 39 e' sostituito dal seguente:
-
-Sono insegnamenti complementari:
-
-1) Estetica;
-
-2) Filosofia del diritto;
-
-3) Storia della filosofia antica;
-
-4) Storia della filosofia medioevale;
-
-5) Storia delle religioni;
-
-6) Storia del Cristianesimo;
-
-7) Psicologia;
-
-8) Storia del Risorgimento;
-
-9) Storia del diritto italiano;
-
-10) Storia delle dottrine politiche;
-
-11) Storia delle dottrine economiche;
-
-12) Letteratura greca;
-
-13) Economia politica;
-
-14) Filosofia della storia;
-
-15) Filosofia della religione;
-
-16) Una lingua e letteratura straniera moderna, a scelta fra quelle elencate nell'art. 38 per la laurea in lettere.
-
-Art. 41. - E' sostituito dal seguente:
-
-Gli Istituti scientifici della Facolta' sono:
-
-Istituto di geografia generale;
-
-Istituto di archeologia e storia dell'arte antica;
-
-Istituto di glottologia;
-
-Istituto di storia dell'arte medioevale e moderna;
-
-Istituto di storia antica e antichita' classiche;
-
-Istituto di filologia romanza;
-
-Istituto di lingua e letteratura tedesca e filologia germanica;
-
-Istituto di storia medioevale, moderna e contemporanea e di paleografia e diplomatica;
-
-Istituto di filologia classica;
-
-Istituto di letteratura italiana;
-
-Istituto di filosofia;
-
-Istituto di letteratura inglese e americana;
-
-Istituto di letteratura francese;
-
-Istituto di letteratura slava.
-
-Art. 97. - Agli insegnamenti complementari di "tecnica urbanistica", "igiene applicata all'ingegneria" e "comunicazioni elettriche" e' abolita la specifica "semestrale".
-
-Art. 98. - Per la sottosezione edile, l'insegnamento di cui al n. 15 e' sostituito dal seguente:
-
-"Architettura e composizione architettonica (biennale)".
-
-Art. 99. - Per la sottosezione meccanica l'insegnamento di cui al n. 15 e' sostituito dal seguente:
-
-"Disegno di macchine e progetti" (oltre al corso annuale, un secondo corso semestrale).
-
-Art. 102. - Il secondo comma e' sostituito dal seguente:
-
-"Costruzioni in legno, ferro e cemento armato (scienza delle costruzioni); macchine (meccanica applicata); costruzioni di macchine (meccanica applicata, scienza delle costruzioni, tecnologie generali); disegno di macchine e progetti (meccanica applicata); impianti industriali meccanici (macchine e tecnologie generali); costruzioni aeronautiche (scienza delle costruzioni e meccanica applicata alle macchine); costruzioni stradali e ferroviarie (topografia con elementi di geodesia); costruzioni idrauliche (scienza delle costruzioni, idraulica); impianti speciali idraulici (idraulica e scienza delle costruzioni); costruzione di ponti (scienza delle costruzioni): chimica industriale (chimica applicata); misure elettriche, impianti elettrici, costruzioni di macchine elettriche, radiotecnica, comunicazioni elettriche (elettrotecnica); tecnologie generali (chimica applicata)".
-
-Art. 103. - L'ultimo comma e' sostituito dal seguente:
-
-"L'esame di laurea consiste in una prova di cultura, sulle materie fondamentali del corso di studi seguito dal candidato e nella discussione orale di un progetto specifico attinente al ramo d'ingegneria della sottosezione cui appartiene il candidato, redatto sotto la guida e la sorveglianza di almeno due professori ufficiali.
-
-Le modalita' per la prova di cultura (scritta, orale o grafica) saranno stabilite di anno in anno dal Consiglio di facolta'".
-
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
-
-Dato a Roma, addi' 30 ottobre 1952
-
-EINAUDI
-
-SEGNI
-
-Visto, il Guardasigilli: ZOLI
-
-Registrato
-----------
-
-alla Corte dei conti, addi' 15 maggio 1953 Atti del Governo, registro n. 76, foglio n. 96. - PALLA
+Lo statuto dell'Universita' di Pisa, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Pisa, approvato con [regio decreto 14 ottobre 1926, n. 2278](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2278), e modificato con i [regi decreti 13 ottobre 1927, n. 2225](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1927-10-13;2225); [20 settembre 1928, n. 2251](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1928-09-20;2251); [31 ottobre 1929, n. 2473](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1929-10-31;2473); [30 ottobre 1930, n. 1916](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1930-10-30;1916), [22 ottobre 1931, n. 1339](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1931-10-22;1339); [27 ottobre 1932, n. 2098](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1932-10-27;2098); [13 dicembre 1934, n. 2408](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1934-12-13;2408); [1 ottobre 1936, n. 2462](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1936-10-01;2462); [27 ottobre 1937, n. 2170](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1937-10-27;2170); [5 ottobre 1939, n. 1744](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1939-10-05;1744); [26 ottobre 1940, n. 2071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1940-10-26;2071); [27 aprile 1942, n. 469](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1942-04-27;469) e [24 ottobre 1942, n. 1652; con decreto del Capo provvisorio dello Stato](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto:1942-10-24;1652) [30 dicembre 1947, n. 1689, e con decreti del Presidente della Repubblica](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1947-12-30;1689) [17 febbraio 1949, n. 97](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-02-17;97); [30 ottobre 1949, n. 1169](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-10-30;1169); [31 ottobre 1950, n. 1309](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1950-10-31;1309); [11 aprile 1951, n. 566](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-04-11;566); [27 ottobre 1951, n. 1801](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-10-27;1801) e [25 marzo 1952, n. 872](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-03-25;872);  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzi riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
-Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro per la pubblica istruzione;  
+Art. 64 - nell'elenco degli insegnamenti complementari del corso di laurea in lingue e letterature straniere moderne (indirizzo europeo) sono inserite le seguenti discipline:  
+istituzioni di lingua francese;  
+istituzioni di lingua inglese;  
+istituzioni di lingua spagnola;  
+linguistica russa;  
+istituzioni di lingua tedesca.  
+
+Art. 2
+------
+
   
-Decreta:  
-  
-Lo statuto dell'Universita' degli studi di Pisa, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-  
-L'elenco degli insegnamenti complementari del corso di laurea in lettere di cui all'art. 38 e' sostituito dal seguente:  
+Gli articoli 67 e 68, relativi al corso di laurea in storia, sono soppressi e sostituiti come segue:  
+Art. 67. - La durata del corso degli studi per la laurea in storia e' di quattro anni.  
+Il corso di studi si distingue in sei indirizzi:  
+A) Antico;  
+B) Medioevale;  
+C) Moderno;  
+D) Contemporaneo;  
+E) Orientale;  
+F) Storico-religioso.  
+Sono titoli di ammissione:  
+a) il diploma di scuola media superiore di durata quinquennale;  
+b) il diploma rilasciato al termine dell'anno integrativo frequentato dopo il conseguimento del diploma di scuola media superiore di durata quadriennale.  
+A) Indirizzo antico:  
+Sono insegnamenti fondamentali:  
+\* storia romana;  
+\* storia greca;  
+storia orientale antica;  
+\* storia medioevale;  
+archeologia e storia dell'arte greca e romana;  
+storia del Mediterraneo antico orientale;  
+\* papirologia;  
+geografia storica del mondo antico;  
+epigrafia e antichita' greche;  
+epigrafia e antichita' romane;  
+\* letteratura italiana.  
 Sono insegnamenti complementari:  
-1) Filologia greco-latina;  
-2) Grammatica greca e latina;  
-3) Storia comparata delle lingue classiche;  
-4) Epigrafia greca;  
-5) Papirologia;  
-6) Antichita' greche e romane;  
-7) Etruscologia ed archeologia italica;  
-8) Storia della letteratura latina medioevale;  
-9) Storia della lingua italiana;  
-10) Storia del Risorgimento;  
-11) Sanscrito;  
-12) Filologia iranica;  
-13) Ebraico e lingue semitiche comparate;  
-14) Epigrafia ed antichita' semitiche;  
-15) Lingua e letteratura araba;  
-16) Lingua e letteratura copta;  
-17) Filologia bizantina;  
-18) Filologia germanica;  
-19) Filologia slava;  
-20) Paleografia e diplomatica;  
-21) Numismatica;  
-22) Paleontologia;  
-23) Lingua e letteratura francese;  
-24) Lingua e letteratura tedesca;  
-25) Lingua e letteratura inglese;  
-26) Lingua e letteratura spagnola;  
-27) Lingua e letteratura portoghese;  
-28) Lingua e letteratura neogreca;  
-29) Lingua e letteratura romena;  
-30) Lingua e letteratura russa;  
-31) Lingua e letteratura polacca;  
-32) Lingua e letteratura ungherese;  
-33) Lingua e letteratura albanese;  
-34) Lingua, letteratura e storia cinese;  
-35) Storia delle religioni;  
-30) Storia del Cristianesimo;  
-37) Storia della Chiesa;  
-38) Archeologia cristiana;  
-30) Letteratura cristiana antica;  
-40) Storia religiosa dell'Oriente cristiano;  
-41) Egittologia;  
-42) Assiriologia ed archeologia orientale;  
-43) Storia orientale antica;  
-44) Storia dell'arte del Medio ed Estremo Oriente;  
-45) Storia dell'arte musulmana e copta;  
-46) Biblioteconomia e bibliografia;  
-47) Storia della musica;  
-48) Letteratura delle tradizioni popolari;  
-49) Etnologia;  
-50) Uno degli insegnamenti filosofici che non sia stato prescelto come fondamentale;  
-51) Lingua e letteratura slovena;  
-52) Lingua e letteratura serbo-croata.  
-L'elenco degli insegna menti complementari del corso di laurea in filosofia di cui all'art. 39 e' sostituito dal seguente:  
+antichita' greche e romane;  
+\* archeologia cristiana;  
+archeologia fenicio-punica;  
+archeologia greca e romana;  
+archeologia orientale;  
+archeologia delle province romane;  
+assirologia;  
+\* ebraico e lingue semitiche comparate;  
+egittologia;  
+epigrafia greca;  
+epigrafia latina;  
+epigrafia semitica;  
+esegesi delle fonti della storia greca e romana;  
+\* etnologia;  
+etruscologia e archeologia italica;  
+filologia semitica;  
+filologia greca e latina;  
+ittitologia;  
+\* letteratura cristiana antica;  
+\* letteratura greca;  
+\* letteratura latina;  
+numismatica antica;  
+paleografia greca;  
+paleografia latina, paletnologia;  
+storia del cristianesimo antico;  
+storia del diritto greco;  
+\* storia del diritto romano;  
+storia economica del mondo antico;  
+storia della filosofia antica;  
+storia delle religioni del mondo classico;  
+storia sociale del mondo antico;  
+topografia dell'Italia antica;  
+storia delle origini cristiane;  
+\* storia del Cristianesimo e storia delle origini cristiane;  
+civilta' antiche dell'Italia meridionale;  
+topografia antica;  
+iranistica;  
+filosofia dell'India e dell'Asia orientale;  
+indologia;  
+\* storia delle dottrine economiche;  
+\* storia della scienza e della tecnica.  
+B) Indirizzo medioevale:  
+Sono insegnamenti fondamentali:  
+\* storia medioevale;  
+\* storia romana;  
+\* storia moderna;  
+storia dell'arte medioevale;  
+\* letteratura italiana;  
+\* paleografia e diplomatica;  
+lingua e letteratura latina medioevale;  
+storia economica medioevale;  
+\* geografia storica dell'Europa;  
+storia della filosofia medioevale;  
+istituzioni medioevali.  
 Sono insegnamenti complementari:  
-1) Estetica;  
-2) Filosofia del diritto;  
-3) Storia della filosofia antica;  
-4) Storia della filosofia medioevale;  
-5) Storia delle religioni;  
-6) Storia del Cristianesimo;  
-7) Psicologia;  
-8) Storia del Risorgimento;  
-9) Storia del diritto italiano;  
-10) Storia delle dottrine politiche;  
-11) Storia delle dottrine economiche;  
-12) Letteratura greca;  
-13) Economia politica;  
-14) Filosofia della storia;  
-15) Filosofia della religione;  
-16) Una lingua e letteratura straniera moderna, a scelta fra quelle elencate nell'art. 38 per la laurea in lettere.  
-Art. 41. - E' sostituito dal seguente:  
-Gli Istituti scientifici della Facolta' sono:  
-Istituto di geografia generale;  
-Istituto di archeologia e storia dell'arte antica;  
-Istituto di glottologia;  
-Istituto di storia dell'arte medioevale e moderna;  
-Istituto di storia antica e antichita' classiche;  
-Istituto di filologia romanza;  
-Istituto di lingua e letteratura tedesca e filologia germanica;  
-Istituto di storia medioevale, moderna e contemporanea e di paleografia e diplomatica;  
-Istituto di filologia classica;  
-Istituto di letteratura italiana;  
-Istituto di filosofia;  
-Istituto di letteratura inglese e americana;  
-Istituto di letteratura francese;  
-Istituto di letteratura slava.  
-Art. 97. - Agli insegnamenti complementari di "tecnica urbanistica", "igiene applicata all'ingegneria" e "comunicazioni elettriche" e' abolita la specifica "semestrale".  
-Art. 98. - Per la sottosezione edile, l'insegnamento di cui al n. 15 e' sostituito dal seguente:  
-"Architettura e composizione architettonica (biennale)".  
-Art. 99. - Per la sottosezione meccanica l'insegnamento di cui al n. 15 e' sostituito dal seguente:  
-"Disegno di macchine e progetti" (oltre al corso annuale, un secondo corso semestrale).  
-Art. 102. - Il secondo comma e' sostituito dal seguente:  
-"Costruzioni in legno, ferro e cemento armato (scienza delle costruzioni); macchine (meccanica applicata); costruzioni di macchine (meccanica applicata, scienza delle costruzioni, tecnologie generali); disegno di macchine e progetti (meccanica applicata); impianti industriali meccanici (macchine e tecnologie generali); costruzioni aeronautiche (scienza delle costruzioni e meccanica applicata alle macchine); costruzioni stradali e ferroviarie (topografia con elementi di geodesia); costruzioni idrauliche (scienza delle costruzioni, idraulica); impianti speciali idraulici (idraulica e scienza delle costruzioni); costruzione di ponti (scienza delle costruzioni): chimica industriale (chimica applicata); misure elettriche, impianti elettrici, costruzioni di macchine elettriche, radiotecnica, comunicazioni elettriche (elettrotecnica); tecnologie generali (chimica applicata)".  
-Art. 103. - L'ultimo comma e' sostituito dal seguente:  
-"L'esame di laurea consiste in una prova di cultura, sulle materie fondamentali del corso di studi seguito dal candidato e nella discussione orale di un progetto specifico attinente al ramo d'ingegneria della sottosezione cui appartiene il candidato, redatto sotto la guida e la sorveglianza di almeno due professori ufficiali.  
-Le modalita' per la prova di cultura (scritta, orale o grafica) saranno stabilite di anno in anno dal Consiglio di facolta'".  
+\* archivistica;  
+storia bizantina;  
+filologia romanza;  
+archeologia e topografia medioevali;  
+\* storia delle dottrine economiche;  
+\* storia della scienza e della tecnica;  
+storia medioevale dell'Oriente europeo;  
+storia dei Paesi islamici;  
+archeologia medioevale;  
+bibliografia e biblioteconomica;  
+cronologia e cronografia;  
+numismatica, sfragistica e araldica;  
+epigrafia medioevale;  
+storia del diritto italiano;  
+museologia;  
+didattica della storia;  
+\* antropologia culturale;  
+teoria e storia della storiografia;  
+storia del commercio e della navigazione;  
+codicologia;  
+storia delle esplorazioni geografiche;  
+storia e civilta' precolombiane dell'America;  
+storia dell'Europa medioevale;  
+\* politica economica europea;  
+paleografia bizantina;  
+esegesi delle fonti della storia medioevale;  
+letteratura umanistica;  
+storia agraria medioevale;  
+storia del Cristianesimo medioevale;  
+pubblicistica e cronachistica medioevale;  
+storia degli insediamenti tardo-antichi e medioevali;  
+linguistica, onomastica e toponomastica medioevale;  
+storia della Chiesa medioevale e dei movimenti ereticali.  
+C) Indirizzo moderno:  
+Sono insegnamenti fondamentali:  
+\* storia moderna;  
+storia dell'arte moderna;  
+\* storia delle istituzioni e delle dottrine politiche;  
+teoria e storia della storiografia nell'eta' moderna;  
+\* letteratura italiana;  
+storia economica dell'eta' moderna;  
+\* geografia storica dell'Europa;  
+\* storia della filosofia moderna e contemporanea;  
+metodi quantitativi applicati alla storia;  
+storia della scienza e della tecnica nell'eta' moderna;  
+storia degli antichi stati italiani.  
+Sono insegnamenti complementari:  
+storia dell'Africa;  
+storia dell'Asia;  
+storia dell'America latina;  
+storia dell'Europa orientale;  
+storia del Rinascimento;  
+storia dell'America settentrionale;  
+letteratura italiana moderna;  
+storia dell'eta' della Riforma e Controriforma;  
+storia dell'eta' dell'Illuminismo;  
+\* storia del Risorgimento;  
+\* storia e tecnica militare;  
+storia della sanita';  
+storia della chimica;  
+storia urbana;  
+\* storia delle tecnologie;  
+storia agraria moderna;  
+storia delle esplorazioni e scoperte geografiche;  
+storia del commercio e dell'industria;  
+storia della moneta e della borsa;  
+\* politica economica europea;  
+etnologia storica;  
+cronologia e tecniche della misura del tempo;  
+\* istituzioni di educazione civica;  
+storia della fisica;  
+storia delle matematiche;  
+storia della navigazione;  
+storia dell'Europa occidentale nell'eta' moderna;  
+\* storia delle istituzioni sociali e politiche;  
+\* storia medioevale;  
+\* storia contemporanea;  
+\* demografia storica;  
+\* antropologia sociale;  
+storia della Toscana nell'eta' moderna;  
+\* storia delle dottrine economiche;  
+\* storia della scienza e della tecnica.  
+D) Indirizzo contemporaneo:  
+Sono insegnamenti fondamentali:  
+\* storia contemporanea;  
+\* storia del Risorgimento;  
+\* storia delle istituzioni e delle dottrine politiche;  
+storia dell'arte contemporanea;  
+\* letteratura italiana;  
+storia economica dell'eta' industriale;  
+\* geografia storica dell'Europa;  
+\* storia della filosofia moderna e contemporanea;  
+metodologie sociologiche;  
+storia della scienza e della tecnica nell'eta' contemporanea;  
+teoria e storia della storiografia nell'eta' contemporanea.  
+Sono insegnamenti complementari:  
+\* geografia politica ed economica;  
+metodi quantitativi applicati alle scienze storiche e tecniche delle previsioni;  
+letteratura italiana contemporanea;  
+storia della colonizzazione e della decolonizzazione;  
+storia dei Paesi africani nell'eta' contemporanea;  
+storia dei Paesi del vicino e medio Oriente nell'eta' contemporanea;  
+storia degli Stati Uniti d'America;  
+\* storia della Cina contemporanea;  
+\* storia del Giappone contemporaneo;  
+storia dell'America latina contemporanea;  
+storia dell'Europa contemporanea;  
+\* storia della Russia e dell'Unione sovietica;  
+storia della Gran Bretagna e del Commonwealth;  
+storia della Francia contemporanea;  
+storia della Spagna contemporanea;  
+storia della Germania contemporanea;  
+storia contemporanea dei Paesi scandinavi;  
+storia del giornalismo;  
+demografia storica;  
+storia della moneta e della banca;  
+\* storia e tecnica militare;  
+storia dell'aviazione;  
+storia dei trasporti;  
+storia degli sport;  
+\* politica economica europea;  
+\* storia delle tecnologie;  
+\* istituzioni di educazione civica;  
+storia delle dottrine economiche;  
+storia delle tradizioni popolari;  
+storia dell'industria;  
+storia agraria contemporanea;  
+storia del movimento operaio e sindacale;  
+storia dei trattati e delle relazioni internazionali;  
+\* storia delle istituzioni sociali e politiche;  
+\* storia medioevale;  
+\* storia moderna;  
+antropologia sociale;  
+storia dell'Italia post-unitaria;  
+geografia applicata;  
+\* storia delle dottrine economiche;  
+\* storia della scienza e della tecnica;  
+storia dell'Africa contemporanea.  
+E) Indirizzo orientale:  
+Sono insegnamenti fondamentali:  
+\* storia contemporanea;  
+\* storia moderna;  
+storia economica;  
+\* politica economica europea;  
+\* geografia politica ed economica;  
+\* letteratura italiana;  
+\* antropologia culturale;  
+storia dell'Europa orientale;  
+storia e istituzioni dei Paesi islamici;  
+storia e istituzioni dell'Africa sub-sahariana;  
+storia del sub-continente indiano e dell'Asia orientale.  
+Sono insegnamenti complementari:  
+storia dell'Islamismo;  
+istituzioni giuridiche e sociali dell'Europa orientale;  
+lingua bulgara;  
+lingua ceca;  
+lingua greca moderna;  
+lingua polacca;  
+lingua romena;  
+lingua russa;  
+lingua serbocroata;  
+lingua svedese;  
+lingua tedesca;  
+lingua turca;  
+lingua ungherese;  
+storia della storiografia russa e sovietica;  
+storia economica dell'Europa orientale;  
+storia della Polonia;  
+\* storia della Russia e dell'Unione sovietica;  
+diritto mussulmano;  
+dialettologia araba;  
+lingua araba;  
+lingua cinese;  
+lingua giapponese;  
+lingua hindi;  
+lingua indonesiana;  
+lingua persiana;  
+\* storia del Giappone contemporaneo;  
+\* storia della Cina contemporanea;  
+storia dell'India contemporanea;  
+storia e civilta' del vicino e medio Oriente dall'avvento dell'Islam all'eta' moderna;  
+lingua amarica;  
+lingua berbera;  
+lingua hausa;  
+lingua somala;  
+lingua svahili;  
+storia dell'Africa e dell'Asia mediterranee;  
+religione e istituzioni dei popoli dell'Africa;  
+\* storia delle dottrine economiche;  
+\* storia della scienza e della tecnica.  
+F) Indirizzo storico-religioso:  
+Sono insegnamenti fondamentali:  
+\* storia greca;  
+\* storia romana;  
+\* storia medioevale;  
+\* storia moderna;  
+\* storia contemporanea;  
+storia della Chiesa;  
+storia del Cristianesimo;  
+storia delle religioni;  
+\* letteratura italiana;  
+\* letteratura cristiana antica;  
+\* archeologia cristiana.  
+Sono insegnamenti complementari:  
+filologia veterotestamentaria;  
+filologia neotestamentaria;  
+\* ebraico e lingue semitiche comparate;  
+storia della letteratura latina medioevale;  
+\* letteratura latina;  
+\* paleografia e diplomatica;  
+\* archivistica;  
+\* papirologia;  
+\* letteratura greca;  
+storia della teologia;  
+filologia bizantina;  
+filologia medioevale e umanistica;  
+storia e sistemi delle relazioni tra Stato e Chiesa nell'eta' moderna;  
+filosofia della storia;  
+filosofia della religione;  
+filosofia morale;  
+storia della filosofia;  
+filosofia teoretica;  
+sanscrito;  
+\* etnologia;  
+sociologia;  
+storia religiosa dell'Oriente cristiano;  
+agiografia;  
+storia dell'arte medioevale e moderna;  
+\* storia del diritto romano;  
+storia della pedagogia;  
+storia dell'espansione coloniale e della decolonizzazione;  
+metodologia didattica della storia;  
+islamistica;  
+religioni dell'India e dell'estremo Oriente;  
+storia della liturgia;  
+ideologie sociali cristiane;  
+storia delle Chiese e dei movimenti religiosi cristiani;  
+storia religiosa dell'Europa;  
+\* storia delle dottrine economiche;  
+\* storia della scienza e della tecnica.  
+Le materie fondamentali e complementari segnate con asterisco sono comuni ai diversi indirizzi del corso di laurea.  
+Art. 68. - Per essere ammesso all'esame di laurea lo studente deve aver seguito i corsi e superato gli esami in tutti gli insegnamenti fondamentali ed in almeno otto insegnamenti complementari di cui sei dell'indirizzo prescelto.  
+Lo studente dovra', inoltre, aver superato gli esami in due insegnamenti di lingua straniera da mutuarsi presso la stessa o altre facolta' della medesima Universita': una delle due lingue dovra' essere scelta fra quelle del gruppo anglosassone ed una fra quelle del gruppo neolatino.  
+L'esame di laurea in storia consiste nella discussione di una dissertazione scritta svolta dal candidato in uno degli insegnamenti relativi al corso di laurea ed in rapporto al carattere della laurea stessa e dell'indirizzo prescelto.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 30 ottobre 1952
+### Dato a Roma, addi' 23 dicembre 1983
 
-EINAUDI SEGNI
+PERTINI FALCUCCI
 
-Visto, il Guardasigilli: ZOLI
+Visto, il Guardasigilli: MARTINAZZOLI
 
-Registrato alla Corte dei conti, addi' 15 maggio 1953
+Registrato alla Corte dei conti, addi' 22 marzo 1984
 
-Atti del Governo, registro n. 76, foglio n. 96. - PALLA
+Registro n. 17 Istruzione, foglio n. 329

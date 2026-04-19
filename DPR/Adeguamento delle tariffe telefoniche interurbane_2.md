@@ -1,13 +1,13 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 gennaio 1953 n. 56
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 agosto 1955 n. 917
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 gennaio 1953 n. 56
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 agosto 1955 n. 917
 =============================================================
 
 Adeguamento delle tariffe telefoniche interurbane.
 --------------------------------------------------
 
-IL PRESIDENTE BELLA REPUBBLICA
+IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
 Visto il Codice postale e delle telecomunicazioni, approvato con il [regio decreto 27 febbraio 1936, n. 645](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1936-02-27;645);
@@ -16,9 +16,11 @@ Visto il [regio decreto 19 luglio 1941, n. 1198](http://www.normattiva.it/uri-re
 
 Visto l'art. 46 (quarto comma) delle convenzioni stipulate con le Societa' concessionarie del servizio telefonico pubblico, approvate con i [regi decreti 23 aprile 1925, nn. 505](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1925-04-23;505), [506](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1925-04-23;506), [507](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1925-04-23;507), [508](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1925-04-23;508) e [509](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1925-04-23;509);
 
-Visto il [decreto del Presidente della Repubblica 1 settembre 1948, n. 1153](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1948-09-01;1153);
+Visto il [provvedimento del Comitato interministeriale dei prezzi n. 347 del 14 gennaio 1953](http://www.normattiva.it/uri-res/N2Ls?urn:nir:comitato.interministeriale.prezzi:provvedimento:1953-01-14;347), riguardante le tariffe telefoniche;
 
-Visto il [provvedimento n. 347, in data 14 gennaio 1953, del Comitato interministeriale dei prezzi](http://www.normattiva.it/uri-res/N2Ls?urn:nir:comitato.interministeriale.prezzi:provvedimento:1953-01-14;347);
+Visto il [decreto del Presidente della Repubblica 28 gennaio 1953, n. 56](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1953-01-28;56);
+
+Visto il [provvedimento del Comitato interministeriale dei prezzi n. 498 del 4 giugno 1955](http://www.normattiva.it/uri-res/N2Ls?urn:nir:comitato.interministeriale.prezzi:provvedimento:1955-06-04;498), con il quale e' stato istituito fino al 31 dicembre 1955 un sovraprezzo integrativo delle tariffe telefoniche;
 
 Sentito il Consiglio dei Ministri;
 
@@ -31,53 +33,55 @@ Art. 1
 ------
 
   
-Le tariffe per le conversazioni telefoniche che si svolgono su linee interurbane, sono stabilite, per ogni conversazione di tre minuti primi, nella seguente misura:  
-sulle linee di lunghezza totale fino a 15 Km. L. 36 oltre 15 km. fino a 25 km.................... " 48 " 25 " " 50 ".................... " 84 " 50 " " 100 ".................... " 136 " 100 " " 200 ".................... " 224 " 200 " " 400 ".................... " 280 " 400 " " 600 ".................... " 340 " 600 " " 800 ".................... " 396 " 800 " " 1000 ".................... " 472 " 1000 ".................................. " 536
+Il provvedimento n. 498 del 4 giugno 1955, del Comitato interministeriale dei prezzi, pubblicato nella Gazzetta Ufficiale del 18 stesso mese, con il quale e' stato istituito, limitatamente al periodo 1 luglio 31 dicembre 1955, un sovraprezzo integrativo delle tariffe telefoniche, si applica, per la parte concernente le tariffe interurbane, con le norme di cui ai seguenti articoli.  
 
 Art. 2
 ------
 
   
-Per le conversazioni urgentissime e' dovuta, oltre la tassa tripla di quella ordinaria, una sopratassa fissa per unita' di lire 260.  
+Le tariffe per le conversazioni telefoniche che si svolgono su linee interurbane sono stabilite, per ogni conversazione di 3 minuti primi, nella seguente misura:  
+sulle linee di lunghezza totale fino a 15 km. . . . L. 36  
+oltre 15 km. fino a 25 km. . . . . . . . . . . " 52  
+" 25 " " 50 " . . . . . . . . . . " 92  
+" 50 " " 100 " . . . . . . . . . . " 148  
+" 100 " " 200 " . . . . . . . . . . " 244  
+" 200 " " 400 " . . . . . . . . . . " 304  
+" 400 " " 600 " . . . . . . . . . . " 368  
+" 600 " " 800 " . . . . . . . . . . " 428  
+" 800 " " 1000 " . . . . . . . . . . " 508  
+" 1000 " . . . . . . . . . . . . . . . . . . " 580  
 
 Art. 3
 ------
 
   
-La tariffa per le conversazioni dai posti telefonici pubblici impegnanti linea-telefonica urbana e' di lire 20 per ogni conversazione fino a cinque minuti.  
-Tale tariffa si applica anche agli apparecchi a prepagamento.  
-Per le conversazioni impegnanti anche linee interurbane la tassa di cui al presente articolo e' dovuta per ogni unita' interurbana di conversazione.  
+Per le conversazioni urgentissime e' dovuta, oltre la tassa tripla di quella ordinaria, una sopratassa fissa per unita' di L. 280.  
 
 Art. 4
 ------
 
   
-Le tariffe di cui all'art. 1 sono comprensive della sopratassa per le comunicazioni telefoniche interurbane ed internazionali effettuate dal domicilio degli abbonati, dai posti telefonici pubblici o dagli uffici di accettazione, di cui all'art. 224 del Codice postale e delle telecomunicazioni.  
-Sulle tariffe di cui all'art. 1 spetta all'Azienda di Stato per i servizi telefonici l'aliquota di lire 4 per le conversazioni fino a 15 chilometri e di lire 5 per tutte le altre conversazioni, pari al 25% della sopratassa di cui al precedente comma. L'Azienda acquisira' il relativo importo al proprio bilancio fermo restando il contributo in ragione del 60% per la costituzione dello speciale fondo istituito dal [decreto legislativo del Capo provvisorio dello Stato 22 gennaio 1947, n. 134](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto.legislativo:1947-01-22;134).  
+La tariffa per le conversazioni dai posti telefonici pubblici impegnanti linea telefonica urbana, di cui alla lettera q) del citato provvedimento 4 giugno 1955 del Comitato interministeriale dei prezzi, e' di L. 25 per ogni conversazione fino a cinque minuti.  
+Tale tariffa si applica anche agli apparecchi a prepagamento.  
+Per le conversazioni impegnanti anche linee interurbane la tassa di cui al presente articolo e' dovuta per ogni unita' interurbana di conversazione.  
 
 Art. 5
 ------
 
   
-Nella localita' in cui non essendo istituito apposito ufficio di dettatura dei telegrammi, il servizio di dettatura di telegrammi in arrivo ed in partenza e' assunto dal ricevitore telegrafico, questi ha diritto ad un compenso di lire 12 per ogni telegramma qualunque sia il numero delle parole. Lo stesso compenso spetta all'Amministrazione postale e telegrafica quando detto servizio e' disimpegnato dal proprio personale negli uffici principali.  
-
-Art. 6
-------
-
-  
-Il presente decreto entra in vigore il 1 febbraio 1953.  
-Per le conversazioni di cui all'art. 3, l'aumento tariffario decorre dal 21 gennaio 1953.  
+Le tariffe di cui all'art. 2 sono comprensive della sopratassa per le comunicazioni telefoniche interurbane ed internazionali effettuate dal domicilio degli abbonati, dai posti telefonici pubblici o dagli uffici di accettazione, di cui all'art. 224 del Codice postale e delle telecomunicazioni.  
+Sulle tariffe di cui all'art. 2 spetta all'Azienda di Stato per i servizi telefonici l'aliquota di L. 4 per le conversazioni fino a 15 chilometri e di L. 5 per tutte le altre conversazioni, pari al 25 per cento della sopratassa di cui al precedente comma. L'Azienda acquisira' il relativo importo al proprio bilancio fermo restando il contributo in ragione del 60 per cento per la costituzione dello speciale fondo istituito dal [decreto legislativo del Capo provvisorio dello Stato 22 gennaio 1947, n. 134](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto.legislativo:1947-01-22;134), ratificato con la [legge 10 febbraio 1953, n. 79](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-02-10;79).  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 28 gennaio 1953
+### Dato a Roma, addi' 4 agosto 1955
 
-EINAUDI DE GASPERI - SPATARO - PELLA
+GRONCHI SEGNI - BRASCHI - GAVA
 
-Visto, il Guardasigilli: ZOLI
+Visto, il Guardasigilli: MORO
 
-Registrato alla Corte dei conti, addi' 19 febbraio 1953
+Registrato alla Corte dei conti, addi' 21 ottobre 1955
 
-Atti del Governo, registro n. 75, foglio n. 42. - PALLA
+Atti del Governo, registro n. 93, foglio n. 54 - CARLOMAGNO

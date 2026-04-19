@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 12 gennaio 1968 n. 69
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 15 marzo 1973 n. 238
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 12 gennaio 1968 n. 69
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 15 marzo 1973 n. 238
+============================================================
 
 Autorizzazione all'Universita' degli studi di Milano ad acquistare un immobile.
 -------------------------------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-69. Decreto del Presidente della Repubblica 12 gennaio 1968, col quale, sulla proposta del Ministro per la pubblica istruzione, l'universita' degli studi di Milano viene autorizzata ad acquistare un appezzamento di terreno sito nel comune di Montanaso Lombardo descritto in catasto al foglio 4, con i mappali 4 e 5, della superficie complessiva di ha. 10.16.90 al prezzo di L. 27.990.000.  
+238. Decreto del Presidente della Repubblica 15 marzo 1973, col quale, sulla proposta del Ministro per la pubblica istruzione, l'Universita' degli studi di Milano viene autorizzata ad acquistare un immobile sito in Milano, viale Abruzzi, 42, descritto nel nuovo catasto edilizio urbano di Milano alla partita 19727, fogli 317-316, mappali 361 sub 1 e 27 e alla partita 99870, foglio 317, mappale 361 sub 2 al prezzo di L. 350 milioni.  
   
-Visto, il Guardasigilli: REALE  
-Registrato alla Corte dei conti, addi' 12 febbraio 1968  
-Atti del Governo, registro n. 217, foglio n. 67. - GRECO
+Visto, il Guardasigilli: GONELLA  
+Registrato alla Corte dei conti, addi' 15 maggio 1973  
+Atti di Governo, registro n. 258, foglio n. 40. - VALENTINI

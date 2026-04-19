@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 dicembre 1954 n. 1508
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 25 ottobre 1950 n. 1173
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 dicembre 1954 n. 1508
-================================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 25 ottobre 1950 n. 1173
+===============================================================
 
 Autorizzazione all'Universita' degli studi di Milano ad accettare una donazione.
 --------------------------------------------------------------------------------
@@ -12,8 +12,7 @@ Art. 1
 
 N.
 
-1508. Decreto del Presidente della Repubblica 4 dicembre 1954, col quale, sulla proposta del Ministro per la pubblica istruzione, l'Universita' degli studi di Milano viene autorizzata ad accettare la donazione di L. 10.000.000 (diecimilioni) nominali, disposta in suo favore dal Comitato per le onoranze al prof. Ernesto Bertarelli per l'istituzione di una "Borsa di perfezionamento all'estero per giovani medici prof. Ernesto Bertarelli" e da conferirsi per concorso, ogni due anni, a laureati in medicina e chirurgia in una Universita' italiana; inoltre altra donazione di L. 800.000 (ottocentomila), da destinare al primo conferimento della borsa medesima.  
+1173. Decreto del Presidente della Repubblica 25 ottobre 1950, col quale, sulla proposta del Ministro per la pubblica istruzione, l'Universita' degli studi di Milano viene autorizzata ad accettare la donazione della somma di L. 3.000.000 nominali, in titoli di Stato Rendita 5%, disposta in suo favore dalla signora Rosa De Marchi Curioni, con atto pubblico amministrativo in data 5 dicembre 1949, per l'istituzione di una borsa di studio annuale da intitolarsi al nome del "Dott. Marco De Marchi" e da conferirsi ogni anno ad uno studioso italiano, studente o laureato, che intenda dedicarsi a studi di idrobiologia.  
   
-Visto, in Guardasigilli: DE PIETRO  
-Registrato alla Corte dei conti, addi' 15 marzo 1955  
-Atti del Governo, registro n. 89, foglio n. 101. - CARLOMAGNO
+Visto, il Guardasigilli: SEGNI  
+Registrato alla Corte dei conti, addi' 31 gennaio 1951

@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 08 ottobre 1969 n. 798
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 12 maggio 1970 n. 432
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 08 ottobre 1969 n. 798
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 12 maggio 1970 n. 432
+=============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Milano.
 ------------------------------------------------------------------
@@ -10,7 +10,7 @@ Modificazioni allo statuto dell'Universita' degli studi di Milano.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' degli studi di Milano approvato con [regio decreto 4 novembre 1926, n. 2280](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-11-04;2280) e modificato con [regio decreto 26 ottobre 1940, n. 2056](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;2056), e successive modificazioni;
+Veduto lo statuto dell'Universita' degli studi di Milano, approvato con [regio decreto 4 novembre 1926, n. 2280](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-11-04;2280) e modificato con [regio decreto 26 ottobre 1940, n. 2056](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;2056), e successive modificazioni;
 
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
@@ -30,335 +30,142 @@ Decreta:
 
 Lo statuto dell'Universita' degli studi di Milano, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
-Art. 132, relativo all'elenco delle scuole che rilasciano il diploma di specialista nelle discipline professionali medico-chirurgiche e' modificato nel senso che la denominazione della scuola di specializzazione in "Malattie nervose" e' cambiata in quella di "Neurologia".
+L'art. 184, relativo alla scuola di specializzazione in medicina dello sport e' abrogato e sostituito dal seguente:
 
-Allo stesso elenco e' aggiunta la scuola di specializzazione in "Biometria e statistica medica".
+Scuola di specializzazione in medicina dello sport
 
-L'art. 182 relativo alla scuola di specializzazione in malattie nervose e' abrogato e sostituito dal seguente:
+Art. 184. - La durata del corso di studi e' di tre anni.
 
-Scuola di specializzazione in neurologia
+Il numero degli iscritti e' stabilito in dieci per ciascun anno di corso (totale trenta iscritti).
 
-Art. 182. - La durata del corso e' di quattro anni.
-
-Il numero degli iscritti e' stabilito in un massimo di dieci per il primo anno di corso, per un totale complessivo di quaranta specializzandi.
-
-Le materie di insegnamento sono:
+Il piano degli studi e' il seguente:
 
 1° Anno:
 
-Anatomia del sistema nervoso;
+Anatomia dell'apparato locomotore;
 
-Fisiologia del sistema nervoso;
+Biomeccanica applicata all'esercizio fisico;
 
-Biochimica del sistema nervoso;
+Biochimica generale e applicata;
 
-Genetica (elementi);
+Antropometria e auxologia;
 
-Psicologia generale;
+Storia, sistematica e tecnologia degli sport;
 
-Psicopatologia generale;
+Istituzioni di psicologia generale e psicologia applicata agli sport;
 
-Semeiotica psichiatrica.
-
-2° Anno:
-
-Anatomia patologica del sistema nervoso;
-
-Semeiotica neurologica;
-
-Patologia speciale e diagnostica neurologica (I);
-
-Neuroradiologia;
-
-Endocrinologia e neurologia vegetativa.
-
-3° Anno:
-
-Patologia speciale e diagnostica neurologica (II):
-
-Clinica neurologica (I);
-
-Elettroencefalografia;
-
-Elettromiografia, elettrodiagnostica ed elettroterapia;
-
-Neuro-oftalmologia;
-
-Neuro-otologia;
-
-Esami di laboratorio.
-
-4° Anno:
-
-Clinica neurologica e terapia (II);
-
-Neurochirurgia;
-
-Teoria e clinica della riabilitazione;
-
-Neurologia in rapporto con la patologia internistica;
-
-Neurotraumatologia.
-
-Durante il secondo, terzo e quarto anno di corso gli specializzandi compiranno per l'intero anno accademico l'internato presso la clinica neurologica, sede della scuola. Tale internato potra' essere ridotto a non meno di quattro mesi all'anno per i medici che prestino regolare servizio in divisioni neurologiche.
-
-Dovra' essere effettuato dagli specializzandi del primo anno di corso l'internato in psichiatria per l'intero anno accademico. Tale internato potra' essere ridotto a non meno di sei mesi per i medici che prestino regolare servizio in divisioni neurologiche e a quattro mesi per quelli che prestano regolare servizio in ospedali psichiatrici.
-
-Al termine di ogni anno gli allievi che abbiano regolarmente frequentato il corso dovranno superare gli esami in tutte le materie previste per l'anno di corso per ottenere l'ammissione all'anno successivo.
-
-Sono previste le seguenti abbreviazioni di corso:
-
-anni due per gli specialisti in psichiatria, neuropsichiatria infantile e in neurochirurgia;
-
-anni uno per gli specialisti in discipline affini.
-
-In ogni caso gli abbuoni possono essere concessi solo dopo aver superato un esame di ammissione.
-
-Dopo l'art. 225 e con il conseguente spostamento della numerazione degli articoli successivi sono aggiunti i seguenti nuovi articoli, relativi alla istituzione della scuola di specializzazione in "Biometria e statistica medica".
-
-Scuola di specializzazione in biometria e statistica medica
-
-Art. 226. - La scuola rilascia i seguenti diplomi:
-
-a) diploma di specialista in biometria;
-
-b) diploma di specialista in statistica medica, sulla base di materie di insegnamento comuni a tutti gli allievi e materie differenziate per le due specie di diploma, come specificato all'art.
-
-229.
-
-Art. 227. - La durata del corso e' fissata in tre anni.
-
-Il numero degli iscritti e' fissato ad un massimo di dieci per il primo anno, e per un totale complessivo di trenta specializzandi per i tre anni di corso.
-
-Art. 228. - Alla scuola di specializzazione in biometria e statistica medica sono ammessi, oltre che i laureati in medicina e chirurgia, anche i laureati in scienze biologiche, scienze naturali e farmacia (limitatamente al diploma in biometria) e quelli in medicina veterinaria (limitatamente al diploma in statistica medica).
-
-Art. 229. - Il piano di studi per la scuola di specializzazione in biometria e statistica medica e' il seguente:
-
-1° Anno:
-
-Insegnamenti comuni ai due diplomi:
-
-1) Matematica generale (I);
-
-2) Calcolo delle probabilita';
-
-3) Macchine di calcolo;
-
-4) Linguaggi di programmazione;
-
-Insegnamenti per il diploma di statistica medica:
-
-5) Demografia;
-
-6) Programmazione di inchieste e sondaggi sanitari;
-
-Insegnamenti per il diploma di biometria:
-
-5) Antropometria;
-
-6) Genetica statistica.
+Istituzioni di scienza della nutrizione e dietetica applicata alla attivita' sportiva.
 
 2° Anno:
 
-Insegnamenti comuni ai due diplomi:
+Anatomia degli apparati circolatorio, respiratorio e nervoso;
 
-1) Matematica generale (II);
+Fisiologia delle ossa, delle articolazioni e dei muscoli;
 
-2) Metodologia statistica (I);
+Biochimica ed energetica muscolare;
 
-3) Elementi di statistica matematica;
+Valutazione funzionale dello sportivo e tecnica fisiologica;
 
-Insegnamenti per il diploma in statistica medica:
+Biofisica del muscolo (facoltativo);
 
-4) Epidemiologia;
+Fisioterapia e rieducazione funzionale (facoltativo);
 
-5) Modelli matematici epidemiologici;
+Farmacologia applicata all'attivita' sportiva (doping) (facoltativo);
 
-Insegnamenti per il diploma in biometria:
-
-4) Morfometria;
-
-5) Psicometria.
+Igiene e medicina preventiva applicata all'attivita' sportiva (facoltativo).
 
 3° Anno:
 
-Insegnamenti comuni ai due diplomi:
+Fisiologia del sistema nervoso motorio, della respirazione e della circolazione;
 
-1) Metodologia statistica (II);
+Educazione fisica e tecnica dell'allenamento sportivo;
 
-2) Calcolo analogico e simulazione dei sistemi;
+Chirurgia d'urgenza, rianimazione e pronto soccorso;
 
-Insegnamenti per il diploma in statistica medica:
+Medicina legale ed infortunistica;
 
-3) Disegno sperimentale con particolare riguardo alle prove terapeutiche;
+Traumatologia ed ortopedia dello sport;
 
-4) Conservazione, trattamento e recupero dell'informazione medica;
+Fisiopatologia degli sport (facoltativo);
 
-5) Ricerca operativa sanitaria;
-
-Insegnamenti per il diploma in biometria:
-
-3) Disegno sperimentale con particolare riguardo al saggio biologico;
-
-4) Modelli matematici di sistemi biologici;
-
-5) Farmacocinetica.
-
-Il superamento degli esami di "Matematica generale I" e di "Calcolo delle probabilita'" e' propedeutico per l'ammissione agli esami di: "Matematica generale (II)" e di "Metodologia statistica (1)".
-
-Il superamento degli esami di "Matematica generale (II)" e di "Metodologia statistica (I)" e' propedeutico per l'ammissione agli esami di "Metodologia statistica (II)" e di "Calcolo analogico e simulazione dei sistemi".
-
-Art. 230. - I corsi sono composti di lezioni teoriche ed esercitazioni pratiche sulle materie di cui all'art. 229 e si terranno presso l'istituto di biometria e statistica medica.
-
-Art. 231. - La frequenza alle lezioni e alle esercitazioni e' obbligatoria e condiziona l'ammissione degli allievi all'esame annuale di profitto. Durante uno dei tre anni di corso gli allievi sono tenuti a svolgere un internato presso l'istituto di biometria e statistica medica secondo un piano deciso dal direttore della scuola.
-
-Art. 232. - Per essere ammessi all'anno successivo gli allievi dovranno superare l'esame annuale di profitto.
-
-Art. 233. - Per essere ammesso all'esame finale di diploma l'allievo dovra' dimostrare di avere seguito regolarmente i corsi e superato gli esami di profitto dei tre anni.
-
-L'esame di diploma consiste nella discussione orale di una dissertazione scritta su tema approvato in precedenza dal direttore della scuola, corredata da dati originali.
+Assistenza medico-sportiva nei grandi agglomerati urbani (facoltativo).
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 
-Dato a Roma, addi' 8 ottobre 1969
+Dato a Roma, addi' 12 maggio 1970
 
 SARAGAT
 
-FERRARI AGGRADI
+MISASI
 
-Visto, il Guardasigilli: GAVA
+Visto, il Guardasigilli: REALE
 
 Registrato
 ----------
 
-alla Corte dei conti, addi' 11 novembre 1969 Atti del Governo, registro n. 230, foglio n. 30. - CARUSO
+alla Corte dei conti, addi' 30 giugno 1970 Atti del Governo, registro n. 236, foglio n. 91. - CARUSO
 
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA   
+ IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Milano approvato con [regio decreto 4 novembre 1926, n. 2280](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-11-04;2280) e modificato con [regio decreto 26 ottobre 1940, n. 2056](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;2056), e successive modificazioni;   
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;   
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;   
-Sentito il parere del Consiglio superiore della pubblica istruzione;   
-Sulla proposta del Ministro per la pubblica istruzione;   
+Veduto lo statuto dell'Universita' degli studi di Milano, approvato con [regio decreto 4 novembre 1926, n. 2280](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-11-04;2280) e modificato con [regio decreto 26 ottobre 1940, n. 2056](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;2056), e successive modificazioni;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
+Sentito il parere del Consiglio superiore della pubblica istruzione;  
+Sulla proposta del Ministro per la pubblica istruzione;  
   
-Decreta:   
+Decreta:  
   
-Lo statuto dell'Universita' degli studi di Milano, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
-Art. 132, relativo all'elenco delle scuole che rilasciano il diploma di specialista nelle discipline professionali medico-chirurgiche e' modificato nel senso che la denominazione della scuola di specializzazione in "Malattie nervose" e' cambiata in quella di "Neurologia".   
-Allo stesso elenco e' aggiunta la scuola di specializzazione in "Biometria e statistica medica".   
-L'art. 182 relativo alla scuola di specializzazione in malattie nervose e' abrogato e sostituito dal seguente:   
+Lo statuto dell'Universita' degli studi di Milano, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
   
-Scuola di specializzazione in neurologia   
+L'art. 184, relativo alla scuola di specializzazione in medicina dello sport e' abrogato e sostituito dal seguente:  
   
-Art. 182. - La durata del corso e' di quattro anni.   
-Il numero degli iscritti e' stabilito in un massimo di dieci per il primo anno di corso, per un totale complessivo di quaranta specializzandi.   
-Le materie di insegnamento sono:   
-1° Anno:   
-Anatomia del sistema nervoso;   
-Fisiologia del sistema nervoso;   
-Biochimica del sistema nervoso;   
-Genetica (elementi);   
-Psicologia generale;   
-Psicopatologia generale;   
-Semeiotica psichiatrica.   
-2° Anno:   
-Anatomia patologica del sistema nervoso;   
-Semeiotica neurologica;   
-Patologia speciale e diagnostica neurologica (I);   
-Neuroradiologia;   
-Endocrinologia e neurologia vegetativa.   
-3° Anno:   
-Patologia speciale e diagnostica neurologica (II):   
-Clinica neurologica (I);   
-Elettroencefalografia;   
-Elettromiografia, elettrodiagnostica ed elettroterapia;   
-Neuro-oftalmologia;   
-Neuro-otologia;   
-Esami di laboratorio.   
-4° Anno:   
-Clinica neurologica e terapia (II);   
-Neurochirurgia;   
-Teoria e clinica della riabilitazione;   
-Neurologia in rapporto con la patologia internistica;   
-Neurotraumatologia.   
-Durante il secondo, terzo e quarto anno di corso gli specializzandi compiranno per l'intero anno accademico l'internato presso la clinica neurologica, sede della scuola. Tale internato potra' essere ridotto a non meno di quattro mesi all'anno per i medici che prestino regolare servizio in divisioni neurologiche.   
-Dovra' essere effettuato dagli specializzandi del primo anno di corso l'internato in psichiatria per l'intero anno accademico. Tale internato potra' essere ridotto a non meno di sei mesi per i medici che prestino regolare servizio in divisioni neurologiche e a quattro mesi per quelli che prestano regolare servizio in ospedali psichiatrici.   
-Al termine di ogni anno gli allievi che abbiano regolarmente frequentato il corso dovranno superare gli esami in tutte le materie previste per l'anno di corso per ottenere l'ammissione all'anno successivo.   
-Sono previste le seguenti abbreviazioni di corso:   
-anni due per gli specialisti in psichiatria, neuropsichiatria infantile e in neurochirurgia;   
-anni uno per gli specialisti in discipline affini.   
-In ogni caso gli abbuoni possono essere concessi solo dopo aver superato un esame di ammissione.   
-Dopo l'art. 225 e con il conseguente spostamento della numerazione degli articoli successivi sono aggiunti i seguenti nuovi articoli, relativi alla istituzione della scuola di specializzazione in "Biometria e statistica medica".   
+Scuola di specializzazione in medicina dello sport  
   
-Scuola di specializzazione in biometria e statistica medica   
-  
-Art. 226. - La scuola rilascia i seguenti diplomi:   
-a) diploma di specialista in biometria;   
-b) diploma di specialista in statistica medica, sulla base di materie di insegnamento comuni a tutti gli allievi e materie differenziate per le due specie di diploma, come specificato all'art.   
-229.   
-Art. 227. - La durata del corso e' fissata in tre anni.   
-Il numero degli iscritti e' fissato ad un massimo di dieci per il primo anno, e per un totale complessivo di trenta specializzandi per i tre anni di corso.   
-Art. 228. - Alla scuola di specializzazione in biometria e statistica medica sono ammessi, oltre che i laureati in medicina e chirurgia, anche i laureati in scienze biologiche, scienze naturali e farmacia (limitatamente al diploma in biometria) e quelli in medicina veterinaria (limitatamente al diploma in statistica medica).   
-Art. 229. - Il piano di studi per la scuola di specializzazione in biometria e statistica medica e' il seguente:   
-1° Anno:   
-Insegnamenti comuni ai due diplomi:   
-1) Matematica generale (I);   
-2) Calcolo delle probabilita';   
-3) Macchine di calcolo;   
-4) Linguaggi di programmazione;   
-Insegnamenti per il diploma di statistica medica:   
-5) Demografia;   
-6) Programmazione di inchieste e sondaggi sanitari;   
-Insegnamenti per il diploma di biometria:   
-5) Antropometria;   
-6) Genetica statistica.   
-2° Anno:   
-Insegnamenti comuni ai due diplomi:   
-1) Matematica generale (II);   
-2) Metodologia statistica (I);   
-3) Elementi di statistica matematica;   
-Insegnamenti per il diploma in statistica medica:   
-4) Epidemiologia;   
-5) Modelli matematici epidemiologici;   
-Insegnamenti per il diploma in biometria:   
-4) Morfometria;   
-5) Psicometria.   
-3° Anno:   
-Insegnamenti comuni ai due diplomi:   
-1) Metodologia statistica (II);   
-2) Calcolo analogico e simulazione dei sistemi;   
-Insegnamenti per il diploma in statistica medica:   
-3) Disegno sperimentale con particolare riguardo alle prove terapeutiche;   
-4) Conservazione, trattamento e recupero dell'informazione medica;   
-5) Ricerca operativa sanitaria;   
-Insegnamenti per il diploma in biometria:   
-3) Disegno sperimentale con particolare riguardo al saggio biologico;   
-4) Modelli matematici di sistemi biologici;   
-5) Farmacocinetica.   
-Il superamento degli esami di "Matematica generale I" e di "Calcolo delle probabilita'" e' propedeutico per l'ammissione agli esami di: "Matematica generale (II)" e di "Metodologia statistica (1)".   
-Il superamento degli esami di "Matematica generale (II)" e di "Metodologia statistica (I)" e' propedeutico per l'ammissione agli esami di "Metodologia statistica (II)" e di "Calcolo analogico e simulazione dei sistemi".   
-Art. 230. - I corsi sono composti di lezioni teoriche ed esercitazioni pratiche sulle materie di cui all'art. 229 e si terranno presso l'istituto di biometria e statistica medica.   
-Art. 231. - La frequenza alle lezioni e alle esercitazioni e' obbligatoria e condiziona l'ammissione degli allievi all'esame annuale di profitto. Durante uno dei tre anni di corso gli allievi sono tenuti a svolgere un internato presso l'istituto di biometria e statistica medica secondo un piano deciso dal direttore della scuola.   
-Art. 232. - Per essere ammessi all'anno successivo gli allievi dovranno superare l'esame annuale di profitto.   
-Art. 233. - Per essere ammesso all'esame finale di diploma l'allievo dovra' dimostrare di avere seguito regolarmente i corsi e superato gli esami di profitto dei tre anni.   
-L'esame di diploma consiste nella discussione orale di una dissertazione scritta su tema approvato in precedenza dal direttore della scuola, corredata da dati originali.   
+Art. 184. - La durata del corso di studi e' di tre anni.  
+Il numero degli iscritti e' stabilito in dieci per ciascun anno di corso (totale trenta iscritti).  
+Il piano degli studi e' il seguente:  
+1° Anno:  
+Anatomia dell'apparato locomotore;  
+Biomeccanica applicata all'esercizio fisico;  
+Biochimica generale e applicata;  
+Antropometria e auxologia;  
+Storia, sistematica e tecnologia degli sport;  
+Istituzioni di psicologia generale e psicologia applicata agli sport;  
+Istituzioni di scienza della nutrizione e dietetica applicata alla attivita' sportiva.  
+2° Anno:  
+Anatomia degli apparati circolatorio, respiratorio e nervoso;  
+Fisiologia delle ossa, delle articolazioni e dei muscoli;  
+Biochimica ed energetica muscolare;  
+Valutazione funzionale dello sportivo e tecnica fisiologica;  
+Biofisica del muscolo (facoltativo);  
+Fisioterapia e rieducazione funzionale (facoltativo);  
+Farmacologia applicata all'attivita' sportiva (doping) (facoltativo);  
+Igiene e medicina preventiva applicata all'attivita' sportiva (facoltativo).  
+3° Anno:  
+Fisiologia del sistema nervoso motorio, della respirazione e della circolazione;  
+Educazione fisica e tecnica dell'allenamento sportivo;  
+Chirurgia d'urgenza, rianimazione e pronto soccorso;  
+Medicina legale ed infortunistica;  
+Traumatologia ed ortopedia dello sport;  
+Fisiopatologia degli sport (facoltativo);  
+Assistenza medico-sportiva nei grandi agglomerati urbani (facoltativo).  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 8 ottobre 1969
+### Dato a Roma, addi' 12 maggio 1970
 
-SARAGAT FERRARI AGGRADI
+SARAGAT MISASI
 
-Visto, il Guardasigilli: GAVA
+Visto, il Guardasigilli: REALE
 
-Registrato alla Corte dei conti, addi' 11 novembre 1969
+Registrato alla Corte dei conti, addi' 30 giugno 1970
 
-Atti del Governo, registro n. 230, foglio n. 30. - CARUSO
+Atti del Governo, registro n. 236, foglio n. 91. - CARUSO

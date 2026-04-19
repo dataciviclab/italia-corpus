@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 giugno 1966 n. 1005
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 06 giugno 1963 n. 966
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 giugno 1966 n. 1005
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 06 giugno 1963 n. 966
+=============================================================
 
 Autorizzazione all'Associazione nazionale combattenti e reduci ad acquistare un immobile.
 -----------------------------------------------------------------------------------------
@@ -12,9 +12,8 @@ Art. 1
 
 N.
 
-1005. Decreto del Presidente della Repubblica 27 giugno 1966, col quale, sulla proposta del Presidente del Consiglio dei Ministri, l'Associazione nazionale combattenti e reduci, viene autorizzata ad acquistare dal reverendo don Niccolo' Stacchini, per il prezzo di lire 4.000.000 (quattromilioni) - come da atto a rogito dott.  
-Giorgio Favilli, notaio in Radda in Chianti in data 4 aprile 1961, n. 1891 repertorio, n. 354 racc. - un appartamento di civile abitazione, sito in Siena, piazza Matteotti n. 20, composto di otto vani ed accessori al terzo piano, da destinare a sede della locale Federazione provinciale dell'Associazione anzidetta.  
+966. Decreto del Presidente della Repubblica 6 giugno 1963, col quale, sulla proposta del Presidente del Consiglio dei Ministri, l'Associazione nazionale combattente e reduci viene autorizzata ad acquistare dal geom. Carlo Garella, al prezzo di L. 2.600.000 un appartamento di tre vani utili ed accessori sito in Campobasso alla via G. Albino, come da rogito notaio dott. Michelangelo De Socio di Campobasso, in data 25 gennaio 1910, rep. 21805, raccolta 2657, da adibire a sede della locale Federazione provinciale dell'Associazione anzidetta.  
   
-Visto, il Guardasigilli: REALE  
-Registrato alla Corte dei conti, addi' 21 novembre 1966  
-Atti del Governo registro n. 207, foglio n. 51. - VILLA
+Visto, il Guardasigilli: BOSCO  
+Registrato alla Corte dei conti, addi' 12 luglio 1963  
+Atti del Governo, registro n. 171, foglio n. 124. - VILLA

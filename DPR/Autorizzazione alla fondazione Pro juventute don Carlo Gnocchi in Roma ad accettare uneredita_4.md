@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 ottobre 1974 n. 626
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 29 settembre 1975 n. 579
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 ottobre 1974 n. 626
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 29 settembre 1975 n. 579
+================================================================
 
 Autorizzazione alla fondazione "Pro juventute don Carlo Gnocchi", in Roma, ad accettare un'eredita'.
 ----------------------------------------------------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-626. Decreto del Presidente della Repubblica 10 ottobre 1974, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare, col beneficio d'inventario, l'eredita' disposta dalla sig.ra Pedrocco Carlotta in Vio con testamento olografo in data 10 agosto 1963, pubblicato il 24 novembre 1970 per atto del dott. Angelo Sandi, notaio in Venezia, n. 26319 di repertorio e n. 2567 di raccolta, registrato a Venezia in data 14 dicembre 1970 al n. 6896 - Vol. 22, in favore dei mutilatini di don Gnocchi che si identificano con la fondazione "Pro juventute don Carlo Gnocchi", consistente nella quota parte di immobili, titoli, buoni postali e depositi bancari vari per un valore presunto di lire 72.880.945.   
+579. Decreto del Presidente della Repubblica 29 settembre 1975, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare, col beneficio d'inventario, un'eredita' consistente nella quota dell'1,5% dell'asse ereditario, per un valore di L. 1.500.000, disposta dal sig. Giovanni Chiari, con testamento olografo 1 gennaio 1970, pubblicato in data 28 luglio 1971, n. 4510 di repertorio e n. 1302 di raccolta, a rogito dott. Antonio Mosca notaio in Castelfiorentino (Firenze), e registrato a Castelfiorentino in data 30 luglio 1971, al n. 781, vol. 90.  
   
-Visto, il Guardasigilli: ZAGARI   
-Registrato alla Corte dei conti, addi' 25 novembre 1974   
-Atti di Governo, registro n. 7, foglio n. 41. - SCIARRETTA
+Visto, il Guardasigilli: REALE  
+Registrato alla Corte dei conti, addi' 26 novembre 1975  
+Atti di Governo, registro n. 14, foglio n. 44

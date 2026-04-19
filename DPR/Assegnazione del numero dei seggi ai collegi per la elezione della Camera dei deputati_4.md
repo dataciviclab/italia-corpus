@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 03 maggio 1976 n. 166
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 febbraio 1972 n. 22
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 03 maggio 1976 n. 166
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 febbraio 1972 n. 22
+==============================================================
 
 Assegnazione del numero dei seggi ai collegi per la elezione della Camera dei deputati.
 ---------------------------------------------------------------------------------------
@@ -10,41 +10,42 @@ Assegnazione del numero dei seggi ai collegi per la elezione della Camera dei de
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA   
+ IL PRESIDENTE DELLA REPUBBLICA  
   
-Visto il decreto in data odierna, con il quale i comizi per la elezione della Camera dei deputati sono stati convocati per il giorno di domenica 20 giugno 1976;   
-Visto l'[art. 1 della legge costituzionale 9 febbraio 1963, n. 2](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge.costituzionale:1963-02-09;2~art1), recante modificazioni agli [articoli 56](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27~art56), [57](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27~art57) e [60 della Costituzione](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27~art60);   
-Visti gli articoli 2, comma secondo e seguenti, e 3 del testo unico delle leggi per la elezione della Camera dei deputati, approvato con [decreto presidenziale 30 marzo 1957, n. 361](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1957-03-30;361);   
-Vista la [legge 23 aprile 1976, n. 136](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1976-04-23;136), recante norme per la riduzione dei termini e semplificazione del procedimento elettorale;   
-Visto l'[art. 1 della legge 1 marzo 1968, n. 171](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1968-03-01;171~art1), concernente la costituzione della provincia di Pordenone;   
-Visti gli [articoli 1](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1970-02-02;20~art1), [2](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1970-02-02;20~art2) e [3 della legge 2 febbraio 1970, n. 20](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1970-02-02;20~art3), concernente l'adeguamento delle circoscrizioni provinciali, degli organi e uffici della pubblica amministrazione nella regione Molise;   
-Visto l'[art. 1 della legge 16 luglio 1974, n. 306](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1974-07-16;306~art1), con il quale viene istituita la provincia di Oristano;   
-Visto il decreto 5 marzo 1973, n. 45, [pubblicato nel supplemento ordinario alla Gazzetta Ufficiale n. 83 del 30 marzo 1973](http://www.gazzettaufficiale.it/gazzetta/serie_generale/caricaDettaglio?dataPubblicazioneGazzetta=1973-03-30&numeroGazzetta=83), con il quale vengono dichiarati i risultati ufficiali relativi alla popolazione legale secondo il censimento del 24 ottobre 1971;   
-Visto il [decreto del Presidente della Repubblica 6 giugno 1974, n. 276](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1974-06-06;276), con il quale viene rettificato il numero della popolazione legale residente nel comune di Messina, censita al 24 ottobre 1971;   
-Sulla proposta del Ministro per l'interno;   
+Visto il decreto in data odierna, con il quale i comizi per la elezione della Camera dei deputati sono stati convocati per il giorno di domenica 7 maggio 1972;  
+Visto l'[articolo 1 della legge costituzionale 9 febbraio 1963, n. 2](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge.costituzionale:1963-02-09;2~art1), recante modificazioni agli [articoli 56](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27~art56), [57](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27~art57) e [60 della Costituzione](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27~art60);  
+Visti gli articoli 2, comma secondo e seguenti, e 3 del testo unico delle leggi per la elezione della Camera dei deputati, approvato con [decreto presidenziale 30 marzo 1957, n. 361](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1957-03-30;361);  
+Visto l'[articolo 1 della legge 1 marzo 1968, n. 171](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1968-03-01;171~art1), concernente la costituzione della provincia di Pordenone;  
+Visti gli [articoli 1](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1970-02-02;20~art1), [2](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1970-02-02;20~art2) e [3 della legge 2 febbraio 1970, n. 20](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1970-02-02;20~art3) concernente l'adeguamento delle circoscrizioni provinciali, degli organi e unici della pubblica amministrazione nella regione Molise;  
+Vista la [legge 6 maggio 1970, n. 241](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1970-05-06;241), concernente il distacco della borgata Lido di Follonica dal Comune di Piombino, in Provincia di Livorno, e la sua aggregazione al Comune contermine di Follonica, in Provincia di Grosseto;  
+Visti i dati relativi alla popolazione delle province di Grosseto e di Livorno, contenuti nella pubblicazione dell'Istituto centrale di statistica "Popolazione e movimento anagrafico dei Comuni", volume XVI, 1970;  
+Visto il decreto 31 gennaio 1963, n. 18, [pubblicato nel supplemento ordinario alla Gazzetta Ufficiale n. 30 del 2 febbraio 1963](http://www.gazzettaufficiale.it/gazzetta/serie_generale/caricaDettaglio?dataPubblicazioneGazzetta=1963-02-02&numeroGazzetta=30), con il quale vengono dichiarati i risultati ufficiali relativi alla popolazione legale secondo il censimento del 15 ottobre 1961;  
+Su proposta del Ministro per l'interno;  
   
-Decreta:   
+Decreta:  
   
-Ai collegi elettorali di cui alla tabella A, allegata al testo unico delle leggi per la elezione della Camera dei deputati approvato con [decreto presidenziale 30 marzo 1957, n. 361](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1957-03-30;361), ed aggiornata in relazione alle norme sopra richiamate, e' assegnato il numero di seggi indicato nella tabella allegata al presente decreto, vistata dal Ministro per l'interno.   
-Il presente decreto entra in vigore lo stesso giorno della sua pubblicazione nella Gazzetta Ufficiale della Repubblica.   
+Ai collegi elettorali di cui alla tabella A, allegata al testo unico delle leggi per la elezione della Camera dei deputati approvato con [decreto presidenziale 30 marzo 1957, n. 361](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1957-03-30;361), ed aggiornata in relazione alle norme ed alla pubblicazione sopra richiamate, e' assegnato il numero di seggi indicato nella tabella allegata al presente decreto, vistata dal Ministro per l'interno.  
+Il presente decreto entra in vigore lo stesso giorno della sua pubblicazione nella Gazzetta Ufficiale della Repubblica.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 3 maggio 1976
+### Dato a Roma, addi' 28 febbraio 1972
 
-LEONE COSSIGA
+LEONE ANDREOTTI - RUMOR
 
-Visto, il Guardasigilli: BONIFACIO
+Visto, il Guardasigilli: GONELLA
 
-Registrato alla Corte dei conti, addi' 4 maggio 1976
+Registrato alla Corte dei conti, addi' 28 febbraio 1972
 
-Atti di Governo, registro n. 5, foglio n. 55
+Atti del Governo, registro n. 247, foglio n. 76. - CARUSO
 
 Tabella
 
 TABELLA DI ASSEGNAZIONE DEL NUMERO DEI SEGGI AI COLLEGI PER LA ELEZIONE DELLA CAMERA DEI DEPUTATI   
   
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=076U016600100010110001&dgu=1976-05-04&art.dataPubblicazioneGazzetta=1976-05-04&art.codiceRedazionale=076U0166)
+  
+  
+[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=072U002200100010110001&dgu=1972-02-28&art.dataPubblicazioneGazzetta=1972-02-28&art.codiceRedazionale=072U0022)
   

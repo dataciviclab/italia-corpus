@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 giugno 1986 n. 525
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 21 febbraio 1976 n. 77
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 giugno 1986 n. 525
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 21 febbraio 1976 n. 77
+==============================================================
 
 Autorizzazione all'Associazione nazionale alpini, in Milano, ad acquistare un immobile.
 ---------------------------------------------------------------------------------------
@@ -12,9 +12,8 @@ Art. 1
 
 N.
 
-525. Decreto del Presidente della Repubblica 28 giugno 1986, col quale, sulla proposta del Ministro della difesa, l'Associazione nazionale alpini, in Milano, viene autorizzata ad acquistare, al prezzo di L. 40.000.000, l'appartamento sito in Campobasso, via Duca d'Aosta n. 10, interno 1, composto di 5 camere, oltre servizi e cantina, censito al nuovo catasto edilizio urbano alla partita 4524, foglio 122, particella 89, sub 14, di proprieta' del sig.  
-Lorenzo Galasso, da adibire a sede del locale gruppo dell'Associazione.   
+77. Decreto del Presidente della Repubblica 21 febbraio 1976, col quale, sulla proposta del Ministro per la difesa, l'Associazione nazionale alpini, in Milano, viene autorizzata ad acquistare, al prezzo di L. 8.500.000, un appartamento in Brescia, situato al piano terreno del fabbricato di via Alberto Mario numeri 27-29, distinto nel catasto urbano alla partita n. 6699, sezione C, foglio 7, mappali 24/2, 24/3 e 24/4, cat. A 4, cl. 4, per vani 6, di proprieta' del sig. Valentino Ranzoli, per adibirlo a sede della propria sezione.  
   
-Visto, il Guardasigilli: MARTINAZZOLI   
-Registrato alla Corte dei conti, addi' 8 agosto 1986   
-Registro n. 23 Difesa, foglio n. 153
+Visto, il Guardasigilli: BONIFACIO  
+Registrato alla Corte dei conti, addi' 29 marzo 1976  
+Atti di Governo, registro n. 4, foglio n. 36

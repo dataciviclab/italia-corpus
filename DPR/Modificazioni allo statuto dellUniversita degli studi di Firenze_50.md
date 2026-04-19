@@ -1,89 +1,64 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1979 n. 903
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 20 gennaio 1967 n. 58
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1979 n. 903
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 20 gennaio 1967 n. 58
+=============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Firenze.
 -------------------------------------------------------------------
 
-IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
+Art. 1
+------
 
-Veduto lo statuto dell'Universita' di Firenze, approvato con [regio decreto 14 ottobre 1926, n. 2406](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2406) e modificato con [regio decreto 13 ottobre 1927, n. 2230](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2230), e successive modificazioni;
-
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
-
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
-
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
-
-Veduta la [legge 22 maggio 1978, n. 217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-05-22;217);
-
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
-
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Firenze e convalidati dal Consiglio universitario nazionale nel suo parere;
-
-Sentito il parere del Consiglio universitario nazionale;
-
-Veduto il [parere della sezione prima del Consiglio di Stato n. 1902/74 del 14 febbraio 1975](https://e-justice.europa.eu/ecli/ECLI::::);
-
-Considerato che non appare opportuno, al momento, procedere ad una generale revisione delle norme statutarie di tutti gli atenei relative alla direzione delle scuole di specializzazione e perfezionamento e degli istituti nonche' delle scuole dirette a fini speciali, attualmente affidata esclusivamente ai professori di ruolo o fuori ruolo, in attesa del provvedimento relativo allo stato giuridico del personale docente;
-
-Sulla
------
-
-proposta del Ministro della pubblica istruzione; Decreta:
-
-Articolo unico
---------------
-
+ IL PRESIDENTE DELLA REPUBBLICA  
   
-Lo statuto dell'Universita' di Firenze, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+Veduto lo statuto dell'Universita' degli studi di Firenze, approvato con [regio decreto 13 ottobre 1927, n. 2230](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2230) e modificato con [regio decreto 13 ottobre 1930, n. 1826](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-13;1826), e successive modificazioni;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
+Sentito il parere del Consiglio superiore della pubblica istruzione;  
+Sulla proposta del Ministro per la pubblica istruzione;  
   
-L'art. 298, relativo alla scuola di specializzazione in medicina nucleare, e' soppresso e sostituito dal seguente:  
+Decreta:  
   
-Scuola di specializzazione in medicina nucleare  
+Lo statuto dell'Universita' degli studi di Firenze, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+Art. 60. - All'elenco degli insegnamenti complementari del corso di laurea in Materie letterarie sono aggiunti quelli di:  
+19) Storia del Risorgimento;  
+20) Filologia ispanica.  
+Art. 61. - All'elenco degli insegnamenti complementari del corso di laurea in Pedagogia sono aggiunti quelli di:  
+15) Storia del Risorgimento;  
+16) Filologia ispanica.  
+Art. 62. - All'elenco degli insegnamenti complementari del corso di laurea in Lingue e letterature straniere e' aggiunto quello di: "Storia del Risorgimento".  
+Art. 64, relativo al corso di laurea in Pedagogia e' modificato nel senso che e' soppressa la propedeuticita' dell'insegnamento di "Storia della filosofia" (biennale) nei confronti di "Filosofia" (biennale).  
+Art. 68. - All'elenco degli insegnamenti complementari del corso di laurea in Medicina e chirurgia e' aggiunto quello di "Audiologia".  
+Nello stesso elenco l'insegnamento complementare di "Scienza dell'alimentazione" muta denominazione in "Fisiologia della nutrizione".  
+Nell'art. 79, relativo al corso di laurea in Fisica, il terzo comma e' modificato nel senso che viene aggiunto l'indirizzo didattico.  
+Dopo il penultimo comma e' inserito l'ordinamento per l'indirizzo didattico:  
   
-Art. 298. - La scuola di specializzazione in medicina nucleare ha sede presso l'istituto di fisica e medicina nucleare ed e' diretta dal professore di ruolo o fuori ruolo della stessa materia della specializzazione o, in carenza, dal professore di ruolo o fuori ruolo di materia affine.  
-Alla scuola possono essere ammessi solo i laureati in medicina e chirurgia in possesso del diploma di abilitazione professionale e la loro immatricolazione e' subordinata all'esito di un esame di ammissione.  
-Non sono ammesse abbreviazioni di corso.  
-La scuola conferisce il diploma di specialista in medicina nucleare.  
-Gli anni di studio necessari per conseguire questo titolo sono tre.  
-Gli insegnamenti per il conseguimento del diploma di specialista in medicina nucleare sono cosi' distribuiti, nei tre anni di corso:  
+Corsi per l'indirizzo didattico  
   
-1° Anno:  
-a) fisica: con richiami di matematica, nozioni di statistica, informatica e dosimetria;  
-b) radiobiologia, legislazione e norme generali di radioprotezione;  
-c) tecnica di acquisizione e memorizzazione dei dati, fotodocumentazione e archiviazione;  
-d) nozioni di anatomia e fisiologia generale.  
-  
-2° Anno:  
-a) teoria dei traccianti;  
-b) elementi di radiochimica;  
-c) applicazioni di diagnostica I;  
-d) tecniche di misura e di radioattivita'.  
-  
-3° Anno:  
-a) applicazioni diagnostiche II;  
-b) applicazioni terapeutiche;  
-c) radioprotezione e legislazione applicate.  
-  
-I singoli insegnamenti sono tenuti da uno o piu' docenti a seconda di quanto opportuno al loro migliore svolgimento.  
-Il numero massimo degli iscritti in corso alla scuola e' di otto per anno di corso e complessivamente di ventiquattro iscritti per l'intero corso di studi. La frequenza pratica e' obbligatoria (dieci mesi all'anno) e deve avvenire in reparti riconosciuti idonei.  
-L'insegnamento viene svolto mediante lezioni, esercitazioni, seminari, conferenze, corsi di aggiornamento aperti anche a specialisti ecc. Gli allievi, per essere ammessi a sostenere gli esami delle singole materie, devono avere la firma di frequenza da parte del direttore della scuola stessa. Gli allievi al termine di ogni anno, devono superare gli esami di profitto delle materie prescritte per poter ottenere l'iscrizione all'anno successivo.  
-Gli allievi per conseguire il diploma di specializzazione oltre ad essere stati approvati in tutti gli esami, devono elaborare e discutere una tesi scritta su un argomento concordato con il direttore della scuola.  
+4-5 Complementi di fisica generale (biennale);  
+6-7 Preparazione di esperienze didattiche (biennale);  
+8-9 Due corsi scelti fra i seguenti complementari:  
+Storia della fisica;  
+Fisica superiore;  
+Fisica teorica;  
+Meccanica analitica;.br: Ottica;  
+Relativita'.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 31 ottobre 1979
+### Dato a Roma, addi' 20 gennaio 1967
 
-PERTINI VALITUTTI
+SARAGAT GUI
 
-Visto, il Guardasigilli: MORLINO
+Visto, il Guardasigilli: REALE
 
-Registrato alla Corte dei conti, addi' 26 aprile 1980
+Registrato alla Corte dei conti, addi' 7 marzo 1967
 
-Registro n. 38 Istruzione, foglio n. 41
+Atti del Governo, registro n. 209, foglio n. 80. - VILLA

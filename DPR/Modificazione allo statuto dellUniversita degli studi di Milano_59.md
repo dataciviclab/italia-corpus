@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 21 maggio 1983 n. 410
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1985 n. 1099
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 21 maggio 1983 n. 410
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1985 n. 1099
+===============================================================
 
 Modificazione allo statuto dell'Universita' degli studi di Milano.
 ------------------------------------------------------------------
@@ -39,26 +39,20 @@ Articolo unico
 --------------
 
   
-Art. 28 - nell'elenco degli insegnamenti complementari del corso di laurea in medicina e chirurgia sono inseriti i seguenti insegnamenti: patologia dell'apparato locomotore;  
-chirurgia della mano;  
-traumatologia;  
-semeiotica cardiovascolare;  
-fisiopatologia cardiocircolatoria;  
-psicosomatica;  
-igiene mentale e psichiatria sociale;  
-neuropsichiatria geriatrica;  
-fisiologia clinica.  
+Nell'art. 8, all'elenco degli insegnamenti complementari del corso di laurea in giurisprudenza e' aggiunto l'insegnamento di "diritto penitenziario".  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 21 maggio 1983
+### Dato a Roma, addi' 31 ottobre 1985
 
-PERTINI FALCUCCI
+COSSIGA
 
-Visto, il Guardasigilli: DARIDA
+FALCUCCI, Ministro della pubblica istruzione
 
-Registrato alla Corte dei conti, addi' 11 agosto 1983
+Visto, il Guardasigilli: MARTINAZZOLI
 
-Registro n. 58 istruzione, foglio n. 147
+Registrato alla Corte dei conti, addi' 19 maggio 1986
+
+Registro n. 39 Istruzione, foglio n. 161

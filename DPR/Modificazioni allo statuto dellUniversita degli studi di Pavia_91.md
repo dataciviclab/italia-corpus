@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 25 maggio 1976 n. 521
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1978 n. 1049
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 25 maggio 1976 n. 521
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1978 n. 1049
+===============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Pavia.
 -----------------------------------------------------------------
@@ -12,99 +12,88 @@ Art. 1
 
  IL PRESIDENTE DELLA REPUBBLICA   
   
-Veduto lo statuto dell'Universita' degli studi di Pavia, approvato con [regio decreto 14 ottobre 1926, n. 2130](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2130) e modificato con [regio decreto 13 ottobre 1927, n. 2229](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2229), e successive modificazioni;   
+Veduto lo statuto dell'Universita' di Pavia, approvato con [regio decreto 14 ottobre 1926, n. 2130](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2130) e modificato con [regio decreto 13 ottobre 1927, n. 2229](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2229), e successive modificazioni;   
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
 Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);   
 Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;   
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Pavia e convalidati dal Consiglio superiore della pubblica istruzione nei suoi pareri;   
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Pavia e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;   
 Sentito il parere del Consiglio superiore della pubblica istruzione;   
-Sulla proposta del Ministro per la pubblica istruzione;   
+Sulla proposta del Ministro della pubblica istruzione;   
   
 Decreta:   
   
-Lo statuto dell'Universita' degli studi di Pavia, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
-Art. 59 - all'elenco degli insegnamenti complementari del corso di laurea in medicina e chirurgia sono aggiunti i seguenti:   
-metodologia diagnostica in psichiatria;   
-psicopatologia;   
-enzimologia;   
-microchirurgia;   
-neuropatologia;   
-dermatologia pediatrica;   
-economia sanitaria;   
-patologia molecolare.   
-Nello stesso elenco l'insegnamento complementare di scienza dell'alimentazione muta la denominazione in quella di scienza dell'alimentazione e dietologia.   
-Art. 64 - all'elenco degli insegnamenti complementari del corso di laurea in chimica, indirizzo organico-biologico, sono aggiunti i seguenti:   
-spettroscopia interpretativa organica;   
-chimica degli intermedi;   
-esercitazioni di tecniche e sintesi speciali organiche;   
-chimica bio-organica;   
-fitochimica;   
-chimica dei composti di coordinazione;   
-chimica della polluzione atmosferica delle acque;   
-meccanismi delle reazioni organiche;   
-petrolchimica;   
-chimica-fisica industriale;   
-termodinamica statistica;   
-metodi di elaborazione elettronica in chimica;   
-analisi chimica strumentale con metodi elettrochimici;   
-chimica analitica applicata;   
-complementi di chimica organica;   
-didattica chimica;   
-chimica dei composti metallorganici;   
-chimica ed analisi merceologica con esercitazioni;   
-chimica dell'ambiente;   
-chimica bioinorganica;   
-spettroscopia di risonanza magnetica elettronica;   
-spettroscopia di risonanza magnetica nucleare.   
-Nello stesso articolo, all'elenco degli insegnamenti complementari del corso di laurea in chimica, indirizzo inorganico-chimico-fisico, sono aggiunti i seguenti:   
-chimica dei composti di coordinazione;   
-chimica della polluzione atmosferica delle acque;   
-meccanismi delle reazioni organiche;   
-petrolchimica;   
-chimica-fisica industriale;   
-termodinamica statistica;   
-metodi di elaborazione elettronica in chimica;   
-analisi chimica strumentale con metodi elettrochimici;   
-chimica analitica applicata;   
-complementi di chimica organica;   
-didattica chimica;   
-chimica dei composti metallorganici;   
-chimica ed analisi merceologica con esercitazioni;   
-chimica dell'ambiente;   
-chimica bioinorganica;   
-spettroscopia di risonanza magnetica elettronica;   
-spettroscopia di risonanza magnetica nucleare;   
-analisi chimica strumentale con metodi radiochimici;   
-chimica analitica nucleare;   
-chimica delle alte temperature;   
-termodinamica dei processi irreversibili;   
-corrosione e protezione dei metalli;   
-elettrochimica dei sistemi salini fusi;   
-termodinamica chimica;   
-teoria degli elettroliti;   
-stereochimica inorganica;   
-chimica degli isotopi.   
-Art. 68 - all'elenco degli insegnamenti complementari del corso di laurea in scienze biologiche sono aggiunti i seguenti:   
-tossicologia;   
-genetica molecolare.   
-L'art. 72, relativo alle modalita' degli esami di laurea, e' modificato nel senso che la norma relativa al conseguimento della laurea in chimica e' abrogata e sostituita dalla seguente:   
+Lo statuto dell'Universita' degli studi di Pavia, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso: dopo l'art. 300, e con lo spostamento della numerazione degli articoli e titoli successivi, sono inseriti i seguenti nuovi articoli e titolo relativi all'inserimento delle norme generali della facolta' di farmacia e alla istituzione della scuola di perfezionamento in farmacologia.   
   
-Laurea in chimica   
-1) Discussione sulla dissertazione scritta;   
-2) Discussione di un argomento orale liberamente scelto in materia diversa da quella della dissertazione scritta.   
+TITOLO XIII   
+FACOLTA' DI FARMACIA   
+  
+Norme generali   
+  
+Art. 301. - Le scuole di perfezionamento istituite presso la facolta' di farmacia, hanno lo scopo di fornire ai giovani laureati la preparazione necessaria nei singoli campi, dell'analisi e della tecnologia farmaceutica, della farmacologia, in relazione alle esigenze dei lavoratori universitari industriali ed ospedalieri e rilasciano i relativi diplomi di perfezionamento.   
+Art. 302. - I direttori delle scuole sono scelti tra i professori ordinari e straordinari della facolta' di farmacia dell'Universita' di Pavia e nominati dalla facolta' per la durata di un triennio. Il funzionamento della scuola e' affidato ad un consiglio direttivo che e' formato dal direttore e da altri due membri, scelti tra gli insegnanti della scuola, e viene nominato ogni triennio dalla facolta'.   
+Gli insegnanti della scuola sono proposti, d'intesa col consiglio direttivo, dal direttore, che puo' scegliere tra i professori di ruolo e non di ruolo della facolta' ed anche tra persone di riconosciuta competenza nelle materie d'insegnamento delle scuole; tali proposte sono sottoposte all'approvazione della facolta'.   
+Art. 303. - Il programma di ogni scuola viene compilato anno per anno dal direttore della scuola, sottoposto all'approvazione della facolta' e quindi reso pubblico.   
+Art. 304. - La facolta', udito il consiglio della scuola, puo' concedere un abbreviamento di corso di perfezionamento, non superiore ad un anno, a quegli iscritti che si presentino gia' forniti di notevoli titoli di riconosciuto valore.   
+Coloro che eventualmente usufruiscono dell'agevolazione di cui sopra, sono sempre tenuti a sostenere tutti gli esami di profitto e quello di diploma e ad ottemperare agli obblighi amministrativi al pari di quelli che frequentano i corsi secondo la durata regolare.   
+Art. 305. - Per ciascuna scuola puo' essere stabilito un numero minimo di iscrizioni; qualora questo numero non venga raggiunto, il direttore della scuola ha facolta' di non iniziare i corsi. Ma se questi verranno iniziati dovranno essere portati a termine, qualunque sia il numero degli iscritti.   
+Del pari puo' essere fissato un numero massimo di iscritti, oltre al quale non saranno accolte ulteriori iscrizioni.   
+Art. 306. - La sorveglianza sugli iscritti, per tutto quanto riguarda la loro attivita', spetta al direttore della scuola.   
+La frequenza ai singoli insegnamenti annuali deve essere attestata dai rispettivi insegnanti e notificata al direttore della scuola.   
+Art. 307. - Le commissioni per gli esami di profitto sono nominate dal preside della facolta' su proposta del direttore della scuola.  
+Ciascuna commissione non puo' essere composta con meno di tre membri.   
+Art. 308. - L'esame di diploma viene sostenuto davanti ad una commissione di cinque membri, tra cui un relatore ed un controrelatore, nominata a norma dell'art. 42 del regio decreto-legge 4 giugno 1938, fra i professori componenti la scuola.   
+L'esame di diploma consiste in una discussione sopra una dissertazione originale scritta di carattere sperimentale preparata durante il periodo di perfezionamento.   
+I candidati non riconosciuti idonei possono ripresentarsi all'esame di diploma dopo un altro anno di frequenza alla scuola. Ma, se al secondo esame non sia loro riconosciuta l'idoneita', saranno senz'altro esclusi da ulteriori prove.   
+A coloro che hanno superato l'esame di diploma viene rilasciato il diploma di perfezionamento.   
+Art. 309. - Le tasse e soprattasse che gli iscritti sono tenuti a pagare sono le stesse che la legge stabilisce per gli studenti della facolta' di farmacia, oltre alla tassa di diploma di L. 6.000.   
+La misura dei contributi per le esercitazioni pratiche e per le altre prestazioni di cui gli iscritti usufruiscono durante il corso di studi, e' fissata anno per anno dal consiglio di amministrazione su proposta della facolta'.   
+L'importo netto delle soprattasse di profitto e di diploma viene ripartito secondo i criteri di cui al [decreto presidenziale 1 dicembre 1952, n. 4512](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-12-01;4512).   
+Scuola di perfezionamento in farmacologia   
+Art. 310. - La scuola di perfezionamento, in farmacologia rilascia il diploma di perfezionamento in farmacologia.   
+La durata del corso e' di tre anni.   
+Art. 311. - Alla scuola possono essere ammessi i laureati in farmacia, in chimica e tecnologia farmaceutiche, in medicina e chirurgia, in scienze biologiche, in scienze delle preparazioni alimentari, in medicina veterinaria, in scienze della produzione animale.   
+Art. 312. - Il numero degli ammessi non puo' essere superiore a 20 per anno di corso.   
+Art. 313. - Gli insegnamenti impartiti dalla scuola nei tre anni sono i seguenti:   
+1° Anno:   
+farmacologia generale;   
+farmacologia sistematica I;   
+farmacologia sperimentale I;   
+statistica;   
+tossicologia e teratologia;   
+animali da sperimentazione (semestrale);   
+farmacocinetica (semestrale).   
+2° Anno:   
+farmacologia sistematica II;   
+farmacologia sperimentale II;   
+farmacologia molecolare;   
+farmacologia biochimica;   
+caratteristiche delle forme farmaceutiche;   
+chemioterapia (annuale);   
+immuno-farmacologia (semestrale).   
+3° Anno:   
+progettazione di farmaci;   
+farmacoterapia;   
+valutazione clinica dei farmaci;   
+neuropsicofarmacologia (semestrale);   
+endocrinologia (semestrale).   
+I corsi saranno accompagnati da dimostrazioni ed esercitazioni pratiche e saranno integrati da seminari su argomenti di particolare attualita'.   
+In aggiunta agli insegnamenti sopra indicati gli iscritti alla scuola dovranno seguire ogni anno un corso universitario scelto su parere del consiglio direttivo della scuola, al fine di colmare eventuali lacune derivanti dal tipo di laurea conseguita; sul corso seguito gli iscritti alla scuola dovranno sostenere un colloquio.   
+Art. 314. - Alla fine di ogni anno gli iscritti dovranno sostenere un esame vertente sugli insegnamenti impartiti dalla scuola in quell'anno, di fronte ad una commissione formata da professori incaricati dei corsi e presieduta dal direttore della scuola.   
+Art. 315. - La facolta' si riserva di attivare il corso del 1° anno in funzione del numero di coloro che hanno presentato domanda d'iscrizione (minimo 10).   
+Gli altri due corsi verranno comunque attivati qualunque sia il numero degli iscritti.   
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 25 maggio 1976
+### Dato a Roma, addi' 31 ottobre 1978
 
-LEONE MALFATTI
+PERTINI PEDINI
 
 Visto, il Guardasigilli: BONIFACIO
 
-Registrato alla Corte dei conti, addi' 23 luglio 1976
+Registrato alla Corte dei conti, addi' 23 aprile 1979
 
-Atti di Governo, registro n. 8, foglio n. 11
+Registro n. 27 Istruzione, foglio n. 28

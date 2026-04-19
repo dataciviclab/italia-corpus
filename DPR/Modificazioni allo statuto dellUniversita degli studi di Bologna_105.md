@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 ottobre 1978 n. 808
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 23 ottobre 1973 n. 1113
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 ottobre 1978 n. 808
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 23 ottobre 1973 n. 1113
+===============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Bologna.
 -------------------------------------------------------------------
@@ -10,73 +10,82 @@ Modificazioni allo statuto dell'Universita' degli studi di Bologna.
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA   
+ IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' di Bologna, approvato con [regio decreto 14 ottobre 1926, n. 2170](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2170) e modificato con [regio decreto 13 ottobre 1927, n. 2227](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2227), e successive modificazioni;   
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;   
-Veduta la [legge 22 maggio 1978, n. 217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-05-22;217);   
-Sentito il parere del Consiglio superiore della pubblica istruzione;   
-Sulla proposta del Ministro della pubblica istruzione;   
+Veduto lo statuto dell'Universita' degli studi di Bologna, approvato con [regio decreto 14 ottobre 1926, numero 2170](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2170) e modificato con [regio decreto 13 ottobre 1927, n. 2227](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2227), e successive modificazioni;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
+Sentito il parere del Consiglio superiore della pubblica istruzione;  
+Sulla proposta del Ministro per la pubblica istruzione;  
   
-Decreta:   
+Decreta:  
   
-Lo statuto dell'Universita' degli studi di Bologna, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
-Gli articoli 547, 548, 549, 550, 551 e 552, relativi alla scuola di specializzazione in anestesiologia e rianimazione, che muta la denominazione in quella di scuola di specializzazione in anestesia e rianimazione, sono abrogati e sostituiti dai seguenti con il conseguente spostamento della numerazione degli articoli successivi:   
+Lo statuto dell'Universita' degli studi di Bologna, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+Gli articoli 291, 292, 293, 294, relativi alla scuola di perfezionamento in archeologia annessa alla facolta' di lettere e filosofia, sono abrogati e sostituiti dai seguenti:  
   
-Scuola di specializzazione in anestesia e rianimazione   
-Art. 547. - La scuola di specializzazione in anestesia e rianimazione ha sede presso la facolta' di medicina e chirurgia e conferisce il diploma di specialista in anestesia e rianimazione.   
-La direzione della scuola e' affidata al professore di ruolo della stessa materia della specializzazione o, in carenza, al professore di ruolo di materia affine.   
-Possono iscriversi alla scuola i laureati in medicina e chirurgia.   
-E' richiesto, almeno per l'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale rilasciato dall'autorita' competente.   
-La durata del corso di studi e' di tre anni (3) e non e' suscettibile di abbreviazioni.   
-Il numero massimo degli allievi e' di 30 per anno di corso e complessivamente di 90 iscritti per l'intero corso di studi.   
-L'ammissione al corso avviene per titoli ed esami.   
-Art. 548. - Le materie di insegnamento sono le seguenti:   
-1° Anno:   
-1) anatomia applicata all'anestesia ed alla rianimazione;   
-2) biochimica applicata all'anestesia ed alla rianimazione;   
-3) farmacologia applicata all'anestesia e alla rianimazione;   
-4) fisiologia applicata all'anestesia ed alla rianimazione;   
-5) fisica applicata all'anestesia ed alla rianimazione;   
-6) anestesiologia I;   
-7) tecniche chirurgiche di interesse anestesiologico;   
-8) aspetti medico-legali dell'anestesia e della rianimazione;   
-9) esercitazioni pratiche.   
-2° Anno:   
-1) anestesiologia II;   
-2) terapia antalgica;   
-3) rianimazione I;   
-4) esercitazioni pratiche.   
-3° Anno:   
-1) rianimazione (II);   
-2) tecniche speciali di anestesia;   
-3) tecniche speciali di rianimazione;   
-4) indagini diagnostiche attinenti alla specialita';   
-5) esercitazioni pratiche.   
-Vengono inoltre impartiti insegnamenti complementari sulle seguenti materie:   
-tecnica degli esami endoscopici (I anno);   
-cardiologia per la rianimazione (II anno);   
-nozioni di tossicologia clinica (III anno).   
-Tali insegnamenti costituiscono materia di esame.   
-Art. 549. - La frequenza alle lezioni e alle esercitazioni pratiche e' obbligatoria.   
-Gli allievi che non conseguono le attestazioni di frequenza sul relativo libretto non potranno essere ammessi a sostenere le prove di esame.   
-Art. 550. - Alla fine di ogni corso gli iscritti per essere ammessi agli anni di corso successivi devono superare le prove di esame sulle materie impartite durante l'anno.   
-Per le materie a corsi pluriennali l'esame sara' sostenuto alla fine dei corsi medesimi.   
-Art. 551. - Al termine del corso di studi per il conseguimento del diploma di specialista in anestesia e rianimazione gli interessati dovranno superare l'esame di diploma consistente nella dissertazione scritta di un argomento attinente alla specializzazione.   
+Scuola di perfezionamento in archeologia  
+Art. 291. - Il corso della scuola di perfezionamento in archeologia e' biennale. Ad esso possono iscriversi i laureati in lettere.  
+Art. 292. - Per conseguire il diploma gli iscritti alla scuola di perfezionamento in archeologia dovranno:  
+A) superare nove esami annuali, di cui tre obbligatori. Almeno uno degli esami fondamentali dovra' essere biennale, quello della materia prescelta per la dissertazione di diploma. In piu' e' in facolta' degli iscritti di seguire a loro scelta un secondo esame biennale.  
+Per ogni esame biennale sara' ridotto di uno il numero degli esami complessivi che dovranno essere superati;  
+B) sostenere una prova consistente in traduzioni dal greco antico, dal latino e da due lingue moderne, una delle quali del gruppo germanico, di passi riguardanti l'arte antica;  
+C) presentare e discutere una dissertazione scritta su una delle discipline fondamentali della scuola: il tema dovra' essere scelto nel primo anno di corso.  
+Art. 293. - Sono corsi fondamentali obbligatori:  
+1) Archeologia greca;  
+2) Archeologia romana;  
+3) Etruscologia e archeologia italica;  
+4) Antichita' celtiche;  
+5) Antichita' greche e romane;  
+6) Antichita' delle province romane;  
+7) Antichita' ravennati;  
+8) Archeologia cristiana;  
+9) Archeologia bizantina;  
+10) Archeologia e storia dell'arte del vicino Oriente antico;  
+11) Egittologia;  
+12) Linguistica preromana dell'Italia;  
+13) Museologia;  
+14) Numismatica;  
+15) Paletnologia;  
+16) Protostoria;  
+17) Storia dell'architettura antica;  
+18) Storia dell'arte della tarda antichita';  
+19) Topografia antica;  
+20) Topografia dell'Italia antica.  
+Sono insegnamenti complementari:  
+21) Archeologia medievale;  
+22) Epigrafia greca e romana;  
+23) Etnologia;  
+24) Fotointerpretazione archeologica;  
+25) Geografia storica dell'antichita';  
+26) Metrologia;  
+27) Paleografia e diplomatica;  
+28) Papirologia;  
+29) Scienza e tecnica del restauro;  
+30) Storia dell'archeologia;  
+31) Storia dell'arte medievale;  
+32) Storia della critica d'arte;  
+33) Storia del diritto romano;  
+34) Storia greca;  
+35) Storia orientale antica;  
+36) Storia delle religioni del mondo classico antico;  
+37) Storia romana;  
+38) Tecnica della documentazione archeologica;  
+39) Tecnologia dei materiali.  
+Art. 294. - Potranno essere concesse abbreviazioni di corso con deliberazioni del consiglio della scuola ai laureati in possesso di titoli post-universitari attinenti allo studio dell'archeologia.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 2 ottobre 1978
+### Dato a Roma, addi' 23 ottobre 1973
 
-PERTINI PEDINI
+LEONE MALFATTI
 
-Visto, il Guardasigilli: BONIFACIO
+Visto, il Guardasigilli: ZAGARI
 
-Registrato alla Corte dei conti, addi' 11 dicembre 1978
+Registrato alla Corte dei conti, addi' 1 giugno 1974
 
-Registro n. 130 Istruzione, foglio n. 151
+Atti di Governo, registro n. 4, foglio n. 1. - SCIARRETTA

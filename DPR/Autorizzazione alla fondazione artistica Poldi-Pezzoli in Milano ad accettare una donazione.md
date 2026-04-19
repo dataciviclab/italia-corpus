@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 dicembre 1985 n. 1076
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 23 gennaio 1977 n. 95
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 dicembre 1985 n. 1076
-================================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 23 gennaio 1977 n. 95
+=============================================================
 
 Autorizzazione alla fondazione artistica Poldi-Pezzoli, in Milano, ad accettare una donazione.
 ----------------------------------------------------------------------------------------------
@@ -12,8 +12,9 @@ Art. 1
 
 N.
 
-1076. Decreto del Presidente della Repubblica 31 dicembre 1985, col quale, sulla proposta del Ministro per i beni culturali e ambientali, la Fondazione artistica Poldi-Pezzoli, in Milano, viene autorizzata ad accettare la donazione, consistente in un dipinto su tavola raffigurante "l'Annunciazione" di Jacopo Casentino, del valore presunto di L. 50.000.000, disposta dalla sig.ra Ludovica Zambeletti ved. Pirelli con atto 19 ottobre 1982, n. 38226/5189 di repertorio, a rogito dott. Sergio Barenghi, notaio in Milano e registrato a Milano in data 5 novembre 1982 al n. 19116.   
+95. Decreto del Presidente della Repubblica 29 gennaio 1977, col quale, sulla proposta del Ministro per i beni culturali e ambientali, la fondazione artistica Poldi-Pezzoli, in Milano, viene autorizzata ad accettare la donazione disposta dalla sig.ra Margherita Pallavicino Mossi ved. Visconti Venosta con atto notarile 13 aprile 1973, n. 185264 di repertorio, a rogito dott.  
+Roberto Franci, notaio in Roma, consistente nelle opere elencate e descritte nel predetto atto notarile, a condizione che una stanza venga intitolata ad "Emilio Visconti Venosta".  
   
-Visto, il Guardasigilli: MARTINAZZOLI   
-Registrato alla Corte dei conti, addi' 24 marzo 1986   
-Registro n. 7 Beni culturali, foglio n. 21
+Visto, il Guardasigilli: BONIFACIO  
+Registrato alla Corte dei conti, addi' 23 marzo 1977  
+Registro n. 5 Beni culturali, foglio n. 18

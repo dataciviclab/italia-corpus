@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 12 febbraio 1968 n. 310
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 12 ottobre 1967 n. 1373
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 12 febbraio 1968 n. 310
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 12 ottobre 1967 n. 1373
 ===============================================================
 
 Autorizzazione all'Amministrazione delle poste e delle telecomunicazioni ad accettare una donazione.
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-310. Decreto del Presidente della Repubblica 12 febbraio 1968, col quale, sulla proposta del relativo Ministro l'Amministrazione delle poste e delle telecomunicazioni viene autorizzata ad accettare dal comune di Cautano la donazione di un'area di mq. 420, sita in Cautano, via Asciello, confinante per tre lati con altra proprieta' comunale e per un lato con la suddetta via Asciello, come da atto rogato in Cautano dal notaio avv. Mario Jannella in data 23 luglio 1967 repertorio n. 12489.  
+1373. Decreto del Presidente della Repubblica 12 dicembre 1967, col quale, sulla proposta del relativo Ministro, l'Amministrazione delle poste e delle telecomunicazioni viene autorizzata ad accettare la donazione di un'area di mq. 368,64, sita in Susa, piazza Europa, confinante con la societa' I.C.E.I.A. a nord cooperativa "Casa Nostra" ad est, piazza Europa a sud e via Mazzini ad ovest, da destinare alla costruzione dell'edificio delle poste e telecomunicazioni.  
   
 Visto, il Guardasigilli: REALE  
-Registrato alla Corte dei conti, addi' 29 marzo 1968  
-Atti del Governo, registro n. 218, foglio n. 86. - GRECO
+Registrato alla Corte dei conti, addi' 23 gennaio 1968  
+Atti del Governo, registro n. 217, foglio n. 3. - GRECO

@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 aprile 1965 n. 860
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 03 giugno 1980 n. 583
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 aprile 1965 n. 860
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 03 giugno 1980 n. 583
 =============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Firenze.
@@ -10,7 +10,7 @@ Modificazioni allo statuto dell'Universita' degli studi di Firenze.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' degli studi di Firenze, approvato con [regio decreto 14 ottobre 1926, numero 2406](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2406), e modificato con [regio decreto 13 ottobre 1927, n. 2230](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2230), e successive modificazioni;
+Veduto lo statuto dell'Universita' di Firenze, approvato con [regio decreto 14 ottobre 1926, n. 2406](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2406) e modificato con [regio decreto 13 ottobre 1927, n. 2230](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2230), e successive modificazioni;
 
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
@@ -18,139 +18,64 @@ Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it
 
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
 
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
+Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Firenze e convalidati dal Consiglio universitario nazionale nel suo parere;
 
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
+Sentito il parere del Consiglio universitario nazionale;
 
-Sentito il parere del Consiglio superiore della pubblica istruzione;
-
-Sulla proposta del Ministro per la pubblica istruzione;
+Sulla proposta del Ministro della pubblica istruzione;
 
 Decreta:
+--------
 
 Lo statuto dell'Universita' degli studi di Firenze, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
-
-Art. 59. - Agli insegnamenti complementari del corso di laurea in materie letterarie sono aggiunti quelli di:
-
-Storia contemporanea;
-
-Storia dell'Europa orientale;
-
-Storia della geografia e delle esplorazioni geografiche;
-
-Paleografia e diplomatica.
-
-Art. 60. - Agli insegnamenti complementari del corso di laurea in Pedagogia sono aggiunti quelli di:
-
-Metodologia e didattica;
-
-Psicologia sociale;
-
-Filosofia della scienza.
-
-Art. 61. - Agli insegnamenti complementari del corso di laurea in Lingue e letterature straniere sono aggiunti quelli di:
-
-Storia contemporanea Storia dell'Europa orientale;
-
-Storia della geografia e delle esplorazioni geografiche;
-
-Paleografia e diplomatica;
-
-Filologia ispanica;
-
-Lingua e letteratura luso-brasiliana.
-
-L'insegnamento complementare di "Lingua e letteratura ibero-americana" cambia la denominazione in "Lingua e letteratura ispano-americana".
-
-Nell'art. 79 relativo al corso di laurea in Fisica, il terzo comma e' abrogato e sostituito dal seguente:
-
-"Il corso di studi si svolge nei seguenti indirizzi a) generale; b) applicativo; c) didattico".
-
-Ai corsi a scelta per il nono insegnamento complementare (indirizzo generale) vengono aggiunti i seguenti: "Radioattivita'" e "Relativita'".
-
-Ai corsi a scelta per il nono insegnamento complementare (indirizzo applicativo) vengono aggiunti quelli di "Radioattivita'", "Astrofisica teorica", "Cosmologia", "Elettrodinamica cosmica", "Fisica solare" e "Tecniche astrofisiche".
-
-Art. 136. - Agli insegnamenti complementari del corso di laurea in Scienze agrarie vengono aggiunti quelli di:
-
-17) Diritto agrario e legislazione forestale;
-
-18) Microbiologia forestale;
-
-19) Sociologia rurale.
-
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
-
-Dato a Roma, addi' 26 aprile 1965
-
-SARAGAT
-
-GUI
-
-Visto, il Guardasigilli: REALE
-
-Registrato
-----------
-
-alla Corte dei conti, addi' 14 luglio 1965 Atti del Governo, registro n. 195, foglio n. 90. - VILLA
 
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Firenze, approvato con [regio decreto 14 ottobre 1926, numero 2406](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2406), e modificato con [regio decreto 13 ottobre 1927, n. 2230](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2230), e successive modificazioni;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
-Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro per la pubblica istruzione;  
+Nell'art. 10, il primo, il secondo, il terzo e il quarto comma sono sostituiti dal seguente:  
+"La facolta' stabilisce le propedeuticita' ai fini dell'iscrizione e della frequenza ai corsi ed ai fini degli esami".  
+
+Art. 2
+------
+
   
-Decreta:  
+L'art. 12 e' sostituito dal seguente:  
   
-Lo statuto dell'Universita' degli studi di Firenze, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-Art. 59. - Agli insegnamenti complementari del corso di laurea in materie letterarie sono aggiunti quelli di:  
+L'esame di laurea consiste in una discussione orale su una dissertazione scritta in materia formante oggetto di insegnamento nella facolta' oppure in materia giuridica insegnata in altra facolta', purche' inserita nel piano di studio individuale approvato dalla facolta'".  
+
+Art. 3
+------
+
   
-Storia contemporanea;  
-Storia dell'Europa orientale;  
-Storia della geografia e delle esplorazioni geografiche;  
-Paleografia e diplomatica.  
-Art. 60. - Agli insegnamenti complementari del corso di laurea in Pedagogia sono aggiunti quelli di:  
+All'art. 14, primo comma, la parola "un mese" e' sostituita da "venti giorni".  
+
+Art. 4
+------
+
   
-Metodologia e didattica;  
-Psicologia sociale;  
-Filosofia della scienza.  
-Art. 61. - Agli insegnamenti complementari del corso di laurea in Lingue e letterature straniere sono aggiunti quelli di:  
+L'art. 16 e' sostituito dal seguente:  
+"Per gli studenti provenienti da altre facolta' o da altre Universita', italiane o straniere, le autorita' accademiche prendono, caso per caso, i provvedimenti relativi alla loro carriera scolastica".  
+
+Art. 5
+------
+
   
-Storia contemporanea Storia dell'Europa orientale;  
-Storia della geografia e delle esplorazioni geografiche;  
-Paleografia e diplomatica;  
-Filologia ispanica;  
-Lingua e letteratura luso-brasiliana.  
-L'insegnamento complementare di "Lingua e letteratura ibero-americana" cambia la denominazione in "Lingua e letteratura ispano-americana".  
-Nell'art. 79 relativo al corso di laurea in Fisica, il terzo comma e' abrogato e sostituito dal seguente:  
-"Il corso di studi si svolge nei seguenti indirizzi a) generale; b) applicativo; c) didattico".  
-Ai corsi a scelta per il nono insegnamento complementare (indirizzo generale) vengono aggiunti i seguenti: "Radioattivita'" e "Relativita'".  
-Ai corsi a scelta per il nono insegnamento complementare (indirizzo applicativo) vengono aggiunti quelli di "Radioattivita'", "Astrofisica teorica", "Cosmologia", "Elettrodinamica cosmica", "Fisica solare" e "Tecniche astrofisiche".  
-Art. 136. - Agli insegnamenti complementari del corso di laurea in Scienze agrarie vengono aggiunti quelli di:  
-17) Diritto agrario e legislazione forestale;  
-18) Microbiologia forestale;  
-19) Sociologia rurale.  
+All'art. 17 e' aggiunto il seguente comma:  
+"Nella facolta' opera altresi' un centro di studi per la storia del pensiero giuridico moderno, con finalita' di ricerca interdisciplinare. Tale centro ha un proprio regolamento interno, approvato dalla facolta'".  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 26 aprile 1965
+### Dato a Roma, addi' 3 giugno 1980
 
-SARAGAT GUI
+PERTINI SARTI
 
-Visto, il Guardasigilli: REALE
+Visto, il Guardasigilli: MORLINO
 
-Registrato alla Corte dei conti, addi' 14 luglio 1965
+Registrato alla Corte dei conti, addi' 18 settembre 1980
 
-Atti del Governo, registro n. 195, foglio n. 90. - VILLA
+Registro n. 87 Istruzione, foglio n. 31

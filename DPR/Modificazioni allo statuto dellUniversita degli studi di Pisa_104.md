@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 agosto 1955 n. 909
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 maggio 1978 n. 1041
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 agosto 1955 n. 909
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 maggio 1978 n. 1041
+==============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Pisa.
 ----------------------------------------------------------------
@@ -10,60 +10,202 @@ Modificazioni allo statuto dell'Universita' degli studi di Pisa.
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA  
+ IL PRESIDENTE DELLA REPUBBLICA   
   
-Veduto lo statuto dell'Universita' degli studi di Pisa, approvato con [regio decreto 14 ottobre 1926, n. 2278](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2278) e modificato con i [regi decreti 13 ottobre 1927, n. 2225](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2225); [20 settembre 1928, n. 2251](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1928-09-20;2251); [31 ottobre 1929, n. 2473](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1929-10-31;2473); 80 ottobre 1930, n. 1916; 12 ottobre 1931, n. 1339; 21 ottobre 1932, n. 2098; 13 dicembre 1934, n. 2408; 10 ottobre 1936, n. 2462; 27 ottobre 1937, n. 2170; 9 maggio 1939, n. 1314; 5 ottobre 1939, n. 1744; 26 ottobre 1940, n. 2071; 27 aprile 1942, n. 469 e 24 ottobre 1942, n. 1652; con [decreto del Capo provvisorio dello Stato 30 dicembre 1947, n. 1689](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto:1947-12-30;1689) e con [decreti del Presidente della Repubblica 17 febbraio 1949, n. 97](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-02-17;97); [30 ottobre 1949, n. 1169](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-10-30;1169); [31 ottobre 1950, n. 1309](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1950-10-31;1309); [11 aprile 1951, n. 566](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-04-11;566); [27 ottobre 1951, n. 1801](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-10-27;1801); [15 marzo 1952, n. 872](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-03-15;872); [25 luglio 1952, n. 1351](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-07-25;1351); [12 settembre 1952, n. 386](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-09-12;386); [30 ottobre 1952, n. 4558](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-10-30;4558); 11 marzo n. 1080; 23 marzo 1954, n. 743; 10 aprile 1954, n. 739; 26 ottobre 1954, n. 1294 e 11 aprile 1955, n. 625;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
-Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro per la pubblica istruzione;  
+Veduto lo statuto dell'Universita' di Pisa, approvato con [regio decreto 14 ottobre 1926, n. 2278](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2278), e modificato con [regio decreto 13 ottobre 1927, n. 2225](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2225), e successive modificazioni;   
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;   
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Pisa e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;   
+Sentito il parere del Consiglio superiore della pubblica istruzione;   
+Sulla proposta del Ministro della pubblica istruzione;   
   
-Decreta:  
+Decreta:   
   
-Lo statuto dell'Universita' degli studi di Pisa, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-Art. 23. - Agli insegnamenti complementari del corso di laurea in giurisprudenza sono aggiunti quelli di:  
-10) Storia delle dottrine politiche;  
-11) Esegesi delle fonti del diritto romano;  
-12) Papirologia giuridica.  
-Art. 24. - Agli insegnamenti complementari del corso di laurea in scienze politiche sono aggiunti quelli di:  
-5) Demografia;  
-6) Storia delle istituzioni politiche;  
-7) Teoria generale del diritto.  
-L'art. 31 e' sostituito dal seguente:  
+Lo statuto dell'Universita' degli studi di Pisa, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
+Gli articoli 268, 269, 270, 271 e 272, relativi alle norme generali delle scuole di specializzazione in medicina e chirurgia, sono soppressi e sostituiti dai seguenti:   
+Art. 268. - Nei singoli statuti sono indicati la durata dei corsi, la sede e il direttore. La direzione della scuola e' affidata al professore di ruolo o fuori ruolo della stessa materia della specializzazione e, in carenza, al professore di ruolo o fuori ruolo in materia affine.   
+Il consiglio di ciascuna scuola si compone dei professori che vi tengono gli insegnamenti prescritti ed e' presieduto dal direttore.   
+Art. 269. - Alle scuole sono ammessi i laureati in medicina e chirurgia, salvo diverso indirizzo. E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale rilasciato dall'autorita' competente. Non e' ammessa l'iscrizione contemporanea a piu' scuole o corsi di perfezionamento.   
+Art. 270. - Il numero di allievi, che annualmente possono essere accolti al primo corso di ciascuna scuola, e' fissato nello statuto di ogni singola scuola.   
+L'immatricolazione avviene mediante concorso per titoli ed esami.  
+Le modalita' di questi ultimi sono determinate dal direttore della scuola, secondo le particolari esigenze di ogni corso di studi.   
+Per ciascuna scuola puo' essere stabilito un numero minimo di iscrizioni; qualora questo numero non venga raggiunto, il direttore della scuola ha la facolta' di non iniziare i corsi; se, tuttavia, questi vengono iniziati, devono essere portati al termine qualunque sia il numero degli iscritti.   
+Art. 271. - Le domande di ammissione ad una scuola o corso, devono essere dirette al rettore e presentate all'ufficio di segreteria dell'Universita' corredate dai documenti prescritti e dagli altri eventuali titoli che l'aspirante ritenga opportuno di unire; domande e documenti vengono trasmessi al direttore di ciascuna scuola o corso, per l'espletamento del concorso, terminati i cui esami vengono da lui restituiti all'ufficio di segreteria.   
+Art. 272. - Non sono consentite abbreviazioni di corso.   
+La scuola di specializzazione in otorinolaringoiatria e patologia cervico-facciale, di cui agli articoli 287, 288, 289 e 290, e la scuola di specializzazione in odontoiatria e protesi dentaria, di cui agli articoli 325, 326, 327, 328 e 329, cambiano rispettivamente le denominazioni in otorinolaringoiatria e odontostomatologia.   
+Gli articoli 337, 338, 339 e 340, relativi alla scuola di specializzazione in igiene e sanita' pubblica, sono soppressi, con il conseguente spostamento della numerazione degli articoli successivi.   
+Gli articoli 374, 375 e 376, relativi alla scuola di specializzazione in igiene e medicina scolastica, e gli articoli 377, 378, 379 e 380, relativi alla scuola di specializzazione in igiene tecnica e direzione ospedaliera, sono soppressi con il conseguente spostamento della numerazione degli articoli successivi.   
+Dopo l'art. 411, e con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti seguenti nuovi articoli relativi alla istituzione della scuola di specializzazione in igiene e medicina preventiva:   
   
-Alla Facolta' di giurisprudenza e' annesso un Seminario per le scienze giuridiche e politiche, che ha lo scopo di addestrare gli studenti ai metodi di ricerca scientifica e di dare ad essi la preparazione pratica ai sensi dell'art. 23 del regolamento generale universitario.  
-Il Seminario comprende tre istituti: di diritto pubblico, di diritto privato, di storia e filosofia del diritto, di cui fanno parte i professori di ruolo e fuori ruolo, rispettivamente, delle materie pubblicistiche, privatistiche e storico-filosofiche".  
-L'art. 33 e' sostituito dal seguente:  
-"Il Consiglio direttivo del seminario e' costituito dai professori di ruolo e fuori ruolo della Facolta' giuridica; esso elegge per un triennio, nel proprio seno, un direttore con facolta' di conferma. Lo stesso Consiglio elegge anche per un triennio i direttori dei tre istituti".  
-L'art. 34 e' sostituito dal seguente:  
-"Nella seconda meta' di novembre i professorii' che intendano partecipare ai lavori del Seminario, secondo il piano deliberato dalla Facolta', sono invitati dai direttori degli Istituti e in accordo con il direttore del Seminario, a presentare il programma dei loro corsi e delle loro esercitazioni e ad indicare le ore per queste prescelte".  
-Gli articoli 40 e 41 concernenti l'ordinamento dell'Istituto di studi per la riforma sociale - sono sostituiti dal seguente:  
-Art. 40 "Alla Facolta' di giurisprudenza e' annesso altresi' l'Istituto di studi per la riforma sociale, che ha lo scopo di promuovere studi e ricerche intorno ai problemi della organizzazione giuridica ed economica dello Stato.  
-Per raggiungere questi fini, l'Istituto:  
-a) cura la formazione e l'accrescimento del materiale scientifico gia' in dotazione dell'ex scuola di scienze corporative;  
-b) organizza corsi di conferenze e lezioni su particolari problemi della cultura e dell'esperienza giuridico-politica del nostro tempo con la partecipazione dei professori della Facolta' di Pisa e di altre Facolta' italiane e straniere;  
-c) istituisce premi per i migliori lavori su temi proposti dal Consiglio dell'Istituto.  
-Il Consiglio direttivo dell'Istituto di studi per la riforma sociale e' costituito da professori di ruolo e fuori ruolo della Facolta' giuridica. Esso elegge, nel proprio seno, per un triennio un direttore con facolta' di conferma".  
-Art. 41 (gia' 38). - Agli insegnamenti complementari del corso di laurea in lettere e' aggiunto quello di:  
-"filologia umanistica".  
-Art. 65. - Agli insegnamenti complementari del corso di laurea in fisica e' aggiunto quello di: "radioattivita'".  
-L'art. 103 e' sostituito dal seguente:  
-"Non possono essere iscritti ai seguenti corsi gli studenti che non abbiano regolarmente frequentato i corsi indicati a fianco di ciascun corso medesimo: costruzioni in legno, ferro e cemento armato (scienza delle costruzioni); macchine (meccanica applicata alle macchine); costruzioni di macchine (meccanica applicata alle macchine, scienza delle costruzioni, tecnologie generali); disegno di macchine e progetti (meccanica applicata alle macchine); impianti industriali meccanici (macchine e tecnologie generali); costruzioni aeronautiche (meccanica applicata alle macchine, scienza delle costruzioni); costruzioni stradali e ferroviarie (topografia con elementi di geodesia, scienza delle costruzioni); costruzioni idrauliche (scienza delle costruzioni, idraulica); impianti speciali idraulici (scienza delle costruzioni, idraulica); costruzioni di ponti (scienza delle costruzioni); chimica industriale (chimica applicata); misure elettriche, impianti industriali elettrici, costruzioni di macchine elettriche, radiotecnica, comunicazioni elettriche (elettrotecnica); tecnologie generali (chimica applicata); tecnica ed economia dei trasporti (meccanica applicata alle macchine, macchine); chimica fisica (chimica applicata); impianti industriali chimici (chimica industriale); elettrochimica (elettrotecnica); metallurgia e metallografia (chimica applicata e tecnologie generali)".  
+Scuola di specializzazione in igiene e medicina preventiva   
+  
+Art. 412. - La scuola di specializzazione in igiene e medicina preventiva ha sede presso l'istituto d'igiene dell'Universita' di Pisa e conferisce il diploma di specialista in igiene e medicina preventiva.   
+Art. 413. - La direzione della scuola e' affidata al professore di ruolo o fuori ruolo della stessa materia della specializzazione o, in carenza, al professore di ruolo o fuori ruolo di materia affine.   
+Art. 414. - Possono iscriversi alla scuola i laureati in medicina e chirurgia. E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale rilasciato dall'autorita' competente.   
+Art. 415. - La durata del corso di studi e' di quattro anni e non e' suscettibile di abbreviazione.   
+Art. 416. - Il numero massimo degli allievi e' di trenta per anno di corso e complessivamente di centoventi iscritti per l'intero corso di studi.   
+Art. 417. - L'ammissione al corso avviene per titoli ed esami.   
+Art. 418. - Il corso si articola in un biennio propedeutico seguito da un biennio differenziato con cinque orientamenti e precisamente:   
+a) sanita' pubblica;   
+b) igiene e tecnica ospedaliera;   
+c) igiene del lavoro;   
+d) igiene e medicina scolastica;   
+e) laboratorio.   
+Art. 419. - Il piano di studi e' il seguente:   
+  
+PRIMO BIENNIO   
+  
+1° Anno:   
+metodologia statistica e biometria;   
+educazione sanitaria;   
+psicologia;   
+microbiologia ed immunologia I;   
+parassitologia;   
+epidemiologia generale e metodologia;   
+profilassi generale;   
+sociologia medica ed antropologia culturale.   
+2° Anno:   
+microbiologia e immunologia II;   
+patologia e clinica delle malattie infettive;   
+epidemiologia e profilassi delle malattie infettive I;   
+patologia e clinica delle malattie non infettive di importanza sociale;   
+epidemiologia e profilassi delle malattie non infettive di importanza sociale I;   
+demografia e statistica sanitaria;   
+legislazione e programmazione sanitarie.   
+  
+SECONDO BIENNIO   
+  
+a) Orientamento di sanita' pubblica.   
+  
+3° Anno:   
+epidemiologia e profilassi delle malattie infettive II;   
+epidemiologia e profilassi delle malattie non infettive di importanza sociale II;   
+igiene dell'ambiente fisico e difesa ecologica;   
+igiene degli alimenti e della nutrizione;   
+igiene dell'eta' evolutiva;   
+igiene del lavoro;   
+igiene ed assistenza dell'anziano.   
+4° Anno:   
+igiene edilizia e dell'aggregato urbano;   
+igiene ospedaliera;   
+organizzazione del territorio e programmazione sanitaria;   
+medicina di comunita';   
+economia sanitaria;   
+elementi di diritto amministrativo.   
+  
+b) Orientamento di igiene e tecnica ospedaliera.   
+  
+3° Anno:   
+epidemiologia e profilassi delle malattie infettive II;   
+epidemiologia e profilassi delle malattie non infettive di importanza sociale II;   
+igiene dell'ambiente fisico e difesa ecologica;   
+igiene e tecnica delle costruzioni ospedaliere; arredamenti ed impianti tecnologici;   
+igiene dell'alimentazione e dietetica ospedaliera;   
+organizzazione e funzionamento degli ospedali I;   
+elementi di diritto e legislazione ospedaliera.   
+4° Anno:   
+organizzazione e funzionamento degli ospedali II;   
+compiti ed attribuzione della direzione sanitaria;   
+formazione professionale e compiti del personale ospedaliero;   
+programmazione ospedaliera e medicina di comunita';   
+assistenza psichiatrica;   
+aspetti sociosanitari dell'ospitalismo;   
+aspetti economici della gestione ospedaliera.   
+  
+c) Orientamento di igiene del lavoro.   
+  
+3° Anno:   
+epidemiologia e profilassi delle malattie infettive II;   
+epidemiologia e profilassi delle malattie non infettive di importanza sociale II;   
+igiene dell'ambiente fisico e difesa ecologica;   
+epidemiologia e profilassi delle malattie del lavoro;   
+tecnica ed economia degli impianti industriali;   
+tossicologia industriale e diagnostica di laboratorio;   
+elementi di fisica tecnica applicata all'igiene;   
+igiene dell'ambiente di lavoro I.   
+4° Anno:   
+igiene dell'ambiente di lavoro II;   
+elementi di diritto e legislazione del lavoro;   
+psicologia del lavoro;   
+prevenzione degli infortuni;   
+politica del territorio ed insediamenti industriali;   
+igiene del lavoro e medicina di comunita'.   
+  
+d) Orientamento di igiene e medicina scolastica.   
+  
+3° Anno:   
+epidemiologia e profilassi delle malattie infettive II;   
+epidemiologia e profilassi delle malattie non infettive di importanza sociale I;   
+igiene dell'ambiente fisico e difesa ecologica;   
+clinica delle malattie dell'eta' evolutiva;   
+epidemiologia e profilassi delle malattie dell'eta' evolutiva;   
+igiene degli alimenti e della nutrizione;   
+auxologia normale e patologica;   
+psicologia dell'eta' evolutiva.   
+4° Anno:   
+servizi di medicina scolastica;   
+edilizia ed arredamento scolastico;   
+elementi di pedagogia;   
+assistenza parascolastica;   
+educazione sanitaria nella scuola;   
+legislazione scolastica;   
+igiene mentale.   
+  
+e) Orientamento di laboratorio.   
+  
+3° Anno:   
+epidemiologia e profilassi delle malattie infettive II;   
+epidemiologia e profilassi delle malattie non infettive di importanza sociale II;   
+igiene dell'ambiente fisico e difesa ecologica;   
+metodi e dosaggi fisico-chimici per il controllo dell'inquinamento ambientale I;   
+metodi e dosaggi biologici per il controllo dell'inquinamento ambientale;   
+strumentazione e metodologie chimico-cliniche ed ematologiche I; microscopia applicata all'igiene;   
+elementi di fisica tecnica applicata all'igiene;   
+accertamento diagnostico delle malattie infettive e parassitarie I.   
+4° Anno:   
+metodi e dosaggi fisico-chimici per il controllo dell'inquinamento ambientale II;   
+accertamento diagnostico delle malattie infettive e parassitarie II;   
+strumentazione e metodologie chimico-cliniche ed ematologiche II; ispezione e controllo degli alimenti;   
+elementi di informatica.   
+Gli esami relativi alle discipline svolte con insegnamento biennale verranno sostenuti alla fine di detti insegnamenti.   
+I corsi saranno completati da insegnamenti complementari scelti dalla scuola tra i seguenti:   
+Materie complementari:   
+automazione del sistema ospedaliero;   
+biochimica applicata;   
+climatologia;   
+diritto sanitario Internazionale;   
+elementi di medicina legale;   
+genetica umana;   
+geologia applicata all'igiene;   
+idrologia;   
+igiene dei climi tropicali;   
+igiene dei trasporti;   
+igiene militare;   
+igiene rurale;   
+istituzioni di matematiche;   
+micologia;   
+radioprotezionistica.   
+A giudizio della scuola possono essere indicati come complementari anche altri insegnamenti regolarmente attivati nei corsi di laurea di ciascuna universita'.   
+I corsi saranno integrati da un tirocinio pratico di durata comunque non inferiore a tre mesi, da svolgersi durante il secondo biennio.   
+Art. 420. - La frequenza alle lezioni e alle esercitazioni pratiche e' obbligatoria. Gli allievi che non conseguono le attestazioni di frequenza sul relativo libretto non potranno essere ammessi a sostenere le prove di esame.   
+Art. 421. - alla fine di ogni anno di corso gli iscritti per essere ammessi agli anni di corso successivi devono superare le prove di esame sulle materie impartite durante l'anno; per le materie a corso pluriennale l'esame sara' sostenuto alla fine dei corsi medesimi.   
+Al termine del corso di studi per il conseguimento del diploma di specialista in igiene e medicina preventiva, gli interessati dovranno superare l'esame di diploma consistente nella dissertazione scritta di un argomento attinente alla specializzazione.   
+Art. 422. - Le tasse e soprattasse sono le seguenti:   
+  
+tassa di immatricolazione. . . . . . . . . . . . . . . . . L. 5.000 tassa di iscrizione annuale . . . . . . . . . . . . . . . L. 18.000 soprattassa esami di profitto. . . . . . . . . . . . . . . L. 7.000 soprattassa esami di diploma . . . . . . . . . . . . . . . L. 3.000 tassa di diploma . . . . . . . . . . . . . . . . . . . . . L. 6.000   
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 2 agosto 1955
+### Dato a Roma, addi' 22 maggio 1978
 
-GRONCHI ROSSI
+LEONE PEDINI
 
-Visto, il Guardasigilli: MORO
+Visto, il Guardasigilli: BONIFACIO
 
-Registrato alla Corte dei conti, addi' 17 ottobre 1955
+Registrato alla Corte dei conti, addi' 23 aprile 1979
 
-Atti del Governo, registro n. 93, foglio n. 42. - CARLOMAGNO
+Registro n. 27 istruzione, foglio n. 24

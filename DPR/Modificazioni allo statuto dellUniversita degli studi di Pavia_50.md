@@ -1,150 +1,204 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 giugno 1967 n. 1499
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 settembre 1970 n. 1146
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 giugno 1967 n. 1499
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 settembre 1970 n. 1146
+=================================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Pavia.
 -----------------------------------------------------------------
 
-IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
-
-Veduto lo statuto dell'Universita' degli studi di Pavia, approvato con [regio decreto 14 ottobre 1926, n. 2130](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2130), e modificato con [regio decreto 13 ottobre 1927, n. 2229](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2229), e successive modificazioni;
-
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
-
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
-
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
-
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
-
-Veduta la proposta avanzata dalle autorita' accademiche dell'Universita' di Pavia intesa ad ottenere l'istituzione della facolta' di ingegneria presso l'universita' medesima;
-
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
-
-Sentito il parere del Consiglio superiore della pubblica istruzione;
-
-Sulla
------
-
-proposta del Ministro per la pubblica istruzione di concerto col Ministro per il tesoro; Decreta:
-
 Art. 1
 ------
 
+ IL PRESIDENTE DELLA REPUBBLICA   
   
-Presso l'Universita' degli studi di Pavia e' istituita la facolta' di ingegneria con il corso di laurea in ingegneria elettrotecnica.  
-
-Art. 2
-------
-
+Veduto lo statuto dell'Universita' degli studi di Pavia, approvato con [regio decreto 14 ottobre 1926, n. 2130](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2130), e modificato con [regio decreto 13 ottobre 1927, n. 2229](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2229), e successive modificazioni;   
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);   
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;   
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;   
+Sentito il parere del Consiglio superiore della pubblica istruzione;   
+Sulla proposta del Ministro per la pubblica istruzione;   
   
-Per tale facolta' sono assegnati i seguenti posti di ruolo:  
-a) sette posti di professore, prelevati sul contingente di cui all'[art. 1 della legge 24 febbraio 1967, n. 62](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1967-02-24;62~art1);  
-b) dieci posti di assistente, prelevati sul contingente di cui all'art. 18, secondo comma, della suddetta legge n. 62.  
-
-Art. 3
-------
-
+Decreta:   
   
-Le attribuzioni demandate dalle vigenti disposizioni di legge e di regolamento al consiglio di facolta', vengono esercitate da un apposito comitato composto di tre professori di ruolo e fuori ruolo, nominati dal Ministro per la pubblica istruzione, sentita la sezione prima del Consiglio superiore della pubblica istruzione.  
-I professori di ruolo che in base alle vigenti disposizioni verranno a far parte della predetta facolta', saranno aggregati al comitato anzidetto. Tale comitato cessera' dalle sue funzioni allorche' alla facolta' stessa risulteranno assegnati tre professori di ruolo.  
-In ogni caso detto comitato non potra' rimanere in carica oltre un triennio e, qualora allo scadere del triennio medesimo, non risultino assegnati alla facolta' tre professori di ruolo, il Ministro per la pubblica istruzione provvedera' alla nomina di un nuovo comitato con le stesse modalita' indicate nel primo comma del presente articolo.  
-
-Art. 4
-------
-
+Lo statuto dell'Universita' degli studi di Pavia, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
   
-Lo statuto dell'Universita' di Pavia, approvato e modificato con i decreti suindicati e' ulteriormente modificato come dal testo annesso al presente decreto - vistato dal Ministro per la pubblica istruzione - contenente le norme relative all'ordinamento del triennio di applicazione del corso di laurea in ingegneria elettrotecnica.  
-Il biennio propedeutico all'ingegneria, esistente presso la facolta' di scienze matematiche, fisiche e naturali dell'Universita' di Pavia passa a far parte integrante della facolta' di ingegneria istituita con il presente decreto.  
+Gli articoli 53, 54, 55, 56 e 57 relativi alla facolta' di ingegneria sono abrogati e sostituiti, con lo spostamento della numerazione degli articoli successivi, dai seguenti articoli relativi al riordinamento del corso di laurea in ingegneria elettrotecnica e all'istituzione di due nuovi corsi di laurea in ingegneria elettronica ed ingegneria civile (sottosezioni trasporti e idraulica).   
+  
+FACOLTA' DI INGEGNERIA   
+  
+Art. 53. - La facolta' di ingegneria dell'Universita' degli studi di Pavia conferisce le seguenti lauree:   
+in ingegneria elettrotecnica;   
+in ingegneria elettronica;   
+in ingegneria civile sottosezioni trasporti e idraulica.   
+Art. 54. - La durata del corso di studi per la laurea in ingegneria e' di cinque anni, divisi in un biennio di studi propedeutici ed in un triennio di studi di applicazione.   
+Presso la facolta' di ingegneria sono, inoltre, impartiti gli insegnamenti del biennio propedeutico relativi ai corsi di ingegneria chimica e meccanica.   
+Art. 55. - E' titolo di ammissione al biennio propedeutico quello previsto dalle vigenti disposizioni di legge.   
+Art. 56. - Sono insegnamenti del biennio:   
+1° Anno:   
+\* 1) Analisi matematica I;   
+\* 2) Geometria;   
+\* 3) Fisica I;   
+\* 4) Chimica;   
+\* 5) Disegno.   
+2° Anno:   
+\* 1) Analisi matematica II;   
+\* 2) Fisica II;   
+\* 3) Meccanica razionale.   
+Corso di laurea in ingegneria elettrotecnica:   
+\* 4) Elettrotecnica;   
+5) Tecnologie generali dei materiali;   
+6) Calcolo numerico e programmazione.   
+Corso di laurea in ingegneria elettronica:   
+\* 4) Elettrotecnica;   
+\* 5) Fisica tecnica;   
+6) Calcolo numerico e programmazione.   
+Corso di laurea in ingegneria civile:   
+4) Disegno II;   
+\* 5) Elettrotecnica (ed impianti elettrici);   
+6) Calcolo numerico e programmazione.   
+Corso di laurea in ingegneria chimica:   
+4) Complementi di chimica generale ed inorganica;   
+5) Chimica organica;   
+\* 6) Elettrotecnica (ed impianti elettrici).   
+Corso di laurea in ingegneria meccanica:   
+4) Disegno degli elementi di macchine;   
+5) Tecnologia meccanica;   
+6) Chimica applicata.   
+Gli studenti del primo anno di corso potranno ottenere l'iscrizione al 2° anno di corso qualora abbiano superato almeno due fra i quattro seguenti esami: Analisi matematica I; geometria I, fisica I, chimica.  
+Al termine del secondo anno di corso, lo studente, per essere iscritto al terzo anno, oltre che essere in possesso delle attestazioni di frequenza di tutte le discipline previste per il primo e secondo anno, dovra' aver superato i relativi esami, fatta eccezione degli eventuali insegnamenti aggiuntivi. Lo studente tuttavia che sia in debito, oltreche' degli esami per i detti insegnamenti aggiunti, anche di un solo esame, a sua scelta, del secondo anno di corso, potra' ugualmente essere iscritto al terzo anno, con l'obbligo di superare tale esame prima di sostenere qualsiasi esame del triennio di applicazione.   
+I due esami di fisica comprendono la parte riguardante le relative esercitazioni.   
+Art. 57. - Per il corso di laurea in ingegneria elettrotecnica sono insegnamenti del triennio:   
+\* 1) Fisica tecnica;   
+\* 2) Idraulica;   
+\* 3) Scienza delle costruzioni;   
+\* 4) Meccanica applicata alle macchine;   
+\* 5) Macchine elettriche;   
+\* 6) Impianti elettrici I;   
+\* 7) Misure elettriche;   
+\* 8) Elettronica applicata;   
+\* 9) Macchine;   
+10) Metodi matematici per l'ingegneria;   
+11) Chimica applicata;   
+12) Costruzione di macchine elettriche;   
+13) Controlli automatici.   
+Indirizzo A:   
+14) Tecnica delle costruzioni;   
+15) Impianti elettrici II;   
+16) Centrali elettriche;   
+17) Economia ed organizzazione aziendale;   
+18) Impianti speciali idraulici.   
+Indirizzo B:   
+14) Costruzione di macchine;   
+15) Costruzione di apparecchi elettrici;   
+16) Trazione elettrica;   
+17) Ergotecnica;   
+18) Macchine elettriche speciali.   
+Indirizzo C:   
+14) Campi elettromagnetici e circuiti;   
+15) Radiotecnica;   
+16) Calcolatori elettronici;   
+17) Dispositivi elettronici;   
+18) Igiene applicata all'ingegneria.   
+Art. 58. - Per il corso di laurea in ingegneria elettronica sono insegnamenti del triennio:   
+\* 1) Scienza delle costruzioni;   
+\* 2) Meccanica delle macchine e macchine;   
+\* 3) Campi elettromagnetici e circuiti;   
+\* 4) Elettronica applicata;   
+\* 5) Misure elettriche;   
+\* 6) Comunicazioni elettriche;   
+\* 7) Radiotecnica;   
+\* 8) Controlli automatici;   
+9) Complementi di fisica;   
+10) Metodi matematici per l'ingegneria;   
+11) Teoria dei sistemi;   
+12) Dispositivi elettronici.   
+Indirizzo A:   
+13) Fisica dei semiconduttori;   
+14) Materiali e tecnologie elettroniche;   
+15) Chimica fisica;   
+16) Elettronica quantistica;   
+17) Calcolatori elettronici;   
+18) Laboratorio componenti.   
+Indirizzo B:   
+13) Teoria delle reti elettriche;   
+14) Strumentazione elettronica;   
+15) Fenomeni aleatori e rumore;   
+16) Teoria dell'informazione;   
+17) Microonde;   
+18) Laboratorio circuiti.   
+Indirizzo C:   
+13) Teoria dell'informazione;   
+14) Elettronica biologica;   
+15) Sistemi di regolazione;   
+16) Calcolatori elettronici;   
+17) Macchine elettriche;   
+18) Economia ed organizzazione aziendale.   
+Art. 59. - Per il corso di laurea in ingegneria civile sono insegnamenti del triennio:   
+\* 1) Scienza delle costruzioni;   
+\* 2) Meccanica applicata alle macchine e macchine;   
+\* 3) Fisica tecnica;   
+\* 4) Idraulica;   
+\* 5) Tecnologia dei materiali e chimica applicata;   
+\* 6) Tecnica delle costruzioni;   
+\* 7) Architettura tecnica;   
+\* 8) Topografia;   
+\*\* 9) Costruzioni idrauliche;   
+\* 10) Costruzioni di strade, ferrovie ed aeroporti;   
+11) Tecnica urbanistica;   
+12) Istituzioni di scienze sociali ed economiche.   
+I) Per la sezione trasporti.   
+13) Tecnica ed economia dei trasporti.   
+a) Indirizzo territoriale:   
+14) Tecnica urbanistica II;   
+15) Pianificazione territoriale;   
+16) Amministrazione urbanistica;   
+17) Geologia (ingegneria del suolo);   
+18) Tecnica del traffico.   
+b) Indirizzo tecnico operativo:   
+14) Geologia tecnica e geotecnica;   
+15) Scienza delle costruzioni II;   
+16) Costruzioni di ponti e grandi strutture;   
+17) Macchine ed organizzazione dei cantieri;   
+18) Materie giuridiche e legislazione dei lavori pubblici (semestrale);   
+19) Estimo civile (semestrale).   
+II) Per la sezione idraulica:   
+13) Materie giuridiche e legislazione dei lavori pubblici (semestrale);   
+14) Ingegneria sanitaria.   
+a) Per l'indirizzo conservazione del suolo:   
+15) Idrologia tecnica;   
+16) Geologia (ingegneria del suolo);   
+17) Geotecnica;   
+18) Bonifica integrale;.   
+19) Protezione delle coste (semestrale).   
+b) Per l'indirizzo ingegneria sanitaria:   
+15) Chimica delle acque;   
+16) Idraulica II;   
+17) Acquedotti e fognature;   
+18) Tecnologia delle acque di approvvigionamento e di rifiuto;   
+19) Inquinamento dell'ambiente.   
+  
+\* Gli insegnamenti segnati con un asterisco sono fondamentali su piano nazionale.   
+\*\* Fondamentale su piano nazionale per la sezione idraulica.   
+\*\*\* Fondamentale su piano nazionale per la sezione trasporti.   
+  
+Art. 60. - Per essere ammesso all'esame di laurea lo studente dovra' aver seguito gli insegnamenti e superato gli esami secondo il piano di studio approvato dal consiglio di facolta'.   
+Art. 61. - L'esame di laurea consiste in una prova orale intesa ad accertare la organica preparazione di base del candidato e le sue cognizioni tecniche e pratiche nel ramo dell'ingegneria prescelto.   
+Durante tale prova potranno essere discussi elaborati e un'eventuale tesi di laurea.   
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 9 giugno 1967
+### Dato a Roma, addi' 19 settembre 1970
 
-SARAGAT GUI - COLOMBO
+SARAGAT MISASI
 
 Visto, il Guardasigilli: REALE
 
-Registrato alla Corte dei conti, addi' 16 aprile 1968
+Registrato alla Corte dei conti, addi' 9 gennaio 1971
 
-Atti del Governo, registro n. 219, foglio n. 14. - GRECO
-
-Allegato
-
-TESTO DELLE MODIFICHE DELLO STATUTO DELLA UNIVERSITA' DI PAVIA, RELATIVO ALL'ISTITUZIONE DELLA FACOLTA' DI INGEGNERIA   
-  
-Art. 1. - All'elenco delle facolta' che comprende la Universita' di Pavia e' aggiunta la seguente:   
-Facolta' di ingegneria.   
-  
-Dopo l'art. 52 e con il conseguente spostamento della successiva numerazione sono inseriti i seguenti nuovi articoli relativi all'istituzione del triennio di applicazione del corso di laurea in ingegneria elettrotecnica.   
-  
-Art. 53. - Gli insegnamenti del triennio (3°, 4° e 5° anno) si distinguono in:   
-  
-A) Obbligatori sul piano nazionale:   
-  
-1. Scienza delle costruzioni;   
-2. Meccanica applicata alle macchine I;   
-3. Fisica tecnica;   
-4. Elettrotecnica;   
-5. Idraulica;   
-6. Misure elettriche;   
-7. Macchine;   
-8. Macchine elettriche;   
-9. Impianti elettrici I;   
-10. Elettronica applicata.   
-  
-B) Obbligatori sul piano della facolta':   
-  
-11. Complementi di analisi matematica;   
-12. Economia ed organizzazione aziendale;   
-13. Tecnica delle costruzioni;   
-14. Costruzioni di macchine elettriche;   
-15. Controlli automatici.   
-  
-C) Gruppi di materie a scelta dello studente:   
-  
-Indirizzo impianti:   
-  
-16. Impianti elettrici II;   
-17. Centrali elettriche;   
-18 e 19, a scelta tra:   
-Trazione elettrica;   
-Campi elettromagnetici e circuiti;   
-Elettrochimica;   
-Radiotecnica;   
-Analisi numerica;   
-Ergotecnica;   
-Igiene applicata all'ingegneria e ingegneria sanitaria   
-Teoria ed applicazioni delle macchine calcolatrici;   
-  
-Indirizzo macchine:   
-  
-16. Costruzione di macchine;   
-17. Trazione elettrica;   
-18 e 19, a scelta tra:   
-Macchine elettriche speciali;   
-Costruzione di apparecchi elettrici;   
-Campi elettromagnetici e circuiti;   
-Impianti elettrici II;   
-Analisi numerica;   
-Meccanica applicata alle macchine II;   
-Ergotecnica;   
-Teoria ed applicazioni delle macchine calcolatrici.   
-  
-Art. 54. La scelta dello studente dovra' comunque cadere sugli insegnamenti effettivamente impartiti nei singoli anni accademici nell'ambito della facolta'.   
-  
-Art. 55. - Per essere ammesso all'esame di laurea lo studente dovra' aver superato tutti gli insegnamenti obbligatori del triennio di applicazione e quelli da lui scelti secondo le norme indicate nell'articolo precedente.   
-  
-Art. 56. - L'esame di laurea comprende due prove scritte (una delle quali a indirizzo specifico e una prova orale) agli studenti iscritti al 5° anno, che abbiano superato gli esami degli anni precedenti con media elevata, e' consentito di sostituire la prova scritta a indirizzo specifico con una tesi anche di carattere teorico.   
-La prova orale verte sulla discussione delle scritte sui progetti svolti nel quinto anno e su argomenti intesi ad accertare la organica preparazione di base del candidato e le sue cognizioni tecniche e pratiche nel ramo dell'ingegneria elettrotecnica.   
-  
-  
-Visto, d'ordine del Presidente della Repubblica   
-  
-Il Ministro per la pubblica istruzione   
-GUI   
+Atti del Governo, registro n. 240, foglio n. - CARUSO

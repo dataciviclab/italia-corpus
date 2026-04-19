@@ -1,77 +1,22 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 ottobre 1973 n. 1160
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 24 settembre 1964 n. 1171
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 ottobre 1973 n. 1160
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 24 settembre 1964 n. 1171
+=================================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Bari.
 ----------------------------------------------------------------
-
-IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
-
-Veduto lo statuto dell'Universita' degli studi di Bari, approvato con [regio decreto 14 ottobre 1926, n. 2134](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2134), e modificato con [regio decreto 13 ottobre 1927, n. 2169](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2169), e successive modificazioni;
-
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
-
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
-
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
-
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
-
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
-
-Sentito il parere del Consiglio superiore della pubblica istruzione;
-
-Sulla proposta del Ministro per la pubblica istruzione;
-
-Decreta:
-
-Lo statuto dell'Universita' degli studi di Bari, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
-
-Il quinto comma dell'art. 187, relativo alla scuola di specializzazione in chirurgia, e' modificato nel senso che il numero degli iscritti e' aumentato da trentacinque a cinquanta per l'intero corso.
-
-Il quinto comma dell'art. 189, relativo alla scuola di specializzazione in ostetricia e ginecologia, e' modificato nel senso che il numero degli iscritti e' aumentato da quaranta a cinquanta per l'intero corso.
-
-Il quarto comma dell'art. 198, relativo alla scuola di specializzazione in urologia, e' modificato nel senso che il numero degli iscritti e' aumentato da dieci a quindici per l'intero corso.
-
-Art. 199 - all'elenco degli insegnamenti del 3° anno di corso della scuola di specializzazione in oncologia e' aggiunto quello di "Diagnostica e terapia dei tumori".
-
-Il quarto comma dell'art. 228, relativo alla scuola di specializzazione in malattie dell'apparato cardiovascolare, e abrogato e sostituito dal seguente:
-
-"Non saranno consentite abbreviazioni di corso, fatta eccezione per quei candidati che abbiano frequentato gli insegnamenti del 1° anno di corso della scuola di specializzazione in medicina interna unitamente a due insegnamenti del primo anno della scuola di specializzazione in malattie dell'apparato cardiovascolare.
-
-Ai candidati in possesso di tali requisiti sara' concessa l'iscrizione al 2° anno di corso".
-
-Il settimo comma dell'art. 229, relativo alla scuola di specializzazione in cardiochirurgia, e' abrogato e sostituito dal seguente:
-
-"La scuola ha sede presso l'istituto di cardiochirurgia".
-
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
-
-Dato a Lussemburgo, ambasciata d'Italia, addi' 27 ottobre 1973
-
-LEONE
-
-MALFATTI
-
-Visto, il Guardasigilli: ZAGARI
-
-Registrato
-----------
-
-alla Corte dei conti, addi' 28 ottobre 1974 Atti di Governo, registro n. 6, foglio n. 46 - SCIARRETTA
 
 Art. 1
 ------
 
  IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Bari, approvato con [regio decreto 14 ottobre 1926, n. 2134](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2134), e modificato con [regio decreto 13 ottobre 1927, n. 2169](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2169), e successive modificazioni;  
+Veduto lo statuto dell'Universita' degli studi di Bari, approvato con [regio decreto 14 ottobre 1926, n. 2134](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2134) e modificato con [regio decreto 13 ottobre 1927, n. 2169](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2169) e successive modificazioni;  
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652) e successive modificazioni;  
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
 Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
 Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
 Sentito il parere del Consiglio superiore della pubblica istruzione;  
@@ -81,26 +26,78 @@ Decreta:
   
 Lo statuto dell'Universita' degli studi di Bari, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
   
-Il quinto comma dell'art. 187, relativo alla scuola di specializzazione in chirurgia, e' modificato nel senso che il numero degli iscritti e' aumentato da trentacinque a cinquanta per l'intero corso.  
-Il quinto comma dell'art. 189, relativo alla scuola di specializzazione in ostetricia e ginecologia, e' modificato nel senso che il numero degli iscritti e' aumentato da quaranta a cinquanta per l'intero corso.  
-Il quarto comma dell'art. 198, relativo alla scuola di specializzazione in urologia, e' modificato nel senso che il numero degli iscritti e' aumentato da dieci a quindici per l'intero corso.  
-Art. 199 - all'elenco degli insegnamenti del 3° anno di corso della scuola di specializzazione in oncologia e' aggiunto quello di "Diagnostica e terapia dei tumori".  
-Il quarto comma dell'art. 228, relativo alla scuola di specializzazione in malattie dell'apparato cardiovascolare, e abrogato e sostituito dal seguente:  
-"Non saranno consentite abbreviazioni di corso, fatta eccezione per quei candidati che abbiano frequentato gli insegnamenti del 1° anno di corso della scuola di specializzazione in medicina interna unitamente a due insegnamenti del primo anno della scuola di specializzazione in malattie dell'apparato cardiovascolare.  
-Ai candidati in possesso di tali requisiti sara' concessa l'iscrizione al 2° anno di corso".  
-Il settimo comma dell'art. 229, relativo alla scuola di specializzazione in cardiochirurgia, e' abrogato e sostituito dal seguente:  
-"La scuola ha sede presso l'istituto di cardiochirurgia".  
+Art. 36, (relativo alle norme sulla propedeuticita' della Facolta' di Farmacia) i numeri 6), 7) e 8) sono abrogati e sostituiti dai seguenti:  
+6) la Chimica generale ed inorganica rispetto alle Esercitazioni di Chimica farmaceutica e tossicologica I corso;  
+7) le Esercitazioni di Chimica farmaceutica e tossicologica I corso rispetto alle Esercitazioni di chimica farmaceutica e tossicologica II corso; le Esercitazioni di chimica farmaceutica e tossicologica II corso rispetto alle Esercitazioni di chimica farmaceutica e tossicologica III corso;  
+8) la Chimica generale ed inorganica e la Chimica organica rispetto alla Chimica farmaceutica e tossicologica 1ª e 2ª parte, ed alle Esercitazioni di chimica farmaceutica e tossicologica II corso;  
+9) la Chimica farmaceutica e tossicologia 1ª e 2ª parte e la Farmacologia e Farmacognosia rispetto alla Tecnica e legislazione farmaceutica;  
+10) la Chimica organica rispetto alla Biochimica applicata ed alla Chimica farmaceutica applicata.  
+  
+Art. 52. - Agli insegnamenti complementari del corso di laurea in Lettere sono aggiunti quelli di:  
+Indologia;  
+Filologia semitica;  
+Estetica;  
+Storia della filosofia antica;  
+Storia della filosofia medioevale;  
+Storia delle dottrine economiche;  
+Storia contemporanea;  
+Storia della filosofia moderna, e contemporanea;  
+Sociologia;  
+Etnologia;  
+Storia della lingua latina;  
+Dialettologia greca;  
+Letteratura anglo-americana;  
+Storia dello spettacolo e del teatro;  
+Storia dell'arte bizantina;  
+Islamistica;  
+Lingua e letteratura turca.  
+Sono soppressi gli insegnamenti di "Sanscrito" e di "Ebraico e lingue semitiche comparate".  
+  
+Art. 56. - Agli insegnamenti complementari del corso di laurea in Filosofia sono aggiunti quelli di:  
+16) Storia contemporanea;  
+17) Storia della filosofia moderna e contemporanea;  
+18) Sociologia;  
+19) Etnologia.  
+E' soppresso l'insegnamento complementare di "Storia della pedagogia italiana".  
+  
+Art. 60. - L'istituto di Storia dell'arte ed archeologia annesso alla Facolta' di lettere e filosofia e' soppresso. Vengono presso la stessa Facolta' istituiti i seguenti istituti: "Istituto di Storia dell'arte medioevale e moderna" e di "Istituto di Archeologia e storia dell'arte greca e romana".  
+  
+Art. 62. - Agli insegnamenti complementari del corso di laurea in materie letterarie sono aggiunti quelli di:  
+Lingua e letteratura albanese;  
+Storia delle tradizioni popolari;  
+Glottologia.  
+  
+Art. 64. - Agli insegnamenti complementari del corso di laurea in pedagogia e' aggiunto quello di:  
+Storia delle tradizioni popolari.  
+  
+Art. 79. - Agli insegnamenti complementari del corso di laurea in Matematica per l'indirizzo didattico, e' aggiunto quello di:  
+24) Astronomia.  
+  
+Art. 83. - Agli insegnamenti complementari del corso di laurea in Chimica (indirizzo organico-biologico) sono aggiunti quelli di:  
+Chimica teorica;  
+Radiochimica;  
+Storia della chimica;  
+Strutturistica chimica.  
+  
+Art. 84, (relativo alle norme sulla propedeuticita' del corso di laurea in Chimica) e' aggiunto il seguente comma:  
+a) Non potra' essere accordata l'iscrizione, ne' concessa la frequenza al corso di "Esercitazioni di chimica, organica e di analisi organica" agli studenti che non hanno superato l'esame di "Chimica organica I".  
+  
+Art. 90. - Agli insegnamenti complementari del corso di laurea in Scienze geologiche e' aggiunto quello di:  
+"Geofisica mineraria".  
+  
+Art. 94. - Agli istituti annessi alla Facolta' di scienze matematiche, fisiche e naturali e' aggiunto quello di:  
+"Seminario di studi chimici".  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Lussemburgo, ambasciata d'Italia, addi' 27 ottobre 1973
+### Date a Roma, addi' 24 settembre 1964
 
-LEONE MALFATTI
+Per il Presidente della Repubblica Il Presidente del Senato MERZAGORA GUI
 
-Visto, il Guardasigilli: ZAGARI
+Visto, il Guardasigilli: REALE
 
-Registrato alla Corte dei conti, addi' 28 ottobre 1974
+Registrato alla Corte dei conti, addi' 12 novembre 1964
 
-Atti di Governo, registro n. 6, foglio n. 46 - SCIARRETTA
+Atti del Governo, registro n. 188, foglio n. 72. - DI PRETORO

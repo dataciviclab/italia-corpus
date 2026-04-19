@@ -1,232 +1,43 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 25 maggio 1976 n. 697
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 febbraio 1973 n. 182
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 25 maggio 1976 n. 697
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 febbraio 1973 n. 182
+===============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Catania.
 -------------------------------------------------------------------
 
-IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
-
-Veduto lo statuto dell'Universita' degli studi di Catania, approvato con [regio decreto 20 aprile 1939, n. 1073](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1073) e modificato con [regio decreto 16 ottobre 1940, n. 1527](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-16;1527), e successive modificazioni;
-
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
-
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071) convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
-
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
-
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
-
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Catania e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;
-
-Sentito il parere del Consiglio superiore della pubblica istruzione;
-
-Sulla proposta del Ministro per la pubblica istruzione;
-
-Decreta:
-
-Lo statuto dell'Universita' degli studi di Catania, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
-
-Art. 176 - all'elenco delle scuole di specializzazione annesse alla facolta' di medicina e chirurgia e' aggiunta la scuola di specializzazione in diabetologia e malattie del ricambio.
-
-Dopo l'art. 264, e con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi alla istituzione della scuola di specializzazione in diabetologia e malattie del ricambio.
-
-Scuola di specializzazione in diabetologia e malattie del ricambio
-
-Art. 265. - La scuola di specializzazione in diabetologia e malattie del ricambio conferisce il diploma di specialista in diabetologia e malattie del ricambio. Gli anni necessari per il conseguimento del diploma sono tre.
-
-Art. 266. - Il numero complessivo massimo degli iscritti alla scuola e' di 15 unita' ripartite nei tre anni di corso. La selezione dei candidati aspiranti all'ammissione alla scuola avverra' sulla base dei titoli ed esami.
-
-Art. 267. - Le materie del corso sono le seguenti:
-
-1) anatomia ed citomorfologia funzionale;
-
-2) auxologia ed auxopatie metaboliche (complementare);
-
-3) clinica del diabete e delle malattie del ricambio (biennale);
-
-4) dietologia del diabete e delle malattie del ricambio;
-
-5) elementi di biometria e statistica (complementare);
-
-6) elementi di genetica del diabete e delle malattie del ricambio;
-
-7) elementi di psicologia nel diabete e nelle malattie del ricambio (complementare);
-
-8) farmacologia e terapia del diabete e delle malattie del ricambio;
-
-9) fisiopatologia clinica del diabete e delle malattie del ricambio;
-
-10) fisiopatologia clinica ostetrico-ginecologica del diabete e delle malattie del ricambio (complementare);
-
-11) medicina sociale e preventiva del diabete e delle malattie del ricambio;
-
-12) metodi di analisi chimica e quantitativa;
-
-13) neuropatologia del diabete e delle malattie del ricambio;
-
-14) oftalmologia nel diabete e nelle malattie del ricambio (complementare);
-
-15) patologia molecolare;
-
-16) patologia sperimentale metabolica;
-
-17) semeiotica fisica e funzionale del diabete e delle malattie del ricambio;
-
-18) terapia chirurgica nel diabete e nelle malattie del ricambio (complementare).
-
-Art. 268. - Le materie sopra elencate sono cosi' distribuite:
-
-1° Anno:
-
-1) anatomia e citomorfologia funzionale;
-
-2) elementi di genetica del diabete e delle malattie del ricambio;
-
-3) metodi di analisi chimica e quantitativa;
-
-4) patologia molecolare;
-
-5) fisiopatologia clinica del diabete e delle malattie del ricambio;
-
-6) elementi di biometria e statistica (complementare);
-
-7) auxologia e auxopatie metaboliche (complementare).
-
-2° Anno:
-
-1) patologia sperimentale metabolica;
-
-2) semeiotica fisica e funzionale del diabete e delle malattie del ricambio;
-
-3) clinica del diabete e delle malattie del ricambio (I);
-
-4) medicina sociale e preventiva del diabete e delle malattie del ricambio;
-
-5) neuropatologia del diabete e delle malattie del ricambio (complementare);
-
-6) fisiopatologia e clinica ostetrico-ginecologica del diabete e delle malattie del ricambio (complementare).
-
-3° Anno:
-
-1) clinica del diabete e delle malattie del ricambio (II);
-
-2) farmacologia e terapia medica del diabete e delle malattie del ricambio;
-
-3) dietologia del diabete e delle malattie del ricambio;
-
-4) elementi di psicologia nel diabete e nelle malattie del ricambio (complementare);
-
-5) terapia chirurgica nel diabete e nelle malattie del ricambio (complementare);
-
-6) oftalmologia nel diabete e nelle malattie metaboliche (complementare).
-
-Art. 269. - La frequenza alle lezioni ed alle esercitazioni e' obbligatoria per tutti gli iscritti.
-
-L'internato e' obbligatorio durante tutti e tre gli anni di corso sotto forma di permanenza costante durante le ore di attivita' scientifica ed assistenziale, con presenza giornaliera nei vari reparti.
-
-Art. 270. - Il direttore e gli insegnanti della scuola si accertano durante l'anno accademico dell'operosita' scolastica degli allievi con frequenti interrogazioni e vigilando sulle esercitazioni e sui turni di servizio interno.
-
-Art. 271. - Alla fine del corso l'allievo, inoltre, dovra' sostenere un esame generale di profitto.
-
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
-
-Dato a Roma, addi' 25 maggio 1976
-
-LEONE
-
-MALFATTI
-
-Visto, il Guardasigilli: BONIFACIO
-
-Registrato
-----------
-
-alla Corte dei conti, addi' 2 ottobre 1976 Atti di Governo, registro n. 9, foglio n. 51
-
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA   
+ IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Catania, approvato con [regio decreto 20 aprile 1939, n. 1073](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1073) e modificato con [regio decreto 16 ottobre 1940, n. 1527](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-16;1527), e successive modificazioni;   
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071) convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;   
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Catania e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;   
-Sentito il parere del Consiglio superiore della pubblica istruzione;   
-Sulla proposta del Ministro per la pubblica istruzione;   
+Veduto lo statuto dell'Universita', degli studi di Catania, approvato con [regio decreto 20 aprile 1939, n. 1073](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1073) e modificato con [regio decreto 16 ottobre 1940, n. 1527](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-16;1527), e successive modificazioni;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
+Sentito il parere del Consiglio superiore della pubblica istruzione;  
+Sulla proposta del Ministro per la pubblica istruzione;  
   
-Decreta:   
+Decreta:  
   
-Lo statuto dell'Universita' degli studi di Catania, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
-Art. 176 - all'elenco delle scuole di specializzazione annesse alla facolta' di medicina e chirurgia e' aggiunta la scuola di specializzazione in diabetologia e malattie del ricambio.   
-Dopo l'art. 264, e con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi alla istituzione della scuola di specializzazione in diabetologia e malattie del ricambio.   
-  
-Scuola di specializzazione in diabetologia e malattie del ricambio   
-Art. 265. - La scuola di specializzazione in diabetologia e malattie del ricambio conferisce il diploma di specialista in diabetologia e malattie del ricambio. Gli anni necessari per il conseguimento del diploma sono tre.   
-Art. 266. - Il numero complessivo massimo degli iscritti alla scuola e' di 15 unita' ripartite nei tre anni di corso. La selezione dei candidati aspiranti all'ammissione alla scuola avverra' sulla base dei titoli ed esami.   
-Art. 267. - Le materie del corso sono le seguenti:   
-1) anatomia ed citomorfologia funzionale;   
-2) auxologia ed auxopatie metaboliche (complementare);   
-3) clinica del diabete e delle malattie del ricambio (biennale);   
-4) dietologia del diabete e delle malattie del ricambio;   
-5) elementi di biometria e statistica (complementare);   
-6) elementi di genetica del diabete e delle malattie del ricambio;   
-7) elementi di psicologia nel diabete e nelle malattie del ricambio (complementare);   
-8) farmacologia e terapia del diabete e delle malattie del ricambio;   
-9) fisiopatologia clinica del diabete e delle malattie del ricambio;   
-10) fisiopatologia clinica ostetrico-ginecologica del diabete e delle malattie del ricambio (complementare);   
-11) medicina sociale e preventiva del diabete e delle malattie del ricambio;   
-12) metodi di analisi chimica e quantitativa;   
-13) neuropatologia del diabete e delle malattie del ricambio;   
-14) oftalmologia nel diabete e nelle malattie del ricambio (complementare);   
-15) patologia molecolare;   
-16) patologia sperimentale metabolica;   
-17) semeiotica fisica e funzionale del diabete e delle malattie del ricambio;   
-18) terapia chirurgica nel diabete e nelle malattie del ricambio (complementare).   
-Art. 268. - Le materie sopra elencate sono cosi' distribuite:   
-1° Anno:   
-1) anatomia e citomorfologia funzionale;   
-2) elementi di genetica del diabete e delle malattie del ricambio;   
-3) metodi di analisi chimica e quantitativa;   
-4) patologia molecolare;   
-5) fisiopatologia clinica del diabete e delle malattie del ricambio;   
-6) elementi di biometria e statistica (complementare);   
-7) auxologia e auxopatie metaboliche (complementare).   
-2° Anno:   
-1) patologia sperimentale metabolica;   
-2) semeiotica fisica e funzionale del diabete e delle malattie del ricambio;   
-3) clinica del diabete e delle malattie del ricambio (I);   
-4) medicina sociale e preventiva del diabete e delle malattie del ricambio;   
-5) neuropatologia del diabete e delle malattie del ricambio (complementare);   
-6) fisiopatologia e clinica ostetrico-ginecologica del diabete e delle malattie del ricambio (complementare).   
-3° Anno:   
-1) clinica del diabete e delle malattie del ricambio (II);   
-2) farmacologia e terapia medica del diabete e delle malattie del ricambio;   
-3) dietologia del diabete e delle malattie del ricambio;   
-4) elementi di psicologia nel diabete e nelle malattie del ricambio (complementare);   
-5) terapia chirurgica nel diabete e nelle malattie del ricambio (complementare);   
-6) oftalmologia nel diabete e nelle malattie metaboliche (complementare).   
-Art. 269. - La frequenza alle lezioni ed alle esercitazioni e' obbligatoria per tutti gli iscritti.   
-L'internato e' obbligatorio durante tutti e tre gli anni di corso sotto forma di permanenza costante durante le ore di attivita' scientifica ed assistenziale, con presenza giornaliera nei vari reparti.   
-Art. 270. - Il direttore e gli insegnanti della scuola si accertano durante l'anno accademico dell'operosita' scolastica degli allievi con frequenti interrogazioni e vigilando sulle esercitazioni e sui turni di servizio interno.   
-Art. 271. - Alla fine del corso l'allievo, inoltre, dovra' sostenere un esame generale di profitto.   
+Lo statuto dell'Universita' degli studi di Catania, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+Art. 24, relativo ai seminari annessi alla facolta' di economia e commercio e' abrogato e sostituito dal seguente:  
+Alla facolta' di economia e commercio e' annesso il seguente istituto scientifico, ordinato come seminario, ai sensi dell'art. 23 del regolamento generale universitario:  
+1) Seminario economico. Il detto istituto ha lo scopo di potenziare la cultura specializzata di studenti e di studiosi addestrandoli all'indagine scientifica mediante corsi di lezioni, esercitazioni pratiche e conferenze, tenute, oltre che dai docenti della facolta', da illustri cultori italiani e stranieri delle discipline insegnate nella facolta' e discipline affini, nonche' di contribuire al progresso degli studi con ricerche, pubblicazioni ed altre iniziative che verranno ritenute opportune.  
   
 
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti, di osservarlo e di farlo osservare.
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 25 maggio 1976
+### Dato a Roma, addi' 2 febbraio 1973
 
-LEONE MALFATTI
+LEONE SCALFARO
 
-Visto, il Guardasigilli: BONIFACIO
+Visto, il Guardasigilli: GONELLA
 
-Registrato alla Corte dei conti, addi' 2 ottobre 1976
+Registrato alla Corte dei conti, addi' 8 maggio 1973
 
-Atti di Governo, registro n. 9, foglio n. 51
+Atti di Governo, registro n. 258, foglio n. 18. - VALENTINI

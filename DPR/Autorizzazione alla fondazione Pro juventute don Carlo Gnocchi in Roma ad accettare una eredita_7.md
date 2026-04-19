@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 13 novembre 1985 n. 914
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 25 novembre 1977 n. 983
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 13 novembre 1985 n. 914
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 25 novembre 1977 n. 983
 ===============================================================
 
 Autorizzazione alla fondazione "Pro juventute don Carlo Gnocchi", in Roma, ad accettare una eredita'.
@@ -10,11 +10,10 @@ Autorizzazione alla fondazione "Pro juventute don Carlo Gnocchi", in Roma, ad ac
 Art. 1
 ------
 
-n.
+N.
 
-914. Decreto del Presidente della Repubblica 13 novembre 1985, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare, col beneficio d'inventario, l'eredita', consistente in beni immobili per un valore peritale complessivo di L. 11.500.000, elevato dall'ufficio tecnico erariale di Milano a L. 14.000.000, disposta dalla sig.ra Pirovano Anna Maria con testamento olografo 22 settembre 1981, pubblicato in data 20 ottobre 1981, n. 5672/122 di repertorio, a rogito dott. Ulderico Brambilla, notaio in Milano, registrato a  
-Milano il 27 ottobre 1981, al n. 19477.  
+983. Decreto del Presidente della Repubblica 25 novembre 1977, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare, col beneficio d'inventario, l'eredita' disposta dalla sig.ra Coccoz Jeanne ved. Brivio con testamento olografo 21 gennaio 1970, pubblicato in data 24 maggio 1973, n. 43257 di repertorio, n. 4022 di raccolta, a rogito dott. Cipollone Danilo, notaio in Milano, registrato a Milano l'8 giugno 1973, al n. 10387, consistente in titoli azionari e danaro, come risulta dal prospetto della consistenza redatto dal commercialista dott. Egidio Carenini, e in un immobile sito in Milano, via Lattanzio, 77, iscritto al nuovo catasto edilizio urbano alla partita 133739, mappale 14456, il tutto per un valore presunto di L. 21.654.110 pari alla quota di 40/60 spettante alla fondazione.  
   
-Visto, il Guardasigilli: MARTINAZZOLI  
-Registrato alla Corte dei conti, addi' 6 febbraio 1986  
-Registro n. 1 Presidenza, foglio n. 399
+Visto, il Guardasigilli: BONIFACIO  
+Registrato alla Corte dei conti, addi' 28 dicembre 1977  
+Registro n. 9 Presidenza, foglio n. 284

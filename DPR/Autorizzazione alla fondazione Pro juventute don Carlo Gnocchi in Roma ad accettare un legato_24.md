@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 12 febbraio 1985 n. 187
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 01 agosto 1978 n. 623
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 12 febbraio 1985 n. 187
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 01 agosto 1978 n. 623
+=============================================================
 
 Autorizzazione alla fondazione "Pro juventute don Carlo Gnocchi", in Roma, ad accettare un legato.
 --------------------------------------------------------------------------------------------------
@@ -12,8 +12,12 @@ Art. 1
 
 N.
 
-187. Decreto del Presidente della Repubblica 12 febbraio 1985, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare il legato, consistente nel 50% degli immobili siti in Besana Brianza, frazione Montesiro, valore attribuito con perizia di parte L. 78.000.000 elevato dall'ufficio tecnico erariale di Milano a lire 100.000.000, disposto dalla sig.ra Margherita Pilotti a favore della Pro juventute don Carlo Gnocchi, che si identifica con la fondazione medesima, come si evince dal verbale del consiglio di amministrazione della stessa del 20 novembre 1981, con testamento olografo 15 dicembre 1980, pubblicato in data 5 marzo 1981, n. 52862/23369 di repertorio, a rogito dottor Martino Gransella, notaio in Gravedona, registrato a Menaggio in data 10 marzo 1981 al n. 259.  
+623. Decreto del Presidente della Repubblica 1 agosto 1978, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare il legato disposto dalla sig.na Miotti Maria con testamento olografo 3 marzo 1973, pubblicato a rogito notaio dott. Carlo D'Este in data 4 febbraio 1975, n. 7308 di repertorio e n. 3126 di raccolta, registrato a Rapallo il 17 febbraio 1975 al n. 261, vol. 180 mod. 1, consistente in beni immobili siti in Rapallo:
+
+a) appartamento sito in via Vespucci 22/9, riportato al nuovo catasto edilizio urbano alla partita 4485, foglio 35, mappale 429 sub 18 di vani 8;
+
+b) magazzino sito in via Vespucci 22/9, riportato nel nuovo catasto edilizio urbano alla partita 4485, foglio 35, mappale 429 sub 6, di mq. 14, il tutto per un valore complessivo di L. 17.000.000.  
   
-Visto, il Guardasigilli: MARTINAZZOLI  
-Registrato alla Corte dei conti, addi' 2 maggio 1985  
-Registro n. 4 Presidenza, foglio n. 86
+Visto, il Guardasigilli: BONIFACIO  
+Registrato alla Corte dei conti, addi' 11 ottobre 1978  
+Registro n. 7 Presidenza, foglio n. 13

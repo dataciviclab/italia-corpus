@@ -1,99 +1,87 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 gennaio 1985 n. 460
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 luglio 1956 n. 1027
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 gennaio 1985 n. 460
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 luglio 1956 n. 1027
 ==============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Parma.
 -----------------------------------------------------------------
 
-IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
-
-Veduto lo statuto dell'Universita' di Parma, approvato con [regio decreto 13 ottobre 1927, n. 2797](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2797), e successive modificazioni;
-
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
-
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
-
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
-
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
-
-Veduto il [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
-
-Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
-
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Parma e convalidati dal Consiglio universitario nazionale nel suo parere;
-
-Sentito il parere del Consiglio universitario nazionale;
-
-Sulla proposta del Ministro della pubblica istruzione;
-
-Decreta:
---------
-
-Lo statuto dell'Universita' di Parma, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
-
 Art. 1
 ------
 
+ IL PRESIDENTE DELLA REPUBBLICA  
   
+Veduto lo statuto dell'Universita' degli studi di Parma, approvato con [regio decreto 13 ottobre 1927, n. 2797](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2797) e modificato con i [regi decreti 30 ottobre 1930, n. 1772](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1930-10-30;1772); [1 ottobre 1931, n. 1380](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1931-10-01;1380); [26 ottobre 1933, n. 2401](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1933-10-26;2401); [13 dicembre 1934, n. 2423](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1934-12-13;2423); [1 ottobre 1931, n. 2076](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1931-10-01;2076); [20 aprile 1939, n. 1067](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1939-04-20;1067); [1 agosto 1941, n. 893](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1941-08-01;893); [26 marzo 1942, n. 330](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1942-03-26;330); [5 settembre 1942, n. 1178](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1942-09-05;1178); [21 gennaio 1943, n. 21; con decreto del Capo provvisorio dello Stato](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto:1943-01-21;21) [30 dicembre 1947, n. 1735; e con decreti del Presidente della Repubblica](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1947-12-30;1735) [27 marzo 1948, n. 458](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1948-03-27;458); [30 ottobre 1949, n. 1002](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-10-30;1002); [30 maggio 1950, n. 615](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1950-05-30;615); [11 aprile 1951, n. 471](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-04-11;471); [27 ottobre 1951, n. 1701](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-10-27;1701); [31 agosto 1951, n. 1824](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-08-31;1824); [25 luglio 1952, n. 1350](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-07-25;1350); [16 ottobre 1952, n. 4013](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-10-16;4013); [27 marzo 1954, n. 734](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1954-03-27;734); [24 settembre 1954, n. 1135](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1954-09-24;1135); [4 febbraio 1955, n. 116](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1955-02-04;116); [24 luglio 1955, n. 801](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1955-07-24;801);  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
+Sentito il parere del Consiglio superiore della pubblica istruzione;  
+Sulla proposta del Ministro per la pubblica istruzione;  
   
-All'art. 72, relativo alla facolta' di economia e commercio, e' soppresso il punto: 11) centro meccanografico.   
-
-Art. 2
-------
-
+Decreta:  
   
-  
-Dopo l'art. 411 e' inserito:   
-  
-Centro interfacolta' di calcolo elettronico   
-Art. 412. - Il centro interfacolta' di calcolo elettronico dell'Universita' di Parma e' destinato al servizio relativo alle attivita' scientifiche e didattiche dell'Universita' di Parma.   
-Art. 413. - Il centro ha le seguenti finalita':   
-a) sopperire alle esigenze di calcolo connesse con la ricerca scientifica nelle istituzioni dell'Universita' di Parma mettendo a disposizione di coloro che operano in tali istituzioni le attrezzature per il calcolo e le elaborazioni che possono essere necessarie per lo svolgimento delle loro attivita' di ricerca;   
-b) sopperire alle esigenze didattiche delle istituzioni dell'Universita' di Parma fornendo le risorse di calcolo e le attrezzature necessarie per la preparazione degli studenti;   
-c) promuovere attivita' di studio e di documentazione, nonche' qualsiasi altra attivita' connessa con l'impiego e lo sviluppo dei mezzi di elaborazione a disposizione del centro;   
-d) favorire il collegamento e la collaborazione con centri di calcolo o centri di studio e di ricerca appartenenti ad altre universita', consorzi interuniversitari, enti pubblici di ricerca.   
-Art. 414. - Sono organi del centro:   
-a) il consiglio direttivo;   
-b) il comitato tecnico;   
-c) il direttore del centro;   
-d) il direttore tecnico del centro.   
-Art. 415. - Il consiglio direttivo e' costituito da:   
-a) il direttore del centro con funzioni di presidente;   
-b) rappresentanti di ciascuna facolta' e dipartimenti interessati dell'Universita' di Parma, scelti fra i professori ufficiali;   
-c) il dirigente amministrativo dell'Universita' di Parma o un funzionario da lui delegato;   
-d) il direttore tecnico anche con funzioni di segretario.   
-I membri del consiglio direttivo di cui alla voce b) sono nominati dal rettore su proposta delle rispettive facolta' e dipartimenti, durano in carica tre anni purche' conservino la qualifica di professori ufficiali dell'Universita' di Parma e possono essere confermati.   
-Art. 416. - Il comitato tecnico del centro e' costituito da esperti nel settore degli elaboratori elettronici e della elaborazione automatica dei dati.   
-Il comitato tecnico e' costituito da:   
-a) il direttore tecnico con funzioni di coordinatore;   
-b) rappresentanti degli utenti dell'Universita' scelti fra il personale docente o tecnico che abbia comprovata esperienza nel settore degli elaborati elettronici e dell'elaborazione automatica dei dati;   
-c) due rappresentanti eletti dal personale tecnico del centro nel proprio ambito;   
-d) un rappresentante dell'amministrazione dell'Universita' di Parma, nominato dal rettore.   
-I membri del comitato tecnico di cui alla voce b) sono nominati dal rettore su proposta del consiglio direttivo.   
-I membri del comitato tecnico di cui alle voci b), c) e d), durano in carica tre anni e possono essere confermati.   
-I membri di cui alle voci b), c) e d) possono contemporaneamente far parte anche del consiglio direttivo.   
-Il comitato tecnico svolge la funzione di organo consultivo del consiglio direttivo e della direzione.   
-Art. 417. - Il direttore del centro, nominato dal rettore, e' scelto fra i professori ufficiali dell'Universita' di Parma. Dura in carica tre anni e puo' essere confermato.   
-Art. 418. - Il direttore tecnico del centro e' nominato dal rettore su proposta del consiglio direttivo ed e' scelto fra il personale docente e tecnico dell'Universita' di Parma avente comprovata esperienza nel settore degli elaboratori elettronici e dell'elaborazione automatica dei dati.   
-Il direttore tecnico dura in carica tre anni e puo' essere confermato.   
-Art. 419. - Le norme relative al funzionamento del centro formano oggetto di apposito regolamento approvato dal consiglio di amministrazione dell'Universita' su proposta del consiglio direttivo e previo parere del senato accademico. Il regolamento viene reso esecutivo con decreto del rettore.   
+Lo statuto dell'Universita' degli studi di Parma, approvato e modificato con i decreti sopraindicati e' ulteriormente modificato come appresso:  
+Art. 30, dopo la lettera f), e' aggiunto:  
+g) la laurea in scienze geologiche.  
+Dopo l'art. 68 sono aggiunti i seguenti nuovi articoli relativi alla creazione dei corso di laurea in scienze geologiche con il conseguente spostamento della numerazione degli articoli successivi.  
+Art. 69. - Laurea in scienze geologiche.  
+La durata del corso di studi per la laurea in scienze geologiche e' di quattro anni.  
+E' titolo di ammissione il diploma di maturita' classica o di maturita' scientifica.  
+Sono insegnamenti fondamentali:  
+1) Istituzioni di matematiche;  
+2) Fisica sperimentale (biennale);  
+3) Chimica generale ed inorganica con elementi di organica;  
+4) Mineralogia;  
+5) Geologia;  
+6) Paleontologia;  
+7) Geologia applicata;  
+8) Geografia;  
+9) Geografia fisica;  
+10) Topografia e cartografia;  
+11) Fisica terrestre;  
+12) Petrografia.  
+Sono insegnamenti complementari:  
+1) Chimica organica;  
+2) Chimica fisica;  
+3) Geochimica;  
+4) Astronomia;  
+5) Geodesia;  
+6) Zoologia;  
+7) Botanica;  
+8) Antropologia;  
+9) Etnologia;  
+10) Analisi matematica (algebrica, ed infinitesimale (biennale);  
+11) Meccanica razionale con elementi di statica grafica e disegno;  
+12) Statistica.  
+Gli insegnamenti di botanica e di zoologia debbono avere indirizzo biogeografico.  
+Gli insegnamenti, sia fondamentali, sia complementari, sono di regola integrati da esercitazioni pratiche sul cui profitto ciascun insegnante stabilisce opportuni criteri di accertamento.  
+Per l'insegnamento di analisi matematica vale la norma stabilita per il corso di laurea in scienze matematiche.  
+Art. 70. - L'esame di istituzioni di matematiche deve precedere l'esame di topografia e cartografia.  
+Gli esami di istituzioni di matematiche, di chimica generale ed inorganica e di fisica, debbono precedere l'esame di mineralogia.  
+L'esame di mineralogia deve precedere l'esame di petrografia.  
+Gli esami di mineralogia, petrografia e paleontologia devono precedere l'esame di geologia.  
+L'esame di geologia deve precedere quello di geologia applicata.  
+Art. 71. - Per essere ammesso all'esame di laurea lo studente deve aver seguito i corsi e superato gli esami in tutti gli insegnamenti fondamentali ed almeno in quattro da lui scelti fra i complementari.  
+Art. 72. - Per il conseguimento della laurea in scienze geologiche lo studente deve presentare una dissertazione scritta sopra un argomento di scienze geografiche concordato con un professore ufficiale della Facolta'. La dissertazione deve essere presentata alla segreteria dell'Universita' almeno dieci giorni prima del giorno della laurea insieme ai titoli dei tre argomenti scelti per la discussione di cui all'art. 10.  
+Art. 73. - L'esame di laurea comprende:  
+1) una prova pratica nella materia scelta per la tesi di laurea;  
+2) la discussione orale della prova pratica e della tesi di laurea;  
+3) la discussione orale di due su tre argomenti scelti dal candidato in materie di insegnamento della Facolta', diverse fra loro e da quella formante oggetto della tesi di laurea.  
+Fa parte, inoltre, dell'esame di laurea un colloquio di cultura generale nelle scienze geologiche, da sostenere dinanzi ad una Commissione di cinque professori ufficiali della Facolta', fra cui il preside.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 10 gennaio 1985
+### Dato a Roma, addi' 31 luglio 1956
 
-PERTINI
+GRONCHI ROSSI
 
-FALCUCCI, Ministro della pubblica istruzione
+Visto, il Guardasigilli: MORO
 
-Visto, il Guardasigilli: MARTINAZZOLI
+Registrato alla Corte dei conti, addi' 10 settembre 1256
 
-Registrato alla Corte dei conti, addi' 20 agosto 1985
-
-Registro n. 55 Istruzione, foglio n. 256
+Atti del Governo, registro n. 100, foglio n. 161. - RELLEVA

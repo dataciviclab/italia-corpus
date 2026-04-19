@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 maggio 1976 n. 594
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 21 ottobre 1981 n. 833
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 maggio 1976 n. 594
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 21 ottobre 1981 n. 833
+==============================================================
 
 Autorizzazione ad accettare una donazione a favore dello Stato.
 ---------------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-594. Decreto del Presidente della Repubblica 10 maggio 1976, col quale, sulla proposta del Ministro per le finanze, viene autorizzata l'accettazione della donazione a favore dello Stato disposta dal comune di Teggiano (Salerno), con atto 19 novembre 1974, n. 12668 di repertorio, a rogito notaio Luigi Coiro, di tutta l'area in sopraelevazione dell'edificio in cui ha sede la casa comunale e l'istituto magistrale, catastalmente indicata nell'atto suddetto, allo scopo di sopraedificarvi i locali da destinare a caserma dell'Arma dei carabinieri.  
+833. Decreto del Presidente della Repubblica 21 ottobre 1981, col quale, sulla proposta del Ministro per i beni culturali e ambientali, viene autorizzata l'accettazione a favore dello Stato della donazione, consistente in un dipinto dell'autore Gregorio Sciltian, raffigurante "Bacco all'Osteria" il quale riveste un importante interesse artistico, disposta dal gr. uff. Maurizio Adreani, con atto 27 novembre 1978, n. 137047 di repertorio, a rogito del dott. Marco Serpi, notaio in Milano, da destinare alla soprintendenza speciale alla Galleria nazionale d'arte moderna e contemporanea in Roma.  
   
-Visto, il Guardasigilli: BONIFACIO  
-Registrato alla Corte dei conti, addi' 19 agosto 1976  
-Atti di Governo, registro n. 8, foglio n. 76
+Visto, il Guardasigilli: DARIDA  
+Registrato alla Corte dei conti, addi' 29 dicembre 1981  
+Registro n. 25 Beni culturali, foglio n. 164

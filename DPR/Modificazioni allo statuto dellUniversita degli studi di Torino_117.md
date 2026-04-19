@@ -1,123 +1,99 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 settembre 1956 n. 1139
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1979 n. 924
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 settembre 1956 n. 1139
-=================================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1979 n. 924
+==============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Torino.
 ------------------------------------------------------------------
 
-Art. 1
-------
+IL PRESIDENTE DELLA REPUBBLICA
+------------------------------
 
- IL PRESIDENTE DELLA REPUBBLICA  
+Veduto lo statuto dell'Universita' di Torino, approvato con [regio decreto 14 ottobre 1926, n. 2284](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2284) e modificato con [regio decreto 13 ottobre 1927, n. 2788](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2788), e successive modificazioni;
+
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
+
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
+
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
+
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Torino e convalidati dal Consiglio universitario nazionale nel suo parere;
+
+Sentito il parere del Consiglio universitario nazionale;
+
+Sulla
+-----
+
+proposta del Ministro della pubblica istruzione; Decreta:
+
+Articolo unico
+--------------
+
   
-Veduto lo statuto dell'Universita' degli studi di Torino, approvato con regio decreto 20, aprile 1939, n. 1118, e modificato con i [regi decreti 12 gennaio 1941, n. 34](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1941-01-12;34); [27 aprile 1942, n. 571](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1942-04-27;571); [5 settembre 1942, n. 1237](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1942-09-05;1237); [24 ottobre 1942, n. 1438; con decreti del Capo provvisorio dello Stato](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto:1942-10-24;1438) [4 febbraio 1947, n. 196](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto:1947-02-04;196) e [7 marzo 1947, n. 1727 e con decreti del Presidente della Repubblica](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1947-03-07;1727) [26 febbraio 1949, n. 430](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-02-26;430); [21 aprile 1949, n. 613](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-04-21;613); [1 settembre 1949, n. 816](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-09-01;816); [13 marzo 1950, n. 599](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1950-03-13;599); [30 ottobre 1950, n. 1125](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1950-10-30;1125); [31 ottobre 1950, n. 1310](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1950-10-31;1310); [30 giugno 1951, n. 1148](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-06-30;1148); [27 ottobre 1951, n. 1794](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-10-27;1794); [25 luglio 1952, n. 1352](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-07-25;1352); [16 ottobre 1952, n. 4554](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-10-16;4554); [26 ottobre 1952, n. 4506](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-10-26;4506); [30 ottobre 1952, n. 4483](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-10-30;4483); [11 marzo 1953, n. 573](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1953-03-11;573); [11 marzo 1953, n. 576](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1953-03-11;576); [12 ottobre 1953, n. 1046](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1953-10-12;1046); [2 marzo 1954; n. 181](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1954-03-02;181); [26 aprile 1954, n. 741](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1954-04-26;741); [29 ottobre 1954, n. 1320](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1954-10-29;1320); [1 marzo 1955, n. 221](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1955-03-01;221); [25 settembre 1955, n. 960](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1955-09-25;960) e [27 luglio 1955, n. 785](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1955-07-27;785);  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652),-, successive modificazioni;  
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
-Vedute le proposte di modifiche dello statuto formula le dalle autorita' accademiche dell'Universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
-Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro per la pubblica istruzione;  
+Dopo l'art. 403 dello statuto dell'Universita' di Torino sono aggiunti i seguenti nuovi articoli relativi alla istituzione della scuola diretta a fini speciali per ortottisti-assistenti di oftalmologia.  
   
-Decreta:  
+TITOLO IV. - SCUOLE DIRETTE A FINI SPECIALI  
   
-Lo statuto dell'Universita' degli studi di Torino, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-Art. 22. - Agli insegnamenti complementari del corso di laurea in lettere sono aggiunti i seguenti:  
-1) Storia della letteratura italiana moderna e contemporanea;  
-2) Filologia slava;  
-3) Geografia storica del mondo antico;  
-4) Paleografia greca;  
-5) Storia orientale antica.  
-Art. 23. - Agli insegnamenti complementari del corso di laurea in filosofia sono aggiunti i seguenti:  
-1) Filosofia della scienza;  
-2) Sociologia;  
-3) Filosofia della storia;  
-4) Una lingua e letteratura straniera, fra le seguenti: francese, tedesca ed inglese.  
-Art. 26. - Agli insegnamenti complementari del corso di laurea in pedagogia e' aggiunto quello di "storia della pedagogia".  
-Art. 37. - Agli insegnamenti complementari del corso di laurea in chimica sono aggiunti i seguenti:  
-a) per l'indirizzo organico biologico:  
-1) Petrografia;  
-2) Merceologia (chimica merceologica);  
-3) Chimica macromolecolare e colloidale;  
-4) Chimica teorica;  
-5) Geochimica;  
-b) per l'indirizzo inorganico-chimico fisico:  
-1) Petrografia;  
-2) Merceologia (chimica merceologica);  
-3) Chimica macromolecolare e colloidale;  
-4) Chimica teorica.  
-Art. 38. - Agli insegnamenti complementari del corso di laurea in chimica industriale sono aggiunti i seguenti:  
-1) Petrografia;  
-2) Merceologia (chimica merceologica);  
-3) Chimica macromolecolare e colloidale;  
-4) Chimica teorica;  
-5) Geochimica.  
-Art. 39. Nell'elenco degli insegnamenti complementari del corso di laurea in fisica e' soppresso l'insegnamento di "geodesia".  
-Agli insegnamenti medesimi sono aggiunti i seguenti:  
-1) Teoria delle funzioni;  
-2) Calcoli numerici e grafici.  
-Art. 42. - Nell'elenco degli insegnamenti complementari del corso di laurea in scienze matematiche e' soppresso l'insegnamento di "geodesia".  
-Agli insegnamenti medesimi sono aggiunti i seguenti:  
-1) Topologia;  
-2) Onde elettromagnetiche;  
-3) Matematiche elementari dal punto di vista superiore.  
-Il comma quinto e' sostituito dal seguente:  
-Gli insegnamenti biennali di "analisi matematica" e di "geometria analitica con elementi di proiettiva e geometria descrittiva con disegno" importano ciascuno due esami distinti.  
-Art. 44. - Nell'elenco degli insegnamenti complementari del corso di laurea in matematica e fisica e' soppresso l'insegnamento di "geodesia".  
-Agli insegnamenti medesimi sono aggiunti i seguenti:  
-1) Onde elettromagnetiche;  
-2) Matematiche elementari dal punto di vista superiore.  
-Il comma quinto e' sostituito dal seguente:  
-Per gli insegnamenti di "analisi matematica", e di "geometria analitica con e "enti di proiettiva e geometria descrittiva con disegno" e di "fisica sperimentale" e relative "esercitazioni" valgono le norme stabilite per la laurea in scienze matematiche.  
-Art. 45. - Nell'elenco degli insegnamenti complementari del corso di laurea in scienze naturali e' soppresso l'insegnamento di "biologia delle razze umane".  
-Agli insegnamenti medesimi e' aggiunto quello di "fisiologia vegetale".  
-Art. 50. - Nell'elenco degli insegnamenti complementari del corso di laurea in farmacia e' soppresso quello di "idrologia".  
-Agli insegnamenti medesimi: sono aggiunti seguenti:  
-1) Chimica farmaceutica applicata;  
-2) Chimica analitica.  
-Art. 51. - E' sostituito dal seguente:  
-L'insegnamento biennale di "chimica farmaceutica e tossicologica" e quello triennale di "esercitazioni di chimica farmaceutica e tossicologica" importano un esame alla, fine di ogni anno.  
-L'insegnamento triennale di "esercitazioni di chimica farmaceutica e tossicologica" e' diviso in:  
-Parte 1ª: tecniche di laboratorio e preparazioni chimiche;  
-Parte 2ª: analisi qualitativa;  
-Parte 3ª: analisi quantitativa; preparazioni e analisi quali-quantitative dei farmaci.  
-In ciascun anno accademico puo' essere frequentata una sola di dette parti in cui e' diviso l'insegnamento triennale.  
-La parte 3ª puo' essere suddivisa in due semestri (10 semestre: analisi quantitativa, 2° semestre: preparazioni e analisi quali quantitative dei farmaci) con un unito esame al termine del 2° semestre.  
-Gli insegnamenti di: fisica, farmacologia e farmacognosia; chimica fisica; botanica farmaceutica; chimica bromatologica; biochimica applicata, sono integrati da esercitazioni pratiche. Per queste esercitazioni vale il disposto dell'art. 54.  
-Art. 52. - E' sostituito dal seguente:  
-Gli studenti non possono essere iscritti:  
-a) al corso di "esercitazioni di chimica farmaceutica e tossicologia parte 2ª (analisi qualitativa)" se non hanno superato gli esami di "chimica generale ed inorganica" e di "esercitazioni di chimica farmaceutica e tossicologica parte 1ª (tecniche di laboratorio e preparazioni chimiche)";  
-b) al corso di "esercitazioni di chimica, farmaceutica e tossicologica parte 3ª (analisi quantitativa, preparazioni e analisi quali-quantitative dei farmaci)" se non hanno superato gli esami di "chimica organica" e di "esercitazioni di chimica farmaceutica e tossicologica parte 2ª (analisi qualitativa)";  
-Gli studenti non possono sostenere:  
-a) l'esame del corso di "chimica farmaceutica e tossicologica parte 1° (tecniche di laboratorio e preparazioni chimiche)" se non hanno superato l'esame di "chimica generale ed inorganica";  
-b) l'esame di "chimica organica" se non hanno superato gli esami di "chimica generale ed inorganica" e di "fisica";  
-c) gli esami di "chimica farmaceutica 1ª e 2ª", di "chimica bromatologica", di "chimica biologica", di "biochimica applicata", di "chimica analitica" e di "chimica di guerra" se non hanno superato l'esame di "chimica organica";  
-d) l'esame di "chimica farmaceutica applicata" se non hanno superato gli esami di "chimica farmaceutica 1ª e 2ª";  
-e) l'esame di "tecnica e legislazione farmaceutica" se non hanno superato gli esami di "chimica farmaceutica 1ª e 2ª";  
-f) l'esame biennale di "fisiologia generale" se non hanno superato quello di anatomia umana";  
-g) l'esame di "farmacologia e farmacognosia" se non hanno superato gli esami di "fisiologia generale" e di "botanica farmaceutica"  
-Art. 54. - E' abrogato e sostituito dal seguente:  
-I professori possono assicurarsi in qualunque epoca dell'anno, per mezzo di colloqui o prove scritte o sperimentali, del profitto ricavato dagli allievi.  
-Questi colloqui o prove scritte o sperimentali servono di norma per il passaggio da uno ad altro ordine di esercitazioni nella stessa materia.  
-Gli esercizi di farmacognosia che fanno parte integrante del corso fondamentale di "farmacologia e farmacognosia" formano oggetto di prova pratica separata, il cui voto peraltro fa media con quello di farmacologia, restando cosi' unico il voto finale di "farmacologia e farmacognosia"  
-Art. 55. - E' abrogato e sostituito dal seguente:  
-I laureati in scienze naturali o in medicina e chirurgia o in medicina veterinaria, possono essere ammessi al 2° anno.  
-Per quanto riguarda l'esame di "farmacologia e farmacognosia" essi potranno essere tenuti a sostenere la sola prova pratica di farmacognosia di cui all'articolo 54.  
-I laureati in chimica possono essere ammessi al 3ª anno per la laurea in farmacia; nel caso in cui comprovino di aver frequentato almeno un anno dei corsi di "fisiologia generale" e di "chimica farmaceutica" possono essere ammessi al 4° anno.  
+Sezione I. - FACOLTA' DI MEDICINA E CHIRURGIA  
+Scuola speciale per ortottisti-assistenti di oftalmologia  
+  
+Art. 404. - E' istituita presso la facolta' di medicina e chirurgia dell'Universita' di Torino una scuola speciale di preparazione per ortottisti-assistenti di oftalmologia che ha sede presso la clinica oculistica di questa Universita'.  
+Art. 405. - La scuola ha lo scopo di dare una preparazione completa, teorico-pratica, istruendo gli allievi sui problemi della motilita' oculare, della ambliopia, delle tecniche diagnostiche della visione binoculare, del trattamento pre e post operatorio dei pazienti strabici, dei problemi sui vizi di refrazione e della loro correzione e sulle tecniche diagnostiche in oftalmologia.  
+La durata del corso di studi per conseguire il diploma di ortottista-assistente di oftalmologia e' di tre anni.  
+Ne sono titoli di ammissione il possesso di un diploma legalmente valido ai fini della iscrizione alla Universita' ai sensi dell'[art. 1 della legge n. 910 dell'11 dicembre 1969](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1969-12-11;910~art1) e la conoscenza di una lingua straniera (inglese, francese, tedesco, spagnolo).  
+Art. 406. - Gli aspiranti all'iscrizione al primo anno di corso sono tenuti a sostenere un esame di ammissione consistente in una prova di cultura generale ed in una prova per la conoscenza della lingua straniera.  
+E' richiesto un certificato di sana e robusta costituzione, con particolare riguardo alla funzione visiva.  
+Art. 407. - Il numero complessivo degli iscritti alla scuola e' di nove (tre per anno di corso). Qualora le domande di iscrizione fossero in numero superiore al numero massimo previsto, il consiglio della scuola si riserva di provvedere ad una scelta tra gli idonei in base ai risultati delle prove di ammissione; gli idonei possono essere ammessi anche in soprannumero in rapporto a posti che si rendessero vacanti nel corso del secondo e terzo anno. I ripetenti ed i fuori corso, qualora riprendano gli studi, sono riammessi in soprannumero.  
+Art. 408. - Il direttore della scuola e' il titolare della cattedra di clinica oculistica o altro docente di disciplina affine, proposto dal titolare della cattedra di clinica oculistica sentito il consiglio della scuola.  
+Art. 409. - L'anno accademico ha inizio e termine nelle date stabilite dalle leggi in vigore per l'istruzione universitaria. La frequenza e' obbligatoria.  
+Art. 410. - Il corso comprende lezioni teoriche ed esercitazioni pratiche.  
+Le materie di insegnamento sono le seguenti:  
+1° Anno:  
+1) elementi di anatomia dell'apparato visivo e del S.N.C.;  
+2) fisiologia dell'occhio, della motilita' oculare, della visione binoculare;  
+3) ottica fisica e fisiopatologica;  
+4) ortottica I;  
+5) psicologia infantile.  
+2° Anno:  
+1) elementi di patologia oculare;  
+2) elementi di farmacologia oculare;  
+3) elementi di neurooftalmologia;  
+4) nozioni di chirurgia ed assistenza oftalmica;  
+5) ortottica II.  
+3° Anno:  
+1) tecniche semeiologiche dell'apparato visivo I  
+(es. refrazione, contattologia, adattometria, campo visivo, senso cromatico);  
+2) tecniche semeiologiche ed elettrofisiologiche (tonometria e tonografia); ERG, EOG, EMG; ecografia; retinografia e fluoroangiografia);  
+3) ortottica III;  
+4) nozioni di riabilitazione senso motorio nell'eta' infantile;  
+5) legislazione sanitaria.  
+Art. 411. - L'intero corso di studi e' costituito da lezioni teoriche e pratiche ed esercitazioni e dall'obbligo, per gli allievi, dell'internato per l'intero periodo di corso di studi nella clinica oculistica. La frequenza viene comprovata dalla attestazione rilasciata sul libretto di iscrizione dagli insegnanti e per l'attivita' pratica dal direttore della scuola. L'attestazione di frequenza e' indispensabile ai fini dell'ammissione degli esami.  
+Art. 412. - Alla fine di ogni anno gli allievi devono sostenere un esame sulle materie di insegnamento. Nel caso in cui i candidati non abbiano superato gli esami prescritti, essi rimarranno nella posizione di "ripetenti".  
+Art. 413. - Gli esami di profitto consistono in prove teoriche e pratiche.  
+Art. 414. - Alla fine del corso gli allievi debbono sostenere un esame di diploma che consiste nella discussione di una tesi scritta su un argomento riguardante le materie di insegnamento, assegnata dal direttore della scuola e in una prova pratica stabilita da una commissione esaminatrice. I candidati non riconosciuti idonei possono ripresentarsi all'esame di diploma dopo un altro anno di frequenza alla scuola ma se al secondo anno non sia loro riconosciuta la idoneita' saranno senz'altro esclusi da ulteriori prove.  
+Art. 415. - Gli esami di profitto e di diploma si danno in due sessioni, la prima estiva che ha inizio dopo la chiusura annuale dei corsi e la seconda autunnale, nel mese che precede l'inizio del nuovo anno accademico.  
+Art. 416. - Le commissioni per gli esami di ammissione, di profitto e di diploma sono nominate dal preside della facolta' di medicina e chirurgia su proposta del direttore della clinica. Le commissioni per gli esami di ammissione e di profitto sono composte da tre membri: direttore della scuola, presidente, e da due insegnanti della scuola stessa. La commissione per gli esami di diploma e' costituita dal direttore della scuola, presidente, e da quattro membri scelti fra gli insegnanti della scuola stessa o altri docenti.  
+Art. 417. - Le tasse e soprattasse annuali a carico degli iscritti restano cosi' destinate:  
+  
+tassa annuale di iscrizione . . . . . . . . . . . . . . . . L. 15.000 soprattassa annuale di esame . . . . . . . . . . . . . . . . L. 7.000 contributo biblioteche e laboratorio. . . . . . . . . . . . L. 10.000 contributo esercitazioni. . . . . . . . . . . . . . . . . . L. 40.000 contr. A.S.L. - O.R.L. . . . . . . . . . . . . . . . . . . . L. 1.000 contr. assic. e infor. . . . . . . . . . . . . . . . . . . . . L. 300   
+Art. 418. - Al funzionamento della suddetta scuola si provvedera' con il provento delle tasse, soprattasse e contributi dovuti dagli iscritti e con eventuali elargizioni o contributi di enti pubblici o privati.  
+Art. 419. - Sono ammessi al terzo anno della scuola, con l'obbligo di tutti gli esami del terzo anno e della tesi, le diplomate delle scuole speciali per ortottiste ai sensi dell'[art. 20 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art20), purche' abbiano esercitato con continuita' una attivita' professionale adeguata e documentata.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 11 settembre 1956
+### Dato a Roma, addi' 31 ottobre 1979
 
-GRONCHI ROSSI
+PERTINI VALITUTTI
 
-Visto, il Guardasigilli: MORO
+Visto, il Guardasigilli: MORLINO
 
-Registrato alla Corte dei conti, addi' 12 ottobre 1956
+Registrato alla Corte dei conti, addi' 16 giugno 1980
 
-Atti del Governo, registro n. 101, foglio n. 11. - CARLOMAGNO
+Registro n. 56 Istruzione, foglio n. 151

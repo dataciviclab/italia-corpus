@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 settembre 1978 n. 1020
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 maggio 1981 n. 588
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 settembre 1978 n. 1020
-=================================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 maggio 1981 n. 588
+=============================================================
 
 Autorizzazione ad accettare una donazione a favore dello Stato.
 ---------------------------------------------------------------
@@ -12,9 +12,8 @@ Art. 1
 
 N.
 
-1020. Decreto del Presidente della Repubblica 14 settembre 1978, col quale, sulla proposta del Ministro per i beni culturali e ambientali, viene autorizzata l'accettazione a favore dello Stato della donazione disposta dal prof. Afro Basaldella, con atto di donazione 15 novembre 1975, n. 327346 di repertorio, a rogito dott.  
-Giorgio Santini, notaio in Roma, consistente in una raccolta di tre dipinti raffiguranti "Viale delle Acacie", "Senza titolo" e "Grande Ocra", i quali rivestono un interesse artistico, da destinare alla galleria nazionale d'arte moderna in Roma.  
+588. Decreto del Presidente della Repubblica 2 maggio 1981, col quale, sulla proposta del Ministro per i beni culturali ed ambientali, viene autorizzata l'accettazione a favore dello Stato e, per esso, del Ministero per i beni culturali ed ambientali - Ufficio centrale per i beni librari e gli istituti culturali, della donazione, consistente nella biblioteca dell'avv. Filippo Perrone, costituita da 3438 volumi, disposta dai signori Chiurazzi Maria Carmela e Chiurazzi Elio con atto pubblico 13 giugno 1979, n. 322138/1519 di repertorio, a rogito dott. Roberto Sanseverino, notaio in Napoli e registrato a Napoli in data 29 giugno 1979, n. 4363-C.  
   
-Visto, il Guardasigilli: BONIFACIO  
-Registrato alla Corte dei conti, addi' 21 febbraio 1979  
-Registro n. 2 Beni culturali, foglio n. 287
+Visto, il Guardasigilli: DARIDA  
+Registrato alla Corte dei conti, addi' 7 ottobre 1981  
+Registro n. 17 Beni culturali, foglio n. 346

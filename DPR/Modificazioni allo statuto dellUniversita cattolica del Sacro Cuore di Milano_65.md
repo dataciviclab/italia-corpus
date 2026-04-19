@@ -1,44 +1,95 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 agosto 1966 n. 716
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 21 ottobre 1981 n. 1159
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 agosto 1966 n. 716
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 21 ottobre 1981 n. 1159
+===============================================================
 
-Modificazioni allo statuto dell'Universita' cattolica del "Sacro Cuore" di Milano.
-----------------------------------------------------------------------------------
+Modificazioni allo statuto dell'Universita' cattolica del Sacro Cuore di Milano.
+--------------------------------------------------------------------------------
+
+IL PRESIDENTE DELLA REPUBBLICA
+------------------------------
+
+Veduto lo statuto dell'Universita' cattolica del Sacro Cuore di Milano, approvato con [regio decreto 20 aprile 1939, n. 1163](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1163), e modificato con [regio decreto 26 ottobre 1940, n. 2030](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;2030), e successive modificazioni;
+
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
+
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
+
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
+
+Veduto il [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
+
+Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' cattolica del Sacro Cuore di Milano e convalidati dal Consiglio universitario nazionale nel suo parere;
+
+Sentito il parere del Consiglio universitario nazionale;
+
+Sulla proposta del Ministro della pubblica istruzione di concerto con il Ministro del tesoro;
+
+Decreta:
+--------
+
+Lo statuto dell'Universita' cattolica del Sacro Cuore di Milano, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' cattolica del "Sacro Cuore" di Milano, approvato con [regio decreto 20 aprile 1939, n. 1163](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1163), e modificato con [regio decreto 26 ottobre 1940, n. 2030](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;2030), e successive modificazioni;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
-Sentito il parere del Consiglio superiore della pubblica istruzione:  
+L'art. 27 e' soppresso e sostituito come segue:  
+Art. 27. - Il ruolo organico dei posti di professore e' determinato nelle tabelle n. 1 e n. 2 annesse al presente statuto.  
+Nel testo dell'art. 32, dopo l'espressione: "La carriera e il trattamento economico dei professori di ruolo", sono inserite in parentesi le parole seguenti "(ordinari e straordinari, associati)".  
+L'intestazione della parte IV e' soppressa e sostituita come segue: "Dei lettori, aiuti, assistenti e ricercatori".  
+L'art. 37 e' soppresso e sostituito come segue:  
+Art. 37. - Il ruolo organico dei posti di assistente di ruolo e' determinato nella tabella n. 3 annessa al presente statuto.  
+Il ruolo organico dei posti di ricercatore e' determinato dalla tabella n. 4 annessa al presente statuto".  
+Il secondo comma dell'art. 38 e' integrato con la seguente espressione: "nonche' secondo quanto disposto dall'[art. 28 del decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382~art28)".  
+All'art. 42 e' aggiunto il seguente comma: "Circa i compiti, i doveri e lo stato giuridico dei ricercatori immessi in ruolo si fa riferimento alle norme degli [articoli 31](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382~art31), [32](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382~art32), [33](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382~art33), [34](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382~art34) e [38 del decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382~art38)".  
+All'art. 43 e' aggiunto il seguente comma: "Per le mancanze disciplinari dei ricercatori universitari si procede in conformita' alla normativa richiamata nel [primo comma dell'art. 34 del decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382~art34-com1)".  
+L'art. 44 e' soppresso e sostituito come segue:  
+Art. 44. - La carriera e il trattamento economico degli aiuti, degli assistenti, dei lettori e dei ricercatori sono determinati in conformita' a quelli fissati dallo Stato per i propri aiuti, assistenti, lettori e ricercatori.  
+Nel primo comma dell'art. 45 le parole: "Per le aspettative dei lettori, aiuti e assistenti" sono soppresse e sostituite con le parole seguenti: "Per le aspettative dei lettori, aiuti, assistenti e ricercatori".  
+Nell'art. 46 le parole "Il consiglio di amministrazione provvede all'applicazione, in quanto effettuabile, ai lettori, aiuti ed assistenti" sono soppresse e sostituite con le parole seguenti: "Il consiglio di amministrazione provvede all'applicazione, in quanto effettuabile, ai lettori, aiuti, assistenti e ricercatori".  
+Nell'art. 47, primo comma, le parole: "Ai lettori, aiuti ed assistenti" sono soppresse e sostituite con le parole seguenti: "Ai lettori, aiuti, assistenti e ricercatori".  
+
+Art. 2
+------
+
   
-Sulla proposta del Ministro per la pubblica istruzione;  
+Nella tabella n. 1 (art. 27) l'intestazione e il numero dei posti presso ciascuna facolta' sono soppressi e sostituiti come segue:  
   
-Decreta:  
+Ruolo dei professori universitari -  
+fascia dei professori straordinari e ordinari  
   
-Lo statuto dell'Universita' cattolica del "Sacro Cuore" di Milano, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-Art. 22. - Agli insegnamenti complementari del corso di laurea in Medicina e chirurgia e' aggiunto quello di:  
-13) Dermatologia sperimentale.  
+Facolta' di giurisprudenza . . . . . . . . . . . . . . . . . . . . 25 Facolta' di scienze politiche. . . . . . . . . . . . . . . . . . . 14 Facolta' di economia e commercio (1) . . . . . . . . . . . . . . . 34 Facolta' di lettere e filosofia (2). . . . . . . . . . . . . . . . 28 Facolta' di magistero (3). . . . . . . . . . . . . . . . . . . . . 23 Facolta' di agraria (4). . . . . . . . . . . . . . . . . . . . . . 17 Facolta' di medicina e chirurgia (5) . . . . . . . . . . . . . . . 49 Facolta' di scienze matematiche, fisiche e naturali. . . . . . . . 10   
+Dopo la tabella n. 1 e' inserita la seguente nuova tabella n. 2 (art. 27) concernenti l'organico dei professori associati:  
   
+TABELLA N. 2 (art. 27)  
+  
+Ruolo dei professori universitari -  
+fascia dei professori associati  
+Facolta' di giurisprudenza . . . . . . . . . . . . . . . . . . . . 10 Facolta' di scienze politiche. . . . . . . . . . . . . . . . . . . 12 Facolta' di economia e commercio . . . . . . . . . . . . . . . . . 80 Facolta' di lettere e filosofia. . . . . . . . . . . . . . . . . . 40 Facolta' di magistero. . . . . . . . . . . . . . . . . . . . . . . 70 Facolta' di agraria. . . . . . . . . . . . . . . . . . . . . . . . 45 Facolta' di medicina e chirurgia. . . . . . . . . . . . . . . . . 100 Facolta' di scienze matematiche, fisiche e naturali. . . . . . . . 10   
+La tabella concernente i posti di ruolo degli assistenti (ad esaurimento) per effetto dell'inserimento della nuova tabella n. 2, relativa all'istituzione dell'organico dei professori associati, diventa tabella n. 3 (art. 37).  
+Dopo la tabella n. 3 (art. 37) e' aggiunta la seguente tabella n. 4 concernente i posti di ricercatori:  
+  
+TABELLA N. 4  
+  
+Posti di ricercatori  
+  
+Facolta' di giurisprudenza . . . . . . . . . . . . . . . . . . . . 20 Facolta' di scienze politiche. . . . . . . . . . . . . . . . . . . 24 Facolta' di economia e commercio. . . . . . . . . . . . . . . . . 100 Facolta' di lettere e filosofia. . . . . . . . . . . . . . . . . . 80 Facolta' di magistero . . . . . . . . . . . . . . . . . . . . . . 100 Facolta' di agraria. . . . . . . . . . . . . . . . . . . . . . . . 50 Facolta' di medicina e chirurgia. . . . . . . . . . . . . . . . . 207 Facolta' di scienze matematiche, fisiche e naturali. . . . . . . . 10   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato ad Antagnod, addi' 5 agosto 1966
+### Dato a Roma, addi' 21 ottobre 1981
 
-SARAGAT
+PERTINI BODRATO - ANDREATTA
 
-Visto, il Guardasigilli: REALE
+Visto, il Guardasigilli DARIDA
 
-Registrato alla Corte dei conti, addi' 14 settembre 1966
+Registrato alla Corte dei conti, addi' 20 luglio 1982
 
-Atti del Governo, registro n. 205, foglio n. 108. - DI PRETORO
+Registro n. 92 Istruzione, foglio n. 319

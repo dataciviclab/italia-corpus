@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 ottobre 1955 n. 1104
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1978 n. 1074
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 ottobre 1955 n. 1104
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1978 n. 1074
 ===============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Modena.
@@ -10,408 +10,396 @@ Modificazioni allo statuto dell'Universita' degli studi di Modena.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' degli studi di Modena, approvato con [regio decreto 14 ottobre 1926, n. 2035](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2035), modificato con i [regi decreti 13 ottobre 1927, n. 2170](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1927-10-13;2170); [30 ottobre 1930, n. 1825](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1930-10-30;1825); [1 ottobre 1931, n. 1336](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1931-10-01;1336); [27 ottobre 1932, n. 2073](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1932-10-27;2073); [6 dicembre 1934, n. 2291](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1934-12-06;2291); [1 ottobre 1936, n. 2088](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1936-10-01;2088); [20 aprile 1939, numero 1075; con decreti del Capo provvisorio dello Stato](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto:1939-04-20;1075) [15 ottobre 1947, n. 1874](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto:1947-10-15;1874) e [30 dicembre 1947, n. 1877; e con decreti del Presidente della Repubblica](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1947-12-30;1877) [23 settembre 1949, n. 817](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-09-23;817); [28 aprile 1951, n. 955](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-04-28;955); [19 giugno 1951, n. 709](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-06-19;709); [26 aprile 1954, n. 739](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1954-04-26;739) e [1 marzo 1955, n. 223](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1955-03-01;223);
+Veduto lo statuto dell'Universita' di Modena, approvato con [regio decreto 14 ottobre 1926, n. 2035](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2035) e modificato con [regio decreto 13 ottobre 1927, n. 2170](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2170), e successive modificazioni;
 
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
 
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652) e successive modificazioni;
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
 
-Veduta la [legge 18 dicembre 1951, n. 1551](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1951-12-18;1551);
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' dell'Universita' anzidetta;
 
-Veduto il [decreto del Presidente della Repubblica 1 dicembre 1952, n. 4512](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-12-01;4512);
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Modena e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;
 
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
-
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
+Veduta la [legge 22 maggio 1978, n. 217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-05-22;217);
 
 Sentito il parere del Consiglio superiore della pubblica istruzione;
 
-Sulla proposta del Ministro per la pubblica istruzione;
+Sulla proposta del Ministro della pubblica istruzione;
 
 Decreta:
 
 Lo statuto dell'Universita' degli studi di Modena, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
-Gli articoli dal n. 68 al n. 102, relativi alle scuole di specializzazione in medicina e chirurgia, sono abrogati e sostituiti dai seguenti.
+Gli articoli 117, 118, 119, 120, 121 e 122, relativi alla scuola di specializzazione in ostetricia e ginecologia, che muta la denominazione in quella di scuola di specializzazione in ginecologia e ostetricia, sono soppressi e sostituiti dai seguenti:
 
-Art. 68.
+Scuola di specializzazione in ginecologia e ostetricia
 
-Sono istituite presso la Facolta' di medicina e chirurgia scuole di specializzazione che conferiscono diplomi di specialita' nelle discipline professionali medico-chirurgiche ai sensi dell'[art. 178 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art178).
+Art. 117. - La scuola di specializzazione in ginecologia ed ostetricia ha sede presso la clinica ostetrica e ginecologica e conferisce il diploma di specialista in ginecologia ed ostetricia.
 
-Art. 69
+Art. 118. - La direzione della scuola e' affidata al professore di ruolo o fuori ruolo della stessa materia della specializzazione o, in carenza, al professore di ruolo o fuori ruolo di materia affine.
 
-Le scuole di specializzazione hanno lo scopo di condurre gli allievi ad una approfondita conoscenza della materia e ad una completa capacita' tecnica in un determinato ramo della medicina e chirurgia.
+Art. 119. - Possono iscriversi alla scuola i laureati in medicina e chirurgia. E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale rilasciato dall'autorita' competente.
 
-Art. 70.
+Art. 120. - La durata del corso di studi e' di quattro anni e non e' suscettibile di abbreviazioni.
 
-Alle scuole di specializzazione della Facolta' di medicina e chirurgia possono iscriversi i laureati nella disciplina stabilita dall'ordinamento della relativa scuola entro i numeri di posti stabiliti per ciascuna scuola.
+Il numero massimo degli allievi e' di otto per anno di corso e complessivamente di trentadue iscritti per l'intero corso di studi.
 
-Art. 71.
+L'ammissione al corso avviene per titoli ed esami.
 
-Il numero dei posti disponibili del primo corso di ciascuna scuola e' stabilito ogni anno, entro il mese di maggio, dalla Facolta' di medicina e chirurgia su proposta del Consiglio dei direttori della scuola.
+Art. 121. - Le materie di insegnamento sono le seguenti:
 
-Art. 72.
+1° Anno:
 
-Gli aspiranti alla iscrizione al primo corso di ciascuna scuola di specializzazione dovranno presentare alla segreteria, entro il 30 novembre, domanda di ammissione in bollo competente, diretta al rettore e corredata dei documenti prescritti e di quei titoli che ciascun candidato ritenga opportuno presentare nel proprio interesse (carriera scolastica, titoli scientifici e pratici, conoscenza delle lingue estere, ecc.).
+a) elementi di genetica medica;
 
-Art. 73.
+b) elementi di embriologia; anatomia macro e micro dell'apparato genitale femminile; anatomia della pelvi;
 
-I documenti prescritti per l'immatricolazione sono:
+c) elementi di fisiopatologia della riproduzione umana;
 
-a) certificato di nascita in carta legale, debitamente legalizzato per i nati fuori della giurisdizione di Modena;
+d) fisiologia ostetrica;
 
-b) diploma originale di maturita' classica o scientifica;
+e) endocrinologia ginecologica ed ostetrica;
 
-c) diploma originale di laurea;
+f) semeiotica e diagnostica ostetrica;
 
-d) certificato di laurea con tutti i voti riportati in ogni singolo esame di profitto;
+g) patologia ostetrica e ginecologica (biennale) I;
 
-e) tre fotografie, di cui una autenticata, debitamente legalizzata per i residenti fuori della giurisdizione di Modena.
+h) lingua straniera (inglese)-(quadriennale) I.
 
-Coloro che non presenteranno tutti i documenti di cui sopra, saranno esclusi dagli esami di ammissione.
+2° Anno:
 
-Art. 74.
+a) semeiotica e diagnostica ginecologica;
 
-Gli aspiranti all'ammissione al primo corso dovranno sostenere presso la scuola prescelta un concorso per titoli e per esami, secondo le particolari esigenze didattiche di ciascuna scuola. I posti disponibili per ciascuna scuola saranno conferiti in base alla graduatoria del concorso.
+b) operazioni ostetriche (biennale) I;
 
-Art. 75.
+c) anatomia ed istologia patologica della sfera genitale femminile;
 
-I candidati prescelti dovranno regolarizzare immediatamente la propria posizione presentando alla segreteria i seguenti documenti:
+d) citologia ginecologica;
 
-a) quietanza del pagamento delle tasse, soprattasse e contributi;
+e) patologia ostetrica e ginecologica (biennale) II;
 
-b) libretto e tessera, che si ritirano presso gli uffici della Universita'.
+f) diagnostica di laboratorio in ostetricia e ginecologia;
 
-Art. 76.
+g) lingua straniera (inglese) (quadriennale) II.
 
-La misura delle tasse e soprattasse, che viene resa nota ogni anno con apposito manifesto, viene stabilita dal Consiglio di amministrazione, sentito il Consiglio di facolta'.
+3° Anno:
 
-L'ammontare dei contributi viene stabilito, pure ogni anno, dal Consiglio di amministrazione, su proposta del Senato accademico, udite la Facolta' e scuole.
+a) puericultura prenatale;
 
-Le tasse, soprattasse e contributi possono essere pagati in quattro rate: la prima all'atto della iscrizione; la seconda entro il 31 gennaio; la terza entro il 31 marzo; la quarta entro il 31 maggio.
+b) immunologia ostetrica e ginecologica;
 
-L'allievo che ha ottenuto la iscrizione ad un anno di corso non ha diritto in nessun caso alla restituzione delle tasse, soprattasse e contributi pagati.
+c) analgo-anestesia e rianimazione in ostetricia;
 
-Art. 77.
+d) operazioni ostetriche (biennale) II;
 
-Agli anni successivi al primo saranno ammessi gli allievi che abbiano regolarmente frequentato il primo corso e che abbiano ottenuto giudizio favorevole negli esami annuali di profitto prescritti, relativi alle materie fondamentali. Per le materie complementari non e' prescritto esame a parte, ma il candidato sara' interrogato sulle stesse in occasione degli esami delle materie fondamentali.
+e) operazioni ginecologiche (biennale) I;
 
-Per le materie ad insegnamento pluriennale l'esame unico e' prescritto alla fine dell'ultimo anno.
+f) ostetricia e ginecologia forense;
 
-Le iscrizioni a tutti gli anni di corso successivi al primo si aprono il 1 agosto e si chiudono improrogabilmente il 5 novembre.
+g) terapia medica in ostetricia e ginecologia;
 
-Art. 78.
+h) clinica ostetrica e ginecologica (biennale) I;
 
-Per l'iscrizione agli anni di corso successivi ali primo, la domanda, redatta su carta da bollo competente, deve essere corredata:
+i) psicosomatica ostetrica e ginecologica;
 
-a) del libretto personale di iscrizione;
+l) lingua straniera (inglese) (quadriennale) III.
 
-b) della quietanza del pagamento delle tasse, soprattasse e contributi.
+4° Anno:
 
-Art. 79.
+a) neonatologia;
 
-Coloro che non hanno ottenuto tutte le firme di frequenza annuali, dovranno ripetere l'anno di corso con il conseguente pagamento di tutte le tasse, soprattasse e contributi.
+b) urologia ginecologica;
 
-Art. 80.
+c) radiodiagnostica e terapia fisica in ostetricia e ginecologia;
 
-Coloro che hanno ottenuto tutte le firme di frequenza annuali, ma che, ove prescritto, non hanno superato l'esame o gli esami di profitto, non potranno essere iscritti all'anno di corso successivo, ma dovranno essere iscritti fuori corso.
+d) chirurgia addominale;
 
-Art. 81.
+e) operazioni ginecologiche (biennale) II;
 
-Non sono consentite abbreviazioni di corso. E' fatta eccezione per gli assistenti universitari di ruolo nelle rispettive specialita', ai quali e' consentita l'iscrizione direttamente al secondo anno senza esame di ammissione.
+f) clinica ostetrica e ginecologica (biennale) II;
 
-Art. 82.
+g) lingua straniera (inglese) (quadriennale) IV.
 
-Le domande di passaggio da una scuola all'altra dell'Universita' di Modena devono essere presentate alla segreteria dal 1 agosto al 31 dicembre.
+Art. 122. - La frequenza alle lezioni ed alle esercitazioni pratiche e' obbligatoria.
 
-Il Consiglio di facolta', sentito il parere del Consiglio dei professori della scuola interessata e tenuto conto della disponibilita' dei posti, decide in merito al passaggio.
+Gli allievi che non conseguono le attestazioni di frequenza sul relativo libretto non potranno essere ammessi a sostenere le prove di esame.
 
-Art. 83.
+Alla fine di ogni anno di corso gli iscritti, per essere ammessi agli anni di corso successivi, devono superare le prove di esame sulle materie impartite durante l'anno. Per le materie a corsi pluriennali l'esame sara' sostenuto alla fine dei corsi medesimi.
 
-Coloro che chiedono il trasferimento da altra Universita' sono ammessi alla scuola prescelta sempre che i posti siano disponibili, il Consiglio dei professori della scuola abbia espresso parere favorevole ed il Consiglio di facolta' abbia approvato.
+Al termine del corso di studi per il conseguimento del diploma di specialista in ginecologia ed ostetricia gli interessati dovranno superare l'esame di diploma di un argomento attinente alla specializzazione.
 
-Se non concorrono queste condizioni i documenti verranno restituiti d'ufficio alla Universita' di provenienza.
+Dopo l'art. 253, e con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti articoli relativi alla istituzione della scuola di specializzazione in chirurgia d'urgenza e pronto soccorso:
 
-Art. 84.
+Scuola di specializzazione in chirurgia d'urgenza e pronto soccorso
 
-Coloro che chiedono il trasferimento ad altra Universita' non possono ottenere il congedo dall'Universita' di Modena senza il preventivo assenso del direttore della scuola.
+Art. 254. - La scuola di specializzazione in chirurgia d'urgenza e di pronto soccorso ha sede presso la cattedra di chirurgia d'urgenza.
 
-Art. 85.
+Art. 255. - Il corso di studi per il conseguimento del diploma di specialista in chirurgia d'urgenza e di pronto soccorso ha la durata di cinque anni accademici.
 
-L'insegnamento si svolge normalmente secondo il programma stabilito dal Consiglio dei professori della scuola e durante il periodo delle lezioni. La durata del corso si prolunga tuttavia per l'anno solare senza interruzione, per la pratica clinica che si svolge attraverso l'internato, salvo un periodo di vacanze non superiori ad un mese.
+Art. 256. - Alla scuola possono iscriversi i laureati in medicina e chirurgia. E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione all'esercizio della professione di medico chirurgico rilasciato dalla autorita' competente di numero massimo degli iscritti e' di tre per anno di corso.
 
-Art. 86.
+Non sono ammesse abbreviazioni di corso.
 
-La frequenza ai corsi e l'internato sono obbligatori e gli allievi non possono avere impegni tali da limitare l'obbligo di tale frequenza.
+L'ammissione al corso avviene per titoli ed esami.
 
-Possono essere esonerati dal solo internato unicamente gli assistenti effettivi nelle rispettive specialita' che prestino regolare servizio nelle cliniche o negli Istituti universitari o in Istituti ospitalieri delle rispettive specialita' riconosciuti idonei, volta a volta, a giudizio insindacabile del Consiglio dei professori della scuola.
+Art. 257. - La frequenza alle lezioni, esercitazioni e seminari e' obbligatoria per tutti gli iscritti. L'internato e' obbligatorio durante tutti e cinque gli anni di corso sotto forma di permanenza costante in istituto durante le ore della sua attivita'.
 
-Art. 87.
+Art. 258. - Le materie di insegnamento sono le seguenti:
 
-Le domande di esame di profitto dovranno essere presentate nei termini che saranno stabiliti all'inizio di ogni sessione con apposito manifesto e dovranno essere accompagnate dal libretto di iscrizione con le prescritte attestazioni di frequenza.
+1° Anno:
 
-Art. 88.
+1) clinica chirurgica generale d'urgenza e di pronto soccorso (I) (quinquennale);
 
-Per essere ammesso all'esame di diploma, lo specializzando deve aver seguito i corsi e superato gli esami annuali di profitto.
+2) patologia chirurgica (I) (triennale);
 
-L'esame di diploma consiste nella discussione orale di una dissertazione scritta su un tema approvato in precedenza dal professore della materia, corredata da rilievi clinici o sperimentali personali.
+3) anatomia chirurgica;
 
-Per essere ammesso all'esame di diploma, il candidato deve presentare alla segreteria, nei termini che saranno stabiliti all'inizio di ogni sessione con apposito manifesto, domanda in bollo competente diretta al rettore e contenente, oltre ai dati anagrafici, il titolo della tesi e la firma del professore relatore.
+4) semeiotica (I) (biennale);
 
-La dissertazione, in quattro copie, deve essere depositata nella segreteria almeno dieci giorni prima dell'esame.
+5) anestesiologia;
 
-Art. 89.
+6) ricerche di laboratorio;
 
-I candidati riprovati all'esame di diploma possono ripresentarsi alla prova soltanto dopo un anno.
+7) chirurgia sperimentale.
 
-Art. 90.
+2° Anno:
 
-La Commissione per l'esame di ammissione al primo corso e' composta dal direttore della scuola, presidente, e da due professori ufficiali designati dal preside della Facolta'.
+8) clinica chirurgica generale d'urgenza e pronto soccorso II (quinquennale);
 
-Art. 91.
+9) patologia chirurgica II (triennale);
 
-Le Commissioni per gli esami di profitto sono composte di tre membri e sono nominate dal direttore della scuola. Due dei commissari devono essere professori ufficiali.
+10) anatomia patologica;
 
-Art. 92.
+11) endoscopia;
 
-La Commissione per l'esame di diploma e' costituita da sette membri, nominati dai preside della Facolta', udito il direttore della scuola. Almeno cinque membri della predetta Commissione devono essere insegnanti della scuola ed almeno quattro membri devono essere professori di ruolo.
+12) fisiopatologia chirurgica I (biennale);
 
-Art. 93.
+13) semeiotica II (biennale);
 
-Gli esami di ammissione al primo corso avranno luogo nel mese di dicembre.
+14) trattamento pre e post operatorio in chirurgia d'urgenza;
 
-Gli esami di profitto avranno luogo in due sessioni: una estiva (nei mesi di luglio e agosto) ed una autunnale (nei mesi di ottobre e novembre). L'esame di diploma avra' luogo in una sola sessione nei mesi di novembre e dicembre.
+15) rianimazione.
 
-Art. 94.
+3° Anno:
 
-Per la valutazione dei titoli e per ciascuna prova di esame ogni commissario dispone di dieci punti. La votazione e' rappresentata dalla somma dei voti ottenuti nella singola prova. Il candidato che non abbia ottenuto la media di 6/10 si intende riprovato.
+16) clinica chirurgica generale d'urgenza e di pronto soccorso III (quinquennale);
 
-Art. 95.
+17) patologia chirurgica III (triennale);
 
-Il direttore di ciascuna scuola di specializzazione e' di diritto il professore di ruolo che copre la cattedra da cui si intitola la scuola.
+18) chirurgia vascolare d'urgenza;
 
-Nel caso in cui la cattedra non sia coperta da un professore di ruolo, il direttore e' nominato dalla Facolta' di medicina e chirurgia che lo sceglie tra 8 propri componenti.
+19) traumatologia dell'apparato locomotore I (biennale);
 
-Art. 96.
+20) neurotraumatologia I (biennale);
 
-Gli insegnanti della scuola sono nominati dalla Facolta' di medicina e chirurgia su proposta del direttore della scuola, il quale li sceglie tra i professori di ruolo e incaricati, tra i liberi docenti, tra gli aiuti od assistenti effettivi od anche tra persone di riconosciuta competenza nella specialita'.
+21) fisiopatologia chirurgica II;
 
-Art. 97.
+22) terapia intensiva I (biennale);
 
-Il Consiglio di ciascuna scuola si compone dei professori che vi tengono gli insegnamenti prescritti ed e presieduto dal direttore.
+23) radiologia.
 
-Art. 98.
+4° Anno:
 
-Il Consiglio dei direttori delle scuole e' composto dai direttori delle scuole ed e' presieduto dal rettore.
+24) clinica chirurgica generale, d'urgenza e di pronto soccorso IV (quinquennale);
 
-Art. 99.
+25) chirurgia ginecologica d'urgenza;
 
-La sorveglianza sugli iscritti per tutto quanto riguarda la loro attivita' spetta al direttore della scuola.
+26) chirurgia pediatrica d'urgenza;
 
-Agli iscritti alle scuole si applicano le stesse norme disciplinari in vigore per gli studenti universitari.
+27) chirurgia plastica e riparatrice I (biennale);
 
-Art. 100.
+28) traumatologia dell'apparato locomotore II (biennale);
 
-Le tasse, le soprattasse ed i contributi saranno cosi' devoluti:
+29) neurotraumatologia II (biennale);
 
-a) le tasse per servizi resi dall'Universita' a favore del bilancio universitario;
+30) chirurgia toracica d'urgenza I (biennale);
 
-b) le soprattasse per esami a favore dei membri delle Commissioni esaminatrici, ai sensi del [comma secondo dell'art. 1 del decreto del Presidente della Repubblica 1 dicembre 1952, n. 4512](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-12-01;4512~art1-com2);
+31) terapia intensiva II (biennale).
 
-c) i contributi, ad eccezione di quelli aventi speciale destinazione, ai sensi dell'[art. 11 della legge 18 dicembre 1951, n. 1551](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1951-12-18;1551~art11), sono devoluti a favore del direttore e degli insegnanti della scuola e degli istituti nei quali si svolgono i corsi di insegnamento.
+5° Anno:
 
-La ripartizione delle tasse e contributi di cui alle suindicate lettere a) e c), sara' effettuata dal Consiglio di amministrazione, su proposta del Consiglio dei direttori delle scuole, sentito il parere della Facolta' di medicina e chirurgia.
+32) clinica chirurgica generale d'urgenza e di pronto soccorso V (quinquennale);
 
-Art.
-----
+33) chirurgia plastica e riparatrice II (biennale);
 
-101. Per tutto quanto non e' contemplato nel presente statuto saranno applicate le norme legislative e regolamentari universitarie in vigore.
+34) chirurgia toracica d'urgenza II (biennale);
 
-CAPO I TITOLO III Ordinamento delle scuole di specializzazione CAPO I Norme generali
-------------------------------------------------------------------------------------
+35) cardiochirurgia d'urgenza;
 
-### Art. 1
+36) chirurgia urologica d'urgenza;
 
- IL PRESIDENTE DELLA REPUBBLICA  
-  
-Veduto lo statuto dell'Universita' degli studi di Modena, approvato con [regio decreto 14 ottobre 1926, n. 2035](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2035), modificato con i [regi decreti 13 ottobre 1927, n. 2170](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1927-10-13;2170); [30 ottobre 1930, n. 1825](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1930-10-30;1825); [1 ottobre 1931, n. 1336](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1931-10-01;1336); [27 ottobre 1932, n. 2073](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1932-10-27;2073); [6 dicembre 1934, n. 2291](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1934-12-06;2291); [1 ottobre 1936, n. 2088](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1936-10-01;2088); [20 aprile 1939, numero 1075; con decreti del Capo provvisorio dello Stato](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto:1939-04-20;1075) [15 ottobre 1947, n. 1874](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto:1947-10-15;1874) e [30 dicembre 1947, n. 1877; e con decreti del Presidente della Repubblica](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1947-12-30;1877) [23 settembre 1949, n. 817](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-09-23;817); [28 aprile 1951, n. 955](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-04-28;955); [19 giugno 1951, n. 709](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-06-19;709); [26 aprile 1954, n. 739](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1954-04-26;739) e [1 marzo 1955, n. 223](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1955-03-01;223);  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652) e successive modificazioni;  
-Veduta la [legge 18 dicembre 1951, n. 1551](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1951-12-18;1551);  
-Veduto il [decreto del Presidente della Repubblica 1 dicembre 1952, n. 4512](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-12-01;4512);  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
-Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro per la pubblica istruzione;  
-  
-Decreta:  
-  
-Lo statuto dell'Universita' degli studi di Modena, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-Gli articoli dal n. 68 al n. 102, relativi alle scuole di specializzazione in medicina e chirurgia, sono abrogati e sostituiti dai seguenti.  
-  
-Art. 68.  
-  
-Sono istituite presso la Facolta' di medicina e chirurgia scuole di specializzazione che conferiscono diplomi di specialita' nelle discipline professionali medico-chirurgiche ai sensi dell'[art. 178 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art178).  
-  
-Art. 69  
-  
-Le scuole di specializzazione hanno lo scopo di condurre gli allievi ad una approfondita conoscenza della materia e ad una completa capacita' tecnica in un determinato ramo della medicina e chirurgia.  
-  
-Art. 70.  
-  
-Alle scuole di specializzazione della Facolta' di medicina e chirurgia possono iscriversi i laureati nella disciplina stabilita dall'ordinamento della relativa scuola entro i numeri di posti stabiliti per ciascuna scuola.  
-  
-Art. 71.  
-  
-Il numero dei posti disponibili del primo corso di ciascuna scuola e' stabilito ogni anno, entro il mese di maggio, dalla Facolta' di medicina e chirurgia su proposta del Consiglio dei direttori della scuola.  
-  
-Art. 72.  
-  
-Gli aspiranti alla iscrizione al primo corso di ciascuna scuola di specializzazione dovranno presentare alla segreteria, entro il 30 novembre, domanda di ammissione in bollo competente, diretta al rettore e corredata dei documenti prescritti e di quei titoli che ciascun candidato ritenga opportuno presentare nel proprio interesse (carriera scolastica, titoli scientifici e pratici, conoscenza delle lingue estere, ecc.).  
-  
-Art. 73.  
-  
-I documenti prescritti per l'immatricolazione sono:  
-a) certificato di nascita in carta legale, debitamente legalizzato per i nati fuori della giurisdizione di Modena;  
-b) diploma originale di maturita' classica o scientifica;  
-c) diploma originale di laurea;  
-d) certificato di laurea con tutti i voti riportati in ogni singolo esame di profitto;  
-e) tre fotografie, di cui una autenticata, debitamente legalizzata per i residenti fuori della giurisdizione di Modena.  
-Coloro che non presenteranno tutti i documenti di cui sopra, saranno esclusi dagli esami di ammissione.  
-  
-Art. 74.  
-  
-Gli aspiranti all'ammissione al primo corso dovranno sostenere presso la scuola prescelta un concorso per titoli e per esami, secondo le particolari esigenze didattiche di ciascuna scuola. I posti disponibili per ciascuna scuola saranno conferiti in base alla graduatoria del concorso.  
-  
-Art. 75.  
-  
-I candidati prescelti dovranno regolarizzare immediatamente la propria posizione presentando alla segreteria i seguenti documenti:  
-a) quietanza del pagamento delle tasse, soprattasse e contributi;  
-b) libretto e tessera, che si ritirano presso gli uffici della Universita'.  
-  
-Art. 76.  
-  
-La misura delle tasse e soprattasse, che viene resa nota ogni anno con apposito manifesto, viene stabilita dal Consiglio di amministrazione, sentito il Consiglio di facolta'.  
-L'ammontare dei contributi viene stabilito, pure ogni anno, dal Consiglio di amministrazione, su proposta del Senato accademico, udite la Facolta' e scuole.  
-Le tasse, soprattasse e contributi possono essere pagati in quattro rate: la prima all'atto della iscrizione; la seconda entro il 31 gennaio; la terza entro il 31 marzo; la quarta entro il 31 maggio.  
-L'allievo che ha ottenuto la iscrizione ad un anno di corso non ha diritto in nessun caso alla restituzione delle tasse, soprattasse e contributi pagati.  
-  
-Art. 77.  
-  
-Agli anni successivi al primo saranno ammessi gli allievi che abbiano regolarmente frequentato il primo corso e che abbiano ottenuto giudizio favorevole negli esami annuali di profitto prescritti, relativi alle materie fondamentali. Per le materie complementari non e' prescritto esame a parte, ma il candidato sara' interrogato sulle stesse in occasione degli esami delle materie fondamentali.  
-Per le materie ad insegnamento pluriennale l'esame unico e' prescritto alla fine dell'ultimo anno.  
-Le iscrizioni a tutti gli anni di corso successivi al primo si aprono il 1 agosto e si chiudono improrogabilmente il 5 novembre.  
-  
-Art. 78.  
-  
-Per l'iscrizione agli anni di corso successivi ali primo, la domanda, redatta su carta da bollo competente, deve essere corredata:  
-a) del libretto personale di iscrizione;  
-b) della quietanza del pagamento delle tasse, soprattasse e contributi.  
-  
-Art. 79.  
-  
-Coloro che non hanno ottenuto tutte le firme di frequenza annuali, dovranno ripetere l'anno di corso con il conseguente pagamento di tutte le tasse, soprattasse e contributi.  
-  
-Art. 80.  
-  
-Coloro che hanno ottenuto tutte le firme di frequenza annuali, ma che, ove prescritto, non hanno superato l'esame o gli esami di profitto, non potranno essere iscritti all'anno di corso successivo, ma dovranno essere iscritti fuori corso.  
-  
-Art. 81.  
-  
-Non sono consentite abbreviazioni di corso. E' fatta eccezione per gli assistenti universitari di ruolo nelle rispettive specialita', ai quali e' consentita l'iscrizione direttamente al secondo anno senza esame di ammissione.  
-  
-Art. 82.  
-  
-Le domande di passaggio da una scuola all'altra dell'Universita' di Modena devono essere presentate alla segreteria dal 1 agosto al 31 dicembre.  
-Il Consiglio di facolta', sentito il parere del Consiglio dei professori della scuola interessata e tenuto conto della disponibilita' dei posti, decide in merito al passaggio.  
-  
-Art. 83.  
-  
-Coloro che chiedono il trasferimento da altra Universita' sono ammessi alla scuola prescelta sempre che i posti siano disponibili, il Consiglio dei professori della scuola abbia espresso parere favorevole ed il Consiglio di facolta' abbia approvato.  
-Se non concorrono queste condizioni i documenti verranno restituiti d'ufficio alla Universita' di provenienza.  
-  
-Art. 84.  
-  
-Coloro che chiedono il trasferimento ad altra Universita' non possono ottenere il congedo dall'Universita' di Modena senza il preventivo assenso del direttore della scuola.  
-  
-Art. 85.  
-  
-L'insegnamento si svolge normalmente secondo il programma stabilito dal Consiglio dei professori della scuola e durante il periodo delle lezioni. La durata del corso si prolunga tuttavia per l'anno solare senza interruzione, per la pratica clinica che si svolge attraverso l'internato, salvo un periodo di vacanze non superiori ad un mese.  
-  
-Art. 86.  
-  
-La frequenza ai corsi e l'internato sono obbligatori e gli allievi non possono avere impegni tali da limitare l'obbligo di tale frequenza.  
-Possono essere esonerati dal solo internato unicamente gli assistenti effettivi nelle rispettive specialita' che prestino regolare servizio nelle cliniche o negli Istituti universitari o in Istituti ospitalieri delle rispettive specialita' riconosciuti idonei, volta a volta, a giudizio insindacabile del Consiglio dei professori della scuola.  
-  
-Art. 87.  
-  
-Le domande di esame di profitto dovranno essere presentate nei termini che saranno stabiliti all'inizio di ogni sessione con apposito manifesto e dovranno essere accompagnate dal libretto di iscrizione con le prescritte attestazioni di frequenza.  
-  
-Art. 88.  
-  
-Per essere ammesso all'esame di diploma, lo specializzando deve aver seguito i corsi e superato gli esami annuali di profitto.  
-L'esame di diploma consiste nella discussione orale di una dissertazione scritta su un tema approvato in precedenza dal professore della materia, corredata da rilievi clinici o sperimentali personali.  
-Per essere ammesso all'esame di diploma, il candidato deve presentare alla segreteria, nei termini che saranno stabiliti all'inizio di ogni sessione con apposito manifesto, domanda in bollo competente diretta al rettore e contenente, oltre ai dati anagrafici, il titolo della tesi e la firma del professore relatore.  
-La dissertazione, in quattro copie, deve essere depositata nella segreteria almeno dieci giorni prima dell'esame.  
-  
-Art. 89.  
-  
-I candidati riprovati all'esame di diploma possono ripresentarsi alla prova soltanto dopo un anno.  
-  
-Art. 90.  
-  
-La Commissione per l'esame di ammissione al primo corso e' composta dal direttore della scuola, presidente, e da due professori ufficiali designati dal preside della Facolta'.  
-  
-Art. 91.  
-  
-Le Commissioni per gli esami di profitto sono composte di tre membri e sono nominate dal direttore della scuola. Due dei commissari devono essere professori ufficiali.  
-  
-Art. 92.  
-  
-La Commissione per l'esame di diploma e' costituita da sette membri, nominati dai preside della Facolta', udito il direttore della scuola. Almeno cinque membri della predetta Commissione devono essere insegnanti della scuola ed almeno quattro membri devono essere professori di ruolo.  
-  
-Art. 93.  
-  
-Gli esami di ammissione al primo corso avranno luogo nel mese di dicembre.  
-Gli esami di profitto avranno luogo in due sessioni: una estiva (nei mesi di luglio e agosto) ed una autunnale (nei mesi di ottobre e novembre). L'esame di diploma avra' luogo in una sola sessione nei mesi di novembre e dicembre.  
-  
-Art. 94.  
-  
-Per la valutazione dei titoli e per ciascuna prova di esame ogni commissario dispone di dieci punti. La votazione e' rappresentata dalla somma dei voti ottenuti nella singola prova. Il candidato che non abbia ottenuto la media di 6/10 si intende riprovato.  
-  
-Art. 95.  
-  
-Il direttore di ciascuna scuola di specializzazione e' di diritto il professore di ruolo che copre la cattedra da cui si intitola la scuola.  
-Nel caso in cui la cattedra non sia coperta da un professore di ruolo, il direttore e' nominato dalla Facolta' di medicina e chirurgia che lo sceglie tra 8 propri componenti.  
-  
-Art. 96.  
-  
-Gli insegnanti della scuola sono nominati dalla Facolta' di medicina e chirurgia su proposta del direttore della scuola, il quale li sceglie tra i professori di ruolo e incaricati, tra i liberi docenti, tra gli aiuti od assistenti effettivi od anche tra persone di riconosciuta competenza nella specialita'.  
-  
-Art. 97.  
-  
-Il Consiglio di ciascuna scuola si compone dei professori che vi tengono gli insegnamenti prescritti ed e presieduto dal direttore.  
-  
-Art. 98.  
+37) angioradiologia;
+
+38) traumatologia maxillo-facciale;
+
+39) trattamento del politraumatizzato;
+
+40) medicina legale.
+
+Art. 259. - Alla fine di ogni anno accademico gli specializzandi per poter ottenere l'ammissione all'anno successivo dovranno superare un esame di profitto comprensivo degli insegnamenti previsti per l'anno di corso; per le materie a corso pluriennale l'esame sara' sostenuto alla fine dei corsi medesimi.
+
+Art. 260. - L'esame di diploma consiste nella discussione di una tesi su un tema preventivamente approvato dal direttore della scuola.
+
+Il direttore della scuola e' il professore di ruolo o fuori ruolo della stessa materia della specializzazione o, in carenza, il professore di ruolo o fuori ruolo di materia affine.
+
+Le norme per l'iscrizione, gli esami, le tasse, ecc., sono quelle generali per le scuole di specializzazione dell'Universita' di Modena.
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 31 ottobre 1978
+
+PERTINI
+
+PEDINI
+
+Visto, il Guardasigilli: BONIFACIO
+
+Registrato
+----------
+
+alla Corte dei conti, addi' 23 maggio 1979 Registro n. 38 Istruzione, foglio n. 393
+
+Art. 1
+------
+
+ IL PRESIDENTE DELLA REPUBBLICA   
   
-Il Consiglio dei direttori delle scuole e' composto dai direttori delle scuole ed e' presieduto dal rettore.  
+Veduto lo statuto dell'Universita' di Modena, approvato con [regio decreto 14 ottobre 1926, n. 2035](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2035) e modificato con [regio decreto 13 ottobre 1927, n. 2170](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2170), e successive modificazioni;   
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' dell'Universita' anzidetta;   
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Modena e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;   
+Veduta la [legge 22 maggio 1978, n. 217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-05-22;217);   
+Sentito il parere del Consiglio superiore della pubblica istruzione;   
+Sulla proposta del Ministro della pubblica istruzione;   
   
-Art. 99.  
+Decreta:   
   
-La sorveglianza sugli iscritti per tutto quanto riguarda la loro attivita' spetta al direttore della scuola.  
-Agli iscritti alle scuole si applicano le stesse norme disciplinari in vigore per gli studenti universitari.  
+Lo statuto dell'Universita' degli studi di Modena, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
+Gli articoli 117, 118, 119, 120, 121 e 122, relativi alla scuola di specializzazione in ostetricia e ginecologia, che muta la denominazione in quella di scuola di specializzazione in ginecologia e ostetricia, sono soppressi e sostituiti dai seguenti:   
   
-Art. 100.  
+Scuola di specializzazione in ginecologia e ostetricia   
   
-Le tasse, le soprattasse ed i contributi saranno cosi' devoluti:  
-a) le tasse per servizi resi dall'Universita' a favore del bilancio universitario;  
-b) le soprattasse per esami a favore dei membri delle Commissioni esaminatrici, ai sensi del [comma secondo dell'art. 1 del decreto del Presidente della Repubblica 1 dicembre 1952, n. 4512](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-12-01;4512~art1-com2);  
-c) i contributi, ad eccezione di quelli aventi speciale destinazione, ai sensi dell'[art. 11 della legge 18 dicembre 1951, n. 1551](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1951-12-18;1551~art11), sono devoluti a favore del direttore e degli insegnanti della scuola e degli istituti nei quali si svolgono i corsi di insegnamento.  
-La ripartizione delle tasse e contributi di cui alle suindicate lettere a) e c), sara' effettuata dal Consiglio di amministrazione, su proposta del Consiglio dei direttori delle scuole, sentito il parere della Facolta' di medicina e chirurgia.  
+Art. 117. - La scuola di specializzazione in ginecologia ed ostetricia ha sede presso la clinica ostetrica e ginecologica e conferisce il diploma di specialista in ginecologia ed ostetricia.   
+Art. 118. - La direzione della scuola e' affidata al professore di ruolo o fuori ruolo della stessa materia della specializzazione o, in carenza, al professore di ruolo o fuori ruolo di materia affine.   
+Art. 119. - Possono iscriversi alla scuola i laureati in medicina e chirurgia. E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale rilasciato dall'autorita' competente.   
+Art. 120. - La durata del corso di studi e' di quattro anni e non e' suscettibile di abbreviazioni.   
+Il numero massimo degli allievi e' di otto per anno di corso e complessivamente di trentadue iscritti per l'intero corso di studi.   
+L'ammissione al corso avviene per titoli ed esami.   
+Art. 121. - Le materie di insegnamento sono le seguenti:   
+1° Anno:   
+a) elementi di genetica medica;   
+b) elementi di embriologia; anatomia macro e micro dell'apparato genitale femminile; anatomia della pelvi;   
+c) elementi di fisiopatologia della riproduzione umana;   
+d) fisiologia ostetrica;   
+e) endocrinologia ginecologica ed ostetrica;   
+f) semeiotica e diagnostica ostetrica;   
+g) patologia ostetrica e ginecologica (biennale) I;   
+h) lingua straniera (inglese)-(quadriennale) I.   
+2° Anno:   
+a) semeiotica e diagnostica ginecologica;   
+b) operazioni ostetriche (biennale) I;   
+c) anatomia ed istologia patologica della sfera genitale femminile;   
+d) citologia ginecologica;   
+e) patologia ostetrica e ginecologica (biennale) II;   
+f) diagnostica di laboratorio in ostetricia e ginecologia;   
+g) lingua straniera (inglese) (quadriennale) II.   
+3° Anno:   
+a) puericultura prenatale;   
+b) immunologia ostetrica e ginecologica;   
+c) analgo-anestesia e rianimazione in ostetricia;   
+d) operazioni ostetriche (biennale) II;   
+e) operazioni ginecologiche (biennale) I;   
+f) ostetricia e ginecologia forense;   
+g) terapia medica in ostetricia e ginecologia;   
+h) clinica ostetrica e ginecologica (biennale) I;   
+i) psicosomatica ostetrica e ginecologica;   
+l) lingua straniera (inglese) (quadriennale) III.   
+4° Anno:   
+a) neonatologia;   
+b) urologia ginecologica;   
+c) radiodiagnostica e terapia fisica in ostetricia e ginecologia;   
+d) chirurgia addominale;   
+e) operazioni ginecologiche (biennale) II;   
+f) clinica ostetrica e ginecologica (biennale) II;   
+g) lingua straniera (inglese) (quadriennale) IV.   
+Art. 122. - La frequenza alle lezioni ed alle esercitazioni pratiche e' obbligatoria.   
+Gli allievi che non conseguono le attestazioni di frequenza sul relativo libretto non potranno essere ammessi a sostenere le prove di esame.   
+Alla fine di ogni anno di corso gli iscritti, per essere ammessi agli anni di corso successivi, devono superare le prove di esame sulle materie impartite durante l'anno. Per le materie a corsi pluriennali l'esame sara' sostenuto alla fine dei corsi medesimi.   
+Al termine del corso di studi per il conseguimento del diploma di specialista in ginecologia ed ostetricia gli interessati dovranno superare l'esame di diploma di un argomento attinente alla specializzazione.   
+Dopo l'art. 253, e con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti articoli relativi alla istituzione della scuola di specializzazione in chirurgia d'urgenza e pronto soccorso:   
   
-Art. 101.  
+Scuola di specializzazione in chirurgia d'urgenza e pronto soccorso   
+Art. 254. - La scuola di specializzazione in chirurgia d'urgenza e di pronto soccorso ha sede presso la cattedra di chirurgia d'urgenza.   
+Art. 255. - Il corso di studi per il conseguimento del diploma di specialista in chirurgia d'urgenza e di pronto soccorso ha la durata di cinque anni accademici.   
+Art. 256. - Alla scuola possono iscriversi i laureati in medicina e chirurgia. E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione all'esercizio della professione di medico chirurgico rilasciato dalla autorita' competente di numero massimo degli iscritti e' di tre per anno di corso.   
+Non sono ammesse abbreviazioni di corso.   
+L'ammissione al corso avviene per titoli ed esami.   
+Art. 257. - La frequenza alle lezioni, esercitazioni e seminari e' obbligatoria per tutti gli iscritti. L'internato e' obbligatorio durante tutti e cinque gli anni di corso sotto forma di permanenza costante in istituto durante le ore della sua attivita'.   
+Art. 258. - Le materie di insegnamento sono le seguenti:   
+1° Anno:   
+1) clinica chirurgica generale d'urgenza e di pronto soccorso (I) (quinquennale);   
+2) patologia chirurgica (I) (triennale);   
+3) anatomia chirurgica;   
+4) semeiotica (I) (biennale);   
+5) anestesiologia;   
+6) ricerche di laboratorio;   
+7) chirurgia sperimentale.   
+2° Anno:   
+8) clinica chirurgica generale d'urgenza e pronto soccorso II (quinquennale);   
+9) patologia chirurgica II (triennale);   
+10) anatomia patologica;   
+11) endoscopia;   
+12) fisiopatologia chirurgica I (biennale);   
+13) semeiotica II (biennale);   
+14) trattamento pre e post operatorio in chirurgia d'urgenza;   
+15) rianimazione.   
+3° Anno:   
+16) clinica chirurgica generale d'urgenza e di pronto soccorso III (quinquennale);   
+17) patologia chirurgica III (triennale);   
+18) chirurgia vascolare d'urgenza;   
+19) traumatologia dell'apparato locomotore I (biennale);   
+20) neurotraumatologia I (biennale);   
+21) fisiopatologia chirurgica II;   
+22) terapia intensiva I (biennale);   
+23) radiologia.   
+4° Anno:   
+24) clinica chirurgica generale, d'urgenza e di pronto soccorso IV (quinquennale);   
+25) chirurgia ginecologica d'urgenza;   
+26) chirurgia pediatrica d'urgenza;   
+27) chirurgia plastica e riparatrice I (biennale);   
+28) traumatologia dell'apparato locomotore II (biennale);   
+29) neurotraumatologia II (biennale);   
+30) chirurgia toracica d'urgenza I (biennale);   
+31) terapia intensiva II (biennale).   
+5° Anno:   
+32) clinica chirurgica generale d'urgenza e di pronto soccorso V (quinquennale);   
+33) chirurgia plastica e riparatrice II (biennale);   
+34) chirurgia toracica d'urgenza II (biennale);   
+35) cardiochirurgia d'urgenza;   
+36) chirurgia urologica d'urgenza;   
+37) angioradiologia;   
+38) traumatologia maxillo-facciale;   
+39) trattamento del politraumatizzato;   
+40) medicina legale.   
+Art. 259. - Alla fine di ogni anno accademico gli specializzandi per poter ottenere l'ammissione all'anno successivo dovranno superare un esame di profitto comprensivo degli insegnamenti previsti per l'anno di corso; per le materie a corso pluriennale l'esame sara' sostenuto alla fine dei corsi medesimi.   
+Art. 260. - L'esame di diploma consiste nella discussione di una tesi su un tema preventivamente approvato dal direttore della scuola.   
+Il direttore della scuola e' il professore di ruolo o fuori ruolo della stessa materia della specializzazione o, in carenza, il professore di ruolo o fuori ruolo di materia affine.   
+Le norme per l'iscrizione, gli esami, le tasse, ecc., sono quelle generali per le scuole di specializzazione dell'Universita' di Modena.   
   
-Per tutto quanto non e' contemplato nel presente statuto saranno applicate le norme legislative e regolamentari universitarie in vigore.  
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+### Dato a Roma, addi' 31 ottobre 1978
+
+PERTINI PEDINI
+
+Visto, il Guardasigilli: BONIFACIO
+
+Registrato alla Corte dei conti, addi' 23 maggio 1979
+
+Registro n. 38 Istruzione, foglio n. 393

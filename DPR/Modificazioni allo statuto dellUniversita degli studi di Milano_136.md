@@ -1,120 +1,205 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 maggio 1957 n. 584
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1981 n. 1037
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 maggio 1957 n. 584
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1981 n. 1037
+===============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Milano.
 ------------------------------------------------------------------
 
-Art. 1
-------
+IL PRESIDENTE DELLA REPUBBLICA
+------------------------------
 
- IL PRESIDENTE DELLA REPUBBLICA.   
+Veduto lo statuto dell'Universita' di Milano, approvato con [regio decreto 4 novembre 1926, n. 2280](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-11-04;2280) e modificato con [regio decreto 12 ottobre 1927, n. 2233](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-12;2233), e successive modificazioni;
+
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
+
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
+
+Veduta la [legge 22 maggio 1978, n. 217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-05-22;217);
+
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Milano e convalidati dal Consiglio universitario nazionale nel suo parere;
+
+Veduto l'[art. 16 del decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382~art16);
+
+Veduta la necessita' di adeguare la norma sulla direzione delle scuole di perfezionamento, di specializzazione e delle scuole dirette a fini speciali a quanto disposto dall'art. 16 del citato [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
+
+Sentito il parere del Consiglio universitario nazionale;
+
+Sulla proposta del Ministro della pubblica istruzione;
+
+Decreta:
+--------
+
+Lo statuto dell'Universita' di Milano, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+
+Articolo unico
+--------------
+
   
-Veduto lo statuto dell'Universita' degli studi di Milano, approvato con [regio decreto 4 novembre 1926, n. 2280](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-11-04;2280) e modificato con [regio decreto 13 ottobre 1927, n. 2233](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2233), e successivi;   
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1392](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1392);   
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);   
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;   
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;   
-Sentito il parere del Consiglio superiore della pubblica istruzione;   
-Sulla proposta del Ministro per la pubblica istruzione;   
+Dopo l'art. 264, e con il conseguente spostamento della numerazione successiva degli articoli, sono aggiunti i seguenti nuovi articoli relativi all'istituzione delle scuole di specializzazione in criminologia clinica e in oncologia.  
   
-Decreta:   
+Scuola di specializzazione in criminologia clinica  
   
-Lo statuto dell'Universita' degli studi di Milano, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
+Art. 265. - La scuola di specializzazione in criminologia clinica conferisce il diploma di specialista in criminologia clinica ed ha sede presso la cattedra di antropologia criminale della facolta' di medicina e chirurgia dell'Universita'.  
+La direzione della scuola e' affidata a professore ordinario, straordinario o fuori ruolo che insegni anche nella scuola stessa. In caso di motivato impedimento la direzione della scuola e' affidata a professore associato, che pure insegni nella scuola medesima.  
+Art. 266. - La scuola ha due indirizzi:  
+a) indirizzo medico-psicologico e psichiatrico-forense per i laureati in medicina e chirurgia;  
+b) indirizzo socio-psicologico per i laureati in giurisprudenza, scienze politiche, pedagogia, sociologia, psicologia, lettere e filosofia.  
+Dell'indirizzo seguito viene fatta espressa menzione sul diploma di specializzazione.  
+La durata del corso della scuola e' di tre anni, la frequenza e' obbligatoria. Non sono consentite abbreviazioni di corso.  
+Art. 267. - Gli insegnamenti impartiti nella scuola sono i seguenti:  
+Insegnamenti fondamentali comuni ai due indirizzi:  
+1) criminologia generale I;  
+2) elementi di diritto;  
+3) elementi di sociologia;  
+4) elementi di psicologia;  
+5) elementi di biologia;  
+6) metodologia della ricerca;  
+7) criminologia generale II;  
+8) criminologia minorile;  
+9) trattamento criminologico;  
+10) politica criminale e diritto penitenziario.  
+Insegnamenti fondamentali dell'indirizzo medico-psicologico e psichiatrico-forense:  
+1) psicopatologia generale;  
+2) psichiatria clinica;  
+3) diagnostica criminologica;  
+4) medicina legale criminalistica;  
+5) psicodiagnostica;  
+6) neurologia e psichiatria forense;  
+7) prevenzione della patologia del comportamento;  
+8) tecniche di rieducazione minorile;  
+9) legislazione socio-sanitaria.  
+Insegnamenti fondamentali dell'indirizzo socio-psicologico:  
+1) elementi di psicopatologia generale;  
+2) elementi di psichiatria clinica forense;  
+3) tecniche di servizio sociale;  
+4) antropologia culturale;  
+5) elementi di medicina legale;  
+6) psicologia sociale;  
+7) tecniche psicopedagogiche;  
+8) sociologia della devianza;  
+9) metodi della prevenzione.  
+Insegnamenti complementari:  
+1) antropofenomenologia;  
+2) etologia dei comportamenti criminosi;  
+3) sociologia del diritto;  
+4) psicobiologia;  
+5) economia della sicurezza e della difesa sociale  
+6) psicologia e psicopatologia dell'eta' evolutiva;  
+7) igiene mentale;  
+8) psicoterapia.  
+Il piano di studi della scuola di specializzazione il seguente:  
+1° Anno (comune ai due indirizzi):  
+1) criminologia generale I;  
+2) elementi di diritto;  
+3) elementi di sociologia;  
+4) elementi di psicologia;  
+5) elementi di biologia;  
+6) metodologia della ricerca;  
+7) una materia integrativa a scelta.  
+2° Anno:  
   
-Art. 44. - Agli insegnamenti complementari del corso di laurea in scienze agrarie sono aggiunti quelli di:   
-14) Tecnica delle applicazioni frigorifere;   
-15) Microbiologia del terreno.   
-Art. 98. - Alle scuole di specializzazione in medicina e chirurgia sono aggiunte quelle in medicina dello sport, e in medicina e igiene scolastica, il cui ordinamento va inserito dopo quello della scuola di specializzazione in psichiatria.   
+a) indirizzo medico-psicologico e psichiatrico forense:  
+1) criminologia generale II;  
+2) psicopatologia generale;  
+3) psichiatria clinica;  
+4) diagnostica criminologica;  
+5) medicina legale e criminalistica;  
+6) psicodiagnostica;  
+7) criminologia minorile;  
+8) una materia integrativa a scelta;  
+b) indirizzo socio-psicologico:  
+1) criminologia generale II;  
+2) elementi di psicopatologia generale;  
+3) elementi di psichiatria clinica e forense;  
+4) tecniche di servizio sociale;  
+5) antropologia culturale;  
+6) elementi di medicina legale;  
+7) criminologia minorile;  
+8) una materia integrativa a scelta.  
   
-Scuola di specializzazione in medicina dello sport.   
+3° Anno:  
   
-La durata del corso degli studi e' di due anni.   
-La direzione della scuola e' affidata al titolare della cattedra di fisiologia umana.   
-Gli insegnanti della scuola sono nominati dal rettore, su proposta del Consiglio della Facolta' di medicina e chirurgia, udito il direttore della scuola.   
-Le materie di insegnamento sono le seguenti, ripartite nel biennio:   
-Primo anno:   
-a) Anatomia normale del sistema locomotore, cardio-respiratorio e nervoso;   
-b) Biofisica   
-c) Fisiologia generale (con particolare riferimento agli apparati respiratorio e circolatorio nonche' del locomotore);   
-d) Fisio-patologia generale (con particolare riguardo agli apparati di cui sopra)   
-e) Patologia chirurgica (con particolare riguardo alle lesioni traumatiche del torace, addome, cranio);   
-f) Biochimica.   
-Inoltre nel corso dell'anno saranno svolte conferenze straordinarie di:   
-1) Cardiologia,   
-2) Reumatologia,   
-3) Radiologia,   
-4) Elementi di statistica,   
-5) Antropometria.   
-Secondo anno:   
-a) Fisiologia applicata allo sport (metodi di ricerca e di misurazione, con particolare riguardo alle applicazioni sui campi agonistici)   
-b) Chirurgia d'urgenza-pronto soccorso;   
-c) Traumatologia e ortopedia-tecnica degli apparecchi gessati;   
-d) Clinica, medica-soccorso medico d'urgenza;   
-e) Neurologia;   
-f) Medicina legale ed infortunistica.   
-Inoltre nel corso dell'anno saranno svolte conferenze straordinarie di:   
-1) Oculistica e traumatologia oculare,   
-2) Patologia vascolare,   
-3) Fisiologia dell'alimentazione,   
-4) Psicologia dello sport,   
-5) Tecnica del massaggio.   
-Durante i due anni di corso gli specializzandi sono tenuti a frequentare le esercitazioni pratiche di laboratorio ed a presenziare alle conferenze straordinarie.   
-Al termine del primo anno accademico, gli specializzandi che abbiano ottenuto le prescritte attestazioni di frequenza, dovranno, per potersi iscrivere all'anno di corso successivo, superare gli esami in tutte le materie comprese nel piano di studi.   
-Per essere ammesso all'esame di diploma, che consistera' nella discussione orale di una tesi scritta, in precedenza approvata dal direttore della scuola, lo specializzando dovra' aver superato tutti i dodici esami previsti dal piano degli studi.   
-Nel manifesto annuale, la Facolta' comunichera' il numero massimo dei posti disponibili al primo corso e le modalita' di ammissione alla scuola.   
-Per l'ammissione agli esami di profitto e di diploma, per la composizione delle relative Commissioni esaminatrici, per quanto concerne le tasse e soprattasse dovute dagli iscritti alla scuola, valgono le norme generali previste dallo statuto per le scuole di specializzazione della Facolta' di medicina e chirurgia. Gli eventuali contributi speciali dovuti dagli iscritti, sono stabiliti, anno per anno, dal Consiglio di amministrazione dell'Universita', su proposta del Senato accademico, udite le Facolta' e la scuola.   
+a) indirizzo medico-psicologico e psichiatrico forense:  
+1) neurologia e psichiatria forense;  
+2) trattamento criminologico;  
+3) prevenzione della patologia del comportamento;  
+4) tecniche di rieducazione minorile;  
+5) legislazione socio-sanitaria;  
+6) politica criminale e diritto penitenziario;  
+7) una materia integrativa a scelta;  
+b) indirizzo socio-psicologico:  
+1) psicologia sociale;  
+2) tecniche psicopedagogiche;  
+3) sociologia della devianza;  
+4) metodi di prevenzione;  
+5) trattamento criminologico;  
+6) politica criminale e diritto penitenziario;  
+7) una materia integrativa a scelta.  
+Art. 268. - All'atto della domanda di iscrizione a ciascuno dei tre anni di corso l'allievo dovra' indicare alla segreteria della scuola una materia integrativa da scegliere fra le materie complementari ovvero tra quelle fondamentali appartenenti all'indirizzo al quale non e' iscritto. L'indicazione e' vincolante.  
+Art. 269. - Gli insegnamenti potranno essere integrati da esercitazioni pratiche nonche' da conferenze tenute da esperti italiani e stranieri.  
+Art. 270. - Alla scuola sono ammessi i laureati in medicina e chirurgia, in giurisprudenza, in scienze politiche, in pedagogia, in sociologia, in psicologia, in lettere e filosofia, in numero complessivo non superiore a trenta per i tre anni di corso.  
+L'ammissione alla scuola avverra' mediante concorso per esami.  
+Art. 271. - Gli esami di profitto sono tenuti ogni anno per singole materie o per gruppi di materie. Per essere ammesso all'esame di diploma l'allievo deve aver sostenuto ventidue esami, dei quali diciannove relativi alle materie fondamentali dell'indirizzo seguito e tre relativi alle materie integrative scelte.  
+Art. 272. - L'esame di diploma consiste nella discussione di una dissertazione scritta originale, in una delle materie oggetto di insegnamento. Il tema concordato con il docente dovra' essere presentato al direttore della scuola, per l'approvazione, entro trenta giorni dalla data di inizio dell'ultimo anno di corso.  
+A coloro che hanno superato l'esame di diploma viene rilasciato il diploma di specialista in criminologia clinica, con la specificazione dell'indirizzo seguito.  
+Art. 273. - Le norme per l'iscrizione, per gli esami, per le tasse, ecc., sono quelle previste dallo statuto relativo all'ordinamento delle scuole di specializzazione dell'Universita' degli studi di Milano.  
   
-Scuola di specializzazione in medicina ed igiene scolastica.   
+Scuola di specializzazione in oncologia  
   
-Presso la Facolta' di medicina, e chirurgia e' stata istituita una scuola di specializzazione in medicina e igiene scolastica. Tale scuola si propone di dare una adeguata formazione professionale ai medici che vorranno esercitare la professione nell'ambito della medicina scolastica.   
-La durata del corso degli studi della scuola di specializzazione in medicina e igiene scolastica e' di due anni.   
-Alla direzione della scuola si alterneranno il direttore della clinica pediatrica ed il direttore dell'Istituto di igiene con turni biennali. La scuola avra' sede nell'Istituto di igiene dell'Universita'.   
-La scuola oltre al direttore avra' un Consiglio direttivo formato da quattro insegnanti della scuola i quali verranno nominati annualmente dal Consiglio di Facolta'.   
-La frequenza alle elezioni ed ai tirocini e' obbligatoria e verra' indicata con apposito calendario; i tirocini pratici si svolgeranno secondo norme stabilite, presso i servizi di vigilanza medica scolastica dell'Ufficio di igiene del comune di Milano.   
-Alla fine di ciascun anno scolastico gli specializzandi che abbiano ottenuto le prescritte attestazioni di frequenza, dovranno sostenere un esame di profitto il cui superamento e' condizione necessaria per l'iscrizione all'anno successivo, e per quelli che sono iscritti al secondo anno per accedere all'esame di diploma.   
-Alla fine del secondo anno di corso lo specializzando sosterra' l'esame di diploma che consistera' nella presentazione e nella discussione di una dissertazione scritta approvata dal direttore della scuola, riguardante argomenti della specialita'.   
-Le Commissioni per gli esami di profitto saranno costituite dal direttore della scuola e da altri due insegnanti della scuola.   
-La Commissione per l'esame di diploma e' costituita da sette membri presieduta dal preside della Facolta', dal direttore della scuola, da tre insegnanti della scuola e da altri membri scelti dal preside tra i professori e liberi docenti dell'Universita' di Milano.   
-Alla scuola possono essere ammessi i laureati in medicina e chirurgia. Nelle iscrizioni limitate nel numero annualmente stabilito dal Consiglio di Facolta', avranno precedenza coloro che dimostrino di avere o di avere avuto incarichi di medico scolastico, o comunque di essere alle dipendenze dei Comuni in qualita' di ufficiale sanitario o di medico comunale presso gli Uffici di igiene o Consorzi di vigilanza igienica, specialisti in pediatria, in neuropsichiatria.   
-Durante i due anni di corso verranno impartiti i seguenti insegnamenti:   
-Primo anno:   
-a) L'igiene e la medicina scolastica come parte essenziale dell'igiene pubblica e della medicina preventiva (biennale);   
-b) Edilizia scolastica;   
-c) Fisiopatologia, dello sviluppo (biennale)   
-d) Malattie infettive con speciale riguardo alla diagnosi e profilassi (biennale);   
-e) Propaganda igienica ed educazione sanitaria nelle scuole;   
-f) Psicologia dell'eta' scolare ed elementi di pedagogia;   
-g) Le colonie climatiche e loro organizzazione;   
-h) Igiene pedagogica.   
-Secondo anno:   
-a) Cartella medico-scolastica;   
-b) Scuole speciali;   
-c) Neuropsichiatria dell'eta' scolare;   
-d) Rieducazione dell'apparato motorio;   
-e) Nozioni di oculistica;   
-f) Nozioni di otorinolaringoiatria;   
-g) Nozioni di odontoiatria e ortodonzia;   
-h) Nozioni di cardiologia;   
-i). Nozioni di ortopedia;   
-l) Nozioni di dermatologia;   
-m) Chirurgia d'urgenza;   
-n) Nozioni di educazione fisica.   
+Art. 274. - La scuola di specializzazione in oncologia ha sede presso l'istituto di patologia generale e conferisce il diploma di specialista in oncologia.  
+Per le attivita' didattica, di studio e della pratica clinica la scuola utilizza strutture didattiche, scientifiche e cliniche della facolta' di medicina e chirurgia e dell'istituto nazionale per lo studio e la cura dei tumori di Milano.  
+Art. 275. - L'attivita' della scuola e' coordinata da un comitato direttivo formato da cinque professori ordinari di ruolo o fuori ruolo, designati annualmente dalla facolta' nel proprio seno, ognuno nell'ambito delle discipline comprese in uno dei seguenti cinque gruppi:  
+patologia generale e materie affini; anatomia patologica e materie affini; discipline mediche; discipline chirurgiche; discipline radiologiche.  
+La direzione della scuola e' affidata a professore ordinario, straordinario o fuori ruolo che insegni anche nella scuola stessa. In caso di motivato impedimento la direzione della scuola e' affidata a professore associato, che pure insegni nella scuola medesima.  
+Art. 276. - Possono iscriversi alla scuola di specializzazione i laureati in medicina e chirurgia. E' richiesto almeno all'inizio del corso il possesso del diploma di abilitazione all'esercizio professionale, rilasciato dalla autorita' competente.  
+Art. 277. - La durata dei corsi di studi e' di tre anni e non e' suscettibile di abbreviazione.  
+Art. 278. - Il numero massimo degli allievi e' di venti per anno di corso e complessivamente di sessanta iscritti per l'intero corso di studi.  
+Art. 279. - L'ammissione al corso avviene per titoli ed esami.  
+Le materie di insegnamento sono le seguenti:  
+1° Anno:  
+patologia generale dei tumori (I);  
+oncologia sperimentale (I);  
+anatomia ed istologia patologica dei tumori (I);  
+epidemiologia dei tumori;  
+cancerogenesi ambientale e professionale e prevenzione: primaria;  
+immunologia dei tumori.  
+2° Anno:  
+patologia generale dei tumori (II);  
+oncologia sperimentale (II);  
+anatomia e istologia patologica dei tumori (II);  
+citodiagnostica dei tumori;  
+prevenzione clinica e tecniche diagnostiche e di laboratorio;  
+radiodiagnostica dei tumori;  
+oncologia medica (I);  
+oncologia chirurgica (I).  
+3° Anno:  
+oncologia medica (II);  
+oncologia chirurgica (II);  
+radioterapia dei tumori;  
+oncologia dell'apparato genitale femminile;  
+oncologia pediatrica;  
+principi di riabilitazione oncologica;  
+organizzazione della lotta contro i tumori.  
+Ogni scuola dovra' provvedere ad organizzare seminari e conferenze su specifici argomenti con l'integrazione di quelli elencati nello statuto.  
+Art. 280. - La frequenza alle lezioni, alle esercitazioni pratiche ed alle altre attivita' culturali e' obbligatoria per l'ammissione agli esami; il superamento degli esami di ciascun anno sara' condizione indispensabile per l'iscrizione all'anno successivo. Per le materie a corso pluriennale l'esame sara' sostenuto alla fine dei corsi medesimi.  
+Art. 281. - Al termine del triennio per ottenere il diploma i candidati dovranno presentare una dissertazione scritta su un argomento attinente alla specializzazione.  
   
 
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica Italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 2 maggio 1957
+### Dato a Roma, addi' 31 ottobre 1981
 
-GRONCHI ROSSI
+PERTINI BODRATO
 
-Visto, il Guardasigilli: GONELLA
+Visto, il Guardasigilli: DARIDA
 
-Registrato alla Corte dei conti, addi' 22 luglio 1957
+Registrato alla Corte dei conti, addi' 24 febbraio 1982
 
-Atti del Governo, registro n. 106, foglio n. 220. - CARLOMAGNO
+Registro n. 30 Istruzione, foglio n. 395

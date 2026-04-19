@@ -1,196 +1,115 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 ottobre 1970 n. 1235
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 23 maggio 1958 n. 835
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 ottobre 1970 n. 1235
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 23 maggio 1958 n. 835
+=============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Palermo.
 -------------------------------------------------------------------
-
-IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
-
-Veduto lo statuto dell'Universita' degli studi di Palermo, approvato con [regio decreto 14 ottobre 1926, n. 2412](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2412) e modificato con [regio decreto 13 ottobre 1927, n. 2240](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2240), e successive modificazioni;
-
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
-
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
-
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
-
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;
-
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
-
-Sentito il parere del Consiglio superiore della pubblica istruzione;
-
-Sulla proposta del Ministero per la pubblica istruzione;
-
-Decreta:
-
-Lo statuto dell'Universita' degli studi di Palermo, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
-
-Art. 122. - All'elenco delle scuole di specializzazione annesse alla facolta' di medicina e chirurgia, e' aggiunta la scuola di specializzazione in "Neurologia".
-
-Dopo l'art. 156 e con il conseguente spostamento della successiva numerazione, e' aggiunto il seguente articolo relativo alla istituzione della scuola di specializzazione in "Neurologia".
-
-Scuola di specializzazione in neurologia
-
-Art. 157. - Durata del corso: 4 anni.
-
-Programma delle materie di insegnamento.
-
-1° Anno (internato in psichiatria):
-
-Anatomia e istologia del sistema nervoso;
-
-Fisiologia del sistema nervoso;
-
-Biochimica del sistema nervoso;
-
-Genetica (elementi);
-
-Psicologia generale;
-
-Psicopatologia (1°);
-
-Semeiotica psichiatrica.
-
-2° Anno:
-
-Semeiotica neurologica;
-
-Patologia speciale e diagnostica neurologica (1°);
-
-Neuro-radiologia;
-
-Endocrinologia e neurologia vegetativa.
-
-3° Anno:
-
-Patologia speciale e diagnostica neurologica (2°);
-
-Clinica neurologica e terapia (1°);
-
-Elettroencefalografia;
-
-Elettromiografia, elettrodiagnostica ed elettroterapia;
-
-Neuro-otologia;
-
-Esami di laboratorio.
-
-4° Anno:
-
-Clinica neurologica e terapia (2°);
-
-Neurochirurgia;
-
-Teoria e clinica della riabilitazione;
-
-Neurotraumatologia anche sotto l'aspetto della medicina legale;
-
-Neurologia in rapporto alla patologia internista.
-
-NORME
-
-Internato obbligatorio per l'intero anno scolastico del 2°, 3° e 4° anno in clinica neurologica sede della scuola. Tale internato potra' essere ridotto a non meno di mesi 4 per anno per i medici che prestino regolare servizio in reparto neurologico.
-
-Internato obbligatorio per l'intero anno scolastico in psichiatria nel 1° anno. Tale internato potra' essere ridotto a non meno di mesi 5 per i medici che prestino servizio in reparto neurologico e a non meno di mesi 4 per coloro che prestino servizio in ospedale psichiatrico.
-
-Esami obbligatori per il passaggio all'anno successivo.
-
-Numero massimo di iscritti: sei per ogni anno di corso (totale n. ventiquattro iscritti).
-
-Ammissione per titoli ed esami. Un abbuono di anni 3 puo' essere concesso agli specialisti in psichiatria, neuropsichiatria, neuropsichiatria infantile e neurochirurgia; un anno di abbuono per gli specialisti in altre materie affini (medicina interna, otorinolaringoiatria, oculistica, radiologia). Gli abbuoni possono essere concessi solo superando un esame di ammissione.
-
-Tutti gli abbuoni di cui sopra sono concessi a giudizio del direttore della scuola.
-
-Il presente decreto, munito del sigillo dello Stato sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
-
-Dato a Roma, addi' 30 ottobre 1970
-
-SARAGAT
-
-MISASI
-
-Visto, il Guardasigilli: REALE
-
-Registrato
-----------
-
-alla Corte dei conti, addi' 23 gennaio 1971 Atti del Governo, registro n. 240, foglio n. 119. - CARUSO
 
 Art. 1
 ------
 
  IL PRESIDENTE DELLA REPUBBLICA   
   
-Veduto lo statuto dell'Universita' degli studi di Palermo, approvato con [regio decreto 14 ottobre 1926, n. 2412](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2412) e modificato con [regio decreto 13 ottobre 1927, n. 2240](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2240), e successive modificazioni;   
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
+Veduto lo statuto dell'Universita' degli studi di Palermo, approvato con [regio decreto 14 ottobre 1926, n. 2412](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2412), modificato con [regio decreto 13 ottobre 1927, n. 2240](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2240), e successivi;   
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;   
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);   
+Veduta la [legge 12 febbraio 1957, n. 47](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1957-02-12;47);   
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;   
 Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;   
 Sentito il parere del Consiglio superiore della pubblica istruzione;   
-Sulla proposta del Ministero per la pubblica istruzione;   
+Sulla proposta del Ministro per la pubblica istruzione;   
   
 Decreta:   
   
 Lo statuto dell'Universita' degli studi di Palermo, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
-Art. 122. - All'elenco delle scuole di specializzazione annesse alla facolta' di medicina e chirurgia, e' aggiunta la scuola di specializzazione in "Neurologia".   
-Dopo l'art. 156 e con il conseguente spostamento della successiva numerazione, e' aggiunto il seguente articolo relativo alla istituzione della scuola di specializzazione in "Neurologia".   
   
-Scuola di specializzazione in neurologia   
+Dopo l'art. 70, e con il conseguente spostamento della numerazione di quelli successivi, sono aggiunti i seguenti nuovi articoli, relativi all'ordinamento del corso di laurea in architettura.   
+Art. 71. - La Facolta' di architettura conferisce la laurea di "dottore in architettura".   
+Art. 72. - La durata del corso degli studi e' di cinque anni, divisi in due parti:   
+1) biennio di studi propedeutici;   
+2) triennio di applicazione.   
+Art. 73. - Possono essere ammessi al primo anno della Facolta' gli studenti forniti di diploma di maturita' classica, scientifica, artistica.   
+Possono essere ammessi al triennio di applicazione gli studenti che avranno superato gli esami di tutti gli insegnamenti fondamentali e di due complementari del biennio propedeutico.   
+Il Consiglio di facolta' determinera', volta per volta, l'anno al quale potranno essere ammessi gli studenti provenienti da altre Facolta' universitarie od Istituti superiori (purche' provvisti dei diplomi di cui al principio di questo articolo): determinera', anche, gli insegnamenti che dovranno seguire e gli esami da superare.   
+Art. 74. - Il piano degli studi della Facolta' e' il seguente:   
   
-Art. 157. - Durata del corso: 4 anni.   
-Programma delle materie di insegnamento.   
-1° Anno (internato in psichiatria):   
-Anatomia e istologia del sistema nervoso;   
-Fisiologia del sistema nervoso;   
-Biochimica del sistema nervoso;   
-Genetica (elementi);   
-Psicologia generale;   
-Psicopatologia (1°);   
-Semeiotica psichiatrica.   
-2° Anno:   
-Semeiotica neurologica;   
-Patologia speciale e diagnostica neurologica (1°);   
-Neuro-radiologia;   
-Endocrinologia e neurologia vegetativa.   
-3° Anno:   
-Patologia speciale e diagnostica neurologica (2°);   
-Clinica neurologica e terapia (1°);   
-Elettroencefalografia;   
-Elettromiografia, elettrodiagnostica ed elettroterapia;   
-Neuro-otologia;   
-Esami di laboratorio.   
-4° Anno:   
-Clinica neurologica e terapia (2°);   
-Neurochirurgia;   
-Teoria e clinica della riabilitazione;   
-Neurotraumatologia anche sotto l'aspetto della medicina legale;   
-Neurologia in rapporto alla patologia internista.   
+Biennio propedeutico (materie fondamentali):   
   
-NORME   
+Analisi matematica e geometria analitica;   
+Geometria descrittiva ed elementi di proiettiva;   
+Chimica generale ed applicata;   
+Elementi costruttivi;   
+Disegno dal vero (biennale);   
+Storia dell'arte e storia e stili di architettura (biennale);   
+Applicazione di geometria descrittiva;   
+Fisica;   
+Mineralogia e geologia;   
+Elementi di architettura e rilievo dei monumenti (biennale).   
   
-Internato obbligatorio per l'intero anno scolastico del 2°, 3° e 4° anno in clinica neurologica sede della scuola. Tale internato potra' essere ridotto a non meno di mesi 4 per anno per i medici che prestino regolare servizio in reparto neurologico.   
-Internato obbligatorio per l'intero anno scolastico in psichiatria nel 1° anno. Tale internato potra' essere ridotto a non meno di mesi 5 per i medici che prestino servizio in reparto neurologico e a non meno di mesi 4 per coloro che prestino servizio in ospedale psichiatrico.   
-Esami obbligatori per il passaggio all'anno successivo.   
-Numero massimo di iscritti: sei per ogni anno di corso (totale n. ventiquattro iscritti).   
-Ammissione per titoli ed esami. Un abbuono di anni 3 puo' essere concesso agli specialisti in psichiatria, neuropsichiatria, neuropsichiatria infantile e neurochirurgia; un anno di abbuono per gli specialisti in altre materie affini (medicina interna, otorinolaringoiatria, oculistica, radiologia). Gli abbuoni possono essere concessi solo superando un esame di ammissione.   
-Tutti gli abbuoni di cui sopra sono concessi a giudizio del direttore della scuola.   
+Biennio propedeutico (materie complementari):   
+  
+Letteratura artistica;   
+Plastica e modellistica;   
+Lingua inglese;   
+Lingua tedesca.   
+  
+Triennio di applicazione (materie fondamentali):   
+  
+Architettura degli interni, arredamento e decorazione (biennale);  
+Caratteri distributivi degli edifici;   
+Caratteri stilistici e costruttivi dei monumenti;   
+Composizione architettonica (biennale);   
+Elementi di composizione;   
+Estimo ed esercizio professionale;   
+Fisica tecnica;   
+Igiene edilizia;   
+Impianti tecnici;   
+Meccanica razionale e statica grafica;   
+Restauro dei monumenti;   
+Scienza delle costruzioni (biennale);   
+Tecnologia dei materiali e tecnica delle costruzioni;   
+Topografia e costruzioni stradali;   
+Urbanistica (biennale).   
+  
+Triennio di applicazione (materie complementari):   
+  
+Scenografia;   
+Materie giuridiche.   
+  
+Art. 75. - Gli insegnamenti sono svolti in forma di lezioni teoriche, seminari, esercitazioni pratiche, e sono integrati da visite e viaggi di istruzione.   
+Art. 76. - L'assiduita' alle lezioni, ai seminari, alle esercitazioni ed alle visite e' requisito indispensabile per ottenere, alla fine del corso, l'attestato di frequenza.   
+Art. 77. - Gli esami di profitto sono sostenuti per singole materie e per ciascun anno. Essi possono consistere in interrogazioni orali, in discussioni su elaborati compiuti durante l'anno accademico, in prove grafiche, pratiche, sperimentali.   
+Per essere ammessi agli esami di profitto gli allievi devono ottenere gli attestati di frequenza di cui all'articolo precedente.   
+Art. 78. - Le precedenze per gli esami fra gli insegnamenti della Facolta' sono cosi' stabilite:   
+Geometria descrittiva ed elementi di proiettiva prima di applicazioni di geometria descrittiva;   
+Disegno dal vero prima di elementi di architettura e rilievo;   
+Elementi costruttivi prima di storia dell'arte e storia e stili dell'architettura (prima parte);   
+Meccanica razionale e statica grafica, prima di scienza delle costruzioni (prima parte);   
+Scienza delle costruzioni (prima parte) prima di scienza delle costruzioni (seconda parte) e di composizione architettonica (prima parte);   
+Scienza delle costruzioni (seconda parte) prima di tecnologia dei materiali e questa prima della composizione architettonica (seconda parte);   
+Caratteri stilistici e costruttivi dei monumenti prima di restauro;   
+Igiene edilizia prima di impianti tecnici, caratteri distributivi degli edifici prima di elementi di composizione;   
+Elementi di composizione prima di composizione architettonica;   
+Composizione architettonica (prima parte) prima di urbanistica (prima parte);   
+Composizione architettonica (seconda parte) prima di urbanistica (seconda parte).   
+Art. 79. - Ogni allievo, per essere ammesso all'esame di laurea deve aver superato tutti gli esami delle materie fondamentali del triennio e due materie complementari.   
+Art. 80. - L'esame di laurea consiste nella presentazione e discussione di un progetto concreto corredato da una relazione illustrativa e da calcoli, assegnato a richiesta del laureando, da un docente o da una Commissione di docenti a scelta sotto la guida ed il controllo del docente e dei docenti.   
+La Commissione esaminatrice, durante l'esame di laurea, puo' proporre al candidato qualunque quesito concernente qualsiasi materia del corso quinquennale.   
   
 
-Il presente decreto, munito del sigillo dello Stato sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale delle leggi e dei decreti della Repubblica Italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 30 ottobre 1970
+### Dato a Roma, addi' 23 maggio 1958
 
-SARAGAT MISASI
+GRONCHI MORO
 
-Visto, il Guardasigilli: REALE
+Visto, il Guardasigilli: GONELLA
 
-Registrato alla Corte dei conti, addi' 23 gennaio 1971
+Registrato alla Corte dei conti, addi' 19 agosto 1958
 
-Atti del Governo, registro n. 240, foglio n. 119. - CARUSO
+Atti del Governo, registro n. 113, foglio n. 179. - DI PRETORO

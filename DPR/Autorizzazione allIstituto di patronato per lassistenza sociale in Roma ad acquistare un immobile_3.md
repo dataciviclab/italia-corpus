@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 13 agosto 1975 n. 615
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 giugno 1979 n. 920
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 13 agosto 1975 n. 615
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 giugno 1979 n. 920
 =============================================================
 
 Autorizzazione all'Istituto di patronato per l'assistenza sociale, in Roma, ad acquistare un immobile.
@@ -12,8 +12,9 @@ Art. 1
 
 N.
 
-615. Decreto del Presidente della Repubblica 13 agosto 1975, col quale, sulla proposta del Ministro per il lavoro e la previdenza sociale, l'Istituto di patronato per l'assistenza sociale (I.P.A.S.), in Roma, viene autorizzato ad acquistare, al prezzo di L. 30.000.000, un appartamento sito in Cagliari, viale Regina Margherita, 16, composto di 11 vani, di proprieta' della signora Carmen Atzeri ved. Loriga, distinto nel nuovo catasto edilizio urbano alla partita 663, foglio 18, particella 3092 sub 13, categoria A/2, classe 4, r.c. L. 7601, come da atto di compravendita in data 12 ottobre 1972, n. 92988 di repertorio, a rogito avv. Marco Panvini-Rosati, notaio in Roma, riservato ad uso diretto dell'ente.   
+920. Decreto del Presidente della Repubblica 22 giugno 1979, col quale, sulla proposta del Ministro del lavoro e della previdenza sociale, l'Istituto di patronato per l'assistenza sociale (IPAS), in Roma, viene autorizzato ad acquistare, al prezzo di L. 136.100.000, la porzione di immobile rappresentata da parte del piano ammezzato (mq 360), parte del piano terreno di mq 31 e parte del piano cantine (mq 90) dell'edificio sito in Palermo, via F.  
+Laurana, 5, censito al nuovo catasto edilizio urbano al foglio 33, particelle 132, 134, 135, 136, 137, 138 e 565, di proprieta' del sig. Giuseppe Pirrone, come da atto di promessa di vendita in data 18 novembre 1976, da adibire a sede dell'ente.  
   
-Visto, il Guardasigilli: REALE   
-Registrato alla Corte dei conti, addi' 26 novembre 1975   
-Atti di Governo, registro n. 14, foglio n. 42
+Visto, il Guardasigilli: MORLINO  
+Registrato alla Corte dei conti, addi' 3 giugno 1980  
+Registro n. 1 Lavoro, foglio n. 109

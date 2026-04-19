@@ -1,70 +1,63 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 20 gennaio 1967 n. 93
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 16 giugno 1983 n. 809
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 20 gennaio 1967 n. 93
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 16 giugno 1983 n. 809
 =============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Pavia.
 -----------------------------------------------------------------
 
+IL PRESIDENTE DELLA REPUBBLICA
+------------------------------
+
+Veduto lo statuto dell'Universita' di Pavia, approvato con [regio decreto 14 ottobre 1926, n. 2130](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2130), e successive modificazioni;
+
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
+
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
+
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
+
+Veduto il [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
+
+Veduta la [legge 30 ottobre 1981, n. 615](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-10-30;615);
+
+Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta ai sensi della citata legge n. 615;
+
+Veduto il parere del Consiglio universitario nazionale;
+
+Sulla proposta del Ministro della pubblica istruzione;
+
+Decreta:
+--------
+
+Lo statuto dell'Universita' di Pavia, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Pavia, approvato con [regio decreto 14 ottobre 1926, numero 2130](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2130), e modificato con [regio decreto 13 ottobre 1927, n. 2229](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2229), e successive modificazioni;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
-Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro per la pubblica istruzione;  
+Nell'art. 68, relativo al corso di laurea in scienze naturali, all'elenco degli insegnamenti complementari e' aggiunto il seguente: paleontologia vegetale.  
+
+Art. 2
+------
+
   
-Decreta:  
-  
-Lo statuto dell'Universita' degli studi di Pavia, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-  
-Dopo l'art. 39 e con il conseguente spostamento della numerazione degli articoli successivi, sono aggiunti i seguenti nuovi articoli relativi alla istituzione della Scuola di perfezionamento in Storia dell'arte medioevale e moderna annessa alla Facolta' di lettere e filosofia.  
-  
-Scuola di perfezionamento in Storia dell'arte medioevale e moderna  
-  
-Art. 40. - E' costituita la Scuola di perfezionamento in Storia dell'arte medioevale e moderna presso la Facolta' di lettere e filosofia dell'Universita' di Pavia.  
-Art. 41. - La Scuola di perfezionamento in Storia dell'arte medioevale e moderna si propone di:  
-a) indirizzare, guidare e aiutare i giovani laureati che intendano dedicarsi alla ricerca scientifica nell'ambito delle discipline costitutive della Scuola;  
-b) promuovere il perfezionamento della cultura specifica richiesta per la preparazione degli insegnanti di Storia dell'arte nelle scuole secondarie e del personale dirigente nelle Soprintendenze e nei Musei d'arte;  
-c) promuovere gli studi nell'ambito delle discipline costitutive della Scuola, attraverso l'insegnamento, la ricerca scientifica, pubblicazioni e raccolta di materiali, collaborazione con studiosi e istituti di ricerca e di studio, nello stesso settore e in settori affini, e in genere ogni iniziativa volta all'incremento degli studi nell'ambito della Storia dell'arte medioevale e moderna.  
-Art. 42. - Gli insegnamenti fondamentali sono:  
-Storia dell'arte moderna;  
-Storia dell'arte medioevale;  
-Archeologia e Storia dell'arte greca e romana.  
-Gli insegnamenti complementari sono:  
-Estetica;  
-Archeologia cristiana;  
-Paleografia e diplomatica;  
-Storia della musica;  
-Storia medioevale;  
-Storia moderna.  
-Art. 43. - La Scuola ha durata biennale.  
-Degli insegnamenti fondamentali sono biennali la Storia dell'arte moderna e la Storia dell'arte medioevale.  
-Nel primo anno di perfezionamento gli iscritti debbono ottenere la firma di iscrizione e frequenza dei tre corsi fondamentali e di almeno uno a scelta degli insegnamenti complementari e sostenere i relativi esami.  
-Nel secondo anno gli iscritti debbono ottenere la firma di iscrizione e frequenza dei corsi di Storia dell'arte medioevale e di Storia dell'arte moderna e di due corsi a scelta tra gli insegnamenti complementari (di cui non abbiano ancora sostenuto l'esame) e sostenere gli esami relativi.  
-Art. 44. - Alla Scuola possono iscriversi i laureati in Lettere, in Filosofia e in Lingue e letterature straniere moderne.  
-Art. 45. - Al principio del primo anno gli iscritti debbono scegliere, d'accordo con i titolari degli insegnamenti fondamentali e dell'insegnamento complementare eventualmente scelto, un tema di Storia dell'arte da trattare in forma di tesi scritta.  
-La discussione della tesi verra' sostenuta dagli iscritti (alla presenza dei titolari degli insegnamenti fondamentali e dello insegnamento complementare eventualmente scelto a materia di tesi), dopo gli esami fondamentali e complementari, alla fine del secondo anno di perfezionamento.  
-Per essere ammessi alla discussione della tesi (che permettera' il conseguimento del diploma) gli iscritti dovranno sostenere anche un colloquio da cui risulti la loro conoscenza, ai fini di una corrente lettura e traduzione di testi riguardanti la disciplina, di almeno due lingue straniere moderne, a scelta tra le lingue tedesca, inglese e francese.  
-Art. 46. - Alla fine del biennio, dopo la discussione della tesi, verra' conseguito un diploma di perfezionamento in Storia dell'arte medioevale e moderna.  
+Nell'art. 70, relativo al corso di laurea in scienze geologiche, all'elenco degli insegnamenti complementari e' aggiunto il seguente insegnamento:  
+paleontologia vegetale.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 20 gennaio 1967
+### Dato a Roma, addi' 16 giugno 1983
 
-SARAGAT GUI
+PERTINI FALCUCCI
 
-Visto, il Guardasigilli: REALE
+Visto, il Guardasigilli: MARTINAZZOLI
 
-Registrato alla Corte dei conti, addi' 13 marzo 1967
+Registrato alla Corte dei conti, addi' 30 dicembre 1983
 
-Atti del Governo, registro n. 210, foglio n. 2. - VILLA
+Registro n. 82 Istruzione, foglio n. 228

@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 15 settembre 1979 n. 508
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 07 febbraio 1970 n. 389
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 15 settembre 1979 n. 508
-================================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 07 febbraio 1970 n. 389
+===============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Catania.
 -------------------------------------------------------------------
@@ -10,7 +10,7 @@ Modificazioni allo statuto dell'Universita' degli studi di Catania.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' di Catania, approvato con [regio decreto 20 aprile 1939, n. 1073](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1073) e modificato con [regio decreto 16 ottobre 1940, n. 1527](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-16;1527), e successive modificazioni;
+Veduto lo statuto dell'Universita' degli studi di Catania, approvato con [regio decreto 20 aprile 1939, n. 1073](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1073) e modificato con [regio decreto 16 ottobre 1940, n. 1527](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-16;1527), e successive modificazioni;
 
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
@@ -18,252 +18,197 @@ Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it
 
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
 
-Veduta la [legge 22 maggio 1978, n. 217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-05-22;217);
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;
 
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
-
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Catania e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
 
 Sentito il parere del Consiglio superiore della pubblica istruzione;
 
-Sulla
------
+Sulla proposta del Ministro per la pubblica istruzione;
 
-proposta del Ministro della pubblica istruzione; Decreta:
+Decreta:
+
+Lo statuto dell'Universita' degli studi di Catania, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+
+Art. 157. - All'elenco delle scuole di specializzazione in medicina e chirurgia e' aggiunta la scuola di specializzazione in "Clinica pediatrica".
+
+Gli articoli 188 e 189 relativi alla scuola di specializzazione in "Urologia" sono abrogati e sostituiti dai seguenti:
+
+Scuola di specializzazione in urologia
+
+Art. 188. - Il corso di studi della scuola di specializzazione in urologia ha la durata di tre anni.
+
+Alla scuola sono ammessi cinque iscritti per ogni anno di corso.
+
+Art. 189. - Gli insegnamenti impartiti nella scuola sono i seguenti:
+
+1° Anno:
+
+Anatomia descrittiva e topografica dell'apparato urogenitale, fisiologia dell'apparato urogenitale, patologia dell'apparato urinario e genitale maschile, le nefropatie mediche, semeiotica dell'apparato uro-genitale (funzionale e di laboratorio), tecniche strumentali e semeiologia endoscopica, batteriologia in urologia, farmacoterapia delle affezioni uro-genitali.
+
+2° Anno:
+
+Patologia dell'apparato urinario e genitale maschile, clinica urologica; patologia genitale femminile di interesse urologico, nefrologia chirurgica, anatomia ed istologia patologica dell'apparato urogenitale, semeiotica dell'apparato urogenitale (funzionale e di laboratorio), tecniche strumentali e semeiologia endoscopica, anatomia chirurgica dell'apparato urinario e genitale, radiologia dell'apparato urinario e genitale, le affezioni cutanee e veneree nei riguardi dell'urologia, l'anestesiologia ed il trattamento pre e post-operatorio del malato urologico.
+
+3° Anno:
+
+Clinica urologica, patologia e clinica urologica infantile, radiologia dell'apparato urinario e genitale; tecniche operatorie sull'apparato urinario e genitale, urologia ginecologica.
+
+Dopo l'art. 213 sono inseriti i seguenti nuovi articoli relativi alla istituzione della scuola di specializzazione in clinica pediatrica.
+
+Scuola di specializzazione in clinica pediatrica
+
+Art. 214. - Il corso di studi di specializzazione in clinica pediatrica ha la durata di tre anni.
+
+Art. 215. - La scuola non puo' accogliere piu' di dieci allievi per ciascun anno di corso.
+
+Art. 216. - Gli insegnamenti impartiti nella scuola sono:
+
+1° Anno:
+
+Clinica pediatrica (triennale);
+
+Patologia pediatrica (biennale);
+
+Puericultura (biennale);
+
+Semeiotica pediatrica e tecnica diagnostica (biennale);
+
+Auxologia normale e patologica;
+
+Psicologia dell'eta' evolutiva.
+
+2° Anno:
+
+Clinica pediatrica;
+
+Patologia pediatrica;
+
+Puericultura;
+
+Semeiotica pediatrica e tecnica diagnostica;
+
+Terapia pediatrica;
+
+Radiologia pediatrica;
+
+Malattie infettive dell'infanzia.
+
+3° Anno:
+
+Clinica pediatrica;
+
+Neuropsichiatria e igiene mentale dell'infanzia.
+
+Insegnamenti complementari (uno per ogni anno a scelta dell'iscritto):
+
+Chirurgia pediatrica;
+
+Ortopedia e traumatologia infantile;
+
+Odontoiatria;
+
+Clinica dermosifilopatica;
+
+Clinica oculistica;
+
+Clinica otorinolaringoiatrica;
+
+Cardiologia;
+
+Genetica.
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica, italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 7 febbraio 1970
+
+SARAGAT
+
+FERRARI AGGRADI
+
+Visto, il Guardasigilli: REALE
+
+Registrato
+----------
+
+alla Corte dei conti, addi' 17 giugno 1970 Atti del Governo, registro n. 236, foglio n. 29. - CARUSO
 
 Art. 1
 ------
 
+ IL PRESIDENTE DELLA REPUBBLICA  
+  
+Veduto lo statuto dell'Universita' degli studi di Catania, approvato con [regio decreto 20 aprile 1939, n. 1073](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1073) e modificato con [regio decreto 16 ottobre 1940, n. 1527](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-16;1527), e successive modificazioni;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
+Sentito il parere del Consiglio superiore della pubblica istruzione;  
+Sulla proposta del Ministro per la pubblica istruzione;  
+  
+Decreta:  
   
 Lo statuto dell'Universita' degli studi di Catania, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-Art. 176 - all'elenco delle scuole di specializzazione in medicina e chirurgia, sono apportate le seguenti modifiche:  
-la scuola di specializzazione in clinica dermosifilopatica muta la denominazione in quella di dermatologia e venereologia;  
-la scuola di specializzazione in ortopedia e traumatologia muta la denominazione in quella di ortopedia.  
-Allo stesso elenco e' aggiunta la scuola di specializzazione in endocrinochirurgia.  
-
-Art. 2
-------
-
+Art. 157. - All'elenco delle scuole di specializzazione in medicina e chirurgia e' aggiunta la scuola di specializzazione in "Clinica pediatrica".  
+Gli articoli 188 e 189 relativi alla scuola di specializzazione in "Urologia" sono abrogati e sostituiti dai seguenti:  
   
-Gli articoli 213 e 214, relativi alla scuola di specializzazione in clinica dermosifilopatica che muta la denominazione in quella di scuola di specializzazione in dermatologia e venereologia, sono soppressi e sostituiti dai seguenti:  
+Scuola di specializzazione in urologia  
   
-Scuola di specializzazione in dermatologia e venereologia  
-Art. 213. - La scuola di specializzazione in dermatologia e venereologia ha sede presso la clinica dermatologica e conferisce il diploma di specialista in dermatologia e venereologia.  
-La direzione della scuola e' affidata al professore di ruolo o fuori ruolo della stessa materia della specializzazione o, in carenza, al professore di ruolo o fuori ruolo di materia affine.  
-Possono iscriversi alla scuola i laureati in medicina e chirurgia.  
-E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale rilasciato dall'autorita' competente.  
-La durata del corso di studi e' di tre anni e non e' suscettibile di abbreviazioni.  
-Il numero massimo degli allievi e' di sette per anno di corso e complessivamente di ventuno iscritti per l'intero corso di studi.  
-L'ammissione al corso avviene per titoli ed esami.  
-Le materie d'insegnamento sono le seguenti:  
+Art. 188. - Il corso di studi della scuola di specializzazione in urologia ha la durata di tre anni.  
+Alla scuola sono ammessi cinque iscritti per ogni anno di corso.  
+Art. 189. - Gli insegnamenti impartiti nella scuola sono i seguenti:  
 1° Anno:  
-anatomia e istologia normale della cute;  
-fisiologia della cute e degli annessi;  
-anatomia e fisiologia dell'apparato genitale;  
-microbiologia e parassitologia applicate;  
-tecniche di laboratorio applicate alla disciplina;  
-semeiotica dermatologica e venereologica.  
+Anatomia descrittiva e topografica dell'apparato urogenitale, fisiologia dell'apparato urogenitale, patologia dell'apparato urinario e genitale maschile, le nefropatie mediche, semeiotica dell'apparato uro-genitale (funzionale e di laboratorio), tecniche strumentali e semeiologia endoscopica, batteriologia in urologia, farmacoterapia delle affezioni uro-genitali.  
 2° Anno:  
-patologia delle malattie cutanee;  
-patologia delle infezioni veneree;  
-istopatologia e citologia dermatologica e venereologica;  
-immunopatologia cutanea;  
-dermatologia allergologica e professionale;  
-angiologia;  
-sessuologia.  
+Patologia dell'apparato urinario e genitale maschile, clinica urologica; patologia genitale femminile di interesse urologico, nefrologia chirurgica, anatomia ed istologia patologica dell'apparato urogenitale, semeiotica dell'apparato urogenitale (funzionale e di laboratorio), tecniche strumentali e semeiologia endoscopica, anatomia chirurgica dell'apparato urinario e genitale, radiologia dell'apparato urinario e genitale, le affezioni cutanee e veneree nei riguardi dell'urologia, l'anestesiologia ed il trattamento pre e post-operatorio del malato urologico.  
 3° Anno:  
-clinica delle malattie cutanee;  
-clinica delle infezioni veneree;  
-dermatologia pediatrica;  
-farmacologia e terapia;  
-fisioterapia dermatologica;  
-cosmetologia;  
-chirurgia plastica riparatrice;  
-igiene e profilassi delle malattie cutanee e veneree e relativa legislazione.  
-Il corso di lezioni deve essere impartito mediante almeno cinquanta lezioni annuali, comprensive delle varie materie e la frequenza giornaliera degli iscritti non deve essere inferiore alle 4 ore effettive per tutta la durata dell'anno accademico.  
-Gli specializzandi hanno percio' obblighi di frequenza alle esercitazioni onde seguire i corsi di lezioni e svolgere contemporaneamente esercitazioni pratiche nelle corsie, negli ambulatori e nei laboratori.  
-Gli esami di profitto vengono sostenuti in due sessioni.  
-L'esame di diploma consiste nell'esposizione e discussione di un argomento della disciplina su un tema dato al candidato 24 ore prima della prova.  
-
-Art. 3
-------
-
+Clinica urologica, patologia e clinica urologica infantile, radiologia dell'apparato urinario e genitale; tecniche operatorie sull'apparato urinario e genitale, urologia ginecologica.  
+Dopo l'art. 213 sono inseriti i seguenti nuovi articoli relativi alla istituzione della scuola di specializzazione in clinica pediatrica.  
   
+Scuola di specializzazione in clinica pediatrica  
   
-Gli articoli 234, 235, 236, 237 e 238, relativi alla scuola di specializzazione in ortopedia e traumatologia che muta la denominazione in quella di scuola di specializzazione in ortopedia, sono soppressi e sostituiti dai seguenti:   
-  
-Scuola di specializzazione in ortopedia   
-Art. 234. - La scuola di specializzazione in ortopedia ha sede presso la clinica ortopedica dell'Universita' di Catania e conferisce il diploma di specialista in ortopedia. La scuola comprende un insegnamento teorico e pratico.   
-Art. 235. - La direzione della scuola e' affidata al professore di ruolo o fuori ruolo della stessa materia della specializzazione o, in carenza, al professore di ruolo o fuori ruolo di materia affine.   
-Art. 236. - Possono iscriversi alla scuola i laureati in medicina e chirurgia. E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale, rilasciato dall'autorita' competente.   
-La durata del corso di studi e' di cinque anni e non e' suscettibile di abbreviazioni.   
-Il numero massimo di allievi e' di tredici per anno di corso e complessivamente di sessantacinque iscritti per l'intero corso di studi.   
-L'ammissione al corso avviene per titoli ed esami.   
-Art. 237. - Le materie d'insegnamento sono le seguenti:   
-1° Anno:   
-insegnamento pratico:   
-chirurgia generale;   
-pronto soccorso generale;   
-fisioterapia;   
-insegnamento teorico:   
-anatomia dell'apparato locomotore;   
-fisiologia dell'apparato locomotore;   
-semeiotica ortopedica;   
-nozioni di chirurgia generale;   
-bioingegneria dell'apparato locomotore I.   
-2° Anno:   
-insegnamento pratico:   
-chirurgia generale (con frequenza eventuale in reparti specialistici interessanti per l'apparato locomotore);   
-reparti di pronto soccorso traumatologico;   
-reparti di ortopedia e traumatologia;   
-insegnamento teorico:   
-anatomia ed istologia patologica dell'apparato locomotore I; patologia dell'apparato locomotore I;   
-clinica ortopedica I;   
-traumatologia dell'apparato locomotore I;   
-radiologia I;   
-nozioni di chirurgia d'urgenza e pronto soccorso;   
-bioingegneria dell'apparato locomotore II.   
-3° Anno:   
-insegnamento pratico:   
-reparti di ortopedia e traumatologia (in particolare sale di degenza e sale gessi);   
-insegnamento teorico:   
-anatomia ed istologia patologica dell'apparato locomotore II; patologia dell'apparato locomotore II;   
-clinica ortopedica II;   
-traumatologia dell'apparato locomotore II;   
-radiologia II;   
-tecnica operatoria I;   
-apparatoterapia e tecnica degli apparecchi gessati;   
-elementi di reumatologia.   
-4° Anno:   
-insegnamento pratico:   
-reparti di ortopedia e traumatologia (frequenza nei reparti operatori);   
-insegnamento teorico:   
-patologia apparato locomotore III;   
-clinica ortopedica III;   
-traumatologia apparato locomotore III;   
-tecnica operatoria II;   
-fisiokinesiterapia I;   
-neuropatologia dell'apparato locomotore ed elettrodiagnostica;   
-nozioni di medicina legale.   
-5° Anno:   
-insegnamento pratico:   
-reparti di ortopedia e traumatologia (frequenza nei reparti operatori);   
-officine ortopediche;   
-insegnamento teorico:   
-patologia apparato locomotore IV;   
-clinica ortopedica IV;   
-traumatologia apparato locomotore IV;   
-tecnica operativa III;   
-fisioterapia II.   
-Art. 238. - La frequenza alle lezioni ed alle esercitazioni pratiche e' obbligatoria. Gli allievi che non conseguono le attestazioni di frequenza sul relativo libretto non possono essere ammessi a sostenere le prove di esame.   
-Alla fine di ogni corso gli iscritti per essere ammessi agli anni successivi, devono superare le prove di esame sulle materie impartite durante l'anno. Per le materie a corso pluriennale l'esame e' sostenuto alla fine dei corsi medesimi.   
-Il termine del corso di studi per il conseguimento del diploma di specialista in ortopedia gli interessati devono superare l'esame di diploma consistente nella dissertazione scritta di un argomento attinente alla specializzazione.   
-
-Art. 4
-------
-
-  
-Dopo l'art. 264, e con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi alla istituzione della scuola di specializzazione in endocrinochirurgia:  
-  
-Scuola di specializzazione in endocrinochirurgia  
-Art. 265. - La scuola di specializzazione in endocrinochirurgia ha sede presso l'istituto di semeiotica chirurgica dell'Universita' di Catania e conferisce il diploma di specialista in endocrinochirurgia.  
-Art. 266. - La direzione della scuola e' affidata al professore di ruolo o fuori ruolo della stessa materia della specializzazione o, in carenza, al professore di ruolo o fuori ruolo di materia affine.  
-Art. 267. - Possono iscriversi alla scuola di specializzazione i laureati in medicina e chirurgia. E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale rilasciato dall'autorita' competente.  
-Art. 268. - La scuola ha la durata di tre anni e non e' suscettibile di abbreviazioni.  
-Art. 269. - L'ammissione alla scuola avviene per titoli ed esami.  
-Art. 270. - Il numero massimo di allievi e' di cinque per anno di corso e complessivamente di quindici iscritti per l'intero corso di studi.  
-Art. 271. - Gli iscritti alla scuola hanno l'obbligo di frequentare gli insegnamenti stabiliti secondo il programma di corso, nonche' l'istituto sede della scuola di specializzazione.  
-Art. 272. - Coloro che non ottemperano all'obbligo di frequenza ai corsi di insegnamento ed all'esercitazione pratica nei reparti e in laboratorio non possono ottenere l'attestazione di frequenza, necessaria per l'ammissione agli esami.  
-Art. 273. - Alla fine di ciascun anno accademico, coloro che abbiano ottenuto la prescritta attestazione di frequenza possono sostenere gli esami di profitto il cui superamento e' condizione necessaria per l'iscrizione al corso successivo.  
-Art. 274. - Al termine del terzo anno, dopo aver superato tutti gli esami di profitto, gli specializzandi sono ammessi a sostenere l'esame di diploma che consiste nella discussione orale di una dissertazione scritta su un argomento di ordine endocrinochirurgico (clinico o sperimentale) concordato col direttore della scuola.  
-Art. 275. - I candidati non riconosciuti idonei agli esami di ciascun corso o all'esame di diploma, possono sostenere le prove dopo un altro anno di frequenza.  
-Art. 276. - Gli insegnamenti impartiti dalla scuola nei tre anni di corso sono i seguenti:  
+Art. 214. - Il corso di studi di specializzazione in clinica pediatrica ha la durata di tre anni.  
+Art. 215. - La scuola non puo' accogliere piu' di dieci allievi per ciascun anno di corso.  
+Art. 216. - Gli insegnamenti impartiti nella scuola sono:  
 1° Anno:  
-anatomia chirurgica delle ghiandole endocrine;  
-fisiopatologia delle ghiandole endocrine;  
-semeiotica chirurgica generale o speciale delle ghiandole endocrine;  
-anatomia patologica delle affezioni chirurgiche delle ghiandole endocrine;  
-clinica chirurgica delle ghiandole endocrine (primo corso).  
+Clinica pediatrica (triennale);  
+Patologia pediatrica (biennale);  
+Puericultura (biennale);  
+Semeiotica pediatrica e tecnica diagnostica (biennale);  
+Auxologia normale e patologica;  
+Psicologia dell'eta' evolutiva.  
 2° Anno:  
-radiologia e medicina nucleare in endocrinochirurgia;  
-anestesia e rianimazione in endocrinochirurgia;  
-chirurgia della ipofisi;  
-chirurgia della tiroide e delle paratiroidi;  
-chirurgia del pancreas;  
-clinica chirurgica delle ghiandole endocrine (secondo corso).  
+Clinica pediatrica;  
+Patologia pediatrica;  
+Puericultura;  
+Semeiotica pediatrica e tecnica diagnostica;  
+Terapia pediatrica;  
+Radiologia pediatrica;  
+Malattie infettive dell'infanzia.  
 3° Anno:  
-chirurgia del surrene;  
-chirurgia dell'ovaio;  
-chirurgia del testicolo;  
-chirurgia plastica in endocrinochirurgia;  
-terapie complementari nelle affezioni chirurgiche delle ghiandole endocrine;  
-clinica chirurgica delle ghiandole endocrine (terzo corso).  
-
-Art. 5
-------
-
-  
-L'ordinamento della scuola di specializzazione in psichiatria di cui al [decreto del Presidente della Repubblica 31 ottobre 1977, n. 1213](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1977-10-31;1213), e' soppresso e sostituito dal seguente:  
-  
-Scuola di specializzazione in psichiatria  
-Art. 277. - La scuola di specializzazione in psichiatria ha sede presso la clinica psichiatrica dell'Universita' di Catania e conferisce il diploma di specialista in psichiatria.  
-Art. 278. - La direzione della scuola e' affidata al professore di ruolo o fuori ruolo della stessa materia della specializzazione o, in carenza, al professore di ruolo o fuori ruolo di materia affine.  
-Art. 279. - Possono iscriversi alla scuola i laureati in medicina e chirurgia. E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale rilasciato dall'autorita' competente.  
-Art. 280. - La durata del corso di studi e' di quattro anni e non e' suscettibile di abbreviazioni.  
-Art. 281. - Il numero massimo degli allievi e' di tre per anno di corso e complessivamente di dodici iscritti per l'intero corso di studi.  
-Art. 282. - L'ammissione al corso avviene per titoli ed esami.  
-Art. 283. - Le materie di insegnamento sono le seguenti:  
-1° Anno:  
-metodologia del rapporto medico-paziente (annuale);  
-psicologia (annuale);  
-elementi di genetica e biochimica (annuale);  
-struttura e funzioni integrative del SNC (annuale);  
-neurologia clinica (annuale);  
-clinica psichiatrica I (quadriennale).  
-2° Anno:  
-psicopatologia e psicodinamica (annuale);  
-psicoterapia I (triennale);  
-psicofarmacologia (annuale);  
-psicofarmacoterapia (annuale);  
-clinica psichiatrica II (quadriennale).  
-3° Anno:  
-psicodiagnostica ed informatica psichiatrica (annuale);  
-psichiatria sociale I (biennale);  
-psichiatria infantile (annuale);  
-psicoterapia II (triennale);  
-clinica psichiatrica III (quadriennale).  
-4° Anno:  
-psicosomatica (annuale);  
-psichiatria sociale II (biennale);  
-psichiatria forense (annuale);  
-psicoterapia III (triennale);  
-clinica psichiatrica IV (quadriennale).  
-Note esplicative.  
-Strutture e funzioni integrative del SNC: tale materia, annuale, e' comprensiva dell'anatomofisiologia del SNC e della psicofisiologia.  
-Neurologia clinica: tale insegnamento, annuale, deve essere comprensivo, eventualmente con sottodivisioni, di cenni di anatomia patologica del SN, di semeiologia neurologica, clinica e strumentale, di neuroradiologia.  
-Clinica psichiatrica: tale materia, quadriennale, e' comprensiva anche degli elementi di semeiotica psichiatrica, delle tecniche laboratoristiche, delle terapie biologiche.  
-Psicoterapia: tale materia, triennale, comprende e considera nel corso dei tre anni, le tecniche e i principi fondamentali delle principali psicoterapie individuali, direttive e non direttive, i principi fondamentali e le dinamiche delle piu' importanti psicoterapie di gruppo, delle prassi psicoterapiche, socioterapiche e delle sociodinamiche delle istituzioni psichiatriche.  
-Psicodiagnostica ed informatica psichiatrica: tale materia, annuale, e' comprensiva di cenni di statistica, dei reattivi mentali e psicodiagnostica strumentale e di metodologia della ricerca psichiatrica.  
-Psichiatria sociale: tale materia, biennale, con molte possibilita' di suddivisioni, e' comprensiva di elementi di sociologia, di antropologia culturale, di etologia, di ecologia psichiatrica, di epidemiologia psichiatrica, di psichiatria transculturale, di psichiatria preventiva e di igiene mentale, prassi ed organizzazione di assistenza psichiatrica sul territorio extra istituzionale.  
-Psicosomatica: tale materia, annuale, e' comprensiva degli aspetti psichici delle malattie somatiche della cosiddetta medicina integrata, della endocrinologia in riferimento alla psichiatria, delle cosiddette specifiche malattie psicosomatiche.  
-Art. 284. - E' obbligatoria la frequenza per undici mesi all'anno; tale periodo comprende sia la frequenza alle lezioni, sia l'esercitazione pratica nei reparti di degenza e nelle strutture ambulatoriali a disposizione della scuola.  
-Gli allievi che non conseguono le attestazioni di frequenza sul relativo libretto non possono essere ammessi a sostenere le prove di esame.  
-Art. 285. - La scuola programma lo svolgimento dei corsi di insegnamento.  
-Per il passaggio agli anni successivi e' obbligatorio il superamento degli esami per ogni singolo anno. Per le materie a corso pluriennale l'esame e' sostenuto alla fine dei corsi medesimi.  
-Le lezioni teoriche sono integrate da seminari anche interdisciplinari, da documentazioni cliniche e da esperienze effettuate nei vari settori della disciplina.  
-Alla fine dei quattro anni gli allievi che hanno frequentato i corsi sono ammessi all'esame di diploma, consistente nella presentazione e discussione di una tesi scritta di argomento pertinente alla psichiatria, in una prova orale e in una prova pratica.  
-Agli allievi che hanno ottenuto l'approvazione nell'esame di diploma viene rilasciato il diploma di specializzazione in psichiatria valido a tutti gli effetti di legge.  
+Clinica pediatrica;  
+Neuropsichiatria e igiene mentale dell'infanzia.  
+Insegnamenti complementari (uno per ogni anno a scelta dell'iscritto):  
+Chirurgia pediatrica;  
+Ortopedia e traumatologia infantile;  
+Odontoiatria;  
+Clinica dermosifilopatica;  
+Clinica oculistica;  
+Clinica otorinolaringoiatrica;  
+Cardiologia;  
+Genetica.  
   
 
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica, italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 15 settembre 1979
+### Dato a Roma, addi' 7 febbraio 1970
 
-PERTINI VALITUTTI
+SARAGAT FERRARI AGGRADI
 
-Visto, il Guardasigilli: MORLINO
+Visto, il Guardasigilli: REALE
 
-Registrato alla Corte dei conti, addi' 19 ottobre 1979
+Registrato alla Corte dei conti, addi' 17 giugno 1970
 
-Registro n. 75 Istruzione, foglio n. 42
+Atti del Governo, registro n. 236, foglio n. 29. - CARUSO

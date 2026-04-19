@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 17 maggio 1986 n. 636
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 giugno 1979 n. 603
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 17 maggio 1986 n. 636
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 giugno 1979 n. 603
 =============================================================
 
 Autorizzazione all'associazione "Casa di carita' arti e mestieri", in Torino, ad accettare un legato.
@@ -10,10 +10,10 @@ Autorizzazione all'associazione "Casa di carita' arti e mestieri", in Torino, ad
 Art. 1
 ------
 
-n.
+N.
 
-636. Decreto del Presidente della Repubblica 17 maggio 1986, col quale, sulla proposta del Ministro del lavoro e della previdenza sociale, l'associazione "Casa di carita' arti e mestieri", in Torino, viene autorizzata ad accettare il legato, consistente in L. 30.000.000, disposto dalla sig.na Amalia Paglieri con testamento olografo 12 ottobre 1980, pubblicato in data 28 aprile 1982, n. 21720 di repertorio, a rogito dott. Domenico Picca, notaio in Torino, registrato a Torino in data 29 aprile 1982 al n. 18669.  
+603. Decreto del Presidente della Repubblica 11 giugno 1979, col quale, sulla proposta del Ministro del lavoro e della previdenza sociale, l'associazione "Casa di carita' arti e mestieri" in Torino, viene autorizzata ad accettare il legato disposta dalla sig.ra Visca Regina ved. Palamides con atto pubblico a rogito dott.ssa Antonietta Russo, notaio in Viu', coadiutore temporaneo del dott. Oscar Ghione, notaio iscritto al collegio dei distretti riuniti di Torino e Pinerolo, registrato previa richiesta n. 34512, n. 12449 di repertorio, fascicolo del 1 ottobre 1975 a Torino, il 3 ottobre 1975, al n. 24801, vol. 1303 atti pubblici, consistente in un immobile ubicato in Torino, via Bibiana, 66, piano 4°, composto di una camera, tinello, servizi e cantina, iscritto al nuovo catasto edilizio urbano alla partita n. 78190 foglio 51 n. 1589 sub 13, allo scopo di destinarlo al raggiungimento dei fini istituzionali dell'associazione.  
   
-Visto, il Guardasigilli: ROGNONI  
-Registrato alla Corte dei conti, addi' 24 settembre 1986  
-Registro n. 1 Lavoro, foglio n. 249
+Visto, il Guardasigilli: MORLINO  
+Registrato alla Corte dei conti, addi' 7 novembre 1979  
+Registro n. 1 Lavoro, foglio n. 83

@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 24 novembre 1958 n. 1200
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 maggio 1979 n. 442
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 24 novembre 1958 n. 1200
-================================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 maggio 1979 n. 442
+=============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Pisa.
 ----------------------------------------------------------------
@@ -12,100 +12,74 @@ Art. 1
 
  IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Pisa, approvato con [regio decreto 14 ottobre 1926, n. 2278](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2278), e modificato con [regio decreto 13 ottobre 1927, n. 2225](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2225) e successivi;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto lo statuto dell'Universita' di Pisa, approvato con [regio decreto 14 ottobre 1926, n. 2278](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2278) e modificato con [regio decreto 13 ottobre 1927, n. 2225](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2225), e successive modificazioni;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Veduta la [legge 26 luglio 1957, n. 741](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1957-07-26;741);  
-Vedute e proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Pisa e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;  
+Veduta la [legge 22 maggio 1978, n. 217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-05-22;217);  
 Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro per la pubblica istruzione;  
+Sulla proposta del Ministro della pubblica istruzione;  
   
 Decreta:  
   
 Lo statuto dell'Universita' degli studi di Pisa, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
   
-L'art. 41 e' sostituito dal seguente:  
-"La Facolta' di lettere e filosofia conferisce:  
-a) la laurea in lettere;  
-b) la laurea in filosofia;  
-c) la laurea in lingue e letterature stranieri moderne (indirizzo europeo)".  
-Dopo l'art. 43 e' aggiunto il seguente nuovo articolo con il conseguente spostamento della numerazione degli articoli successivi.  
-Art. 44. - La durata del corso degli studi per la laurea in lingue e letterature straniere moderne (indirizzo europeo) e' di quattro anni. E' titolo di ammissione il diploma di maturita' classica.  
-Sono insegnamenti fondamentali:  
-1) letteratura italiana;  
-2) letteratura latina;  
-3) glottologia;  
-4) una lingua e letteratura straniera, moderna;  
-5) una seconda lingua e letteratura straniera moderna;  
-6) filologia, romanza (o germanica, o slava o ugrofinnica);  
-7) storia medioevale;  
-8) storia moderna;  
-9) storia dell'arte moderna (o storia dell'arte medioevale e moderna);  
-10) geografia.  
-Sono insegnamenti complementari (quando non siano scelti come fondamentali ai su indicati numeri 4), 5) e 6):  
-1) lingua e letteratura francese;  
-2) lingua e letteratura spagnola;  
-3) lingua e letteratura portoghese;  
-4) lingua e letteratura romena;  
-5) lingua e letteratura inglese;  
-6) lingua e letteratura tedesca;  
-7) lingua e letteratura olandese e fiamminga;  
-8) lingua e letteratura scandinave;  
-9) lingua e letteratura russa;  
-10) lingua e letteratura polacca;  
-11) lingua e letteratura cecoslovacca;  
-12) lingua e letteratura serbo-croata;  
-13) lingua e letteratura slovena;  
-14) lingua e letteratura bulgara;  
-15) lingua e letteratura ungherese;  
-16) lingua e letteratura neo-greca;  
-17) lingua e letteratura albanese;  
-18) una lingua e letteratura moderna dell'Asia e dell'Africa;  
-19) filologia romanza;  
-20) filologia germanica;  
-21) filologia slava;  
-22) filologia ugro-finnica;  
-23) letteratura anglo-americana;  
-24) letteratura ispano-americana;  
-25) letteratura brasiliana;  
-26) storia della lingua italiana;  
-27) storia della letteratura italiana moderna e contemporanea;  
-28) storia delle tradizioni popolari;  
-29) storia dell'arte medioevale;  
-30) storia della musica;  
-31) storia del teatro e dello spettacolo;  
-32) letteratura greca;  
-33) lingua e letteratura latina medioevale;  
-34) storia e filologia bizantina (o filologia bizantina);  
-35) storia romana;  
-36) storia greca;  
-37) storia dell'Europa orientale;  
-38) storia della filosofia;  
-39) storia della filosofia moderna e contemporanea;  
-40) filosofia del linguaggio.  
-Lo studente dovra' seguire i corsi e sostenere gli esami in tutti gli insegnamenti fondamentali e in tre altri insegnamenti da lui scelti fra i complementari.  
-Uno degli insegnamenti complementari potra' essere sostituito dallo studente con una disciplina di altri corsi di studi della stessa o di diversa Facolta'.  
-L'insegnamento della lingua e letteratura straniera moderna, alla quale lo studente intende principalmente dedicarsi, dovra' essere seguito per tutti i quattro anni, alla fine di ciascuno dei quali egli sara' sottoposto a prove scritte, di anno in anno gradualmente progressive.  
-Dovranno poi essere seguiti per due anni l'insegnamento della filologia a cui quella stessa prima lingua si ricollega e l'insegnamento della seconda lingua e letteratura straniera moderna prescelta.  
-Due altri insegnamenti fondamentali dovranno pure essere seguiti per un biennio. Lo studente potra' poi seguire per un biennio anche un altro insegnamento;  
-ed in tal caso potra' ridurre da tre a due gli insegnamenti complementari di sua scelta.  
-Gli esami di letteratura italiana e di letteratura, latina comprendono una prova scritta preliminare.  
-Se gli insegnamenti di storia medioevale e di storia moderna sono riuniti in un'unica cattedra, i corsi rispettivi devono essere tenuti alternativamente.  
-Il preside, sentita, ove ritenga, la Facolta', deve controllare i piani di studio presentati dagli studenti ed approvarli prima che siano resi definitivi.  
-Per essere ammesso all'esame di laurea lo studente deve aver seguito i corsi e superato gli esami in tutti gli insegnamenti fondamentali e in tutti gli altri insegnamenti compresi nel piano di studi approvato dal preside.  
+Dopo l'art. 411, e con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi alla istituzione della scuola di specializzazione in fisioterapia.  
+Scuola di specializzazione in fisioterapia  
+Art. 412. - La scuola di specializzazione in fisioterapia ha sede presso la clinica neurologica II e conferisce il diploma di specialista in fisioterapia.  
+Art. 413. - La direzione della scuola e' affidata al professore di ruolo o fuori ruolo della stessa materia della specializzazione o, in carenza, al professore di ruolo o fuori ruolo di materia affine.  
+Il consiglio della scuola si compone di professori che tengono gli insegnamenti prescritti ed e' presieduto dal direttore.  
+Art. 414. - Possono iscriversi alla scuola i laureati in medicina e chirurgia. E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione allo esercizio professionale rilasciato dalle autorita' competenti.  
+Art. 415. - La durata del corso di studi e' di tre anni e non e' suscettibile di abbreviazione.  
+Art. 416. - il numero massimo di allievi e' di sei per ogni anno di corso e complessivamente di diciotto iscritti per l'intero corso di studi.  
+Art. 417. - L'ammissione al corso avviene per titoli ed esami.  
+Art. 418. - Le materie di insegnamento sono le seguenti:  
+1° Anno:  
+1) principi di anatomia funzionale (propedeutico per tutte le materie di base degli anni successivi e per quelle facoltative);  
+2) fisiopatologia dell'apparato neuromotore (come sopra).  
+2° Anno:  
+1) semeiotica clinica delle motolesioni neurologiche (propedeutico per le materie di insegnamento di base del terzo anno);  
+2) semeiotica clinica delle deformita' e delle motolesioni ortopediche (come sopra);  
+3) massoterapia e terapia manuale;  
+4) cinesiologia, cinesioterapia e ginnastica medica;  
+5) idroterapia e balneoterapia.  
+3° Anno:  
+1) elettroterapia ed elettrologia;  
+2) terapia con onde corte ed altri mezzi fisici;  
+3) rieducazione motoria e riabilitazione in campo ortopedico e traumatologico;  
+4) rieducazione motoria e riabilitazione in campo neurologico.  
+Sono facoltative le seguenti materie:  
+1) elettromiografia;  
+2) cinesiterapia e riabilitazione delle malattie internistiche;  
+3) rieducazione respiratoria;  
+4) riabilitazione nei disturbi del linguaggio;  
+5) problemi psicologici e psicopatologici della riabilitazione;  
+6) medicina assicurativa;  
+7) rieducazione dei disturbi della visione;  
+8) climatoterapia;  
+9) problemi di riabilitazione geriatrica;  
+10) riqualificazione professionale.  
+Art. 419. - La frequenza alle lezioni ed alle esercitazioni pratiche e' obbligatoria.  
+L'insegnamento si svolge normalmente secondo il calendario universitario.  
+La durata del corso si prolunga tuttavia per tutto l'anno solare, senza interruzioni, per la pratica clinica e di laboratorio che si esplica attraverso l'esercitazione pratica nei reparti.  
+Art. 420. - Gli iscritti sono tenuti obbligatoriamente ad effettuare l'esercitazione pratica nei reparti della clinica neurologica II per un periodo di sei mesi, e della clinica ortopedica per un secondo periodo della stessa durata.  
+Possono essere esonerati dall'esercitazione pratica nei reparti unicamente gli assistenti che prestino servizio presso cliniche neurologiche o presso cliniche ortopediche o presso istituti ospedalieri riconosciuti idonei, di volta in volta, a giudizio del direttore.  
+Art. 421. - Al termine di ogni anno gli iscritti dovranno superare gli esami di profitto in singole prove.  
+Nel secondo e terzo anno sono compresi insegnamenti facoltativi tra cui lo specializzando dovra' obbligatoriamente sceglierne cinque, due al secondo anno e tre al terzo anno, secondo l'indirizzo da lui preferito. Al termine del corso di studi per il conseguimento del diploma di specialista in fisioterapia, gli interessati dovranno superare l'esame di diploma consistente nella dissertazione scritta di un argomento attinente la specialita'.  
+Art. 422. - Agli allievi i quali abbiano ottenuto l'approvazione nell'esame di diploma verra' rilasciato il diploma di specializzazione in fisioterapia.  
   
 
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta, ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta Ufficiali delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 24 novembre 1958
+### Dato a Roma, addi' 11 maggio 1979
 
-GRONCHI MORO
+PERTINI SPADOLINI
 
-Visto, il Guardasigilli: GONELLA
+Visto, il Guardasigilli: MORLINO
 
-Registrato alla Corte dei conti, addi' 19 gennaio 1959
+Registrato alla Corte dei conti, addi' 7 settembre 1979
 
-Atti del Governo, registro n. 116, foglio n. 20, - RELLEVA
+Registro n. 67 Istruzione, foglio n. 396

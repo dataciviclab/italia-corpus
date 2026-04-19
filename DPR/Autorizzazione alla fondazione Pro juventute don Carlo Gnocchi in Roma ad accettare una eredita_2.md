@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 aprile 1986 n. 421
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 aprile 1974 n. 219
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 11 aprile 1986 n. 421
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 aprile 1974 n. 219
 =============================================================
 
 Autorizzazione alla fondazione "Pro juventute don Carlo Gnocchi", in Roma, ad accettare una eredita'.
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-421. Decreto del Presidente della Repubblica 11 aprile 1986, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare, col beneficio d'inventario, l'eredita', consistente in un immobile sito in Milano, via Fiori Chiari n. 5, distinto nel nuovo catasto edilizio urbano alla partita n. 9702, foglio 349, mappale 49, sub 1 - 12, del valore peritato di L. 230.000.000 elevato dall'ufficio tecnico erariale di Milano a L. 1.200.000.000, e nella quota di un terzo del saldo di conti correnti bancari pari ad un importo di L. 18.477.885, disposta dal sig. Capelli (o Cappelli) Guido Edoardo Andrea detto Guido con testamento olografo 15 settembre 1980, pubblicato in data 11 febbraio 1982, n. 81173/15820 di repertorio, a rogito dott. Luciano Zavanelli, notaio in Milano, registrato a Milano in data 5 maggio 1982 al n. 8562.   
+219. Decreto del Presidente della Repubblica 4 aprile 1974, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare, col beneficio d'inventario, l'eredita', consistente in titoli al portatore del valore presunto di L. 6.696.833 e in beni immobili del valore presunto di L. 13.500.000, disposta dalla sig.ra Vignati Adriana con testamento olografo in data 8 ottobre 1967, pubblicato in data 8 settembre 1971 per atto dott. Alessandro Giuliani notaio in Milano, n. 21436 di repertorio e n. 5051 di raccolta, registrato a Milano il 13 settembre 1971, n. 15441/71/M, serie G.  
   
-Visto, il Guardasigilli: MARTINAZZOLI   
-Registrato alla Corte dei conti, addi' 12 luglio 1986   
-Registro n. 7 Presidenza foglio n. 14
+Visto, il Guardasigilli: ZAGARI  
+Registrato alla Corte dei conti, addi' 1 giugno 1974  
+Atti di Governo, registro n. 4, foglio n. 5. - SCIARRETTA

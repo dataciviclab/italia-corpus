@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 24 giugno 1967 n. 833
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 febbraio 1968 n. 268
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 24 giugno 1967 n. 833
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 febbraio 1968 n. 268
+===============================================================
 
 Autorizzazione all'Amministrazione delle poste e delle telecomunicazioni ad accettare una donazione.
 ----------------------------------------------------------------------------------------------------
@@ -12,8 +12,9 @@ Art. 1
 
 N.
 
-833. Decreto del Presidente della Repubblica 24 giugno 1967, col quale, sulla proposta del Ministro per le poste e le telecomunicazioni, l'Amministrazione delle poste e delle telecomunicazioni viene autorizzata ad accettare la donazione, disposta dal comune di S. Giovanni Teatino, di un'area di mq. 400 circa, sita in Sambuceto, da destinare alla costruzione dell'edificio P. T., come da atto rogato dal notaio avv. Vincenzo Cracchiolo, rep. n. 16572, racc. n. 3333, registrato a Chieti il 19 gennaio 1963 al n. 1269, vol. 193.  
+268. Decreto del Presidente della Repubblica 26 febbraio 1968, col quale, sulla proposta del relativo Ministro, l'Amministrazione delle poste e delle telecomunicazioni viene autorizzata ad accettare dal comune di Sapri (Salerno), la donazione di un'area di mq. 314,25, sita in Sapri, piazza Marconi, da destinare alla costruzione di un edificio p.t., giusta atto a rogito notaio Raffaele Pugliese. La Corte in data 22 luglio 1964, rep. 10069, raccolta 2245, registrato a Sapri il 6 agosto 1964 al n. 71, mod.  
+I, vol. 29.  
   
 Visto, il Guardasigilli: REALE  
-Registrato alla Corte dei conti, addi' 18 settembre 1967  
-Atti del Governo, registro n. 213, foglio n. 75. - GRECO
+Registrato alla Corte dei conti, addi' 21 marzo 1968  
+Atti del Governo, registro n. 218, foglio n. 67. - DI PRETORO

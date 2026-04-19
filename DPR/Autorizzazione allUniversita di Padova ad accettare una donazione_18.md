@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 15 febbraio 1950 n. 607
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 gennaio 1954 n. 293
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 15 febbraio 1950 n. 607
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 gennaio 1954 n. 293
+==============================================================
 
 Autorizzazione all'Universita' di Padova ad accettare una donazione.
 --------------------------------------------------------------------
@@ -12,7 +12,8 @@ Art. 1
 
 N.
 
-607. Decreto del Presidente della Repubblica 15 febbraio 1950, col quale, sulla proposta del Ministro per la pubblica istruzione, l'Universita' di Padova viene autorizzata ad accettare la donazione della somma di L. 175.000, disposta in suo favore dalla signora Carmela Centazzo ved. Tamassia, con atto pubblico amministrativo in data 12 aprile 1949, al fine di aumentare a L. 200.000 il capitale del "Premio di studio professori Arrigo e Nino Tamassia" istituito presso quella Universita' con [regio decreto 3 agosto 1934, n. 1443](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1934-08-03;1443) e con [decreto del Capo provvisorio dello Stato 16 febbraio 1947, n. 259](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto:1947-02-16;259), che viene intitolato "Premio di studio Arrigo, Nino e Mirelia Tamassia" da assegnarsi alternativamente al laureato in giurisprudenza o a quel laureato in medicina e chirurgia che abbia presentato la migliore tesi di laurea in storia del diritto italiano o in medicina legale.  
+293. Decreto del Presidente della Repubblica 26 gennaio 1954, col quale, sulla proposta del Ministro per la pubblica istruzione, l'Universita' di Padova viene autorizzata ad accettare la donazione di L. 100.000 nominali, in titoli di Stato 5%, da intestare alla Universita' medesima, con annotazione di vincolo, disposta in suo favore dal sig. Valentino Rizzi, a nome proprio e per conto anche dei familiari, con atto pubblico amministrativo in data 10 giugno 1953, per l'istituzione, col relativo reddito, di un premio di studio perenne da intitolarsi "Premio dott. ingegnere Lindoro Rizzi" e da conferirsi, per concorso, ogni due anni, al migliore studente di nazionalita' italiana della Facolta' di ingegneria dell'Universita' medesima (Sezione civile - Trasporti), il quale sia iscritto al quinto corso ed abbia superato gli esami consigliati per il terzo e quarto corso, senza aver avuto punizioni disciplinari, con preferenza nell'ordine, a parita' di merito, ad un figlio di internato civile, o di partigiano, o di caduto in guerra o appartenente a famiglia bisognosa.  
   
-Visto, il Guardasigilli: PICCIONI  
-Registrato alla Corte dei conti, addi' 4 agosto 1950
+Visto, il Guardasigilli: DE PIETRO  
+Registrato alla Corte dei conti, addi' 4 giugno 1954  
+Atti del Governo, registro n. 83, foglio n. 103. - CARLOMAGNO

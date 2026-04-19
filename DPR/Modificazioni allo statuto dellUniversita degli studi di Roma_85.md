@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 ottobre 1969 n. 1005
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 luglio 1967 n. 760
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 ottobre 1969 n. 1005
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 luglio 1967 n. 760
+=============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Roma.
 ----------------------------------------------------------------
@@ -10,7 +10,7 @@ Modificazioni allo statuto dell'Universita' degli studi di Roma.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' degli studi di Roma, approvato con [regio decreto 20 aprile 1939, n. 1350](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1350) e modificato con [regio decreto 26 ottobre 1939, n. 1734](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-26;1734), e successive modificazioni;
+Veduto lo statuto dell'Universita' degli studi di Roma, approvato con [regio decreto 20 aprile 1939, n. 1350](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1350), e modificato con [regio decreto 26 ottobre 1939, n. 1734](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-26;1734), e successive modificazioni;
 
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
@@ -20,9 +20,9 @@ Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/ur
 
 Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
 
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
-Riconosciuta la particolare necessita' di approvare le nuove modifiche preposte;
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
 
 Sentito il parere del Consiglio superiore della pubblica istruzione;
 
@@ -32,131 +32,72 @@ Decreta:
 
 Lo statuto dell'Universita' degli studi di Roma, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
-Art. 120. - All'elenco degli istituti annessi alla facolta' di ingegneria e' aggiunto il seguente:
+Art. 56. - All'elenco degli insegnamenti complementari del corso di laurea in Lettere e' aggiunto quello di:
 
-Istituto di automatica con gli insegnamenti di:
+"Storia dell'Asia centrale".
 
-Controlli automatici I;
+Art. 82. - Alle propedeuticita' di esami del corso di laurea in Medicina e chirurgia e' aggiunta la seguente:
 
-Controlli automatici II;
+"L'esame di Chimica biologica non puo' essere sostenuto se non abbiano gia' superato gli esami di "Chimica" e di "Fisica"".
 
-Controlli automatici III;
+Art. 99. - All'elenco degli insegnamenti complementari del corso di laurea in Scienze naturali e' aggiunto quello di: "Mineralogia sistematica".
 
-Controlli automatici IV;
+Art. 103. - L'insegnamento complementare di: "Cristallografia strutturale" del corso di laurea in Scienze geologiche e' soppresso ed al suo posto viene istituito quello di: "Cristallografia".
 
-Tecnica dei controlli automatici (semestrale);
-
-Regolazione e servocomandi.
-
-Di conseguenza detti insegnamenti non fanno piu' parte rispettivamente degli istituti di "Elettrotecnica" e di "Macchine a tecnologie-meccaniche".
-
-Nello stesso articolo gli insegnamenti sottoelencati passano a far parte degli istituti a fianco indicati:
-
-All'istituto di chimica e' aggregato l'insegnamento di "Chimica delle radiazioni";
-
-All'istituto di chimica applicata e industriale sono aggregati gli insegnamenti di "Chimica degli impianti nucleari" e di "Tecnologia dei materiali e chimica applicata II";
-
-All'istituto di elettronica e' aggregato l'insegnamento di "Elettronica nucleare";
-
-All'istituto di elettrotecnica sono aggregati gli insegnamenti di "Elettrotecnica V (semestrale)", "Impianti nucleari I", "Impianti nucleari II", "Organizzazione industriale", "Fisica del reattore nucleare";
-
-All'istituto di fisica sono aggregati gli insegnamenti di "Fisica atomica", "Fisica nucleare", "Metodi nucleari di analisi tecnologiche", "Misure nucleari";
-
-All'istituto di fisica tecnica e' aggregato l'insegnamento di "Termotecnica del reattore";
-
-All'istituto di macchine e tecnologie meccaniche e' aggregato l'insegnamento di "Macchine";
-
-All'istituto di matematica applicata e' aggregato l'insegnamento di "Complementi di matematica (semestrale)", All'istituto di meccanica applicata alle macchine e aggregato l'insegnamento di "Meccanica delle macchine".
-
-Art. 129, relativo al corso di laurea in ingegneria nucleare e' modificato nel senso che insegnamenti del triennio di applicazione con i relativi indirizzi sono abrogati e sostituiti dai seguenti:
-
-Triennio di applicazione: 12) Controlli automatici I; 13) Elettronica nucleare; 14) ((Elettrotecnica I)); 15) Elettrotecnica V (semestrale); 16) Complementi di matematica (semestrale); 17) Fisica atomica; 18) Fisica del reattore nucleare; 19) Fisica nucleare; 20) Fisica tecnica; 21) Impianti nucleari I; 22) Macchine; 23) Macchine elettriche I; 24) Meccanica delle macchine; 25) Misure elettriche I;
-
-26) Misure nucleari; 27) Scienza delle costruzioni; 28) Tecnologia dei materiali e chimica applicata II; 29) Termotecnica del reattore.
-
-Indirizzo A: 30) Impianti nucleari II; 31) Organizzazione industriale; 32) Impianti elettrici I.
-
-Indirizzo B: 30) Chimica degli impianti nucleari; 31) Chimica delle radiazioni; 32) Metodi nucleari di analisi tecnologiche.
-
-Indirizzo C: 30) Calcolatori elettronici; 31) Controlli automatici;
-
-32) Impianti elettrici I.
+Art. 111. - All'elenco degli insegnamenti complementari del corso di laurea in Farmacia sono aggiunti quelli di: "Biologia molecolare" e "Farmacologia applicata".
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 
-Dato a Roma, addi' 30 ottobre 1969
+Dato a Roma, addi' 18 luglio 1967
 
 SARAGAT
 
-FERRARI AGGRADI
+GUI
 
-Visto, il Guardasigilli: GAVA
+Visto, il Guardasigilli: REALE
 
 Registrato
 ----------
 
-alla Corte dei conti, addi' 30 dicembre 1969 Atti del Governo, registro n. 230, foglio n. 176. - CARUSO
+alla Corte dei conti, addi' 21 agosto 1967 Atti del Governo, registro n. 213, foglio n. 17. - CARUSO
 
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA   
+ IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Roma, approvato con [regio decreto 20 aprile 1939, n. 1350](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1350) e modificato con [regio decreto 26 ottobre 1939, n. 1734](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-26;1734), e successive modificazioni;   
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);   
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;   
-Riconosciuta la particolare necessita' di approvare le nuove modifiche preposte;   
-Sentito il parere del Consiglio superiore della pubblica istruzione;   
-Sulla proposta del Ministro per la pubblica istruzione;   
+Veduto lo statuto dell'Universita' degli studi di Roma, approvato con [regio decreto 20 aprile 1939, n. 1350](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1350), e modificato con [regio decreto 26 ottobre 1939, n. 1734](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-26;1734), e successive modificazioni;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
+Sentito il parere del Consiglio superiore della pubblica istruzione;  
+Sulla proposta del Ministro per la pubblica istruzione;  
   
-Decreta:   
+Decreta:  
   
-Lo statuto dell'Universita' degli studi di Roma, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
+Lo statuto dell'Universita' degli studi di Roma, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
   
-Art. 120. - All'elenco degli istituti annessi alla facolta' di ingegneria e' aggiunto il seguente:   
-Istituto di automatica con gli insegnamenti di:   
-Controlli automatici I;   
-Controlli automatici II;   
-Controlli automatici III;   
-Controlli automatici IV;   
-Tecnica dei controlli automatici (semestrale);   
-Regolazione e servocomandi.   
-Di conseguenza detti insegnamenti non fanno piu' parte rispettivamente degli istituti di "Elettrotecnica" e di "Macchine a tecnologie-meccaniche".   
-Nello stesso articolo gli insegnamenti sottoelencati passano a far parte degli istituti a fianco indicati:   
-All'istituto di chimica e' aggregato l'insegnamento di "Chimica delle radiazioni";   
-All'istituto di chimica applicata e industriale sono aggregati gli insegnamenti di "Chimica degli impianti nucleari" e di "Tecnologia dei materiali e chimica applicata II";   
-All'istituto di elettronica e' aggregato l'insegnamento di "Elettronica nucleare";   
-All'istituto di elettrotecnica sono aggregati gli insegnamenti di "Elettrotecnica V (semestrale)", "Impianti nucleari I", "Impianti nucleari II", "Organizzazione industriale", "Fisica del reattore nucleare";   
-All'istituto di fisica sono aggregati gli insegnamenti di "Fisica atomica", "Fisica nucleare", "Metodi nucleari di analisi tecnologiche", "Misure nucleari";   
-All'istituto di fisica tecnica e' aggregato l'insegnamento di "Termotecnica del reattore";   
-All'istituto di macchine e tecnologie meccaniche e' aggregato l'insegnamento di "Macchine";   
-All'istituto di matematica applicata e' aggregato l'insegnamento di "Complementi di matematica (semestrale)", All'istituto di meccanica applicata alle macchine e aggregato l'insegnamento di "Meccanica delle macchine".   
-  
-Art. 129, relativo al corso di laurea in ingegneria nucleare e' modificato nel senso che insegnamenti del triennio di applicazione con i relativi indirizzi sono abrogati e sostituiti dai seguenti:   
-Triennio di applicazione: 12) Controlli automatici I; 13) Elettronica nucleare; 14)
-
-((Elettrotecnica I))
-
-; 15) Elettrotecnica V (semestrale); 16) Complementi di matematica (semestrale); 17) Fisica atomica; 18) Fisica del reattore nucleare; 19) Fisica nucleare; 20) Fisica tecnica; 21) Impianti nucleari I; 22) Macchine; 23) Macchine elettriche I; 24) Meccanica delle macchine; 25) Misure elettriche I;  
-26) Misure nucleari; 27) Scienza delle costruzioni; 28) Tecnologia dei materiali e chimica applicata II; 29) Termotecnica del reattore.   
-Indirizzo A: 30) Impianti nucleari II; 31) Organizzazione industriale; 32) Impianti elettrici I.   
-Indirizzo B: 30) Chimica degli impianti nucleari; 31) Chimica delle radiazioni; 32) Metodi nucleari di analisi tecnologiche.   
-Indirizzo C: 30) Calcolatori elettronici; 31) Controlli automatici;  
-32) Impianti elettrici I.   
+Art. 56. - All'elenco degli insegnamenti complementari del corso di laurea in Lettere e' aggiunto quello di:  
+"Storia dell'Asia centrale".  
+Art. 82. - Alle propedeuticita' di esami del corso di laurea in Medicina e chirurgia e' aggiunta la seguente:  
+"L'esame di Chimica biologica non puo' essere sostenuto se non abbiano gia' superato gli esami di "Chimica" e di "Fisica"".  
+Art. 99. - All'elenco degli insegnamenti complementari del corso di laurea in Scienze naturali e' aggiunto quello di: "Mineralogia sistematica".  
+Art. 103. - L'insegnamento complementare di: "Cristallografia strutturale" del corso di laurea in Scienze geologiche e' soppresso ed al suo posto viene istituito quello di: "Cristallografia".  
+Art. 111. - All'elenco degli insegnamenti complementari del corso di laurea in Farmacia sono aggiunti quelli di: "Biologia molecolare" e "Farmacologia applicata".  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 30 ottobre 1969
+### Dato a Roma, addi' 18 luglio 1967
 
-SARAGAT FERRARI AGGRADI
+SARAGAT GUI
 
-Visto, il Guardasigilli: GAVA
+Visto, il Guardasigilli: REALE
 
-Registrato alla Corte dei conti, addi' 30 dicembre 1969
+Registrato alla Corte dei conti, addi' 21 agosto 1967
 
-Atti del Governo, registro n. 230, foglio n. 176. - CARUSO
+Atti del Governo, registro n. 213, foglio n. 17. - CARUSO

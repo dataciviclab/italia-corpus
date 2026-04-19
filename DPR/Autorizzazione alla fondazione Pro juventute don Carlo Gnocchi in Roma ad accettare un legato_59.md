@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 dicembre 1983 n. 951
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 17 maggio 1982 n. 410
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 dicembre 1983 n. 951
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 17 maggio 1982 n. 410
+=============================================================
 
 Autorizzazione alla fondazione "Pro juventute don Carlo Gnocchi", in Roma, ad accettare un legato.
 --------------------------------------------------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-951. Decreto del Presidente della Repubblica 19 dicembre 1983, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare il legato, consistente in buoni del Tesoro per un valore complessivo di L. 300.000.000, disposto dalla sig.na Marazzi Castiglioni Brambilla Giovanna con testamento olografo 10 novembre 1977, pubblicato in data 22 aprile 1981, n. 474653/2970 di repertorio, a rogito dott. Giovanni Lainati, notaio in Milano, registrato a Milano in data 8 maggio 1981 al n. 9936.  
+410. Decreto del Presidente della Repubblica 17 maggio 1982, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare il legato, consistente in una raccolta di francobolli del valore di L. 900.000, come risulta dal verbale d'inventario, disposto dal sig. Ramelli Giampiero con testamento olografo 9 febbraio 1980, pubblicato in data 24 marzo 1980, n. 11011/1015 di repertorio, a rogito dott. Luigi Prinetti, notaio in Milano, registrato a Milano l'8 aprile 1980 al numero A/Z 08152.  
   
-Visto, il Guardasigilli: MARTINAZZOLI  
-Registrato alla Corte dei conti, addi' 15 febbraio 1984  
-Registro n. 2 Presidenza, foglio n. 131
+Visto, il Guardasigilli: DARIDA  
+Registrato alla Corte dei conti, addi' 30 giugno 1982  
+Registro n. 6 Presidenza, foglio n. 70

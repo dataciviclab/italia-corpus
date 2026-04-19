@@ -1,52 +1,63 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 settembre 1962 n. 1471
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 aprile 1984 n. 510
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 settembre 1962 n. 1471
-=================================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 aprile 1984 n. 510
+=============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Pavia.
 -----------------------------------------------------------------
 
-Art. 1
-------
+IL PRESIDENTE DELLA REPUBBLICA
+------------------------------
 
- IL PRESIDENTE DELLA REPUBBLICA  
+Veduto lo statuto dell'Universita' di Pavia, approvato con [regio decreto 14 ottobre 1926, n. 2130](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2130), e successive modificazioni;
+
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
+
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
+
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
+
+Veduto il decreto del Presidente della Repubblica Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Pavia e convalidati dal Consiglio universitario nazionale nel suo parere;
+
+Sentito il parere del Consiglio universitario nazionale;
+
+Sulla proposta del Ministro della pubblica istruzione;
+
+Considerata la necessita' di adeguare anche dal punto di vista formale, la denominazione del personale di biblioteca, in conformita' a quanto disposto dal decreto del Presidente del Consiglio dei Ministri 24 settembre 1981, concernente le declaratorie delle qualifiche funzionali e dei profili professionali;
+
+Decreta:
+--------
+
+Lo statuto dell'Universita' di Pavia, approvato e modificato con i decreti sopra indicati, e' ulteriormente modificato come appresso:
+
+Articolo unico
+--------------
+
   
-Veduto lo statuto dell'Universita' degli studi di Pavia, approvato con [regio decreto 14 ottobre 1926, n. 2130](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2130), modificato con [regio decreto 13 ottobre 1927, n. 2229](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2229), e successivi;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
-Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro per la pubblica istruzione;  
-  
-Decreta:  
-  
-Lo statuto dell'Universita' degli studi di Pavia, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-  
-Art. 24. - Agli insegnamenti complementari del corso di laurea in scienze politiche e' aggiunto quello di:  
-10) Organizzazione internazionale.  
-All'art. 27, relativo agli Istituti annessi alla Facolta' di Scienze politiche e' aggiunto il seguente nuovo comma concernente l'istituzione dell'Istituto di Storia e istituzioni dei Paesi afro-asiatici:  
-Art. 27. - "Alla Facolta' e' annesso un Istituto di Storia e istituzioni dei Paesi afro-asiatici.  
-L'Istituto e' diretto dal professore titolare di Storia ed istituzioni dei Paesi afro-asiatici".  
-Art. 38. - Agli insegnamenti complementari del corso di laurea in Medicina e chirurgia sono aggiunti quelli di:  
-14) Genetica medica;  
-15) Semeiotica chirurgica.  
-Art. 50. - Alle propedeuticita' gia' esistenti per il corso di laurea in farmacia dopo il secondo comma e' aggiunto il seguente:  
-"L'esame di Chimica biologica non puo' essere sostenuto se prima non sia stato superato l'esame di Chimica organica".  
+Dopo l'art. 50, relativo al corso di laurea in economia e commercio, con il conseguente spostamento della numerazione degli articoli successivi e' aggiunto il nuovo seguente articolo:  
+Art. 51. - Alla facolta' e' annessa una biblioteca. La biblioteca gestisce il patrimonio librario della facolta'.  
+La direzione scientifica della biblioteca e' affidata ad un direttore scientifico, coadiuvato da una commissione biblioteca, in accordo con le decisioni del consiglio di facolta' e nel rispetto delle attribuzioni del personale addetto alla biblioteca appartenente alle seguenti qualifiche funzionali:  
+agenti dei servizi ausiliari (IV qualifica);  
+assistente bibliotecario (VI qualifica);  
+collaboratore di biblioteca (VII qualifica);  
+funzionario di biblioteca (VIII qualifica).  
+Il consiglio di facolta' approva un regolamento della biblioteca ed un regolamento dei prestiti. Nel regolamento della biblioteca sono determinate le modalita' di costituzione della commissione biblioteca e di nomina del direttore scientifico, le modalita' di collaborazione ed i compiti rispettivi, nonche' criteri di impiego dei fondi, tali da assicurare il soddisfacimento delle esigenze degli istituti e l'equita' nella distribuzione delle risorse fra le varie discipline.  
   
 
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale dette leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 4 settembre 1962
+### Dato a Roma, addi' 26 aprile 1984
 
-SEGNI GUI
+PERTINI FALCUCCI
 
-Visto, il Guardasigilli: BOSCO
+Visto, il Guardasigilli: MARTINAZZOLI
 
-Registrato alla Corte dei conti, addi' 20 ottobre 1962
+Registrato alla Corte dei conti, addi' 8 agosto 1984
 
-Atti del Governo, registro n. 159, foglio n. 63. - VILLA
+Registro n. 49 Istruzione, foglio n. 195

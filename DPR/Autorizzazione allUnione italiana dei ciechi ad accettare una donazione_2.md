@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 13 agosto 1964 n. 1043
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 12 febbraio 1962 n. 104
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 13 agosto 1964 n. 1043
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 12 febbraio 1962 n. 104
+===============================================================
 
 Autorizzazione all'Unione italiana dei ciechi ad accettare una donazione.
 -------------------------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-1043. Decreto del Presidente della Repubblica 13 agosto 1964, col quale, sulla proposta del Presidente del Consiglio dei Ministri, l'Unione italiana dei ciechi viene autorizzata ad accettare la donazione disposta in suo favore dalla prof. Angela Maria Barbizzoli vedova Migliavacca, consistente in beni immobili del valore di L. 10.000.000, costituiti da una "casa di villeggiatura" e terreni annessi, siti nel comune di Caravate (Varese), nonche' buoni del Tesoro settennali 5% del capitale nominale di L. 50.000.000, come da atto a rogito notaio dott. Pietro Cassina, notaio residente in Milano, in data 14 luglio 1962, n. 56632, di rep., n. 14254 di fascicolo.  
+104. Decreto del Presidente della Repubblica 12 febbraio 1962, col quale, sulla proposta del Presidente del Consiglio dei Ministri, l'Unione italiana dei ciechi, viene autorizzata ad accettare la donazione disposta in suo favore dall'avv. Lallai Ferdinando, con atto a rogito dott. Leonida Onano, notaio in Cagliari, in data 14 febbraio 1960, n. 3875 di volume e n. 6043 rep. gen., consistente in un tratto di terreno seminativo di seconda classe di are nove e centiare sessantacinque - attualmente area fabbricabile - sito in Cagliari, nella localita' "Santa Maria Chiara" da destinarsi alla costruzione di un laboratorio per ciechi.  
   
-Visto, il Guardasigilli: REALE  
-Registrato alla Corte dei conti, addi' 12 ottobre 1964  
-Atti del Governo, registro n. 187, foglio n. 108. - VILLA
+Visto, il Guardasigilli: BOSCO  
+Registrato alla Corte dei conti, addi' 20 marzo 1962  
+Atti del Governo, registro n. 144, foglio n. 86. - VILLA

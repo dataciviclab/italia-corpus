@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 29 maggio 1969 n. 398
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 12 febbraio 1969 n. 63
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 29 maggio 1969 n. 398
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 12 febbraio 1969 n. 63
+==============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Cagliari.
 --------------------------------------------------------------------
@@ -10,101 +10,36 @@ Modificazioni allo statuto dell'Universita' degli studi di Cagliari.
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA   
+ IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Cagliari, approvato con [regio decreto 20 aprile 1939, n. 1098](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1098) e modificato con [regio decreto 5 ottobre 1939, n. 1743](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-05;1743), e successive modificazioni;   
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);   
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;   
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;   
-Sentito il parere del Consiglio superiore della pubblica istruzione;   
-Sulla proposta del Ministro per la pubblica istruzione;   
+Veduto lo statuto dell'Universita' degli studi di Cagliari, approvato con [regio decreto 20 aprile 1939, numero 1098](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1098) e modificato con [regio decreto 5 ottobre 1939, n. 1743](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-05;1743), e successive modificazioni;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
+Sentito il parere del Consiglio superiore della pubblica istruzione;  
+Sulla proposta del Ministro per la pubblica istruzione;  
   
-Decreta:   
+Decreta:  
   
-Lo statuto dell'Universita' degli studi di Cagliari, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
-Art. 55. - L'elenco degli insegnamenti complementari del corso di laurea in chimica (indirizzo organico-biologico ed inorganico-chimico-fisico) e' soppresso e sostituito dal seguente.   
-Indirizzo organico-biologico:   
-1) Analisi matematica (bienn.);   
-2) Geometria 1ª parte;   
-3) Meccanica razionale;   
-(\*) 4) Chimica organica industriale;   
-(\*) 5) Chimica biologica;   
-(\*) 6) Chimica farmaceutica;   
-7) Chimica bromatologica;   
-(\*) 8) Farmacologia;   
-(\*) 9) Chimica delle fermentazioni e batteriologia industriale; (\*) 10) Chimica agraria;   
-12) Radiochimica e chimica nucleare;   
-13) Chimica delle sostanze coloranti;   
-14) Chimica macromolecolare;   
-15) Chimica organica superiore;   
-16) Chimica degli intermedi;   
-17) Strutturistica chimica;   
-18) Chimica teorica;   
-19) Industrie chimiche per l'agricoltura;   
-20) Tecnologie elettrochimiche;   
-21) Cinetica chimica;   
-22) Biochimica fisica;   
-23) Idrologia;   
-24) Chimica analitica strumentale;   
-25) Analisi chimica spettroscopica;   
-26) Chimica degli idrocarburi;   
-27) Chimica fisica organica;   
-28) Chimica fisica industriale;   
-29) Impianti industriali chimici;   
-30) Teoria degli elettroliti;   
-31) Chimica delle sostanze naturali;   
-32) Spettroscopia molecolare.   
-Indirizzo inorganico-chimico-fisico:   
-1) Analisi matematica (bienn.);   
-2) Geometria 1ª parte;   
-3) Meccanica razionale;   
-(\*) 4) Fisica superiore;   
-(\*) 5) Fisica tecnica (corso speciale per chimici e chimici industriali);   
-(\*) 6) Elettrochimica;   
-7) Geochimica;   
-(\*) 8) Chimica applicata (ai materiali da costruzione);   
-(\*) 9) Spettroscopia;   
-(\*) 10) Misure elettriche (corso speciale per chimici e chimici industriali);   
-(\*) 11) Chimica industriale;   
-12) Radiochimica e chimica nucleare;   
-13) Chimica delle sostanze coloranti;   
-14) Chimica macromolecolare;   
-15) Chimica organica superiore;   
-16) Chimica degli intermedi;   
-17) Strutturistica chimica;   
-18) Chimica teorica;   
-19) Chimica fisica delle interfasi;   
-20) Calcolo numerico e tecnica delle applicazioni meccaniche ed elettroniche;   
-21) Statistica industriale;   
-22) Metodi di elaborazione elettronica in chimica;   
-23) Chimica quantistica;   
-24) Chimica statistica;   
-25) Spettroscopia molecolare;   
-26) Spettroscopia a radiofrequenza;   
-27) Tecnologie elettrochimiche;   
-28) Analisi chimica spettroscopica;   
-29) Chimica analitica industriale;   
-30) Termodinamica chimica;   
-31) Chimica fisica industriale;   
-32) Impianti industriali chimici;   
-33) Chimica dei composti di coordinazione;   
-34) Chimica inorganica superiore;   
-35) Magnetochimica;   
-36) Teoria degli elettroliti.   
+Lo statuto dell'Universita' degli studi di Cagliari, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+Art. 35. - All'elenco degli insegnamenti complementari del corso di laurea in materie letterarie e' aggiunto quello di: 21) Storia della critica della letteratura italiana.  
+Art. 37. - All'elenco degli insegnamenti complementari del corso di laurea in lingue e letterature straniere sono aggiunti quelli di:  
+17) Storia della lingua inglese;  
+18) Letteratura ispano-americana.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 29 maggio 1969
+### Dato a Roma, addi' 12 febbraio 1969
 
-SARAGAT FERRARI AGGRADI
+SARAGAT SULLO
 
 Visto, il Guardasigilli: GAVA
 
-Registrato alla Corte dei conti, addi' 16 luglio 1969
+Registrato alla Corte dei conti, addi' 22 marzo 1969
 
-Atti del Governo, registro n. 228, foglio n. 8. - CARUSO
+Atti del Governo, registro n. 225, foglio n. 163. - GRECO

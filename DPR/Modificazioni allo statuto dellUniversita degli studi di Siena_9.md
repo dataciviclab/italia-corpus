@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 01 agosto 1972 n. 586
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 23 marzo 1960 n. 452
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 01 agosto 1972 n. 586
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 23 marzo 1960 n. 452
+============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Siena.
 -----------------------------------------------------------------
@@ -10,7 +10,7 @@ Modificazioni allo statuto dell'Universita' degli studi di Siena.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' degli studi di Siena, approvato con [regio decreto 13 ottobre 1927, n. 2831](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2831) e modificato con [regio decreto 31 ottobre 1929, n. 2395](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1929-10-31;2395), e successive modificazioni;
+Veduto lo statuto dell'Universita' degli studi di Siena, approvato con [regio decreto 13 ottobre 1927, n. 2831](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2831), modificato con [regio decreto 31 ottobre 1929, n. 2395](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1929-10-31;2395) e successivi;
 
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
@@ -18,7 +18,9 @@ Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it
 
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
 
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
+
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
 Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
 
@@ -30,177 +32,59 @@ Decreta:
 
 Lo statuto dell'Universita' degli studi di Siena, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
-Dopo l'art. 166 sono aggiunti i seguenti nuovi articoli relativi alla istituzione della scuola diretta a fini speciali per tecnici di istituti medico-biologici.
+Art. 10. - Alle propedeuticita' per il corso di laurea in Giurisprudenza, agli effetti dell'iscrizione e dello esame, viene aggiunta quella di "Storia del diritto italiano" rispetto al "Diritto comune".
 
-Scuola per tecnici di istituti medico-biologici
+Art. 21. - Agli insegnamenti complementari del corso di laurea in Medicina e chirurgia sono aggiunti quelli di - "Storia della medicina" e di "Anestesiologia".
 
-Art. 167. - E' istituita presso la facolta' di medicina e chirurgia dell'Universita' di Siena una scuola ad indirizzo essenzialmente pratico diretta a preparare personale tecnico per gli istituti e laboratori medico biologici.
-
-Il direttore della scuola e' nominato dal rettore su proposta della facolta' di medicina e chirurgia.
-
-Gli insegnanti della scuola sono proposti dal direttore e sono nominati dal rettore su conforme parere del consiglio della facolta' di medicina e chirurgia.
-
-I professori che svolgono gli insegnamenti costituiscono il consiglio della scuola, al quale spettano le funzioni tecniche e disciplinari necessarie per il regolare funzionamento della scuola.
-
-Art. 168. -- La scuola prende il nome di "Scuola per tecnici di istituti medico-biologici", ha la durata di due anni e conferisce il diploma di tecnico di istituti medicobiologici. Ne e' titolo di ammissione il possesso di un diploma legalmente valido conseguito presso un istituto secondario superiore ordinato su non meno di cinque anni di corso.
-
-Art. 169. - Gli aspiranti all'iscrizione al primo anno di corso sono tenuti a sostenere un esame di ammissione consistente in una prova orale di cultura generale ed in una prova orale di conoscenza di una lingua straniera moderna, scelta tra l'inglese, il francese ed il tedesco.
-
-Art. 170. - Alla scuola non sono ammessi piu' di venti allievi.
-
-Qualora le domande di iscrizione fossero in numero superiore, il consiglio della scuola si riserva di provvedere ad una scelta tra gli idonei in base ai risultati dell'esame di ammissione.
-
-Art. 171. - Il corso comprende lezioni teoriche ed esercitazioni pratiche.
-
-Le materie di insegnamento sono le seguenti:
-
-1° Anno:
-
-Anatomia e istologia;
-
-Elementi di chimica generale e chimica biologica;
-
-Fisiologia;
-
-Farmacologia.
-
-2° Anno:
-
-Microbiologia;
-
-Anatomia patologica;
-
-Patologia.
-
-Le esercitazioni pratiche comprendono:
-
-1° Anno:
-
-Tecnica istologica, istochimica, cultura in vitro, microscopia elettronica;
-
-Tecnica biochimica;
-
-Prove biologiche (di fisiologia e di farmacologia).
-
-2° Anno:
-
-Tecnica microbiologica;
-
-Istologia patologica;
-
-Analisi cliniche.
-
-Art. 172. - E' fatto obbligo agli allievi di frequentare le azioni teoriche e le esercitazioni: queste ultime in forma di tirocinio pratico della durata non inferiore a mesi due consecutivi presso un istituto universitario ad indirizzo biologico o clinico.
-
-Art. 173. - Alla fine di ogni corso gli allievi devono sostenere un esame sulle materie di insegnamento. Nel caso in cui i candidati non abbiano superato gli esami prescritti, essi rimarranno nella posizione di "ripetenti" fino a quando non avranno assolto tutti gli obblighi di cui sopra.
-
-Art. 174. - A conclusione dei loro studi gli allievi devono sostenere un esame di diploma che consiste nella discussione di una dissertazione scritta su argomento che a scelta del candidato potra' essere biologico o clinico e nell'esecuzione di una prova pratica di laboratorio sulle materie di esercitazione.
-
-Art. 175. - I candidati non riconosciuti idonei possono ripresentarsi all'esame di diploma dopo un altro anno di frequenza alla scuola. Se al secondo esame non venga loro riconosciuta l'idoneita', essi saranno senza altro esclusi da ulteriori prove.
-
-Art. 176. - Le tasse e soprattasse sono le seguenti:
-
-Tassa di iscrizione...... L. 10.000 annue
-
-Soprattassa di esame....." 7.000"
-
-Tassa di diploma......" 6.000"
-
-Art. 177. - I proventi della scuola sono costituiti dalle tasse, soprattasse e contributi di cui all'articolo precedente e dai contributi del Ministero della sanita' e degli enti locali.
+Art. 75. - Agli insegnamenti della Scuola di specializzazione in Urologia e' aggiunto quello di "Chirurgia infantile".
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 
-Dato a Roma, addi' 1 agosto 1972
+Dato a Roma, addi' 23 marzo 1960
 
-LEONE
+GRONCHI
 
-SCALFARO
+MEDICI
 
 Visto, il Guardasigilli: GONELLA
 
 Registrato
 ----------
 
-alla Corte dei conti, addi' 10 ottobre 1972 Atti del Governo, registro n. 251, foglio n. 112. - CARUSO
+alla Corte dei conti, addi' 20 maggio 1960 Atti del Governo, registro n. 126, foglio n. 147. - VILLA
 
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA   
+ IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Siena, approvato con [regio decreto 13 ottobre 1927, n. 2831](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2831) e modificato con [regio decreto 31 ottobre 1929, n. 2395](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1929-10-31;2395), e successive modificazioni;   
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;   
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;   
-Sentito il parere del Consiglio superiore della pubblica istruzione;   
-Sulla proposta del Ministro per la pubblica istruzione;   
+Veduto lo statuto dell'Universita' degli studi di Siena, approvato con [regio decreto 13 ottobre 1927, n. 2831](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2831), modificato con [regio decreto 31 ottobre 1929, n. 2395](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1929-10-31;2395) e successivi;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
+Sentito il parere del Consiglio superiore della pubblica istruzione;  
+Sulla proposta del Ministro per la pubblica istruzione;  
   
-Decreta:   
+Decreta:  
   
-Lo statuto dell'Universita' degli studi di Siena, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
-  
-Dopo l'art. 166 sono aggiunti i seguenti nuovi articoli relativi alla istituzione della scuola diretta a fini speciali per tecnici di istituti medico-biologici.   
-  
-Scuola per tecnici di istituti medico-biologici   
-  
-Art. 167. - E' istituita presso la facolta' di medicina e chirurgia dell'Universita' di Siena una scuola ad indirizzo essenzialmente pratico diretta a preparare personale tecnico per gli istituti e laboratori medico biologici.   
-Il direttore della scuola e' nominato dal rettore su proposta della facolta' di medicina e chirurgia.   
-Gli insegnanti della scuola sono proposti dal direttore e sono nominati dal rettore su conforme parere del consiglio della facolta' di medicina e chirurgia.   
-I professori che svolgono gli insegnamenti costituiscono il consiglio della scuola, al quale spettano le funzioni tecniche e disciplinari necessarie per il regolare funzionamento della scuola.   
-Art. 168. -- La scuola prende il nome di "Scuola per tecnici di istituti medico-biologici", ha la durata di due anni e conferisce il diploma di tecnico di istituti medicobiologici. Ne e' titolo di ammissione il possesso di un diploma legalmente valido conseguito presso un istituto secondario superiore ordinato su non meno di cinque anni di corso.   
-Art. 169. - Gli aspiranti all'iscrizione al primo anno di corso sono tenuti a sostenere un esame di ammissione consistente in una prova orale di cultura generale ed in una prova orale di conoscenza di una lingua straniera moderna, scelta tra l'inglese, il francese ed il tedesco.   
-Art. 170. - Alla scuola non sono ammessi piu' di venti allievi.  
-Qualora le domande di iscrizione fossero in numero superiore, il consiglio della scuola si riserva di provvedere ad una scelta tra gli idonei in base ai risultati dell'esame di ammissione.   
-Art. 171. - Il corso comprende lezioni teoriche ed esercitazioni pratiche.   
-Le materie di insegnamento sono le seguenti:   
-  
-1° Anno:   
-Anatomia e istologia;   
-Elementi di chimica generale e chimica biologica;   
-Fisiologia;   
-Farmacologia.   
-  
-2° Anno:   
-Microbiologia;   
-Anatomia patologica;   
-Patologia.   
-  
-Le esercitazioni pratiche comprendono:   
-  
-1° Anno:   
-Tecnica istologica, istochimica, cultura in vitro, microscopia elettronica;   
-Tecnica biochimica;   
-Prove biologiche (di fisiologia e di farmacologia).   
-  
-2° Anno:   
-Tecnica microbiologica;   
-Istologia patologica;   
-Analisi cliniche.   
-  
-Art. 172. - E' fatto obbligo agli allievi di frequentare le azioni teoriche e le esercitazioni: queste ultime in forma di tirocinio pratico della durata non inferiore a mesi due consecutivi presso un istituto universitario ad indirizzo biologico o clinico.   
-Art. 173. - Alla fine di ogni corso gli allievi devono sostenere un esame sulle materie di insegnamento. Nel caso in cui i candidati non abbiano superato gli esami prescritti, essi rimarranno nella posizione di "ripetenti" fino a quando non avranno assolto tutti gli obblighi di cui sopra.   
-Art. 174. - A conclusione dei loro studi gli allievi devono sostenere un esame di diploma che consiste nella discussione di una dissertazione scritta su argomento che a scelta del candidato potra' essere biologico o clinico e nell'esecuzione di una prova pratica di laboratorio sulle materie di esercitazione.   
-Art. 175. - I candidati non riconosciuti idonei possono ripresentarsi all'esame di diploma dopo un altro anno di frequenza alla scuola. Se al secondo esame non venga loro riconosciuta l'idoneita', essi saranno senza altro esclusi da ulteriori prove.   
-Art. 176. - Le tasse e soprattasse sono le seguenti:   
-  
-Tassa di iscrizione...... L. 10.000 annue   
-Soprattassa di esame....." 7.000"   
-Tassa di diploma......" 6.000"   
-  
-Art. 177. - I proventi della scuola sono costituiti dalle tasse, soprattasse e contributi di cui all'articolo precedente e dai contributi del Ministero della sanita' e degli enti locali.   
+Lo statuto dell'Universita' degli studi di Siena, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+Art. 10. - Alle propedeuticita' per il corso di laurea in Giurisprudenza, agli effetti dell'iscrizione e dello esame, viene aggiunta quella di "Storia del diritto italiano" rispetto al "Diritto comune".  
+Art. 21. - Agli insegnamenti complementari del corso di laurea in Medicina e chirurgia sono aggiunti quelli di - "Storia della medicina" e di "Anestesiologia".  
+Art. 75. - Agli insegnamenti della Scuola di specializzazione in Urologia e' aggiunto quello di "Chirurgia infantile".  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 1 agosto 1972
+### Dato a Roma, addi' 23 marzo 1960
 
-LEONE SCALFARO
+GRONCHI MEDICI
 
 Visto, il Guardasigilli: GONELLA
 
-Registrato alla Corte dei conti, addi' 10 ottobre 1972
+Registrato alla Corte dei conti, addi' 20 maggio 1960
 
-Atti del Governo, registro n. 251, foglio n. 112. - CARUSO
+Atti del Governo, registro n. 126, foglio n. 147. - VILLA

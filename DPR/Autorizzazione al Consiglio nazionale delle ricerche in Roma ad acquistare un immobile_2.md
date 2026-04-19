@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 08 agosto 1985 n. 565
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 13 marzo 1980 n. 157
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 08 agosto 1985 n. 565
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 13 marzo 1980 n. 157
+============================================================
 
 Autorizzazione al Consiglio nazionale delle ricerche, in Roma, ad acquistare un immobile.
 -----------------------------------------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-565. Decreto del Presidente della Repubblica 8 agosto 1985, col quale, sulla proposta del Presidente del Consiglio dei Ministri, il Consiglio nazionale delle ricerche, in Roma, viene autorizzato ad acquistare un immobile (mq 4.000 di terreno) sito in Camogli (Genova), di proprieta' dell'Istituto delle figlie di Maria Santissima dell'Orto (Gianelline), al prezzo convenuto di L. 22.000.000, al fine di realizzare la costruzione della sede dell'istituto di cibernetica e biofisica operante nella stessa citta'.  
+157. Decreto del Presidente della Repubblica 13 marzo 1980, col quale, sulla proposta del Presidente del Consiglio dei Ministri, il Consiglio nazionale delle ricerche, in Roma, viene autorizzato ad acquistare, al prezzo di L. 1.700.000.000, un fabbricato sito in Roma, via Reno, 1, angolo via Clitunno, costituito da cinque piani fuori terra e da un seminterrato, della superficie coperta di mq 1625 piu' area di terreno scoperto di mq 530, censito al nuovo catasto edilizio urbano alla partita 225616, foglio 576, particella 137 sub 1-7, di proprieta' della Societa' mobiliare immobiliare romana a r.l., come da promessa di vendita 9 febbraio 1968, n. 71159/31872 di repertorio, a rogito dottor Vincenzo Colapietro, notaio in Roma.   
   
-Visto, il Guardasigilli: MARTINAZZOLI  
-Registrato alla Corte dei conti, addi' 11 ottobre 1985  
-Registro n. 9 Presidenza, foglio n. 70
+Visto, il Guardasigilli: MORLINO   
+Registrato alla Corte dei conti, addi' 3 maggio 1980   
+Registro n. 3 Presidenza, foglio n. 264

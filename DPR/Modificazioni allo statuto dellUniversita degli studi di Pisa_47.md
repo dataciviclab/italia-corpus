@@ -1,11 +1,121 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 25 gennaio 1971 n. 382
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 luglio 1967 n. 1459
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 25 gennaio 1971 n. 382
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 luglio 1967 n. 1459
 ==============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Pisa.
 ----------------------------------------------------------------
+
+IL PRESIDENTE DELLA REPUBBLICA
+------------------------------
+
+Veduto lo statuto dell'Universita' degli studi di Pisa, approvato con [regio decreto 14 ottobre 1926, n. 2278](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2278) e modificato con [regio decreto 13 ottobre 1927, n. 2225](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2225), e successive modificazioni;
+
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
+
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
+
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
+
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
+
+Sentito il parere del Consiglio superiore della pubblica istruzione;
+
+Sulla proposta del Ministro per la pubblica istruzione;
+
+Decreta:
+
+Lo statuto dell'Universita' degli studi di Pisa, approvato e modificato con i decreti sopraindicati, e ulteriormente modificato come appresso:
+
+Art. 42. - All'elenco degli insegnamenti complementari del corso di laurea in economia e commercio e' aggiunto quello di "Principi e tecnica delle applicazioni meccanografiche ed elettroniche".
+
+Art. 45. - All'elenco degli istituti annessi al corso di laurea in economia e commercio e' aggiunto l'istituto giuridico "Santi Romano".
+
+Art. 51. - All'elenco degli insegnamenti complementari del corso di laurea in lettere sono aggiunti i seguenti:
+
+Linguistica generale;
+
+Dialettologia italiana;
+
+Storia contemporanea;
+
+Storia della filosofia antica;
+
+Antichita' medioevale;
+
+Storia della storiografia;
+
+Storia della critica d'arte;
+
+Storia dell'arte contemporanea.
+
+Art. 59. - E' abrogato e sostituito dal seguente: "La dissertazione per il conseguimento della laurea in lettere deve riferirsi a discipline letterarie, storiche e geografiche; quella per il conseguimento della laurea in filosofia, a discipline filosofiche e storiche".
+
+Art. 74, relativo agli istituti annessi alla facolta' di scienze matematiche, fisiche e naturali e' modificato nel senso che l'istituto di chimica analitica muta denominazione in quella di "Istituto di chimica analitica ed elettrochimica".
+
+Art. 76. - All'elenco degli insegnamenti complementari del corso di laurea in chimica (ind. organico-biologico) e' aggiunto quello di "Complementi di matematica".
+
+Art. 78. - All'elenco degli insegnamenti complementari del corso di laurea in chimica industriale e' aggiunto quello di "Complementi di matematica".
+
+Art. 116. - Titolo V - per il corso di laurea in ingegneria meccanica nel gruppo 30 e gruppo 40 degli insegnamenti a scelta dello studente, l'insegnamento di elettronica applicata e' sostituito da "Elementi di elettronica".
+
+Titolo VII - per il corso di laurea in ingegneria chimica nel gruppo 3 degli insegnamenti a scelta dello studente l'insegnamento di mineralogia e' sostituito da "Chimica fisica tecnica".
+
+Titolo IX - per il corso di laurea in ingegneria elettronica, l'insegnamento di "Complementi di fisica (semestrale) e' sostituito da "Elettronica generale".
+
+Art. 122, relativo alle norme sulle propedeuticita' di esami del triennio di applicazione della facolta' d'ingegneria e' modificato nel senso che vengono aggiunte o modificate le seguenti:
+
+Analisi e sviluppo dei progetti (Principi di ingegneria chimica, c o-
+
+struzione di apparecchiature ch i-
+
+miche)
+
+Elementi di elettro nica (Elettrotecnica)
+
+Impianti chimici (Principi di ingegneria chimica, c o-
+
+struzione di apparecchiature ch i-
+
+miche)
+
+Principi di ingegne ria chimica (Chimica fisica, fisica tecnica)
+
+Processi di apparecchiature di (Principi di ingegneria chimica)
+
+trasferimento
+
+Strumentazione e controllo dei (Fisica tecnica, elettrotecnic a,
+
+processi chimici chimica fisica. Chimica analiti ca
+
+e strumentazione)
+
+Teoria e sviluppo dei processi (Principi di ingegneria chimic a.
+
+Processi chimici fondamentali)
+
+Art. 175, relativo al corso di perfezionamento in ingegneria applicata all'agricoltura e' soppresso.
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 4 luglio 1967
+
+SARAGAT
+
+GUI
+
+Visto, il Guardasigilli: REALE
+
+Registrato
+----------
+
+alla Corte dei conti, addi' 18 marzo 1968 Atti del Governo, registro n. 218, foglio n. 51. - GRECO
 
 Art. 1
 ------
@@ -17,105 +127,69 @@ Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regi
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
 Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
 Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
 Sentito il parere del Consiglio superiore della pubblica istruzione;  
 Sulla proposta del Ministro per la pubblica istruzione;  
   
 Decreta:  
   
-Lo statuto dell'Universita' degli studi di Pisa, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+Lo statuto dell'Universita' degli studi di Pisa, approvato e modificato con i decreti sopraindicati, e ulteriormente modificato come appresso:  
   
-Gli articoli 46, 47, 48 relativi al corso di laurea in lingue e letterature straniere sono abrogati e sostituiti dai seguenti:  
+Art. 42. - All'elenco degli insegnamenti complementari del corso di laurea in economia e commercio e' aggiunto quello di "Principi e tecnica delle applicazioni meccanografiche ed elettroniche".  
+Art. 45. - All'elenco degli istituti annessi al corso di laurea in economia e commercio e' aggiunto l'istituto giuridico "Santi Romano".  
+Art. 51. - All'elenco degli insegnamenti complementari del corso di laurea in lettere sono aggiunti i seguenti:  
+Linguistica generale;  
+Dialettologia italiana;  
+Storia contemporanea;  
+Storia della filosofia antica;  
+Antichita' medioevale;  
+Storia della storiografia;  
+Storia della critica d'arte;  
+Storia dell'arte contemporanea.  
   
-Laurea in lingue e letterature straniere  
+Art. 59. - E' abrogato e sostituito dal seguente: "La dissertazione per il conseguimento della laurea in lettere deve riferirsi a discipline letterarie, storiche e geografiche; quella per il conseguimento della laurea in filosofia, a discipline filosofiche e storiche".  
+Art. 74, relativo agli istituti annessi alla facolta' di scienze matematiche, fisiche e naturali e' modificato nel senso che l'istituto di chimica analitica muta denominazione in quella di "Istituto di chimica analitica ed elettrochimica".  
+Art. 76. - All'elenco degli insegnamenti complementari del corso di laurea in chimica (ind. organico-biologico) e' aggiunto quello di "Complementi di matematica".  
+Art. 78. - All'elenco degli insegnamenti complementari del corso di laurea in chimica industriale e' aggiunto quello di "Complementi di matematica".  
+Art. 116. - Titolo V - per il corso di laurea in ingegneria meccanica nel gruppo 30 e gruppo 40 degli insegnamenti a scelta dello studente, l'insegnamento di elettronica applicata e' sostituito da "Elementi di elettronica".  
+Titolo VII - per il corso di laurea in ingegneria chimica nel gruppo 3 degli insegnamenti a scelta dello studente l'insegnamento di mineralogia e' sostituito da "Chimica fisica tecnica".  
+Titolo IX - per il corso di laurea in ingegneria elettronica, l'insegnamento di "Complementi di fisica (semestrale) e' sostituito da "Elettronica generale".  
+Art. 122, relativo alle norme sulle propedeuticita' di esami del triennio di applicazione della facolta' d'ingegneria e' modificato nel senso che vengono aggiunte o modificate le seguenti:  
+Analisi e sviluppo dei progetti (Principi di ingegneria chimica, c o-  
+struzione di apparecchiature ch i-  
+miche)  
   
-Art. 46. - La durata del corso degli studi per la laurea in lingue e letterature straniere e di quattro anni.  
-Possono iscriversi al corso di laurea in lingue e letterature straniere i diplomati degli istituti di istruzione secondaria di secondo grado di durata quinquennale, ivi compresi i licei linguistici riconosciuti per legge, nonche' i diplomati degli istituti magistrali e dei licei artistici. Per questi ultimi occorre aver frequentato con esito positivo, un corso annuale integrativo.  
-Nella durata quinquennale del corso degli studi secondari, vanno compresi tutti gli istituti di istruzione secondaria, i cui corsi abbiano avuto o abbiano una durata complessiva di otto anni dopo l'istruzione primaria (scuole elementari), ovvero di cinque anni dopo la scuola media inferiore.  
-Sono insegnamenti fondamentali:  
-1) Lingua e letteratura italiana (biennale);  
-2) Una lingua e letteratura straniera (quadriennale) da scegliersi tra: francese, inglese, tedesco, spagnolo, o qualsiasi altra il cui insegnamento sia impartito nel corso di laurea;  
-3) Una seconda lingua e letteratura straniera (triennale) da scegliersi tra quelle insegnate nel corso di laurea;  
-4) La filologia afferente la lingua scelta come quadriennale;  
-5) Glottologia;  
-6) Storia moderna e contemporanea;  
-7) Geografia, soprattutto antropica.  
-Sono insegnamenti complementari:  
-1) Storia della filosofia;  
-2) Filosofia;  
-3) Pedagogia;  
-4) Lingua e letteratura russa;  
-5) Linguistica;  
-6) Lingua e letteratura romena;  
-7) Lingua e letteratura portoghese;  
-8) Lingua e letteratura ispano-americana;  
-9) Letteratura nord-americana (anglo-americana);  
-10) Didattica delle lingue moderne;  
-11) Filologia ispanica;  
-12) Filologia slava;  
-13) Geografia politica ed economica;  
-14) Letterature moderne comparate;  
-15) Lingua e letteratura latina;  
-16) Sociologia;  
-17) Letteratura italiana moderna e comparata;  
-18) Storia dell'Europa orientale;  
-19) Storia della lingua francese;  
-20) Storia della lingua inglese;  
-21) Storia medioevale;  
-22) Storia dei paesi ispano-americani;  
-23) Storia del pensiero politico moderno e contemporaneo;  
-24) Storia del Risorgimento;  
-25) Storia americana;  
-26) Storia del teatro;  
-27) Storia dell'arte;  
-28) Letteratura brasiliana;  
-29) Storia contemporanea;  
-30) Storia economica;  
-31) Lingua e letteratura serbo-croata;  
-32) Lingua e letteratura polacca;  
-33) Lingua e letteratura slovena;  
-34) Lingua e letteratura ungherese;  
-35) Lingua e letteratura cecoslovacca;  
-36) Lingua e letteratura neogreca;  
-37) Lingua e letteratura bulgara;  
-38) Lingua e letteratura albanese;  
-39) Ebraico;  
-40) Storia della letteratura latina medioevale;  
-41) Filologia umanistica;  
-42) Storia della lingua italiana;  
-43) Biblioteconomia e bibliografia;  
-44) Lingue e letterature scandinave;  
-45) Storia della cultura tedesca;  
-46) Lingua e letteratura neerlandese;  
-47) Storia della cultura ispanica.  
-Lo studente, in luogo della seconda disciplina (triennale), puo' seguire gli insegnamenti di una disciplina biennale e di una annuale, scelti fra quelli effettivamente impartiti nella facolta'.  
-Gli insegnamenti di "Lingua e letteratura latina";  
-"Una materia filosofica"; "Storia dell'arte"; "Didattica delle lingue moderne" devono essere necessariamente impartiti nella facolta'.  
-Gli esami di italiano consistono in due prove orali (una per ciascun anno di corso) ed in una prova scritta, che puo' essere sostenuta in uno qualsiasi degli anni di corso.  
-L'esame di storia e quello di geografia sono afferenti alla lingua scelta come quadriennale.  
-Per essere ammessi all'esame di laurea, lo studente deve avere seguito i corsi e superato gli esami in tutti gli insegnamenti fondamentali ed almeno in tre da lui scelti fra i complementari. La scelta degli insegnamenti complementari puo' essere effettuata fra le discipline insegnate nella facolta' (con esclusione di quelle pluriennali) ovvero, previa approvazione del consiglio di facolta', tra le discipline di altre facolta' dell'ateneo.  
-Art. 47. - Gli esami della lingua e letteratura straniera quadriennale, consistono in quattro prove orali (una per ciascun anno di corso) ed in tre prove scritte, non vincolanti nei confronti degli orali, ed in un test al termine del primo anno di corso.  
-Le prove scritte della lingua straniera, sono articolate come segue:  
-2° Anno:  
-un dettato, una traduzione dalla lingua in italiano ed una traduzione dall'italiano in lingua;  
-3° Anno:  
-un dettato, una traduzione dall'italiano in lingua ed una composizione;  
-4° Anno:  
-una traduzione dall'italiano in lingua ed una composizione.  
-Lo studente ha l'obbligo di frequentare il seminario della lingua e letteratura straniera prescelta come quadriennale e compiervi i lavori che siano assegnati dal rispettivo direttore.  
-Art. 48. - L'esame di laurea consiste nella discussione di un elaborato scritto su un argomento scelto tra una delle discipline di cui il candidato abbia superato gli esami, nel quadro della civilta' della lingua quadriennale.  
+Elementi di elettro nica (Elettrotecnica)  
+  
+Impianti chimici (Principi di ingegneria chimica, c o-  
+struzione di apparecchiature ch i-  
+miche)  
+  
+Principi di ingegne ria chimica (Chimica fisica, fisica tecnica)  
+  
+Processi di apparecchiature di (Principi di ingegneria chimica)  
+trasferimento  
+  
+Strumentazione e controllo dei (Fisica tecnica, elettrotecnic a,  
+processi chimici chimica fisica. Chimica analiti ca  
+e strumentazione)  
+  
+Teoria e sviluppo dei processi (Principi di ingegneria chimic a.  
+Processi chimici fondamentali)  
+  
+Art. 175, relativo al corso di perfezionamento in ingegneria applicata all'agricoltura e' soppresso.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 25 gennaio 1971
+### Dato a Roma, addi' 4 luglio 1967
 
-SARAGAT MISASI
+SARAGAT GUI
 
 Visto, il Guardasigilli: REALE
 
-Registrato alla Corte dei conti, addi' 15 giugno 1971
+Registrato alla Corte dei conti, addi' 18 marzo 1968
 
-Atti del Governo, registro n. 242, foglio n. 103. - VALENTINI
+Atti del Governo, registro n. 218, foglio n. 51. - GRECO

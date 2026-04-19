@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 03 maggio 1978 n. 414
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 settembre 1982 n. 927
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 03 maggio 1978 n. 414
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 settembre 1982 n. 927
+================================================================
 
 Autorizzazione ad accettare una donazione a favore dello Stato.
 ---------------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-414. Decreto del Presidente della Repubblica 3 maggio 1978, col quale, sulla proposta del Ministro per i beni culturali e ambientali, viene autorizzata l'accettazione a favore dello Stato della donazione disposta dalla n.d. principessa Maria Concetta Fossi ved. Barberini con atto di donazione 12 dicembre 1975, n. 68515/30495 di repertorio, a rogito dottor Vincenzo Colapietro, notaio in Roma, consistente in un affresco di Guido Reni raffigurante un "putto dormiente" (cm 58 X 56), il quale riveste un notevole interesse artistico, da destinare dopo la morte della donatrice alla Galleria nazionale d'arte antica in Roma.  
+927. Decreto del Presidente della Repubblica 10 settembre 1982, col quale, sulla proposta del Ministro delle finanze, viene autorizzata l'accettazione a favore dello Stato della donazione, consistente in un complesso immobiliare, opere d'arte ed altre attrezzature, sito in Ardea (Roma), il tutto descritto in atto, disposta dal prof. Giacomo Manzoni e dal "Comitato amici di Manzu'" con atto 5 giugno 1980, n. 97 di repertorio, a rogito dott. Antonio Sgobbo, notaio in Roma, da destinare alla Galleria nazionale d'arte moderna e contemporanea.  
   
-Visto, il Guardasigilli: BONIFACIO  
-Registrato alla Corte dei conti, addi' 24 luglio 1978  
-Registro n. 10 Beni culturali, foglio n. 284
+Visto, il Guardasigilli: DARIDA  
+Registrato alla Corte dei conti, addi' 17 dicembre 1982  
+Registro n. 62 Finanze, foglio n. 260

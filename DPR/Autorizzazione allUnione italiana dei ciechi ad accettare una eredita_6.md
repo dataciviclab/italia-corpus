@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 dicembre 1951 n. 1742
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 07 febbraio 1966 n. 136
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 dicembre 1951 n. 1742
-================================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 07 febbraio 1966 n. 136
+===============================================================
 
 Autorizzazione all'Unione italiana dei ciechi ad accettare una eredita'.
 ------------------------------------------------------------------------
@@ -12,8 +12,9 @@ Art. 1
 
 N.
 
-1742. Decreto del Presidente della Repubblica 26 dicembre 1951, col quale, sulla proposta del Presidente del Consiglio dei Ministri, l'Unione italiana dei ciechi viene autorizzata ad accettare col beneficio d'inventario una eredita', disposta in favore della Sezione toscana dell'Unione stessa dal sig. Costa Agostino, con testamento olografo del 20 dicembre 1948 e codicillo del 10 settembre 1950.  
+136. Decreto del Presidente della Repubblica 7 febbraio 1966, col quale, sulla proposta del Presidente dei Consiglio dei Ministri, l'Unione italiana dei ciechi viene autorizzata ad accettare, col beneficio di inventario, l'eredita' disposta dal defunto sig.  
+Antonio Spolveretti, con testamento olografo del 17 gennaio 1964 e annesso codicillo in data 10 febbraio 1964, a rogito dott. Giuseppe Gili, notaio residente a Torino, in data 20 marzo 1964, repertorio n. 49356, consistente in beni mobili ed immobili per oltre 400 milioni di lire.  
   
-Visto, il Guardasigilli: ZOLI  
-Registrato alla Corte dei conti, addi' 19 febbraio 1952  
-Atti del Governo, registro n. 50, foglio n. 38. - FRASCA
+Visto, il Guardasigilli: REALE  
+Registrato alla Corte dei conti, addi' 28 marzo 1966  
+Atti del Governo, registro n. 202, foglio n. 73. - VILLA

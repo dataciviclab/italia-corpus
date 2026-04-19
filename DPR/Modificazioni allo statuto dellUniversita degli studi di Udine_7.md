@@ -1,14 +1,68 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 03 ottobre 1979 n. 587
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 maggio 1985 n. 672
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 03 ottobre 1979 n. 587
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 maggio 1985 n. 672
+=============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Udine.
 -----------------------------------------------------------------
 
-Art. 1
-------
+IL PRESIDENTE DELLA REPUBBLICA
+------------------------------
 
-((PROVVEDIMENTO ABROGATO DAL [D.L. 9 FEBBRAIO 2012, N. 5](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2012-02-09;5),   
-CONVERTITO CON MODIFICAZIONI DALLA [L. 4 APRILE 2012, N. 35](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2012-04-04;35)))
+Veduto lo statuto dell'Universita' di Udine, approvato con [decreto del Presidente della Repubblica 11 giugno 1979, n. 298](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1979-06-11;298), e successive modificazioni;
+
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
+
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
+
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
+
+Veduto il [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
+
+Veduto il [decreto del Presidente della Repubblica 10 marzo 1982, n. 162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1982-03-10;162);
+
+Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Udine e convalidati dal Consiglio universitario nazionale nel suo parere;
+
+Sentito il parere del Consiglio universitario nazionale;
+
+Sulla proposta del Ministro della pubblica istruzione;
+
+Decreta:
+--------
+
+Lo statuto dell'Universita' di Udine, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+
+Articolo unico
+--------------
+
+  
+L'art. 8, relativo agli istituti policattedra viene cosi' modificato: la voce "azienda agraria, con relative strutture, annessa alla facolta' di agraria" viene soppressa.  
+Nell'art. 34, relativo al corso di laurea in scienze della produzione animale della facolta' di agraria, allo elenco degli insegnamenti complementari sono aggiunti i seguenti insegnamenti:  
+coniglicoltura (semestrale);  
+fisiopatologia della riproduzione e tecnica della fecondazione artificiale;  
+idrologia a fini ittici;  
+igiene e profilassi degli allevamenti ittici;  
+itticoltura intensiva;  
+molluschicoltura e crostaceicoltura;  
+vallicoltura.  
+  
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+### Dato a Roma, addi' 4 maggio 1985
+
+PERTINI
+
+FALCUCCI, Ministro della pubblica istruzione
+
+Visto, il Guardasigilli: MARTINAZZOLI
+
+Registrato alla Corte dei conti, addi' 12 novembre 1985
+
+Registro n. 76 Istruzione, foglio n. 312

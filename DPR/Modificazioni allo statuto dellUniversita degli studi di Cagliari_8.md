@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 ottobre 1970 n. 1206
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 16 febbraio 1955 n. 137
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 ottobre 1970 n. 1206
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 16 febbraio 1955 n. 137
 ===============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Cagliari.
@@ -10,7 +10,7 @@ Modificazioni allo statuto dell'Universita' degli studi di Cagliari.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' degli studi di Cagliari, approvato con [regio decreto 20 aprile 1939, n. 1098](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1098) e modificato con [regio decreto 5 ottobre 1939, n. 1743](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-05;1743), e successive modificazioni;
+Veduto lo statuto dell'Universita' degli studi di Cagliari, approvato con [regio decreto 20 aprile 1939, n. 1098](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1098), e modificato con [regi decreti 5 ottobre 1939, n. 1743](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1939-10-05;1743); [26 marzo 1942, n. 328, con decreto del Capo provvisorio dello Stato](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto:1942-03-26;328) [22 ottobre 1946, n. 398; e con decreti del Presidente della Repubblica](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1946-10-22;398) [30 ottobre 1949, n. 1027](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-10-30;1027); [11 aprile 1951, n. 565](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-04-11;565); [23 gennaio 1952, n. 365](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-01-23;365); [26 ottobre 1952, n. 4542](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-10-26;4542); [10 febbraio 1953, n. 550](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1953-02-10;550); [30 luglio 1953, n. 716](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1953-07-30;716); [6 ottobre 1953, n. 1097](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1953-10-06;1097); [29 maggio 1954, n. 752](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1954-05-29;752) e [24 settembre 1954, n. 1206](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1954-09-24;1206);
 
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
@@ -18,7 +18,9 @@ Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it
 
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
 
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
+
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
 Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
 
@@ -30,151 +32,42 @@ Decreta:
 
 Lo statuto dell'Universita' degli studi di Cagliari, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
-Gli articoli 128, 129, 130 relativi alla scuola di specializzazione in radiologia, sono abrogati e sostituiti dai seguenti:
+Art. 28. - Agli insegnamenti complementari del corso di laurea in materie letterarie e' aggiunto quello di:
 
-Scuola di specializzazione in radiologia
+7) "storia delle dottrine politiche".
 
-Art. 128. - Alla facolta' di medicina e chirurgia e' annessa una scuola di specializzazione in radiologia e radiologia diagnostica con sede presso l'istituto radiologico.
+Art. 52. - Agli insegnamenti complementari del corso di laurea in farmacia e' aggiunto quello di:
 
-Art. 129. - La scuola di specializzazione in radiologia e radiologia diagnostica conferisce due diplomi:
+7) "biochimica applicata".
 
-a) diploma di specialista in radiologia, che abilita all'esercizio specialistico della roentgen-diagnostica, della radioterapia e della medicina nucleare (diagnostica e terapia);
-
-b) diploma di specialista in radiologia diagnostica che abilita all'esercizio specialistico della roentgen-diagnostica.
-
-Gli anni di studio post-laurea necessari per conseguire il diploma di cui alle lettere a) sono 4, quelli di cui alla lettera b) sono 3.
-
-Il numero degli specializzandi da ammettere alla scuola per il corso quadriennale di "Radiologia", e per il corso triennale della "Radiodiagnostica" e' di complessivi 22.
-
-Art. 130. - Le materie obbligatorie per il conseguimento del diploma di specialista in radiologia sono le seguenti, cosi' distribuite negli anni del corso:
-
-1° Anno:
-
-1) Fisica, con particolare riguardo alla costituzione della materia, alla produzione, all'assorbimento ed alla misura delle radiazioni;
-
-2) Nozioni sugli apparecchi ed istrumenti della radiologia;
-
-3) Anatomia radiologica normale;
-
-4) Fisiologia radiologica;
-
-5) Tecnica radiologica generale;
-
-6) Semeiotica radiologica generale;
-
-7) Fondamenti di radiobiologia;
-
-8) Nozioni di statistica e matematica.
-
-2° Anno:
-
-1) Tecnica e metodica dell'esame radiologico dei vari organi, apparati e sistemi;
-
-2) Semeiotica radiologica speciale e diagnosi differenziale;
-
-3) Fondamenti di radioterapia;
-
-4) Danni da radiazioni e mezzi di protezione;
-
-5) Dimostrazioni cliniche di diagnostica radiologica;
-
-6) Dimostrazioni cliniche di radioterapia.
-
-3° Anno:
-
-1) Diagnostica radiologica differenziale;
-
-2) Dimostrazioni di casistica di roentgen-diagnostica, con il confronto del quadro anatomo-patologico;
-
-3) Dimostrazioni di casistica di radioterapia con particolare riguardo alla anatomia patologica;
-
-4) Radioterapia tradizionale. Curieterapia;
-
-5) Radioterapia con alte energie;
-
-6) Elementi di medicina nucleare;
-
-7) Istrumentario, tecnica e metodica di applicazione;
-
-8) Dosimetria.
-
-4° Anno:
-
-1) Moderne tecniche di esplorazione e terapia radiologica;
-
-2) Diagnostica o terapia con isotopi radioattivi somministrati per via interna;
-
-3) Radiodiagnostica e radioterapia clinica con dimostrazioni di casistica;
-
-4) Medicina legale e legislazione sanitaria in relazione alla radiologia.
-
-Le materie obbligatorie per il conseguimento del diploma di specializzazione in radiologia diagnostica sono le seguenti, cosi' distribuite negli anni di corso:
-
-1° Anno:
-
-1) Fisica, con particolare riguardo alla costituzione della materia, alla produzione, all'assorbimento ed alla misura delle radiazioni;
-
-2) Nozioni sugli apparecchi ed istrumenti della radiologia;
-
-3) Anatomia radiologica normale;
-
-4) Fisiologia radiologica;
-
-5) Tecnica radiologica generale;
-
-6) Semeiotica radiologica generale;
-
-7) Fondamenti di radiobiologia;
-
-8) Nozioni di statistica e matematica;
-
-2° Anno:
-
-1) Metodica ed esplorazione dei vari organi ed apparati;
-
-2) Semeiotica radiologica speciale e diagnosi differenziale;
-
-3) Nozioni generali sulle lesioni da radiazioni e mezzi di protezione;
-
-4) Moderne tecniche di esplorazione radiologica.
-
-3° Anno:
-
-1) Esplorazione radiologica nella patologia dei vari organi ed apparati. Diagnostica differenziale. Rapporti con l'anatomia patologica;
-
-2) Radiodiagnostica clinica;
-
-3) Medicina legale e legislazione sanitaria in relazione alla radiologia.
-
-Alla fine di ogni anno gli allievi dei due corsi sosterranno un esame obbligatorio di ammissione all'anno successivo, costituito da prove teoriche e tecniche, sulle materie di insegnamento. Alla fine dell'ultimo anno di corso gli allievi sosterranno un esame di profitto per essere ammessi alla discussione della tesi di diploma.
-
-L'insegnamento agli allievi sara' integrato ogni anno da conferenze, esercitazioni o seminari.
+Art. 100. - Agli insegnamenti del 2° anno della scuola di specializzazione in radiologia e' aggiunto quello di: "Biologia ed anatomia patologica dei tumori".
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 
-Dato a Roma, addi' 30 ottobre 1970
+Dato a Napoli, addi' 16 febbraio 1955
 
-SARAGAT
+EINAUDI
 
-MISASI
+ERMINI
 
-Visto, il Guardasigilli: REALE
+Visto, il Guardasigilli: DE PIETRO
 
 Registrato
 ----------
 
-alla Corte dei conti, addi' 19 gennaio 1971 Atti del Governo, registro n. 240, foglio n. 74. - CARUSO
+alla Corte dei conti, addi' 29 marzo 1955 Atti del Governo, registro n. 89, foglio n. 211. - CARLOMAGNO
 
 Art. 1
 ------
 
  IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Cagliari, approvato con [regio decreto 20 aprile 1939, n. 1098](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1098) e modificato con [regio decreto 5 ottobre 1939, n. 1743](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-05;1743), e successive modificazioni;  
+Veduto lo statuto dell'Universita' degli studi di Cagliari, approvato con [regio decreto 20 aprile 1939, n. 1098](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1098), e modificato con [regi decreti 5 ottobre 1939, n. 1743](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1939-10-05;1743); [26 marzo 1942, n. 328, con decreto del Capo provvisorio dello Stato](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto:1942-03-26;328) [22 ottobre 1946, n. 398; e con decreti del Presidente della Repubblica](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1946-10-22;398) [30 ottobre 1949, n. 1027](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-10-30;1027); [11 aprile 1951, n. 565](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-04-11;565); [23 gennaio 1952, n. 365](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-01-23;365); [26 ottobre 1952, n. 4542](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-10-26;4542); [10 febbraio 1953, n. 550](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1953-02-10;550); [30 luglio 1953, n. 716](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1953-07-30;716); [6 ottobre 1953, n. 1097](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1953-10-06;1097); [29 maggio 1954, n. 752](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1954-05-29;752) e [24 settembre 1954, n. 1206](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1954-09-24;1206);  
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;  
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
 Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
 Sentito il parere del Consiglio superiore della pubblica istruzione;  
 Sulla proposta del Ministro per la pubblica istruzione;  
@@ -182,79 +75,22 @@ Sulla proposta del Ministro per la pubblica istruzione;
 Decreta:  
   
 Lo statuto dell'Universita' degli studi di Cagliari, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-Gli articoli 128, 129, 130 relativi alla scuola di specializzazione in radiologia, sono abrogati e sostituiti dai seguenti:  
-  
-Scuola di specializzazione in radiologia  
-  
-Art. 128. - Alla facolta' di medicina e chirurgia e' annessa una scuola di specializzazione in radiologia e radiologia diagnostica con sede presso l'istituto radiologico.  
-Art. 129. - La scuola di specializzazione in radiologia e radiologia diagnostica conferisce due diplomi:  
-a) diploma di specialista in radiologia, che abilita all'esercizio specialistico della roentgen-diagnostica, della radioterapia e della medicina nucleare (diagnostica e terapia);  
-b) diploma di specialista in radiologia diagnostica che abilita all'esercizio specialistico della roentgen-diagnostica.  
-Gli anni di studio post-laurea necessari per conseguire il diploma di cui alle lettere a) sono 4, quelli di cui alla lettera b) sono 3.  
-Il numero degli specializzandi da ammettere alla scuola per il corso quadriennale di "Radiologia", e per il corso triennale della "Radiodiagnostica" e' di complessivi 22.  
-Art. 130. - Le materie obbligatorie per il conseguimento del diploma di specialista in radiologia sono le seguenti, cosi' distribuite negli anni del corso:  
-1° Anno:  
-1) Fisica, con particolare riguardo alla costituzione della materia, alla produzione, all'assorbimento ed alla misura delle radiazioni;  
-2) Nozioni sugli apparecchi ed istrumenti della radiologia;  
-3) Anatomia radiologica normale;  
-4) Fisiologia radiologica;  
-5) Tecnica radiologica generale;  
-6) Semeiotica radiologica generale;  
-7) Fondamenti di radiobiologia;  
-8) Nozioni di statistica e matematica.  
-2° Anno:  
-1) Tecnica e metodica dell'esame radiologico dei vari organi, apparati e sistemi;  
-2) Semeiotica radiologica speciale e diagnosi differenziale;  
-3) Fondamenti di radioterapia;  
-4) Danni da radiazioni e mezzi di protezione;  
-5) Dimostrazioni cliniche di diagnostica radiologica;  
-6) Dimostrazioni cliniche di radioterapia.  
-3° Anno:  
-1) Diagnostica radiologica differenziale;  
-2) Dimostrazioni di casistica di roentgen-diagnostica, con il confronto del quadro anatomo-patologico;  
-3) Dimostrazioni di casistica di radioterapia con particolare riguardo alla anatomia patologica;  
-4) Radioterapia tradizionale. Curieterapia;  
-5) Radioterapia con alte energie;  
-6) Elementi di medicina nucleare;  
-7) Istrumentario, tecnica e metodica di applicazione;  
-8) Dosimetria.  
-4° Anno:  
-1) Moderne tecniche di esplorazione e terapia radiologica;  
-2) Diagnostica o terapia con isotopi radioattivi somministrati per via interna;  
-3) Radiodiagnostica e radioterapia clinica con dimostrazioni di casistica;  
-4) Medicina legale e legislazione sanitaria in relazione alla radiologia.  
-Le materie obbligatorie per il conseguimento del diploma di specializzazione in radiologia diagnostica sono le seguenti, cosi' distribuite negli anni di corso:  
-1° Anno:  
-1) Fisica, con particolare riguardo alla costituzione della materia, alla produzione, all'assorbimento ed alla misura delle radiazioni;  
-2) Nozioni sugli apparecchi ed istrumenti della radiologia;  
-3) Anatomia radiologica normale;  
-4) Fisiologia radiologica;  
-5) Tecnica radiologica generale;  
-6) Semeiotica radiologica generale;  
-7) Fondamenti di radiobiologia;  
-8) Nozioni di statistica e matematica;  
-2° Anno:  
-1) Metodica ed esplorazione dei vari organi ed apparati;  
-2) Semeiotica radiologica speciale e diagnosi differenziale;  
-3) Nozioni generali sulle lesioni da radiazioni e mezzi di protezione;  
-4) Moderne tecniche di esplorazione radiologica.  
-3° Anno:  
-1) Esplorazione radiologica nella patologia dei vari organi ed apparati. Diagnostica differenziale. Rapporti con l'anatomia patologica;  
-2) Radiodiagnostica clinica;  
-3) Medicina legale e legislazione sanitaria in relazione alla radiologia.  
-Alla fine di ogni anno gli allievi dei due corsi sosterranno un esame obbligatorio di ammissione all'anno successivo, costituito da prove teoriche e tecniche, sulle materie di insegnamento. Alla fine dell'ultimo anno di corso gli allievi sosterranno un esame di profitto per essere ammessi alla discussione della tesi di diploma.  
-L'insegnamento agli allievi sara' integrato ogni anno da conferenze, esercitazioni o seminari.  
+Art. 28. - Agli insegnamenti complementari del corso di laurea in materie letterarie e' aggiunto quello di:  
+7) "storia delle dottrine politiche".  
+Art. 52. - Agli insegnamenti complementari del corso di laurea in farmacia e' aggiunto quello di:  
+7) "biochimica applicata".  
+Art. 100. - Agli insegnamenti del 2° anno della scuola di specializzazione in radiologia e' aggiunto quello di: "Biologia ed anatomia patologica dei tumori".  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 30 ottobre 1970
+### Dato a Napoli, addi' 16 febbraio 1955
 
-SARAGAT MISASI
+EINAUDI ERMINI
 
-Visto, il Guardasigilli: REALE
+Visto, il Guardasigilli: DE PIETRO
 
-Registrato alla Corte dei conti, addi' 19 gennaio 1971
+Registrato alla Corte dei conti, addi' 29 marzo 1955
 
-Atti del Governo, registro n. 240, foglio n. 74. - CARUSO
+Atti del Governo, registro n. 89, foglio n. 211. - CARLOMAGNO

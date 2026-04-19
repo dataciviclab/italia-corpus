@@ -1,59 +1,85 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 24 settembre 1985 n. 875
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 agosto 1951 n. 1774
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 24 settembre 1985 n. 875
-================================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 agosto 1951 n. 1774
+==============================================================
 
-Modificazioni allo statuto dell'Universita' cattolica del Sacro Cuore di Milano.
---------------------------------------------------------------------------------
+Modificazioni allo statuto dell'Universita' cattolica del "Sacro Cuore" di Milano.
+----------------------------------------------------------------------------------
 
-IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
+Art. 1
+------
 
-Veduto lo statuto dell'Universita' cattolica del Sacro Cuore di Milano approvato con [regio decreto 20 aprile 1939, n. 1163](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1163), e successive modificazioni;
-
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
-
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
-
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
-
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
-
-Veduto il [decreto del Presidente della Repubblica 1 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-01;382);
-
-Veduta la [legge 30 ottobre 1981, n. 615](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-10-30;615);
-
-Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta ai sensi della citata legge n. 615;
-
-Veduto il parere del Consiglio universitario nazionale;
-
-Sulla proposta del Ministro della pubblica istruzione;
-
-Decreta:
---------
-
-Lo statuto dell'Universita' cattolica del Sacro Cuore di Milano, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
-
-Articolo unico
---------------
-
+ IL PRESIDENTE DELLA REPUBBLICA   
   
-Art. 18 - nell'elenco degli insegnamenti complementari del corso di laurea in materie letterarie e' inserito l'insegnamento di "filosofia teoretica".  
-Art. 19 - nell'elenco degli insegnamenti complementari del corso di laurea in pedagogia e' inserito l'insegnamento di "filosofia teoretica".  
+Veduto lo statuto dell'Universita' cattolica del "Sacro Cuore" di Milano, approvato con [regio decreto 20 aprile 1939, n. 1163](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1163), e modificato con [regio decreto 17 ottobre 1941, n. 1282](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1941-10-17;1282), con [decreto del Capo provvisorio dello Stato 27 luglio 1947, n. 1242](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto:1947-07-27;1242) e con [decreto del Presidente della Repubblica 20 ottobre 1949, n. 1026](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-10-20;1026);   
+Veduto il testo unico delle leggi sull'istruzione superiore,   
+approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive   
+modificazioni;   
+Vedute le proposte di modifica allo statuto formulate dalle   
+autorita' accademiche dell'Universita' anzidetta Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;   
+Sentito il parere del Consiglio superiore della pubblica   
+istruzione;   
+Sulla proposta del Ministro per la pubblica istruzione, di concerto   
+col Ministro per il tesoro;   
   
+Decreta:   
+  
+Lo statuto dell'Universita' cattolica del "Sacro Cuore" di Milano, approvato e modificato con i decreti sopraindicati e' ulteriormente modificato nel senso che viene istituita la Facolta' di agraria che rilascia la laurea in scienze agrarie.   
+Alla predetta Facolta' di agraria sono assegnati sei posti di   
+professore di ruolo, di cui all'annessa tabella n. 1. Le tasse relative sono determinate nell'annessa tabella n. 4.   
+I seguenti articoli dell'attuale statuto dell'Universita' anzidetta   
+sono modificati come appresso:   
+Art. 2. - Il primo comma e' sostituito dal seguente:   
+L'Universita' cattolica e' costituita dalla Facolta' di   
+giurisprudenza;   
+dalla Facolta' di scienze politiche;   
+dalla Facolta' di economia e commercio;   
+dalla Facolta' di lettere e filosofia;   
+dalla Facolta' di magistero;   
+dalla Facolta' di agraria.   
+  
+CAPO III   
+ORDINAMENTO DEGLI STUDI   
+SEZIONE I   
+La dicitura: "Disposizioni commi alle cinque Facolta'" e'   
+modificata nel modo seguente: "Disposizioni comuni alle sei Facolta'".   
+Art. 5. - E' sostituito dal seguente:   
+Nell'Universita' sono conferite le seguenti lauree e diplomi:   
+nella Facolta' di giurisprudenza: la laurea in giurisprudenza;   
+nella Facolta' di scienze politiche: la laurea in scienze   
+politiche;   
+nella Facolta' di economia e commercio: la laurea in economia e commercio;   
+nella Facolta' di lettere e filosofia: la laurea in lettere e la laurea in filosofia;   
+nella Facolta' di magistero: la laurea in materie letterarie, la laurea in pedagogia, la laurea in lingue e letterature straniere e il diploma di abilitazione alla vigilanza nelle scuole elementari;   
+nella Facolta' di agraria: la laurea in scienze agrarie;   
+nella Scuola di statistica: il diploma di statistica.   
+Dopo l'attuale art. 19, sono inseriti i seguenti nuovi articoli   
+relativi alla istituzione della Facolta' di agraria, col conseguente spostamento della numerazione degli articoli successivi.   
+  
+Parte di provvedimento in formato grafico  
 
-Il presente decreto, munito del sigillo dello Stato sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Tabelle
 
-### Dato a Roma, addi' 24 settembre 1985
-
-COSSIGA
-
-FALCUCCI, Ministro della pubblica istruzione
-
-Visto, il Guardasigilli: MARTINAZZOLI
-
-Registrato alla Corte dei conti, addi' 27 gennaio 1986
-
-Registro n. 3 Istruzione, foglio n. 225
+ TABELLA N. 1 (Art. 21)   
+  
+Posti di ruolo dei professori   
+  
+Facolta' di giurisprudenza . . . . . . . . . . . . . . . . . . 12   
+Facolta' di scienze politiche . . . . . . . . . . . . . . . . . 6   
+Facolta' di economia e commercio. . . . . . . . . . . . . . . . 6   
+Facolta' di lettere e filosofia. . . . . . . . . . . . . . . . 12   
+Facolta' di magistero . . . . . . . . . . . . . . . . . . . . . 6   
+Facolta' di agraria . . . . . . . . . . . . . . . . . . . . . . 6   
+  
+Visto, il Ministro per la pubblica istruzione   
+SEGNI   
+  
+TABELLA N. 4 (Art. 50)   
+  
+Tasse e sopratasse scolastiche   
+  
+  
+[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=051U177400100010110001&dgu=1952-03-24&art.dataPubblicazioneGazzetta=1952-03-24&art.codiceRedazionale=051U1774)
+  

@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 aprile 1978 n. 589
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1977 n. 1243
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 aprile 1978 n. 589
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1977 n. 1243
+===============================================================
 
 Modificazioni allo statuto dell'Universita' cattolica del Sacro Cuore di Milano.
 --------------------------------------------------------------------------------
@@ -12,11 +12,11 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Veduto lo statuto dell'Universita' cattolica del Sacro Cuore di Milano, approvato con [regio decreto 20 aprile 1939, n. 1163](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1163) e modificato con [regio decreto 26 ottobre 1940, n. 2030](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;2030), e successive modificazioni;
 
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
 
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni.
 
 Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
 
@@ -32,256 +32,663 @@ Decreta:
 
 Lo statuto dell'Universita' cattolica del Sacro Cuore di Milano, approvato e modificato con i decreti sopra indicati, e' ulteriormente modificato come appresso:
 
-Gli articoli da 156 a 172, relativi alla scuola superiore delle comunicazioni sociali, diretta a fini speciali, per effetto del riordinamento della scuola medesima, mutano, con il conseguente spostamento della numerazione degli articoli successivi, come segue:
+Art. 14 - all'elenco degli insegnamenti complementari del corso di laurea in lettere sono aggiunti i seguenti:
 
-Scuola superiore delle comunicazioni sociali
+psicologia religiosa;
 
-L'art. 156 resta invariato.
+dialettologia italiana;
 
-Il testo dell'attuale art. 157 e' soppresso e sostituito come segue:
+epigrafia greca e latina;
 
-Art. 157.- La durata legale del corso di studio della scuola e' di due anni. Sono titoli di ammissione: la laurea nei vari indirizzi della facolta' di lettere e filosofia e di magistero e le lauree in giurisprudenza, in scienze politiche, in sociologia, in architettura, in economia e commercio (solo per l'indirizzo pubblicita), in scienze statistiche (solo per l'indirizzo pubblicita).
+storia della storiografia antica;
 
-L'art. 158 resta invariato.
+Art. 15 - all'elenco degli insegnamenti complementari del corso di laurea in filosofia e' aggiunto l'insegnamento di psicologia religiosa.
 
-Il testo dell'attuale art. 159 e' soppresso e sostituito come segue:
+Art. 16 - all'elenco degli insegnamenti complementari del corso di laurea in lingue e letterature straniere moderne e' aggiunto l'insegnamento di dialettologia italiana.
 
-Art. 159. - La scuola rilascia tre diplomi:
+Art. 19 - all'elenco degli insegnamenti complementari del corso di laurea in lingue e letterature straniere e' aggiunto l'insegnamento di fonetica e fonologia.
 
-a) diploma in giornalismo;
+Art. 21 - nell'elenco degli insegnamenti complementari del corso di laurea in scienze agrarie l'insegnamento complementare di viticoltura e' trasformato da semestrale ad annuale e sono aggiunti i seguenti insegnamenti:
 
-b) diploma in pubblicita';
+climatologia agraria;
 
-c) diploma in scienze dello spettacolo.
+virologia.
 
-Gli articoli 160 e 161 sono soppressi e sostituiti come segue:
+Dopo l'art. 97 e' inserito, con il conseguente spostamento della numerazione degli articoli successivi, il titolo IV con gli articoli relativi alla istituzione delle scuole di specializzazione della facolta' di agraria.
 
-Art. 160 - Diploma in giornalismo. - Materie costitutive:
+Titolo IV
 
-fondamenti teologici delle comunicazioni sociali;
+FACOLTA' DI AGRARIA
 
-etica delle comunicazioni sociali;
+Art. 98. - Le scuole di specializzazione della facolta' di agraria hanno lo scopo di promuovere l'incremento scientifico e pratico delle singole branche delle scienze agrarie e di conferire i diplomi che abilitano al particolare esercizio delle medesime con la qualifica di specialista, a norma dell'art. 178 del testo unico delle leggi sull'istruzione superiore approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592). La direzione di ciascuna scuola spetta al direttore dell'istituto da cui la scuola prende il nome o da cui essa e' emanazione. La durata dei corsi di specializzazione non e' suscettibile di abbreviazioni.
 
-dottrina e tecnica del giornalismo (due annualita);
+Per ciascuna scuola e' fissato il numero massimo di iscrizioni.
 
-storia del giornalismo;
+Potra' inoltre essere stabilito dalle autorita' accademiche un numero minimo di iscrizioni al primo anno indispensabili per lo svolgimento dei corsi. I corsi negli anni successivi saranno portati a termine qualunque sia il numero degli iscritti.
 
-storia e teoria del linguaggio giornalistico;
+In un manifesto annuale della segreteria vengono esposte le norme dettagliate riguardanti ciascuna scuola.
 
-disciplina giuridica dei mezzi di comunicazione sociale;
+Le tasse e soprattasse relative alle scuole di specializzazione sono fissate nella misura seguente:
 
-psicologia sociale;
+tassa di immatricolazione . . . . . . . . . . . . . . . L. 35.000 tassa annuale di iscrizione . . . . . . . . . . . . . . L. 85.000 soprattassa di esame. . . . . . . . . . . . . . . . . . L. 30.000
 
-sociologia della comunicazione e della cultura.
+I contributi sono stabiliti all'inizio di ogni anno dal consiglio di amministrazione, sentito il parere del consiglio di facolta'.
 
-Materie ausiliarie - tre materie a scelta tra:
+Scuola di specializzazione in tecnologie lattiero-casearie
 
-storia delle dottrine economiche;
+Art. 99. - La scuola di specializzazione in tecnologie lattiero-casearie ha lo scopo di promuovere una approfondita conoscenza dei problemi attinenti alla produzione del latte e sue trasformazioni industriali e di fornire agli allievi una specifica esperienza per quanto riguarda l'impostazione e la direzione di attivita' di dimensioni industriali.
 
-storia delle dottrine politiche;
+Essa conferisce il diploma di specialista in tecnologie lattiero-casearie.
 
-storia del teatro e dello spettacolo;
+Art. 100. - Alla scuola di specializzazione sono ammessi i laureati in Scienze agrarie, chimica e medicina veterinaria, in numero non superiore a sei per ogni biennio.
 
-storia e critica del cinema;
+Qualora gli aspiranti siano in numero maggiore i candidati dovranno sostenere una prova scritta e attitudinale e l'ammissione sara' determinata in base alla graduatoria.
 
-storia della musica;
+Art. 101. - Il corso di specializzazione ha la durata di anni due durante i quali gli iscritti hanno l'obbligo di frequentare le lezioni e le esercitazioni pratiche, di preparare una tesi scritta su argomento monografico con ricerche personali e di svolgere periodi di internato presso i reparti di tecnologia applicata.
 
-storia e teoria degli audiovisivi;
+Art. 102. - La firma di frequenza e' necessaria per la ammissione agli esami di profitto che saranno sostenuti, in sessione unica, alla fine di ogni anno accademico.
 
-etnologia;
+Coloro che non superano gli esami del primo anno non saranno ammessi al secondo anno; e' invece concessa la ripetizione degli esami del secondo anno.
 
-semiologia;
+Art. 103. - La scuola di specializzazione comprende i seguenti insegnamenti:
 
-storia della filosofia contemporanea.
+1° Anno:
 
-L'art. 162, che prende il n. 161, e' soppresso e sostituito come segue:
+chimica lattiero-casearia;
 
-Art. 161 - Diploma in pubblicita'. - Materie costitutive:
+microbiologia lattiero-casearia;
 
-fondamenti teologici delle comunicazioni sociali;
+organizzazione aziendale;
 
-etica delle comunicazioni sociali;
+impianti I;
 
-psicologia sociale;
+igiene e tecnica della produzione del latte.
 
-sociologia della comunicazione;
+2° Anno:
 
-storia e critica del cinema, oppure dottrina e tecnica del giornalismo;
+tecnologia lattiera;
 
-dottrina e tecnica della pubblicita' (due annualita);
+tecnologia casearia;
 
-tecnica delle ricerche di mercato e della distribuzione generale;
+impianti II;
 
-psicologia della pubblicita';
+controlli di qualita';
 
-economia dell'impresa;
+confezionamento ed imballaggio.
 
-ricerche di marketing;
+Le esercitazioni pratiche sono annesse ai corsi di insegnamento.
 
-mezzi pubblicitari: pubblicita' a stampa, cinematografica, radiofonica e televisiva, al punto di vendita.
+Il periodo di internato, non inferiore a sessanta giorni per ogni anno di corso, si svolgera' presso industrie casearie scelte dalla direzione della scuola.
 
-Gli articoli 163, 164, e 165 sono soppressi e sostituiti come segue:
+Art. 104. - Il direttore della scuola e' il direttore dell'istituto di microbiologia lattiero-casearia.
 
-Art. 162 - Diploma in scienze dello spettacolo. - Materie costitutive:
+Gli insegnanti della scuola sono proposti dal direttore della stessa, approvati dalla facolta' e nominati dal rettore. Essi possono essere scelti tra i professori ufficiali, tra i liberi docenti, tra gli aiuti ed assistenti della facolta' di agraria o di altre facolta' dell'Universita' cattolica o dell'Universita' statale o tra persone di riconosciuta competenza anche al di fuori dell'ambito universitario.
 
-fondamenti teologici delle comunicazioni sociali;
+Art. 105. - Gli organi della scuola di specializzazione sono:
 
-etica delle comunicazioni sociali;
+a) il direttore;
 
-storia del teatro e dello spettacolo (\*);
+b) il consiglio.
 
-storia e critica del cinema (\*);
+Scuola di specializzazione in enologia
 
-drammaturgia teorica;
+Art. 106. - La scuola di specializzazione in enologia si prefigge lo scopo di fornire agli allievi una preparazione teorica e tecnologica qualificata.
 
-semiologia;
+Art. 107. - Il corso ha la durata di due cicli annuali alla fine dei quali viene conferito il diploma di specialista in enologia.
 
-sociologia della comunicazione e della cultura;
+Art. 108. - Alla scuola sono ammessi i laureati in scienze agrarie, in chimica pura ed industriale, in ingegneria chimica, in scienze biologiche, in numero non superiore a dieci allievi per ogni anno.
 
-psicologia sociale.
+Art. 109. - Gli iscritti hanno l'obbligo di frequentare le lezioni e le esercitazioni.
 
-Materie ausiliarie - tre materie a scelta tra:
+Gli esami di profitto sono sostenuti alla fine di ogni ciclo.
 
-storia della musica;
+Coloro che non superano gli esami del primo ciclo non sono ammessi al secondo; e' invece concessa la ripetizione degli esami del secondo ciclo.
 
-storia dell'arte medioevale e moderna;
+La prova finale per il conseguimento del diploma consiste nella discussione orale di un rapporto sperimentale svolto dal candidato.
 
-storia delle teoriche del cinema;
+Art. 110. - Gli insegnamenti impartiti vertono sulle seguenti materie:
 
-storia delle teoriche teatrali;
+1° Ciclo:
 
-storia e teoria degli audiovisivi;
+viticoltura;
 
-storia della filosofia contemporanea.
+chimica enologica;
 
-(\*) Gli allievi sono tenuti a biennalizzare storia e critica del cinema oppure storia del teatro e dello spettacolo.
+microbiologia enologica;
 
-L'art. 166 diventa 163.
+chimica analitica con esercitazioni.
 
-L'art. 167, che prende il n. 164 e' soppresso e sostituito come segue:
+2° Ciclo:
 
-Art. 164. - Gli esami della scuola superiore delle comunicazioni sociali sono di profitto e di diploma.
+tecnologia enologica;
 
-Gli esami di profitto, anche per le materie pluriennali, si svolgono alla fine di ciascun anno.
+impianti e costruzioni enologiche;
 
-L'ammissione all'esame di diploma richiede l'aver superato tutti gli esami su tutte le materie costitutive e dove previsto sul numero stabilito di materie ausiliarie.
+controlli di qualita';
 
-Gli articoli 168, 169, 170, 171 e 172 diventano rispettivamente articoli 165, 166, 167, 168 e 169.
+legislazione vitivinicola;
+
+organizzazione aziendale e commercializzazione dei vini.
+
+Per ogni ciclo si svolge un periodo di internato di trenta giorni presso complessi enologici scelti dalla direzione della scuola.
+
+Art. 111. - Il direttore della scuola e' il direttore dell'istituto di enologia.
+
+Gli insegnanti della scuola sono proposti dal direttore della stessa, approvati dalla facolta' e nominati dal rettore. Essi possono essere scelti tra i professori ufficiali, tra i liberi docenti, tra gli aiuti e gli assistenti della facolta' di agraria o di altre facolta' dell'Universita' cattolica o dell'Universita' statale o tra specialisti qualificati al di fiori dell'ambito universitario.
+
+Art. 112. - Gli organi della scuola di specializzazione sono:
+
+a) il direttore;
+
+b) il consiglio.
+
+Scuola di specializzazione in fitoiatria
+
+Art. 113. - La scuola fornisce conoscenze fondamentali e specifiche sulla lotta antiparassitaria, in particolare: caratteristiche chimiche e fisiche degli antiparassitari; metabolismo e degradazioni;
+
+tossicita'; analisi dei formulati e dei residui; fisiologia e patologia vegetale, inclusa la biologia delle piante infestanti; metodi e tecniche di lotta; analisi statistica.
+
+Conferisce il diploma di fitoiatria.
+
+Art. 114. - Alla scuola sono ammessi i laureati nella facolta' di scienze, di chimica industriale e scienze agrarie. I candidati dovranno dimostrare sufficiente conoscenza della lingua inglese entro la fine del primo anno di corso.
+
+Il numero massimo degli iscritti e' fissato in sette per ogni anno.
+
+Art. 115. - La scuola di specializzazione ha la durata di due anni, durante i quali gli iscritti hanno l'obbligo di frequentare le lezioni e le esercitazioni pratiche. Al termine del primo e del secondo anno devono essere sostenuti in sessione unica esami di profitto, comprendenti anche prove pratiche. Al secondo anno vengono ammessi solo coloro che hanno superato gli esami del primo.
+
+Per il conseguimento del diploma e' necessaria la presentazione di una relazione scritta sul lavoro svolto.
+
+Art. 116. - Gli insegnamenti impartiti vertono sulle seguenti materie:
+
+1° Anno:
+
+chimica organica;
+
+biochimica vegetale;
+
+tecnologie;
+
+statistica I;
+
+2° Anno:
+
+analisi applicata;
+
+tecniche di lotta;
+
+statistica II.
+
+I singoli corsi prevedono l'intervento di diversi docenti a seconda delle competenze; seminari ed esercitazioni pratiche sono parte dei corsi di insegnamento.
+
+Nel corso di chimica organica verranno studiate: classificazione, nomenclatura, reattivita' e caratteri chimico-fisici dei principi attivi antiparassitari.
+
+Nel corso di biochimica vegetale e' compreso lo studio di metabolismo, meccanismo d'azione e tossicita'.
+
+L'insegnamento di tecnologie comprendera' lo studio delle formulazioni antiparassitarie e delle tecniche di applicazione.
+
+Saranno date notizie sulla regolamentazione e la legislazione sull'impiego e la commercializzazione.
+
+Le tecniche di lotta prevedono l'esame, coltura per coltura con riferimento alle colture italiane economicamente piu' importanti, delle specie infestanti, dei metodi di lotta piu' idonei e delle conseguenze ecologiche.
+
+Art. 117. - Il direttore dell'istituto di chimica della facolta' di agraria e' il direttore della scuola.
+
+Art. 118. - I docenti saranno proposti dal direttore della scuola tra gli specialisti esperti nel settore, approvati dal consiglio della facolta' e nominati dal rettore.
+
+Il direttore della scuola coordina l'attivita' didattica e di ricerca della scuola.
+
+Art. 119. - Gli organi della scuola di specializzazione sono:
+
+a) il direttore;
+
+b) il consiglio.
+
+Scuola di specializzazione in viticoltura
+
+Art. 120. - La scuola ha lo scopo di dare delle conoscenze fondamentali sulla fisiologia della vite, in modo da portare un miglioramento nella tecnica colturale viticola. In particolare dovranno essere approfonditi il miglioramento genetico sia delle varieta' che dei portinnesti, la nutrizione idrica, minerale e carbonica, la propagazione, le forme di allevamento, la potatura ed i rapporti tra qualita' ed ambiente.
+
+Art. 121. - Alla scuola sono ammessi: laureati in scienze agrarie, in biologia, in scienze naturali, in scienze delle preparazioni alimentari ed in chimica. Il numero dei posti disponibili e' fissato in sette per anno. Qualora gli aspiranti siano in numero superiore ai posti disponibili, i candidati dovranno sostenere una prova scritta ed attitudinale e l'ammissione sara' determinata in base alla graduatoria.
+
+Art. 122. - Il corso di specializzazione ha la durata di anni due, durante i quali gli iscritti hanno l'obbligo di frequentare le lezioni e le esercitazioni pratiche.
+
+Art. 123. - La firma di frequenza e' necessaria per la ammissione agli esami di profitto che saranno sostenuti alla fine di ogni anno accademico. Al termine del biennio, per il conseguimento del diploma, e' prevista una prova di esame finale che vertera' sulla discussione di un lavoro sperimentale condotto dal candidato durante il biennio.
+
+Art. 124. - La scuola di specializzazione comprende i seguenti insegnamenti:
+
+1° Anno:
+
+anatomia ed ampelografia viticola;
+
+biochimica e fisiologia della vite;
+
+metodologia della ricerca viticola;
+
+tecniche moderne di laboratorio;
+
+geografia viticola;
+
+viticoltura generale (ecologia, propagazione, potatura, ecc.); genetica e miglioramento della vite;
+
+nutrizione della vite (idrica, minerale, carbonica).
+
+2° Anno:
+
+entomologia, nematologia ed acarologia viticola;
+
+patologia e virologia viticola;
+
+meccanica viticola;
+
+tecniche di coltura delle uve da vino, da tavola e da essiccare;
+
+economia del mercato viticolo e cooperazione in viticoltura;
+
+legislazione viticola nazionale ed internazionale;
+
+enologia.
+
+Ai corsi di insegnamento saranno annessi seminari, esercitazioni e dimostrazioni pratiche, nei campi sperimentali viticoli ed il laboratorio.
+
+Art. 125. - Il direttore della scuola e' il direttore dell'istituto di coltivazioni arboree e viticoltura. Gli insegnanti della scuola sono proposti dal direttore della stessa, approvati dalla facolta' e nominati dal rettore.
+
+Essi possono essere scelti tra i professori ufficiali, tra i liberi docenti, tra gli aiuti e gli assistenti della facolta' di agraria o di altre facolta' dell'Universita' cattolica o dell'Universita' statale o da Universita' e istituti sperimentali stranieri o tra persone di riconosciuta competenza anche al di fuori dell'ambito universitario.
+
+Art. 126. - Gli organi della scuola di specializzazione sono:
+
+a) il direttore;
+
+b) il consiglio.
+
+Scuola di specializzazione in alimentazione del bestiame
+
+Art. 127. - La scuola deve dare conoscenze fondamentali e specifiche sull'alimentazione degli animali di interesse zootecnico (bovini, suini, ecc.) con particolare rilievo per quanto riguarda: aspetti fisiologici e biochimici della nutrizione; caratteristiche degli alimenti in merito a conservazione, valutazione alimentare, tossicita'; fabbisogno e razionamento degli animali; preparazione degli alimenti, patologia della nutrizione.
+
+Art. 128. - Alla scuola sono ammessi: laureati in scienze agrarie, medicina veterinaria, scienze delle produzioni animali, farmacia, chimica, chimica industriale, scienze biologiche, scienze delle produzioni alimentari.
+
+Il numero massimo di iscrizioni e' fissato in cinque per anno.
+
+Qualora gli aspiranti siano in numero superiore ai posti disponibili i candidati dovranno sostenere una prova scritta e attitudinale e l'ammissione sara' determinata in base alla graduatoria.
+
+Art. 129. - Il corso di specializzazione ha la durata di anni due durante i quali gli iscritti hanno l'obbligo di frequentare le lezioni e le esercitazioni pratiche.
+
+Art. 130. - La firma di frequenza e' necessaria per la ammissione agli esami di profitto che saranno sostenuti alla fine di ogni anno accademico. Al termine del biennio e' prevista una prova di esame finale con la presentazione e discussione di un lavoro sperimentale per il conseguimento del diploma di specialista in alimentazione del bestiame.
+
+Art. 131. - La scuola di specializzazione comprende i seguenti insegnamenti:
+
+1° Anno:
+
+fisiologia animale;
+
+biochimica della nutrizione;
+
+miglioramento genetico degli animali;
+
+valutazione degli alimenti.
+
+2° Anno:
+
+tecnica della conservazione degli alimenti;
+
+tecnica mangimistica;
+
+fisiologia e patologia della nutrizione;
+
+zooeconomia.
+
+Ai corsi di insegnamento sono annesse esercitazioni e dimostrazioni pratiche.
+
+Art. 132. - Il direttore della scuola e' il direttore dell'istituto di zootecnica. Gli insegnanti della scuola sono proposti dal direttore della stessa, approvati dalla facolta' e nominati dal rettore. Essi possono essere scelti tra i professori ufficiali, tra i liberi docenti, tra gli aiuti ed assistenti della facolta' di agraria o di altre facolta' dell'Universita' cattolica o dell'Universita' statale o tra persone di riconosciuta competenza anche al di fuori dell'ambito universitario.
+
+Art. 133. - Gli organi della scuola di specializzazione sono:
+
+a) il direttore;
+
+b) il consiglio.
+
+Dopo l'art. 133 e' inserita, con il conseguente spostamento della numerazione delle parti e degli articoli successivi, la parte VII, con i relativi titoli ed articoli, concernente la istituzione, presso la facolta' di agraria, della scuola diretta a fini speciali di orticoltura.
+
+PARTE VII
+
+DELLE SCUOLE DIRETTE A FINI SPECIALI
+
+Titolo I
+
+FACOLTA' DI AGRARIA
+
+Scuola di orticoltura
+
+Art. 134. - La scuola fornisce conoscenze di base e nozioni specifiche sulle piante da orto e sulla loro coltivazione. In particolare verra' curato lo studio della morfologia, della sistematica, della fisiologia, del miglioramento genetico delle piante da orto, delle tecniche delle coltivazioni sia in pieno campo che in serra, dei problemi della difesa fitosanitaria, delle tecniche di conservazione dei prodotti, della commercializzazione degli stessi, ecc. La scuola conferisce il diploma di orticoltore.
+
+Art. 135. - Alla scuola sono ammessi gli aspiranti forniti di diploma di perito agrario e di agrotecnico o di eventuali diplomi rilasciati da scuole medie superiori, di durata almeno quinquennale, ad indirizzo agrario. Cio' al fine di poter presupporre negli iscritti una preparazione di base omogenea.
+
+Il numero degli iscritti e' fissato in dieci per ogni anno.
+
+Art. 136. - La scuola ha la durata di due anni.
+
+Gli iscritti hanno l'obbligo della frequenza. Al termine (del primo anno debbono essere sostenuti gli esami di profitto e le eventuali prove pratiche previste. Al secondo corso vengono ammessi soltanto coloro che hanno superato gli esami del primo anno.
+
+Per essere ammesso all'esame di diploma, consistente nella discussione di un lavoro sperimentale, lo studente deve aver seguito tutti i corsi previsti e superato i rispettivi esami di profitto.
+
+Art. 137. - Le materie di insegnamento della scuola sono:
+
+1° Anno:
+
+botanica generale (morfologia, anatomia e fisiologia);
+
+botanica delle piante orticole;
+
+principi di agronomia e tecnica delle coltivazioni I;
+
+genetica vegetale, miglioramento genetico;
+
+valore alimentare e conservazione degli ortaggi.
+
+2° Anno:
+
+entomologia generale ed orticola;
+
+patologia vegetale;
+
+tecnica delle culture protette e idroponiche;
+
+commercializzazione e marketing degli ortaggi;
+
+principi di agronomia e tecnica delle coltivazioni II.
+
+I singoli corsi prevedono l'intervento di diversi docenti in relazione alla loro competenza specifica; seminari ed esercitazioni pratiche sono parte integrante dei singoli corsi di insegnamento.
+
+Nei corsi di botanica verra' dato molto spazio alla fisiologia delle piante orticole e ai cicli dei principali funghi patogeni.
+
+Nel corso di genetica vegetale e di miglioramento genetico si prevedono numerose esercitazioni pratiche e seminari.
+
+Nei corsi di principi di agronomia e di tecnica delle colture protette e idroponiche sara' data larga parte al lavoro pratico e alla visita ad aziende specializzate.
+
+Nel corso di entomologia verra' affrontato lo studio degli insetti utili e dannosi alle colture orticole e della difesa dei fitofagi.
+
+Nel corso di patologia vegetale si esamineranno i principali agenti patogeni, i danni arrecati e i mezzi di difesa preventiva e curativa.
+
+Nel corso sulla commercializzazione e il marketing verranno impartite nozioni sulle tecniche per le indagini di mercato e le modalita' della commercializzazione degli ortaggi.
+
+Art. 138. - I docenti scelti fra gli specialisti del settore, saranno proposti dal consiglio di facolta'; la loro nomina spetta al rettore.
+
+Direttore della scuola e' il direttore dell'istituto di agronomia.
+
+Spetta al direttore coordinare l'attivita' didattica della scuola.
+
+Art. 139. - Gli organi della scuola sono:
+
+a) il direttore;
+
+b) il consiglio.
+
+Art. 140. - Le tasse e soprattasse relative alla scuola diretta a fini speciali di orticoltura sono fissate nella misura seguente:
+
+tassa di immatricolazione . . . . . . . . . . . . . . . L. 35.000 tassa annuale di iscrizione . . . . . . . . . . . . . . L. 85.000 soprattassa di esame. . . . . . . . . . . . . . . . . . L. 30.000
+
+I contributi sono stabiliti all'inizio di ogni anno dal consiglio di amministrazione, sentito il parere del consiglio di facolta'.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 
-Dato a Roma, addi' 10 aprile 1978
+Dato a Roma, addi' 31 ottobre 1977
 
 LEONE
 
-PEDINI
+MALFATTI
 
 Visto, il Guardasigilli: BONIFACIO
 
 Registrato
 ----------
 
-alla Corte dei conti, addi' 23 settembre 1978 Registro n. 104 Istruzione, foglio n. 285
+alla Corte dei conti, addi' 15 luglio 1978 Registro n. 75 Istruzione, foglio n. 308
 
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA  
+ IL PRESIDENTE DELLA REPUBBLICA   
   
-Veduto lo statuto dell'Universita' cattolica del Sacro Cuore di Milano, approvato con [regio decreto 20 aprile 1939, n. 1163](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1163) e modificato con [regio decreto 26 ottobre 1940, n. 2030](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;2030), e successive modificazioni;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' cattolica del Sacro Cuore di Milano e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;  
-Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro della pubblica istruzione;  
+Veduto lo statuto dell'Universita' cattolica del Sacro Cuore di Milano, approvato con [regio decreto 20 aprile 1939, n. 1163](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1163) e modificato con [regio decreto 26 ottobre 1940, n. 2030](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;2030), e successive modificazioni;   
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni.   
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);   
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;   
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' cattolica del Sacro Cuore di Milano e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;   
+Sentito il parere del Consiglio superiore della pubblica istruzione;   
+Sulla proposta del Ministro della pubblica istruzione;   
   
-Decreta:  
+Decreta:   
   
-Lo statuto dell'Universita' cattolica del Sacro Cuore di Milano, approvato e modificato con i decreti sopra indicati, e' ulteriormente modificato come appresso:  
-Gli articoli da 156 a 172, relativi alla scuola superiore delle comunicazioni sociali, diretta a fini speciali, per effetto del riordinamento della scuola medesima, mutano, con il conseguente spostamento della numerazione degli articoli successivi, come segue:  
+Lo statuto dell'Universita' cattolica del Sacro Cuore di Milano, approvato e modificato con i decreti sopra indicati, e' ulteriormente modificato come appresso:   
   
-Scuola superiore delle comunicazioni sociali  
+Art. 14 - all'elenco degli insegnamenti complementari del corso di laurea in lettere sono aggiunti i seguenti:   
+psicologia religiosa;   
+dialettologia italiana;   
+epigrafia greca e latina;   
+storia della storiografia antica;   
+Art. 15 - all'elenco degli insegnamenti complementari del corso di laurea in filosofia e' aggiunto l'insegnamento di psicologia religiosa.   
+Art. 16 - all'elenco degli insegnamenti complementari del corso di laurea in lingue e letterature straniere moderne e' aggiunto l'insegnamento di dialettologia italiana.   
+Art. 19 - all'elenco degli insegnamenti complementari del corso di laurea in lingue e letterature straniere e' aggiunto l'insegnamento di fonetica e fonologia.   
+Art. 21 - nell'elenco degli insegnamenti complementari del corso di laurea in scienze agrarie l'insegnamento complementare di viticoltura e' trasformato da semestrale ad annuale e sono aggiunti i seguenti insegnamenti:   
+climatologia agraria;   
+virologia.   
+Dopo l'art. 97 e' inserito, con il conseguente spostamento della numerazione degli articoli successivi, il titolo IV con gli articoli relativi alla istituzione delle scuole di specializzazione della facolta' di agraria.   
   
-L'art. 156 resta invariato.  
-Il testo dell'attuale art. 157 e' soppresso e sostituito come segue:  
-Art. 157.- La durata legale del corso di studio della scuola e' di due anni. Sono titoli di ammissione: la laurea nei vari indirizzi della facolta' di lettere e filosofia e di magistero e le lauree in giurisprudenza, in scienze politiche, in sociologia, in architettura, in economia e commercio (solo per l'indirizzo pubblicita), in scienze statistiche (solo per l'indirizzo pubblicita).  
-L'art. 158 resta invariato.  
-Il testo dell'attuale art. 159 e' soppresso e sostituito come segue:  
-Art. 159. - La scuola rilascia tre diplomi:  
-a) diploma in giornalismo;  
-b) diploma in pubblicita';  
-c) diploma in scienze dello spettacolo.  
-Gli articoli 160 e 161 sono soppressi e sostituiti come segue:  
-Art. 160 - Diploma in giornalismo. - Materie costitutive:  
-fondamenti teologici delle comunicazioni sociali;  
-etica delle comunicazioni sociali;  
-dottrina e tecnica del giornalismo (due annualita);  
-storia del giornalismo;  
-storia e teoria del linguaggio giornalistico;  
-disciplina giuridica dei mezzi di comunicazione sociale;  
-psicologia sociale;  
-sociologia della comunicazione e della cultura.  
-Materie ausiliarie - tre materie a scelta tra:  
-storia delle dottrine economiche;  
-storia delle dottrine politiche;  
-storia del teatro e dello spettacolo;  
-storia e critica del cinema;  
-storia della musica;  
-storia e teoria degli audiovisivi;  
-etnologia;  
-semiologia;  
-storia della filosofia contemporanea.  
-L'art. 162, che prende il n. 161, e' soppresso e sostituito come segue:  
-Art. 161 - Diploma in pubblicita'. - Materie costitutive:  
-fondamenti teologici delle comunicazioni sociali;  
-etica delle comunicazioni sociali;  
-psicologia sociale;  
-sociologia della comunicazione;  
-storia e critica del cinema, oppure dottrina e tecnica del giornalismo;  
-dottrina e tecnica della pubblicita' (due annualita);  
-tecnica delle ricerche di mercato e della distribuzione generale;  
-psicologia della pubblicita';  
-economia dell'impresa;  
-ricerche di marketing;  
-mezzi pubblicitari: pubblicita' a stampa, cinematografica, radiofonica e televisiva, al punto di vendita.  
-Gli articoli 163, 164, e 165 sono soppressi e sostituiti come segue:  
-Art. 162 - Diploma in scienze dello spettacolo. - Materie costitutive:  
-fondamenti teologici delle comunicazioni sociali;  
-etica delle comunicazioni sociali;  
-storia del teatro e dello spettacolo (\*);  
-storia e critica del cinema (\*);  
-drammaturgia teorica;  
-semiologia;  
-sociologia della comunicazione e della cultura;  
-psicologia sociale.  
-Materie ausiliarie - tre materie a scelta tra:  
-storia della musica;  
-storia dell'arte medioevale e moderna;  
-storia delle teoriche del cinema;  
-storia delle teoriche teatrali;  
-storia e teoria degli audiovisivi;  
-storia della filosofia contemporanea.  
-(\*) Gli allievi sono tenuti a biennalizzare storia e critica del cinema oppure storia del teatro e dello spettacolo.  
-L'art. 166 diventa 163.  
-L'art. 167, che prende il n. 164 e' soppresso e sostituito come segue:  
-Art. 164. - Gli esami della scuola superiore delle comunicazioni sociali sono di profitto e di diploma.  
-Gli esami di profitto, anche per le materie pluriennali, si svolgono alla fine di ciascun anno.  
-L'ammissione all'esame di diploma richiede l'aver superato tutti gli esami su tutte le materie costitutive e dove previsto sul numero stabilito di materie ausiliarie.  
-Gli articoli 168, 169, 170, 171 e 172 diventano rispettivamente articoli 165, 166, 167, 168 e 169.  
+Titolo IV   
+  
+FACOLTA' DI AGRARIA   
+  
+Art. 98. - Le scuole di specializzazione della facolta' di agraria hanno lo scopo di promuovere l'incremento scientifico e pratico delle singole branche delle scienze agrarie e di conferire i diplomi che abilitano al particolare esercizio delle medesime con la qualifica di specialista, a norma dell'art. 178 del testo unico delle leggi sull'istruzione superiore approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592). La direzione di ciascuna scuola spetta al direttore dell'istituto da cui la scuola prende il nome o da cui essa e' emanazione. La durata dei corsi di specializzazione non e' suscettibile di abbreviazioni.   
+Per ciascuna scuola e' fissato il numero massimo di iscrizioni.  
+Potra' inoltre essere stabilito dalle autorita' accademiche un numero minimo di iscrizioni al primo anno indispensabili per lo svolgimento dei corsi. I corsi negli anni successivi saranno portati a termine qualunque sia il numero degli iscritti.   
+In un manifesto annuale della segreteria vengono esposte le norme dettagliate riguardanti ciascuna scuola.   
+Le tasse e soprattasse relative alle scuole di specializzazione sono fissate nella misura seguente:   
+  
+tassa di immatricolazione . . . . . . . . . . . . . . . L. 35.000 tassa annuale di iscrizione . . . . . . . . . . . . . . L. 85.000 soprattassa di esame. . . . . . . . . . . . . . . . . . L. 30.000   
+  
+I contributi sono stabiliti all'inizio di ogni anno dal consiglio di amministrazione, sentito il parere del consiglio di facolta'.   
+  
+Scuola di specializzazione in tecnologie lattiero-casearie   
+  
+Art. 99. - La scuola di specializzazione in tecnologie lattiero-casearie ha lo scopo di promuovere una approfondita conoscenza dei problemi attinenti alla produzione del latte e sue trasformazioni industriali e di fornire agli allievi una specifica esperienza per quanto riguarda l'impostazione e la direzione di attivita' di dimensioni industriali.   
+Essa conferisce il diploma di specialista in tecnologie lattiero-casearie.   
+Art. 100. - Alla scuola di specializzazione sono ammessi i laureati in Scienze agrarie, chimica e medicina veterinaria, in numero non superiore a sei per ogni biennio.   
+Qualora gli aspiranti siano in numero maggiore i candidati dovranno sostenere una prova scritta e attitudinale e l'ammissione sara' determinata in base alla graduatoria.   
+Art. 101. - Il corso di specializzazione ha la durata di anni due durante i quali gli iscritti hanno l'obbligo di frequentare le lezioni e le esercitazioni pratiche, di preparare una tesi scritta su argomento monografico con ricerche personali e di svolgere periodi di internato presso i reparti di tecnologia applicata.   
+Art. 102. - La firma di frequenza e' necessaria per la ammissione agli esami di profitto che saranno sostenuti, in sessione unica, alla fine di ogni anno accademico.   
+Coloro che non superano gli esami del primo anno non saranno ammessi al secondo anno; e' invece concessa la ripetizione degli esami del secondo anno.   
+Art. 103. - La scuola di specializzazione comprende i seguenti insegnamenti:   
+1° Anno:   
+chimica lattiero-casearia;   
+microbiologia lattiero-casearia;   
+organizzazione aziendale;   
+impianti I;   
+igiene e tecnica della produzione del latte.   
+2° Anno:   
+tecnologia lattiera;   
+tecnologia casearia;   
+impianti II;   
+controlli di qualita';   
+confezionamento ed imballaggio.   
+Le esercitazioni pratiche sono annesse ai corsi di insegnamento.   
+Il periodo di internato, non inferiore a sessanta giorni per ogni anno di corso, si svolgera' presso industrie casearie scelte dalla direzione della scuola.   
+Art. 104. - Il direttore della scuola e' il direttore dell'istituto di microbiologia lattiero-casearia.   
+Gli insegnanti della scuola sono proposti dal direttore della stessa, approvati dalla facolta' e nominati dal rettore. Essi possono essere scelti tra i professori ufficiali, tra i liberi docenti, tra gli aiuti ed assistenti della facolta' di agraria o di altre facolta' dell'Universita' cattolica o dell'Universita' statale o tra persone di riconosciuta competenza anche al di fuori dell'ambito universitario.   
+Art. 105. - Gli organi della scuola di specializzazione sono:   
+a) il direttore;   
+b) il consiglio.   
+  
+Scuola di specializzazione in enologia   
+  
+Art. 106. - La scuola di specializzazione in enologia si prefigge lo scopo di fornire agli allievi una preparazione teorica e tecnologica qualificata.   
+Art. 107. - Il corso ha la durata di due cicli annuali alla fine dei quali viene conferito il diploma di specialista in enologia.   
+Art. 108. - Alla scuola sono ammessi i laureati in scienze agrarie, in chimica pura ed industriale, in ingegneria chimica, in scienze biologiche, in numero non superiore a dieci allievi per ogni anno.   
+Art. 109. - Gli iscritti hanno l'obbligo di frequentare le lezioni e le esercitazioni.   
+Gli esami di profitto sono sostenuti alla fine di ogni ciclo.  
+Coloro che non superano gli esami del primo ciclo non sono ammessi al secondo; e' invece concessa la ripetizione degli esami del secondo ciclo.   
+La prova finale per il conseguimento del diploma consiste nella discussione orale di un rapporto sperimentale svolto dal candidato.   
+Art. 110. - Gli insegnamenti impartiti vertono sulle seguenti materie:   
+1° Ciclo:   
+viticoltura;   
+chimica enologica;   
+microbiologia enologica;   
+chimica analitica con esercitazioni.   
+2° Ciclo:   
+tecnologia enologica;   
+impianti e costruzioni enologiche;   
+controlli di qualita';   
+legislazione vitivinicola;   
+organizzazione aziendale e commercializzazione dei vini.   
+Per ogni ciclo si svolge un periodo di internato di trenta giorni presso complessi enologici scelti dalla direzione della scuola.   
+Art. 111. - Il direttore della scuola e' il direttore dell'istituto di enologia.   
+Gli insegnanti della scuola sono proposti dal direttore della stessa, approvati dalla facolta' e nominati dal rettore. Essi possono essere scelti tra i professori ufficiali, tra i liberi docenti, tra gli aiuti e gli assistenti della facolta' di agraria o di altre facolta' dell'Universita' cattolica o dell'Universita' statale o tra specialisti qualificati al di fiori dell'ambito universitario.   
+Art. 112. - Gli organi della scuola di specializzazione sono:   
+a) il direttore;   
+b) il consiglio.   
+  
+Scuola di specializzazione in fitoiatria   
+  
+Art. 113. - La scuola fornisce conoscenze fondamentali e specifiche sulla lotta antiparassitaria, in particolare: caratteristiche chimiche e fisiche degli antiparassitari; metabolismo e degradazioni;   
+tossicita'; analisi dei formulati e dei residui; fisiologia e patologia vegetale, inclusa la biologia delle piante infestanti; metodi e tecniche di lotta; analisi statistica.   
+Conferisce il diploma di fitoiatria.   
+Art. 114. - Alla scuola sono ammessi i laureati nella facolta' di scienze, di chimica industriale e scienze agrarie. I candidati dovranno dimostrare sufficiente conoscenza della lingua inglese entro la fine del primo anno di corso.   
+Il numero massimo degli iscritti e' fissato in sette per ogni anno.  
+Art. 115. - La scuola di specializzazione ha la durata di due anni, durante i quali gli iscritti hanno l'obbligo di frequentare le lezioni e le esercitazioni pratiche. Al termine del primo e del secondo anno devono essere sostenuti in sessione unica esami di profitto, comprendenti anche prove pratiche. Al secondo anno vengono ammessi solo coloro che hanno superato gli esami del primo.   
+Per il conseguimento del diploma e' necessaria la presentazione di una relazione scritta sul lavoro svolto.   
+Art. 116. - Gli insegnamenti impartiti vertono sulle seguenti materie:   
+1° Anno:   
+chimica organica;   
+biochimica vegetale;   
+tecnologie;   
+statistica I;   
+2° Anno:   
+analisi applicata;   
+tecniche di lotta;   
+statistica II.   
+I singoli corsi prevedono l'intervento di diversi docenti a seconda delle competenze; seminari ed esercitazioni pratiche sono parte dei corsi di insegnamento.   
+Nel corso di chimica organica verranno studiate: classificazione, nomenclatura, reattivita' e caratteri chimico-fisici dei principi attivi antiparassitari.   
+Nel corso di biochimica vegetale e' compreso lo studio di metabolismo, meccanismo d'azione e tossicita'.   
+L'insegnamento di tecnologie comprendera' lo studio delle formulazioni antiparassitarie e delle tecniche di applicazione.  
+Saranno date notizie sulla regolamentazione e la legislazione sull'impiego e la commercializzazione.   
+Le tecniche di lotta prevedono l'esame, coltura per coltura con riferimento alle colture italiane economicamente piu' importanti, delle specie infestanti, dei metodi di lotta piu' idonei e delle conseguenze ecologiche.   
+Art. 117. - Il direttore dell'istituto di chimica della facolta' di agraria e' il direttore della scuola.   
+Art. 118. - I docenti saranno proposti dal direttore della scuola tra gli specialisti esperti nel settore, approvati dal consiglio della facolta' e nominati dal rettore.   
+Il direttore della scuola coordina l'attivita' didattica e di ricerca della scuola.   
+Art. 119. - Gli organi della scuola di specializzazione sono:   
+a) il direttore;   
+b) il consiglio.   
+  
+Scuola di specializzazione in viticoltura   
+  
+Art. 120. - La scuola ha lo scopo di dare delle conoscenze fondamentali sulla fisiologia della vite, in modo da portare un miglioramento nella tecnica colturale viticola. In particolare dovranno essere approfonditi il miglioramento genetico sia delle varieta' che dei portinnesti, la nutrizione idrica, minerale e carbonica, la propagazione, le forme di allevamento, la potatura ed i rapporti tra qualita' ed ambiente.   
+Art. 121. - Alla scuola sono ammessi: laureati in scienze agrarie, in biologia, in scienze naturali, in scienze delle preparazioni alimentari ed in chimica. Il numero dei posti disponibili e' fissato in sette per anno. Qualora gli aspiranti siano in numero superiore ai posti disponibili, i candidati dovranno sostenere una prova scritta ed attitudinale e l'ammissione sara' determinata in base alla graduatoria.   
+Art. 122. - Il corso di specializzazione ha la durata di anni due, durante i quali gli iscritti hanno l'obbligo di frequentare le lezioni e le esercitazioni pratiche.   
+Art. 123. - La firma di frequenza e' necessaria per la ammissione agli esami di profitto che saranno sostenuti alla fine di ogni anno accademico. Al termine del biennio, per il conseguimento del diploma, e' prevista una prova di esame finale che vertera' sulla discussione di un lavoro sperimentale condotto dal candidato durante il biennio.   
+Art. 124. - La scuola di specializzazione comprende i seguenti insegnamenti:   
+1° Anno:   
+anatomia ed ampelografia viticola;   
+biochimica e fisiologia della vite;   
+metodologia della ricerca viticola;   
+tecniche moderne di laboratorio;   
+geografia viticola;   
+viticoltura generale (ecologia, propagazione, potatura, ecc.); genetica e miglioramento della vite;   
+nutrizione della vite (idrica, minerale, carbonica).   
+2° Anno:   
+entomologia, nematologia ed acarologia viticola;   
+patologia e virologia viticola;   
+meccanica viticola;   
+tecniche di coltura delle uve da vino, da tavola e da essiccare;   
+economia del mercato viticolo e cooperazione in viticoltura;   
+legislazione viticola nazionale ed internazionale;   
+enologia.   
+Ai corsi di insegnamento saranno annessi seminari, esercitazioni e dimostrazioni pratiche, nei campi sperimentali viticoli ed il laboratorio.   
+Art. 125. - Il direttore della scuola e' il direttore dell'istituto di coltivazioni arboree e viticoltura. Gli insegnanti della scuola sono proposti dal direttore della stessa, approvati dalla facolta' e nominati dal rettore.   
+Essi possono essere scelti tra i professori ufficiali, tra i liberi docenti, tra gli aiuti e gli assistenti della facolta' di agraria o di altre facolta' dell'Universita' cattolica o dell'Universita' statale o da Universita' e istituti sperimentali stranieri o tra persone di riconosciuta competenza anche al di fuori dell'ambito universitario.   
+Art. 126. - Gli organi della scuola di specializzazione sono:   
+a) il direttore;   
+b) il consiglio.   
+  
+Scuola di specializzazione in alimentazione del bestiame   
+  
+Art. 127. - La scuola deve dare conoscenze fondamentali e specifiche sull'alimentazione degli animali di interesse zootecnico (bovini, suini, ecc.) con particolare rilievo per quanto riguarda: aspetti fisiologici e biochimici della nutrizione; caratteristiche degli alimenti in merito a conservazione, valutazione alimentare, tossicita'; fabbisogno e razionamento degli animali; preparazione degli alimenti, patologia della nutrizione.   
+Art. 128. - Alla scuola sono ammessi: laureati in scienze agrarie, medicina veterinaria, scienze delle produzioni animali, farmacia, chimica, chimica industriale, scienze biologiche, scienze delle produzioni alimentari.   
+Il numero massimo di iscrizioni e' fissato in cinque per anno.  
+Qualora gli aspiranti siano in numero superiore ai posti disponibili i candidati dovranno sostenere una prova scritta e attitudinale e l'ammissione sara' determinata in base alla graduatoria.   
+Art. 129. - Il corso di specializzazione ha la durata di anni due durante i quali gli iscritti hanno l'obbligo di frequentare le lezioni e le esercitazioni pratiche.   
+Art. 130. - La firma di frequenza e' necessaria per la ammissione agli esami di profitto che saranno sostenuti alla fine di ogni anno accademico. Al termine del biennio e' prevista una prova di esame finale con la presentazione e discussione di un lavoro sperimentale per il conseguimento del diploma di specialista in alimentazione del bestiame.   
+Art. 131. - La scuola di specializzazione comprende i seguenti insegnamenti:   
+1° Anno:   
+fisiologia animale;   
+biochimica della nutrizione;   
+miglioramento genetico degli animali;   
+valutazione degli alimenti.   
+2° Anno:   
+tecnica della conservazione degli alimenti;   
+tecnica mangimistica;   
+fisiologia e patologia della nutrizione;   
+zooeconomia.   
+Ai corsi di insegnamento sono annesse esercitazioni e dimostrazioni pratiche.   
+Art. 132. - Il direttore della scuola e' il direttore dell'istituto di zootecnica. Gli insegnanti della scuola sono proposti dal direttore della stessa, approvati dalla facolta' e nominati dal rettore. Essi possono essere scelti tra i professori ufficiali, tra i liberi docenti, tra gli aiuti ed assistenti della facolta' di agraria o di altre facolta' dell'Universita' cattolica o dell'Universita' statale o tra persone di riconosciuta competenza anche al di fuori dell'ambito universitario.   
+Art. 133. - Gli organi della scuola di specializzazione sono:   
+a) il direttore;   
+b) il consiglio.   
+Dopo l'art. 133 e' inserita, con il conseguente spostamento della numerazione delle parti e degli articoli successivi, la parte VII, con i relativi titoli ed articoli, concernente la istituzione, presso la facolta' di agraria, della scuola diretta a fini speciali di orticoltura.   
+  
+PARTE VII   
+DELLE SCUOLE DIRETTE A FINI SPECIALI   
+  
+Titolo I   
+FACOLTA' DI AGRARIA   
+  
+Scuola di orticoltura   
+  
+Art. 134. - La scuola fornisce conoscenze di base e nozioni specifiche sulle piante da orto e sulla loro coltivazione. In particolare verra' curato lo studio della morfologia, della sistematica, della fisiologia, del miglioramento genetico delle piante da orto, delle tecniche delle coltivazioni sia in pieno campo che in serra, dei problemi della difesa fitosanitaria, delle tecniche di conservazione dei prodotti, della commercializzazione degli stessi, ecc. La scuola conferisce il diploma di orticoltore.   
+Art. 135. - Alla scuola sono ammessi gli aspiranti forniti di diploma di perito agrario e di agrotecnico o di eventuali diplomi rilasciati da scuole medie superiori, di durata almeno quinquennale, ad indirizzo agrario. Cio' al fine di poter presupporre negli iscritti una preparazione di base omogenea.   
+Il numero degli iscritti e' fissato in dieci per ogni anno.   
+Art. 136. - La scuola ha la durata di due anni.   
+Gli iscritti hanno l'obbligo della frequenza. Al termine (del primo anno debbono essere sostenuti gli esami di profitto e le eventuali prove pratiche previste. Al secondo corso vengono ammessi soltanto coloro che hanno superato gli esami del primo anno.   
+Per essere ammesso all'esame di diploma, consistente nella discussione di un lavoro sperimentale, lo studente deve aver seguito tutti i corsi previsti e superato i rispettivi esami di profitto.   
+Art. 137. - Le materie di insegnamento della scuola sono:   
+1° Anno:   
+botanica generale (morfologia, anatomia e fisiologia);   
+botanica delle piante orticole;   
+principi di agronomia e tecnica delle coltivazioni I;   
+genetica vegetale, miglioramento genetico;   
+valore alimentare e conservazione degli ortaggi.   
+2° Anno:   
+entomologia generale ed orticola;   
+patologia vegetale;   
+tecnica delle culture protette e idroponiche;   
+commercializzazione e marketing degli ortaggi;   
+principi di agronomia e tecnica delle coltivazioni II.   
+I singoli corsi prevedono l'intervento di diversi docenti in relazione alla loro competenza specifica; seminari ed esercitazioni pratiche sono parte integrante dei singoli corsi di insegnamento.   
+Nei corsi di botanica verra' dato molto spazio alla fisiologia delle piante orticole e ai cicli dei principali funghi patogeni.   
+Nel corso di genetica vegetale e di miglioramento genetico si prevedono numerose esercitazioni pratiche e seminari.   
+Nei corsi di principi di agronomia e di tecnica delle colture protette e idroponiche sara' data larga parte al lavoro pratico e alla visita ad aziende specializzate.   
+Nel corso di entomologia verra' affrontato lo studio degli insetti utili e dannosi alle colture orticole e della difesa dei fitofagi.   
+Nel corso di patologia vegetale si esamineranno i principali agenti patogeni, i danni arrecati e i mezzi di difesa preventiva e curativa.   
+Nel corso sulla commercializzazione e il marketing verranno impartite nozioni sulle tecniche per le indagini di mercato e le modalita' della commercializzazione degli ortaggi.   
+Art. 138. - I docenti scelti fra gli specialisti del settore, saranno proposti dal consiglio di facolta'; la loro nomina spetta al rettore.   
+Direttore della scuola e' il direttore dell'istituto di agronomia.  
+Spetta al direttore coordinare l'attivita' didattica della scuola.   
+Art. 139. - Gli organi della scuola sono:   
+a) il direttore;   
+b) il consiglio.   
+Art. 140. - Le tasse e soprattasse relative alla scuola diretta a fini speciali di orticoltura sono fissate nella misura seguente:   
+  
+tassa di immatricolazione . . . . . . . . . . . . . . . L. 35.000 tassa annuale di iscrizione . . . . . . . . . . . . . . L. 85.000 soprattassa di esame. . . . . . . . . . . . . . . . . . L. 30.000   
+  
+I contributi sono stabiliti all'inizio di ogni anno dal consiglio di amministrazione, sentito il parere del consiglio di facolta'.   
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 10 aprile 1978
+### Dato a Roma, addi' 31 ottobre 1977
 
-LEONE PEDINI
+LEONE MALFATTI
 
 Visto, il Guardasigilli: BONIFACIO
 
-Registrato alla Corte dei conti, addi' 23 settembre 1978
+Registrato alla Corte dei conti, addi' 15 luglio 1978
 
-Registro n. 104 Istruzione, foglio n. 285
+Registro n. 75 Istruzione, foglio n. 308

@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 ottobre 1970 n. 856
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 settembre 1957 n. 909
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 ottobre 1970 n. 856
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 settembre 1957 n. 909
+================================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Bologna.
 -------------------------------------------------------------------
@@ -12,85 +12,169 @@ Art. 1
 
  IL PRESIDENTE DELLA REPUBBLICA   
   
-Veduto lo statuto dell'Universita' degli studi di Bologna, approvato con [regio decreto 14 ottobre 1926, n. 2170](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2170), e modificato con [regio decreto 13 ottobre 1927, n. 2227](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2227), e successive modificazioni;   
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
+Veduto lo statuto dell'Universita' degli studi di Bologna, approvato con [regio decreto 14 ottobre 1926, n. 2170](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2170), e modificato con il [regio decreto 13 ottobre 1927, n. 2227](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2227), e successivi;   
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
+Veduto il regio decreto-legge 20 giugno 1935, ai. 1071, convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;   
-Riconosciuta la particolare necessita' di approvare, le nuove modifiche proposte;   
-Sentito il parere del Consiglio superiore della pubblica istruzione;   
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);   
+Veduto il [decreto del Presidente della Repubblica 9 novembre 1956, n. 1314](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1956-11-09;1314);   
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;   
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;   
+Sentito il parere del Consiglio superiore della pubblica istruzione.   
 Sulla proposta del Ministro per la pubblica istruzione;   
   
 Decreta:   
   
 Lo statuto dell'Universita' degli studi di Bologna, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
+L'art. 1 e' sostituito dal seguente:   
+"L'Universita' di Bologna comprende le Facolta' di giurisprudenza, di economia e commercio, di lettere e filosofia, di magistero, di medicina e chirurgia, di scienze matematiche, fisiche e naturali, di chimica industriale, di farmacia, di ingegneria, di agraria, di medicina veterinaria".   
+All'art. 2, dopo la decima alinea e' aggiunto quanto appresso:   
   
-Dopo l'art. 520 e con il conseguente spostamento della successiva numerazione sono inseriti i seguenti nuovi articoli relativi alla istituzione presso la facolta' di medicina e chirurgia, delle scuole di specializzazione in malattie infettive e in virologia.   
-Scuola di specializzazione in malattie infettive   
-Art. 521. - E' istituita la scuola di specializzazione in malattie infettive, la quale ha lo scopo di conferire adeguata competenza teorica e pratica ai laureati in medicina e chirurgia che intendono conseguire il diploma di specializzazione in malattie infettive.   
-La durata del corso di studi e' di tre anni.   
-Potra' esservi ammesso, per titoli, un massimo di diciotto allievi, complessivamente.   
-Art. 522. - Le materie di insegnamento sono:   
-1° Anno:   
-1) Epidemiologia generale delle malattie infettive;   
-2) Nozioni generali di batteriologia, virologia, parassitologia, immunologia;   
-3) Tecnica batteriologica, virologica, parassitologica, immunologica applicata alle malattie infettive (biennale).   
-2° Anno:   
-1) Patologia e clinica delle malattie infettive (biennale);   
-2) Semeiotica e diagnostica delle malattie infettive;   
-3) Anatomia patologica delle malattie infettive;   
-4) Tecnica batteriologica, virologica, parassitologica, immunologica (biennale).   
-3° Anno:   
-1) Patologia e clinica delle malattie infettive (biennale);   
-2) Malattie infettive dei paesi caldi;   
-3) Farmacologia e terapia generale delle malattie infettive;   
-4) Legislazione sanitaria e malattie infettive.   
-Art. 523. - Durante i tre anni di corso gli iscritti, nelle ore libere dalle lezioni, hanno l'obbligo di internato nell'istituto di malattie infettive prestando servizio nei reparti di degenza, nei laboratori, nell'ambulatorio, con le modalita' e l'orario che saranno stabiliti dal direttore dell'istituto; potranno inoltre essere obbligati a pernottare, a turno, nell'istituto.   
-Detto internato potra' essere autorizzato, dal consiglio direttivo della scuola; anche presso altre istituzioni che abbiano caratteristiche tali da assicurare lo svolgimento di un efficace tirocinio eminentemente pratico.   
-Alla fine di ognuno dei tre anni gli iscritti dovranno sostenere l'esame di profitto delle materie di insegnamento in un unico gruppo e successivamente l'esame di diploma.   
-Scuola di specializzazione in virologia   
-Art. 524. - La scuola di specializzazione in virologia ha lo scopo di fornire un completamento culturale sul piano scientifico ed una preparazione specifica sul piano tecnico e metodologico a coloro che si dedicano allo studio di questa disciplina.   
-La scuola conferisce il diploma di specialista in virologia.   
-Possono esservi ammessi i laureati in medicina e chirurgia, medicina veterinaria, scienze biologiche; farmacia, chimica e tecnologia farmaceutiche.   
-Il corso ha la durata di tre anni ed ha luogo presso l'istituto di microbiologia.   
-La direzione della scuola viene assunta da un professore di ruolo di microbiologia.   
-Gli iscritti al primo anno non potranno superare il numero di cinque; il numero massimo di iscritti complessivamente per i tre anni del corso e' fissato in quindici specializzandi (5 per anno).   
-L'iscrizione alla scuola e' subordinata al superamento di un esame di ammissione (colloquio).   
-Art. 525. - Gli insegnamenti impartiti nella scuola sono i seguenti, cosi' ripartiti nei tre anni del corso:   
-1° Anno:   
-Virologia generale (I parte);   
-Tecnica virologica generale (I parte);   
-Biometria applicata alla virologia;   
-Metodi immunologici in virologia.   
-2° Anno:   
-Virologia generale (II parte);   
-Tecnica virologica generale (II parte);   
-Metodi chimici in virologia;   
-Metodi fisici in virologia;   
-Microscopia elettronica e studio delle ultrastrutture;   
-Virologia speciale e diagnostica virologica (I parte).   
-3° Anno:   
-Genetica dei virus;   
-Virologia oncologica;   
-Studio dei farmaci antivirali;   
-Epidemiologia e profilassi delle malattie da virus;   
-Virologia speciale e diagnostica virologica (II parte).   
-Art. 526. - Il direttore, sentito il parere del consiglio della scuola, puo' stabilire, per un piu' proficuo conseguimento dei fini della scuola, che siano tenuti corsi complementari, conferenze o seminari su materie e argomenti che abbiano affinita' o attinenza con gli insegnamenti impartiti nella scuola.   
-La frequenza ai corsi e' obbligatoria. Obbligatoria e' altresi' la frequenza ai turni annuali di internato, ciascuno della durata di sei mesi.   
-Gli esami di profitto saranno sostenuti in tre gruppi alla fine di ogni anno di corso ed il superamento dell'esame e' necessario per l'iscrizione al secondo anno. Il secondo gruppo comprende tutte le materie del secondo anno di corso ed il superamento dell'esame e' necessario per l'iscrizione al terzo anno. Il terzo gruppo comprende tutte le materie del terzo anno di corso ed il superamento dell'esame e' necessario per l'ammissione all'esame di diploma.   
-Art. 527. - L'esame di diploma constera' di una discussione sopra una tesi scritta esclusivamente di carattere sperimentale.   
-I candidati non riconosciuti idonei potranno ripresentarsi all'esame di diploma dopo un altro anno di frequenza alla scuola. In caso di un secondo insuccesso saranno esclusi da ulteriori prove.   
+Facolta' di magistero   
+  
+Laurea in materie letterarie, durata del corso 4 anni;   
+Laurea in pedagogia, durata del corso 4 anni;   
+Laurea in lingue e letterature straniere, durata del corso 4 anni;   
+Diploma di abilitazione alla vigilanza nelle scuole elementari, durata del corso 3 anni.   
+Dopo l'art. 60 vanno inseriti i seguenti nuovi articoli, relativi all'ordinamento della Facolta' di magistero, con il conseguente spostamento della numerazione degli articoli successivi.   
+  
+TITOLO VII   
+ORDINAMENTO DELLA FACOLTA' DI MAGISTERO   
+  
+Art. 61. - La Facolta' di magistero conferisce dopo un corso di studi della durata di quattro anni le seguenti lauree:   
+a) in materie letterarie;   
+b) in pedagogia;   
+c) in lingue e letterature straniere;   
+conferisce inoltre dopo un corso di studi della durata di tre anni, il diploma di abilitazione alla vigilanza nelle scuole elementari.   
+Titoli di ammissione alla Facolta' sono, per i corsi di laurea in materie letterarie e in pedagogia, e per il diploma di abilitazione alla vigilanza, il diploma di abilitazione magistrale e il concorso; per il corso di laurea in lingue e letterature straniere il diploma di abilitazione magistrale o licenza, a norma dell'[art. 2 della legge 9 ottobre 1951, n. 1130](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1951-10-09;1130~art2), dalla Scuola civica "Regina Margherita" di Genova, ora "Grazia Deledda", o dalla Scuola civica "Alessandro Manzoni" di Milano, o dall'Istituto di cultura e di lingue "Marcelline" di Milano, e concorso.   
+  
+Laurea in materie letterarie   
+  
+Art. 62 - Gli insegnamenti per la laurea in materie letterarie sono i seguenti:   
+Fondamentali:   
+1) Lingua e letteratura italiana (triennale);   
+2) Lingua e letteratura latina (triennale);   
+3) Storia (triennale);   
+4) Geografia (triennale);   
+5) Pedagogia;   
+6) Storia della filosofia;   
+7) Lingua e letteratura moderna straniera a scelta (biennale).   
+Complementari:   
+1) Grammatica latina;   
+2) Filologia romanza;   
+3) Filologia germanica;   
+4) Istituzioni di diritto pubblico e legislazione scolastica;   
+5) Storia della grammatica e della lingua italiana;   
+6) Storia dell'arte medioevale e moderna;   
+7) Storia della letteratura latina medioevale;   
+8) Storia delle tradizioni popolari.   
+Il concorso di ammissione consiste:   
+a) nella valutazione dei voti riportati, agli esami per il conseguimento del diploma di abilitazione magistrale, nel gruppo delle materie letterarie;   
+b) in una prova iscritta di cultura generale, per cui sono concesse sei ore di tempo.   
+Il terzo anno del corso di geografia deve essere differenziato come corso di applicazione.   
+Nel corso di storia (triennale) un anno deve essere dedicato alla storia romana, il cui insegnamento sara' impartito ogni anno come corso indipendente: altri due anni devono essere dedicati alla storia medioevale e alla storia moderna, il cui insegnamento verra' impartito ad anni alterni.   
+Lo studente deve sostenere una prova scritta di traduzione latina, una della lingua straniera scelta e una di cultura generale.   
+Per essere ammesso all'esame di laurea lo studente deve aver seguito i corsi e superato gli esami in tutti gli insegnamenti fondamentali ed almeno in quattro da lui scelti tra i complementari.   
+  
+Laurea in pedagogia   
+  
+Art. 63. - Gli insegnamenti per la laurea in pedagogia sono i seguenti:   
+Fondamentali:   
+1) Lingua e letteratura italiana (biennale);   
+2) Lingua e letteratura latina (biennale);   
+3) Storia della filosofia (biennale);   
+4) Filosofia (biennale);   
+5) Pedagogia (biennale);   
+6) Storia (biennale);   
+7) Lingua e letteratura moderna straniera a scelta (biennale).   
+Complementari:   
+1) Filologia romanza;   
+2) Filologia germanica;   
+3) Istituzioni di diritto pubblico e legislazione scolastica;   
+4) Psicologia;   
+5) Storia dell'arte medioevale e moderna;   
+6) Storia della letteratura latina medioevale;   
+7) Storia delle tradizioni popolari.   
+Il concorso di ammissione consiste;   
+a) nella valutazione dei voti riportati, agli esami per il conseguimento del diploma di abilitazione magistrale, nella filosofia e nella pedagogia;   
+b) in una prova scritta di cultura generale, per cui sono Concesse sei ore di tempo;   
+Nel corso di storia (biennale) un anno deve essere dedicato alla storia medioevale ed un anno alla storia moderna, alternativamente.   
+Lo studente deve sostenere una prova scritta di italiano, una di traduzione latina, una della lingua straniera scelta ed una di cultura generale sulle discipline filosofiche.   
+Per essere ammesso all'esame di laurea lo studente deve aver seguito i corsi e superato gli esami in tutti gli insegnamenti fondamentali ed almeno in quattro da lui scelti fra i complementari.   
+  
+Laurea in lingue e letterature straniere   
+  
+Art. 64 - Gli insegnamenti per la laurea in lingue e letterature straniere sono i seguenti:   
+Fondamentali:   
+1) Lingua e letteratura italiana (biennale);   
+2) Lingua e letteratura latina (biennale);   
+3) Lingua e letteratura francese;   
+4) Lingua e letteratura tedesca;   
+5) Lingua e letteratura inglese;   
+6) Lingua e letteratura spagnola;   
+7) Filologia romanza;   
+8) Filologia germanica;   
+9) Storia (biennale);   
+10) Geografia.   
+Complementari:   
+1) Storia della filosofia;   
+2) Filosofia;   
+3) Pedagogia;   
+4) Storia dell'arte medievale e moderna;   
+5) Storia della letteratura latina medioevale;   
+6) Storia della grammatica e della lingua italiana;   
+7) Storia delle tradizioni popolari.   
+Il concorso di ammissione consiste:   
+a) nella valutazione dei voti riportati, nel gruppo delle materie letterarie, agli esami per il conseguimento del titolo di studi medi prescritto per l'ammissione;   
+b) in una prova scritta di cultura generale, per cui sono concesse sei ore di tempo.   
+Le studente deve seguire per tutti i quattro anni lo insegnamento della lingua straniera alla quale intende dedicare i suoi studi, e per due anni quello di un'altra delle lingue straniere: egli puo' inoltre seguire, pure per due anni, l'insegnamento di una terza lingua straniera, nel qual caso puo' diminuire di uno gli insegnamenti complementari.   
+Nel corso di storia (biennale) un anno deve essere dedicato alla storia medioevale ed un anno alla storia moderna, alternativamente.   
+Lo studente deve sostenere una prova scritta di italiano, una di traduzione latina ed una di cultura generale nella lingua straniera nella quale ha approfondito i suoi studi per il conseguimento della laurea.   
+Per essere ammesso all'esame di laurea lo studente deve aver seguito i corsi e superato gli esami in tutti gli insegnamenti fondamentali ad almeno in tre da lui scelti fra i complementari.   
+  
+Diploma di abilitazione alla vigilanza nelle scuole elementari   
+  
+Art. 65. - Gli insegnamenti per il diploma di abilitazione alla vigilanza nelle scuole elementari sono i seguenti:   
+Fondamentali:   
+1) Pedagogia (triennale);   
+2) Lingua e letteratura italiana (biennale);   
+3) Lingua e letteratura latina (biennale);   
+4) Storia (biennale);   
+5) Geografia (biennale);   
+6) Storia della filosofia (biennale);   
+7) Istituzioni di diritto pubblico e legislazione scolastica;   
+8) Igiene.   
+Complementari:   
+1) Lingua moderna straniera a scelta (biennale).   
+Il concorso di ammissione consiste:   
+a) nella valutazione dei voti riportati, agli esami per il conseguimento del diploma di abilitazione magistrale, nel gruppo delle materie letterarie e nella filosofia e pedagogia;   
+b) in una prova scritta di cultura generale per cui sono concesse sei ore di tempo.   
+Lo studente deve sostenere una prova scritta di pedagogia, una di italiano ed una della lingua straniera prescelta.   
+Per conseguire il diploma lo studente deve aver seguito i corsi e superato gli esami in tutti gli insegnamenti fondamentali ed in quello complementare.   
+  
+Norme comuni ai vari corsi di studio   
+  
+Art. 66. - Per gli insegnamenti pluriennali sono prescritti distinti esami annuali. La prova scritta, per le materie in cui e' contemplata, si sostiene quando l'insegnamento ad essa relativo sia frequentato per il prescritto numero di anni; la prova deve precedere l'ultimo esame orale della relativa materia, ed esclude da questo se non viene sostenuto con esito positivo.   
+  
+Art. 67. - Con pubblico manifesto sono comunicati annualmente i piani di studi consigliati per i singoli corsi di laurea e di diploma e sono prescritte le esercitazioni e le eventuali prove per gli insegnamenti per i quali siano ritenute opportune dal Consiglio della Facolta'.   
+Gli studenti che aspirano all'esenzione delle tasse scolastiche sono tenuti a seguire i piani di studi consigliati, con le norme stabilite dalle vigenti disposizioni di legge.   
+  
+Art. 68. - La prova scritta di cultura generale, nei corsi di laurea, deve essere preceduta da tutti gli altri esami di profitto.   
+La prova scritta di pedagogia, nel corso di diploma di vigilanza, e preceduta da tutti gli altri esami di profitto, salvo che dal terzo ed ultimo esame orale di pedagogia, ed esclude da questo se non viene sostenuta con esito positivo.   
+  
+Art. 69. - L'esame di laurea consiste nella discussione di una dissertazione scritta, svolta su un tema consigliato dal professore della materia scelta dal candidato.   
+L'argomento della dissertazione deve essere letterario, storico o geografico per gli aspiranti alla laurea in materie letterarie, di carattere pedagogico o filosofico per gli aspiranti alla laurea in pedagogia; per gli aspiranti alla laurea in lingue e letterature straniere deve riguardare la letteratura straniera fondamentale seguita per quattro anni.   
   
 
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica Italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 14 ottobre 1970
+### Dato a Roma, addi' 2 settembre 1957
 
-SARAGAT MISASI
+GRONCHI MORO
 
-Visto, il Guardasigilli: REALE
+Visto, il Guardasigilli: GONELLA
 
-Registrato alla Corte dei conti, addi' 18 novembre 1970
+Registrato alla Corte dei conti, addi' 11 ottobre 1957
 
-Atti del Governo, registro n. 238, foglio n. 79. - CARUSO
+Atti del Governo, registro n. 108, foglio n. 69. - RELLEVA

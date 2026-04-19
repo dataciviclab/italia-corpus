@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 07 febbraio 1970 n. 185
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 marzo 1963 n. 682
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 07 febbraio 1970 n. 185
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 marzo 1963 n. 682
+============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Padova.
 ------------------------------------------------------------------
@@ -10,9 +10,9 @@ Modificazioni allo statuto dell'Universita' degli studi di Padova.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' degli studi di Padova, approvato con [regio decreto 20 aprile 1939, numero 1058](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1058) e modificato con [regio decreto 5 ottobre 1939, n. 1847](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-05;1847), e successive modificazioni;
+Veduto lo statuto dell'Universita' degli studi di Padova, approvato con [regio decreto 20 aprile 1939, numero 1058](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1058), modificato con [regio decreto 5 ottobre 1939, n. 1847](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-05;1847) e successivi;
 
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
 
@@ -20,7 +20,7 @@ Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/ur
 
 Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
 
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
 Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
 
@@ -32,98 +32,720 @@ Decreta:
 
 Lo statuto dell'Universita' degli studi di Padova, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
-Art. 15. - All'elenco degli insegnamenti complementari del corso di laurea in giurisprudenza e' aggiunto quello di "Diritto anglo-americano".
+Art. 39, relativo al corso degli studi per il diploma in statistica e' modificato nel senso che e' inserito il seguente comma prima del penultimo:
 
-Art. 37. - All'elenco degli insegnamenti complementari del corso di laurea in scienze politiche e' aggiunto quello di "Storia della chiesa".
+L'insegnamento di matematica e' propedeutico rispetto a quello di "Statistica".
 
-Art. 42. - L'elenco degli insegnamenti complementari della facolta' di economia e commercio e' modificato nel senso che la denominazione dell'insegnamento di "Tecnica commerciale dei prodotti agricoli" muta in quella di "Economia di mercato dei prodotti agricoli".
+Art. 42. - Agli insegnamenti complementari del corso di laurea in Scienze politiche sono aggiunti quelli di:
 
-Art. 44. - E' abrogato e sostituito dal seguente:
+Storia delle istituzioni politiche;
 
-L'esame di matematica generale deve precedere quello di matematica finanziaria e quello di statistica; l'esame di istituzioni di diritto privato deve precedere quelli di diritto commerciale e di diritto industriale; gli esami di istituzioni di diritto privato e di istituzioni di diritto pubblico devono precedere quelli di diritto internazionale, di diritto del lavoro e di diritto amministrativo; gli esami di economia politica (primo corso) e di statistica (primo corso) devono precedere quello di scienza delle finanze e diritto finanziario; gli esami di economia politica (primo corso) e di ragioneria generale devono precedere l'esame di economia e politica agraria; gli esami di statistica (primo corso) e di economia politica (secondo corso) devono precedere l'esame di politica economica e finanziaria; gli esami di ragioneria generale e applicata devono precedere quelli di tecnica bancaria e professionale e di tecnica commerciale e industriale.
+Scienza dell'amministrazione;
 
-Art. 45, relativo agli esami di profitto e di laurea del corso di laurea in economia e commercio e' modificato nel senso che il secondo comma e l'ultimo comma sono abrogati e sostituiti dai seguenti:
+Storia e istituzioni dell'Europa orientale.
 
-"L'esame di laurea riguarda la discussione di una dissertazione scritta svolta sopra un tema scelto dal candidato, con facolta' dello stesso di esporre e discutere anche una tesina su argomento scelto fra due materie diverse fra loro e diverse pure da quella della dissertazione scritta.
+Art. 64. - Agli insegnamenti complementari del corso di laurea in Materie letterarie sono aggiunti quelli di:
 
-Almeno quindici giorni prima dell'inizio degli esami di laurea lo studente deve aver depositato alla segreteria della facolta' la dissertazione scritta con la eventuale indicazione degli argomenti delle tesi orali facoltative".
+Storia della scuola e delle istituzioni educative;
 
-Art. 46. - All'elenco degli insegnamenti complementari del corso di laurea in lingue e letterature straniere sono aggiunti quelli di:
+Metodologia e didattica;
 
-Storia dell'arte;
+Art. 65. - Agli insegnamenti complementari del corso di laurea in Pedagogia sono aggiunti quelli di:
 
-Linguistica africana;
+Storia della scuola e delle istituzioni educative;
 
-Filologia italiana.
+Metodologia e didattica;
 
-Art. 56 (gia' 51), relativo alle norme sulla propedeuticita' ed esami del corso di laurea in scienze statistiche ed economiche e' modificato nel senso che i commi primo, secondo, terzo, quarto, quinto e sesto sono abrogati e sostituiti dai seguenti:
+Filosofia del linguaggio;
 
-"L'esame di istituzioni di analisi matematica deve essere superato prima degli esami di analisi matematica, calcolo delle probabilita', statistica, demografia, statistica economica; quello di geometria analitica prima degli esami di calcolo delle probabilita' e di statistica; quello di istituzioni di statistica prima degli esami di calcolo delle probabilita', statistica, demografia, istituzioni di statistica economica; quello di istituzioni di statistica economica prima degli esami di politica economica e finanziaria, statistica economica, economia d'azienda, statistica aziendale ed analisi di mercato, quello di economia politica (primo esame) prima dello esame di istituzioni di statistica economica.
+Metodologia della scienza del comportamento.
 
-Gli esami di analisi matematica, calcolo delle probabilita' e statistica debbono essere superati prima degli esami di statistica metodologica e di teoria dei campioni; quelli di calcolo delle probabilita' e statistica prima degli esami di controllo statistico della qualita' e statistica industriale e di statistica aziendale e analisi di mercato; quelli di statistica e di economia politica (secondo esame) prima dell'esame di politica economica e finanziaria".
+Art. 74, relativo ai seminari e agli istituti della Facolta' di Magistero e' modificato nel senso che e' aggiunto il seguente comma per la costituzione dell'istituto di Pedagogia "Appartiene alle Facolta': istituto di Pedagogia".
 
-Art. 119, relativo agli istituti annessi alla facolta' di scienze matematiche, fisiche e naturali e' modificato nel senso che l'istituto e museo di anatomia comparata e l'istituto e museo di zoologia e di genetica mutano denominazione in "Istituto di biologia animale".
+Art. 76. - Agli insegnamenti complementari del corso di laurea in Medicina e Chirurgia sono aggiunti quelli di:
 
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+Semeiotica chirurgica
 
-Dato a Roma, addi' 7 febbraio 1970
+Tecnica delle autopsie.
 
-SARAGAT
+Art. 83. - Agli insegnamenti complementari del corso di laurea in Chimica sono aggiunti i seguenti insegnamenti:
 
-FERRARI AGGRADI
+Per l'indirizzo organico-biologico:
 
-Visto, il Guardasigilli: REALE
+Meccanismi di reazione in chimica organica;
+
+Chimica degli eterocieli;
+
+Storia delle dottrine chimiche;
+
+Biochimica generale.
+
+Per l'indirizzo inorganico chimico-fisico:
+
+Stereochimica;
+
+Chimica dei composti di coordinazione;
+
+Chimica fisica organica;
+
+Biochimica fisica.
+
+Art. 86. - Agli insegnamenti complementari del corso di laurea in Chimica industriale e' aggiunto quello di: "Biochimica applicata".
+
+Art. 89. - Agli insegnamenti complementari del corso di laurea in Fisica - indirizzo applicativo - sono aggiunti i seguenti:
+
+Complementi di fisica atomica;
+
+Laboratorio di astrofisica;
+
+Metodi statistici;
+
+Teoria dei circuiti;
+
+Fisica atomica.
+
+Art. 91. - Le norme dell'indirizzo applicativo del corso di laurea in Matematica sono abrogate e sostituite dalle seguenti:
+
+indirizzo applicativo:
+
+L'indirizzo applicativo si svolge secondo i tre seguenti orientamenti:
+
+a) applicativo elettronico;
+
+b) applicativo statistico-economico;
+
+c) applicativo meccanico-astronomico.
+
+Nell'orientamento (a) sono corsi fondamentali obbligatori:
+
+terzo anno: Calcoli numerici grafici;
+
+quarto anno: Teoria della programmazione per le macchine calcolatrici.
+
+Al quarto anno sono inoltre prescritti due insegnamenti complementari da scegliersi nel seguente elenco:
+
+Calcolo analogico ed elettronica, Cibernetica, Calcolo delle probabilita', Algebra di Boole, Logica matematica. Teoria ed applicazione delle macchine calcolatrici, Statistica matematica, Servomeccanismi, Teoria dell'informazione, Calcolatori speciali, Teoria dei circuiti, Cosmologia, Teoria delle orbite.
+
+Nell'orientamento (b) sono corsi fondamentali obbligatori;
+
+terzo anno: Calcolo delle probabilita';
+
+quarto anno: Economia matematica.
+
+Al quarto anno sono inoltre prescritti due insegnamenti complementari da scegliersi nel seguente elenco:
+
+Calcoli numerici e grafici, Matematica, finanziaria e attuariale, Programmazione lineare e non lineare, Ricerca operativa, Statistica matematica, Teoria dei giochi, Teoria delle decisioni, Processi stocastici, Programmazione dinamica e non lineare. Tecniche elettroniche di calcolo, Teoria dei grafi, Teoria dei circuiti.
+
+Nell'orientamento (c) sono corsi fondamentali obbligatori;
+
+terzo anno: Meccanica celeste:
+
+quarto anno: Aerodinamica.
+
+Al quarto anno sono inoltre prescritti due insegnamenti complementari da scegliersi: tra i seguenti:
+
+Astrofisica, Astronomica, Calcolo densoriale. Fisica matematica, Geometria differenziale, Magnetofluidodinamica, Matematiche superiori, Meccanica analitica, Meccanica superiore, Relativa, Teoria, delle equazioni differenziali, Teoria delle equazioni integrali, Teoria delle onde.
+
+Art. 101. Agli insegnamenti complementari del corso di laurea in Scienze geologiche sono aggiunti i seguenti:
+
+18) Analisi mineralogica delle rocce;
+
+19) Mineralogia e petrografia applicate;
+
+21) Rilevamento geologico;
+
+22) Idrogeologia;
+
+23) Esplorazione geologica del sottosuolo;
+
+26) Stratigrafia.
+
+Art. 107. - Agli istituti annessi alla Facolta' di scienze matematiche fisiche e naturali e' aggiunto il seguente: istituto matematico.
+
+Nello stesso articolo gli ottimi due comma sono soppressi.
+
+Gli articoli da 108 a 114 relativi all'ordinamento del seminario matematico sono abrogati con il conseguente spostamento della successiva numerazione.
+
+Art. 119. - Agli insegnamenti complementari del corso di laurea in Farmacia aggiunto quello di:
+
+Scienza dell'alimentazione.
+
+Art. 136, relativo al corso di studi per la laurea in Ingegneria civile e' modificato come segue.
+
+I gruppi d'insegnamento a scelta dello studente nella, sezione edile sono abrogati e sostituiti dai seguenti:
+
+I gruppo:
+
+20) Storia dell'architettura (semestrale);
+
+20) Tecnica della circolazione stradale (semestrale) II gruppo;
+
+20) Unificazione e meccanizzazione dell'azienda edile (semestrale);
+
+20) Complementi di costruzioni in cemento armato (semestrale).
+
+Gli insegnamenti sul piano della Facolta' e i gruppi di insegnamenti a scelta dello studente nella sezione idraulica sono abrogati e sostituiti dai seguenti:
+
+16) Idromeccanica applicata;
+
+17) Costruzioni marittime;
+
+18) Idraulica agraria;
+
+19) Idrografia e idrologia;
+
+e a scelta dello studente:
+
+I gruppo:
+
+20) Igiene applicata all'ingegneria (semestrale);
+
+20') Impianti per acquedotti e fognature (semestrale);
+
+II gruppo:
+
+20) Utilizzazioni idrauliche (semestrale);
+
+20') Organizzazione e meccanizzazione dei cantieri (semestrale).
+
+Gli insegnamenti sul piano della Facolta' e i gruppi di insegnamenti a scelta dello studente nella sezione trasporti sono abrogati e sostituiti dai seguenti:
+
+16) Ponti;
+
+17) Costruzioni marittime;
+
+18) Tecnica ed economia dei trasporti;
+
+19) Tecnica della circolazione stradale;
+
+e a scelta dello studente:
+
+I gruppo:
+
+20) Complementi di costruzioni in cemento armato (semestrale);
+
+20') Prove e misure sulle costruzioni e sui ponti (semestrale);
+
+II gruppo:
+
+20) Organizzazione e meccanizzazione dei cantieri (semestrale);
+
+20') Apparecchi di sollevamento e trasporto (semestrale).
+
+Nello stesso art. 136 agli insegnamenti obbligatori del corso di laurea in Ingegneria chimica e' aggiunto quello di "Chimica industriale organica".
+
+Al terzo gruppo degli insegnamenti a scelta dello studente per lo stesso corso di laurea in Ingegneria chimica e' aggiunto l'insegnamento di "Complementi di matematica".
+
+Art. 152. - Agli Istituti annessi alla Facolta' di agraria e aggiunto quello di: "Selvicoltura".
+
+Tutte le scuole di perfezionamento annesse alla Facolta' di medicina e chirurgia cambiano denominazione in scuole di specializzazione, pertanto, negli articoli 300, 301, 302 e 311 la parola "perfezionamento" viene sostituita da "specializzazione".
+
+Art. 302, relativo alle iscrizioni alle scuole di specializzazione annesse alle Facolta' di medicina e chirurgia, e' modificato nel senso che al primo comma vengono aggiunte le seguenti parole: "e per quella di Igiene e tecnica ospedaliera alla quale possono iscriversi anche i laureati in Ingegneria ed in Architettura".
+
+Art. 310, relativo all'elenco delle scuole di specializzazione, e' modificato nel senso che i numeri 16, 19, 22 sono abrogati e, sostituiti dai seguenti:
+
+16) scuola di Anestesiologia e rianimazione, che conferisce il diploma di "specialista in Anestesiologia e rianimazione";
+
+19) scuola di Medicina del lavoro, che conferisce il diploma di "specialista in Medicina del lavoro";
+
+22) scuola di Igiene e tecnica ospedaliera, che conferisce il diploma di "specialista in Igiene e tecnica ospedaliera".
+
+Art. 311. - E' modificato nel senso che: Gli insegnamenti dei cinque anni di corso della scuola di specializzazione in Chirurgia sono abrogati e sostituiti dai seguenti:
+
+Scuola di chirurgia (durata del corso anni 5):
+
+Primo anno:
+
+Anatomia topografica;
+
+Anatomia e istologia patologica;
+
+Semeiotica e diagnostica chirurgica;
+
+Patologia chirurgica.
+
+Secondo anno:
+
+Radiologia chirurgica;
+
+Semeiotica e diagnostica chirurgica;
+
+Patologia chirurgica;
+
+Tecnica operativa;
+
+Anatomia e istologia patologica;
+
+Clinica chirurgica.
+
+Terzo anno:
+
+Tecnica operativa;
+
+Tecnica diagnostica endoscopica;
+
+Otorinolaringoiatria;
+
+Clinica chirurgica.
+
+Quarto anno:
+
+Stomatologia;
+
+Tecnica operativa;
+
+Clinica chirurgica;
+
+Ginecologia;
+
+Chirurgia infantile.
+
+Quinto anno:
+
+Traumatologia;
+
+Ortopedia;
+
+Chirurgia d'urgenza;
+
+Tecnica operativa;
+
+Clinica chirurgica.
+
+Gli insegnamenti dei due anni di corso della scuola di Anestesiologia sono abrogati e sostituiti dai seguenti:
+
+Scuola di anestesia e rianimazione (durata del corso anni 2).
+
+Primo anno:
+
+Chirurgia generale e speciale di anestesia;
+
+Anatomia del sistema nervoso centrale e periferico;
+
+Storia dell'anestesia;
+
+Fisica dei gas, dei vapori e delle soluzioni;
+
+Biochimica e farmacologia dei narcotici;
+
+Fisiologia;
+
+Fisiopatologia della narcosi ed istologia degli organi in narcosi;
+
+Fisiopatologia dello shock e della malattia post-operatoria;
+
+Tecnica, strumentario ed apparecchi di anestesia.
+
+Secondo anno:
+
+Chirurgia generale e speciale e anestesia;
+
+Anestesia in ostetricia;
+
+Le anestesie specialistiche;
+
+Analgesie periferiche e sedazione del dolore;
+
+Preparazione del malato alla narcosi e scelta della anestesia;
+
+Compiti post-operatori dell'anestesista, rianimazione trattamento antishock;
+
+Compiti extra-chirurgici dell'anestesista rianimatore;
+
+Internato di due anni in Clinica chirurgica, con servizio effettivo di assistente volontario.
+
+Gli insegnamenti dei due anni di corso della scuola di Clinica delle malattie del lavoro sono abrogati e sostituiti dai seguenti:
+
+Scuola di medicina del lavoro (Durata del corso anni 2)
+
+Primo anno:
+
+Fisiologia del lavoro;
+
+Tossicologia dei prodotti industriali;
+
+Anatomia patologica;
+
+Psicologia applicata al lavoro;
+
+Igiene del lavoro;
+
+Patologia generale delle intossicazioni di interesse professionale;
+
+Patologia e clinica delle malattie professionali (biennale).
+
+Secondo anno:
+
+Medicina assicurativa;
+
+Infortunistica;
+
+Diagnostica di laboratorio;
+
+Malattie professionali del sistema nervoso;
+
+Malattie professionali dell'apparato visivo;
+
+Malattie professionali dell'apparato cutaneo;
+
+Malattie professionali dell'orecchio, naso e gola;
+
+Malattie professionali stomatologiche;
+
+Prevenzione delle malattie professionali e degli infortuni sul lavoro;
+
+Patologia e clinica delle malattie professionali (biennale).
+
+La scuola di Igiene e tecnica ospedaliera passa da annuale a biennale con il seguente ordinamento:
+
+Scuola di Igiene e tecnica ospedaliera (durata del corso anni 2)
+
+Finalita' della scuola e la preparazione di personale tecnico specificamente idoneo alla direzione sanitaria degli ospedali e alla loro progettazione e costruzione.
+
+Gli insegnamenti sono i seguenti:
+
+Primo anno:
+
+Storia degli ospedali e principi metodologici della assistenza sanitaria;
+
+Architettura ed edilizia ospedaliera, tecnologia delle attrezzature ospedaliere;
+
+Epidemiologia e profilassi delle malattie infettive;
+
+Microbiologia e immunologia applicata;
+
+Fisica e chimica applicata;
+
+Demografia e statistica ospedaliera.
+
+Secondo anno:
+
+Organizzazione funzionale degli ospedali e formazione del personale ospedaliero;
+
+Organizzazione dei laboratori di analisi e di accertamento necroscopico;
+
+Selezione psicotecnica del personale negli ospedali;
+
+Ispezione degli alimenti;
+
+Igiene dell'alimentazione e dietologia ospedaliera
+
+Legislazione e prassi giuridica ed amministrativa della assistenza ospedaliera.
+
+Le lezioni sono integrate da conferenze di esperti, da esercitazioni pratiche, da visite di istruzione e da tirocinio ospedaliero.
+
+Alla scuola sono ammessi i laureati in Medicina e Chirurgia, in Ingegneria, in Architettura con un numero massimo di dieci iscrizione per anno.
+
+Gli esami saranno tenuti con le modalita' stabilite per le altre scuole di specializzazione.
+
+La scuola di Igiene scolastica passa da annuale a biennale con il seguente ordinamento:
+
+Scuola di igiene scolastica (durata del corso anni 2);
+
+Primo anno:
+
+Igiene della scuola;
+
+Epidemiologia e profilassi generale delle malattie infettive e sociali;
+
+Nozioni di microbiologia (batteriologia, virologia, parassitologia), applicate alla diagnostica delle malattie infettive;
+
+Antropologia e auxologia;
+
+Statistica sanitaria;
+
+Edilizia scolastica.
+
+Secondo anno:
+
+Medicina preventiva applicata all'eta' scolare;
+
+Epidemiologia e profilassi speciale delle malattie infettive e sociali;
+
+Nozioni di patologia e clinica delle malattie della infanzia;
+
+Igiene dell'alimentazione;
+
+Psicologia dell'eta' scolare, elementi di pedagogia e di psicotecnica;
+
+Legislazione sanitaria, legislazione scolastica, provvidenze assistenziali alla madre ed al bambino;
+
+Nozioni di oculistica;
+
+Internati presso l'Istituto d'igiene e nell'ufficio municipale d'igiene.
+
+Alla scuola non possono essere iscritti piu' di dieci allievi per anno.
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo e chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 28 marzo 1963
+
+SEGNI
+
+GUI
+
+Visto, il Guardasigilli: BOSCO
 
 Registrato
 ----------
 
-alla Corte dei conti, addi' 23 aprile 1970 Atti del Governo, registro n. 234, foglio n. 201. - CARUSO
+alla Corte dei conti, addi' 18 maggio 1963 Atti del Governo, registro n. 169, foglio n. 79. - VILLA
 
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA   
+ IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Padova, approvato con [regio decreto 20 aprile 1939, numero 1058](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1058) e modificato con [regio decreto 5 ottobre 1939, n. 1847](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-05;1847), e successive modificazioni;   
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);   
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;   
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;   
-Sentito il parere del Consiglio superiore della pubblica istruzione;   
-Sulla proposta del Ministro per la pubblica istruzione;   
+Veduto lo statuto dell'Universita' degli studi di Padova, approvato con [regio decreto 20 aprile 1939, numero 1058](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1058), modificato con [regio decreto 5 ottobre 1939, n. 1847](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-05;1847) e successivi;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
+Sentito il parere del Consiglio superiore della pubblica istruzione;  
+Sulla proposta del Ministro per la pubblica istruzione;  
   
-Decreta:   
+Decreta:  
   
-Lo statuto dell'Universita' degli studi di Padova, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
-Art. 15. - All'elenco degli insegnamenti complementari del corso di laurea in giurisprudenza e' aggiunto quello di "Diritto anglo-americano".   
-Art. 37. - All'elenco degli insegnamenti complementari del corso di laurea in scienze politiche e' aggiunto quello di "Storia della chiesa".   
-Art. 42. - L'elenco degli insegnamenti complementari della facolta' di economia e commercio e' modificato nel senso che la denominazione dell'insegnamento di "Tecnica commerciale dei prodotti agricoli" muta in quella di "Economia di mercato dei prodotti agricoli".   
-Art. 44. - E' abrogato e sostituito dal seguente:   
-L'esame di matematica generale deve precedere quello di matematica finanziaria e quello di statistica; l'esame di istituzioni di diritto privato deve precedere quelli di diritto commerciale e di diritto industriale; gli esami di istituzioni di diritto privato e di istituzioni di diritto pubblico devono precedere quelli di diritto internazionale, di diritto del lavoro e di diritto amministrativo; gli esami di economia politica (primo corso) e di statistica (primo corso) devono precedere quello di scienza delle finanze e diritto finanziario; gli esami di economia politica (primo corso) e di ragioneria generale devono precedere l'esame di economia e politica agraria; gli esami di statistica (primo corso) e di economia politica (secondo corso) devono precedere l'esame di politica economica e finanziaria; gli esami di ragioneria generale e applicata devono precedere quelli di tecnica bancaria e professionale e di tecnica commerciale e industriale.   
-Art. 45, relativo agli esami di profitto e di laurea del corso di laurea in economia e commercio e' modificato nel senso che il secondo comma e l'ultimo comma sono abrogati e sostituiti dai seguenti:   
-"L'esame di laurea riguarda la discussione di una dissertazione scritta svolta sopra un tema scelto dal candidato, con facolta' dello stesso di esporre e discutere anche una tesina su argomento scelto fra due materie diverse fra loro e diverse pure da quella della dissertazione scritta.   
-Almeno quindici giorni prima dell'inizio degli esami di laurea lo studente deve aver depositato alla segreteria della facolta' la dissertazione scritta con la eventuale indicazione degli argomenti delle tesi orali facoltative".   
-Art. 46. - All'elenco degli insegnamenti complementari del corso di laurea in lingue e letterature straniere sono aggiunti quelli di:   
-Storia dell'arte;   
-Linguistica africana;   
-Filologia italiana.   
-Art. 56 (gia' 51), relativo alle norme sulla propedeuticita' ed esami del corso di laurea in scienze statistiche ed economiche e' modificato nel senso che i commi primo, secondo, terzo, quarto, quinto e sesto sono abrogati e sostituiti dai seguenti:   
-"L'esame di istituzioni di analisi matematica deve essere superato prima degli esami di analisi matematica, calcolo delle probabilita', statistica, demografia, statistica economica; quello di geometria analitica prima degli esami di calcolo delle probabilita' e di statistica; quello di istituzioni di statistica prima degli esami di calcolo delle probabilita', statistica, demografia, istituzioni di statistica economica; quello di istituzioni di statistica economica prima degli esami di politica economica e finanziaria, statistica economica, economia d'azienda, statistica aziendale ed analisi di mercato, quello di economia politica (primo esame) prima dello esame di istituzioni di statistica economica.   
-Gli esami di analisi matematica, calcolo delle probabilita' e statistica debbono essere superati prima degli esami di statistica metodologica e di teoria dei campioni; quelli di calcolo delle probabilita' e statistica prima degli esami di controllo statistico della qualita' e statistica industriale e di statistica aziendale e analisi di mercato; quelli di statistica e di economia politica (secondo esame) prima dell'esame di politica economica e finanziaria".   
-Art. 119, relativo agli istituti annessi alla facolta' di scienze matematiche, fisiche e naturali e' modificato nel senso che l'istituto e museo di anatomia comparata e l'istituto e museo di zoologia e di genetica mutano denominazione in "Istituto di biologia animale".   
+Lo statuto dell'Universita' degli studi di Padova, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+Art. 39, relativo al corso degli studi per il diploma in statistica e' modificato nel senso che e' inserito il seguente comma prima del penultimo:  
+L'insegnamento di matematica e' propedeutico rispetto a quello di "Statistica".  
+Art. 42. - Agli insegnamenti complementari del corso di laurea in Scienze politiche sono aggiunti quelli di:  
+Storia delle istituzioni politiche;  
+Scienza dell'amministrazione;  
+Storia e istituzioni dell'Europa orientale.  
+Art. 64. - Agli insegnamenti complementari del corso di laurea in Materie letterarie sono aggiunti quelli di:  
+Storia della scuola e delle istituzioni educative;  
+Metodologia e didattica;  
+Art. 65. - Agli insegnamenti complementari del corso di laurea in Pedagogia sono aggiunti quelli di:  
+Storia della scuola e delle istituzioni educative;  
+Metodologia e didattica;  
+Filosofia del linguaggio;  
+Metodologia della scienza del comportamento.  
+Art. 74, relativo ai seminari e agli istituti della Facolta' di Magistero e' modificato nel senso che e' aggiunto il seguente comma per la costituzione dell'istituto di Pedagogia "Appartiene alle Facolta': istituto di Pedagogia".  
+Art. 76. - Agli insegnamenti complementari del corso di laurea in Medicina e Chirurgia sono aggiunti quelli di:  
+Semeiotica chirurgica  
+Tecnica delle autopsie.  
+Art. 83. - Agli insegnamenti complementari del corso di laurea in Chimica sono aggiunti i seguenti insegnamenti:  
+Per l'indirizzo organico-biologico:  
+Meccanismi di reazione in chimica organica;  
+Chimica degli eterocieli;  
+Storia delle dottrine chimiche;  
+Biochimica generale.  
+Per l'indirizzo inorganico chimico-fisico:  
+Stereochimica;  
+Chimica dei composti di coordinazione;  
+Chimica fisica organica;  
+Biochimica fisica.  
+Art. 86. - Agli insegnamenti complementari del corso di laurea in Chimica industriale e' aggiunto quello di: "Biochimica applicata".  
+Art. 89. - Agli insegnamenti complementari del corso di laurea in Fisica - indirizzo applicativo - sono aggiunti i seguenti:  
+Complementi di fisica atomica;  
+Laboratorio di astrofisica;  
+Metodi statistici;  
+Teoria dei circuiti;  
+Fisica atomica.  
+Art. 91. - Le norme dell'indirizzo applicativo del corso di laurea in Matematica sono abrogate e sostituite dalle seguenti:  
+indirizzo applicativo:  
+L'indirizzo applicativo si svolge secondo i tre seguenti orientamenti:  
+a) applicativo elettronico;  
+b) applicativo statistico-economico;  
+c) applicativo meccanico-astronomico.  
+Nell'orientamento (a) sono corsi fondamentali obbligatori:  
+terzo anno: Calcoli numerici grafici;  
+quarto anno: Teoria della programmazione per le macchine calcolatrici.  
+Al quarto anno sono inoltre prescritti due insegnamenti complementari da scegliersi nel seguente elenco:  
+Calcolo analogico ed elettronica, Cibernetica, Calcolo delle probabilita', Algebra di Boole, Logica matematica. Teoria ed applicazione delle macchine calcolatrici, Statistica matematica, Servomeccanismi, Teoria dell'informazione, Calcolatori speciali, Teoria dei circuiti, Cosmologia, Teoria delle orbite.  
+Nell'orientamento (b) sono corsi fondamentali obbligatori;  
+terzo anno: Calcolo delle probabilita';  
+quarto anno: Economia matematica.  
+Al quarto anno sono inoltre prescritti due insegnamenti complementari da scegliersi nel seguente elenco:  
+Calcoli numerici e grafici, Matematica, finanziaria e attuariale, Programmazione lineare e non lineare, Ricerca operativa, Statistica matematica, Teoria dei giochi, Teoria delle decisioni, Processi stocastici, Programmazione dinamica e non lineare. Tecniche elettroniche di calcolo, Teoria dei grafi, Teoria dei circuiti.  
+Nell'orientamento (c) sono corsi fondamentali obbligatori;  
+terzo anno: Meccanica celeste:  
+quarto anno: Aerodinamica.  
+Al quarto anno sono inoltre prescritti due insegnamenti complementari da scegliersi: tra i seguenti:  
+Astrofisica, Astronomica, Calcolo densoriale. Fisica matematica, Geometria differenziale, Magnetofluidodinamica, Matematiche superiori, Meccanica analitica, Meccanica superiore, Relativa, Teoria, delle equazioni differenziali, Teoria delle equazioni integrali, Teoria delle onde.  
+Art. 101. Agli insegnamenti complementari del corso di laurea in Scienze geologiche sono aggiunti i seguenti:  
+18) Analisi mineralogica delle rocce;  
+19) Mineralogia e petrografia applicate;  
+21) Rilevamento geologico;  
+22) Idrogeologia;  
+23) Esplorazione geologica del sottosuolo;  
+26) Stratigrafia.  
+Art. 107. - Agli istituti annessi alla Facolta' di scienze matematiche fisiche e naturali e' aggiunto il seguente: istituto matematico.  
+Nello stesso articolo gli ottimi due comma sono soppressi.  
+Gli articoli da 108 a 114 relativi all'ordinamento del seminario matematico sono abrogati con il conseguente spostamento della successiva numerazione.  
+Art. 119. - Agli insegnamenti complementari del corso di laurea in Farmacia aggiunto quello di:  
+Scienza dell'alimentazione.  
+Art. 136, relativo al corso di studi per la laurea in Ingegneria civile e' modificato come segue.  
+I gruppi d'insegnamento a scelta dello studente nella, sezione edile sono abrogati e sostituiti dai seguenti:  
+I gruppo:  
+20) Storia dell'architettura (semestrale);  
+20) Tecnica della circolazione stradale (semestrale) II gruppo;  
+20) Unificazione e meccanizzazione dell'azienda edile (semestrale);  
+20) Complementi di costruzioni in cemento armato (semestrale).  
+Gli insegnamenti sul piano della Facolta' e i gruppi di insegnamenti a scelta dello studente nella sezione idraulica sono abrogati e sostituiti dai seguenti:  
+16) Idromeccanica applicata;  
+17) Costruzioni marittime;  
+18) Idraulica agraria;  
+19) Idrografia e idrologia;  
+e a scelta dello studente:  
+I gruppo:  
+20) Igiene applicata all'ingegneria (semestrale);  
+20') Impianti per acquedotti e fognature (semestrale);  
+II gruppo:  
+20) Utilizzazioni idrauliche (semestrale);  
+20') Organizzazione e meccanizzazione dei cantieri (semestrale).  
+Gli insegnamenti sul piano della Facolta' e i gruppi di insegnamenti a scelta dello studente nella sezione trasporti sono abrogati e sostituiti dai seguenti:  
+16) Ponti;  
+17) Costruzioni marittime;  
+18) Tecnica ed economia dei trasporti;  
+19) Tecnica della circolazione stradale;  
+e a scelta dello studente:  
+I gruppo:  
+20) Complementi di costruzioni in cemento armato (semestrale);  
+20') Prove e misure sulle costruzioni e sui ponti (semestrale);  
+II gruppo:  
+20) Organizzazione e meccanizzazione dei cantieri (semestrale);  
+20') Apparecchi di sollevamento e trasporto (semestrale).  
+Nello stesso art. 136 agli insegnamenti obbligatori del corso di laurea in Ingegneria chimica e' aggiunto quello di "Chimica industriale organica".  
+Al terzo gruppo degli insegnamenti a scelta dello studente per lo stesso corso di laurea in Ingegneria chimica e' aggiunto l'insegnamento di "Complementi di matematica".  
+Art. 152. - Agli Istituti annessi alla Facolta' di agraria e aggiunto quello di: "Selvicoltura".  
+Tutte le scuole di perfezionamento annesse alla Facolta' di medicina e chirurgia cambiano denominazione in scuole di specializzazione, pertanto, negli articoli 300, 301, 302 e 311 la parola "perfezionamento" viene sostituita da "specializzazione".  
+Art. 302, relativo alle iscrizioni alle scuole di specializzazione annesse alle Facolta' di medicina e chirurgia, e' modificato nel senso che al primo comma vengono aggiunte le seguenti parole: "e per quella di Igiene e tecnica ospedaliera alla quale possono iscriversi anche i laureati in Ingegneria ed in Architettura".  
+Art. 310, relativo all'elenco delle scuole di specializzazione, e' modificato nel senso che i numeri 16, 19, 22 sono abrogati e, sostituiti dai seguenti:  
+16) scuola di Anestesiologia e rianimazione, che conferisce il diploma di "specialista in Anestesiologia e rianimazione";  
+19) scuola di Medicina del lavoro, che conferisce il diploma di "specialista in Medicina del lavoro";  
+22) scuola di Igiene e tecnica ospedaliera, che conferisce il diploma di "specialista in Igiene e tecnica ospedaliera".  
+Art. 311. - E' modificato nel senso che: Gli insegnamenti dei cinque anni di corso della scuola di specializzazione in Chirurgia sono abrogati e sostituiti dai seguenti:  
+Scuola di chirurgia (durata del corso anni 5):  
+Primo anno:  
+Anatomia topografica;  
+Anatomia e istologia patologica;  
+Semeiotica e diagnostica chirurgica;  
+Patologia chirurgica.  
+Secondo anno:  
+Radiologia chirurgica;  
+Semeiotica e diagnostica chirurgica;  
+Patologia chirurgica;  
+Tecnica operativa;  
+Anatomia e istologia patologica;  
+Clinica chirurgica.  
+Terzo anno:  
+Tecnica operativa;  
+Tecnica diagnostica endoscopica;  
+Otorinolaringoiatria;  
+Clinica chirurgica.  
+Quarto anno:  
+Stomatologia;  
+Tecnica operativa;  
+Clinica chirurgica;  
+Ginecologia;  
+Chirurgia infantile.  
+Quinto anno:  
+Traumatologia;  
+Ortopedia;  
+Chirurgia d'urgenza;  
+Tecnica operativa;  
+Clinica chirurgica.  
+Gli insegnamenti dei due anni di corso della scuola di Anestesiologia sono abrogati e sostituiti dai seguenti:  
+  
+Scuola di anestesia e rianimazione (durata del corso anni 2).  
+Primo anno:  
+Chirurgia generale e speciale di anestesia;  
+Anatomia del sistema nervoso centrale e periferico;  
+Storia dell'anestesia;  
+Fisica dei gas, dei vapori e delle soluzioni;  
+Biochimica e farmacologia dei narcotici;  
+Fisiologia;  
+Fisiopatologia della narcosi ed istologia degli organi in narcosi;  
+Fisiopatologia dello shock e della malattia post-operatoria;  
+Tecnica, strumentario ed apparecchi di anestesia.  
+Secondo anno:  
+Chirurgia generale e speciale e anestesia;  
+Anestesia in ostetricia;  
+Le anestesie specialistiche;  
+Analgesie periferiche e sedazione del dolore;  
+Preparazione del malato alla narcosi e scelta della anestesia;  
+Compiti post-operatori dell'anestesista, rianimazione trattamento antishock;  
+Compiti extra-chirurgici dell'anestesista rianimatore;  
+Internato di due anni in Clinica chirurgica, con servizio effettivo di assistente volontario.  
+Gli insegnamenti dei due anni di corso della scuola di Clinica delle malattie del lavoro sono abrogati e sostituiti dai seguenti:  
+  
+Scuola di medicina del lavoro (Durata del corso anni 2)  
+Primo anno:  
+Fisiologia del lavoro;  
+Tossicologia dei prodotti industriali;  
+Anatomia patologica;  
+Psicologia applicata al lavoro;  
+Igiene del lavoro;  
+Patologia generale delle intossicazioni di interesse professionale;  
+Patologia e clinica delle malattie professionali (biennale).  
+Secondo anno:  
+Medicina assicurativa;  
+Infortunistica;  
+Diagnostica di laboratorio;  
+Malattie professionali del sistema nervoso;  
+Malattie professionali dell'apparato visivo;  
+Malattie professionali dell'apparato cutaneo;  
+Malattie professionali dell'orecchio, naso e gola;  
+Malattie professionali stomatologiche;  
+Prevenzione delle malattie professionali e degli infortuni sul lavoro;  
+Patologia e clinica delle malattie professionali (biennale).  
+La scuola di Igiene e tecnica ospedaliera passa da annuale a biennale con il seguente ordinamento:  
+  
+Scuola di Igiene e tecnica ospedaliera (durata del corso anni 2)  
+Finalita' della scuola e la preparazione di personale tecnico specificamente idoneo alla direzione sanitaria degli ospedali e alla loro progettazione e costruzione.  
+Gli insegnamenti sono i seguenti:  
+Primo anno:  
+Storia degli ospedali e principi metodologici della assistenza sanitaria;  
+Architettura ed edilizia ospedaliera, tecnologia delle attrezzature ospedaliere;  
+Epidemiologia e profilassi delle malattie infettive;  
+Microbiologia e immunologia applicata;  
+Fisica e chimica applicata;  
+Demografia e statistica ospedaliera.  
+Secondo anno:  
+Organizzazione funzionale degli ospedali e formazione del personale ospedaliero;  
+Organizzazione dei laboratori di analisi e di accertamento necroscopico;  
+Selezione psicotecnica del personale negli ospedali;  
+Ispezione degli alimenti;  
+Igiene dell'alimentazione e dietologia ospedaliera  
+Legislazione e prassi giuridica ed amministrativa della assistenza ospedaliera.  
+Le lezioni sono integrate da conferenze di esperti, da esercitazioni pratiche, da visite di istruzione e da tirocinio ospedaliero.  
+Alla scuola sono ammessi i laureati in Medicina e Chirurgia, in Ingegneria, in Architettura con un numero massimo di dieci iscrizione per anno.  
+Gli esami saranno tenuti con le modalita' stabilite per le altre scuole di specializzazione.  
+La scuola di Igiene scolastica passa da annuale a biennale con il seguente ordinamento:  
+  
+Scuola di igiene scolastica (durata del corso anni 2);  
+Primo anno:  
+Igiene della scuola;  
+Epidemiologia e profilassi generale delle malattie infettive e sociali;  
+Nozioni di microbiologia (batteriologia, virologia, parassitologia), applicate alla diagnostica delle malattie infettive;  
+Antropologia e auxologia;  
+Statistica sanitaria;  
+Edilizia scolastica.  
+Secondo anno:  
+Medicina preventiva applicata all'eta' scolare;  
+Epidemiologia e profilassi speciale delle malattie infettive e sociali;  
+Nozioni di patologia e clinica delle malattie della infanzia;  
+Igiene dell'alimentazione;  
+Psicologia dell'eta' scolare, elementi di pedagogia e di psicotecnica;  
+Legislazione sanitaria, legislazione scolastica, provvidenze assistenziali alla madre ed al bambino;  
+Nozioni di oculistica;  
+Internati presso l'Istituto d'igiene e nell'ufficio municipale d'igiene.  
+Alla scuola non possono essere iscritti piu' di dieci allievi per anno.  
   
 
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo e chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 7 febbraio 1970
+### Dato a Roma, addi' 28 marzo 1963
 
-SARAGAT FERRARI AGGRADI
+SEGNI GUI
 
-Visto, il Guardasigilli: REALE
+Visto, il Guardasigilli: BOSCO
 
-Registrato alla Corte dei conti, addi' 23 aprile 1970
+Registrato alla Corte dei conti, addi' 18 maggio 1963
 
-Atti del Governo, registro n. 234, foglio n. 201. - CARUSO
+Atti del Governo, registro n. 169, foglio n. 79. - VILLA

@@ -1,19 +1,19 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 giugno 1973 n. 544
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 03 settembre 1974 n. 532
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 giugno 1973 n. 544
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 03 settembre 1974 n. 532
+================================================================
 
-Autorizzazione all'Istituto nazionale di riposo e cura per anziani, di Ancona, ad acquistare un immobile.
----------------------------------------------------------------------------------------------------------
+Autorizzazione all'Istituto nazionale di riposo e cura per anziani di Ancona ad acquistare un immobile.
+-------------------------------------------------------------------------------------------------------
 
 Art. 1
 ------
 
 N.
 
-544. Decreto del Presidente della Repubblica 28 giugno 1973, col quale, sulla proposta del Ministro per la sanita', l'Istituto nazionale di riposo e cura per anziani, di Ancona, viene autorizzato ad acquistare la casa di cura "Ferrari" sita in Monteregio di Casatenovo (Como) distinta in catasto nelle mappe catastali del comune di Casatenovo con le particelle 163-162-153-161-158-157-156-619 e parte delle particelle 71-150 e 154, al prezzo di L. 600.000.000.  
+532. Decreto del Presidente della Repubblica 3 settembre 1974, col quale, sulla proposta del Ministro per la sanita', l'Istituto nazionale di riposo e cura per anziani di Ancona viene autorizzato ad acquistare l'appezzamento di terreno di mq. 15.000 sito in Roma, via Cassia n. 1169, distinto in catasto ai fogli 205 e 202, particella 55, intestato alla ditta Sansoni-De Angelis, al prezzo di L. 13.200 al mq.   
   
-Visto, il Guardasigilli: ZAGARI  
-Registrato alla Corte dei conti, addi' 10 settembre 1973  
-Atti di Governo, registro n. 259, foglio n. 100. - VALENTINI
+Visto, il Guardasigilli: ZAGARI   
+Registrato alla Corte dei conti, addi' 26 ottobre 1974   
+Atti di Governo, registro n. 6, foglio n. 39. - SCIARRETTA

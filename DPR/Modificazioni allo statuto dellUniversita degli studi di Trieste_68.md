@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 gennaio 1980 n. 1208
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1978 n. 1054
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 gennaio 1980 n. 1208
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1978 n. 1054
 ===============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Trieste.
@@ -10,126 +10,369 @@ Modificazioni allo statuto dell'Universita' degli studi di Trieste.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' di Trieste, approvato con [decreto del Presidente della Repubblica 31 ottobre 1961, n. 183](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1961-10-31;183), e modificato con [decreto del Presidente della Repubblica 7 settembre 1962, n. 1540](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1962-09-07;1540), e successive modificazioni;
+Veduto lo statuto dell'Universita' di Trieste, approvato con [decreto del Presidente della Repubblica 31 ottobre 1961, n. 1836](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1961-10-31;1836) e modificato con [decreto del Presidente della Repubblica 7 settembre 1962, n. 1540](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1962-09-07;1540), e successive modificazioni;
 
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
 
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
 
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
-
 Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
 Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Trieste e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;
 
+Veduta la [legge 22 maggio 1978, n. 217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-05-22;217);
+
 Sentito il parere del Consiglio superiore della pubblica istruzione;
 
-Sulla
------
+Sulla proposta del Ministro della pubblica istruzione;
 
-proposta del Ministro della pubblica istruzione; Decreta:
+Decreta:
+
+Lo statuto dell'Universita' degli studi di Trieste, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+
+Gli articoli 136 e 137, relativi alla scuola di specializzazione in psichiatria, sono soppressi e sostituiti dai seguenti:
+
+Scuola di specializzazione in psichiatria
+
+Art. 136. - La scuola di specializzazione in psichiatria ha sede presso l'istituto di clinica psichiatrica dell'Universita' degli studi di Trieste e conferisce il diploma di specialista in psichiatria.
+
+La direzione della scuola e' affidata al professore di ruolo o fuori ruolo della stessa materia della specializzazione o, in carenza, al professore di ruolo o fuori ruolo di materia affine.
+
+Possono iscriversi alla scuola i laureati in medicina e chirurgia.
+
+E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale rilasciato dall'autorita' competente.
+
+La durata del corso di studi e' di quattro anni e non e' suscettibile di abbreviazioni.
+
+Il numero massimo degli allievi e' di otto per anno di corso e complessivamente di trentadue iscritti per l'intero corso di studi.
+
+L'ammissione al corso avviene per titoli ed esami.
+
+Art. 137. - Le materie di insegnamento sono le seguenti:
+
+1° Anno:
+
+1) metodologia del rapporto medico-paziente (annuale);
+
+2) psicologia (annuale);
+
+3) elementi di genetica e biochimica (annuale);
+
+4) struttura e funzioni integrative del SNC (annuale);
+
+5) neurologia clinica (annuale);
+
+6) clinica psichiatrica I (quadriennale).
+
+2° Anno:
+
+1) psicopatologia e psicodinamica (annuale);
+
+2) psicoterapia I (triennale);
+
+3) psicofarmacologia (annuale);
+
+4) psicofarmacoterapia (annuale);
+
+5) clinica psichiatrica II (quadriennale).
+
+3° Anno:
+
+1) psicodiagnostica ed informatica psichiatrica (annuale);
+
+2) psichiatria sociale I (biennale);
+
+3) psichiatria infantile (annuale);
+
+4) psicoterapia II (triennale);
+
+5) clinica psichiatrica III (quadriennale).
+
+4° Anno:
+
+1) psicosomatica (annuale);
+
+2) psichiatria sociale II (biennale);
+
+3) psichiatria forense (annuale);
+
+4) psicoterapia III (triennale);
+
+5) clinica psichiatrica IV (quadriennale).
+
+Note esplicative:
+
+1) Strutture e funzioni integrative del SNC: tale materia, annuale, e' comprensiva dell'anatomofisiologia del SNC e della psicofisiologia.
+
+2) Neurologia clinica: tale insegnamento, annuale, deve essere comprensivo, eventualmente con sottodivisioni, di cenni di anatomia patologica del SN, di semeiologia neurologica, clinica e strumentale, di neuroradiologia.
+
+3) Clinica psichiatrica: tale materia, quadriennale, e' comprensiva anche degli elementi di semeiotica psichiatrica, delle tecniche laboratoristiche, delle terapie biologiche.
+
+4) Psicoterapia: tale materia, triennale, comprende e considera nel corso dei tre anni, le tecniche ed i principi fondamentali delle principali psicoterapie individuali, direttive o non direttive, i principi fondamentali e le dinamiche delle piu' importanti psicoterapie di gruppo, delle prassi psicoterapiche, socioterapiche e delle sociodinamiche delle istituzioni psichiatriche.
+
+5) Psicodiagnostica ed informatica psichiatrica: tale materia, annuale, e' comprensiva di cenni di statistica, dei reattivi mentali e psicodiagnostica strumentale e di metodologia della ricerca psichiatrica.
+
+6) Psichiatria sociale: tale materia, biennale, con molte possibilita' di suddivisioni, e' comprensiva di elementi di sociologia, di antropologia culturale, di etologia, di ecologia psichiatrica, di epidemiologia psichiatrica, di psichiatria transculturale, di psichiatria preventiva e di igiene mentale, prassi ed organizzazione di assistenza psichiatrica sul territorio extra istituzionale.
+
+7) Psicosomatica: tale materia, annuale, e' comprensiva degli aspetti psichici delle malattie somatiche della cosiddetta medicina integrata, della endocrinologia in riferimento alla psichiatria, delle cosiddette specifiche malattie psicosomatiche.
+
+E' obbligatoria la frequenza per undici mesi all'anno; tale periodo comprende sia la frequenza alle lezioni, sia l'attivita' nei reparti di degenza e nelle strutture ambulatoriali a disposizione della scuola. Gli allievi che non conseguono le attestazioni di frequenza sul relativo libretto non potranno essere ammessi a sostenere le prove di esame.
+
+La scuola programma lo svolgimento dei corsi di insegnamento. Per il passaggio agli anni successivi e' obbligatorio il superamento degli esami per ogni singolo anno. Per le materie a corso pluriennale l'esame sara' sostenuto alla fine dei corsi medesimi.
+
+Le lezioni teoriche sono integrate da seminari anche interdisciplinari, da documentazioni cliniche e da esperienze effettuate nei vari settori della disciplina.
+
+Alla fine dei quattro anni gli allievi che hanno frequentato i corsi saranno ammessi all'esame di diploma, consistente nella presentazione e discussione di una tesi scritta di argomento pertinente alla psichiatria, in una prova orale ed in una prova pratica.
+
+Agli allievi che hanno ottenuto l'approvazione nell'esame di diploma verra' rilasciato il diploma di specializzazione in psichiatria valido a tutti gli effetti di legge.
+
+Per quanto riguarda le tasse, soprattasse e contributi, gli iscritti saranno tenuti a versare quanto segue:
+
+=====================================================================
+
+|Primo anno|Anni successivi
+
+=====================================================================
+
+tassa di immatricolazione | 5.000| -
+
+costo libretto di iscrizione | 1.500| -
+
+tassa annuale d'iscrizione | 100.000| 100.000
+
+soprattassa esami profitto | 7.000| 7.000
+
+contributo opere sportive ed assistenziali| 1.000| 1.000
+
+contributo di biblioteca | 10.000| 10.000
+
+contributo clinica e laboratorio | 48.000| 48.000
+
+prestazioni di segreteria | 4.000| 4.000
+
+contributo di riscaldamento | 3.000| 3.000
+
+tassa di diploma | -| 6.000
+
+Dopo l'art. 171, e con il conseguente spostamento della numerazione degli articoli successivi, e' inserito il seguente nuovo articolo relativo alla istituzione della scuola di specializzazione in audiologia.
+
+Scuola di specializzazione in audiologia
+
+Art. 172. - La scuola ha sede presso la clinica otorinolaringoiatrica dell'Universita' degli studi di Trieste.
+
+La durata del corso e' fissata in tre anni.
+
+Il numero degli iscritti alla scuola, complessivo per tre anni, e' fissato ad un massimo di nove (tre per anno).
+
+Non e' concesso alcun abbreviamento di corso.
+
+Internato per tre anni in clinica otorinolaringoiatrica.
+
+Le materie di insegnamento sono:
+
+1° Anno:
+
+nozioni di fisica acustica;
+
+anatomia dell'orecchio, delle vie e dei centri acustici e vestibolari;
+
+fisiologia dell'orecchio, delle vie e dei centri acustici e vestibolari;
+
+nozioni di psichiatria.
+
+2° Anno:
+
+tecniche audiometriche;
+
+nozioni di neurologia;
+
+nozioni di vestibologia.
+
+3° Anno:
+
+patologia dell'udito;
+
+terapia medica, chirurgica e protesica della sordita';
+
+la sordita' sotto il profilo sociale;
+
+la rieducazione dell'ipoacusico.
+
+Per accedere al secondo ed al terzo anno e' obbligatorio il superamento di tutti gli esami, rispettivamente del primo e del secondo anno. Gli esami possono essere sostenuti solamente in due sessioni annuali, una estiva ed una autunnale.
+
+La direzione della scuola e' affidata al professore di ruolo o fuori ruolo della stessa materia della specializzazione o, in carenza, al professore di ruolo o fuori ruolo di materia affine.
+
+Gli insegnanti sono proposti dal direttore della scuola e scelti tra i titolari di altre cattedre della facolta' di medicina e chirurgia dell'Universita' di Trieste, tra i liberi docenti in audiologia ed in altre materie.
+
+Il diploma di specialista in audiologia viene rilasciato dopo aver superato tutti gli esami e dopo la discussione di una tesi scritta a carattere clinico e sperimentale.
+
+Per quanto riguarda tasse, soprattasse e contributi si precisa quanto segue:
+
+=====================================================================
+
+|Primo anno|Anni successivi
+
+=====================================================================
+
+tassa di immatricolazione | 5.000|
+
+costo libretto iscrizione e tesserino | 1.500|
+
+tassa annuale d'iscrizione | 100.000| 100.000
+
+soprattassa esami profitto | 7.000| 7.000
+
+contributo opere sportive ed assistenziali| 1.000| 1.000
+
+contributo di biblioteca | 10.000| 10.000
+
+contributo clinica e laboratorio | 48.000| 48.000
+
+prestazioni di segreteria | 3.000| 3.000
+
+contributo di riscaldamento | 3.000| 3.000
+
+Totale | 178.500| 172.000
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 31 ottobre 1978
+
+PERTINI
+
+PEDINI
+
+Visto, il Guardasigilli: BONIFACIO
+
+Registrato
+----------
+
+alla Corte dei conti, addi' 23 aprile 1979 Registro n. 27 Istruzione, foglio n. 34
 
 Art. 1
 ------
 
+ IL PRESIDENTE DELLA REPUBBLICA   
   
-All'art. 77 dello statuto dell'Universita' di Trieste, all'elenco degli insegnamenti complementari per l'indirizzo organico-biologico sono aggiunti i seguenti:  
-biopolimeri;  
-cristallo-chimica;  
-spettroscopia a radiofrequenza;  
-chimica dei coloranti;  
-chimica fisica organica;  
-chimica delle sostanze organiche naturali;  
-chimica dei composti eterociclici.  
-L'insegnamento di complementi di matematica e' soppresso.  
-All'elenco degli insegnamenti complementari per l'indirizzo inorganico chimico-fisico sono aggiunti i seguenti:  
-chimica dei composti organometallici;  
-chimica dei composti di coordinazione;  
-chimica inorganica superiore;  
-termodinamica statistica;  
-cristallo-chimica;  
-spettroscopia a radiofrequenza;  
-L'insegnamento di astrofisica e' soppresso.  
-
-Art. 2
-------
-
+Veduto lo statuto dell'Universita' di Trieste, approvato con [decreto del Presidente della Repubblica 31 ottobre 1961, n. 1836](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1961-10-31;1836) e modificato con [decreto del Presidente della Repubblica 7 settembre 1962, n. 1540](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1962-09-07;1540), e successive modificazioni;   
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;   
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Trieste e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;   
+Veduta la [legge 22 maggio 1978, n. 217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-05-22;217);   
+Sentito il parere del Consiglio superiore della pubblica istruzione;   
+Sulla proposta del Ministro della pubblica istruzione;   
   
-Nell'art. 79 l'insegnamento di matematiche superiori per l'indirizzo generale e' sostituito da quello di algebra superiore; gli insegnamenti complementari di applicazione della matematica all'economia, astrofisica, cibernetica e teoria dell'informazione, chimica generale ed inorganica con elementi di organica, geodesia, complementi di fisica generale, istituzioni di fisica teorica, spettroscopia, teoria quantistica delle misure sono soppressi; sono istituiti i seguenti insegnamenti complementari: algebra commutativa, algebra omologica, analisi funzionale, teoria delle equazioni differenziali, topologia algebrica, topologia differenziale, didattica della matematica, magneto fluido dinamica, matematiche complementari 11, teoria dei controlli automatici, complementi di analisi numerica; l'ultimo comma e' sostituito dal seguente: l'esame di laurea potra' essere preceduto da un esame di cultura generale, da sostenersi dopo l'iscrizione al quarto anno. L'ammissione all'esame di cultura generale e' subordinato al superamento degli esami relativi agli insegnamenti fondamentali.  
-
-Art. 3
-------
-
+Decreta:   
   
-All'art. 80 all'elenco degli insegnamenti complementari sono aggiunti i seguenti:  
-anatomia vegetale;  
-botanica sistematica;  
-ecologia ed etologia animale;  
-embriologia degli invertebrati;  
-fitosociologia;  
-palinologia, limnologia, micologia.  
-
-Art. 4
-------
-
+Lo statuto dell'Universita' degli studi di Trieste, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
+Gli articoli 136 e 137, relativi alla scuola di specializzazione in psichiatria, sono soppressi e sostituiti dai seguenti:   
   
-All'art. 81 all'elenco degli insegnamenti complementari sono aggiunti i seguenti:  
-biofisica;  
-immunologia;  
-statistica e biometria;  
-genetica di popolazioni;  
-analisi biologiche.  
-
-Art. 5
-------
-
+Scuola di specializzazione in psichiatria   
   
-All'art. 82 all'elenco degli insegnamenti complementari sono aggiunti i seguenti:  
-petrologia del sedimentario;  
-prospezioni geochimiche;  
-climatologia;  
-carsologia;  
-geologia marina;  
-paleoecologia;  
-geologia del cristallino;  
-petrografia applicata;  
-geologia del quaternario;  
-geologia strutturale;  
-fotogeologia;  
-cartografia geotecnica;  
-geologia economica;  
-geochimica applicata.  
-
-Art. 6
-------
-
+Art. 136. - La scuola di specializzazione in psichiatria ha sede presso l'istituto di clinica psichiatrica dell'Universita' degli studi di Trieste e conferisce il diploma di specialista in psichiatria.   
+La direzione della scuola e' affidata al professore di ruolo o fuori ruolo della stessa materia della specializzazione o, in carenza, al professore di ruolo o fuori ruolo di materia affine.   
+Possono iscriversi alla scuola i laureati in medicina e chirurgia.  
+E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale rilasciato dall'autorita' competente.   
+La durata del corso di studi e' di quattro anni e non e' suscettibile di abbreviazioni.   
+Il numero massimo degli allievi e' di otto per anno di corso e complessivamente di trentadue iscritti per l'intero corso di studi.   
+L'ammissione al corso avviene per titoli ed esami.   
+Art. 137. - Le materie di insegnamento sono le seguenti:   
+1° Anno:   
+1) metodologia del rapporto medico-paziente (annuale);   
+2) psicologia (annuale);   
+3) elementi di genetica e biochimica (annuale);   
+4) struttura e funzioni integrative del SNC (annuale);   
+5) neurologia clinica (annuale);   
+6) clinica psichiatrica I (quadriennale).   
+2° Anno:   
+1) psicopatologia e psicodinamica (annuale);   
+2) psicoterapia I (triennale);   
+3) psicofarmacologia (annuale);   
+4) psicofarmacoterapia (annuale);   
+5) clinica psichiatrica II (quadriennale).   
+3° Anno:   
+1) psicodiagnostica ed informatica psichiatrica (annuale);   
+2) psichiatria sociale I (biennale);   
+3) psichiatria infantile (annuale);   
+4) psicoterapia II (triennale);   
+5) clinica psichiatrica III (quadriennale).   
+4° Anno:   
+1) psicosomatica (annuale);   
+2) psichiatria sociale II (biennale);   
+3) psichiatria forense (annuale);   
+4) psicoterapia III (triennale);   
+5) clinica psichiatrica IV (quadriennale).   
+Note esplicative:   
+1) Strutture e funzioni integrative del SNC: tale materia, annuale, e' comprensiva dell'anatomofisiologia del SNC e della psicofisiologia.   
+2) Neurologia clinica: tale insegnamento, annuale, deve essere comprensivo, eventualmente con sottodivisioni, di cenni di anatomia patologica del SN, di semeiologia neurologica, clinica e strumentale, di neuroradiologia.   
+3) Clinica psichiatrica: tale materia, quadriennale, e' comprensiva anche degli elementi di semeiotica psichiatrica, delle tecniche laboratoristiche, delle terapie biologiche.   
+4) Psicoterapia: tale materia, triennale, comprende e considera nel corso dei tre anni, le tecniche ed i principi fondamentali delle principali psicoterapie individuali, direttive o non direttive, i principi fondamentali e le dinamiche delle piu' importanti psicoterapie di gruppo, delle prassi psicoterapiche, socioterapiche e delle sociodinamiche delle istituzioni psichiatriche.   
+5) Psicodiagnostica ed informatica psichiatrica: tale materia, annuale, e' comprensiva di cenni di statistica, dei reattivi mentali e psicodiagnostica strumentale e di metodologia della ricerca psichiatrica.   
+6) Psichiatria sociale: tale materia, biennale, con molte possibilita' di suddivisioni, e' comprensiva di elementi di sociologia, di antropologia culturale, di etologia, di ecologia psichiatrica, di epidemiologia psichiatrica, di psichiatria transculturale, di psichiatria preventiva e di igiene mentale, prassi ed organizzazione di assistenza psichiatrica sul territorio extra istituzionale.   
+7) Psicosomatica: tale materia, annuale, e' comprensiva degli aspetti psichici delle malattie somatiche della cosiddetta medicina integrata, della endocrinologia in riferimento alla psichiatria, delle cosiddette specifiche malattie psicosomatiche.   
+E' obbligatoria la frequenza per undici mesi all'anno; tale periodo comprende sia la frequenza alle lezioni, sia l'attivita' nei reparti di degenza e nelle strutture ambulatoriali a disposizione della scuola. Gli allievi che non conseguono le attestazioni di frequenza sul relativo libretto non potranno essere ammessi a sostenere le prove di esame.   
+La scuola programma lo svolgimento dei corsi di insegnamento. Per il passaggio agli anni successivi e' obbligatorio il superamento degli esami per ogni singolo anno. Per le materie a corso pluriennale l'esame sara' sostenuto alla fine dei corsi medesimi.   
+Le lezioni teoriche sono integrate da seminari anche interdisciplinari, da documentazioni cliniche e da esperienze effettuate nei vari settori della disciplina.   
+Alla fine dei quattro anni gli allievi che hanno frequentato i corsi saranno ammessi all'esame di diploma, consistente nella presentazione e discussione di una tesi scritta di argomento pertinente alla psichiatria, in una prova orale ed in una prova pratica.   
+Agli allievi che hanno ottenuto l'approvazione nell'esame di diploma verra' rilasciato il diploma di specializzazione in psichiatria valido a tutti gli effetti di legge.   
+Per quanto riguarda le tasse, soprattasse e contributi, gli iscritti saranno tenuti a versare quanto segue:   
   
-L'art. 86 e' sostituito dal seguente:  
-Art. 86. - Per essere ammesso all'esame di laurea lo studente deve aver seguito i corsi e superato gli esami di tutti gli insegnamenti previsti dall'ordinamento didattico universitario e dall'eventuale proprio piano di studi.  
-L'esame di laurea consiste nella discussione di una dissertazione scritta su tema riguardante una materia pertinente al corso di laurea seguito e all'indirizzo prescelto, concordato dal candidato col professore della materia stessa o con altro professore a cio' autorizzato dalla facolta' per i corsi di laurea per i quali la facolta' lo ritiene opportuno, nonche' nella discussione di una tesina orale scelta in materia diversa da quella della dissertazione di laurea, con l'approvazione del professore della disciplina in questione o di altro professore sempre autorizzato dalla facolta'.  
-L'esame di laurea puo' essere integrato da un esame di cultura generale e da prove pratiche stabilite dal consiglio di facolta'.  
 
-Art. 7
-------
+|  |  |
+| --- | --- |
+| Primo anno | Anni successivi |
 
   
-Dopo l'art. 88 con il conseguente spostamento della numerazione degli articoli successivi e' inserito il nuovo seguente articolo:  
-Art. 89. - Presso la facolta' di scienze matematiche, fisiche e naturali sono istituiti:  
-biblioteca di facolta';  
-seminario ecologico.  
   
+  
+Dopo l'art. 171, e con il conseguente spostamento della numerazione degli articoli successivi, e' inserito il seguente nuovo articolo relativo alla istituzione della scuola di specializzazione in audiologia.   
+  
+Scuola di specializzazione in audiologia   
+  
+Art. 172. - La scuola ha sede presso la clinica otorinolaringoiatrica dell'Universita' degli studi di Trieste.   
+La durata del corso e' fissata in tre anni.   
+Il numero degli iscritti alla scuola, complessivo per tre anni, e' fissato ad un massimo di nove (tre per anno).   
+Non e' concesso alcun abbreviamento di corso.   
+Internato per tre anni in clinica otorinolaringoiatrica.   
+Le materie di insegnamento sono:   
+1° Anno:   
+nozioni di fisica acustica;   
+anatomia dell'orecchio, delle vie e dei centri acustici e vestibolari;   
+fisiologia dell'orecchio, delle vie e dei centri acustici e vestibolari;   
+nozioni di psichiatria.   
+2° Anno:   
+tecniche audiometriche;   
+nozioni di neurologia;   
+nozioni di vestibologia.   
+3° Anno:   
+patologia dell'udito;   
+terapia medica, chirurgica e protesica della sordita';   
+la sordita' sotto il profilo sociale;   
+la rieducazione dell'ipoacusico.   
+Per accedere al secondo ed al terzo anno e' obbligatorio il superamento di tutti gli esami, rispettivamente del primo e del secondo anno. Gli esami possono essere sostenuti solamente in due sessioni annuali, una estiva ed una autunnale.   
+La direzione della scuola e' affidata al professore di ruolo o fuori ruolo della stessa materia della specializzazione o, in carenza, al professore di ruolo o fuori ruolo di materia affine.   
+Gli insegnanti sono proposti dal direttore della scuola e scelti tra i titolari di altre cattedre della facolta' di medicina e chirurgia dell'Universita' di Trieste, tra i liberi docenti in audiologia ed in altre materie.   
+Il diploma di specialista in audiologia viene rilasciato dopo aver superato tutti gli esami e dopo la discussione di una tesi scritta a carattere clinico e sperimentale.   
+Per quanto riguarda tasse, soprattasse e contributi si precisa quanto segue:   
+  
+
+|  |  |
+| --- | --- |
+| Primo anno | Anni successivi |
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 14 gennaio 1980
+### Dato a Roma, addi' 31 ottobre 1978
 
-PERTINI VALITUTTI
+PERTINI PEDINI
 
-Visto, il Guardasigilli: SARTI
+Visto, il Guardasigilli: BONIFACIO
 
-Registrato alla Corte dei conti, addi' 18 agosto 1981
+Registrato alla Corte dei conti, addi' 23 aprile 1979
 
-Registro n. 76 Istruzione, foglio n. 383
+Registro n. 27 Istruzione, foglio n. 34

@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 03 agosto 1970 n. 762
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 marzo 1962 n. 271
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 03 agosto 1970 n. 762
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 marzo 1962 n. 271
+============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Parma.
 -----------------------------------------------------------------
@@ -12,106 +12,384 @@ Art. 1
 
  IL PRESIDENTE DELLA REPUBBLICA   
   
-Veduto lo statuto dell'Universita' degli studi di Parma, approvato con [regio decreto 13 ottobre 1927, n. 2797](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2797) e modificato con [regio decreto 30 ottobre 1930, n. 1772](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-30;1772), e successive modificazioni;   
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
+Veduto lo statuto dell'Universita' degli studi di Parma, approvato con [regio decreto 13 ottobre 1927, n. 2797](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2797), modificato con [regio decreto 30 ottobre 1930, n. 1772](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-30;1772) e successivi;   
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652) e successive modificazioni;   
 Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);   
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;   
+Veduto il [decreto del Presidente della Repubblica 26 luglio 1960, n. 1692](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1960-07-26;1692);   
+Veduta la [legge 21 luglio 1961, n. 685](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1961-07-21;685);   
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;   
 Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;   
 Sentito il parere del Consiglio superiore della pubblica istruzione;   
 Sulla proposta del Ministro per la pubblica istruzione;   
   
 Decreta:   
   
-Lo statuto dell'Universita' degli studi di Parma, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
+Lo statuto dell'Universita' degli studi di Parma, approvato e modificato con i decreti sopraindicati e' ulteriormente modificato come appresso:   
+Gli articoli 39, 40, 41, 42, 43, 44 e 45, relativi al corso di studi per la laurea in Fisica sono abrogati e sostituiti dai seguenti:   
   
-Art. 49, relativo agli istituti annessi alla facolta' di economia e commercio e modificato nel senso che vengono attribuiti i seguenti nuovi insegnamenti complementari agli istituti della facolta' a fianco di essi indicati:   
-1) istituto di ricerche aziendali: ragioneria pubblica;   
-3) istituto di tecnica del credito: tecnica degli scambi e cambi con l'estero, economia e tecnica del credito mobiliare;   
-8) istituto di ricerche economico-agrarie e forestali: economia di mercato dei prodotti agricoli;   
-9) istituto di matematica: ricerca operativa, teoria delle decisioni e teoria dei giochi;   
-10) istituto di statistica: statistica aziendale.   
-Dopo l'art. 265 e con il conseguente spostamento della successiva numerazione sono aggiunti i seguenti nuovi articoli relativi alla istituzione della scuola di perfezionamento in "Fisica dello stato solido" annessa alla facolta' di scienze matematiche, fisiche e naturali.   
+Art. 39. - La durata del corso degli studi per la laurea in Fisica e' di quattro anni.   
+E' titolo di ammissione il diploma di maturita' classica o di maturita' scientifica. Possono inoltre essere ammessi i diplomati degli Istituti tecnici industriali, agrari, nautici e per geometri, ai sensi delle vigenti disposizioni di legge.   
+Il corso degli studi si distingue in tre indirizzi: generale, didattico, applicativo.   
   
-Scuola di perfezionamento in "Fisica dello stato solido"   
+Sono insegnamenti fondamentali obbligatori comuni a ciascun indirizzo:   
   
-Art. 266. - La scuola di perfezionamento in fisica istituita presso la facolta' di scienze matematiche, fisiche e naturali di Parma, ha fine scientifico e rilascia il diploma di perfezionamento nell'indirizzo di fisica dello stato solido.   
-Il corso degli studi ha la durata di due anni. Non sono consentite abbreviazioni di corso.   
-Art. 267. - Il funzionamento della scuola e' affidato ad un consiglio direttivo nominato dalla facolta'. Il consiglio direttivo propone di anno in anno alla facolta' gli insegnamenti da impartire e i relativi programmi, e nomina per un periodo di un anno un direttore, al quale sono affidate l'organizzazione e la sorveglianza sul regolare funzionamento degli insegnamenti e degli esami. Il direttore e' coadiuvato da un segretario.   
-Gli insegnanti della scuola sono proposti, d'intesa col consiglio direttivo, dal direttore, che puo' scegliere tra i professori di ruolo, tra i liberi docenti, tra gli assistenti ed anche tra persone di riconosciuta competenza in uno degli indirizzi trattati nella scuola; tali proposte sono sottoposte all'approvazione della facolta'.   
-Art. 268. - Alla scuola di perfezionamento in fisica dello stato solido sono ammessi i laureati in fisica, matematica, ingegneria e chimica.   
-L'ammissione alla scuola avviene a seguito di concorso per titoli.   
-Sono da considerarsi titoli preferenziali:   
-a) il voto di laurea;   
-b) documentazione di eventuali servizi prestati attinenti alle discipline impartite nel corso degli studi specialistici;   
-c) eventuali pubblicazioni.   
-Il numero complessivo degli specializzandi da ammettere alla scuola e' fissato in trenta allievi per ogni anno di corso.   
-Nessun titolo puo' esonerare dalla frequenza gli iscritti.   
-La frequenza ai singoli corsi deve essere attestata dai rispettivi docenti.   
-Art. 269. - Le commissioni per gli esami di profitto sono nominate dal consiglio direttivo e sono formate dal professore della materia e da due altri insegnanti della scuola. La commissione per l'esame di diploma e' nominata dal consiglio direttivo ed e' formata da quattro membri scelti fra gli insegnanti della scuola e da un contro-relatore nella persona di un competente nel soggetto particolare della dissertazione; il quale puo' essere anche un professore di altra universita'.   
-L'esame di diploma consistera' nella discussione di una dissertazione-originale scritta.   
-Art. 270. - L'esame di diploma dovra' essere superato entro cinque anni dalla data di immatricolazione.   
-I candidati non riconosciuti idonei ad una prima prova non potranno ripresentarsi prima che sia trascorso un periodo di undici mesi.   
-Art. 271. - Le materie di insegnamento sono:   
-1) Matematica applicata;   
-2) Complementi di analisi;   
-3) Complementi di fisica teorica;   
-4) Complementi di fisica dello stato solido;   
-5) Proprieta' magnetiche della materia:   
-6) Fisica dei liquidi;   
-7) Tecniche della fisica degli stati condensati;   
-8) Complementi di chimica fisica;   
-9) Complementi di meccanica statistica;   
-10) Fisica delle superfici:   
-11) Complementi di elettronica;   
-12) Semiconduttori;   
-13) Elettronica quantistica;   
-14) Spettroscopia a microonde;   
-15) Fisica dei plasmi;   
-16) Fisica dei gas debolmente ionizzati;   
-17) Tecnica dell'alto vuoto;   
-18) Rilevatori a scintillazione;   
-19) Spettrofotometria U.V., ottica e I.R.;   
-20) Diffratometria X ed elettronica;   
-21) Fisica dei metalli;   
-22) Teoria quantistica dei campi;   
-23) Macchine calcolatrici e programmazione.   
-Gli insegnamenti potranno essere annuali o semestrali. Due insegnamenti semestrali sono a tutti gli effetti equivalenti ad un insegnamento annuale.   
-I corsi saranno integrati da esercitazioni pratiche e potranno essere integrati anche con conferenze su materie e argomenti che abbiano attinenza o affinita' con gli insegnamenti impartiti nella scuola.   
-Art. 272. - Per ogni anno di corso il numero minimo degli insegnamenti annuali e' fissato in cinque; il numero massimo in dieci. Gli insegnamenti annuali potranno essere sostituiti in parte con coppie di corsi semestrali secondo l'ordine di studi fissato dal consiglio direttivo della scuola a norma dell'art. 271.   
-Gli allievi per essere ammessi all'esame di diploma dovranno avere superato gli esami di profitto previsti dall'ordinamento di studi.   
-Art. 273. - Il consiglio direttivo della scuola, con manifesto annuale, prima dell'inizio di ciascun anno accademico, stabilisce quali siano i corsi a carattere annuale o semestrale, nonche' degli studi (distribuzione degli insegnamenti nei due anni di corso) e l'ordine e le modalita' degli esami.   
-Art. 274. - Gli iscritti alla scuola sono tenuti a pagare le medesime tasse, soprattasse e contributi generali, stabiliti dalle vigenti disposizioni di legge per gli studenti della facolta'.   
-La tassa di diploma e' pari alla tassa di laurea, a norma dell'[art. 7 della legge 18 dicembre 1951, n. 1551](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1951-12-18;1551~art7).   
-La misura dei contributi per le esercitazioni di laboratorio e per altre prestazioni durante il corso degli studi e fissata dal consiglio di amministrazione, su proposta del senato accademico, udita la facolta' di scienze matematiche, fisiche e naturali ed il consiglio direttivo della scuola.   
-Inoltre i mezzi finanziari per il funzionamento della scuola (stipendi e attrezzature) saranno reperiti sui contributi di cui sopra, sui finanziamenti destinati allo istituto di fisica, e, infine, ci si avvarra' di insegnamenti gia' esistenti per il corso di laurea in fisica e gia sovvenzionati.   
-Art. 275. - Presso la scuola di perfezionamento in fisica dello stato solido, e' istituito un seminario di fisica.   
-Gli articoli 278, 279, 281, 282 relativi alla scuola di paleografia musicale sono abrogati e sostituiti dai seguenti:   
+1° Biennio:   
+1) Fisica generale 1°;   
+2) Analisi matematica 1°;   
+3) Geometria 1°;   
+4) Chimica con esercitazioni di laboratorio (per fisici);   
+5) Fisica generale 2°;   
+6) Analisi matematica 2°;   
+7) Meccanica razionale;   
+8) Esperimentazione fisica (biennale);   
   
-Scuola di paleografia e filologia musicale   
+2° Biennio:   
+1) Istituzioni di fisica teorica;   
+2) Metodi matematici della fisica;   
+3) Struttura della materia.   
   
-Art. 278. - La scuola di paleografia e filologia musicale si propone di fornire la preparazione scientifica e tecnica occorrenti a coloro che intendono mettersi in grado di conoscere ed interpretare direttamente le fonti musicali, dedicarsi al governo delle sezioni musicali delle biblioteche e degli archivi e specializzarsi nella storia della musica.   
-La scuola di paleografia e filologia musicale conferisce il diploma di paleografia e filologia musicale.   
-Art. 279. - Il direttore della scuola e' un professore universitario di ruolo ed e' nominato dal rettore su designazione del consiglio della scuola.   
-Art. 281. - Alla scuola di paleografia e filologia musicale possono iscriversi coloro i quali, gia' iscritti a un conservatorio di musica o a un liceo musicale pareggiato, oppure in qualita' di candidati privatisti abbiano superato, presso un conservatorio o un liceo musicale pareggiato, gli esami complementari di armonia e storia della musica previsti per la loro materia musicale principale. Essi dovranno superare una prova scritta di italiano, consistente nello svolgimento di un tema di cultura generale letteraria o storica, e una prova scritta di latino, consistente in una versione in italiano di un brano latino. La prova orale vertera' sulle linee fondamentali della storia letteraria e della storia civile italiane.   
-Possono altresi' iscriversi coloro che sono muniti di un diploma di scuola media di secondo grado. Essi dovranno svolgere una analisi scritta di una composizione musicale a schema morfologico regolare; la prova orale sara' intesa ad accertare la conoscenza della teoria musicale generale. Dovranno inoltre eventualmente sostenere le prove di accertamento letterario, in relazione al loro pregresso curriculum scolastico.   
-Art. 282. - La scuola si riserva di organizzare, senza alcun aggravio finanziario per gli studenti, corsi integrativi di cultura intesi a facilitare la preparazione scientifica degli studenti stessi, con particolare riguardo alla cultura umanistica per i provenienti dai conservatori di musica privi di altro titolo, ed alla cultura musicale per i provenienti da scuole medie di secondo grado, sprovvisti di titolo musicale. Prima dell'esame di diploma, gli iscritti dovranno sostenere un esame inteso ad accertare la loro preparazione specifica umanistica o musicale, rispettivamente per i diplomati dai conservatori e dalle scuole medie superiori. Coloro che sono muniti di entrambi i titoli (umanistico e musicale) sono dispensati da qualunque esame di accertamento.   
-L'art. 285, relativo alla suddetta scuola e' modificato nel senso che il penultimo comma viene soppresso.   
-L'art. 286, relativo alla suddetta scuola e' abrogato e sostituito dal seguente:   
-Art. 286. - Data la particolare finalita' dei singoli insegnamenti anche coloro che sono gia' muniti di laurea e che abbiano sostenuto esami speciali di materie affini a quelle elencate nel piano degli studi della scuola dovranno ugualmente sostenere tutti gli esami senza eccezione.   
-A coloro che sono provvisti di laurea in lettere o materie letterarie, il diploma di cui sopra e' equiparato a quelli conseguiti nei corsi di perfezionamento postuniversitario.   
+L'insegnamento dei "Metodi matematici della fisica" potra' essere sostituito, su deliberazione presa anno per anno dalla, Facolta', con uno dei due seguenti insegnamenti fondamentali del corso di laurea in Matematica: "Istituzioni di analisi superiore", "Istituzioni di fisica matematica".   
+  
+Sono inoltre insegnamenti obbligatori:   
+a) per l'indirizzo generale (2° biennio);   
+4) Fisica superiore;   
+5) Laboratorio di Fisica 1°;   
+6) Laboratorio di Fisica 2°;   
+7) Fisica teorica;   
+8) Corso a scelta di Matematiche superiori;   
+9) Corso a scelta;   
+  
+b) per l'indirizzo applicativo (2° biennio)   
+4) Laboratorio di Fisica 1°;   
+5) Laboratorio di Fisica 2°:   
+6) A seconda del ramo di specializzazione;   
+7) A seconda del ramo di specializzazione;   
+8) A seconda del ramo di specializzazione;   
+9) A seconda del ramo di specializzazione;   
+  
+c) per l'indirizzo didattico (2° biennio):   
+4) Complementi di Fisica generale 1°;   
+5) Complementi di Fisica generale 2°;   
+6) Storia della Fisica;   
+7) Preparazione di esperienze didattiche 1°;   
+8) Preparazione di esperienze didattiche 2°;   
+9) Corso a scelta.   
+  
+In via transitoria e su giudizio della Facolta', il corso di Storia della fisica potra' essere sostituito da uno dei corsi a scelta che assumera' pertanto carattere fondamentale.   
+Per l'indirizzo generale lo studente, per essere ammesso all'esame di laurea, deve aver superato gli esami relativi agli insegnamenti fondamentali comuni ai tre indirizzi, gli esami relativi agli insegnamenti fondamentali (4), (5), (6), (7) e gli esami dei due insegnamenti (8) e (9) da seguire uno al terzo e uno al quarto anno, pur avendo facolta' di sceglierne uno per ciascuno dei due seguenti gruppi:   
+  
+1° gruppo (matematiche superiori);   
+Algebra superiore;   
+Analisi funzionale;   
+Analisi superiore;   
+Calcoli numerici e grafici;   
+Calcolo delle probabilita';   
+Geometria algebrica;   
+Geometria differenziale;   
+Istituzioni di Fisica matematica;   
+Istituzioni di Analisi superiore;   
+Logica matematica;   
+Matematiche superiori;   
+Statistica matematica;   
+Teoria delle funzioni;   
+Teoria dei numeri;   
+Teoria ed applicazioni delle macchine calcolatrici;   
+Topologia;   
+Fisica matematica:   
+Meccanica superiore;   
+Meccanica analitica.   
+  
+2° gruppo:   
+Astrofisica;   
+Chimica fisica;   
+Onde elettromagnetiche;   
+Fisica dei reattori;   
+Pedagogia;   
+Fisica delle particelle elementari;   
+Fisica terrestre (Geofisica);   
+Ottica elettronica, Meccanica quantistica;   
+Relativita';   
+Termodinamica;   
+Astronomia;   
+Chimica organica;   
+Elettrologia;   
+Fisica dei neutroni Geodesia;   
+Meccanica statistica;   
+Radioastronomia;   
+Spettroscopia;   
+Epistemologia e metodologia;   
+Chimica teorica Elettronica;   
+Fisica dello stato solido;   
+Fisica tecnica;   
+Istituzioni di Fisica nucleare;   
+Mineralogia Radioattivita';   
+Storia della fisica;   
+Fisica nucleare.   
+  
+Per l'indirizzo applicativo lo studente, per essere ammesso all'esame di laurea deve aver superato gli esami relativi agli insegnamenti fondamentali comuni ai tre indirizzi gli esami relativi agli insegnamenti fondamentali (4), (5) e gli esami relativi dei quattro insegnamenti (6), (7), (8), (9), conformemente ai curricula stabiliti anno per anno dalla Facolta' per i diversi orientamenti, o proposti alla approvazione della Facolta' stessa dagli studenti interessati. Ciascun curriculum riguardera' tutti e quattro i predetti insegnamenti e stabilira' le eventuali propedeuticita'.   
+Gli insegnamenti (6), (7), (8), (9), potranno essere scelti tra quelli appartenenti ai due gruppi sottoelencati:   
+  
+1° gruppo:   
+Algebra;   
+Algebra superiore;   
+Analisi funzionale;   
+Analisi superiore;.   
+Calcolo delle probabilita';   
+Calcoli numerici e grafici;   
+Calcolo numerico e programmazione;   
+Calcolo operativo;   
+Funzioni speciali;   
+Geometria differenziale;   
+Geometria superiore;   
+Istituzioni di Analisi superiore;   
+Istituzioni di Fisica matematica;   
+Istituzioni di Geometria superiore;   
+Logica matematica;   
+Matematiche complementari;   
+Matematiche superiori;   
+Teoria delle funzioni;   
+Teoria dei gruppi;   
+Teoria delle vibrazioni;   
+Teoria ed applicazione delle macchine calcolatrici;   
+  
+2° gruppo:   
+Acustica;   
+Astro fisica Astronomia;   
+Biofisica;   
+Biologia generale;   
+Biologia molecolare;   
+Chimica fisica;   
+Chimica biologica;   
+Chimica organica;   
+Chimica teorica;   
+Cibernetica;   
+Fisica del plasma;   
+Fisica dello stato solido;   
+Fisica delle particelle elementari;   
+Fisica nucleare;   
+Fisica spaziale;   
+Fisica superiore;   
+Fisica teorica;   
+Fisica terrestre;   
+Genetica;   
+Geochimica;   
+Geodesia;   
+Conduzione elettrica nei gas;   
+Onde elettromagnetiche;   
+Elettrologia;   
+Elettronica;   
+Elettronica applicata;   
+Elettrotecnica;   
+Epistemologia e metodologia;   
+Fisica dei reattori;   
+Fisica dei neutroni;   
+Ottica;   
+Pedagogia;   
+Radioattivita';   
+Sismologia;   
+Storia della fisica;   
+Teoria delle forze nucleari;   
+Termodinamica;   
+Geologia;   
+Istituzioni Fisica nucleare;   
+Meccanica analitica;   
+Meccanica quantistica;   
+Meccanica statistica;   
+Meccanica superiore;   
+Meteorologia;   
+Meteorologia e oceanografia;   
+Misure elettriche;   
+Ottica elettronica;   
+Radioastronomia;   
+Relativita' Spettroscopia:   
+Tecnica del vuoto;   
+Teoria dell'informazione.   
+  
+Per l'indirizzo didattico lo studente, per essere ammesso all'esame di laurea, deve aver superato gli esami relativi agli insegnamenti fondamentali comuni ai tre indirizzi, gli esami relativi agli insegnamenti fondamentali (4), (5), (6), (7), (8) e l'esame di un insegnamento da scegliere tra quelli del secondo gruppo previsto per l'indirizzo generale.   
+Si richiedera' inoltre alla fine del 1° biennio, e per tutti e tre gli indirizzi, la prova di conoscenza di due lingue straniere di importanza scientifica stabilite dalla Facolta'.   
+  
+Art. 40. - Gli insegnamenti fondamentali comuni a quelli fondamentali relativi ai diversi indirizzi sono accompagnati ciascuno da un corso di esercitazioni che ne e' parte integrante.  
+L'insegnamento di Meccanica razionale deve essere distinto da quello destinato agli allievi ingegneri e in comune con gli allievi matematici.   
+Gli insegnamenti di Fisica generale 1° e 2° sono in comune con gli allievi matematici e devono essere distinti da quelli destinati agli allievi di altri corsi di laurea. Per gli insegnamenti comuni con il corso del biennio di ingegneria i corsi di esercitazioni sono distinti dagli analoghi corsi per il detto biennio.   
+  
+Art. 41. - I corsi di Fisica generale e Analisi matematica non devono essere considerati come corsi biennali e per ciascuno degli insegnamenti indicati importano l'esame alla fine di ciascun anno.   
+I corsi di laboratorio di Fisica 1° e 2°, sia per l'indirizzo generale che per l'indirizzo applicativo, di complementi di Fisica generale 1° e 2°, di Preparazione di esperienze didattiche 1° e 2° comportano due esami distinti alla fine di ciascun anno del 2° biennio.   
+Il corso di Esperimentazione fisica comporta un esame unico alla fine del 1° biennio.   
+  
+Art. 42. - Potranno iscriversi ai corsi comuni ai tre indirizzi del 2° biennio soltanto quegli studenti che abbiano superato gli esami di Fisica generale 1° e 2° e di Analisi matematica 1° e 2°.   
+  
+Art. 43. - Si devono, inoltre, osservare le seguenti precedenze nell'ordine degli esami:   
+gli esami di Analisi matematica 1° e Fisica generale 1° devono precedere rispettivamente gli esami di Analisi matematica 2° e Fisica generale 2°;   
+gli esami di Analisi matematica 2° e Geometria 1° devono precedere l'esame di Meccanica razionale;   
+l'esame di Esperimentazione fisica deve precedere gli esami di laboratorio di fisica;   
+l'esame di Meccanica razionale deve precedere gli esami delle materie del 2° biennio stabilite dal Piano degli studi;   
+per l'indirizzo generale gli esami di Istituzione di fisica teorica, metodi matematici della Fisica e Fisica superiore, devono precedere l'esame di Fisica teorica;   
+l'esame di Laboratorio 1° deve precedere l'esame di Laboratorio 2° sia per l'indirizzo generale che per quello applicativo;   
+gli esami di Complementi di fisica generale 1° e Preparazione di esperienze didattiche 1° devono precedere rispettivamente gli esami di Complementi di Fisica generale 2° e Preparazione di esperienze didattiche 2°.   
+  
+Art. 44. - Ciascun esame constera' in una prova orale e potra' anche essere integrato da una prova scritta.   
+  
+Art. 45. - Per il conseguimento della laurea in Fisica lo studente deve presentare una dissertazione scritta sopra un argomento riguardante la fisica concordato con un professore ufficiale della Facolta'.   
+La dissertazione deve essere presentata alla segreteria dell'Universita' almeno dieci giorni prima dello esame di laurea insieme ai titoli dei due argomenti previsti dal successivo art. 46.   
+  
+Art. 46. - L'esame di laurea comprende:   
+  
+a) per l'indirizzo generale e l'indirizzo didattico:   
+1) esame di cultura generale;   
+2) relazione e discussione del lavoro scritto;   
+3) esposizione e discussione di uno o entrambi gli argomenti scelti dal candidato in materia d'insegnamento della Facolta', diversi tra di loro e da quello formante oggetto della tesi di laurea;   
+  
+b) per l'indirizzo applicativo:   
+1) esame di cultura generale;   
+2) prova pratica;   
+3) relazione e discussione del lavoro scritto;   
+4) relazione e discussione di uno o entrambi gli argomenti scelti dal candidato in materie di insegnamento della Facolta', diversi fra di loro e da quello formante oggetto della tesi di laurea.   
+Superato l'esame di laurea lo studente consegue il titolo di "dottore in Fisica", indipendentemente dall'indirizzo prescelto dal quale verra' fatta menzione nella carriera scolastica.   
+Gli articoli da 46 a 49 relativi al corso di studi per la laurea in Scienze matematiche sono abrogati e sostituiti dai seguenti:   
+  
+CORSO DI LAUREA IN MATEMATICA   
+  
+Art. 47. - La durata del corso degli studi per la laurea in matematica e' di quattro anni.   
+E' titolo di ammissione il diploma di maturita' classica o di maturita' scientifica. Possono inoltre essere ammessi i diplomati degli Istituti tecnici industriali, agrari, nautici e per geometri, ai sensi delle vigenti disposizioni di legge.   
+Il corso degli studi si distingue in tre indirizzi: generale, didattico, applicativo.   
+  
+Sono insegnamenti fondamentali obbligatori comuni a ciascun indirizzo:   
+  
+1° Anno:   
+1) Analisi matematica 1°;   
+2) Geometria 1°;   
+3) Algebra;   
+4) Fisica generale 1°;   
+  
+2° Anno:   
+1) Analisi matematica 2°;   
+2) Geometria 2°;   
+3) Meccanica razionale;   
+4) Fisica generale 2°;   
+  
+3° Anno:   
+1) Istituzioni di analisi superiore;   
+2) Istituzioni di geometrica superiore;   
+3) Istituzioni di fisica matematica.   
+  
+Sono inoltre insegnamenti fondamentali:   
+  
+a) per l'indirizzo generale:   
+  
+4° Anno:   
+1) Analisi superiore;   
+2) Geometria superiore;   
+  
+b) per l'indirizzo didattico:   
+  
+3° Anno:   
+1) Matematiche complementari;   
+  
+4° Anno:   
+1) Matematiche elementari da un punto di vista superiore;   
+  
+c) per l'indirizzo applicativo:   
+  
+3° Anno:   
+1) Calcoli numerici grafici;   
+  
+4° Anno:   
+1) Teoria ed applicazione delle macchine calcolatrici.   
+  
+Per ciascuno dei tre indirizzi lo studente, per essere ammesso all'esame di laurea, deve aver superato, oltre agli esami relativi a detti insegnamenti fondamentali, gli esami di altri due insegnamenti complementari (da seguire: per l'indirizzo generale uno al 3° e uno al 4° anno; per l'indirizzo didattico e applicativo ambedue al 4° anno).   
+Per ciascun indirizzo uno almeno degli insegnamenti complementari deve essere scelto tra i seguenti:   
+1) Astrofisica;   
+2) Chimica teorica;   
+3) Complementi di fisica generale;   
+4) Elettrologia;   
+5) Elettronica;   
+6) Fisica dello stato solido;   
+7) Fisica matematica;   
+8) Fisica delle particelle elementari;   
+9) Fisica superiore;   
+10) Fisica teorica;   
+11) Fisica terrestre;   
+12) Istituzioni di fisica nucleare;   
+13) Geodesia;   
+14) Istituzioni di fisica teorica;   
+15) Meccanica quantistica;   
+16) Meccanica statistica;   
+17) Meccanica superiore;   
+18) Ottica elettronica;   
+19) Onde elettromagnetiche;   
+20) Radioattivita';   
+21) Relativita';   
+22) Termodinamica;   
+23) Storia della fisica.   
+  
+L'ulteriore insegnamento complementare puo' essere scelto o tra gli insegnamenti fondamentali previsti per gli altri indirizzi, ovvero tra i seguenti:   
+1) Algebra superiore;   
+2) Analisi funzionale;   
+3) Astronomia;   
+4) Calcolo delle probabilita':   
+5) Chimica generale ed inorganica con elementi di organica;   
+6) Economia matematica;   
+7) Epistemologia e Metodologia;   
+8) Fisica nucleare;   
+9) Geometria algebrica;   
+10) Geometria differenziale;   
+11) Logica, matematica;   
+12) Matematica finanziaria e attuariale;   
+13) Matematiche superiori;   
+14) Meccanica analitica;   
+15) Pedagogia,   
+16) statistica matematica;   
+17) Storia delle matematiche;   
+18) Teoria delle funzioni;   
+19) Teoria dei gruppi;   
+20) Teoria dei numeri;   
+21) Topologia.   
+  
+Art. 48. - Gli insegnamenti fondamentali comuni ed i due insegnamenti fondamentali relativi all'indirizzo didattico sono accompagnati ciascuno da, un corso di esercitazioni che ne 6 parte integrante.   
+Gli insegnamenti di Geometria 2° e di Meccanica razionale sono distinti dagli analoghi insegnamenti del 2° anno di ingegneria.   
+Per gli insegnamenti comuni con il corso del biennio d'ingegneria i corsi di esercitazioni sono distinti dagli analoghi corsi per il detto biennio.   
+  
+Art. 49. - Potranno essere iscritti al 2° anno soltanto gli studenti che abbiano superato almeno due degli esami di analisi matematica I°, geometria I°, Algebra.   
+  
+Art. 50. - I corsi di Analisi matematica. Geometria e Fisica generale non debbono essere considerati come dei comuni corsi biennali e ciascuno degli insegnamenti indicati importa l'esame alla fine di ogni anno.   
+Si devono, inoltre, osservare le seguenti precedenze nell'ordine degli esami l'esame di Analisi matematica 1° deve precedere l'esame di Fisica generale 1°;   
+gli esami di Analisi matematica 1°, Geometria 1°, e Fisica generale 1° debbono precedere rispettivamente gli esami di Analisi matematica 2°, Geometria 2° e Fisica generale 2°;   
+l'esame di Algebra deve precedere l'esame di Geometria 2° e di Analisi matematica 2°;   
+l'esame di Analisi matematica 2° deve precedere l'esame di fisica generale 2°;   
+gli esami di Analisi matematica 2° e Geometria 1° debbono precedere l'esame di Meccanica razionale;   
+gli esami di Analisi matematica 2°, Geometria 2°, Meccanica razionale debbono precedere rispettivamente gli esami di istituzioni di Analisi superiore, di Istituzioni di geometria superiore e di Istituzioni di fisica matematica;   
+gli esami di Istituzioni di analisi superiore e di Istituzioni di geometria superiore debbono precedere rispettivamente gli esami di analisi superiore e geometria superiore.   
+  
+Art. 51. - Ciascun esame constera' di una prova orale e potra' anche essere integrato da una prova scritta.   
+Tale prova sara' obbligatoria solo per l'esame dell'insegnamento fondamentale previsto nel 4° anno dell'indirizzo didattico.   
+  
+Art. 52. - Per il conseguimento della laurea lo studente dovra' presentare un lavoro scritto, che per l'indirizzo generale dovra' presentare i caratteri di una ricerca originale.   
+Il lavoro scritto dovra' essere presentato alla segreteria dell'Universita' almeno quindici giorni prima dell'esame di laurea insieme ai titoli di tre tesine orali scelte per la discussione.   
+  
+Art. 53. - L'esame di laurea comprende:   
+a) per l'indirizzo didattico:   
+1) una relazione orale sul lavoro scritto;   
+2) esposizione di uno o piu' delle tre tesine scelte dal candidato;   
+  
+b) per l'indirizzo generale e applicativo:   
+1) relazione e discussione del lavoro scritto;   
+2) esposizione e discussione di uno o piu' delle tre tesine scelte dai candidato.   
+  
+Superato l'esame di laurea lo studente consegue il titolo di dottore in matematica indipendentemente dall'indirizzo prescelto del quale verra' fatta menzione soltanto nella carriera scolastica.   
+Gli articoli 50, 51, 52 relativi al corso di laurea in matematica e fisica sono soppressi.   
   
 
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a, chiunque spetti di osservarlo e di farlo osservare.
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 3 agosto 1970
+### Dato a Roma, addi' 14 marzo 1962
 
-SARAGAT MISASI
+GRONCHI GUI
 
-Visto, il Guardasigilli: REALE
+Visto, il Guardasigilli: BOSCO
 
-Registrato alla Corte dei conti, addi' 21 ottobre 1970
+Registrato alla Corte dei conti, addi' 19 maggio 1962
 
-Atti del Governo, registro n. 238, foglio n. 9. - CARUSO
+Atti del Governo, registro n. 147, foglio n. 53. - VILLA

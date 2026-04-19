@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 aprile 1967 n. 399
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 16 febbraio 1965 n. 244
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 aprile 1967 n. 399
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 16 febbraio 1965 n. 244
+===============================================================
 
 Autorizzazione alla "Fondazione Pro Juventute Don Carlo Gnocchi", con sede in Roma, ad accettare un legato.
 -----------------------------------------------------------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-399. Decreto del Presidente della Repubblica 18 aprile 1967, col quale, sulla proposta del Presidente del Consiglio dei Ministri la "Fondazione Pro Juventute Don Carlo Gnocchi", con sede in Roma, viene autorizzata ad accettare il legato, avente per oggetto una casa sita in Livorno, disposto dalla defunta signora Guidelli Elena, vedova Zaccari, nei termini e con l'obbligo di cui al testamento olografo della de cuius in data 8 settembre 1962, pubblicato con verbale a rogito dott. Enrico Masini, notaio in Milano, in data 29 gennaio 1964, n. 14.134 di repertorio, numero 5035 progr.  
+244. Decreto del Presidente della Repubblica 16 febbraio 1965, col quale, sulla proposta del Presidente del Consiglio dei Ministri la "Fondazione Pro Juventute Don Carlo Gnocchi", con sede in Roma, viene autorizzata ad accettare un legato consistente nella somma di L. 400.000 (quattrocentomila) disposto dalla defunta signora Anna Bernareggi vedova Arienti, con testamento olografo del 12 marzo 1956.  
   
 Visto, il Guardasigilli: REALE  
-Registrato alla Corte dei conti, addi' 6 giugno 1967  
-Atti del Governo, registro n. 211, foglio n. 87. - GRECO
+Registrato alla Corte dei conti, addi' 8 aprile 1965  
+Atti del Governo, registro n. 192, foglio n. 24. - VILLA

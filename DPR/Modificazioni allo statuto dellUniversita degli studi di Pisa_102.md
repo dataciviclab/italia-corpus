@@ -1,126 +1,57 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 ottobre 1960 n. 1534
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 07 ottobre 1977 n. 1096
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 ottobre 1960 n. 1534
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 07 ottobre 1977 n. 1096
 ===============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Pisa.
 ----------------------------------------------------------------
-
-IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
-
-Veduto lo statuto dell'Universita' degli studi di Pisa, approvato con [regio decreto 14 ottobre 1926, n. 2278](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2278), modificato con [regio decreto 13 ottobre 1927, n. 2225](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2225) e successivi;
-
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
-
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
-
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
-
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
-
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
-
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
-
-Sentito il parere del Consiglio superiore della pubblica istruzione;
-
-Sulla proposta del Ministro per la pubblica istruzione;
-
-Decreta:
-
-Lo statuto dell'Universita' degli studi di Pisa, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
-
-Art. 51. - Agli insegnamenti complementari del corso di laurea in lettere e' aggiunto quello di "Storia dell'urbanistica".
-
-Art. 66. - Agli insegnamenti complementari del corso di laurea in medicina e chirurgia e' aggiunto quello di "Neurochirurgia".
-
-Art. 74, relativo agli istituti della Facolta' di scienze matematiche, fisiche e naturali, e' modificato nel senso che l'Istituto e Orto botanico e' suddiviso in due Istituti cosi' denominati:
-
-"Istituto botanico";
-
-"Orto botanico".
-
-Art. 76. - Agli insegnamenti complementari del corso di laurea in chimica (indirizzo organico-biologico) aggiunto quello di "Chimica teorica".
-
-Art. 77, relativo alle modalita' di iscrizioni ed esami del corso di laurea in chimica, e' modificato nel senso che, dopo il terzo comma, viene inserito il seguente:
-
-"Lo studente, per frequentare le esercitazioni di analisi chimica applicata deve avere superato gli esami di chimica analitica e di esercitazioni di analisi di chimica quantitativa".
-
-Art. 79. - Agli insegnamenti complementari del corso di laurea in fisica e' aggiunto quello di "Fisica dei solidi".
-
-Art. 85. - Agli insegnamenti complementari del corso di laurea in matematica e fisica e' aggiunto quello di "Fisica dei solidi".
-
-Art. 93. - Agli insegnamenti complementari del corso di laurea in scienze geologiche e' aggiunto quello di "Paleontologia umana".
-
-Art. 94, relativo alle propedeuticita' di esami del corso di laurea in scienze geologiche e' modificato nel senso che l'ultimo comma e' sostituito dal seguente:
-
-"L'esame di geologia deve precedere l'esame di geologia dell'Appennino e quello di geologia applicata, l'esame di paleontologia deve precedere l'esame di micropaleontologia".
-
-Art. 101, relativo alle modalita' degli esami di laurea e' modificato nel senso che dopo il primo comma viene inserito il seguente:
-
-"L'esame di laurea in scienze geologiche ed in chimica consiste nella discussione di una dissertazione scritta e di due quesiti, di cui almeno uno sperimentale, indicati dal candidato all'atto della presentazione della dissertazione scritta".
-
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
-
-Dato a Roma, addi' 19 ottobre 1960
-
-GRONCHI
-
-BOSCO
-
-Visto, il Guardasigilli: GONELLA
-
-Registrato
-----------
-
-alla Corte dei conti, addi' 17 dicembre 1960 Atti del Governo, registro n. 132, foglio n. 100. - VILLA
 
 Art. 1
 ------
 
  IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Pisa, approvato con [regio decreto 14 ottobre 1926, n. 2278](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2278), modificato con [regio decreto 13 ottobre 1927, n. 2225](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2225) e successivi;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto lo statuto dell'Universita' di Pisa, approvato con [regio decreto 14 ottobre 1926, n. 2278](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2278) e modificato con [regio decreto 13 ottobre 1927, n. 2225](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2225), e successive modificazioni;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
 Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
 Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Pisa e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;  
 Sentito il parere del Consiglio superiore della pubblica istruzione;  
 Sulla proposta del Ministro per la pubblica istruzione;  
   
 Decreta:  
   
 Lo statuto dell'Universita' degli studi di Pisa, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-Art. 51. - Agli insegnamenti complementari del corso di laurea in lettere e' aggiunto quello di "Storia dell'urbanistica".  
-Art. 66. - Agli insegnamenti complementari del corso di laurea in medicina e chirurgia e' aggiunto quello di "Neurochirurgia".  
-Art. 74, relativo agli istituti della Facolta' di scienze matematiche, fisiche e naturali, e' modificato nel senso che l'Istituto e Orto botanico e' suddiviso in due Istituti cosi' denominati:  
-"Istituto botanico";  
-"Orto botanico".  
-Art. 76. - Agli insegnamenti complementari del corso di laurea in chimica (indirizzo organico-biologico) aggiunto quello di "Chimica teorica".  
-Art. 77, relativo alle modalita' di iscrizioni ed esami del corso di laurea in chimica, e' modificato nel senso che, dopo il terzo comma, viene inserito il seguente:  
-"Lo studente, per frequentare le esercitazioni di analisi chimica applicata deve avere superato gli esami di chimica analitica e di esercitazioni di analisi di chimica quantitativa".  
-Art. 79. - Agli insegnamenti complementari del corso di laurea in fisica e' aggiunto quello di "Fisica dei solidi".  
-Art. 85. - Agli insegnamenti complementari del corso di laurea in matematica e fisica e' aggiunto quello di "Fisica dei solidi".  
-Art. 93. - Agli insegnamenti complementari del corso di laurea in scienze geologiche e' aggiunto quello di "Paleontologia umana".  
-Art. 94, relativo alle propedeuticita' di esami del corso di laurea in scienze geologiche e' modificato nel senso che l'ultimo comma e' sostituito dal seguente:  
-"L'esame di geologia deve precedere l'esame di geologia dell'Appennino e quello di geologia applicata, l'esame di paleontologia deve precedere l'esame di micropaleontologia".  
-Art. 101, relativo alle modalita' degli esami di laurea e' modificato nel senso che dopo il primo comma viene inserito il seguente:  
-"L'esame di laurea in scienze geologiche ed in chimica consiste nella discussione di una dissertazione scritta e di due quesiti, di cui almeno uno sperimentale, indicati dal candidato all'atto della presentazione della dissertazione scritta".  
+Art. 62 - all'elenco degli insegnamenti complementari del corso di laurea in lettere sono aggiunti i seguenti:  
+filologia dantesca;  
+teoria e tecnica dei mezzi di comunicazione audiovisiva.  
+Art. 63 - all'elenco degli insegnamenti complementari del corso di laurea in filosofia e' aggiunto quello di:  
+psicologia dinamica.  
+Art. 64 - all'elenco degli insegnamenti complementari del corso di laurea in lingue e letterature straniere moderne sono aggiunti i seguenti:  
+storia della lingua inglese;  
+storia della lingua francese.  
+Art. 99 - all'elenco degli insegnamenti complementari del corso di laurea in scienze biologiche sono aggiunti i seguenti:  
+genetica di popolazione;  
+genetica umana;  
+genetica dei microrganismi;  
+biochimica applicata;  
+genetica dei protozoi;  
+immunologia;  
+citogenetica.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 19 ottobre 1960
+### Dato a Roma, addi' 7 ottobre 1977
 
-GRONCHI BOSCO
+LEONE MALFATTI
 
-Visto, il Guardasigilli: GONELLA
+Visto, il Guardasigilli: BONIFACIO
 
-Registrato alla Corte dei conti, addi' 17 dicembre 1960
+Registrato alla Corte dei conti, addi' 15 febbraio 1978
 
-Atti del Governo, registro n. 132, foglio n. 100. - VILLA
+Registro n. 18 Istruzione, foglio n. 276

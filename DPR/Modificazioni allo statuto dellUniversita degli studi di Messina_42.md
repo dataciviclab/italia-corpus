@@ -1,22 +1,75 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1972 n. 1012
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 16 febbraio 1967 n. 133
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1972 n. 1012
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 16 febbraio 1967 n. 133
 ===============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Messina.
 -------------------------------------------------------------------
+
+IL PRESIDENTE DELLA REPUBBLICA
+------------------------------
+
+Veduto lo statuto dell'Universita' degli studi di Messina, approvato con [regio decreto 20 aprile 1939, numero 1090](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1090) e modificato con [regio decreto 26 ottobre 1940, n. 1905](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;1905), e successive modificazioni;
+
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
+
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
+
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
+
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
+
+Sentito il parere del Consiglio superiore della pubblica istruzione;
+
+Sulla proposta del Ministro per la pubblica istruzione;
+
+Decreta:
+
+Lo statuto dell'Universita' degli studi di Messina, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+
+Art. 35. - All'elenco degli insegnamenti complementari del corso di laurea in Scienze naturali e' aggiunto quello di: "Microbiologia".
+
+Art. 53. - All'elenco degli insegnamenti complementari del corso di laurea in Fisica - per gli indirizzi: generale, didattico e applicativo, e' aggiunto quello di:
+
+"Fisica terrestre".
+
+Art. 64, relativo agli Istituti annessi alla Facolta' di farmacia, e' modificato nel senso che gli Istituti di "Biochimica applicata" e di "Chimica organica" e di "Farmacognosia" cambiano rispettivamente denominazione in quelli di: "Biochimica applicata" e di "Farmacologia e farmacognosia".
+
+Art. 65. - All'elenco degli insegnamenti complementari del corso di laurea in Farmacia e' aggiunto quello di: "Chimica farmaceutica applicata".
+
+Art. 142. - Il corso di specializzazione in Farmacognosia cambia denominazione in "Scuola di specializzazione in farmacognosia". Di conseguenza la stessa denominazione verra' assunta nei rispettivi articoli attinenti alla suddetta Scuola.
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 16 febbraio 1967
+
+SARAGAT
+
+GUI
+
+Visto, il Guardasigilli: REALE
+
+Registrato
+----------
+
+alla Corte dei conti, addi' 23 marzo 1967 Atti del Governo, registro n. 210, foglio n. 51. - GRECO
 
 Art. 1
 ------
 
  IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Messina, approvato con [regio decreto 20 aprile 1939, numero 1090](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1090) e modificato con [regio decreto 26 ottobre 1940 n. 1905](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;1905), e successive modificazioni;  
+Veduto lo statuto dell'Universita' degli studi di Messina, approvato con [regio decreto 20 aprile 1939, numero 1090](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1090) e modificato con [regio decreto 26 ottobre 1940, n. 1905](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;1905), e successive modificazioni;  
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;  
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
 Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
 Sentito il parere del Consiglio superiore della pubblica istruzione;  
 Sulla proposta del Ministro per la pubblica istruzione;  
@@ -24,33 +77,23 @@ Sulla proposta del Ministro per la pubblica istruzione;
 Decreta:  
   
 Lo statuto dell'Universita' degli studi di Messina, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-  
-Dopo l'art. 19, e con il conseguente spostamento della successiva numerazione, vengono inseriti i seguenti nuovi articoli relativi alla creazione dell'istituto di scienze sociali annesso alla facolta' di scienze politiche.  
-  
-Istituto di scienze sociali  
-  
-Art. 20. - E' costituito l'istituto di scienze sociali della facolta' di scienze politiche dell'Universita' di Messina.  
-Art. 21. - Sono compiti dell'istituto organizzare e gestire la biblioteca della facolta', promuovere e realizzare, di concerto con la facolta', iniziative culturali, anche mediante pubblicazioni, per contribuire al progresso delle scienze sociali.  
-Art. 22. - L'istituto e' unico e si articola nelle seguenti sezioni:  
-a) Scienze economiche, b) Scienze giuridiche, c) Scienze storiche, d) Scienze sociologiche, e) Lingue straniere.  
-Art. 23. - L'attivita' e il funzionamento di ciascuna sezione sono coordinati da un professore designato dal consiglio di facolta'.  
-Art. 24. - Un comitato tecnico, composto da cinque professori designati ai sensi dell'articolo precedente, attende allo svolgimento dei compiti di cui all'art. 21 e all'organizzazione generale dell'istituto, predispone i programmi di sviluppo della biblioteca e regola e coordina l'attivita' di ricerca nell'ambito dell'istituto.  
-Art. 25. - Su proposta del consiglio di facolta', il rettore nomina un direttore dell'istituto per la durata di anni tre, il quale svolge le sue funzioni sulla base delle determinazioni del comitato tecnico assumendo, ove occorra, le decisioni necessarie per assicurare il regolare funzionamento dell'istituto.  
-Spetta, inoltre, al direttore di provvedere alla destinazione e all'amministrazione dei fondi dell'istituto, alla conservazione del patrimonio e alla direzione interna del personale.  
-Art. 26. - Il personale amministrativo e ausiliario dell'istituto e' fornito dall'amministrazione universitaria.  
-Un capo ufficio e' responsabile dei servizi amministrativi e contabili nei confronti del direttore dell'istituto.  
-Art. 27. - Il comitato tecnico, anche su proposta del direttore dell'istituto puo' chiamare a collaborare allo svolgimento dell'attivita' culturale dell'istituto, borsisti, laureati entro il quinquennio e studenti della facolta' di scienze politiche.  
+Art. 35. - All'elenco degli insegnamenti complementari del corso di laurea in Scienze naturali e' aggiunto quello di: "Microbiologia".  
+Art. 53. - All'elenco degli insegnamenti complementari del corso di laurea in Fisica - per gli indirizzi: generale, didattico e applicativo, e' aggiunto quello di:  
+"Fisica terrestre".  
+Art. 64, relativo agli Istituti annessi alla Facolta' di farmacia, e' modificato nel senso che gli Istituti di "Biochimica applicata" e di "Chimica organica" e di "Farmacognosia" cambiano rispettivamente denominazione in quelli di: "Biochimica applicata" e di "Farmacologia e farmacognosia".  
+Art. 65. - All'elenco degli insegnamenti complementari del corso di laurea in Farmacia e' aggiunto quello di: "Chimica farmaceutica applicata".  
+Art. 142. - Il corso di specializzazione in Farmacognosia cambia denominazione in "Scuola di specializzazione in farmacognosia". Di conseguenza la stessa denominazione verra' assunta nei rispettivi articoli attinenti alla suddetta Scuola.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 31 ottobre 1972
+### Dato a Roma, addi' 16 febbraio 1967
 
-LEONE SCALFARO
+SARAGAT GUI
 
-Visto, il Guardasigilli: GONELLA
+Visto, il Guardasigilli: REALE
 
-Registrato alla Corte dei conti, addi' 16 febbraio 1973
+Registrato alla Corte dei conti, addi' 23 marzo 1967
 
-Atti di Governo, registro n. 255, foglio n. 111. - VALENTINI
+Atti del Governo, registro n. 210, foglio n. 51. - GRECO

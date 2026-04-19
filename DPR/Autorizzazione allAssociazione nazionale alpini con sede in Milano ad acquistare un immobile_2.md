@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 dicembre 1973 n. 1002
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 maggio 1967 n. 407
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 dicembre 1973 n. 1002
-================================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 maggio 1967 n. 407
+=============================================================
 
 Autorizzazione all'Associazione nazionale alpini, con sede in Milano, ad acquistare un immobile.
 ------------------------------------------------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-1002. Decreto del Presidente della Repubblica 14 dicembre 1973, col quale, sulla proposta del Ministro per la difesa, l'Associazione nazionale alpini, con sede in Milano, viene autorizzata ad acquistare, per costruirvi una baita da utilizzare come sede per le vacanze estive dei figli degli associati, dal comune di Ferrara di Monte Baldo, al prezzo di L. 250 al metro quadrato, l'appezzamento di terreno della superficie di mq. 3.165 situato in localita' Albare' di quel comune e censito nel catasto del comune stesso alla sezione A, foglio VI, n. 19 v.  
+407. Decreto del Presidente della Repubblica 19 maggio 1967, col quale, sulla proposta del Ministro per la difesa, l'Associazione nazionale alpini, con sede in Milano, viene autorizzata ad acquistare dal comune di Vadeseta, al prezzo di L. 250.000, un appezzamento di terreno di mq. 990, situato a quota 1980, in comune censuario di Barzio (corrispondente alla porzione b del mappale 1770), da utilizzare per l'ampliamento del rifugio Cazzaniga di proprieta' della Sezione di Lecco dell'Associazione stessa.  
   
-Visto, il Guardasigilli: ZAGARI  
-Registrato alla Corte dei conti, addi' 8 febbraio 1974  
-Atti di Governo, registro n. 1, foglio n. 61. - CARUSO
+Visto, il Guardasigilli: REALE  
+Registrato alla Corte dei conti, addi' 13 giugno 1967  
+Atti del Governo, registro n. 211, foglio n. 121. - GRECO

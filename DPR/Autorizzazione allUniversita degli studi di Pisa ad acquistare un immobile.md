@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 settembre 1972 n. 754
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 marzo 1966 n. 269
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 settembre 1972 n. 754
-================================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 marzo 1966 n. 269
+============================================================
 
 Autorizzazione all'Universita' degli studi di Pisa ad acquistare un immobile.
 -----------------------------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-754. Decreto del Presidente della Repubblica 22 settembre 1972, col quale, sulla proposta del Ministro per la pubblica istruzione, il decreto del [Presidente della Repubblica n. 1370 in data 18 luglio 1967](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1967-07-18;1370) viene revocato. L'Universita' degli studi di Pisa, inoltre, viene autorizzata ad acquistare un immobile sito in Pisa, via Pasquale Paoli, descritto nel nuovo catasto edilizio urbano alla partita 1639, foglio n. 120, particelle 219, 220 sub 1, 226, 356, 220 sub 2, 3, 4, 5, 6, 7 e 8-G, 351, al prezzo di L. 180.000.000.  
+269. Decreto del Presidente della Repubblica 28 marzo 1966, col quale, sulla proposta del Ministro per la pubblica istruzione, l'Universita' degli studi di Pisa viene autorizzata ad acquistare dall'ing. Paolo Sortino, al prezzo di L. 26.400.000 (lire ventiseimilioniquattrocentomila), un appezzamento di terreno di mq. 3680, sito in Pisa, via Bonanno, iscritto al catasto terreni nel foglio n. 27, part. 18.  
   
-Visto, il Guardasigilli: GONELLA  
-Registrato alla Corte dei conti, addi' 29 novembre 1972  
-Atti del Governo, registro n. 253, foglio n. 90. - CARUSO
+Visto, il Guardasigilli: REALE  
+Registrato alla Corte dei conti, addi' 9 maggio 1966  
+Atti del Governo, registro n. 203, foglio n. 24. - VILLA

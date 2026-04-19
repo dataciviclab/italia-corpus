@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 marzo 1983 n. 897
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 15 luglio 1983 n. 918
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 marzo 1983 n. 897
-============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 15 luglio 1983 n. 918
+=============================================================
 
 Modificazione allo statuto dell'Istituto universitario navale di Napoli.
 ------------------------------------------------------------------------
@@ -39,19 +39,17 @@ Articolo unico
 --------------
 
   
-Nell'art. 20, relativo alla facolta' di economia marittima, all'elenco degli insegnamenti complementari e' inclusa la seguente nuova disciplina:  
-storia economica dell'eta' moderna.  
+Nell'art. 14, relativo al corso di laurea in scienze nautiche, all'elenco degli insegnamenti complementari e' aggiunto il seguente nuovo insegnamento:  
+elettromagnetismo.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 28 marzo 1983
+### Dato a Roma, addi' 15 luglio 1983
 
 PERTINI FALCUCCI
 
 Visto, il Guardasigilli: MARTINAZZOLI
 
-Registrato alla Corte dei conti, addi' 30 gennaio 1984
-
-Registro n. 5 Istruzione, foglio n. 9
+Registrato alla Corte dei conti, addi' 30 gennaio 1984 Registro n. 5 Istruzione foglio n. 8

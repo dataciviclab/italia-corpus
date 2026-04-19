@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 29 maggio 1981 n. 554
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1973 n. 1202
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 29 maggio 1981 n. 554
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1973 n. 1202
+===============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Milano.
 ------------------------------------------------------------------
@@ -10,7 +10,7 @@ Modificazioni allo statuto dell'Universita' degli studi di Milano.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' di Milano, approvato con [regio decreto 4 novembre 1926, n. 2280](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-11-04;2280) e modificato con [regio decreto 13 ottobre 1927, n. 2233](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2233), e successive modificazioni;
+Veduto lo statuto dell'Universita' degli studi di Milano, approvato con [regio decreto 4 novembre 1926, n. 2280](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-11-04;2280), e modificato con [regio decreto 26 ottobre 1940, n. 2056](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;2056), e successive modificazioni;
 
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
@@ -18,73 +18,283 @@ Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it
 
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
 
-Veduta la [legge 22 maggio 1978, n. 217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-05-22;217);
-
 Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Milano e convalidati dal Consiglio universitario nazionale nel suo parere;
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
 
-Sentito il parere del Consiglio universitario nazionale;
+Sentito il parere del Consiglio superiore della pubblica istruzione;
 
-Sulla
------
+Sulla proposta del Ministro per la pubblica istruzione;
 
-proposta del Ministro della pubblica istruzione; Decreta:
+Decreta:
+
+Lo statuto dell'Universita' degli studi di Milano, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+
+Art. 140 - il punto 6) e' modificato nel senso che il numero degli iscritti da ammettere alla scuola di specializzazione in "Psicologia" e' stabilito in trentacinque per il primo anno di corso (totale centocinque iscritti).
+
+Art. 144 - il punto 2) e' modificato nel senso che il numero degli iscritti da ammettere alla scuola di specializzazione in "Psicologia" e' stabilito in trentacinque.
+
+Art. 148 - l'elenco delle scuole di specializzazione annesse alla facolta' di medicina e chirurgia e' modificato nel senso che la scuola in "Scienza dell'alimentazione e dietetica" muta la denominazione in quella di scuola in "Scienza dell'alimentazione".
+
+Art. 161 - il secondo comma e' modificato nel senso che il numero degli iscritti da ammettere alla scuola di specializzazione in "Anatomia ed istologia patologica e tecniche di laboratorio" e' stabilito in quindici per il primo anno di corso.
+
+Art. 163 - il secondo comma e' modificato nel senso che il numero degli iscritti da ammettere alla scuola di specializzazione in "Anestesiologia e rianimazione" e' stabilito in cinquanta per il primo anno di corso.
+
+Art. 167 - e' modificato nel senso che il numero degli iscritti da ammettere alla scuola di specializzazione in "Angiologia e in angiologia e chirurgia vascolare" e' stabilito in quarantaquattro per i tre anni di corso.
+
+Art. 179 - il secondo comma e' modificato nel senso che il numero degli iscritti da ammettere alla scuola di specializzazione in "Cardiologia" e' stabilito in quindici per il primo anno di corso.
+
+Art. 180 - il secondo comma e' modificato nel senso che il numero degli iscritti da ammettere alla scuola di specializzazione in "Chirurgia" e' stabilito in trentatre' per il primo anno di corso.
+
+Art. 198 - il secondo comma e' modificato nel senso che il numero degli iscritti da ammettere alla scuola di specializzazione in "Dermatologia e venereologia" e' stabilito in venti per il primo anno di corso.
+
+Art. 199 - il terzo comma e' modificato nel senso che il numero degli iscritti da ammettere alla scuola di specializzazione in "Ematologia clinica e di laboratorio" e' stabilito in venti per il primo anno di corso.
+
+Art. 200 - il secondo comma e' modificato nel senso che il numero degli iscritti da ammettere alla scuola di specializzazione in "Farmacologia applicata all'industria" e' stabilito in quindici per il primo anno di corso.
+
+Art. 201 - il secondo comma e' modificato nel senso che il numero degli iscritti da ammettere alla scuola di specializzazione in "Idrologia, climatologia e talassoterapia" e' stabilito in dieci per il primo anno di corso.
+
+Art. 207 - l'ultimo comma e' modificato nel senso che il numero degli iscritti da ammettere alla scuola di specializzazione in "Malattie dell'apparato digerente" e' stabilito in quindici per il primo anno di corso.
+
+Art. 213 - il primo comma e' modificato nel senso che il numero degli iscritti da ammettere alla scuola di specializzazione in "Medicina fisica e riabilitazione" e' stabilito in quindici per il primo anno di corso.
+
+Art. 227 - il terzo comma e' modificato nel senso che il numero degli iscritti da ammettere alla scuola di specializzazione in "Nefrologia medica" e' stabilito in dodici per il primo anno di corso.
+
+Art. 235 - il secondo comma e' modificato nel senso che il numero degli iscritti da ammettere alla scuola di specializzazione in "Ortopedia e traumatologia" e' stabilito in trenta per il primo anno di corso.
+
+Art. 236 - il secondo comma e' modificato nel senso che il numero degli iscritti da ammettere alla scuola di specializzazione in "Ostetricia e ginecologia" e' stabilito in venticinque per il primo anno di corso.
+
+Art. 239 - il settimo comma e' modificato nel senso che il numero degli iscritti da ammettere alla scuola di specializzazione in "Psichiatria" e' stabilito in venti per il primo anno di corso.
+
+Gli articoli 250 e 251, relativi alla scuola di specializzazione in "Scienza dell'alimentazione e dietetica" che muta la denominazione in quella di scuola di specializzazione in "Scienza dell'alimentazione", sono abrogati e sostituiti dai seguenti:
+
+Scuola di specializzazione in scienza dell'alimentazione
+
+Art. 250. - La durata del corso e' di tre anni. Il numero degli iscritti alla scuola e' fissato ad un massimo di venti per ogni anno di corso.
+
+Direttore della scuola e' il professore ufficiale di chimica biologica.
+
+La scuola di specializzazione in scienza dell'alimentazione e' articolata in tre indirizzi:
+
+1) indirizzo dietetico;
+
+2) indirizzo nutrizionistico;
+
+3) indirizzo tecnologico.
+
+L'indirizzo dietetico mira ad approfondire nei medici le basi teoriche e pratiche di fondamentale importanza per la dietetica preventiva e curativa ed a stimolare altresi' la ricerca scientifica nel vasto campo della nutrizione umana.
+
+A tale indirizzo possono iscriversi soltanto i laureati in medicina e chirurgia.
+
+L'indirizzo nutrizionistico mira alla preparazione specialistica di laureati in settori concernenti lo studio di problemi generali e speciali dell'alimentazione negli aspetti fisiologici, biochimici, igienici, ecologici, economico-sociali, nonche' a stimolare la ricerca scientifica nei sopracitati settori.
+
+A tale indirizzo sono ammessi i laureati in chimica e tecnologia farmaceutiche, in farmacia, in medicina e chirurgia, in medicina veterinaria, in scienze biologiche, in scienze naturali.
+
+L'indirizzo tecnologico mira alla preparazione di laureati per le attivita' direttive in settori concernenti le tecnologie alimentari in funzione dei loro riflessi nutrizionali ed igienici sul prodotto finito, nonche' a stimolare la ricerca in questo settore.
+
+A tale indirizzo sono ammessi i laureati in chimica, chimica e tecnologia farmaceutiche, farmacia, ingegneria chimica, scienze agrarie, scienze biologiche, scienza delle preparazioni alimentari.
+
+L'attivazione di quest'ultimo indirizzo e' facoltativo nelle singole scuole.
+
+Art. 251. - Gli insegnamenti del primo biennio della scuola saranno comuni ai tre indirizzi; gli insegnamenti speciali, che qualificano i tre indirizzi, saranno svolti nel terzo anno.
+
+Le materie di insegnamento sono le seguenti:
+
+1° Anno (comuni ai tre indirizzi):
+
+Chimica degli alimenti;
+
+Biochimica della nutrizione;
+
+Fisiologia generale della nutrizione;
+
+Istituzioni di statistica applicata ai problemi alimentari.
+
+2° Anno (comuni al tre indirizzi):
+
+Fisiologia della nutrizione umana;
+
+Igiene alimentare ed elementi di legislazione;
+
+Istituzioni di tecnologie alimentari;
+
+Biochimica patologica della nutrizione.
+
+3° Anno:
+
+A) Indirizzo dietetico:
+
+Alimentazione umana;
+
+Dietetica nell'eta' adulta;
+
+Dietetica nell'infanzia;
+
+Dietetica per le collettivita';
+
+Malattie dell'alimentazione e dietoterapia;
+
+Dietetica ospedaliera e organizzazione dei relativi servizi.
+
+B) Indirizzo nutrizionistico:
+
+Alimentazione umana;
+
+Alimentazione degli animali da allevamento e da lavoro;
+
+Ecologia e geografia dell'alimentazione;
+
+Economia e statistica applicata all'alimentazione;
+
+Tecnica dei rilevamenti alimentari;
+
+Analisi chimiche degli alimenti; additivi chimici, sofisticazioni e adulterazioni alimentari.
+
+C) Indirizzo tecnologico:
+
+Microbiologia e chimica delle fermentazioni nell'industria alimentare;
+
+Tecnologie industriali di preparazione, conservazione e confezionamento degli alimenti di origine animale;
+
+Tecnologie industriali di preparazione, conservazione e confezionamento degli alimenti di origine vegetale;
+
+Analisi chimiche degli alimenti, additivi chimici sofisticazioni e adulterazioni alimentari.
+
+I corsi sopraindicati possono essere integrati da insegnamenti complementari, nonche' da conferenze su argomenti speciali (psicologia della alimentazione, antropologia nutrizionale, organizzazione della vigilanza e del controllo sulla produzione e commercio degli alimenti e bevande, ecc.).
+
+Al termine di ciascun anno si avra' un solo esame generale, che sara' effettuato a gruppo dai docenti delle varie discipline.
+
+La specializzazione sara' conseguita dopo la discussione di una apposita tesi.
+
+Art. 252 - il terzo comma e' modificato nel senso che il numero degli iscritti da ammettere alla scuola di specializzazione in "Tisiologia e malattie dell'apparato respiratorio" e' stabilito in diciotto per il primo anno di corso.
+
+Art. 253 - il terzo comma e' modificato nel senso che il numero degli iscritti da ammettere alla scuola di specializzazione in "Urologia" e' stabilito in quattordici per il primo anno di corso.
+
+L'ordinamento della scuola di specializzazione in "Allergologia e immunologia clinica" istituita con [decreto del Presidente della Repubblica 7 giugno 1972, n. 421](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1972-06-07;421), e' modificato nel senso che il numero degli iscritti da ammettere alla scuola e' stabilito in dieci per il primo anno di corso.
+
+L'ordinamento della scuola di specializzazione in "Reumatologia" istituita con [decreto del Presidente della Repubblica 22 settembre 1972, n. 681](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1972-09-22;681), e' modificato nel senso che il numero degli iscritti da ammettere alla scuola e' stabilito in dieci per il primo anno di corso.
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 31 ottobre 1973
+
+LEONE
+
+MALFATTI
+
+Visto, il Guardasigilli: REALE
+
+Registrato
+----------
+
+alla Corte dei conti, addi' 27 gennaio 1975 Atti di Governo, registro n. 8, foglio n. 65
 
 Art. 1
 ------
 
+ IL PRESIDENTE DELLA REPUBBLICA  
   
-Lo statuto dell'Universita' di Milano, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-Art. 148 - all'elenco delle scuole di specializzazione in medicina e chirurgia e' aggiunta la scuola di specializzazione in patologia della riproduzione umana.  
-
-Art. 2
-------
-
+Veduto lo statuto dell'Universita' degli studi di Milano, approvato con [regio decreto 4 novembre 1926, n. 2280](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-11-04;2280), e modificato con [regio decreto 26 ottobre 1940, n. 2056](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;2056), e successive modificazioni;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
+Sentito il parere del Consiglio superiore della pubblica istruzione;  
+Sulla proposta del Ministro per la pubblica istruzione;  
   
-Dopo l'art. 264, e con il conseguente spostamento della numerazione successiva, sono inseriti i seguenti nuovi articoli relativi alla istituzione della scuola di specializzazione in patologia della riproduzione umana.  
+Decreta:  
   
-Scuola di specializzazione in patologia della riproduzione umana  
+Lo statuto dell'Universita' degli studi di Milano, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+Art. 140 - il punto 6) e' modificato nel senso che il numero degli iscritti da ammettere alla scuola di specializzazione in "Psicologia" e' stabilito in trentacinque per il primo anno di corso (totale centocinque iscritti).  
+Art. 144 - il punto 2) e' modificato nel senso che il numero degli iscritti da ammettere alla scuola di specializzazione in "Psicologia" e' stabilito in trentacinque.  
+Art. 148 - l'elenco delle scuole di specializzazione annesse alla facolta' di medicina e chirurgia e' modificato nel senso che la scuola in "Scienza dell'alimentazione e dietetica" muta la denominazione in quella di scuola in "Scienza dell'alimentazione".  
+Art. 161 - il secondo comma e' modificato nel senso che il numero degli iscritti da ammettere alla scuola di specializzazione in "Anatomia ed istologia patologica e tecniche di laboratorio" e' stabilito in quindici per il primo anno di corso.  
+Art. 163 - il secondo comma e' modificato nel senso che il numero degli iscritti da ammettere alla scuola di specializzazione in "Anestesiologia e rianimazione" e' stabilito in cinquanta per il primo anno di corso.  
+Art. 167 - e' modificato nel senso che il numero degli iscritti da ammettere alla scuola di specializzazione in "Angiologia e in angiologia e chirurgia vascolare" e' stabilito in quarantaquattro per i tre anni di corso.  
+Art. 179 - il secondo comma e' modificato nel senso che il numero degli iscritti da ammettere alla scuola di specializzazione in "Cardiologia" e' stabilito in quindici per il primo anno di corso.  
+Art. 180 - il secondo comma e' modificato nel senso che il numero degli iscritti da ammettere alla scuola di specializzazione in "Chirurgia" e' stabilito in trentatre' per il primo anno di corso.  
+Art. 198 - il secondo comma e' modificato nel senso che il numero degli iscritti da ammettere alla scuola di specializzazione in "Dermatologia e venereologia" e' stabilito in venti per il primo anno di corso.  
+Art. 199 - il terzo comma e' modificato nel senso che il numero degli iscritti da ammettere alla scuola di specializzazione in "Ematologia clinica e di laboratorio" e' stabilito in venti per il primo anno di corso.  
+Art. 200 - il secondo comma e' modificato nel senso che il numero degli iscritti da ammettere alla scuola di specializzazione in "Farmacologia applicata all'industria" e' stabilito in quindici per il primo anno di corso.  
+Art. 201 - il secondo comma e' modificato nel senso che il numero degli iscritti da ammettere alla scuola di specializzazione in "Idrologia, climatologia e talassoterapia" e' stabilito in dieci per il primo anno di corso.  
+Art. 207 - l'ultimo comma e' modificato nel senso che il numero degli iscritti da ammettere alla scuola di specializzazione in "Malattie dell'apparato digerente" e' stabilito in quindici per il primo anno di corso.  
+Art. 213 - il primo comma e' modificato nel senso che il numero degli iscritti da ammettere alla scuola di specializzazione in "Medicina fisica e riabilitazione" e' stabilito in quindici per il primo anno di corso.  
+Art. 227 - il terzo comma e' modificato nel senso che il numero degli iscritti da ammettere alla scuola di specializzazione in "Nefrologia medica" e' stabilito in dodici per il primo anno di corso.  
+Art. 235 - il secondo comma e' modificato nel senso che il numero degli iscritti da ammettere alla scuola di specializzazione in "Ortopedia e traumatologia" e' stabilito in trenta per il primo anno di corso.  
+Art. 236 - il secondo comma e' modificato nel senso che il numero degli iscritti da ammettere alla scuola di specializzazione in "Ostetricia e ginecologia" e' stabilito in venticinque per il primo anno di corso.  
+Art. 239 - il settimo comma e' modificato nel senso che il numero degli iscritti da ammettere alla scuola di specializzazione in "Psichiatria" e' stabilito in venti per il primo anno di corso.  
+Gli articoli 250 e 251, relativi alla scuola di specializzazione in "Scienza dell'alimentazione e dietetica" che muta la denominazione in quella di scuola di specializzazione in "Scienza dell'alimentazione", sono abrogati e sostituiti dai seguenti:  
   
-Art. 265. - Presso l'istituto di clinica ostetrica e ginecologica II e' istituita la scuola di patologia della riproduzione umana, la quale ha lo scopo di conferire un'adeguata preparazione nella fisiologia della riproduzione e nei problemi ad essa collegati, nonche' di curare lo studio degli aspetti sociologici, demografici e della pianificazione familiare inerenti alla disciplina. Le norme generali sono quelle previste dallo statuto generale dell'Universita' di Milano (da art. 149 a art. 160).  
-Art. 266. - La durata del corso e' di tre anni, l'ammissione alla scuola avviene previo esame di concorso per titoli ed esami; il numero di posti disponibili e' fissato in venti per anno di corso.  
-Non e' ammessa la abbreviazione della durata del corso; gli iscritti hanno l'obbligo della frequenza alle lezioni, alle esercitazioni e ai seminari.  
-Art. 267. - Le materie di insegnamento sono:  
-1° Anno:  
-biologia generale della riproduzione;  
-embriologia e anatomia dell'apparato riproduttivo umano;  
-fisiologia della riproduzione umana;  
-genetica umana;  
-immunologia e patologia della riproduzione umana.  
-2° Anno:  
-fisiopatologia della riproduzione umana;  
-anatomia e istologia patologica dell'apparato riproduttivo;  
-endocrinologia ginecologica;  
-andrologia;  
-teratologia;  
-patologia della gravidanza;  
-urologia e patologia della riproduzione umana.  
+Scuola di specializzazione in scienza dell'alimentazione  
+  
+Art. 250. - La durata del corso e' di tre anni. Il numero degli iscritti alla scuola e' fissato ad un massimo di venti per ogni anno di corso.  
+Direttore della scuola e' il professore ufficiale di chimica biologica.  
+La scuola di specializzazione in scienza dell'alimentazione e' articolata in tre indirizzi:  
+1) indirizzo dietetico;  
+2) indirizzo nutrizionistico;  
+3) indirizzo tecnologico.  
+L'indirizzo dietetico mira ad approfondire nei medici le basi teoriche e pratiche di fondamentale importanza per la dietetica preventiva e curativa ed a stimolare altresi' la ricerca scientifica nel vasto campo della nutrizione umana.  
+A tale indirizzo possono iscriversi soltanto i laureati in medicina e chirurgia.  
+L'indirizzo nutrizionistico mira alla preparazione specialistica di laureati in settori concernenti lo studio di problemi generali e speciali dell'alimentazione negli aspetti fisiologici, biochimici, igienici, ecologici, economico-sociali, nonche' a stimolare la ricerca scientifica nei sopracitati settori.  
+A tale indirizzo sono ammessi i laureati in chimica e tecnologia farmaceutiche, in farmacia, in medicina e chirurgia, in medicina veterinaria, in scienze biologiche, in scienze naturali.  
+L'indirizzo tecnologico mira alla preparazione di laureati per le attivita' direttive in settori concernenti le tecnologie alimentari in funzione dei loro riflessi nutrizionali ed igienici sul prodotto finito, nonche' a stimolare la ricerca in questo settore.  
+A tale indirizzo sono ammessi i laureati in chimica, chimica e tecnologia farmaceutiche, farmacia, ingegneria chimica, scienze agrarie, scienze biologiche, scienza delle preparazioni alimentari.  
+L'attivazione di quest'ultimo indirizzo e' facoltativo nelle singole scuole.  
+Art. 251. - Gli insegnamenti del primo biennio della scuola saranno comuni ai tre indirizzi; gli insegnamenti speciali, che qualificano i tre indirizzi, saranno svolti nel terzo anno.  
+Le materie di insegnamento sono le seguenti:  
+  
+1° Anno (comuni ai tre indirizzi):  
+Chimica degli alimenti;  
+Biochimica della nutrizione;  
+Fisiologia generale della nutrizione;  
+Istituzioni di statistica applicata ai problemi alimentari.  
+  
+2° Anno (comuni al tre indirizzi):  
+Fisiologia della nutrizione umana;  
+Igiene alimentare ed elementi di legislazione;  
+Istituzioni di tecnologie alimentari;  
+Biochimica patologica della nutrizione.  
+  
 3° Anno:  
-nosografia della patologia della riproduzione umana;  
-diagnostica della patologia della riproduzione umana;  
-terapia medica della patologia della riproduzione umana;  
-trattamento chirurgico della patologia della riproduzione umana;  
-elementi di psicologia medica e sessuologia;  
-educazione sociologica e demografica.  
-Art. 268. - Gli iscritti alla scuola debbono sostenere esami annuali di profitto e l'esame finale di diploma.  
-La prova di profitto e' unica e viene espletata nel mese di ottobre. Gli esami si svolgono per gruppi di materie.  
-Per il conseguimento del diploma, il candidato deve presentare e discutere una dissertazione scritta con contributo personale.  
+A) Indirizzo dietetico:  
+Alimentazione umana;  
+Dietetica nell'eta' adulta;  
+Dietetica nell'infanzia;  
+Dietetica per le collettivita';  
+Malattie dell'alimentazione e dietoterapia;  
+Dietetica ospedaliera e organizzazione dei relativi servizi.  
+B) Indirizzo nutrizionistico:  
+Alimentazione umana;  
+Alimentazione degli animali da allevamento e da lavoro;  
+Ecologia e geografia dell'alimentazione;  
+Economia e statistica applicata all'alimentazione;  
+Tecnica dei rilevamenti alimentari;  
+Analisi chimiche degli alimenti; additivi chimici, sofisticazioni e adulterazioni alimentari.  
+C) Indirizzo tecnologico:  
+Microbiologia e chimica delle fermentazioni nell'industria alimentare;  
+Tecnologie industriali di preparazione, conservazione e confezionamento degli alimenti di origine animale;  
+Tecnologie industriali di preparazione, conservazione e confezionamento degli alimenti di origine vegetale;  
+Analisi chimiche degli alimenti, additivi chimici sofisticazioni e adulterazioni alimentari.  
+  
+I corsi sopraindicati possono essere integrati da insegnamenti complementari, nonche' da conferenze su argomenti speciali (psicologia della alimentazione, antropologia nutrizionale, organizzazione della vigilanza e del controllo sulla produzione e commercio degli alimenti e bevande, ecc.).  
+Al termine di ciascun anno si avra' un solo esame generale, che sara' effettuato a gruppo dai docenti delle varie discipline.  
+La specializzazione sara' conseguita dopo la discussione di una apposita tesi.  
+Art. 252 - il terzo comma e' modificato nel senso che il numero degli iscritti da ammettere alla scuola di specializzazione in "Tisiologia e malattie dell'apparato respiratorio" e' stabilito in diciotto per il primo anno di corso.  
+Art. 253 - il terzo comma e' modificato nel senso che il numero degli iscritti da ammettere alla scuola di specializzazione in "Urologia" e' stabilito in quattordici per il primo anno di corso.  
+L'ordinamento della scuola di specializzazione in "Allergologia e immunologia clinica" istituita con [decreto del Presidente della Repubblica 7 giugno 1972, n. 421](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1972-06-07;421), e' modificato nel senso che il numero degli iscritti da ammettere alla scuola e' stabilito in dieci per il primo anno di corso.  
+L'ordinamento della scuola di specializzazione in "Reumatologia" istituita con [decreto del Presidente della Repubblica 22 settembre 1972, n. 681](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1972-09-22;681), e' modificato nel senso che il numero degli iscritti da ammettere alla scuola e' stabilito in dieci per il primo anno di corso.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 29 maggio 1981
+### Dato a Roma, addi' 31 ottobre 1973
 
-PERTINI BODRATO
+LEONE MALFATTI
 
-Visto, il Guardasigilli: DARIDA
+Visto, il Guardasigilli: REALE
 
-Registrato alla Corte dei conti, addi' 26 settembre 1981
+Registrato alla Corte dei conti, addi' 27 gennaio 1975
 
-Registro n. 90 Istruzione, foglio n. 238
+Atti di Governo, registro n. 8, foglio n. 65

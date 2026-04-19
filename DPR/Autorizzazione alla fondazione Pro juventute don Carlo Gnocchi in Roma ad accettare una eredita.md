@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 dicembre 1986 n. 1022
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 marzo 1974 n. 197
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 dicembre 1986 n. 1022
-================================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 marzo 1974 n. 197
+============================================================
 
 Autorizzazione alla fondazione "Pro juventute don Carlo Gnocchi", in Roma, ad accettare una eredita'.
 -----------------------------------------------------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-1022. Decreto del Presidente della Repubblica 27 dicembre 1986, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare, col beneficio d'inventario, l'eredita', consistente nella quota di 1/6 del ricavo della vendita di beni immobili siti in Grottaferrata (Roma) e di beni mobili rinvenuti nell'abitazione della de cuius in Roma, via Mecenate n. 59, e in Grottaferrata, per un importo di L. 72.212.600 al netto delle passivita', quota 1/6 L. 12.035.433, disposta dalla sig.ra Coratella Carmela a favore dell'opera "Mutilatini Don Gnocchi" di Roma, che si identifica con la fondazione "Pro juventute don Carlo Gnocchi", come si evince dal verbale 20 novembre 1982 del consiglio di amministrazione della fondazione stessa, con testamento olografo 1 ottobre 1981, pubblicato a rogito dott.ssa Maria Festa, notaio in Roma, in data 1 marzo 1982, n. 13629/3252 di repertorio, registrato a Roma l'11 marzo 1982.   
+197. Decreto del Presidente della Repubblica 30 marzo 1974, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare, col beneficio d'inventario, l'eredita', consistente nella somma di L. 2.155.811, disposta dalla sig.ra Campestrini Maria con testamento olografo del maggio 1967, pubblicato il 14 marzo 1972 con verbale a rogito del dott. Cesare Gallavresi, notaio in Milano, n. 56944 di repertorio, n. 20357 di raccolta e registrato a Milano in data 24 maggio 1972 al numero 563371/M.  
   
-Visto, il Guardasigilli: ROGNONI   
-Registrato alla Corte dei conti, addi' 18 febbraio 1987   
-Registro n. 4 Presidenza, foglio n. 2
+Visto, il Guardasigilli: ZAGARI  
+Registrato alla Corte dei conti, addi' 15 maggio 1974  
+Atti di Governo, registro n. 3, foglio n. 21. - SCIARRETTA

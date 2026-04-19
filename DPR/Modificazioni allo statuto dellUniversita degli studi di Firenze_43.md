@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1972 n. 1081
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 21 maggio 1965 n. 742
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1972 n. 1081
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 21 maggio 1965 n. 742
+=============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Firenze.
 -------------------------------------------------------------------
@@ -12,12 +12,11 @@ Art. 1
 
  IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Firenze, approvato con [regio decreto 14 ottobre 1926, n. 2406](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2406) e modificato con [regio decreto 13 ottobre 1927, n. 2230](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2230) e successive modificazioni;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
+Veduto lo statuto dell'Universita' degli studi di Firenze approvato con [regio decreto 14 ottobre 1926, numero 2406](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2406) e modificato con [regio decreto 13 ottobre 1927, n. 2230](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2230), e successive modificazioni;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto il [regio decreto-legge 20 giugno 1935), n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
 Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
 Sentito il parere del Consiglio superiore della pubblica istruzione;  
 Sulla proposta del Ministro per la pubblica istruzione;  
@@ -25,47 +24,49 @@ Sulla proposta del Ministro per la pubblica istruzione;
 Decreta:  
   
 Lo statuto dell'Universita' degli studi di Firenze, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+Dopo l'art. 252 e' aggiunto il seguente nuovo articolo, relativo all'istituzione della Scuola di specializzazione in Medicina nucleare.  
   
-Art. 78. - All'elenco degli insegnamenti complementari del corso di laurea in matematica vengono aggiunti i seguenti:  
+Scuola di specializzazione in Medicina nucleare  
   
-Analisi numerica per l'indirizzo generale gruppo A;  
-Didattica della matematica e - Psicopedagogia per l'indirizzo didattico - gruppo A;  
-Analisi numerica per l'indirizzo applicativo gruppo A.  
+Art. 253. - a) La durata del corso di studi per il conseguimento del diploma di specializzazione in Medicina nucleare e' di tre anni.  
+Titolo di ammissione e' la laurea in Medicina e chirurgia. Alla Scuola possono essere iscritti non piu' di otto allievi per ogni anno di corso.  
+Direttore della Scuola e' il titolare della cattedra di Clinica medica;  
+b) Gli insegnamenti impartiti nella scuola sono cosi' suddivisi nei 3 anni di corso:  
   
-Art. 80. - All'elenco degli insegnamenti complementari del corso di laurea in scienze naturali e' aggiunto quello di:  
+1° Anno:  
+Matematica con elementi di Statistica;  
+Fisica nucleare e dosimetria;  
+Teoria e tecnica dei traccianti;  
+Tecniche di manipolazione del materiale radioattivo.  
   
-Etologia.  
+2° Anno:  
+Radiobiologia I;  
+Semeiotica con radioisotopi I;  
+Elementi di biochimica ed impiego dei radioisotopi in biologia, sperimentale;  
+Radiochimica;  
+Principi generali di radioterapia.  
   
-Art. 81, relativo alla propedeuticita' di alcuni esami del corso di laurea in scienze naturali e' abrogato e sostituito dal seguente:  
-"Lo studente non puo' presentarsi agli esami di "Mineralogia e di chimica organica se non ha superato l'esame di chimica generale ed inorganica; all'esame di chimica biologica se non ha superato l'esame di chimica organica".  
-Art. 83, relativo alle propedeuticita' di alcuni esami del corso di laurea in scienze biologiche e' abrogato e sostituito dal seguente:  
-"Lo studente non puo' presentarsi all'esame di chimica organica se non ha superato l'esame di chimica generale ed inorganica; all'esame di statistica se non ha superato l'esame di istituzioni di matematiche; all'esame di chimica biologica se non ha superato l'esame di chimica organica".  
-Art. 84. - Nell'elenco degli insegnamenti complementari del corso di laurea in scienze geologiche vengono soppressi gli insegnamenti di Antropologia e di "Biologia umana".  
-Nello stesso elenco viene aggiunto l'insegnamento di:  
+3° Anno:  
+Radiobiologia II;  
+Semeiotica con radioisotopi II;  
+Terapia con radioisotopi;  
+Igiene e profilassi delle contaminazioni radioattive;  
   
-Paleoecologia.  
-  
-Nello stesso articolo viene soppresso il primo comma successivo all'elenco degli insegnamenti complementari e sostituito dal seguente:  
-  
-Per ciascuno degli insegnamenti di "Fisica sperimentale" e di "Analisi matematica" lo studente dovra' sostenere due esami distinti.  
-Art. 85, relativo alla propedeuticita' di alcuni esami del corso di laurea di scienze geologiche viene abrogato e sostituito dal seguente:  
-"Lo studente non puo' presentarsi all'esame di mineralogia se non ha superato l'esame di chimica generale ed inorganica; all'esame di geologia applicata se non ha superato l'esame di geologia; all'esame di fisica terrestre se non ha superato l'esame di fisica sperimentale".  
-Art. 89, relativo alle modalita' degli esami di laurea della facolta' di scienze matematiche, fisiche e naturali viene abrogato e sostituito dal seguente:  
-  
-Per i corsi di laurea in scienze naturali, scienze biologiche e scienze geologiche l'esame di laurea consiste nella discussione di una dissertazione scritta riguardante ricerche ed esperienze originali.  
-Inoltre il candidato deve sostenere una prova di cultura.  
-Per gli studenti iscritti ai corsi per la laurea in chimica, in fisica e in matematica si applicano le norme stabilite rispettivamente agli articoli 73, 77, 78.  
+c) Il corso di lezioni sara' completato da conferenze di aggiornamento nei vari campi della biologia e della medicina:  
+d) Al termine di ogni anno di corso l'allievo dovra' sostenere un esame di profitto sulle materie che sono state oggetto di insegnamento;  
+e) Per il conseguimento del diploma, l'allievo dovra' sostenere davanti all'apposita Commissione la discussione di una tesi scritta su un argomento di Medicina nucleare;  
+f) Ogni allievo ha, l'obbligo di un internato effettivo della durata, di almeno quattro mesi per ciascun anno di corso presso il Centro di Medicina nucleare e l'Istituto di radiologia.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 31 ottobre 1972
+### Dato a Roma, addi' 21 maggio 1965
 
-LEONE SCALFARO
+SARAGAT GUI
 
-Visto, il Guardasigilli: GONELLA
+Visto, il Guardasigilli: REALE
 
-Registrato alla Corte dei conti, addi' 12 marzo 1973
+Registrato alla Corte dei conti, addi' 31 giugno 1965
 
-Atti di Governo, registro n. 256, foglio n. 64. - VALENTINI
+Atti del Governo, registro n. 194, foglio n. 31. - VILLA

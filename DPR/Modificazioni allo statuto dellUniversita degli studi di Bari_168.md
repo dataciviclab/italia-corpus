@@ -1,103 +1,128 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 24 settembre 1964 n. 1171
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 marzo 1982 n. 639
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 24 settembre 1964 n. 1171
-=================================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 marzo 1982 n. 639
+============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Bari.
 ----------------------------------------------------------------
 
+IL PRESIDENTE DELLA REPUBBLICA
+------------------------------
+
+Veduto lo statuto dell'Universita' di Bari, approvato con [regio decreto 14 ottobre 1926, n. 2134](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2134) e modificato con [regio decreto 13 ottobre 1927, n. 2169](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2169), e successive modificazioni;
+
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 3 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-03;73);
+
+Veduto il [regio decreto 30 settembre 1938, n. 1632](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1632), e successive modificazioni;
+
+Veduta la [legge 22 maggio 1978, n. 217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-05-22;217);
+
+Veduto il [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
+
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Bari e convalidati dal Consiglio universitario nazionale nel suo parere;
+
+Sentito il parere del Consiglio universitario nazionale;
+
+Veduta la necessita' di adeguare le norme sulla direzione delle scuole di perfezionamento, di specializzazione e delle scuole dirette a fini speciali a quanto disposto dall'art. 16 del citato [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
+
+Sulla proposta del Ministro della pubblica istruzione;
+
+Decreta:
+--------
+
+Lo statuto dell'Universita' di Bari, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Bari, approvato con [regio decreto 14 ottobre 1926, n. 2134](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2134) e modificato con [regio decreto 13 ottobre 1927, n. 2169](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2169) e successive modificazioni;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652) e successive modificazioni;  
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
-Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro per la pubblica istruzione;  
+Il testo dell'art. 192, relativo all'elenco delle scuole di specializzazione, annesse alla facolta' di medicina e chirurgia, e' integrato nel senso che e' aggiunta la seguente:  
   
-Decreta:  
+Scuola di specializzazione in microbiologia.  
+
+Art. 2
+------
+
   
-Lo statuto dell'Universita' degli studi di Bari, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
   
-Art. 36, (relativo alle norme sulla propedeuticita' della Facolta' di Farmacia) i numeri 6), 7) e 8) sono abrogati e sostituiti dai seguenti:  
-6) la Chimica generale ed inorganica rispetto alle Esercitazioni di Chimica farmaceutica e tossicologica I corso;  
-7) le Esercitazioni di Chimica farmaceutica e tossicologica I corso rispetto alle Esercitazioni di chimica farmaceutica e tossicologica II corso; le Esercitazioni di chimica farmaceutica e tossicologica II corso rispetto alle Esercitazioni di chimica farmaceutica e tossicologica III corso;  
-8) la Chimica generale ed inorganica e la Chimica organica rispetto alla Chimica farmaceutica e tossicologica 1ª e 2ª parte, ed alle Esercitazioni di chimica farmaceutica e tossicologica II corso;  
-9) la Chimica farmaceutica e tossicologia 1ª e 2ª parte e la Farmacologia e Farmacognosia rispetto alla Tecnica e legislazione farmaceutica;  
-10) la Chimica organica rispetto alla Biochimica applicata ed alla Chimica farmaceutica applicata.  
+Dopo l'art. 265, e con lo spostamento della numerazione degli articoli successivi, e' inserito il seguente nuovo articolo, relativo alla istituzione della scuola di specializzazione in microbiologia.   
   
-Art. 52. - Agli insegnamenti complementari del corso di laurea in Lettere sono aggiunti quelli di:  
-Indologia;  
-Filologia semitica;  
-Estetica;  
-Storia della filosofia antica;  
-Storia della filosofia medioevale;  
-Storia delle dottrine economiche;  
-Storia contemporanea;  
-Storia della filosofia moderna, e contemporanea;  
-Sociologia;  
-Etnologia;  
-Storia della lingua latina;  
-Dialettologia greca;  
-Letteratura anglo-americana;  
-Storia dello spettacolo e del teatro;  
-Storia dell'arte bizantina;  
-Islamistica;  
-Lingua e letteratura turca.  
-Sono soppressi gli insegnamenti di "Sanscrito" e di "Ebraico e lingue semitiche comparate".  
+Scuola di specializzazione in microbiologia   
   
-Art. 56. - Agli insegnamenti complementari del corso di laurea in Filosofia sono aggiunti quelli di:  
-16) Storia contemporanea;  
-17) Storia della filosofia moderna e contemporanea;  
-18) Sociologia;  
-19) Etnologia.  
-E' soppresso l'insegnamento complementare di "Storia della pedagogia italiana".  
+Art. 266. - La scuola di specializzazione in microbiologia ha la sede presso l'istituto di microbiologia medica e conferisce il diploma di specialista in microbiologia o in microbiologia con indirizzo tecnico.   
+La scuola di specializzazione in microbiologia ha lo scopo di allargare e approfondire sul piano scientifico la cultura di coloro che si dedicano allo studio di questa disciplina e di fornire sul piano tecnico una preparazione pratica specifica.   
+La direzione della scuola e' affidata a professore ordinario, straordinario o fuori ruolo che insegni anche nella scuola stessa. In caso di motivato impedimento la direzione della scuola e' affidata a professore associato che pure insegni nella scuola medesima.   
+Possono iscriversi alla scuola i laureati in medicina e chirurgia.  
+E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale rilasciato dalla autorita' competente. E' contemplato un secondo indirizzo in tecniche microbiologiche al quale sono ammessi i laureati in medicina veterinaria, in scienze biologiche, in scienze naturali, in farmacia, in chimica e tecnologia farmaceutiche.   
+La durata del corso di studi e' di quattro anni e non e' suscettibile di abbreviazioni.   
+Il numero massimo degli iscritti e' di quindici per anno di corso e di sessanta per l'intero corso di studi.   
+L'ammissione alla scuola avviene per titoli ed esami. Le materie di insegnamento sono le seguenti:   
   
-Art. 60. - L'istituto di Storia dell'arte ed archeologia annesso alla Facolta' di lettere e filosofia e' soppresso. Vengono presso la stessa Facolta' istituiti i seguenti istituti: "Istituto di Storia dell'arte medioevale e moderna" e di "Istituto di Archeologia e storia dell'arte greca e romana".  
+PRIMO BIENNIO   
+(comune ai due indirizzi)   
   
-Art. 62. - Agli insegnamenti complementari del corso di laurea in materie letterarie sono aggiunti quelli di:  
-Lingua e letteratura albanese;  
-Storia delle tradizioni popolari;  
-Glottologia.  
+1° Anno:   
+batteriologia generale I;   
+tecniche batteriologiche;   
+immunologia generale;   
+genetica dei microrganismi.   
+2° Anno:   
+batteriologia generale II;   
+antibiotici e chemioterapici;   
+virologia generale;   
+immunologia generale e tecniche immunologiche;   
+dosaggio biologico ed analisi statistica.   
   
-Art. 64. - Agli insegnamenti complementari del corso di laurea in pedagogia e' aggiunto quello di:  
-Storia delle tradizioni popolari.  
+SECONDO BIENNIO   
+(indirizzo medico)   
   
-Art. 79. - Agli insegnamenti complementari del corso di laurea in Matematica per l'indirizzo didattico, e' aggiunto quello di:  
-24) Astronomia.  
+3° Anno:   
+microrganismi patogeni e malattie;   
+batteriologia speciale I;   
+virologia speciale e tecniche virologiche;   
+micologia medica;   
+epidemiologia delle malattie infettive.   
+4° Anno:   
+batteriologia speciale II;   
+sierologia;   
+microbiologia degli alimenti;   
+microbiologia dell'ambiente;   
+protozoologia medica.   
   
-Art. 83. - Agli insegnamenti complementari del corso di laurea in Chimica (indirizzo organico-biologico) sono aggiunti quelli di:  
-Chimica teorica;  
-Radiochimica;  
-Storia della chimica;  
-Strutturistica chimica.  
+SECONDO BIENNIO   
+(indirizzo in tecniche microbiologiche)   
   
-Art. 84, (relativo alle norme sulla propedeuticita' del corso di laurea in Chimica) e' aggiunto il seguente comma:  
-a) Non potra' essere accordata l'iscrizione, ne' concessa la frequenza al corso di "Esercitazioni di chimica, organica e di analisi organica" agli studenti che non hanno superato l'esame di "Chimica organica I".  
+3° Anno:   
+azione patogena dei microrganismi;   
+tecniche batteriologiche e batteriologia speciale I;   
+micologia generale e tecniche micelogiche;   
+tecniche virologiche e virologia speciale;   
+protozoologia.   
+4° Anno:   
+tecniche batteriologiche e batteriologia speciale II;   
+microbiologia industriale;   
+esame microbiologico dell'ambiente;   
+controllo microbiologico degli alimenti;   
+tecniche microbiologiche.   
   
-Art. 90. - Agli insegnamenti complementari del corso di laurea in Scienze geologiche e' aggiunto quello di:  
-"Geofisica mineraria".  
-  
-Art. 94. - Agli istituti annessi alla Facolta' di scienze matematiche, fisiche e naturali e' aggiunto quello di:  
-"Seminario di studi chimici".  
+Il direttore puo' stabilire, per un piu' proficuo conseguimento dei fini della scuola, che siano tenuti corsi complementari di conferenze su materie ed argomenti che abbiano attinenza o affinita' con gli insegnamenti impartiti nella scuola.   
+La frequenza alle lezioni e alle esercitazioni pratiche e' obbligatoria. Gli allievi che non conseguono le attestazioni di frequenza sul relativo libretto non potranno essere ammessi a sostenere le prove di esame. Alla fine di ogni corso gli iscritti per essere ammessi agli anni di corso successivi devono superare le prove di esame sulle materie impartite durante l'anno. Per le materie a corso pluriennale l'esame sara' sostenuto alla fine dei corsi medesimi. L'esame di diploma constera' di una discussione sopra una tesi scritta. A coloro che abbiano superato l'esame finale verra' rilasciato un diploma di "Specialista in microbiologia" o, per i non laureati in medicina e chirurgia, un diploma di "Specialista in microbiologia con indirizzo tecnico".   
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Date a Roma, addi' 24 settembre 1964
+### Dato a Roma, addi' 30 marzo 1982
 
-Per il Presidente della Repubblica Il Presidente del Senato MERZAGORA GUI
+p. Il Presidente della Repubblica Il Presidente del Senato FANFANI BODRATO
 
-Visto, il Guardasigilli: REALE
+Visto, il Guardasigilli: DARIDA
 
-Registrato alla Corte dei conti, addi' 12 novembre 1964
+Registrato alla Corte dei conti, addi' 2 settembre 1982
 
-Atti del Governo, registro n. 188, foglio n. 72. - DI PRETORO
+Registro n. 104 Istruzione, foglio n. 258

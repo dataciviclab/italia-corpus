@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 29 dicembre 1966 n. 1290
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 13 febbraio 1967 n. 114
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 29 dicembre 1966 n. 1290
-================================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 13 febbraio 1967 n. 114
+===============================================================
 
 Autorizzazione all'Automobile Club di Reggio Emilia ad acquistare un immobile.
 ------------------------------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-1290. Decreto del Presidente della Repubblica 29 dicembre 1966, col quale, sulla proposta del Ministro per il turismo e lo spettacolo, l'Automobile Club di Reggio Emilia viene autorizzato ad acquistare in proprieta', dalle signore Bianca e Chiara Coscelli, per il prezzo di L. 400.000, un vecchio fabbricato, da demolire per la costruzione di un'autorimessa, posto in Reggio Emilia, al vicolo Parisetti n. 7, censito in catasto col mappale n. 998.  
+114. Decreto del Presidente della Repubblica 13 febbraio 1967, col quale, sulla proposta del Ministro per il turismo e lo spettacolo, l'Automobile Club di Reggio Emilia viene autorizzato ad acquistare in proprieta' dalla Societa' per azioni "Ing. Degola e Ferretti - Costruzioni edili e stradali s.p.a.", con sede in Reggio Emilia, per adibirli ad autorimessa, per il prezzo di lire 24.300.000, vari locali posti ai piani sotterranei censiti coi mappali 384/9 e 388/60, e due vani posti al piano terreno ed indicati coi mappali 384/10 e 384/11, coi proporzionali diritti condominiali, facenti parte del fabbricato sito in Reggio Emilia tra la piazza della Liberta', via Monzermone e via S. Rocco.  
   
 Visto, il Guardasigilli: REALE  
-Registrato alla Corte dei conti, addi' 30 gennaio 1967  
-Atti del Governo, registro n. 208, foglio n. 154. - VILLA
+Registrato alla Corte dei conti, addi' 17 marzo 1967  
+Atti del Governo, registro n. 210, foglio n. 30. - DI PRETORO

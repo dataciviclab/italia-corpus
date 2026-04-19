@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 maggio 1985 n. 672
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 ottobre 1983 n. 814
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 maggio 1985 n. 672
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 ottobre 1983 n. 814
+==============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Udine.
 -----------------------------------------------------------------
@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Veduto lo statuto dell'Universita' di Udine, approvato con [decreto del Presidente della Repubblica 11 giugno 1979, n. 298](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1979-06-11;298), e successive modificazioni;
 
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
 
@@ -21,8 +21,6 @@ Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/ur
 Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
 
 Veduto il [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
-
-Veduto il [decreto del Presidente della Repubblica 10 marzo 1982, n. 162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1982-03-10;162);
 
 Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
@@ -37,32 +35,82 @@ Decreta:
 
 Lo statuto dell'Universita' di Udine, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
-Articolo unico
---------------
+Art. 1
+------
 
   
-L'art. 8, relativo agli istituti policattedra viene cosi' modificato: la voce "azienda agraria, con relative strutture, annessa alla facolta' di agraria" viene soppressa.  
-Nell'art. 34, relativo al corso di laurea in scienze della produzione animale della facolta' di agraria, allo elenco degli insegnamenti complementari sono aggiunti i seguenti insegnamenti:  
-coniglicoltura (semestrale);  
-fisiopatologia della riproduzione e tecnica della fecondazione artificiale;  
-idrologia a fini ittici;  
-igiene e profilassi degli allevamenti ittici;  
-itticoltura intensiva;  
-molluschicoltura e crostaceicoltura;  
-vallicoltura.  
+L'art. 6 e' soppresso e sostituito come segue:  
+Art. 6. - I singoli istituti o seminari sono diretti da un professore ordinario o straordinario nominato dal rettore su designazione del consiglio di istituto.  
+Il direttore rimane in carica un triennio e puo' essere riconfermato.  
+In mancanza di professori ordinari o straordinari afferenti all'istituto o seminario ovvero in caso di impedimento ritenuto motivato dal senato accademico, la direzione e' affidata con le modalita' sopra indicate e per la durata di un anno, ad un professore associato o in mancanza di questi, ovvero in caso di motivato impedimento, riconosciuto con le modalita' di cui sopra, ad altro docente afferente ad istituto o seminario stesso.  
+Le norme comuni di gestione e di funzionamento degli istituti o seminari saranno determinate da un regolamento emanato dal rettore sentito il senato accademico e il consiglio di amministrazione.  
+Art. 8 - il primo comma e' soppresso e sostituito come segue:  
+Art. 8, primo comma. - Gli istituti policattedra previsti dallo statuto saranno attivati quando le esigenze didattiche e scientifiche lo richiedano.  
+Inoltre gli istituti di:  
+matematica, informatica e sistematica;  
+pedagogia e didattica delle lingue moderne, cambiano la denominazione rispettivamente in:  
+matematica, informatica e sistemistica;  
+filosofia, pedagogia, didattica delle lingue moderne.  
+Art. 9 - l'art. 9 e' soppresso e sostituito come segue:  
+Art. 9. - Le scuole dirette a fini speciali, le scuole di specializzazione e i corsi di perfezionamento sono organizzati con le modalita' e i fini previsti nel [decreto del Presidente della Repubblica 10 marzo 1982, n. 172](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1982-03-10;172).  
+Art. 12 - dopo il primo comma inserire:  
+Il centro linguistico audiovisivi potra' svolgere anche attivita' di ricerca scientifica.  
+Gli articoli 13 e 14 sono soppressi e sostituiti come segue:  
+Art. 13. - Allo svolgimento di ciascun insegnamento di durata annuale o pluriennale devono essere dedicate le ore previste dalla normativa vigente. Gli insegnamenti possono essere integrati da esercitazioni.  
+Art. 14. - Agli insegnamenti di durata semestrale devono essere dedicate le ore previste dalla normativa vigente, comunque non meno della meta' di quelle richieste per i corsi annuali.  
+Gli insegnamenti possono essere integrati da esercitazioni.  
+
+Art. 2
+------
+
+  
+  
+Art. 15 - all'elenco degli insegnamenti complementari vengono inserite le seguenti discipline:   
+etnolinguistica   
+filosofia della politica   
+filosofia della religione   
+filosofia della storia   
+filosofia dell'educazione   
+geografia delle lingue   
+geografia sociale   
+letterature moderne comparate   
+lingua e letteratura basca   
+lingua e letteratura bretone   
+lingua e letteratura catalana   
+lingua e letteratura galiega   
+lingua e letteratura occitana   
+linguistica friulana   
+metodologia dei sussidi audiovisivi   
+metodologia didattica   
+pedagogia sperimentale   
+psicopedagogia   
+storia del cristianesimo   
+storia del Friuli   
+storia della Chiesa nell'eta' moderna e contemporanea   
+storia della critica letteraria   
+storia della filosofia contemporanea   
+storia della filosofia medioevale   
+storia delle dottrine morali   
+storia dell'ebraismo   
+storia dell'eta' della riforma e della controriforma   
+storia dell'Illuminismo   
+storia del Rinascimento   
+storia economica   
+storia sociale   
+teoria e tecnica della traduzione   
+toponomastica   
+Art. 24 - nel quartultimo comma e' soppressa la espressione: "nonche' di un'altra lingua moderna straniera a scelta dello studente".   
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 4 maggio 1985
+### Dato a Roma, addi' 28 ottobre 1983
 
-PERTINI
-
-FALCUCCI, Ministro della pubblica istruzione
+PERTINI FALCUCCI
 
 Visto, il Guardasigilli: MARTINAZZOLI
 
-Registrato alla Corte dei conti, addi' 12 novembre 1985
+Registrato alla Corte dei conti, addi' 16 gennaio 1984
 
-Registro n. 76 Istruzione, foglio n. 312
+Registro n. 1 Istruzione, foglio n. 22

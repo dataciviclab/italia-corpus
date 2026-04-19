@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1977 n. 1240
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 21 ottobre 1974 n. 789
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1977 n. 1240
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 21 ottobre 1974 n. 789
+==============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Padova.
 ------------------------------------------------------------------
@@ -10,48 +10,41 @@ Modificazioni allo statuto dell'Universita' degli studi di Padova.
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA  
+ IL PRESIDENTE DELLA REPUBBLICA   
   
-Veduto lo statuto dell'Universita' di Padova, approvato con [regio decreto 20 aprile 1939, n. 1058](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1058) e modificato con [regio decreto 5 ottobre 1939, n. 1847](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-05;1847), e successive modificazioni;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Padova e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;  
-Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro della pubblica istruzione;  
+Veduto lo statuto dell'Universita' degli studi di Padova, approvato con [regio decreto 20 aprile 1939, numero 1058](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1058), e modificato con [regio decreto 5 ottobre 1939, n. 1847](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-05;1847), e successive modificazioni;   
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);   
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;   
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;   
+Sentito il parere del Consiglio superiore della pubblica istruzione;   
+Sulla proposta del Ministro per la pubblica istruzione;   
   
-Decreta:  
+Decreta:   
   
-Lo statuto dell'Universita' degli studi di Padova, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-L'art. 384, relativo all'ordinamento della scuola speciale di colpocitologia, e' modificato nel senso che il terzo, nono e tredicesimo comma relativi rispettivamente ai titoli di ammissione alla scuola, alla direzione della medesima ed alle materie d'insegnamento sono abrogati e sostituiti dai seguenti:  
+Lo statuto dell'Universita' degli studi di Padova, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
+Art. 54 - all'elenco degli insegnamenti complementari del corso di laurea in economia e commercio e' aggiunto il seguente:   
   
-Il titolo di studio richiesto per l'ammissione alla scuola e' il diploma di scuola media superiore.  
-Il direttore della scuola e' il direttore dell'istituto di clinica ostetrica e ginecologica o un docente del medesimo istituto che abbia particolare competenza in materia e che ne sia cultore.  
-Le materie d'insegnamento sono le seguenti:  
-1° Anno:  
-fisica;  
-chimica e biochimica;  
-biologia (con particolare riguardo alla citologia generale);  
-anatomia, istologia e fisiologia umana normale con particolare riguardo all'apparato genitale femminile;  
-nozioni di patologia generale;  
-nozioni di microbiologia;  
-tecnica citologica e colposcopica.  
-2° Anno:  
-anatomia ed istologia patologica umana con particolare riguardo all'apparato genitale femminile;  
-citologia normale e patologica dell'apparato genitale femminile compresa la mammella;  
-colposcopia;  
-tecnica istologica ed istochimica;  
-tecnica fotografica e microfotografica.  
+Contabilita' nazionale.   
+L'art. 98, relativo all'elenco degli insegnamenti complementari del corso di laurea in medicina e chirurgia, e' modificato nel senso che l'insegnamento di tisiologia, muta la denominazione in quella di tisiologia e malattie dell'apparato respiratorio.   
+L'art. 102, relativo all'elenco degli istituti annessi alla facolta' di medicina e chirurgia, e' modificato nel senso che gli istituti di "Patologia speciale medica" e di "Clinica medica" mutano rispettivamente la denominazione in quella di:   
   
-Il presente decreto, minuto del sigillo dello Stato, sara' inserto della Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.  
+Istituto di 1ª clinica medica;   
+Istituto di medicina clinica.   
+L'[art. 152 del decreto del Presidente della Repubblica 11 marzo 1974, n. 198](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1974-03-11;198~art152) (cfr. Gazzetta Ufficiale 29 maggio 1974, n. 138) e' rettificato nel senso che, nel corso di laurea in farmacia, l'insegnamento di "Clinica tossicologica e industriale" deve essere corretto in "Chimica tossicologica e industriale".   
   
-Dato a Roma, addi' 31 ottobre 1977  
-  
-LEONE  
-  
-MALFATTI   
-Visto, il Guardasigilli: BONIFACIO  
-Registrato alla Corte dei conti, addi' 15 luglio 1978  
-Registro n. 75 Istruzione, foglio n. 310  
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+### Dato a Roma, addi' 21 ottobre 1974
+
+LEONE MALFATTI
+
+Visto, il Guardasigilli: REALE
+
+Registrato alla Corte dei conti, addi' 27 gennaio 1975
+
+Atti di Governo, registro n. 8, foglio n. 78

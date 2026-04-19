@@ -1,19 +1,137 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 marzo 1971 n. 364
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 23 luglio 1968 n. 950
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 marzo 1971 n. 364
-============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 23 luglio 1968 n. 950
+=============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Torino.
 ------------------------------------------------------------------
 
+IL PRESIDENTE DELLA REPUBBLICA
+------------------------------
+
+Veduto lo statuto dell'Universita' degli studi di Torino, approvato con [regio decreto 14 ottobre 1926, numero 2284](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2284) e modificato con [regio decreto 13 ottobre 1927, n. 2788](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2788), e successive modificazioni;
+
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
+
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
+
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
+
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;
+
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
+
+Sentito il parere del Consiglio superiore della pubblica istruzione;
+
+Sulla proposta del Ministro per la pubblica istruzione;
+
+Decreta:
+
+Lo statuto dell'Universita' degli studi di Torino, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+
+Art. 12. - All'elenco degli insegnamenti complementari del corso di laurea in scienze politiche sono aggiunti quelli di:
+
+Storia dei rapporti tra Stato e Chiesa;
+
+Filosofia politica;
+
+Dinamica economica.
+
+Art. 18. - All'elenco degli insegnamenti complementari del corso di laurea in economia e commercio e' aggiunto quello di: "diritto tributario".
+
+Art. 43. - All'elenco degli insegnamenti complementari del corso di laurea in materie letterarie sono aggiunti quelli di:
+
+Glottologia;
+
+Estetica;
+
+Storia della musica;
+
+Storia della critica;
+
+Storia della filosofia antica;
+
+Storia delle tradizioni popolari;
+
+Storia della scienza e della tecnica;
+
+Antropologia culturale;
+
+Statistica;
+
+Psicologia sociale;
+
+Metodologia delle scienze sociali.
+
+Art. 44. - All'elenco degli insegnamenti complementari del corso di laurea in pedagogia sono aggiunti quelli di:
+
+Glottologia;
+
+Estetica;
+
+Storia della musica;
+
+Storia della critica;
+
+Storia della filosofia antica;
+
+Storia delle tradizioni popolari;
+
+Storia della scienza e della tecnica;
+
+Antropologia culturale;
+
+Statistica;
+
+Psicologia sociale;
+
+Metodologia delle scienze sociali;
+
+Tecnologia dell'educazione.
+
+Art. 45. - All'elenco degli insegnamenti complementari del corso di laurea in lingue e letterature straniere sono aggiunti quelli di:
+
+Glottologia;
+
+Estetica;
+
+Storia della musica;
+
+Storia della critica;
+
+Storia della filosofia antica;
+
+Storia delle tradizioni popolari.
+
+Art. 186. - All'elenco degli insegnamenti del terzo anno della scuola di specializzazione in chirurgia plastica e' aggiunto quello di:
+
+"Chirurgia plastica della mano".
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 23 luglio 1968
+
+SARAGAT
+
+SCAGLIA
+
+Visto, il Guardasigilli: GONELLA
+
+Registrato
+----------
+
+alla Corte dei conti, addi' 3 settembre 1968 Atti del Governo, registro n. 222, foglio n. 114. - DI PRETORO
+
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA -  
+ IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Torino, approvato con [regio decreto 14 ottobre 1926, n. 2284](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2284) e modificato con [regio decreto 13 ottobre 1927, n. 5](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;5).2788, e successive modificazioni;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto lo statuto dell'Universita' degli studi di Torino, approvato con [regio decreto 14 ottobre 1926, numero 2284](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2284) e modificato con [regio decreto 13 ottobre 1927, n. 2788](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2788), e successive modificazioni;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
 Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
@@ -25,43 +143,56 @@ Sulla proposta del Ministro per la pubblica istruzione;
 Decreta:  
   
 Lo statuto dell'Universita' degli studi di Torino, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-Art. 49. - All'elenco degli insegnamenti complementari del corso di laurea in medicina e chirurgia sono aggiunti quelli di:  
-  
-Anatomia topografica;  
-Oncologia sperimentale;  
-Malattie del ricambio;  
-Ematologia;  
-Ottica fisiopatologica;  
-Medicina dello sport;  
-Fisiologia applicata;  
-Virologia;  
-Psico-farmacologia;  
-Tossicologia forense;  
-Ortognatodonzia;  
-Biochimica applicata;  
-Dermatologia sperimentale;  
-Traumatologia della strada;  
-Terapia fisica e riabilitazione;  
-Chirurgia geriatrica;  
-Neuropsichiatria infantile;  
-Tossicologia;  
-Lingua inglese;  
-Neuropatologia;  
-Medicina preventiva dei lavoratori e psicotecnica;  
-Fisiopatologia cardio-circolatoria;  
-Malattie dell'apparato cardio-vascolare;  
-Nefrologia medica.  
+Art. 12. - All'elenco degli insegnamenti complementari del corso di laurea in scienze politiche sono aggiunti quelli di:  
+Storia dei rapporti tra Stato e Chiesa;  
+Filosofia politica;  
+Dinamica economica.  
+Art. 18. - All'elenco degli insegnamenti complementari del corso di laurea in economia e commercio e' aggiunto quello di: "diritto tributario".  
+Art. 43. - All'elenco degli insegnamenti complementari del corso di laurea in materie letterarie sono aggiunti quelli di:  
+Glottologia;  
+Estetica;  
+Storia della musica;  
+Storia della critica;  
+Storia della filosofia antica;  
+Storia delle tradizioni popolari;  
+Storia della scienza e della tecnica;  
+Antropologia culturale;  
+Statistica;  
+Psicologia sociale;  
+Metodologia delle scienze sociali.  
+Art. 44. - All'elenco degli insegnamenti complementari del corso di laurea in pedagogia sono aggiunti quelli di:  
+Glottologia;  
+Estetica;  
+Storia della musica;  
+Storia della critica;  
+Storia della filosofia antica;  
+Storia delle tradizioni popolari;  
+Storia della scienza e della tecnica;  
+Antropologia culturale;  
+Statistica;  
+Psicologia sociale;  
+Metodologia delle scienze sociali;  
+Tecnologia dell'educazione.  
+Art. 45. - All'elenco degli insegnamenti complementari del corso di laurea in lingue e letterature straniere sono aggiunti quelli di:  
+Glottologia;  
+Estetica;  
+Storia della musica;  
+Storia della critica;  
+Storia della filosofia antica;  
+Storia delle tradizioni popolari.  
+Art. 186. - All'elenco degli insegnamenti del terzo anno della scuola di specializzazione in chirurgia plastica e' aggiunto quello di:  
+"Chirurgia plastica della mano".  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 22 marzo 1971
+### Dato a Roma, addi' 23 luglio 1968
 
-SARAGAT MISASI
+SARAGAT SCAGLIA
 
-Visto, il Guardasigilli: COLOMBO
+Visto, il Guardasigilli: GONELLA
 
-Registrato alla Corte dei conti, addi' 11 giugno 1971
+Registrato alla Corte dei conti, addi' 3 settembre 1968
 
-Atti del Governo, registro n. 242, foglio n. 101. - VALENTINI
+Atti del Governo, registro n. 222, foglio n. 114. - DI PRETORO

@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 maggio 1970 n. 1494
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 maggio 1969 n. 374
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 maggio 1970 n. 1494
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 maggio 1969 n. 374
+=============================================================
 
 Autorizzazione all'Automobile club d'Italia, con sede in Roma, ad acquistare un immobile.
 -----------------------------------------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-1494. Decreto del Presidente della Repubblica 18 maggio 1970, col quale, sulla proposta del Ministro per il turismo e lo spettacolo, l'Automobile club d'Italia, con sede in Roma, viene autorizzato ad acquistare in proprieta' dall'Amministrazione finanziaria - Provveditorato generale dello Stato, per il prezzo di lire 240.000, l'appezzamento di terreno demaniale esteso mq. 40, posto al valico di Villa di Chiavenna; nel nuovo catasto edilizio urbano riportato al foglio n. 33, mappale n. 221-B.  
+374. Decreto del Presidente della Repubblica 26 maggio 1969, col quale, sulla proposta del Ministro per il turismo e lo spettacolo, l'Automobile club d'Italia, con sede in Roma, viene autorizzato ad acquistare, in proprieta', dall'Amministrazione del patrimonio dello Stato, per il prezzo di L. 2.400.000, l'appezzamento di terreno demaniale, esteso per una superficie effettiva di mq. 177,40, sito nel comune di Cannebio, poste tra il piazzale annesso al valico di Piaggio Valmara ed il lago Maggiore, nel nuovo catasto edilizio urbano individuato al foglio 4, mappale 83/ parte, alla partita 2209.  
   
-Visto, il Guardasigilli: REALE  
-Registrato alla Corte dei conti, addi' 4 agosto 1971  
-Atti del Governo, registro n. 243, foglio n. 115. - CARUSO
+Visto, il Guardasigilli, GAVA  
+Registrato alla Corte dei conti, addi' 8 luglio 1969  
+Atti del Governo, registro n. 227, luglio n. 148. - CARUSO

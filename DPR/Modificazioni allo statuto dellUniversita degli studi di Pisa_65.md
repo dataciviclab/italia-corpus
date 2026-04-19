@@ -1,189 +1,43 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1981 n. 971
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 ottobre 1970 n. 1074
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1981 n. 971
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 ottobre 1970 n. 1074
+===============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Pisa.
 ----------------------------------------------------------------
 
-IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
-
-Veduto lo statuto dell'Universita' di Pisa, approvato con [regio decreto 14 ottobre 1926, n. 2278](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2278) e modificato con [regio decreto 13 ottobre 1927, n. 2225](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2225), e successive modificazioni;
-
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
-
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
-
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
-
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
-
-Veduto il [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
-
-Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
-
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Pisa e convalidati dal Consiglio universitario nazionale nel suo parere;
-
-Sentito il parere del Consiglio universitario nazionale;
-
-Sulla proposta del Ministro della pubblica istruzione;
-
-Decreta:
---------
-
-Lo statuto dell'Universita' di Pisa, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
-
 Art. 1
 ------
 
+ IL PRESIDENTE DELLA REPUBBLICA  
   
-Nell'art. 88, relativo al corso di laurea in chimica, all'elenco degli insegnamenti complementari per l'indirizzo organico-biologico, sono aggiunti i seguenti insegnamenti:  
-chimica fisica delle interfasi;  
-complementi di chimica fisica;  
-chimica organica teorica;  
-chimica fisica dei polimeri;  
-chimica fisica industriale;  
-chimica colloidale;  
-esercitazioni di tecniche e sintesi speciali organiche;  
-complementi di chimica organica;  
-chimica degli intermedi;  
-chimica analitica clinica;  
-chimica e tecnologia della catalisi;  
-chimica e tecnologia degli alti polimeri;  
-petrolchimica e tecnologia dei prodotti petroliferi;  
-chimica organica applicata;  
-dispositivi e apparecchiature di misura chimica e chimica fisica; complementi di chimica inorganica;  
-chimica inorganica applicata;  
-meccanismi di reazione in chimica inorganica.  
-Nello stesso articolo, all'elenco degli insegnamenti complementari per l'indirizzo inorganico-chimico-fisico, sono aggiunti i seguenti insegnamenti:  
-chimica fisica delle interfasi;  
-complementi di chimica fisica;  
-chimica organica teorica;  
-chimica fisica dei polimeri;  
-chimica fisica industriale;  
-chimica colloidale;  
-esercitazioni di tecniche e sintesi speciali organiche;  
-complementi di chimica organica;  
-chimica degli intermedi;  
-chimica analitica clinica;  
-chimica e tecnologia della catalisi;  
-chimica e tecnologia degli alti polimeri;  
-petrolchimica e tecnologia dei prodotti petroliferi;  
-chimica organica applicata;  
-dispositivi ed apparecchiature di misura chimica e chimica fisica;  
-complementi di chimica inorganica;  
-chimica inorganica applicata;  
-meccanismi di reazione in chimica inorganica.  
-
-Art. 2
-------
-
+Veduto lo statuto dell'Universita' degli studi di Pisa, approvato con [regio decreto 14 ottobre 1926, n. 2278](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2278) e modificato con [regio decreto 13 ottobre 1927, n. 2225](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2225), e successive modificazioni;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
+Veduta la [legge 24 febbraio 1967, n. 62](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1967-02-24;62);  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
+Sentito il parere del Consiglio superiore della pubblica istruzione;  
+Sulla proposta del Ministro per la pubblica istruzione;  
   
-Nell'art. 90, relativo al corso di laurea in chimica industriale, all'elenco degli insegnamenti complementari, sono aggiunti i seguenti insegnamenti:  
-chimica fisica delle interfasi;  
-complementi di chimica fisica;  
-chimica organica teorica;  
-chimica fisica dei polimeri;  
-chimica fisica industriale;  
-chimica colloidale;  
-esercitazioni di tecniche e sintesi speciali organiche;  
-complementi di chimica organica;  
-chimica degli intermedi;  
-chimica analitica clinica;  
-chimica e tecnologia della catalisi;  
-chimica e tecnologia degli alti polimeri;  
-petrolchimica e tecnologia dei prodotti petroliferi;  
-chimica organica applicata;  
-dispositivi e apparecchiature di misura chimica e chimica fisica; complementi di chimica inorganica;  
-chimica inorganica applicata;  
-meccanismi di reazione in chimica inorganica.  
-
-Art. 3
-------
-
+Decreta:  
   
-Nell'art. 91, relativo al corso di laurea in fisica, all'elenco degli insegnamenti complementari, sono aggiunti i seguenti insegnamenti:  
-didattica della fisica;  
-strumentazione fisica;  
-complementi di astronomia;  
-cosmologia;  
-fisica dei sistemi a molti corpi;  
-teorie relativistiche;  
-teoria quantistica dei campi;  
-elettrodinamica;  
-fluidodinamica;  
-astrofisica teorica;  
-meccanica celeste;  
-fisica atomica;  
-fisica molecolare;  
-fisica dei liquidi;  
-fisica degli stati condensati;  
-fisica dei metalli;  
-ottica quantistica;  
-fisica delle basse temperature;  
-fisica dei plasmi;  
-teoria delle forze nucleari;  
-fisica sperimentale delle particelle elementari;  
-acceleratori di particelle.  
-
-Art. 4
-------
-
+Lo statuto dell'Universita' degli studi di Pisa, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
   
-Nell'art. 99, relativo al corso di laurea in scienze biologiche, all'elenco degli insegnamenti complementari, sono aggiunti i seguenti insegnamenti:  
-conservazione e protezione della natura;  
-analisi chimico-cliniche;  
-biochimica clinica;  
-metodologie biochimiche;  
-biochimica macromolecolare;  
-biochimica comparata;  
-biofisica;  
-laboratorio di tecniche fisiologiche;  
-biologia dello sviluppo;  
-citologia animale;  
-primatologia;  
-zoologia dei vertebrati;  
-statistica e biometria.  
-
-Art. 5
-------
-
-  
-Nell'art. 101, relativo al corso di laurea in scienze geologiche, all'elenco degli insegnamenti complementari, sono aggiunti gli insegnamenti di:  
-cristallochimica;  
-fisica del vulcanismo;  
-sismologia;  
-geofisica della terra solida;  
-mineralogia sistematica;  
-petrologia;  
-petrografia regionale;  
-metodologie mineralogiche petrografiche;  
-geotermia;  
-petrotettonica;  
-tettonica;  
-paleogeografia;  
-esercitazioni di geologia;  
-paleontologia stratigrafica;  
-geologia dell'Appennino;  
-geologia ambientale;  
-geopedologia;  
-geologia del sottosuolo;  
-rilevamento geologico tecnico.  
-Nell'art. 102, relativo alle propedeuticita' degli esami, e' aggiunto il seguente nuovo comma:  
-"Gli esami di fisica sperimentale primo anno e di fisica sperimentale secondo anno precedono gli esami di fisica terrestre, cristallografia, petrografia e geologia".  
+L'art. 2, lettera a) relativo all'organico di cui e' dotata la facolta' di scienze politiche istituita con [decreto del Presidente della Repubblica 3 agosto 1970, n. 702](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1970-08-03;702), e' modificato nel senso che ai cinque posti di professore di ruolo assegnati alla predetta facolta', e' aggiunto il posto di professore di ruolo assegnato con [decreto del Presidente della Repubblica 31 ottobre 1969, n. 1095](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1969-10-31;1095), al corso di laurea in scienze politiche.  
   
 
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Il presente decreto munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 31 ottobre 1981
+### Dato a Roma, addi' 30 ottobre 1970
 
-PERTINI BODRATO
+SARAGAT MISASI
 
-Visto, il Guardasigilli: DARIDA
+Visto, il Guardasigilli: REALE
 
-Registrato alla Corte dei conti, addi' 9 febbraio 1982
+Registrato alla Corte dei conti, addi' 29 dicembre 1970
 
-Registro n. 20 Istruzione, foglio n. 232
+Atti del Governo, registro n. 239, foglio n. 79. - CARUSO

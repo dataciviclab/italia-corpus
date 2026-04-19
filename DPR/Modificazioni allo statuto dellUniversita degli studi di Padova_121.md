@@ -1,145 +1,370 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 29 settembre 1975 n. 556
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1977 n. 1163
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 29 settembre 1975 n. 556
-================================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1977 n. 1163
+===============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Padova.
 ------------------------------------------------------------------
 
+IL PRESIDENTE DELLA REPUBBLICA
+------------------------------
+
+Veduto lo statuto dell'Universita' di Padova, approvato con [regio decreto 20 aprile 1939, n. 1058](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1058) e modificato con [regio decreto 5 ottobre 1939, n. 1847](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-05;1847), e successive modificazioni;
+
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
+
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
+
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
+
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;
+
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Padova e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;
+
+Sentito il parere del Consiglio superiore della pubblica istruzione;
+
+Sulla proposta del Ministro della pubblica istruzione;
+
+Decreta:
+
+Lo statuto dell'Universita' degli studi di Padova, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+
+All'art. 151, relativo alle lauree rilasciate dalla facolta' di farmacia, sono aggiunte le seguenti parole: "e in chimica e tecnologia farmaceutiche".
+
+Dopo l'art. 158, e con lo spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli, relativi alla istituzione del corso di laurea in chimica e tecnologia farmaceutiche.
+
+Corso di laurea in chimica e tecnologia farmaceutiche
+
+Art. 159. - La durata del corso degli studi per la laurea in chimica e tecnologia farmaceutiche e' di cinque anni, divisi in un biennio di studi propedeutici e in un triennio di applicazione.
+
+I titoli di ammissione sono quelli previsti dalle vigenti disposizioni di legge.
+
+Nel biennio di studi propedeutici sono insegnamenti fondamentali:
+
+1) anatomia umana(\*);
+
+2) botanica farmaceutica (\*);
+
+3) chimica generale ed inorganica (\*);
+
+4) fisica;
+
+5) istituzioni di matematiche (\*);
+
+6) chimica fisica (\*);
+
+7) chimica organica I (\*\*);
+
+8) fisiologia generale;
+
+9) microbiologia ed igiene;
+
+10) analisi chimico-farmaceutica I (analisi qualitativa).
+
+Nel triennio di studi di applicazione sono insegnamenti fondamentali:
+
+1) chimica biologica (\*);
+
+2) chimica farmaceutica e tossicologica I (\*);
+
+3) chimica farmaceutica e tossicologica II (\*);
+
+4) chimica organica II (\*\*);
+
+5) chimica degli alimenti (\*);
+
+6) metodi fisici in chimica organica;
+
+7) analisi chimico-farmaceutica II (analisi quantitativa);
+
+8) farmacologia e farmacognosia (\*);
+
+9) tecnica e legislazione farmaceutica (\*);
+
+10) biochimica applicata (\*);
+
+11) analisi chimico-farmaceutica III (analisi dei medicamenti);
+
+12) saggi e dosaggi farmacologici;
+
+13) chimica farmaceutica applicata (\*);
+
+14) impianti dell'industria farmaceutica;
+
+15) laboratori di preparazione estrattiva e sintetica dei farmaci.
+
+Sono insegnamenti complementari:
+
+1) biofarmacia (\*);
+
+2) biologia molecolare;
+
+3) biopolimeri;
+
+4) chemioterapia;
+
+5) chimica analitica (\*);
+
+6) chimica biofarmaceutica (\*);
+
+7) chimica clinica (\*);
+
+8) chimica degli eterocicli;
+
+9) chimica dei prodotti cosmetici;
+
+10) chimica dei prodotti dietetici;
+
+11) chimica delle fermentazioni e microbiologia industriale;
+
+12) chimica delle sostanze organiche naturali;
+
+13) chimica terapeutica (\*);
+
+14) chimica tossicologica industriale (\*);
+
+15) complementi di chimica organica;
+
+16) enzimologia;
+
+17) farmacia industriale (\*);
+
+18) farmacia veterinaria;
+
+19) farmacognosia;
+
+20) farmacologia molecolare;
+
+21) fitofarmaci;
+
+22) inglese scientifico;
+
+23) istituzioni di patologia generale;
+
+24) microchimica (\*);
+
+25) radiochimica;
+
+26) sintesi speciali organiche;
+
+27) statistica e biometria.
+
+Le materie segnate con asterisco sono comuni alla laurea in farmacia, quelle segnate con due asterischi sono comuni alla laurea in chimica.
+
+Art. 160. - Per ottenere l'iscrizione al terzo anno di corso lo studente deve aver superato tutti i 10 esami previsti nel primo biennio. Inoltre lo studente non puo' iscriversi al laboratorio del primo corso di analisi chimico-farmaceutica se non ha superato l'esame di chimica generale ed inorganica; pertanto non puo' ottenere la frequenza al suddetto corso.
+
+Lo studente non puo' iscriversi al laboratorio del terzo corso di analisi chimico-farmaceutica se non ha superato l'esame di chimica organica 1; pertanto non puo' ottenere la frequenza al suddetto corso.
+
+Dovranno inoltre essere osservate le seguenti precedenze:
+
+Lo studente non puo' essere ammes- Se non ha superato l'esame di: so a sostenere l'esame di:
+
+chimica organica I chimica generale ed inorganica
+
+chimica fisica chimica generale ed inorganica + fisica + istituzioni di matema- tiche
+
+chimica farmaceutica e chimica organica I
+
+tossicologica I
+
+fisiologia anatomia umana
+
+farmacologia e farmacognosia fisiologia
+
+chimica biologica chimica organica I
+
+saggi e dosaggi farmaco- farmacologia e farmaco
+
+logici gnosia
+
+tecnica e legislazione far- chimica farmaceutica e tos-
+
+maceutica sicologica I
+
+impianti dell'industria chimica farmaceutica e tos
+
+farmaceutica sicologica I e II
+
+metodi fisici in chimica fisica + chimica organica I
+
+organica
+
+biochimica applicata chimica biologica
+
+chimica farmaceutica ap- chimica farmaceutica e tos-
+
+plicata sicologica I e II + tec-
+
+nica e legislazione farma-
+
+ceutica
+
+analisi chimico-farmaceu- analisi chimico-farmaceuti-
+
+tica II ca I
+
+analisi chimico-farmaceu- analisi chimico-farmaceuti-
+
+tica III ca II
+
+Art. 161. - Per essere ammesso all'esame di laurea, lo studente deve aver seguito i corsi e superato tutti gli esami dei corsi fondamentali e almeno due esami fra i corsi complementari; deve inoltre presentare una dissertazione scritta, di indole sperimentale.
+
+L'esame di laurea consiste nella discussione pubblica della dissertazione scritta.
+
+Per essere ammesso a sostenere l'esame di Stato il laureato in chimica e tecnologia farmaceutiche dovra' aver fatto un semestre di pratica professionale presso una farmacia oppure un trimestre presso una farmacia e un trimestre presso una industria farmaceutica secondo le modalita' indicate dalla facolta'.
+
+Il periodo di pratica professionale deve essere svolto dopo il conseguimento del titolo accademico.
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 31 ottobre 1977
+
+LEONE
+
+MALFATTI
+
+Visto, il Guardasigilli: BONIFACIO
+
+Registrato
+----------
+
+alla Corte dei conti, addi' 5 aprile 1978 Registro n. 38 Istruzione, foglio n. 305
+
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA  
+ IL PRESIDENTE DELLA REPUBBLICA   
   
-Veduto lo statuto dell'Universita' degli studi di Padova, approvato con [regio decreto 20 aprile 1939, n. 1058](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1058), e modificato con [regio decreto 5 ottobre 1939, n. 1847](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-05;1847), e successive modificazioni;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Padova e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;  
-Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro per la pubblica istruzione;  
+Veduto lo statuto dell'Universita' di Padova, approvato con [regio decreto 20 aprile 1939, n. 1058](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1058) e modificato con [regio decreto 5 ottobre 1939, n. 1847](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-05;1847), e successive modificazioni;   
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);   
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;   
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Padova e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;   
+Sentito il parere del Consiglio superiore della pubblica istruzione;   
+Sulla proposta del Ministro della pubblica istruzione;   
   
-Decreta:  
+Decreta:   
   
-Lo statuto dell'Universita' degli studi di Padova, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+Lo statuto dell'Universita' degli studi di Padova, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
   
-Art. 384 - all'elenco delle scuole di specializzazione annesse alla facolta' di medicina e chirurgia sono aggiunte le seguenti:  
-scuola di specializzazione in chirurgia cardiaca che conferisce il diploma di specialista in chirurgia cardiaca;  
-scuola di specializzazione in gerontologia e geriatria che conferisce il diploma di specialista in gerontologia e geriatria;  
-scuola di specializzazione in ortognatodonzia che conferisce il diploma di specialista in ortognatodonzia.  
-All'art. 385, concernente gli ordinamenti delle scuole di specializzazione annesse alla facolta' di medicina e chirurgia, sono apportate le seguenti modifiche:  
-scuola di specializzazione in anestesiologia e rianimazione: il numero degli iscritti e' stabilito in 35 (trentacinque) per anno di corso, per un totale di 105 (cento-cinque) specializzandi;  
-scuola di specializzazione in chirurgia: il numero degli iscritti e' stabilito in 25 (venticinque) per anno di corso, per un totale di 125 (centoventicinque) specializzandi;  
-scuola di specializzazione in ematologia clinica e di laboratorio: il numero degli iscritti e' stabilito in 15 (quindici) per anno di corso, per un totale di 45 (quarantacinque) specializzandi;  
-scuola di specializzazione in malattie dell'apparato cardiovascolare: il numero degli iscritti e' stabilito in 15 (quindici) per anno di corso, per un totale di 45 (quarantacinque) specializzandi;  
-scuola di specializzazione in medicina interna: il numero degli iscritti e' stabilito in 15 (quindici) per anno di corso, per un totale di 75 (settantacinque) specializzandi;  
-scuola di specializzazione in psichiatria: il numero degli iscritti e' stabilito in 8 (otto) per anno di corso, per un totale di 32 (trentadue) specializzandi;  
-scuola di specializzazione in tisiologia e malattie dell'apparato respiratorio: il numero degli iscritti e' stabilito in 15 (quindici) per anno di corso, per un totale di 45 (quarantacinque) specializzandi.  
-Nello stesso art. 385 sono aggiunti gli ordinamenti delle scuole di specializzazione in "chirurgia cardiaca", in "gerontologia e geriatria", in "ortognatodonzia", di cui all'art. 384.  
+All'art. 151, relativo alle lauree rilasciate dalla facolta' di farmacia, sono aggiunte le seguenti parole: "e in chimica e tecnologia farmaceutiche".   
+Dopo l'art. 158, e con lo spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli, relativi alla istituzione del corso di laurea in chimica e tecnologia farmaceutiche.   
+Corso di laurea in chimica e tecnologia farmaceutiche   
+Art. 159. - La durata del corso degli studi per la laurea in chimica e tecnologia farmaceutiche e' di cinque anni, divisi in un biennio di studi propedeutici e in un triennio di applicazione.   
+I titoli di ammissione sono quelli previsti dalle vigenti disposizioni di legge.   
+Nel biennio di studi propedeutici sono insegnamenti fondamentali:   
+1) anatomia umana(\*);   
+2) botanica farmaceutica (\*);   
+3) chimica generale ed inorganica (\*);   
+4) fisica;   
+5) istituzioni di matematiche (\*);   
+6) chimica fisica (\*);   
+7) chimica organica I (\*\*);   
+8) fisiologia generale;   
+9) microbiologia ed igiene;   
+10) analisi chimico-farmaceutica I (analisi qualitativa).   
+Nel triennio di studi di applicazione sono insegnamenti fondamentali:   
+1) chimica biologica (\*);   
+2) chimica farmaceutica e tossicologica I (\*);   
+3) chimica farmaceutica e tossicologica II (\*);   
+4) chimica organica II (\*\*);   
+5) chimica degli alimenti (\*);   
+6) metodi fisici in chimica organica;   
+7) analisi chimico-farmaceutica II (analisi quantitativa);   
+8) farmacologia e farmacognosia (\*);   
+9) tecnica e legislazione farmaceutica (\*);   
+10) biochimica applicata (\*);   
+11) analisi chimico-farmaceutica III (analisi dei medicamenti);   
+12) saggi e dosaggi farmacologici;   
+13) chimica farmaceutica applicata (\*);   
+14) impianti dell'industria farmaceutica;   
+15) laboratori di preparazione estrattiva e sintetica dei farmaci.   
+Sono insegnamenti complementari:   
+1) biofarmacia (\*);   
+2) biologia molecolare;   
+3) biopolimeri;   
+4) chemioterapia;   
+5) chimica analitica (\*);   
+6) chimica biofarmaceutica (\*);   
+7) chimica clinica (\*);   
+8) chimica degli eterocicli;   
+9) chimica dei prodotti cosmetici;   
+10) chimica dei prodotti dietetici;   
+11) chimica delle fermentazioni e microbiologia industriale;   
+12) chimica delle sostanze organiche naturali;   
+13) chimica terapeutica (\*);   
+14) chimica tossicologica industriale (\*);   
+15) complementi di chimica organica;   
+16) enzimologia;   
+17) farmacia industriale (\*);   
+18) farmacia veterinaria;   
+19) farmacognosia;   
+20) farmacologia molecolare;   
+21) fitofarmaci;   
+22) inglese scientifico;   
+23) istituzioni di patologia generale;   
+24) microchimica (\*);   
+25) radiochimica;   
+26) sintesi speciali organiche;   
+27) statistica e biometria.   
   
-Scuola di specializzazione in chirurgia cardiaca  
+Le materie segnate con asterisco sono comuni alla laurea in farmacia, quelle segnate con due asterischi sono comuni alla laurea in chimica.   
+Art. 160. - Per ottenere l'iscrizione al terzo anno di corso lo studente deve aver superato tutti i 10 esami previsti nel primo biennio. Inoltre lo studente non puo' iscriversi al laboratorio del primo corso di analisi chimico-farmaceutica se non ha superato l'esame di chimica generale ed inorganica; pertanto non puo' ottenere la frequenza al suddetto corso.   
+Lo studente non puo' iscriversi al laboratorio del terzo corso di analisi chimico-farmaceutica se non ha superato l'esame di chimica organica 1; pertanto non puo' ottenere la frequenza al suddetto corso.   
+Dovranno inoltre essere osservate le seguenti precedenze:   
   
-a) La scuola di specializzazione in chirurgia cardiaca conferisce il diploma di specialista in chirurgia cardiaca. Gli anni necessari per il conseguimento del diploma sono tre; non saranno consentite abbreviazioni di corso.  
-b) Possono aspirare alla iscrizione alla scuola i laureati in medicina e chirurgia che siano in possesso del diploma di specialista in chirurgia generale o che dimostrino di aver frequentato a titolo ufficiale ed in modo continuativo un istituto universitario di chirurgia generale o una divisione ospedaliera di chirurgia generale per almeno due anni.  
-c) Per ciascun anno accademico non possono essere ammessi alla scuola piu' di sei candidati: l'ammissione avviene in base a concorso, per titoli ed esami, la cui data verra' notificata nell'albo della scuola.  
-d) La scuola ha sede presso la clinica chirurgica dell'Universita' di Padova, centro di cardiochirurgia.  
-e) Le materie d'insegnamento della scuola sono le seguenti:  
-1° Anno:  
-1) embriologia, anatomia descrittiva e topografia dell'apparato cardio-circolatorio;  
-2) anatomia chirurgica del cuore, pericardio e grossi vasi endotoracici;  
-3) fisiologia e fisiopatologia dell'apparato cardiocircolatorio (biennale) I;  
-4) anatomia patologica del cuore e dei grossi vasi endotoracici.  
-2° Anno:  
-1) fisiologia e fisiopatologia dell'apparato cardiocircolatorio (biennale) II;  
-2) semeiologia e diagnostica clinica strumentale dell'apparato cardio-circolatorio;  
-3) diagnostica radiologica del cuore e dei grossi vasi endotoracici;  
-4) patologia, clinica e terapia chirurgica delle affezioni del cuore e dei grossi vasi endotoracici (biennale) I.  
-3° Anno:  
-1) patologia e clinica chirurgica delle affezioni del cuore e dei grossi vasi (biennale) II;  
-2) tecnica operatoria delle cardio-angiopatie;  
-3) anestesia e rianimazione in cardio-chirurgia;  
-4) principi e tecniche della circolazione extra-corporea e della ipotermia;  
-5) elementi di patologia e terapia medica delle cardiopatie.  
-f) Alla fine di ciascun anno accademico gli iscritti devono sostenere gli esami speciali, il cui superamento e' condizione necessaria per l'iscrizione all'anno successivo. Alla fine del terzo anno, dopo aver superato tutti gli esami speciali, ha luogo l'esame di diploma, consistente nella discussione di una dissertazione scritta su argomento attinente alla specialita' e la cui scelta sia stata concordata fra il diplomando e il direttore della scuola durante il secondo anno. La dissertazione previamente approvata dal direttore dovra' essere depositata presso la segreteria dell'Universita' almeno quindici giorni prima dell'esame.  
-g) I candidati non riconosciuti idonei all'esame di diploma potranno ripresentarsi dopo un altro anno di frequenza alla scuola.  
-Se al secondo esame non sia loro riconosciuta l'idoneita' saranno esclusi da ulteriori prove.  
-h) Gli iscritti alla scuola hanno l'obbligo di internato presso la clinica chirurgica, centro di cardiochirurgia (degenze, sala operatoria, reparto rianimazione e cure intensive, reparto di diagnostica) per tutta la durata del corso. Essi hanno inoltre obbligo di frequenza alle lezioni, conferenze speciali ed esercitazioni. Non ottemperando all'obbligo di frequenza, non si potra' ottenere attestazione necessaria all'ammissione ai singoli esami.  
-Dall'obbligo di internato potranno essere esentati quegli specializzandi che in qualita' di assistenti od aiuti prestino effettivamente servizio presso reparti di cardiochirurgia universitari od ospedalieri.  
   
-Scuola di specializzazione in gerontologia e geriatria  
-(durata del corso anni 3)  
+Lo studente non puo' essere ammes- Se non ha superato l'esame di: so a sostenere l'esame di:  
   
-1° Anno:  
-biologia della senescenza (annuale);  
-fisiopatologia della senescenza (biennale) I;  
-semeiologia della senescenza (biennale) I;  
-anatomia patologica (biennale) I;  
-farmacologia e farmacoterapia (annuale).  
-2° Anno:  
-fisiopatologia della senescenza (biennale) II;  
-semeiologia della senescenza (biennale) II;  
-anatomia patologica (biennale) II;  
-clinica geriatrica e terapia (biennale) I;  
-chirurgia geriatrica (annuale);  
-radiologia e radioterapia (annuale);  
-neurologia (annuale).  
-3° Anno:  
-clinica geriatrica e terapia (biennale) II;  
-tecniche di riabilitazione (annuale);  
-psichiatria (annuale);  
-medicina sociale (annuale).  
-Nel terzo anno sono inoltre previste conferenze di aggiornamento su problemi speciali.  
-Il numero totale degli iscritti ai tre anni di corso e' di 45 (quarantacinque) unita'.  
-Le tasse che gli iscritti devono versare per il conseguimento del diploma di specialista sono fissate come segue:  
   
-tassa di immatricolazione. . . . . . . . . . . . . . . L. 5.000 tassa di iscrizione. . . . . . . . . . . . . . . . . . L. 100.000 soprattassa esami. . . . . . . . . . . . . . . . . . . L. 7.000 tassa quali fuori corso. . . . . . . . . . . . . . . . L. 5.000   
-I contributi sono determinati di anno in anno dal consiglio di amministrazione, su proposta del senato accademico, sentito il consiglio della facolta' di medicina e chirurgia.  
   
-Scuola di specializzazione in ortognatodonzia  
   
-Alla facolta' di medicina e chirurgia dell'Universita' di Padova e' annessa una scuola di specializzazione in ortognatodonzia, con sede presso la clinica odontoiatrica.  
-Alla scuola di specializzazione vengono ammessi i laureati in medicina e chirurgia in possesso del diploma di specialista in odontoiatria e protesi dentaria.  
-La durata dei corsi e' di due anni.  
-Il numero degli allievi e' di cinque per il primo corso e di cinque per il secondo corso.  
-L'ammissione avviene previo concorso per titoli ed esami.  
-Gli iscritti hanno l'obbligo della frequenza ai corsi e alle esercitazioni.  
-Gli esami di profitto saranno sostenuti, per gruppi di materie, alla fine di ciascun anno. Alla fine del secondo anno, dopo aver superato gli esami di profitto, gli allievi saranno ammessi a sostenere l'esame di diploma, consistente nella discussione di una tesi scritta su un argomento proposto in precedenza dall'insegnante della materia cui la tesi si riferisce e approvato dal direttore della scuola.  
-La suddivisione delle materie d'insegnamento nei due anni di corso e' la seguente:  
-1° Anno:  
-anatomia ed embriologia maxillo-facciale;  
-istologia dentale e paradentale;  
-fisiologia in ortognatodonzia (biennale) I;  
-ortodonzia (biennale) I;  
-genetica in ortognatodonzia;  
-radiologia in ortognatodonzia;  
-metallurgia e merceologia in ortognatodonzia;  
-statistica applicata alla ricerca scientifica;  
-semeiotica ortodontica.  
-2° Anno:  
-fisiologia in ortognatodonzia (biennale) II;  
-ortodonzia (biennale) II;  
-patologia stomatologica in ortodonzia;  
-pediatria auxologica applicata;  
-pedodonzia;  
-otorinolaringoiatria applicata;  
-fonoterapia.  
-La misura delle tasse e soprattasse per gli iscritti e' la stessa prevista dall'art. 379 del vigente statuto per tutte le scuole della facolta' di medicina e cioe':  
+chimica organica I chimica generale ed inorganica  
+chimica fisica chimica generale ed inorganica + fisica + istituzioni di matema- tiche  
+chimica farmaceutica e chimica organica I  
+tossicologica I  
+fisiologia anatomia umana  
+farmacologia e farmacognosia fisiologia  
+chimica biologica chimica organica I  
+saggi e dosaggi farmaco- farmacologia e farmaco  
+logici gnosia  
+tecnica e legislazione far- chimica farmaceutica e tos-  
+maceutica sicologica I  
+impianti dell'industria chimica farmaceutica e tos  
+farmaceutica sicologica I e II  
+metodi fisici in chimica fisica + chimica organica I  
+organica  
+biochimica applicata chimica biologica  
+chimica farmaceutica ap- chimica farmaceutica e tos-  
+plicata sicologica I e II + tec-  
+nica e legislazione farma-  
+ceutica  
+analisi chimico-farmaceu- analisi chimico-farmaceuti-  
+tica II ca I  
+analisi chimico-farmaceu- analisi chimico-farmaceuti-  
+tica III ca II  
   
-tassa di immatricolazione. . . . . . . . . . . . . . . L. 5.000 tassa di iscrizione. . . . . . . . . . . . . . . . . . L. 100.000 soprattassa esami. . . . . . . . . . . . . . . . . . . L. 7.000 tassa quali fuori corso. . . . . . . . . . . . . . . . L. 5.000   
-I contributi sono determinati di anno in anno dal consiglio di amministrazione su proposta del senato accademico, sentito il consiglio della facolta' di medicina e chirurgia.  
+  
+Art. 161. - Per essere ammesso all'esame di laurea, lo studente deve aver seguito i corsi e superato tutti gli esami dei corsi fondamentali e almeno due esami fra i corsi complementari; deve inoltre presentare una dissertazione scritta, di indole sperimentale.  
+L'esame di laurea consiste nella discussione pubblica della dissertazione scritta.   
+Per essere ammesso a sostenere l'esame di Stato il laureato in chimica e tecnologia farmaceutiche dovra' aver fatto un semestre di pratica professionale presso una farmacia oppure un trimestre presso una farmacia e un trimestre presso una industria farmaceutica secondo le modalita' indicate dalla facolta'.   
+Il periodo di pratica professionale deve essere svolto dopo il conseguimento del titolo accademico.   
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 29 settembre 1975
+### Dato a Roma, addi' 31 ottobre 1977
 
 LEONE MALFATTI
 
-Visto, il Guardasigilli: REALE
+Visto, il Guardasigilli: BONIFACIO
 
-Registrato alla Corte dei conti, addi' 21 novembre 1975
+Registrato alla Corte dei conti, addi' 5 aprile 1978
 
-Atti di Governo, registro n. 14, foglio n. 9
+Registro n. 38 Istruzione, foglio n. 305

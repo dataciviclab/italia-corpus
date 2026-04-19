@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 maggio 1969 n. 585
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 dicembre 1963 n. 2197
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 maggio 1969 n. 585
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 dicembre 1963 n. 2197
+================================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Firenze.
 -------------------------------------------------------------------
@@ -10,130 +10,61 @@ Modificazioni allo statuto dell'Universita' degli studi di Firenze.
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA   
+ IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Firenze, approvato con [regio decreto 14 ottobre 1926, n. 2406](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2406) e modificato con [regio decreto 13 ottobre 1927, n. 2230](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2230), e successive modificazioni;   
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);   
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;   
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;   
-Sentito il parere del Consiglio superiore della pubblica istruzione;   
-Sulla proposta del Ministro per la pubblica istruzione;   
+Veduto lo statuto dell'Universita' degli studi di Firenze, approvato con [regio decreto 14 ottobre 1926, numero 2406](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2406), modificato con [regio decreto 13 ottobre 1927, n. 2230](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2230), e successivi;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652) e successive modificazioni;  
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
+Sentito il parere del Consiglio superiore della pubblica istruzione;  
+Sulla proposta del Ministro per la pubblica istruzione;  
   
-Decreta:   
+Decreta:  
   
-Lo statuto dell'Universita' degli studi di Firenze, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
-Art. 33. - Nell'elenco degli insegnamenti complementari del corso di laurea in economia e commercio l'insegnamento di "Tecnica amministrativa delle imprese agricole e minerarie" e' soppresso e sono aggiunti i seguenti:   
+Lo statuto dell'Universita' degli studi di Firenze approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
   
-Diritto delle assicurazioni private e sociali;   
-Diritto pubblico dell'economia;   
-Econometria;   
-Economia monetaria e creditizia;   
-Economia del turismo;   
-Geografia applicata;   
-Organizzazione internazionale;   
-Principi e tecniche delle elaborazioni meccanografiche ed elettroniche;   
-Sociologia;   
-Teoria e tecnica della programmazione economica;   
-Teoria e politica dello sviluppo economico;   
-Ricerca operativa;   
-Economia internazionale;   
-Tecnica dell'organizzazione d'impresa;   
-Tecnica di borsa;   
-Economia aziendale;   
-Contabilita' di Stato;   
-Storia della ragioneria.   
-Art. 35. - L'elenco dei seminari e' soppresso e sostituito dal seguente:   
-  
-Istituto di statistica;   
-Istituto di ragioneria;   
-Istituto di tecnica industriale, commerciale e bancaria;   
-Istituto di matematica attuariale;   
-Istituto di economia politica;   
-Istituto di politica economica e finanziaria;   
-Istituto di scienza delle finanze;   
-Istituto di storia economica;   
-Istituto di diritto commerciale e industriale;   
-Istituto di diritto del lavoro;   
-Istituto di geografia economica;   
-Laboratorio di merceologia e museo merceologico.   
-Art. 42, relativo all'esame di laurea in economia e commercio e' modificato nel senso che il punto b) e', soppresso.   
-Art. 45, relativo alla scuola di statistica, annessa alla facolta' di economia e commercio e' modificato nel senso che l'insegnamento complementare di "Economia politica: Corso elementare" e' soppresso e vengono aggiunti i seguenti:   
-Istituzioni di economia politica;   
-Rappresentazioni grafiche (semestr.);   
-Teoria e tecnica del campionamento statistico (semestrale).   
-Nello stesso art. 45 il quarto comma, relativo alla unicita' degli esami degli insegnamenti semestrali di "statistica giudiziaria", "statistica sociale", "antropometria" e "statistica sanitaria", e' soppresso.   
-Art. 52. - All'elenco degli insegnamenti complementari del corso di laurea in lettere sono aggiunti i seguenti:   
-  
-Lingua e letteratura russa;   
-Letteratura comparata;   
-Diritto e istituzioni medioevali;   
-Letteratura italiana moderna e contemporanea;   
-Ittitologia;   
-Filologia bizantina;   
-Storia contemporanea;   
-Storia delle lingue classiche;   
-Antichita' greche e romane;   
-Museografia;   
-Storia comparata dell'arte dei paesi europei;   
-Tecnica e restauro delle opere d'arte;   
-Istituzioni di diritto pubblico;   
-Linguistica generale e applicata;   
-Filologia baltica;   
-Filologia celtica;   
-Filologia balcanica o balcanologia;   
-Filologia italiana;   
-Storia della geografia e delle esplorazioni geografiche;   
-Storia economica;   
-Storia dell'Italia contemporanea;   
-Storia dei popoli extra-europei.   
-Art. 53. - All'elenco degli insegnamenti complementari del corso di laurea in filosofia sono aggiunti i seguenti:   
-Storia del Risorgimento;   
-Filologia medioevale e umanistica;   
-Una lingua e letteratura straniera moderna;   
-Storia delle scienze;   
-Diritto e istituzioni medioevali;   
-Letteratura italiana moderna e contemporanea;   
-Storia contemporanea;   
-Antichita' greche e romane;   
-Istituzioni di diritto pubblico;   
-Storia della geografia e delle esplorazioni geografiche;   
-Storia economica;   
-Storia dell'Italia contemporanea;   
-Storia dei popoli extra-europei.   
-Art. 54. - All'elenco degli insegnamenti complementari del corso di laurea in lingue e letterature straniere moderne sono aggiunti i seguenti:   
-  
-Filologia medioevale e umanistica;   
-Storia della filosofia moderna e contemporanea;   
-Letteratura comparata;   
-Letteratura italiana moderna e contemporanea;   
-Filologia bizantina;   
-Storia contemporanea;   
-Museografia;   
-Storia comparata dell'arte dei paesi europei;   
-Tecnica e restauro delle opere d'arte;   
-Istituzioni di diritto pubblico;   
-Linguistica generale e applicata;   
-Filologia baltica;   
-Filologia celtica;   
-Filologia balcanica o balcanologia;   
-Storia economica;   
-Storia dell'Italia contemporanea;   
-Storia dei popoli extra-europei.   
-Art. 205, relativo al corso di perfezionamento in filologia e antichita' classiche, annesso alla facolta' di lettere e filosofia, e' modificato nel senso che tra le materie costitutive e' aggiunto l'insegnamento di "Etruscologia".   
+Art. 76. - All'elenco degli insegnamenti complementari per il corso di laurea in Chimica sono aggiunti seguenti:  
+Per l'indirizzo organico biologico:  
+Chimica colloidale e delle interfasi;  
+Cinetica chimica;  
+Chimica macromolecolare;  
+Spettroscopia molecolare;  
+Chimica delle sostanze organiche naturali.  
+Per l'indirizzo inorganico - chimico - fisico:  
+Esercitazioni di tecniche e sintesi speciali inorganiche;  
+Chimica colloidale e delle interfasi;  
+Cinetica chimica;  
+Chimica macromolecolare.  
+Art. 85. - All'elenco degli insegnamenti complementari del corso di laurea in Scienze naturali sono aggiunti i seguenti:  
+Ecologia vegetale;  
+Fitogeografia;  
+Entomologia;  
+Paleontologia dei vertebrati;  
+Paleontologia vegetale.  
+Art. 86, relativo alle propedeuticita' del corso di laurea in Scienze naturali e' abrogato e sostituito dal seguente "Lo studente non puo' presentarsi agli esami di Mineralogia e di Chimica organica se non ha superato l'esame di Chimica generale ed inorganica; all'esame di Geologia se non ha superato l'esame di Mineralogia; all'esame di Anatomia comparata se non ha superato l'esame di Anatomia umana; all'esame di Chimica biologica se non ha superato l'esame di Chimica organica".  
+Art. 87. - All'elenco degli insegnamenti complementari del corso di laurea in Scienze biologiche sono aggiunti i seguenti:  
+Ecologia vegetale;  
+Fitogeografia;  
+Entomologia;  
+Radiobiologia;  
+Fisiologia comparata.  
+Art. 88, relativo alle propedeuticita' del corso di laurea in Scienze biologiche e' abrogato e sostituito dal seguente:  
+"Lo studente non puo' presentarsi all'esame di Anatomia comparata se non ha superato l'esame di Anatomia umana; all'esame di Chimica organica se non ha superato l'esame di Chimica generale inorganica; all'esame di Paleontologia se non ha superato gli esami di Botanica e zoologia; all'esame di Statistica se non ha superato l'esame di istituzioni matematiche; all'esame di Chimica biologica se non ha superato lo esame di Chimica organica.  
+Al termine della prima meta' di ciascun corso annuale di Botanica e di zoologia e del corso di Anatomia comparata, lo studente dovra' superare una prova pratica scritta".  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 2 maggio 1969
+### Dato a Sassari, addi' 31 dicembre 1963
 
-SARAGAT FERRARI AGGRADI
+SEGNI GUI
 
-Visto, il Guardasigilli: GAVA
+Visto, il Guardasigilli: REALE
 
-Registrato alla Corte dei conti, addi' 26 agosto 1969
+Registrato alla Corte dei conti, addi' 21 febbraio 1964
 
-Atti del Governo, registro n. 228, foglio n. 217. CARUSO
+Atti del Governo, registro n. 181, foglio n. 105. - VILLA

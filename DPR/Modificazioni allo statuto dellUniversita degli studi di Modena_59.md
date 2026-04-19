@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1978 n. 803
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1972 n. 1110
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1978 n. 803
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1972 n. 1110
+===============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Modena.
 ------------------------------------------------------------------
@@ -12,87 +12,68 @@ Art. 1
 
  IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' di Modena, approvato con [regio decreto 14 ottobre 1926, n. 2035](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2035) e modificato con [regio decreto 13 ottobre 1927, n. 2170](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2170), e successive modificazioni;  
+Veduto lo statuto dell'Universita' degli studi di Modena, approvato con [regio decreto 14 ottobre 1926, numero 2035](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2035), e modificato con [regio decreto 13 ottobre 1927, n. 2170](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2170), e successive modificazioni;  
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071) convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Modena e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
 Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro della pubblica istruzione;  
+Sulla proposta del Ministro per la pubblica istruzione;  
   
 Decreta:  
   
 Lo statuto dell'Universita' degli studi di Modena, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
   
-Dopo l'art. 253, e con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi all'istituzione della II scuola di specializzazione in pediatria.  
-Scuola di specializzazione in pediatria II  
-Art. 254. - La scuola di specializzazione in pediatria II ha sede presso l'istituto di clinica pediatrica (cattedra di pediatria II) e conferisce il diploma di specialista in pediatria.  
-Art. 255. - La direzione della scuola e' affidata al professore di ruolo o fuori ruolo della stessa materia della specializzazione o, in carenza, al professore di ruolo o fuori ruolo di materia affine.  
-Art. 256. - Possono iscriversi alla scuola i laureati in medicina e chirurgia. E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione allo esercizio professionale rilasciato dall'autorita' competente.  
-Art. 257. - La durata del corso di studi e' di quattro anni e non e' suscettibile di abbreviazioni.  
-Art. 258. - Il numero massimo degli allievi e' di dieci per anno di corso e complessivamente di quaranta per l'intero corso di studi.  
-Art. 259. - L'ammissione al corso avviene per titoli ed esami.  
-Art. 260. - Le materie di insegnamento sono le seguenti:  
+Dopo l'art. 212 e con il conseguente spostamento della numerazione degli articoli successivi sono inseriti i seguenti nuovi articoli relativi alla istituzione della scuola di specializzazione in endocrinologia.  
+  
+Scuola di specializzazione in endocrinologia  
+  
+Art. 213. - La scuola di specializzazione in endocrinologia conferisce il diploma di specialista in endocrinologia.  
+Art. 214. - Alla scuola, che ha sede presso la cattedra di semeiotica medica dell'universita', sono ammessi i laureati in medicina e chirurgia.  
+Art. 215. - La scuola ha la durata di anni tre con 6 posti disponibili per anno. Totale 18 posti.  
+Art. 216. - Gli insegnamenti impartiti nella scuola sono:  
+  
 1° Anno:  
-genetica;  
-auxologia;  
-alimentazione;  
-epidemiologia;  
-malattie infettive;  
-clinica pediatrica I.  
+Insegnamenti fondamentali:  
+1) Anatomia ed embriologia degli organi endocrini;  
+2) Fisiologia endocrina;  
+3) Biochimica endocrina;  
+4) Anatomia patologica delle malattie endocrine (biennali);  
+5) Semeiotica e diagnostica endocrina (biennale);  
+Insegnamenti complementari:  
+1) Tecniche di laboratorio endocrinologiche.  
+  
 2° Anno:  
-radiologia;  
-legislazione del minore;  
-organizzazione sanitaria;  
-psicologia pediatrica;  
-oculistica ed ortottica;  
-otorino e foniatria;  
-odonto;  
-neonatologia I;  
-chirurgia pediatrica I;  
-pediatria preventiva e sociale I;  
-clinica pediatrica II.  
-Insegnamenti del 3° Anno:  
-neurologia;  
-psichiatria infantile;  
-nefrologia e urologia;  
-ginecologia pediatrica;  
-neonatologia II;  
-chirurgia pediatrica II;  
-pediatria preventiva e sociale II;  
-cardiologia I;  
-endocrinologia I;  
-ematologia I;  
-immunologia I;  
-gastroenterologia I;  
-clinica pediatrica III.  
-Insegnamenti del 4° Anno:  
-oncologia;  
-pneumologia;  
-ortopedia e traumatologia;  
-dermatologia;  
-cardiologia II;  
-endocrinologia II;  
-ematologia II;  
-immunologia II;  
-gastroenterologia II;  
-clinica pediatrica IV.  
-Art. 261. - La frequenza alle lezioni e alle esercitazioni pratiche e' obbligatoria. Gli allievi, che non conseguono le attestazioni di frequenza sul relativo libretto, non potranno essere ammessi a sostenere le prove di esame.  
-Art. 262. - Alla fine di ciascun anno gli iscritti per essere ammessi agli anni successivi, devono superare le prove d'esame sulle materie impartite durante l'anno.  
-Per le materie a corso pluriennale l'esame sara' sostenuto alla fine dei corsi medesimi.  
-Al termine del corso di studi, per il conseguimento del diploma di specialista in pediatria, gli interessati dovranno superare l'esame di diploma consistente nella dissertazione scritta di un argomento attinente alla specializzazione.  
+Insegnamenti fondamentali:  
+1) Anatomia patologica delle malattie endocrine (biennale);  
+2) Semeiotica e diagnostica endocrine (biennale);  
+3) Patologia speciale medica e clinica delle malattie endocrine e delle auxopatie (biennale);  
+4) Eredopatologia endocrina;  
+Insegnamenti complementari:  
+1) Endocrinologia ostetrico-ginecologica.  
+  
+3° Anno:  
+Insegnamenti fondamentali:  
+1) Patologia speciale medica e clinica delle malattie endocrine e delle auxopatie (biennale);  
+2) Terapia delle malattie endocrine;  
+Insegnamenti complementari:  
+1) Farmacologia endocrina.  
+  
+Art. 217. - Per essere ammessi all'anno successivo gli allievi debbono ottenere tutte le attestazioni di frequenza ai corsi propri dell'anno e debbono superare tutti gli esami.  
+Per essere ammessi all'esame di diploma gli allievi dovranno aver superato tutti gli esami delle materie fondamentali piu' un esame di almeno una materia complementare a scelta.  
+I candidati, non riconosciuti idonei agli esami di ciascun corso e all'esame di diploma, potranno sostenere le prove dopo un altro anno di frequenza.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 31 ottobre 1978
+### Dato a Roma, addi' 31 ottobre 1972
 
-PERTINI PEDINI
+LEONE SCALFARO
 
-Visto, il Guardasigilli: BONIFACIO
+Visto, il Guardasigilli: GONELLA
 
-Registrato alla Corte dei conti, addi' 15 dicembre 1978
+Registrato alla Corte, dei conti, addi' 23 marzo 1973
 
-Registro n. 131 Istruzione, foglio n. 51
+Atti di Governo, registro n. 257, foglio n. 7. - VALENTINI

@@ -1,19 +1,19 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 giugno 1967 n. 740
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 agosto 1963 n. 1248
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 giugno 1967 n. 740
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 agosto 1963 n. 1248
+==============================================================
 
-Autorizzazione alla Fondazione Pro Juventute Don Carlo Gnocchi, con sede in Roma, ad accettare un legato.
----------------------------------------------------------------------------------------------------------
+Autorizzazione alla "Fondazione Pro Juventute Don Carlo Gnocchi", con sede in Roma, ad accettare un legato.
+-----------------------------------------------------------------------------------------------------------
 
 Art. 1
 ------
 
 N.
 
-740. Decreto del Presidente della Repubblica 24 giugno 1967, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la "Fondazione Pro Juventute Don Carlo Gnocchi" viene autorizzata ad accettare un legato di lire 1.000.000 disposto dalla defunta signora Teresina Spargetti vedova Giletta di San Giuseppe Annibale, con testamento olografo del 15 ottobre 1957, pubblicato e depositato con verbale a rogito dott. Ambrogio Roncoroni, notaio residente in Milano, in data 2 dicembre 1965, n. 38721 di repertorio, n. 9345 di raccolta, in favore dei "Mutilatini di Don Gnocchi", che si identificano con la Fondazione Pro Juventute suindicata.  
+1248. Decreto del Presidente della Repubblica 5 agosto 1963, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la "Fondazione Pro Juventute Don Carlo Gnocchi", con sede in Roma, viene autorizzata ad accettare un legato, costituito dal ricavato dalla vendita del patrimonio della testatrice in Italia di un appartamento sito in Roma, via Tor de' Schiavi n. 154, disposto dalla signora Amelia Granelli (indicata anche come Amelia Rubbi, o Amelia Rubbi in Granelli, o Amelia Granelli nata Rubbi), vedova, deceduta in Bulawavo (Sud Rodesia) il 13 agosto 1956, con testamento del 21 luglio 1956 conservato ed accettato nell'archivio dell'Alta Corte della Rodesia del Sud.  
   
-Visto, il Guardasigilli: REALE  
-Registrato alla Corte dei conti, addi' 17 agosto 1967  
-Atti del Governo, registro n. 213, foglio n. 8. - CARUSO
+Visto, il Guardasigilli: BOSCO  
+Registrato alla Corte dei conti, addi' 27 settembre 1963  
+Atti del Governo, registro n. 174, foglio n. 138. - VILLA

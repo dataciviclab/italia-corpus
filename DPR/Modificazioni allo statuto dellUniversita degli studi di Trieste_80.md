@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1980 n. 960
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 gennaio 1981 n. 1160
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1980 n. 960
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 gennaio 1981 n. 1160
+===============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Trieste.
 -------------------------------------------------------------------
@@ -10,7 +10,7 @@ Modificazioni allo statuto dell'Universita' degli studi di Trieste.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' di Trieste, approvato con [decreto del Presidente della Repubblica 31 ottobre 1961, n. 1836](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1961-10-31;1836) e modificato con [decreto del Presidente della Repubblica 7 settembre 1964, n. 1540](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1964-09-07;1540), e successive modificazioni;
+Veduto lo statuto dell'Universita' di Trieste, approvato con [decreto del Presidente della Repubblica 31 ottobre 1961, n. 1836](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1961-10-31;1836) e modificato con [decreto del Presidente della Repubblica 7 settembre 1962, n. 1540](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1962-09-07;1540), e successive modificazioni;
 
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
@@ -18,111 +18,67 @@ Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it
 
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
 
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
 
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Trieste e convalidati dal Consiglio universitario nazionale nel suo parere;
+Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Trieste e convalidati dal Consiglio universitario nazionale nel suo parere;
 
 Sentito il parere del Consiglio universitario nazionale;
 
-Sulla
------
+Sulla proposta del Ministro della pubblica istruzione;
 
-proposta del Ministro della pubblica istruzione; Decreta:
+Decreta:
+--------
+
+Lo statuto dell'Universita' degli studi di Trieste, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
 Art. 1
 ------
 
   
-  
-Lo statuto dell'Universita' di Trieste, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
-  
-L'art. 111 dello statuto dell'Universita' di Trieste, di cui al [decreto del Presidente della Repubblica 27 ottobre 1978, n. 946](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1978-10-27;946), e' modificato nel senso che l'importo del contributo clinica e laboratorio e' stabilito in L. 144.000.   
+All'art. 59, dopo la laurea in pedagogia, e' aggiunta la laurea in "lingue e letterature straniere".  
 
 Art. 2
 ------
 
   
-L'art. 137, ultimo comma, dello statuto dell'Universita' di Trieste, di cui al [decreto del Presidente della Repubblica 31 ottobre 1978, n. 1054](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1978-10-31;1054), relativo alla scuola di specializzazione in psichiatria, e' modificato nel senso che l'importo del contributo clinica e laboratorio e' stabilito in L. 144.000.  
-
-Art. 3
-------
-
-  
-L'art. 143 dello statuto dell'Universita' di Trieste, di cui al [decreto del Presidente della Repubblica 22 maggio 1978, n. 614](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1978-05-22;614), relativo alla scuola di specializzazione in oftalmologia, e' modificato nel senso che l'importo del contributo clinica e laboratorio e' stabilito in L. 144.000.  
-
-Art. 4
-------
-
-  
-L'art. 146 dello statuto dell'Universita' di Trieste, di cui al [decreto del Presidente della Repubblica 10 febbraio 1977, n. 474](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1977-02-10;474), relativo alla scuola di specializzazione in neurologia, e' modificato nel senso che l'importo del contributo clinica e laboratorio e' stabilito in L. 144.000.  
-
-Art. 5
-------
-
-  
-L'art. 154 dello statuto dell'Universita' di Trieste, di cui al [decreto del Presidente della Repubblica 10 febbraio 1977, n. 474](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1977-02-10;474), relativo alla scuola di specializzazione in chirurgia generale, e' modificato nel senso che il contributo clinica e laboratorio e' stabilito in L. 144.000.  
-
-Art. 6
-------
-
-  
-L'art. 159 dello statuto dell'Universita' di Trieste, di cui al [decreto del Presidente della Repubblica 22 maggio 1978, n. 614](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1978-05-22;614), relativo alla scuola di specializzazione in chirurgia toracica, e' modificato nel senso che il contributo clinica e laboratorio e' stabilito in L. 144.000.  
-
-Art. 7
-------
-
-  
-  
-L'art. 164, settimo comma, dello statuto dell'Universita' di Trieste, di cui al [decreto del Presidente della Repubblica 10 febbraio 1977, n. 474](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1977-02-10;474), relativo alla scuola di specializzazione in otorinolaringoiatria, e' modificato nel senso che il contributo clinica e laboratorio e' stabilito in L. 144.000.   
-
-Art. 8
-------
-
-  
-L'art. 172, ultimo comma, dello statuto dell'Universita' di Trieste, di cui al [decreto del Presidente della Repubblica 31 ottobre 1978, n. 1054](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1978-10-31;1054), relativo alla scuola di specializzazione in audiologia, e' modificato nel senso che il contributo clinica e laboratorio e' stabilito in L. 144.000.  
-
-Art. 9
-------
-
-  
-L'art. 174, secondo comma, dello statuto dell'Universita' di Trieste, di cui al [decreto del Presidente della Repubblica 27 ottobre 1978, n. 946](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1978-10-27;946), relativo alla scuola di specializzazione in odontostomatologia, e' modificato nel senso che l'importo del contributo clinica e laboratorio e' stabilito in L. 144.000.  
-
-Art. 10
--------
-
-  
-L'art. 172 dello statuto dell'Universita' di Trieste, di cui al [decreto del Presidente della Repubblica 10 febbraio 1977, n. 474](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1977-02-10;474), relativo alla scuola di specializzazione in fisioterapia e' modificato nel senso che l'importo del contributo clinica e laboratorio e' stabilito in L. 144.000.  
-
-Art. 11
--------
-
-  
-  
-L'art. 179 dello statuto dell'Universita' di Trieste, di cui al [decreto del Presidente della Repubblica 1 giugno 1977, n. 598](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1977-06-01;598), relativo alla scuola di specializzazione in nefrologia, e' modificato nel senso che l'importo del contributo clinica e laboratorio e' stabilito in L. 144.000.   
-
-Art. 12
--------
-
-  
-L'art. 182 dello statuto dell'Universita' di Trieste, di cui al [decreto del Presidente della Repubblica 22 maggio 1978, n. 614](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1978-05-22;614), relativo alla scuola di specializzazione in urologia, e' modificato nel senso che l'importo del contributo clinica e laboratorio e' stabilito in L. 144.000.  
-
-Art. 13
--------
-
-  
-  
-L'art. 174, terzo comma, dello statuto dell'Universita' di Trieste di cui al [decreto del Presidente della Repubblica 9 ottobre 1979, n. 633](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1979-10-09;633), relativo alla scuola di specializzazione in ortognatodonzia, e' modificata nel senso che l'importo del contributo clinica e laboratorio e' stabilito in L. 144.000.   
+Dopo l'art. 62, con il conseguente spostamento della numerazione successiva, e' aggiunto il nuovo seguente articolo:  
+Art. 62. - La durata del corso degli studi per la laurea in lingue e letterature straniere e' di quattro anni.  
+Insegnamenti fondamentali:  
+1) lingua e letteratura italiana (biennale);  
+2) lingua e letteratura latina (biennale);  
+3) lingua e letteratura francese;  
+4) lingua e letteratura tedesca;  
+5) lingua e letteratura inglese;  
+6) lingua e letteratura spagnola;  
+7) lingua e letteratura russa;  
+8) filologia romanza;  
+9) filologia germanica;  
+10) storia romana;  
+11) storia medioevale;  
+12) storia moderna;  
+13) geografia.  
+Insegnamenti complementari:  
+1) storia della filosofia;  
+2) filosofia;  
+3) pedagogia;  
+4) storia dell'arte medioevale e moderna.  
+Lo studente deve seguire per tutti i quattro anni l'insegnamento della lingua straniera alla quale intende dedicare i suoi studi, e per due anni quello di un'altra delle lingue straniere; egli puo' inoltre seguire, pure per due anni, l'insegnamento di una terza lingua straniera, nel qual caso puo' diminuire di uno gli insegnamenti complementari.  
+Lo studente e' tenuto a sostenere due esami annuali da scegliere tra i tre insegnamenti di storia impartiti.  
+Lo studente deve sostenere una prova scritta di italiano, una di traduzione latina ed una di cultura generale nella lingua straniera nella quale ha approfondito i suoi studi per il conseguimento della laurea.  
+Per essere ammesso all'esame di laurea lo studente deve aver seguito i corsi e superato gli esami in cinque lingue e letterature straniere fondamentali, nelle altre materie fondamentali ed almeno in tre da lui scelte tra le complementari.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 31 ottobre 1980
+### Dato a Roma, addi' 19 gennaio 1981
 
 PERTINI BODRATO
 
 Visto, il Guardasigilli: SARTI
 
-Registrato alla Corte dei conti, addi' 30 dicembre 1980
+Registrato alla Corte dei conti, addi' 10 agosto 1982
 
-Registro n. 122 Istruzione, foglio n. 31
+Registro n. 99 Istruzione, foglio n. 173

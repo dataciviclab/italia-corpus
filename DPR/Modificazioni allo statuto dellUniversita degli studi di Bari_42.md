@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 ottobre 1969 n. 1342
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 marzo 1965 n. 419
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 ottobre 1969 n. 1342
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 marzo 1965 n. 419
+============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Bari.
 ----------------------------------------------------------------
@@ -10,15 +10,17 @@ Modificazioni allo statuto dell'Universita' degli studi di Bari.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' degli studi di Bari, approvato con [regio decreto 14 ottobre 1926, n. 2134](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2134), e modificato con [regio decreto 13 ottobre 1927, n. 2169](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2169), e successive modificazioni;
+Veduto lo statuto dell'Universita' degli studi di Bari, approvato con [regio decreto 14 ottobre 1926, n. 2134](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2134) e modificato con [regio decreto 13 ottobre 1927, n. 2169](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2169), e successive modificazioni;
 
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
 
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
 
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
+
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
 Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
 
@@ -30,419 +32,104 @@ Decreta:
 
 Lo statuto dell'Universita' degli studi di Bari, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
-Art. 174, relativo all'elenco delle scuole di specializzazione delle facolta' di medicina e chirurgia, e' modificato nel senso che la scuola di specializzazione in "Radiologia medica" muta denominazione in quella di "Radiologia", e che il "Corso di perfezionamento in puericultura, dietetica infantile ed assistenza all'infanzia" e' soppresso ed e' sostituito dalla scuola di specializzazione in "Puericultura". Allo stesso elenco e' aggiunta con il n. 18 la scuola di specializzazione in "Malattie dell'apparato cardiovascolare".
+Art. 7. - Agli insegnamenti complementari del corso di laurea in Giurisprudenza e' aggiunto quello di:
 
-Art. 175. - Il secondo comma relativo al corso di perfezionamento in puericultura, dietetica infantile ed assistenza sociale e' soppresso.
+"Organizzazione internazionale".
 
-Art. 182. - L'ultimo comma concernente gli esami di profitto per gli iscritti al predetto corso di perfezionamento e' soppresso.
+Art. 10, relativo alle modalita' di insegnamento delle lingue straniere per il corso di laurea in Scienze politiche e' soppresso, con il conseguente spostamento della successiva numerazione.
 
-Gli articoli 189, 193, 195, 200 relativi rispettivamente alle scuole di specializzazione in "Ostetricia e ginecologia", "Medicina legale e delle assicurazioni", "Radiologia medica" ed al "Corso di perfezionamento in puericultura, dietetica infantile ed assistenza sociale all'infanzia" sono abrogati e sostituiti dai seguenti:
+Art. 18, concernente il Seminario giuridico, e' modificato nel senso che il secondo comma e' abrogato e sostituito dal seguente: "La Direzione della biblioteca e' affidata ad un bibliotecario di gruppo A, nominato con pubblico concorso, il quale svolgera' la sua attivita' secondo le direttive del Seminario".
 
-Scuola di specializzazione in ostetricia e ginecologia
+Art. 49. - Agli Istituti della Facolta' di agraria e' aggiunto il seguente:
 
-Art. 189. - La scuola e' annessa all'istituto di clinica ostetrico-ginecologica e il corso di specializzazione ha la durata di quattro anni. L'ammissione alla scuola avviene a seguito di concorso per titoli ed esami.
+"Istituto di Entomologia agraria".
 
-Sono da considerare titoli preferenziali a parita' di risultato dell'esame di ammissione:
+Art. 79. - L'insegnamento complementare di Astronomia del corso di laurea in Matematica per l'indirizzo didattico viene contraddistinto con un asterisco (\*), per indicare che e' fra i corsi a scelta dello studente ad indirizzo fisico.
 
-a) il voto di laurea in medicina e chirurgia;
+Art. 94. - Agli Istituti della Facolta' di scienze matematiche, fisiche e naturali e' aggiunto l'"Osservatorio di Geofisica e Fisica cosmica".
 
-b) aver frequentato come studente interno la clinica ostetrica e ginecologica dell'Universita' di Bari;
+Nello stesso articolo la denominazione dell'Istituto di "Chimica, biologica" viene cosi' integrata: "Istituto di Chimica biologica (comprendente il Centro di studi sulla alimentazione)".
 
-c) aver svolto la tesi di laurea nella clinica ostetrica e ginecologica;
+Dopo l'art. 99, e con il conseguente spostamento della successiva numerazione sono inseriti i seguenti nuovi articoli, relativi al Centro di studi sull'alimentazione, al Seminario di studi chimici e all'Osservatorio di Geofisica, e Fisica cosmica.
 
-d) documentazione di eventuali servizi prestati in grossi reparti ospitalieri della specialita';
+Centro di studi sull'alimentazione
 
-e) eventuali pubblicazioni.
+Art. 100. - Presso la Facolta' di scienze viene istituito un Centro di studi sull'alimentazione che ha per finalita' studi sperimentali ed attivita' sociali attinenti a problemi di biochimica alimentare e relative tecniche produttivistiche.
 
-L'esame di ammissione deve espletarsi entro il mese di dicembre.
+Art. 101. - Tale Centro ha sede presso l'Istituto di Chimica biologica il cui direttore assume anche la direzione di detto Centro.
 
-Il numero degli iscritti e' stabilito in dieci per anno di corso per un totale complessivo di quaranta iscritti.
+Art. 102. - Per la gestione di tale Centro verranno utilizzati i fondi di ordinaria amministrazione dell'Istituto di Chimica biologica ed eventuali sovvenzioni da parte di enti o di privati.
 
-Per nessun motivo il corso di quattro anni puo' essere abbreviato.
+Seminario di studi chimici
 
-Nessun titolo puo' esonerare dalla frequenza gli iscritti nei quattro anni di corso.
+Art. 103. - Viene istituito il Seminario di studi chimici, cui partecipano i diversi istituti chimici della Facolta' di scienze.
 
-Gli iscritti, oltre l'obbligo di frequenza delle lezioni, esercitazioni, seminari, ecc., devono prestare servizio analogo a quello degli assistenti per non meno di nove mesi all'anno.
+Il Seminario di studi chimici ha le seguenti finalita' 1) organizzare simposi, conferenze, cicli di lezione, riunioni e pubblicazioni al fine di ampliare e completare la preparazione degli studenti e dei ricercatori e permettere un aggiornamento sui piu' moderni campi della ricerca pura e applicata 2) promuovere e facilitare la collaborazione tra i vari Istituti chimici mettendo a, disposizione degli stessi servizi, apparecchiature e ogni altro mezzo idoneo allo scopo.
 
-Gli iscritti alla scuola debbono sostenere esami annuali di profitto e l'esame finale di diploma. La sessione di esami di profitto e' unica ed e' espletata nel mese di ottobre.
+Art. 104. - Organo direttivo del seminario di studi chimici e' un Comitato costituito da tutti i professori di ruolo delle discipline chimiche della Facolta' di scienze.
 
-Non puo' essere iscritto all'anno successivo di corso chi non abbia superato gli esami di profitto dell'anno precedente.
+Il Comitato nomina nel suo seno un direttore del Seminario, che durera' in carica un anno accademico.
 
-Il programma di studi e' il seguente:
+Art. 105. - Le attivita' del Seminario di studi chimici sono determinate e organizzate dal Comitato.
 
-1° Anno:
+Gli atti amministrativi avranno la firma del solo direttore che risponde personalmente del funzionamento del Seminario al Comitato.
 
-1) Elementi di genetica e di eugenica;
+Osservatorio di Geofisica e Fisica cosmica
 
-2) Anatomia normale ed embriologia dell'apparato genitale femminile;
+Art. 106. - E' istituito presso l'Universita' di Bari un osservatorio per la ricerca scientifica nel campo della Geofisica e della Fisica cosmica.
 
-3) Fisiologia dell'apparato genitale femminile;
+Art. 107. - Sono preposti alla Direzione dell'osservatorio:
 
-4) Endocrinologia fisiologica;
+il Comitato direttivo;
 
-5) Fisiologia ostetrica;
+il direttore tecnico.
 
-6) Diagnostica ostetrica;
+Art. 108. - Il Comitato direttivo e' costituito da tre professori di ruolo della Universita' di Bari nominati dal rettore su proposta della Facolta' di scienze.
 
-7) Clinica ostetrica e ginecologica (1° corso, con esame al 4° anno).
+Di essi due sono scelti fra i professori del gruppo geomineralogico e del gruppo fisico della Facolta' stessa.
 
-2° Anno:
+Tali professori avranno la qualifica di membri effettivi e potranno essere sostituiti, in caso di assenza o impedimento, da due membri supplenti nominati anche dal rettore, su proposta della. Facolta' di scienze, tra i professori titolari di cattedra della Facolta' stessa e graduati secondo l'anzianita' di ruolo.
 
-1) Tecnica operatoria ostetrica;
+Art. 109. - Il Comitato direttivo dura in carica un triennio accademico. Esso nomina, nella prima seduta, il suo presidente che rimane in carica per il detto triennio.
 
-2) Diagnostica ginecologica;
+Art. 110. - Nel caso che, prima della scadenza del triennio, uno dei membri effettivi venga comunque a cessare dal servizio o a trovarsi definitivamente nella impossibilita' di esercitare le sue funzioni, si provvedera' a nominare effettivo il membro supplente piu' anziano del ruolo, procedendosi quindi alla nomina di altro membro supplente in sostituzione di quello passato effettivo.
 
-3) Tecnica diagnostica di laboratorio nel campo ostetrico-ginecologico, esclusa la istologia (sierologia, batteriologia, citologia, ematologia, biochimica);
+Sia il primo che il secondo dureranno pero' in carica sempre fino alla scadenza del triennio.
 
-4) Clinica ostetrica e ginecologia (2° corso, con esame al 4° anno).
+Qualora la cessazione dal servizio o la definitiva impossibilita' di esercitare le funzioni riguardi proprio il presidente, si procedera' alla nomina del nuovo presidente dopo aver integrato la composizione del Comitato nei sensi prescritti dal comma precedente.
 
-3° Anno:
+Ed il nuovo presidente rimarra' in carica sempre fino alla fine del triennio.
 
-1) Anatomia patologica ostetrica e ginecologica;
+Art. 111. - Il Comitato direttivo discute, approva, e dirige il programma generale di ricerca scientifica e delibera sin tutte le questioni che riguardano l'attivita' dell'Osservatorio. Il presidente convoca e presiede le riunioni del Comitato e ne fa eseguire le deliberazioni.
 
-2) Istologia normale e patologica nel campo della specialita';
-
-3) Puericultura prenatale;
-
-4) Emoterapia nel campo ostetrico e ginecologico;
-
-5) Anestesia e analgesia nel campo ostetrico e ginecologico;
-
-6) Tecnica operatoria ginecologica;
-
-7) Terapia medica ostetrica e ginecologica;
-
-8) Clinica ostetrica e ginecologica (3° corso, con esame al 4° anno).
-
-4° Anno:
-
-1) Puericultura postnatale e malattie del neonato;
-
-2) Ostetricia e ginecologia forense;
-
-3) Diagnostica roentgen, radioterapia in ostetricia e ginecologia;
-
-4) Urologia ginecologica;
-
-5) Chirurgia addominale extra genitale;
-
-6) Clinica ostetrica e ginecologica (4° corso con esame).
-
-Gli esami si fanno per gruppi di materie. I membri delle commissioni degli esami di profitto sono nominati dal direttore della scuola, mentre la commissione per l'esame di diploma e' nominata dal preside di facolta' su proposta del direttore della scuola.
-
-Per l'esonero dal pagamento delle tasse, soprattasse e contributi si applicano le disposizioni di legge vigenti.
-
-Per il conseguimento del diploma l'iscritto deve presentare e discutere una dissertazione scritta con contributo personale.
-
-Scuola di specializzazione in medicina legale e delle assicurazioni
-
-Art. 193. - La scuola di specializzazione in medicina legale e delle assicurazioni ha sede presso l'istituto di medicina legale e delle assicurazioni.
-
-L'ammissione alla stessa avviene in seguito a concorso per titoli ed esami.
-
-Non sono ammesse per nessun motivo abbreviazioni di corso.
-
-La durata della scuola e' di tre anni; il numero complessivo degli iscritti alla scuola non potra' essere superiore a trenta.
-
-Gli iscritti alla scuola hanno l'obbligo di frequentare le lezioni e le esercitazioni, nonche' di prestare servizio di medico interno per almeno sei mesi per ciascun anno di corso.
-
-Gli insegnamenti impartiti nella scuola sono i seguenti:
-
-1° Anno:
-
-1) Medicina legale generale;
-
-2) Elementi di diritto pubblico e privato;
-
-3) Tecnica e diagnostica anatomo-patologica generale e medico-legale;
-
-4) Traumatologia medico-legale;
-
-5) Semeiotica medico-legale.
-
-2° Anno:
-
-1) Medicina legale penalistica;
-
-2) Deontologia medica;
-
-3) Neuropsichiatria medico-legale;
-
-4) Elementi di medicina criminologica e di medicina penitenziaria;
-
-5) Indagini di sopralluogo;
-
-6) Identificazione personale.
-
-3° Anno:
-
-1) Medicina legale civilistica e canonistica;
-
-2) Tossicologia medico-legale;
-
-3) Tecniche di laboratorio medico-legale ed ematologia forense;
-
-4) Ostetricia e ginecologia forensi;
-
-5) Elementi di legislazione del lavoro;
-
-6) Elementi di medicina del lavoro;
-
-7) Medicina delle assicurazioni;
-
-8) Medicina legale militare e pensionistica civile.
-
-Scuola di specializzazione in radiologia
-
-Art. 195. - La scuola conferisce il diploma di specializzazione in radiologia (che abilita all'esercizio specialistico della roentgendiagnostica, della radioterapia e della medicina nucleare) ed il diploma di specializzazione in radiologia diagnostica (che abilita all'esercizio professionale specialistico della roentgendiagnostica).
-
-Essa ha sede presso l'istituto di radiologia.
-
-Il numero complessivo degli iscritti ai due corsi della scuola non puo' essere superiore ai ventiquattro.
-
-L'ammissione alla scuola avverra' in seguito a concorso per esami su nozioni generali di radiologia e di cultura medica.
-
-Non sono concesse, per alcun motivo, abbreviazioni di corso.
-
-Gli iscritti alla scuola hanno l'obbligo dell'internato presso l'istituto di radiologia.
-
-Gli insegnamenti impartiti nella scuola sono i seguenti:
-
-A. - Diploma di specializzazione in radiologia
-
-(durata quattro anni)
-
-1° Anno:
-
-1) Fisica, con particolare riguardo alla costituzione della materia, alla produzione, all'assorbimento ed alla misura delle radiazioni;
-
-2) Nozioni sugli apparecchi ed istrumenti della radiologia;
-
-3) Anatomia radiologica normale;
-
-4) Fisiologia radiologica;
-
-5) Tecnica radiologica generale;
-
-6) Semeiotica radiologica generale;
-
-7) Fondamenti di radiobiologia;
-
-8) Nozioni di statistica e matematica.
-
-2° Anno:
-
-1) Tecnica e metodica dell'esame radiologico dei vari organi, apparati e sistemi;
-
-2) Semeiotica radiologica speciale e diagnosi differenziale;
-
-3) Fondamenti di radioterapia;
-
-4) Danni di radiazioni e mezzi di protezione;
-
-5) Dimostrazioni cliniche di diagnostica radiologica;
-
-6) Dimostrazioni cliniche di radioterapia.
-
-3° Anno:
-
-1) Diagnostica radiologica differenziale;
-
-2) Dimostrazioni di casistica di roentgendiagnostica con confronto del quadro anatomo-patologico;
-
-3) Dimostrazioni di casistica di roentgenterapia con particolare riferimento all'anatomia patologica;
-
-4) Radioterapia tradizionale. Curieterapia;
-
-5) Radioterapia con alte energie;
-
-6) Elementi di medicina nucleare;
-
-7) Instrumentario, tecnica e metodica di applicazione;
-
-8) Dosimetria.
-
-4° Anno:
-
-1) Moderne tecniche di esplorazione e terapia radiologica;
-
-2) Diagnostica e terapia con isotopi radioattivi somministrati per via interna;
-
-3) Radiodiagnostica e radioterapia clinica (casistica);
-
-4) Medicina legale e legislazione sanitaria in relazione alla radiologia.
-
-B. - Diploma di specializzazione in radiologia diagnostica
-
-(durata tre anni)
-
-1° Anno:
-
-1) Fisica, con particolare riguardo alla costituzione della materia, alla produzione, all'assorbimento ed alla misura delle radiazioni;
-
-2) Nozioni sugli apparecchi ed istrumenti della radiologia;
-
-3) Anatomia radiologica normale;
-
-4) Fisiologia radiologica;
-
-5) Tecnica radiologica generale;
-
-6) Semeiotica radiologica generale;
-
-7) Fondamenti di radiobiologia;
-
-8) Nozioni di statistica e matematica.
-
-2° Anno:
-
-1) Metodica di esplorazione dei vari organi e apparati;
-
-2) Semeiotica radiologica speciale e diagnosi differenziale;
-
-3) Nozioni generali sulle lesioni da radiazioni e mezzi di protezione;
-
-4) Moderne tecniche di esplorazione radiologica.
-
-3° Anno:
-
-1) Esplorazione radiologica nella patologia dei vari organi ed apparati. Diagnostica differenziale. Rapporti con l'anatomia patologica;
-
-2) Radiodiagnostica clinica;
-
-3) Medicina legale e legislazione sanitaria in relazione alla radiologia.
-
-I corsi di cui ai precedenti paragrafi A e B saranno integrati da conferenze, esercitazioni e seminari.
-
-Scuola di specializzazione in puericultura
-
-Art. 200. - La scuola di specializzazione in puericultura e' annessa all'istituto di clinica pediatrica. Essa ha la durata di tre anni e si propone di conferire la preparazione teorico-pratica in biologia infantile e pediatria preventiva a laureati in medicina e chirurgia.
-
-Il numero complessivo degli iscritti alla scuola non puo' essere superiore a nove.
-
-Non sono ammesse per alcun motivo abbreviazioni di corso.
-
-Le materie di insegnamento sono:
-
-1° Anno:
-
-1) Peculiarita' anatomo-fisiologiche dell'eta' evolutiva;
-
-2) Elementi di genetica medica e di eugenetica;
-
-3) Elementi di puericultura perinatale;
-
-4) Auxologia;
-
-5) Alimentazione e dietetica dell'eta' infantile;
-
-6) Elementi di semeiotica infantile.
-
-2° Anno:
-
-1) Psicologia ed igiene mentale nell'eta' evolutiva;
-
-2) Igiene ed assistenza dell'eta' evolutiva;
-
-3) Profilassi delle malattie infettive nell'infanzia;
-
-4) Elementi di medicina scolastica;
-
-5) Legislazione ed assistenza sociale all'infanzia.
-
-3° Anno:
-
-Tirocinio pratico presso l'istituto ove la scuola ha sede.
-
-Durante l'anno saranno svolte esercitazioni pratiche e conferenze su argomenti di puericultura.
-
-Gli iscritti hanno l'obbligo di internato con le modalita' e l'orario che saranno stabiliti dal direttore della scuola.
-
-Alla fine di ognuno dei primi due anni, gli iscritti dovranno sostenere l'esame sulle materie di insegnamento.
-
-Al termine del terzo anno essi sosterranno un esame pratico unitamente all'esame di diploma.
-
-Dopo l'art. 227 e' aggiunto l'art. 228 relativo alla istituzione, presso la facolta' di medicina e chirurgia, della scuola di specializzazione in malattie dell'apparato cardiovascolare.
-
-Scuola di specializzazione in malattie dell'apparato cardiovascolare
-
-Art. 228. - L'ammissione alla scuola avverra' in seguito a concorso per esami. Il numero complessivo degli iscritti alla scuola non puo' essere superiore a dodici.
-
-Per il conseguimento del diploma di specialista in malattie dell'apparato cardio-vascolare si richiedono tre anni di corso con internato. Tale internato si svolgera' presso l'istituto di clinica medica ed avra' la durata di almeno dieci mesi all'anno per ogni singolo anno di corso.
-
-Non saranno consentite abbreviazioni di corso.
-
-Gli insegnamenti impartiti nella scuola sono i seguenti:
-
-1° Anno:
-
-1) Anatomia normale dell'apparato cardio-vascolare;
-
-2) Fisiologia dell'apparato cardio-vascolare e respiratorio;
-
-3) Fisiopatologia cardio-vascolare e respiratoria (1° corso);
-
-4) Patologia cardio-vascolare (1° corso);
-
-5) Semeiologia fisica (1° corso);
-
-6) Semeiologia strumentale (1° corso).
-
-2° Anno:
-
-1) Fisiopatologia cardio-vascolare e respiratoria (2° corso);
-
-2) Patologia cardio-vascolare (2° corso);
-
-3) Semeiologia fisica (2° corso);
-
-4) Semeiologia strumentale (2° corso);
-
-5) Anatomia patologica dell'apparato cardio-vascolare (1° corso);
-
-6) Radiologia;
-
-7) Farmacologia;
-
-8) Clinica e terapia (1° corso).
-
-3° Anno:
-
-1) Anatomia patologica dell'apparato cardio-vascolare (2° corso);
-
-2) Clinica e terapia (2° corso);
-
-3) Chirurgia dell'apparato cardio-vascolare;
-
-4) Problemi assicurativi e sociali.
-
-L'esame di diploma di specializzazione consiste nella discussione di una dissertazione scritta su argomento precedentemente concordato con il direttore della scuola.
+Art. 112. - Il direttore tecnico dell'Osservatorio e' nominato dal rettore su proposta del Comitato direttivo. Egli opera in conformita' alle direttive del Comitato per la organizzazione e il funzionamento dei servizi, rispondendo personalmente, per l'attivita' corrente, al presidente del Comitato.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 
-Dato a Roma, addi' 30 ottobre 1969
+Dato a Roma, addi' 18 marzo 1965
 
 SARAGAT
 
-FERRARI AGGRADI
+GUI
 
-Visto, il Guardasigilli: GAVA
+Visto, il Guardasigilli: REALE
 
 Registrato
 ----------
 
-alla Corte dei conti, addi' 22 luglio 1970 Atti del Governo, registro n. 236, foglio n. 175. - IZZI
+alla Corte dei conti, addi' 6 maggio 1965 Atti del Governo, registro n. 193, foglio n. 15. - VILLA
 
 Art. 1
 ------
 
  IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Bari, approvato con [regio decreto 14 ottobre 1926, n. 2134](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2134), e modificato con [regio decreto 13 ottobre 1927, n. 2169](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2169), e successive modificazioni;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto lo statuto dell'Universita' degli studi di Bari, approvato con [regio decreto 14 ottobre 1926, n. 2134](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2134) e modificato con [regio decreto 13 ottobre 1927, n. 2169](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2169), e successive modificazioni;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;  
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
 Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
 Sentito il parere del Consiglio superiore della pubblica istruzione;  
 Sulla proposta del Ministro per la pubblica istruzione;  
@@ -450,223 +137,53 @@ Sulla proposta del Ministro per la pubblica istruzione;
 Decreta:  
   
 Lo statuto dell'Universita' degli studi di Bari, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-Art. 174, relativo all'elenco delle scuole di specializzazione delle facolta' di medicina e chirurgia, e' modificato nel senso che la scuola di specializzazione in "Radiologia medica" muta denominazione in quella di "Radiologia", e che il "Corso di perfezionamento in puericultura, dietetica infantile ed assistenza all'infanzia" e' soppresso ed e' sostituito dalla scuola di specializzazione in "Puericultura". Allo stesso elenco e' aggiunta con il n. 18 la scuola di specializzazione in "Malattie dell'apparato cardiovascolare".  
-Art. 175. - Il secondo comma relativo al corso di perfezionamento in puericultura, dietetica infantile ed assistenza sociale e' soppresso.  
-Art. 182. - L'ultimo comma concernente gli esami di profitto per gli iscritti al predetto corso di perfezionamento e' soppresso.  
-Gli articoli 189, 193, 195, 200 relativi rispettivamente alle scuole di specializzazione in "Ostetricia e ginecologia", "Medicina legale e delle assicurazioni", "Radiologia medica" ed al "Corso di perfezionamento in puericultura, dietetica infantile ed assistenza sociale all'infanzia" sono abrogati e sostituiti dai seguenti:  
-  
-Scuola di specializzazione in ostetricia e ginecologia  
-  
-Art. 189. - La scuola e' annessa all'istituto di clinica ostetrico-ginecologica e il corso di specializzazione ha la durata di quattro anni. L'ammissione alla scuola avviene a seguito di concorso per titoli ed esami.  
-Sono da considerare titoli preferenziali a parita' di risultato dell'esame di ammissione:  
-a) il voto di laurea in medicina e chirurgia;  
-b) aver frequentato come studente interno la clinica ostetrica e ginecologica dell'Universita' di Bari;  
-c) aver svolto la tesi di laurea nella clinica ostetrica e ginecologica;  
-d) documentazione di eventuali servizi prestati in grossi reparti ospitalieri della specialita';  
-e) eventuali pubblicazioni.  
-L'esame di ammissione deve espletarsi entro il mese di dicembre.  
-Il numero degli iscritti e' stabilito in dieci per anno di corso per un totale complessivo di quaranta iscritti.  
-Per nessun motivo il corso di quattro anni puo' essere abbreviato.  
-Nessun titolo puo' esonerare dalla frequenza gli iscritti nei quattro anni di corso.  
-Gli iscritti, oltre l'obbligo di frequenza delle lezioni, esercitazioni, seminari, ecc., devono prestare servizio analogo a quello degli assistenti per non meno di nove mesi all'anno.  
-Gli iscritti alla scuola debbono sostenere esami annuali di profitto e l'esame finale di diploma. La sessione di esami di profitto e' unica ed e' espletata nel mese di ottobre.  
-Non puo' essere iscritto all'anno successivo di corso chi non abbia superato gli esami di profitto dell'anno precedente.  
-Il programma di studi e' il seguente:  
-1° Anno:  
-1) Elementi di genetica e di eugenica;  
-2) Anatomia normale ed embriologia dell'apparato genitale femminile;  
-3) Fisiologia dell'apparato genitale femminile;  
-4) Endocrinologia fisiologica;  
-5) Fisiologia ostetrica;  
-6) Diagnostica ostetrica;  
-7) Clinica ostetrica e ginecologica (1° corso, con esame al 4° anno).  
-2° Anno:  
-1) Tecnica operatoria ostetrica;  
-2) Diagnostica ginecologica;  
-3) Tecnica diagnostica di laboratorio nel campo ostetrico-ginecologico, esclusa la istologia (sierologia, batteriologia, citologia, ematologia, biochimica);  
-4) Clinica ostetrica e ginecologia (2° corso, con esame al 4° anno).  
-3° Anno:  
-1) Anatomia patologica ostetrica e ginecologica;  
-2) Istologia normale e patologica nel campo della specialita';  
-3) Puericultura prenatale;  
-4) Emoterapia nel campo ostetrico e ginecologico;  
-5) Anestesia e analgesia nel campo ostetrico e ginecologico;  
-6) Tecnica operatoria ginecologica;  
-7) Terapia medica ostetrica e ginecologica;  
-8) Clinica ostetrica e ginecologica (3° corso, con esame al 4° anno).  
-4° Anno:  
-1) Puericultura postnatale e malattie del neonato;  
-2) Ostetricia e ginecologia forense;  
-3) Diagnostica roentgen, radioterapia in ostetricia e ginecologia;  
-4) Urologia ginecologica;  
-5) Chirurgia addominale extra genitale;  
-6) Clinica ostetrica e ginecologica (4° corso con esame).  
-Gli esami si fanno per gruppi di materie. I membri delle commissioni degli esami di profitto sono nominati dal direttore della scuola, mentre la commissione per l'esame di diploma e' nominata dal preside di facolta' su proposta del direttore della scuola.  
-Per l'esonero dal pagamento delle tasse, soprattasse e contributi si applicano le disposizioni di legge vigenti.  
-Per il conseguimento del diploma l'iscritto deve presentare e discutere una dissertazione scritta con contributo personale.  
-  
-Scuola di specializzazione in medicina legale e delle assicurazioni   
-Art. 193. - La scuola di specializzazione in medicina legale e delle assicurazioni ha sede presso l'istituto di medicina legale e delle assicurazioni.  
-L'ammissione alla stessa avviene in seguito a concorso per titoli ed esami.  
-Non sono ammesse per nessun motivo abbreviazioni di corso.  
-La durata della scuola e' di tre anni; il numero complessivo degli iscritti alla scuola non potra' essere superiore a trenta.  
-Gli iscritti alla scuola hanno l'obbligo di frequentare le lezioni e le esercitazioni, nonche' di prestare servizio di medico interno per almeno sei mesi per ciascun anno di corso.  
-Gli insegnamenti impartiti nella scuola sono i seguenti:  
-1° Anno:  
-1) Medicina legale generale;  
-2) Elementi di diritto pubblico e privato;  
-3) Tecnica e diagnostica anatomo-patologica generale e medico-legale;  
-4) Traumatologia medico-legale;  
-5) Semeiotica medico-legale.  
-2° Anno:  
-1) Medicina legale penalistica;  
-2) Deontologia medica;  
-3) Neuropsichiatria medico-legale;  
-4) Elementi di medicina criminologica e di medicina penitenziaria;  
-5) Indagini di sopralluogo;  
-6) Identificazione personale.  
-3° Anno:  
-1) Medicina legale civilistica e canonistica;  
-2) Tossicologia medico-legale;  
-3) Tecniche di laboratorio medico-legale ed ematologia forense;  
-4) Ostetricia e ginecologia forensi;  
-5) Elementi di legislazione del lavoro;  
-6) Elementi di medicina del lavoro;  
-7) Medicina delle assicurazioni;  
-8) Medicina legale militare e pensionistica civile.  
-  
-Scuola di specializzazione in radiologia  
-  
-Art. 195. - La scuola conferisce il diploma di specializzazione in radiologia (che abilita all'esercizio specialistico della roentgendiagnostica, della radioterapia e della medicina nucleare) ed il diploma di specializzazione in radiologia diagnostica (che abilita all'esercizio professionale specialistico della roentgendiagnostica).  
-Essa ha sede presso l'istituto di radiologia.  
-Il numero complessivo degli iscritti ai due corsi della scuola non puo' essere superiore ai ventiquattro.  
-L'ammissione alla scuola avverra' in seguito a concorso per esami su nozioni generali di radiologia e di cultura medica.  
-Non sono concesse, per alcun motivo, abbreviazioni di corso.  
-Gli iscritti alla scuola hanno l'obbligo dell'internato presso l'istituto di radiologia.  
-Gli insegnamenti impartiti nella scuola sono i seguenti:  
-  
-A. - Diploma di specializzazione in radiologia  
-(durata quattro anni)  
-  
-1° Anno:  
-1) Fisica, con particolare riguardo alla costituzione della materia, alla produzione, all'assorbimento ed alla misura delle radiazioni;  
-2) Nozioni sugli apparecchi ed istrumenti della radiologia;  
-3) Anatomia radiologica normale;  
-4) Fisiologia radiologica;  
-5) Tecnica radiologica generale;  
-6) Semeiotica radiologica generale;  
-7) Fondamenti di radiobiologia;  
-8) Nozioni di statistica e matematica.  
-2° Anno:  
-1) Tecnica e metodica dell'esame radiologico dei vari organi, apparati e sistemi;  
-2) Semeiotica radiologica speciale e diagnosi differenziale;  
-3) Fondamenti di radioterapia;  
-4) Danni di radiazioni e mezzi di protezione;  
-5) Dimostrazioni cliniche di diagnostica radiologica;  
-6) Dimostrazioni cliniche di radioterapia.  
-3° Anno:  
-1) Diagnostica radiologica differenziale;  
-2) Dimostrazioni di casistica di roentgendiagnostica con confronto del quadro anatomo-patologico;  
-3) Dimostrazioni di casistica di roentgenterapia con particolare riferimento all'anatomia patologica;  
-4) Radioterapia tradizionale. Curieterapia;  
-5) Radioterapia con alte energie;  
-6) Elementi di medicina nucleare;  
-7) Instrumentario, tecnica e metodica di applicazione;  
-8) Dosimetria.  
-4° Anno:  
-1) Moderne tecniche di esplorazione e terapia radiologica;  
-2) Diagnostica e terapia con isotopi radioattivi somministrati per via interna;  
-3) Radiodiagnostica e radioterapia clinica (casistica);  
-4) Medicina legale e legislazione sanitaria in relazione alla radiologia.  
-  
-B. - Diploma di specializzazione in radiologia diagnostica  
-(durata tre anni)  
-  
-1° Anno:  
-1) Fisica, con particolare riguardo alla costituzione della materia, alla produzione, all'assorbimento ed alla misura delle radiazioni;  
-2) Nozioni sugli apparecchi ed istrumenti della radiologia;  
-3) Anatomia radiologica normale;  
-4) Fisiologia radiologica;  
-5) Tecnica radiologica generale;  
-6) Semeiotica radiologica generale;  
-7) Fondamenti di radiobiologia;  
-8) Nozioni di statistica e matematica.  
-2° Anno:  
-1) Metodica di esplorazione dei vari organi e apparati;  
-2) Semeiotica radiologica speciale e diagnosi differenziale;  
-3) Nozioni generali sulle lesioni da radiazioni e mezzi di protezione;  
-4) Moderne tecniche di esplorazione radiologica.  
-3° Anno:  
-1) Esplorazione radiologica nella patologia dei vari organi ed apparati. Diagnostica differenziale. Rapporti con l'anatomia patologica;  
-2) Radiodiagnostica clinica;  
-3) Medicina legale e legislazione sanitaria in relazione alla radiologia.  
-I corsi di cui ai precedenti paragrafi A e B saranno integrati da conferenze, esercitazioni e seminari.  
-  
-Scuola di specializzazione in puericultura  
-  
-Art. 200. - La scuola di specializzazione in puericultura e' annessa all'istituto di clinica pediatrica. Essa ha la durata di tre anni e si propone di conferire la preparazione teorico-pratica in biologia infantile e pediatria preventiva a laureati in medicina e chirurgia.  
-Il numero complessivo degli iscritti alla scuola non puo' essere superiore a nove.  
-Non sono ammesse per alcun motivo abbreviazioni di corso.  
-Le materie di insegnamento sono:  
-1° Anno:  
-1) Peculiarita' anatomo-fisiologiche dell'eta' evolutiva;  
-2) Elementi di genetica medica e di eugenetica;  
-3) Elementi di puericultura perinatale;  
-4) Auxologia;  
-5) Alimentazione e dietetica dell'eta' infantile;  
-6) Elementi di semeiotica infantile.  
-2° Anno:  
-1) Psicologia ed igiene mentale nell'eta' evolutiva;  
-2) Igiene ed assistenza dell'eta' evolutiva;  
-3) Profilassi delle malattie infettive nell'infanzia;  
-4) Elementi di medicina scolastica;  
-5) Legislazione ed assistenza sociale all'infanzia.  
-3° Anno:  
-Tirocinio pratico presso l'istituto ove la scuola ha sede.  
-Durante l'anno saranno svolte esercitazioni pratiche e conferenze su argomenti di puericultura.  
-Gli iscritti hanno l'obbligo di internato con le modalita' e l'orario che saranno stabiliti dal direttore della scuola.  
-Alla fine di ognuno dei primi due anni, gli iscritti dovranno sostenere l'esame sulle materie di insegnamento.  
-Al termine del terzo anno essi sosterranno un esame pratico unitamente all'esame di diploma.  
-Dopo l'art. 227 e' aggiunto l'art. 228 relativo alla istituzione, presso la facolta' di medicina e chirurgia, della scuola di specializzazione in malattie dell'apparato cardiovascolare.  
-  
-Scuola di specializzazione in malattie dell'apparato cardiovascolare   
-Art. 228. - L'ammissione alla scuola avverra' in seguito a concorso per esami. Il numero complessivo degli iscritti alla scuola non puo' essere superiore a dodici.  
-Per il conseguimento del diploma di specialista in malattie dell'apparato cardio-vascolare si richiedono tre anni di corso con internato. Tale internato si svolgera' presso l'istituto di clinica medica ed avra' la durata di almeno dieci mesi all'anno per ogni singolo anno di corso.  
-Non saranno consentite abbreviazioni di corso.  
-Gli insegnamenti impartiti nella scuola sono i seguenti:  
-1° Anno:  
-1) Anatomia normale dell'apparato cardio-vascolare;  
-2) Fisiologia dell'apparato cardio-vascolare e respiratorio;  
-3) Fisiopatologia cardio-vascolare e respiratoria (1° corso);  
-4) Patologia cardio-vascolare (1° corso);  
-5) Semeiologia fisica (1° corso);  
-6) Semeiologia strumentale (1° corso).  
-2° Anno:  
-1) Fisiopatologia cardio-vascolare e respiratoria (2° corso);  
-2) Patologia cardio-vascolare (2° corso);  
-3) Semeiologia fisica (2° corso);  
-4) Semeiologia strumentale (2° corso);  
-5) Anatomia patologica dell'apparato cardio-vascolare (1° corso);  
-6) Radiologia;  
-7) Farmacologia;  
-8) Clinica e terapia (1° corso).  
-3° Anno:  
-1) Anatomia patologica dell'apparato cardio-vascolare (2° corso);  
-2) Clinica e terapia (2° corso);  
-3) Chirurgia dell'apparato cardio-vascolare;  
-4) Problemi assicurativi e sociali.  
-L'esame di diploma di specializzazione consiste nella discussione di una dissertazione scritta su argomento precedentemente concordato con il direttore della scuola.  
+Art. 7. - Agli insegnamenti complementari del corso di laurea in Giurisprudenza e' aggiunto quello di:  
+"Organizzazione internazionale".  
+Art. 10, relativo alle modalita' di insegnamento delle lingue straniere per il corso di laurea in Scienze politiche e' soppresso, con il conseguente spostamento della successiva numerazione.  
+Art. 18, concernente il Seminario giuridico, e' modificato nel senso che il secondo comma e' abrogato e sostituito dal seguente: "La Direzione della biblioteca e' affidata ad un bibliotecario di gruppo A, nominato con pubblico concorso, il quale svolgera' la sua attivita' secondo le direttive del Seminario".  
+Art. 49. - Agli Istituti della Facolta' di agraria e' aggiunto il seguente:  
+"Istituto di Entomologia agraria".  
+Art. 79. - L'insegnamento complementare di Astronomia del corso di laurea in Matematica per l'indirizzo didattico viene contraddistinto con un asterisco (\*), per indicare che e' fra i corsi a scelta dello studente ad indirizzo fisico.  
+Art. 94. - Agli Istituti della Facolta' di scienze matematiche, fisiche e naturali e' aggiunto l'"Osservatorio di Geofisica e Fisica cosmica".  
+Nello stesso articolo la denominazione dell'Istituto di "Chimica, biologica" viene cosi' integrata: "Istituto di Chimica biologica (comprendente il Centro di studi sulla alimentazione)".  
+Dopo l'art. 99, e con il conseguente spostamento della successiva numerazione sono inseriti i seguenti nuovi articoli, relativi al Centro di studi sull'alimentazione, al Seminario di studi chimici e all'Osservatorio di Geofisica, e Fisica cosmica.  
+Centro di studi sull'alimentazione  
+Art. 100. - Presso la Facolta' di scienze viene istituito un Centro di studi sull'alimentazione che ha per finalita' studi sperimentali ed attivita' sociali attinenti a problemi di biochimica alimentare e relative tecniche produttivistiche.  
+Art. 101. - Tale Centro ha sede presso l'Istituto di Chimica biologica il cui direttore assume anche la direzione di detto Centro.  
+Art. 102. - Per la gestione di tale Centro verranno utilizzati i fondi di ordinaria amministrazione dell'Istituto di Chimica biologica ed eventuali sovvenzioni da parte di enti o di privati.  
+Seminario di studi chimici  
+Art. 103. - Viene istituito il Seminario di studi chimici, cui partecipano i diversi istituti chimici della Facolta' di scienze.  
+Il Seminario di studi chimici ha le seguenti finalita' 1) organizzare simposi, conferenze, cicli di lezione, riunioni e pubblicazioni al fine di ampliare e completare la preparazione degli studenti e dei ricercatori e permettere un aggiornamento sui piu' moderni campi della ricerca pura e applicata 2) promuovere e facilitare la collaborazione tra i vari Istituti chimici mettendo a, disposizione degli stessi servizi, apparecchiature e ogni altro mezzo idoneo allo scopo.  
+Art. 104. - Organo direttivo del seminario di studi chimici e' un Comitato costituito da tutti i professori di ruolo delle discipline chimiche della Facolta' di scienze.  
+Il Comitato nomina nel suo seno un direttore del Seminario, che durera' in carica un anno accademico.  
+Art. 105. - Le attivita' del Seminario di studi chimici sono determinate e organizzate dal Comitato.  
+Gli atti amministrativi avranno la firma del solo direttore che risponde personalmente del funzionamento del Seminario al Comitato.  
+Osservatorio di Geofisica e Fisica cosmica  
+Art. 106. - E' istituito presso l'Universita' di Bari un osservatorio per la ricerca scientifica nel campo della Geofisica e della Fisica cosmica.  
+Art. 107. - Sono preposti alla Direzione dell'osservatorio:  
+il Comitato direttivo;  
+il direttore tecnico.  
+Art. 108. - Il Comitato direttivo e' costituito da tre professori di ruolo della Universita' di Bari nominati dal rettore su proposta della Facolta' di scienze.  
+Di essi due sono scelti fra i professori del gruppo geomineralogico e del gruppo fisico della Facolta' stessa.  
+Tali professori avranno la qualifica di membri effettivi e potranno essere sostituiti, in caso di assenza o impedimento, da due membri supplenti nominati anche dal rettore, su proposta della. Facolta' di scienze, tra i professori titolari di cattedra della Facolta' stessa e graduati secondo l'anzianita' di ruolo.  
+Art. 109. - Il Comitato direttivo dura in carica un triennio accademico. Esso nomina, nella prima seduta, il suo presidente che rimane in carica per il detto triennio.  
+Art. 110. - Nel caso che, prima della scadenza del triennio, uno dei membri effettivi venga comunque a cessare dal servizio o a trovarsi definitivamente nella impossibilita' di esercitare le sue funzioni, si provvedera' a nominare effettivo il membro supplente piu' anziano del ruolo, procedendosi quindi alla nomina di altro membro supplente in sostituzione di quello passato effettivo.  
+Sia il primo che il secondo dureranno pero' in carica sempre fino alla scadenza del triennio.  
+Qualora la cessazione dal servizio o la definitiva impossibilita' di esercitare le funzioni riguardi proprio il presidente, si procedera' alla nomina del nuovo presidente dopo aver integrato la composizione del Comitato nei sensi prescritti dal comma precedente.  
+Ed il nuovo presidente rimarra' in carica sempre fino alla fine del triennio.  
+Art. 111. - Il Comitato direttivo discute, approva, e dirige il programma generale di ricerca scientifica e delibera sin tutte le questioni che riguardano l'attivita' dell'Osservatorio. Il presidente convoca e presiede le riunioni del Comitato e ne fa eseguire le deliberazioni.  
+Art. 112. - Il direttore tecnico dell'Osservatorio e' nominato dal rettore su proposta del Comitato direttivo. Egli opera in conformita' alle direttive del Comitato per la organizzazione e il funzionamento dei servizi, rispondendo personalmente, per l'attivita' corrente, al presidente del Comitato.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 30 ottobre 1969
+### Dato a Roma, addi' 18 marzo 1965
 
-SARAGAT FERRARI AGGRADI
+SARAGAT GUI
 
-Visto, il Guardasigilli: GAVA
+Visto, il Guardasigilli: REALE
 
-Registrato alla Corte dei conti, addi' 22 luglio 1970
+Registrato alla Corte dei conti, addi' 6 maggio 1965
 
-Atti del Governo, registro n. 236, foglio n. 175. - IZZI
+Atti del Governo, registro n. 193, foglio n. 15. - VILLA

@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 23 giugno 1970 n. 759
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 16 ottobre 1973 n. 1044
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 23 giugno 1970 n. 759
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 16 ottobre 1973 n. 1044
+===============================================================
 
 Modificazioni allo statuto della libera Universita' degli studi "G. 
 D'Annunzio" di Chieti.
@@ -13,60 +13,37 @@ Art. 1
 
  IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto della libera Universita' degli studi "G.  
-D'Annunzio" di Chieti, approvato con [decreto del Presidente della Repubblica 9 maggio 1965, n. 1007](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1965-05-09;1007) e modificato con [decreto del Presidente della Repubblica 20 settembre 1966, n. 1291](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1966-09-20;1291), e successive modificazioni;  
+Veduto lo statuto della libera Universita' "G. D'Annunzio" di Chieti, approvato con [decreto del Presidente della Repubblica 8 maggio 1965, n. 1007](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1965-05-08;1007) e modificato con [decreto del Presidente della Repubblica 20 settembre 1966, n. 1291](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1966-09-20;1291), e successive modificazioni;  
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
 Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
 Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
 Sentito il parere del Consiglio superiore della pubblica istruzione;  
 Sulla proposta del Ministro per la pubblica istruzione;  
   
 Decreta:  
   
-Lo statuto della libera Universita' degli studi "G. D'Annunzio" di Chieti, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato nel senso che il corso degli studi della facolta' di medicina e chirurgia e' portato da due a tre anni e pertanto gli articoli 43 e 44 sono abrogati e sostituiti dai seguenti:  
+Lo statuto della libera Universita' degli studi "G. D'Annunzio" di Chieti, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+Art. 29 - all'elenco degli insegnamenti complementari del corso di laurea in lingue e letterature straniere e' aggiunto il seguente:  
   
-Facolta' di medicina e chirurgia (limitata al primo triennio)  
+Storia romana.  
   
-Art. 43. - Sono titoli di ammissione alla facolta' di medicina e chirurgia quelli previsti dalle vigenti disposizioni di legge.  
-Art. 44. - Gli insegnamenti del triennio sono i seguenti:  
-Insegnamenti fondamentali:  
-1) Chimica;  
-2) Fisica;  
-3) Biologia e zoologia generale, compresa la genetica e la biologia delle razze;  
-4) Anatomia umana normale (biennale);  
-5) Fisiologia umana (biennale al 2° e al 3° anno);  
-6) Patologia generale (biennale al 2° e al 3° anno);  
-7) Chimica biologica;  
-8) Microbiologia;  
-9) Farmacologia.  
-Insegnamenti complementari:  
-1) Istologia ed embriologia generale;  
-2) Anatomia topografica;  
-3) Istochimica;  
-4) Parassitologia;  
-5) Virologia;  
-6) Scienza dell'alimentazione;  
-7) Radiobiologia;  
-8) Storia della medicina;  
-9) Psicologia.  
-Le esercitazioni pratiche nelle discipline fondamentali sono obbligatorie per tutti gli studenti.  
-Le esercitazioni per le discipline complementari sono obbligatorie invece solo per gli studenti che seguono i corsi relativi.  
-Per gli insegnamenti complementari e' prescritto un corso semestrale, essi vengono ripartiti nei vari anni di corso con il manifesto degli studi.  
-Lo studente puo' ottenere l'iscrizione al 3° anno se ha frequentato gli insegnamenti fondamentali previsti per il biennio e ha superato i relativi esami. Il passaggio puo', tuttavia, essere concesso se lo studente si trovi in difetto di due soli esami.  
+Art. 48 - all'elenco degli insegnamenti complementari del corso di laurea in medicina e chirurgia e' aggiunto il seguente:  
+  
+Medicina criminologica e psichiatria forense.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 23 giugno 1970
+### Dato a Roma, addi' 16 ottobre 1973
 
-SARAGAT MISASI
+LEONE MALFATTI
 
-Visto, il Guardasigilli: REALE
+Visto, il Guardasigilli: ZAGARI
 
-Registrato alla Corte dei conti, addi' 21 ottobre 1970
+Registrato alla Corte dei conti, addi' 27 marzo 1974
 
-Atti del Governo, registro n. 238, foglio n. 8. - GRECO
+Atti di Governo, registro n. 2, foglio n. 55. - SCIARRETTA

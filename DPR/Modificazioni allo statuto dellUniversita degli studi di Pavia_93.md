@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 ottobre 1978 n. 948
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1978 n. 1053
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 ottobre 1978 n. 948
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1978 n. 1053
+===============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Pavia.
 -----------------------------------------------------------------
@@ -10,7 +10,7 @@ Modificazioni allo statuto dell'Universita' degli studi di Pavia.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Visto lo statuto dell'Universita' di Pavia, approvato con [regio decreto 14 ottobre 1926, n. 2130](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2130) e modificato con [regio decreto 13 ottobre 1927, n. 2229](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2229), e successive modificazioni;
+Veduto lo statuto dell'Universita' di Pavia, approvato con [regio decreto 14 ottobre 1926, n. 2130](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2130) e modificato con [regio decreto 13 ottobre 1927, n. 2229](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2229), e successive modificazioni;
 
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
@@ -18,11 +18,11 @@ Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it
 
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
 
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
-
 Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
 Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Pavia e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;
+
+Veduta la [legge 22 maggio 1978, n. 217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-05-22;217);
 
 Sentito il parere del Consiglio superiore della pubblica istruzione;
 
@@ -30,109 +30,321 @@ Sulla proposta del Ministro della pubblica istruzione;
 
 Decreta:
 
-Lo statuto dell'Universita' degli studi di Pavia, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+Lo statuto dell'Universita' di Pavia, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come segue:
 
-Dopo l'art. 96, e con lo spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli, relativi alla istituzione della scuola di perfezionamento in governo dell'ambiente e del territorio, annessa alla facolta' di giurisprudenza.
+L'art. 134, relativo alla scuola di specializzazione in psichiatria, e' modificato nel senso che i commi 8, 9, 10 e 11 sono soppressi e sostituiti dal seguente:
 
-FACOLTA' DI GIURISPRUDENZA
+"Non sono concesse abbreviazioni di corso".
 
-Scuola di perfezionamento in governo dell'ambiente e del territorio
+Gli articoli 137 e 138, relativi alla scuola di specializzazione in clinica pediatrica, che muta la denominazione in quella di scuola di specializzazione in pediatria, sono soppressi e sostituiti dai seguenti:
 
-Art. 97. - E' istituita presso la facolta' di giurisprudenza la scuola di ricerca e di perfezionamento in governo dell'ambiente e del territorio aperta ai laureati di qualsiasi facolta'. La scuola rilascia al termine degli studi il diploma di perfezionamento in governo dell'ambiente e del territorio.
+Scuola di specializzazione in pediatria
 
-Art. 98. - La scuola si propone:
+Art. 137. - La scuola di specializzazione in pediatria ha sede presso la clinica pediatrica e conferisce il diploma di specialista in pediatria.
 
-a) di promuovere ricerche, nell'ambito delle discipline costituenti la scuola, anche in collaborazione con enti pubblici e privati interessati ai relativi problemi;
+La direzione della scuola e' affidata al professore di ruolo o fuori ruolo della stessa materia della specializzazione o, in carenza, al professore di ruolo o fuori ruolo di materia affine.
 
-b) di indirizzare, guidare ed aiutare i laureati che intendono dedicarsi alla ricerca scientifica nell'ambito delle discipline costituenti la scuola;
+Possono iscriversi alla scuola i laureati in medicina e chirurgia.
 
-c) di promuovere il perfezionamento della cultura specifica richiesta per la preparazione professionale di coloro che gia' operano o intendono inserirsi in amministrazioni pubbliche o private nei settori di competenza della scuola.
+E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale rilasciato dall'autorita' competente.
 
-Art. 99. - Il funzionamento della scuola e' affidata al consiglio di facolta' di giurisprudenza, cui spetta di stabilire gli insegnamenti da impartire, proporre il conferimento degli incarichi di insegnamento, approvare i piani di studio e approvare i programmi di ricerca della scuola medesima.
+La durata del corso di studi e' di quattro anni e non e' suscettibile di abbreviazioni.
 
-La facolta' nomina, con durata triennale, un direttore della scuola, al quale sono affidate l'organizzazione e la sorveglianza del regolare funzionamento degli insegnamenti e degli esami. Il direttore e' scelto tra i professori della facolta'. E' costituito altresi' un consiglio di direzione della scuola, formato oltre che, dal direttore, che lo presiede, da due professori della scuola, eletti dai professori medesimi. Possono essere inoltre chiamati a farne parte, calla facolta', altri componenti designati da enti od organizzazioni che stipulino convenzioni con l'Universita' in rapporto all'attivita' della scuola. Il consiglio dura in carica tre anni. Esso coadiuva il direttore nell'organizzazione della scuola.
+Il numero massimo degli allievi e' di dodici per anno di corso e complessivamente di quarantotto per l'intero corso di studi.
 
-Spetta al consiglio adottare il programma di ricerca della scuola da sottoporre all'approvazione della facolta' e proporre l'eventuale stipulazione di convenzioni con enti pubblici o privati per ricerche specifiche da svolgere nell'ambito della scuola.
+L'ammissione al corso avviene per titoli ed esami.
 
-Art. 100. - Il corso di studi ha durata biennale. Per adire al secondo anno gli iscritti alla scuola dovranno avere superato almeno tre esami di profitto previsti dall'ordine di studi.
-
-L'insegnamento ha luogo in forma di lezioni, esercitazioni, seminari, ricerche di gruppo e in ogni altra forma ritenuta opportuna.
-
-Art. 101. - Le materie di insegnamento sono le seguenti:
+Art. 138. - Le materie di insegnamento sono le seguenti:
 
 1° Anno:
 
-ecologia generale ed applicata;
+genetica;
 
-urbanistica e diritto urbanistico;
+auxologia;
 
-legislazione dell'ambiente e delle risorse naturali;
+alimentazione;
 
-economia ambientale, nonche' due altri insegnamenti da scegliersi tra i seguenti opzionali;
+epidemiologia;
 
-economia urbana;
+malattie infettive;
 
-pianificazione territoriali;
-
-politica economica;
-
-legislazione comparata sulla tutela dell'ambiente;
-
-tutela delle acque interne e marine;
-
-sociologia urbana;
-
-storia dell'ambiente urbano e rurale;
-
-azioni a tutela dei beni collettivi;
-
-diritto internazionale delle risorse naturali.
+clinica pediatrica 1.
 
 2° Anno:
 
-tutela del paesaggio e dell'ambiente naturale;
+radiologia;
 
-programmazione economico-sociale;
+legislazione del minore;
 
-controllo degli inquinamenti;
+organizzazione sanitaria;
 
-diritto penale dell'ambiente e degli inquinamenti, nonche' altri due insegnamenti da scegliersi tra i seguenti opzionali;
+psicologia pediatrica;
 
-scienza dell'amministrazione;
+oculistica ed ortottica;
 
-storia dell'amministrazione pubblica;
+otorino e foniatria;
 
-ordinamento regionale;
+odonto;
 
-ordinamento degli enti locali;
+neonatologia I;
 
-ordinamento dei servizi sociali;
+chirurgia pediatrica I;
 
-politica e trasporti;
+pediatria preventiva e sociale I;
 
-sistemi di informazione e organizzazione sociale;
+clinica pediatrica II.
 
-programmazione finanziaria nella regione e negli enti locali.
+3° Anno:
 
-Art. 102. - Gli insegnamenti sono annuali o semestrali. Sono annuali gli insegnamenti fondamentali sono semestrali gli insegnamenti opzionali. Due insegnamenti semestrali sono in tutto equipollenti ad un insegnamento annuale.
+neurologia;
 
-Art. 103. - Le commissioni per gli esami sono nominate dal direttore della scuola e sono formate dal professore della materia e da altri due insegnanti della scuola o cultori della materia. La valutazione ai fini dell'esame puo' avvalersi di ogni forma ritenuta opportuna, e in particolare dei risultati dei seminari e delle ricerche di gruppo.
+psichiatria infantile;
 
-La commissione per l'esame di diploma e' nominata dal preside della facolta' ed e' formata da cinque membri scelti tra gli insegnanti della scuola, fra cui il direttore, che la presiede.
+nefrologia e urologia;
 
-L'esame consistera' nella discussione di una dissertazione originale scritta.
+ginecologia pediatrica;
 
-Art. 104. - Gli iscritti alla scuola sono tenuti a pagare le medesime tasse, soprattasse e contributi stabiliti dalle vigenti disposizioni per gli studenti della facolta' di giurisprudenza.
+neonatologia II;
 
-Art. 105. - La scuola utilizza le attrezzature didattiche e scientifiche della facolta' di giurisprudenza, in particolare quelle degli istituti di diritto pubblico, di economia politica, di finanza e di diritto e procedura penale.
+chirurgia pediatrica II;
 
-La scuola fara' fronte alle spese relative alla sua attivita' con i proventi delle tasse e contributi pagati dagli iscritti.
+pediatria preventiva e sociale II;
 
-Ulteriori attivita' scientifiche e di ricerca saranno subordinate all'acquisizione di contributi da parte di enti convenzionati con l'Universita'.
+cardiologia I;
+
+endocrinologia I;
+
+ematologia I;
+
+immunologia I;
+
+gastroenterologia I;
+
+clinica pediatrica III.
+
+4° Anno:
+
+oncologia;
+
+pneumologia;
+
+ortopedia o traumatologia;
+
+dermatologia;
+
+cardiologia II;
+
+endocrinologia II;
+
+ematologia II;
+
+immunologia II;
+
+gastroenterologia II;
+
+clinica pediatrica IV.
+
+La frequenza alle lezioni, alle esercitazioni pratiche e' obbligatoria. Gli allievi che non conseguono le attestazioni di frequenza sul relativo libretto, non potranno essere ammessi a sostenere le prove di esame.
+
+Alla fine di ciascun anno di corso gli iscritti, per essere ammessi agli anni successivi, devono superare le prove di esame sulle materie impartite durante l'anno.
+
+Per le materie a corso pluriennale l'esame sara' sostenuto alla fine dei corsi medesimi.
+
+Al termine del corso di studi, per il conseguimento del diploma di specialista in pediatria, gli interessati dovranno superare l'esame di diploma consistente nella dissertazione scritta di un argomento attinente alla specializzazione.
+
+L'art. 140, relativo alla scuola di specializzazione in puericultura, e' modificato nel senso che l'ultimo comma e' soppresso e sostituito dal seguente:
+
+"Non sono concesse abbreviazioni di corso".
+
+Dopo l'art. 270, e con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi all'istituzione della scuola di specializzazione in farmacologia.
+
+Scuola di specializzazione in farmacologia
+
+Art. 271. - ((E' creata una scuola di specializzazione in farmacologia. La scuola rilascia i seguenti diplomi:
+
+a) specialista in farmacologia; indirizzo: farmacologia di base;
+
+b) specialista in farmacologia; indirizzo: farmacologia clinico-ospedaliera;
+
+c) specialista in farmacologia; indirizzo: tossicologia)).
+
+Art. 272. - La scuola ha la durata di quattro anni. I primi due anni sono comuni, il secondo biennio e' diviso nei tre indirizzi previsti: di farmacologia di base, di farmacologia clinico-ospedaliera, di tossicologia. Il numero massimo degli iscritti e' fissato a 20 per ciascun anno di corso da ripartire tra i tre indirizzi previsti; l'ammissione alla scuola viene fatta in base ai titoli e ad apposito esame. Al momento della iscrizione al terzo anno i candidati dovranno scegliere l'indirizzo che intendono seguire.
+
+Per l'indirizzo di farmacologia di base sono richieste le lauree in medicina e chirurgia, in farmacia, in scienze biologiche e in medicina veterinaria. Per gli indirizzi di farmacologia clinico-ospedaliera e in tossicologia e' richiesta la laurea in medicina e chirurgia. Per i laureati in medicina e chirurgia e' necessario avere superato l'esame di Stato. Non e' ammessa l'abbreviazione del corso.
+
+Art. 273. - Le materie di insegnamento sono:
+
+1° Anno:
+
+1) chimica organica;
+
+2) statistica;
+
+3) farmacologia generale;
+
+4) rapporti tra attivita' e struttura dei medicamenti;
+
+5) introduzione alla farmacologia speciale riferentesi ai diversi organi e apparati;
+
+6) biochimica, fisiologia e farmacologia cellulare;
+
+7) immunologia;
+
+8) batteriologia;
+
+9) biologia molecolare dei procarioti e dei virus;
+
+10) saggi e dosaggi farmacologici;
+
+11) inglese scientifico.
+
+2° Anno:
+
+1) farmacologia degli enzimi;
+
+2) le sostanze mediatrici delle attivita' farmacologiche;
+
+3) chemioterapia antibatterica;
+
+4) chemioterapia antivirale, antineoplastica, antifungina, antiparassitaria;
+
+5) endocrinologia e farmaci ad attivita' ormonale;
+
+6) neuropsicofarmacologia;
+
+7) principi di tossicologia;
+
+8) elementi di tossicologia da ambiente, da lavoro, da additivi;
+
+9) tecniche fisiche, chimico-fisiche, immunologiche, radioisotopiche;
+
+10) inglese scientifico;
+
+11) nozioni di informatica.
+
+3° Anno:
+
+A) Indirizzo farmacologia di base:
+
+1) farmacologia speciale;
+
+2) farmacologia molecolare;
+
+3) neurochimica;
+
+4) immunofarmacologia;
+
+5) tecniche ed analisi critica degli "screening" di farmaci "in vivo" e "in vitro";
+
+6) biochimica, fisiologia e farmacologia comparata.
+
+B) Indirizzo farmacologia clinica ospedaliera:
+
+1) organizzazione di un laboratorio di farmacologia clinica e sua funzione;
+
+2) farmacologia clinica e tecniche di sperimentazione clinica;
+
+3) farmacologia speciale in connessione con la patologia dei singoli organi ed apparati;
+
+4) clinica e farmacologia clinica delle malattie del ricambio; della insufficienza epatica e delle malattie epatiche; delle malattie endocrine e reumatiche;
+
+5) clinica e farmacologia clinica delle malattie renali, delle malattie cardiocircolatorie, delle arteriosclerosi; delle malattie del sangue e della coagulazione del sangue;
+
+6) clinica e farmacologia clinica delle malattie nervose e neuro muscolari;
+
+7) biodisponibilita' dei farmaci;
+
+8) farmacocinetica e biochimica clinica.
+
+C) Indirizzo tossicologia:
+
+1) principi di tossicologia generale;
+
+2) tossicologia da agenti chimici e fisici;
+
+3) tossicologia dell'ambiente e misure di prevenzione;
+
+4) tecniche di riconoscimento di sostanze tossiche;
+
+5) anatomia ed istologia degli stati tossici;
+
+6) epidemiologia.
+
+4° Anno:
+
+A) Indirizzo farmacologia di base:
+
+1) farmacologia speciale;
+
+2) modelli sperimentali di malattie umane;
+
+3) metodi di allevamento. Incrocio e stabulazione degli animali di laboratorio;
+
+4) principi di sperimentazione sull'uomo;
+
+5) farmacologia preclinica;
+
+6) legislazione in campo di farmaci.
+
+B) Indirizzo farmacologia clinica ospedaliera:
+
+1) farmacologia speciale in connessione con la patologia degli organi;
+
+2) clinica e farmacologia clinica delle deviazioni del comportamento e delle malattie mentali;
+
+3) clinica e farmacologia clinica delle malattie chirurgiche.
+
+Problemi di farmacologia clinica nella preparazione dell'ammalato chirurgico; nella pratica della anestesia;
+
+4) farmacologia clinica nelle unita' coronariche e nei reparti terapia intensiva;
+
+5) farmacologia in eta' prenatale e perinatale;
+
+6) deontologia e legislazione in campo di farmacologia clinica.
+
+C) Indirizzo tossicologia:
+
+1) tossicologia speciale;
+
+2) terapia e prevenzione degli stati tossici;
+
+3) gli additivi alimentari;
+
+4) tossicologia da abuso di farmaci;
+
+5) principi di cancerologia e teratogenesi;
+
+6) organizzazione di centri antiveleni ed antidroga;
+
+7) uso di farmaci dotati di potere antitossico specifico nei reparti di terapia intensiva;
+
+8) legislazione concernente la tossicologia individuale e di ambiente.
+
+Ciascun corso di lezioni sara' accompagnato da esercitazioni pratiche. Gli insegnamenti verranno integrati da conferenze riguardanti specifici argomenti e problemi farmacoterapici di attualita'.
+
+Art. 274 - Frequenza. - L'insegnamento si svolge normalmente secondo il calendario universitario durante il periodo delle lezioni.
+
+La durata del corso si prolunga tuttavia per tutto l'anno solare, senza interruzioni, per la pratica di laboratorio e clinica, che si esplica attraverso l'internato.
+
+La frequenza ai corsi e all'internato sono obbligatori.
+
+Per essere ammesso all'anno successivo il candidato, al termine di ogni anno, dovra' superare un esame di profitto comprensivo delle materie di insegnamento dell'anno frequentato.
+
+Superati gli esami di profitto prescritti per il quarto anno, il candidato viene ammesso all'esame per il diploma di specializzazione, che consiste nella discussione orale di una dissertazione scritta su di un tema originale approvato dal direttore della scuola.
+
+Art. 275. - La direzione della scuola e' affidata al professore di ruolo o fuori ruolo della stessa materia della specializzazione o, in carenza, al professore di ruolo o fuori ruolo di materia affine.
+
+Il direttore puo' durare in carica quattro anni e puo' essere rieletto. Il direttore nomina tre vice-direttori responsabili dei tre indirizzi.
+
+Art. 276 - Sede di organizzazione della scuola. - Le lezioni teoriche e le esercitazioni di laboratorio avranno luogo nei locali messi a disposizione dall'istituto di farmacologia.
+
+La scuola di specializzazione si avvarra' della collaborazione di altri istituti e delle cliniche universitarie situate presso l'ospedale S. Matteo di Pavia.
+
+Art. 277. - Per quanto non regolato dagli articoli di cui sopra, si fa riferimento alle norme generali dello statuto dell'Universita' degli studi di Pavia.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 
-Dato a Roma, addi' 18 ottobre 1978
+Dato a Roma, addi' 31 ottobre 1978
 
 PERTINI
 
@@ -143,89 +355,200 @@ Visto, il Guardasigilli: BONIFACIO
 Registrato
 ----------
 
-alla Corte dei conti, addi' 30 gennaio 1979 Registro n. 4 Istruzione, foglio n. 4
+alla Corte dei conti, addi' 23 aprile 1979 Registro n. 27 Istruzione, foglio n. 35
 
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA  
+ IL PRESIDENTE DELLA REPUBBLICA   
   
-Visto lo statuto dell'Universita' di Pavia, approvato con [regio decreto 14 ottobre 1926, n. 2130](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2130) e modificato con [regio decreto 13 ottobre 1927, n. 2229](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2229), e successive modificazioni;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Pavia e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;  
-Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro della pubblica istruzione;  
+Veduto lo statuto dell'Universita' di Pavia, approvato con [regio decreto 14 ottobre 1926, n. 2130](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2130) e modificato con [regio decreto 13 ottobre 1927, n. 2229](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2229), e successive modificazioni;   
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;   
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Pavia e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;   
+Veduta la [legge 22 maggio 1978, n. 217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-05-22;217);   
+Sentito il parere del Consiglio superiore della pubblica istruzione;   
+Sulla proposta del Ministro della pubblica istruzione;   
   
-Decreta:  
+Decreta:   
   
-Lo statuto dell'Universita' degli studi di Pavia, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+Lo statuto dell'Universita' di Pavia, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come segue:   
+L'art. 134, relativo alla scuola di specializzazione in psichiatria, e' modificato nel senso che i commi 8, 9, 10 e 11 sono soppressi e sostituiti dal seguente:   
+"Non sono concesse abbreviazioni di corso".   
+Gli articoli 137 e 138, relativi alla scuola di specializzazione in clinica pediatrica, che muta la denominazione in quella di scuola di specializzazione in pediatria, sono soppressi e sostituiti dai seguenti:   
   
-Dopo l'art. 96, e con lo spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli, relativi alla istituzione della scuola di perfezionamento in governo dell'ambiente e del territorio, annessa alla facolta' di giurisprudenza.  
+Scuola di specializzazione in pediatria   
   
-FACOLTA' DI GIURISPRUDENZA  
+Art. 137. - La scuola di specializzazione in pediatria ha sede presso la clinica pediatrica e conferisce il diploma di specialista in pediatria.   
+La direzione della scuola e' affidata al professore di ruolo o fuori ruolo della stessa materia della specializzazione o, in carenza, al professore di ruolo o fuori ruolo di materia affine.   
+Possono iscriversi alla scuola i laureati in medicina e chirurgia.  
+E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale rilasciato dall'autorita' competente.   
+La durata del corso di studi e' di quattro anni e non e' suscettibile di abbreviazioni.   
+Il numero massimo degli allievi e' di dodici per anno di corso e complessivamente di quarantotto per l'intero corso di studi.   
+L'ammissione al corso avviene per titoli ed esami.   
+Art. 138. - Le materie di insegnamento sono le seguenti:   
+1° Anno:   
+genetica;   
+auxologia;   
+alimentazione;   
+epidemiologia;   
+malattie infettive;   
+clinica pediatrica 1.   
+2° Anno:   
+radiologia;   
+legislazione del minore;   
+organizzazione sanitaria;   
+psicologia pediatrica;   
+oculistica ed ortottica;   
+otorino e foniatria;   
+odonto;   
+neonatologia I;   
+chirurgia pediatrica I;   
+pediatria preventiva e sociale I;   
+clinica pediatrica II.   
+3° Anno:   
+neurologia;   
+psichiatria infantile;   
+nefrologia e urologia;   
+ginecologia pediatrica;   
+neonatologia II;   
+chirurgia pediatrica II;   
+pediatria preventiva e sociale II;   
+cardiologia I;   
+endocrinologia I;   
+ematologia I;   
+immunologia I;   
+gastroenterologia I;   
+clinica pediatrica III.   
+4° Anno:   
+oncologia;   
+pneumologia;   
+ortopedia o traumatologia;   
+dermatologia;   
+cardiologia II;   
+endocrinologia II;   
+ematologia II;   
+immunologia II;   
+gastroenterologia II;   
+clinica pediatrica IV.   
+La frequenza alle lezioni, alle esercitazioni pratiche e' obbligatoria. Gli allievi che non conseguono le attestazioni di frequenza sul relativo libretto, non potranno essere ammessi a sostenere le prove di esame.   
+Alla fine di ciascun anno di corso gli iscritti, per essere ammessi agli anni successivi, devono superare le prove di esame sulle materie impartite durante l'anno.   
+Per le materie a corso pluriennale l'esame sara' sostenuto alla fine dei corsi medesimi.   
+Al termine del corso di studi, per il conseguimento del diploma di specialista in pediatria, gli interessati dovranno superare l'esame di diploma consistente nella dissertazione scritta di un argomento attinente alla specializzazione.   
+L'art. 140, relativo alla scuola di specializzazione in puericultura, e' modificato nel senso che l'ultimo comma e' soppresso e sostituito dal seguente:   
+"Non sono concesse abbreviazioni di corso".   
+Dopo l'art. 270, e con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi all'istituzione della scuola di specializzazione in farmacologia.   
   
-Scuola di perfezionamento in governo dell'ambiente e del territorio   
-Art. 97. - E' istituita presso la facolta' di giurisprudenza la scuola di ricerca e di perfezionamento in governo dell'ambiente e del territorio aperta ai laureati di qualsiasi facolta'. La scuola rilascia al termine degli studi il diploma di perfezionamento in governo dell'ambiente e del territorio.  
-Art. 98. - La scuola si propone:  
-a) di promuovere ricerche, nell'ambito delle discipline costituenti la scuola, anche in collaborazione con enti pubblici e privati interessati ai relativi problemi;  
-b) di indirizzare, guidare ed aiutare i laureati che intendono dedicarsi alla ricerca scientifica nell'ambito delle discipline costituenti la scuola;  
-c) di promuovere il perfezionamento della cultura specifica richiesta per la preparazione professionale di coloro che gia' operano o intendono inserirsi in amministrazioni pubbliche o private nei settori di competenza della scuola.  
-Art. 99. - Il funzionamento della scuola e' affidata al consiglio di facolta' di giurisprudenza, cui spetta di stabilire gli insegnamenti da impartire, proporre il conferimento degli incarichi di insegnamento, approvare i piani di studio e approvare i programmi di ricerca della scuola medesima.  
-La facolta' nomina, con durata triennale, un direttore della scuola, al quale sono affidate l'organizzazione e la sorveglianza del regolare funzionamento degli insegnamenti e degli esami. Il direttore e' scelto tra i professori della facolta'. E' costituito altresi' un consiglio di direzione della scuola, formato oltre che, dal direttore, che lo presiede, da due professori della scuola, eletti dai professori medesimi. Possono essere inoltre chiamati a farne parte, calla facolta', altri componenti designati da enti od organizzazioni che stipulino convenzioni con l'Universita' in rapporto all'attivita' della scuola. Il consiglio dura in carica tre anni. Esso coadiuva il direttore nell'organizzazione della scuola.  
-Spetta al consiglio adottare il programma di ricerca della scuola da sottoporre all'approvazione della facolta' e proporre l'eventuale stipulazione di convenzioni con enti pubblici o privati per ricerche specifiche da svolgere nell'ambito della scuola.  
-Art. 100. - Il corso di studi ha durata biennale. Per adire al secondo anno gli iscritti alla scuola dovranno avere superato almeno tre esami di profitto previsti dall'ordine di studi.  
-L'insegnamento ha luogo in forma di lezioni, esercitazioni, seminari, ricerche di gruppo e in ogni altra forma ritenuta opportuna.  
-Art. 101. - Le materie di insegnamento sono le seguenti:  
-1° Anno:  
-ecologia generale ed applicata;  
-urbanistica e diritto urbanistico;  
-legislazione dell'ambiente e delle risorse naturali;  
-economia ambientale, nonche' due altri insegnamenti da scegliersi tra i seguenti opzionali;  
-economia urbana;  
-pianificazione territoriali;  
-politica economica;  
-legislazione comparata sulla tutela dell'ambiente;  
-tutela delle acque interne e marine;  
-sociologia urbana;  
-storia dell'ambiente urbano e rurale;  
-azioni a tutela dei beni collettivi;  
-diritto internazionale delle risorse naturali.  
-2° Anno:  
-tutela del paesaggio e dell'ambiente naturale;  
-programmazione economico-sociale;  
-controllo degli inquinamenti;  
-diritto penale dell'ambiente e degli inquinamenti, nonche' altri due insegnamenti da scegliersi tra i seguenti opzionali;  
-scienza dell'amministrazione;  
-storia dell'amministrazione pubblica;  
-ordinamento regionale;  
-ordinamento degli enti locali;  
-ordinamento dei servizi sociali;  
-politica e trasporti;  
-sistemi di informazione e organizzazione sociale;  
-programmazione finanziaria nella regione e negli enti locali.  
-Art. 102. - Gli insegnamenti sono annuali o semestrali. Sono annuali gli insegnamenti fondamentali sono semestrali gli insegnamenti opzionali. Due insegnamenti semestrali sono in tutto equipollenti ad un insegnamento annuale.  
-Art. 103. - Le commissioni per gli esami sono nominate dal direttore della scuola e sono formate dal professore della materia e da altri due insegnanti della scuola o cultori della materia. La valutazione ai fini dell'esame puo' avvalersi di ogni forma ritenuta opportuna, e in particolare dei risultati dei seminari e delle ricerche di gruppo.  
-La commissione per l'esame di diploma e' nominata dal preside della facolta' ed e' formata da cinque membri scelti tra gli insegnanti della scuola, fra cui il direttore, che la presiede.  
-L'esame consistera' nella discussione di una dissertazione originale scritta.  
-Art. 104. - Gli iscritti alla scuola sono tenuti a pagare le medesime tasse, soprattasse e contributi stabiliti dalle vigenti disposizioni per gli studenti della facolta' di giurisprudenza.  
-Art. 105. - La scuola utilizza le attrezzature didattiche e scientifiche della facolta' di giurisprudenza, in particolare quelle degli istituti di diritto pubblico, di economia politica, di finanza e di diritto e procedura penale.  
-La scuola fara' fronte alle spese relative alla sua attivita' con i proventi delle tasse e contributi pagati dagli iscritti.  
-Ulteriori attivita' scientifiche e di ricerca saranno subordinate all'acquisizione di contributi da parte di enti convenzionati con l'Universita'.  
+Scuola di specializzazione in farmacologia   
+  
+Art. 271. -
+
+((E' creata una scuola di specializzazione in farmacologia. La scuola rilascia i seguenti diplomi:   
+a) specialista in farmacologia; indirizzo: farmacologia di base;   
+b) specialista in farmacologia; indirizzo: farmacologia clinico-ospedaliera;   
+c) specialista in farmacologia; indirizzo: tossicologia))
+
+.   
+Art. 272. - La scuola ha la durata di quattro anni. I primi due anni sono comuni, il secondo biennio e' diviso nei tre indirizzi previsti: di farmacologia di base, di farmacologia clinico-ospedaliera, di tossicologia. Il numero massimo degli iscritti e' fissato a 20 per ciascun anno di corso da ripartire tra i tre indirizzi previsti; l'ammissione alla scuola viene fatta in base ai titoli e ad apposito esame. Al momento della iscrizione al terzo anno i candidati dovranno scegliere l'indirizzo che intendono seguire.   
+Per l'indirizzo di farmacologia di base sono richieste le lauree in medicina e chirurgia, in farmacia, in scienze biologiche e in medicina veterinaria. Per gli indirizzi di farmacologia clinico-ospedaliera e in tossicologia e' richiesta la laurea in medicina e chirurgia. Per i laureati in medicina e chirurgia e' necessario avere superato l'esame di Stato. Non e' ammessa l'abbreviazione del corso.   
+Art. 273. - Le materie di insegnamento sono:   
+1° Anno:   
+1) chimica organica;   
+2) statistica;   
+3) farmacologia generale;   
+4) rapporti tra attivita' e struttura dei medicamenti;   
+5) introduzione alla farmacologia speciale riferentesi ai diversi organi e apparati;   
+6) biochimica, fisiologia e farmacologia cellulare;   
+7) immunologia;   
+8) batteriologia;   
+9) biologia molecolare dei procarioti e dei virus;   
+10) saggi e dosaggi farmacologici;   
+11) inglese scientifico.   
+2° Anno:   
+1) farmacologia degli enzimi;   
+2) le sostanze mediatrici delle attivita' farmacologiche;   
+3) chemioterapia antibatterica;   
+4) chemioterapia antivirale, antineoplastica, antifungina, antiparassitaria;   
+5) endocrinologia e farmaci ad attivita' ormonale;   
+6) neuropsicofarmacologia;   
+7) principi di tossicologia;   
+8) elementi di tossicologia da ambiente, da lavoro, da additivi;   
+9) tecniche fisiche, chimico-fisiche, immunologiche, radioisotopiche;   
+10) inglese scientifico;   
+11) nozioni di informatica.   
+3° Anno:   
+A) Indirizzo farmacologia di base:   
+1) farmacologia speciale;   
+2) farmacologia molecolare;   
+3) neurochimica;   
+4) immunofarmacologia;   
+5) tecniche ed analisi critica degli "screening" di farmaci "in vivo" e "in vitro";   
+6) biochimica, fisiologia e farmacologia comparata.   
+B) Indirizzo farmacologia clinica ospedaliera:   
+1) organizzazione di un laboratorio di farmacologia clinica e sua funzione;   
+2) farmacologia clinica e tecniche di sperimentazione clinica;   
+3) farmacologia speciale in connessione con la patologia dei singoli organi ed apparati;   
+4) clinica e farmacologia clinica delle malattie del ricambio; della insufficienza epatica e delle malattie epatiche; delle malattie endocrine e reumatiche;   
+5) clinica e farmacologia clinica delle malattie renali, delle malattie cardiocircolatorie, delle arteriosclerosi; delle malattie del sangue e della coagulazione del sangue;   
+6) clinica e farmacologia clinica delle malattie nervose e neuro muscolari;   
+7) biodisponibilita' dei farmaci;   
+8) farmacocinetica e biochimica clinica.   
+C) Indirizzo tossicologia:   
+1) principi di tossicologia generale;   
+2) tossicologia da agenti chimici e fisici;   
+3) tossicologia dell'ambiente e misure di prevenzione;   
+4) tecniche di riconoscimento di sostanze tossiche;   
+5) anatomia ed istologia degli stati tossici;   
+6) epidemiologia.   
+4° Anno:   
+A) Indirizzo farmacologia di base:   
+1) farmacologia speciale;   
+2) modelli sperimentali di malattie umane;   
+3) metodi di allevamento. Incrocio e stabulazione degli animali di laboratorio;   
+4) principi di sperimentazione sull'uomo;   
+5) farmacologia preclinica;   
+6) legislazione in campo di farmaci.   
+B) Indirizzo farmacologia clinica ospedaliera:   
+1) farmacologia speciale in connessione con la patologia degli organi;   
+2) clinica e farmacologia clinica delle deviazioni del comportamento e delle malattie mentali;   
+3) clinica e farmacologia clinica delle malattie chirurgiche.  
+Problemi di farmacologia clinica nella preparazione dell'ammalato chirurgico; nella pratica della anestesia;   
+4) farmacologia clinica nelle unita' coronariche e nei reparti terapia intensiva;   
+5) farmacologia in eta' prenatale e perinatale;   
+6) deontologia e legislazione in campo di farmacologia clinica.   
+C) Indirizzo tossicologia:   
+1) tossicologia speciale;   
+2) terapia e prevenzione degli stati tossici;   
+3) gli additivi alimentari;   
+4) tossicologia da abuso di farmaci;   
+5) principi di cancerologia e teratogenesi;   
+6) organizzazione di centri antiveleni ed antidroga;   
+7) uso di farmaci dotati di potere antitossico specifico nei reparti di terapia intensiva;   
+8) legislazione concernente la tossicologia individuale e di ambiente.   
+Ciascun corso di lezioni sara' accompagnato da esercitazioni pratiche. Gli insegnamenti verranno integrati da conferenze riguardanti specifici argomenti e problemi farmacoterapici di attualita'.   
+Art. 274 - Frequenza. - L'insegnamento si svolge normalmente secondo il calendario universitario durante il periodo delle lezioni.   
+La durata del corso si prolunga tuttavia per tutto l'anno solare, senza interruzioni, per la pratica di laboratorio e clinica, che si esplica attraverso l'internato.   
+La frequenza ai corsi e all'internato sono obbligatori.   
+Per essere ammesso all'anno successivo il candidato, al termine di ogni anno, dovra' superare un esame di profitto comprensivo delle materie di insegnamento dell'anno frequentato.   
+Superati gli esami di profitto prescritti per il quarto anno, il candidato viene ammesso all'esame per il diploma di specializzazione, che consiste nella discussione orale di una dissertazione scritta su di un tema originale approvato dal direttore della scuola.   
+Art. 275. - La direzione della scuola e' affidata al professore di ruolo o fuori ruolo della stessa materia della specializzazione o, in carenza, al professore di ruolo o fuori ruolo di materia affine.   
+Il direttore puo' durare in carica quattro anni e puo' essere rieletto. Il direttore nomina tre vice-direttori responsabili dei tre indirizzi.   
+Art. 276 - Sede di organizzazione della scuola. - Le lezioni teoriche e le esercitazioni di laboratorio avranno luogo nei locali messi a disposizione dall'istituto di farmacologia.   
+La scuola di specializzazione si avvarra' della collaborazione di altri istituti e delle cliniche universitarie situate presso l'ospedale S. Matteo di Pavia.   
+Art. 277. - Per quanto non regolato dagli articoli di cui sopra, si fa riferimento alle norme generali dello statuto dell'Universita' degli studi di Pavia.   
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 18 ottobre 1978
+### Dato a Roma, addi' 31 ottobre 1978
 
 PERTINI PEDINI
 
 Visto, il Guardasigilli: BONIFACIO
 
-Registrato alla Corte dei conti, addi' 30 gennaio 1979
+Registrato alla Corte dei conti, addi' 23 aprile 1979
 
-Registro n. 4 Istruzione, foglio n. 4
+Registro n. 27 Istruzione, foglio n. 35

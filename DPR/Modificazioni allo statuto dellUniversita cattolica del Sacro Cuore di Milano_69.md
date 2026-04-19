@@ -1,18 +1,18 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 gennaio 1966 n. 68
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 25 ottobre 1982 n. 1036
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 gennaio 1966 n. 68
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 25 ottobre 1982 n. 1036
+===============================================================
 
-Modificazioni allo statuto dell'Universita' cattolica del "Sacro Cuore" di Milano.
-----------------------------------------------------------------------------------
+Modificazioni allo statuto dell'Universita' cattolica del Sacro Cuore di Milano.
+--------------------------------------------------------------------------------
 
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' cattolica del "Sacro Cuore" di Milano, approvato con [regio decreto 20 aprile 1939, n. 1163](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1163), e modificato con [regio decreto 26 ottobre 1940, n. 2030](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;2030), e successive modificazioni;
+Veduto lo statuto dell'Universita' cattolica del Sacro Cuore di Milano approvato con [regio decreto 20 aprile 1939, n. 1163](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1163), e successive modificazioni;
 
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
 
@@ -20,164 +20,111 @@ Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/ur
 
 Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
 
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+Veduto il [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
 
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
+Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
-Sentito il parere del Consiglio superiore della pubblica istruzione;
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' cattolica del Sacro Cuore di Milano e convalidati dal Consiglio universitario nazionale nel suo parere;
 
-Sulla proposta del Ministro per la pubblica istruzione;
+Sentito il parere del Consiglio universitario nazionale;
+
+Sulla proposta del Ministro della pubblica istruzione;
 
 Decreta:
+--------
 
-Lo statuto dell'Universita' cattolica del "Sacro Cuore" di Milano, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appreso:
+Lo statuto dell'Universita' cattolica del Sacro Cuore di Milano, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
-Art. 12. - Agli insegnamenti complementari del corso di laurea in Economia e commercio e' aggiunto quello di "Psicologia del lavoro".
+Articolo unico
+--------------
 
-Art. 14. - Agli insegnamenti complementari del corso di laurea in Lettere sono aggiunti quelli di:
-
-Archeologia e topografia medioevale;
-
-Istituzioni ed epigrafia del medioevo;
-
-Metodologia e didattica dell'insegnamento medio;
-
-Storia della teologia;
-
-Storia della storiografia.
-
-Art. 15. - Agli insegnamenti complementari del corso di laurea in Filosofia sono aggiunti quelli di:
-
-Metodologia e didattica dell'insegnamento medio Filologia musicale;
-
-Storia della storiografia.
-
-Art. 16. - Agli insegnamenti complementari del corso di laurea in Lingue e letterature straniere moderno (indirizzo europeo) sono aggiunti quelli di:
-
-Metodologia e didattica dell'insegnamento medio;
-
-Filologia musicale;
-
-Storia della lingua francese;
-
-Storia della lingua inglese;
-
-Storia della lingua tedesca.
-
-Art. 17. - Agli insegnamenti complementari del corso di laurea in Materie letterarie sono aggiunti quelli di:
-
-Storia contemporanea;
-
-Storia della liturgia;
-
-Metodologia e didattica dell'insegnamento medio Filosofia della storia.
-
-Art. 18. - Agli insegnamenti complementari del corso di laurea in Pedagogia sono aggiunti quelli di:
-
-Paleografia e diplomatica;
-
-Storia contemporanea;
-
-Storia della liturgia;
-
-Filosofia della scienza;
-
-Metodologia e didattica dell'insegnamento medio;
-
-Filosofia della storia.
-
-Art. 19. - Agli insegnamenti complementari del corso di laurea in Lingue e letterature straniere sono aggiunti quelli di:
-
-Storia contemporanea;
-
-Storia della liturgia;
-
-Metodologia e didattica dell'insegnamento medio;
-
-Filosofia della storia.
-
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
-
-Dato a Roma, addi' 27 gennaio 1966
-
-SARAGAT
-
-GUI
-
-Visto, il Guardasigilli: REALE
-
-Registrato
-----------
-
-alla Corte dei conti, addi' 21 febbraio 1966 Atti del Governo, registro n. 201, foglio n. 75. - VILLA
-
-Art. 1
-------
-
- IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' cattolica del "Sacro Cuore" di Milano, approvato con [regio decreto 20 aprile 1939, n. 1163](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1163), e modificato con [regio decreto 26 ottobre 1940, n. 2030](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;2030), e successive modificazioni;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
-Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro per la pubblica istruzione;  
   
-Decreta:  
+Nel titolo IX, il punto 1. - Laurea in matematica (indirizzo didattico) e l'art. 24, concernente l'ordinamento di tale corso di laurea, sono soppressi e sostituiti come segue:   
   
-Lo statuto dell'Universita' cattolica del "Sacro Cuore" di Milano, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appreso:  
-Art. 12. - Agli insegnamenti complementari del corso di laurea in Economia e commercio e' aggiunto quello di "Psicologia del lavoro".  
-Art. 14. - Agli insegnamenti complementari del corso di laurea in Lettere sono aggiunti quelli di:  
+1. - LAUREA IN MATEMATICA   
+(indirizzi didattico ed applicativo)   
+Art. 24. - Titoli di ammissione al corso di laurea in matematica sono quelli stabiliti dall'[art. 1 della legge 11 dicembre 1969, n. 910](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1969-12-11;910~art1). I corsi di studio si distinguono in due indirizzi: didattico e applicativo. Gli insegnamenti sono i seguenti:   
   
-Archeologia e topografia medioevale;  
-Istituzioni ed epigrafia del medioevo;  
-Metodologia e didattica dell'insegnamento medio;  
-Storia della teologia;  
-Storia della storiografia.  
-Art. 15. - Agli insegnamenti complementari del corso di laurea in Filosofia sono aggiunti quelli di:  
-  
-Metodologia e didattica dell'insegnamento medio Filologia musicale;  
-Storia della storiografia.  
-Art. 16. - Agli insegnamenti complementari del corso di laurea in Lingue e letterature straniere moderno (indirizzo europeo) sono aggiunti quelli di:  
-  
-Metodologia e didattica dell'insegnamento medio;  
-Filologia musicale;  
-Storia della lingua francese;  
-Storia della lingua inglese;  
-Storia della lingua tedesca.  
-Art. 17. - Agli insegnamenti complementari del corso di laurea in Materie letterarie sono aggiunti quelli di:  
-  
-Storia contemporanea;  
-Storia della liturgia;  
-Metodologia e didattica dell'insegnamento medio Filosofia della storia.  
-Art. 18. - Agli insegnamenti complementari del corso di laurea in Pedagogia sono aggiunti quelli di:  
-  
-Paleografia e diplomatica;  
-Storia contemporanea;  
-Storia della liturgia;  
-Filosofia della scienza;  
-Metodologia e didattica dell'insegnamento medio;  
-Filosofia della storia.  
-Art. 19. - Agli insegnamenti complementari del corso di laurea in Lingue e letterature straniere sono aggiunti quelli di:  
-  
-Storia contemporanea;  
-Storia della liturgia;  
-Metodologia e didattica dell'insegnamento medio;  
-Filosofia della storia.  
+Insegnamenti fondamentali   
+1° BIENNIO (comune ai due indirizzi).   
+1° Anno:   
+1) analisi matematica I;   
+2) geometria I;   
+3) algebra;   
+4) fisica generale I.   
+2° Anno:   
+5) analisi matematica II;   
+6) geometria II;   
+7) fisica generale II;   
+8) meccanica razionale.   
+Per ciascuno degli insegnamenti sopra elencati vi e' un esame finale.   
+Gli insegnamenti fondamentali sopra elencati sono accompagnati ciascuno da un corso di esercitazioni che ne e' parte integrante.   
+I corsi di analisi matematica, di geometria, di fisica generale non devono essere considerati come dei comuni corsi biennali; essi constano ciascuno di due parti annuali distinte, la prima propedeutica alla seconda; e con esami distinti il primo propedeutico al secondo.   
+Potranno essere iscritti al secondo anno quegli studenti che abbiano superato almeno due degli esami di analisi matematica I, geometria I, algebra.   
+2° BIENNIO (insegnamenti comuni ai due indirizzi).   
+3° Anno:   
+9) istituzioni di analisi superiore;   
+10) istituzioni di geometria superiore;   
+11) istituzioni di fisica matematica.   
+Dovranno inoltre essere seguiti i seguenti corsi:   
+a) per l'indirizzo didattico:   
+12) matematiche elementari da un punto di vista superiore;   
+b) per l'indirizzo applicativo:   
+12) teoria ed applicazioni delle macchine calcolatrici.   
+4° Anno:   
+a) per l'indirizzo didattico:   
+13) matematiche complementari;   
+14-15) due insegnamenti complementari di cui almeno uno ad   
+indirizzo fisico (fra quelli effettivamente impartiti di anno in anno);   
+b) per l'indirizzo applicativo:   
+13) analisi numerica;   
+14-15) due insegnamenti complementari di cui almeno uno   
+ad indirizzo fisico (fra quelli effettivamente impartiti di anno in anno).   
+Insegnamenti complementari:   
+a) per l'indirizzo didattico:   
+1) chimica con esercitazioni di laboratorio (per   
+fisici);   
+2) elaboratori elettronici;   
+3) fisica superiore;   
+4) istituzioni di fisica teorica;   
+5) logica matematica;   
+6) matematica finanziaria attuariale;   
+7) pedagogia delle scienze matematiche, fisiche e   
+naturali;   
+8) statistica matematica;   
+9) storia della matematica;   
+10) struttura della materia;   
+11) algebra superiore;   
+12) analisi funzionale;   
+13) geometria differenziale;   
+14) topologia;   
+15) meccanica superiore;   
+16) preparazione di esperienze didattiche;   
+b) per l'indirizzo applicativo:   
+1) statistica matematica;   
+2) calcolo delle probabilita';   
+3) economia matematica;   
+4) biomatematica;   
+5) logica matematica;   
+6) matematica finanziaria attuariale;   
+7) ricerca operativa;   
+8) teoria dei linguaggi;   
+9) teoria dei sistemi;   
+10) fisica matematica;   
+11) meccanica superiore.   
+Per essere ammesso all'esame di laurea lo studente deve aver seguito i corsi e superato gli esami di tutti gli insegnamenti previsti dall'ordinamento dell'indirizzo prescelto.   
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 27 gennaio 1966
+### Dato a Roma, addi' 25 ottobre 1982
 
-SARAGAT GUI
+PERTINI BODRATO
 
-Visto, il Guardasigilli: REALE
+Visto, il Guardasigilli: DARIDA
 
-Registrato alla Corte dei conti, addi' 21 febbraio 1966
+Registrato alla Corte dei conti, addi' 10 gennaio 1983
 
-Atti del Governo, registro n. 201, foglio n. 75. - VILLA
+Registro n. 1 Istruzione, foglio n. 24

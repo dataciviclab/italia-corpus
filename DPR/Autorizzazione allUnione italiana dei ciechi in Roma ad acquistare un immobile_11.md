@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 luglio 1979 n. 488
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 21 dicembre 1978 n. 987
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 luglio 1979 n. 488
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 21 dicembre 1978 n. 987
+===============================================================
 
 Autorizzazione all'Unione italiana dei ciechi, in Roma, ad acquistare un immobile.
 ----------------------------------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-488. Decreto del Presidente della Repubblica 30 luglio 1979, con la quale, sulla proposta del Presidente del Consiglio dei Ministri, l'Unione italiana dei ciechi, in Roma, viene autorizzata ad acquistare, al prezzo di L. 29.000.000, un immobile di proprieta' della signora Venturini Renata in Schneider, sito in Udine, via Toppo, San Daniele, distinto nel nuovo catasto edilizio urbano alla partita 10740, foglio 30, mappale 108/5 e 1150, da destinare a sede sociale della locale sezione provinciale.  
+987. Decreto del Presidente della Repubblica 21 dicembre 1978, con il quale, sulla proposta del Presidente del Consiglio dei Ministri, l'Unione italiana dei ciechi, in Roma, viene autorizzata ad acquistare dalla sig.ra Ducci Maria Teresa in Para, al prezzo di lire 16.800.000, l'immobile sito in Pisa, via C. Battisti n. 3, distinto nel nuovo catasto edilizio urbano alla partita 8078, foglio 38, mappale 390 sub 5, di vani 5, da destinare a sede della locale sezione.  
   
-Visto, il Guardasigilli: MORLINO  
-Registrato alla Corte dei conti, addi' 3 ottobre 1979  
-Registro n. 7 Presidenza, foglio n. 118
+Visto, il Guardasigilli: BONIFACIO  
+Registrato alla Corte dei conti, addi' 15 febbraio 1979  
+Registro n. 2 Presidenza, foglio n. 29

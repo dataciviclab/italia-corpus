@@ -1,90 +1,20 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 23 gennaio 1963 n. 192
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1973 n. 1194
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 23 gennaio 1963 n. 192
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1973 n. 1194
+===============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Roma.
 ----------------------------------------------------------------
-
-IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
-
-Veduto lo statuto dell'Universita' degli studi di Roma, approvato con [regio decreto 20 aprile 1939, n. 1350](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1350), modificato con [regio decreto 26 ottobre 1939, n. 1734](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-26;1734) e successivi;
-
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
-
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1986, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1986-01-02;73);
-
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
-
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
-
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
-
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
-
-Sentito il parere del Consiglio superiore della pubblica istruzione;
-
-Sulla proposta del Ministro per la pubblica istruzione;
-
-Decreta:
-
-Lo statuto dell'Universita' degli studi di Roma, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
-
-Art. 54. - Agli insegnamenti complementari del corso di laurea in Lettere sono aggiunti quelli di:
-
-"Archeologia e storia dell'arte del vicino oriente antico;
-
-Hittiologia".
-
-L'insegnamento complementare di "Assiriologia ed Archeologia orientale" e' sostituito con quello di "Assiriologia".
-
-Art. 64. - Agli insegnamenti complementari del corso di laurea in Materie letterarie sono aggiunti quelli di:
-
-"Letteratura ibero-americana" e "Storia della musica".
-
-Art. 65. - Agli insegnamenti complementari del corso di laurea in pedagogia e' aggiunto quello di:
-
-"Storia del teatro e dello spettacolo".
-
-Art. 66. - Agli insegnamenti complementari del corso di laurea in lingue e letterature straniere sono aggiunti quelli di:
-
-"Letteratura ibero-americana;
-
-Lingua e letteratura portoghese".
-
-Art. 78. - Agli Istituti annessi alla Facolta' di medicina e chirurgia e' aggiunto quello di "Semeiotica chirurgica".
-
-Art. 79. - Agli insegnamenti complementari del corso di laurea in Medicina e chirurgia e' aggiunto quello di "Biochimica applicata".
-
-Art. 97. - Agli insegnamenti complementari del corso di laurea in Scienze biologiche sono aggiunti quelli di "Citogenetica" a Genetica umana" e "Genetica dei micro-organismi".
-
-Art. 138, relativo alla propedeuticita' del corso di laurea in Architettura e' modificato nel senso che e' abrogata la propedeuticita' per l'iscrizione ai corsi e agli esami dell'insegnamento di "Scienza delle costruzioni I" nei riguardi dell'insegnamento di "Tecnologia dei materiali e tecnica delle costruzioni".
-
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
-
-Dato a Roma, addi' 23 gennaio 1963
-
-SEGNI
-
-GUI
-
-Visto, il Guardasigilli: BOSCO
-
-Registrato
-----------
-
-alla Corte dei conti, addi' 9 marzo 1963 Atti dei Governo, registro n. 166, foglio n. 6. - VILLA
 
 Art. 1
 ------
 
  IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Roma, approvato con [regio decreto 20 aprile 1939, n. 1350](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1350), modificato con [regio decreto 26 ottobre 1939, n. 1734](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-26;1734) e successivi;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1986, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1986-01-02;73);  
+Veduto lo statuto dell'Universita' degli studi di Roma, approvato e modificato con [regio decreto 20 aprile 1939, n. 1350](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1350), e modificato con [regio decreto 26 ottobre 1939, n. 1734](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-26;1734), e successive modificazioni;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
 Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
 Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
@@ -95,32 +25,34 @@ Sulla proposta del Ministro per la pubblica istruzione;
 Decreta:  
   
 Lo statuto dell'Universita' degli studi di Roma, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-Art. 54. - Agli insegnamenti complementari del corso di laurea in Lettere sono aggiunti quelli di:  
-"Archeologia e storia dell'arte del vicino oriente antico;  
-Hittiologia".  
-L'insegnamento complementare di "Assiriologia ed Archeologia orientale" e' sostituito con quello di "Assiriologia".  
-Art. 64. - Agli insegnamenti complementari del corso di laurea in Materie letterarie sono aggiunti quelli di:  
-"Letteratura ibero-americana" e "Storia della musica".  
-Art. 65. - Agli insegnamenti complementari del corso di laurea in pedagogia e' aggiunto quello di:  
-"Storia del teatro e dello spettacolo".  
-Art. 66. - Agli insegnamenti complementari del corso di laurea in lingue e letterature straniere sono aggiunti quelli di:  
-"Letteratura ibero-americana;  
-Lingua e letteratura portoghese".  
-Art. 78. - Agli Istituti annessi alla Facolta' di medicina e chirurgia e' aggiunto quello di "Semeiotica chirurgica".  
-Art. 79. - Agli insegnamenti complementari del corso di laurea in Medicina e chirurgia e' aggiunto quello di "Biochimica applicata".  
-Art. 97. - Agli insegnamenti complementari del corso di laurea in Scienze biologiche sono aggiunti quelli di "Citogenetica" a Genetica umana" e "Genetica dei micro-organismi".  
-Art. 138, relativo alla propedeuticita' del corso di laurea in Architettura e' modificato nel senso che e' abrogata la propedeuticita' per l'iscrizione ai corsi e agli esami dell'insegnamento di "Scienza delle costruzioni I" nei riguardi dell'insegnamento di "Tecnologia dei materiali e tecnica delle costruzioni".  
+Art. 56 - all'elenco degli insegnamenti complementari del corso di laurea in lettere e' aggiunto il seguente:  
+  
+Storia dell'arte bizantina.  
+  
+Lo stesso articolo e' modificato nel senso che l'insegnamento complementare di "Storia dell'arte musulmana e copta" e' scisso nei due seguenti:  
+  
+Storia dell'arte musulmana;  
+Storia dell'arte copta.  
+  
+Art. 58 - all'elenco degli insegnamenti complementari del corso di laurea in lingue e letterature straniere moderne (indirizzo orientale) e' aggiunto il seguente:  
+  
+Storia dell'arte bizantina.  
+  
+Lo stesso articolo e' modificato nel senso che l'insegnamento complementare di "Storia dell'arte musulmana e copta" e' scisso nei due seguenti:  
+  
+Storia dell'arte musulmana;  
+Storia dell'arte copta.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 23 gennaio 1963
+### Dato a Roma, addi' 31 ottobre 1973
 
-SEGNI GUI
+LEONE MALFATTI
 
-Visto, il Guardasigilli: BOSCO
+Visto, il Guardasigilli: ZAGARI
 
-Registrato alla Corte dei conti, addi' 9 marzo 1963
+Registrato alla Corte dei conti, addi' 19 novembre 1974
 
-Atti dei Governo, registro n. 166, foglio n. 6. - VILLA
+Atti di Governo, registro n. 6, foglio n. 133. - SCIARRETTA

@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 21 febbraio 1976 n. 77
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 febbraio 1986 n. 176
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 21 febbraio 1976 n. 77
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 febbraio 1986 n. 176
+===============================================================
 
 Autorizzazione all'Associazione nazionale alpini, in Milano, ad acquistare un immobile.
 ---------------------------------------------------------------------------------------
@@ -10,10 +10,10 @@ Autorizzazione all'Associazione nazionale alpini, in Milano, ad acquistare un im
 Art. 1
 ------
 
-N.
+n.
 
-77. Decreto del Presidente della Repubblica 21 febbraio 1976, col quale, sulla proposta del Ministro per la difesa, l'Associazione nazionale alpini, in Milano, viene autorizzata ad acquistare, al prezzo di L. 8.500.000, un appartamento in Brescia, situato al piano terreno del fabbricato di via Alberto Mario numeri 27-29, distinto nel catasto urbano alla partita n. 6699, sezione C, foglio 7, mappali 24/2, 24/3 e 24/4, cat. A 4, cl. 4, per vani 6, di proprieta' del sig. Valentino Ranzoli, per adibirlo a sede della propria sezione.  
+176. Decreto del Presidente della Repubblica 10 febbraio 1986, col quale, sulla proposta del Ministro della difesa, l'Associazione nazionale alpini, in Milano, viene autorizzata ad acquistare, al prezzo di L. 8.500.000, un fabbricato rurale sito in Vallemosso (Vercelli), frazione Crocemosso, censito al catasto terreni alla partita n. 2159, foglio n. 7, particella n. 540, di proprieta' dei signori Gabrio Veronese e Anna Maria Montesin da adibire a sede del locale gruppo della associazione.   
   
-Visto, il Guardasigilli: BONIFACIO  
-Registrato alla Corte dei conti, addi' 29 marzo 1976  
-Atti di Governo, registro n. 4, foglio n. 36
+Visto, il Guardasigilli: MARTINAZZOLI   
+Registrato alla Corte dei conti, addi' 22 aprile 1986   
+Registro n. 12 Difesa, foglio n. 45

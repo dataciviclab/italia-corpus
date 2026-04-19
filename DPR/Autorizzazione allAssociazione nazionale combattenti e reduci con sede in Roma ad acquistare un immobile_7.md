@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 15 ottobre 1962 n. 1620
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 giugno 1972 n. 797
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 15 ottobre 1962 n. 1620
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 giugno 1972 n. 797
+=============================================================
 
 Autorizzazione all'Associazione nazionale combattenti e reduci, con sede in Roma, ad acquistare un immobile.
 ------------------------------------------------------------------------------------------------------------
@@ -12,8 +12,10 @@ Art. 1
 
 N.
 
-1620. Decreto del Presidente della Repubblica 15 ottobre 1962, col quale, sulla proposta del Presidente del Consiglio dei Ministri, l'Associazione nazionale combattenti e reduci, con sede in Roma, viene autorizzata ad acquistare dal geom. Cesare Torno, al prezzo di L. 200.000, come da scrittura privata in data 27 febbraio 1960, un immobile costituito da un appezzamento di terreno di mq. 190, sito nel comune di Castano Primo (Milano), da destinare all'ampliamento della sede sociale della locale sezione dell'Associazione anzidetta.  
+797. Decreto del Presidente della Repubblica 19 giugno 1972, col quale, sulla proposta del Presidente del Consiglio dei Ministri, l'Associazione nazionale combattenti e reduci, con sede in Roma, viene autorizzata ad acquistare dalla signora Arcarisi Gabriella al complessivo convenuto prezzo di L. 60.000.000 le seguenti porzioni del complesso edilizio denominato "Piovego" che sorgera' in Padova, via Trieste angolo via G. Gozzi sull'area di cui al mapp. 179, sezione A, foglio XXV di circa mq. 4.300:
+
+a) ufficio di mq. 435 posto al piano II del corpo "A" e precisamente quello formato dai locali di angolo tra via Trieste e via G. Gozzi, da destinare a "Casa del combattente".  
   
-Visto, il Guardasigilli: BOSCO  
-Registrato alla Corte dei conti, addi' 21 novembre 1962  
-Atti del Governo, registro n. 160, foglio n. 37. - VILLA
+Visto, il Guardasigilli: GONELLA  
+Registrato alla Corte dei conti, addi' 11 dicembre 1972  
+Atti del Governo, registro n. 254, foglio n. 1. - CARUSO

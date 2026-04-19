@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 06 giugno 1974 n. 529
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 settembre 1963 n. 1514
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 06 giugno 1974 n. 529
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 settembre 1963 n. 1514
+=================================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Parma.
 -----------------------------------------------------------------
@@ -10,7 +10,7 @@ Modificazioni allo statuto dell'Universita' degli studi di Parma.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' degli studi di Parma, approvato con [regio decreto 13 ottobre 1927, numero 2797](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2797) e modificato con [regio decreto 30 ottobre 1930, n. 1772](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-30;1772), e successive modificazioni;
+Veduto lo statuto dell'Universita' degli studi di Parma, approvato con [regio decreto 13 ottobre 1927, numero 2797](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2797), e modificato con [regio decreto 30 ottobre 1930, n. 1772](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-30;1772), e successive modificazioni;
 
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
@@ -18,7 +18,11 @@ Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it
 
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
 
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
+
+Vedono il [decreto del Presidente della Repubblica 26 luglio 1960, n. 1145](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1960-07-26;1145);
+
+Vedute le proposte di modifiche dello statuto formulate dalle autorita', accademiche dell'Universita' anzidetta;
 
 Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
 
@@ -30,288 +34,411 @@ Decreta:
 
 Lo statuto dell'Universita' degli studi di Parma, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
-Art. 142 - all'elenco delle scuole di specializzazione annesse alla facolta' di medicina e chirurgia, sono aggiunte le seguenti scuole di specializzazione:
+Art. 22. - Agli insegnamenti complementari del corso di laurea in Economia e commercio sono aggiunti i seguenti:
 
-Chirurgia plastica;
+Storia delle dottrine economiche;
 
-Medicina del lavoro.
+Statistica economica.
 
-Dopo l'art. 265, e con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi alla istituzione delle scuole di specializzazione in chirurgia plastica e in medicina del lavoro.
+Art. 30. - E' abrogato e sostituito dal seguente:
 
-Scuola di specializzazione in chirurgia plastica
+"La Facolta' di Scienze matematiche, fisiche e naturali conferisce:
 
-Art. 266. - La scuola e' posta sotto la direzione del titolare della cattedra di chirurgia plastica coadiuvato da docenti particolarmente preparati nelle materie di insegnamento.
+a) la laurea in Matematica;
 
-Il corso si compone di insegnamenti fondamentali e di conferenze su argomenti speciali.
+b) la laurea in Fisica;
 
-Durante i tre anni del corso verranno quotidianamente tenute esercitazioni di diagnostica, di tecnica operatoria, di laboratorio ed altre di indole pratica.
+c) la laurea in Chimica;
 
-La frequenza sia alle lezioni e conferenze che alle esercitazioni teoriche e pratiche e' obbligatoria.
+d) la laurea in Chimica industriale;
 
-Art. 267. - L'ammissione alla scuola avviene previo superamento di esame, con prova scritta e orale, inteso a chiarire il grado di preparazione generale del candidato ed i suoi specifici interessi ed attitudine verso la chirurgia plastica.
+e) la laurea in Scienze naturali;
 
-Sono da considerarsi titoli preferenziali, a parita' di risultato dell'esame di ammissione: 1) il voto di laurea in medicina e chirurgia; 2) aver frequentato come studente interno un istituto di chirurgia generale e specialistica; 3) aver svolto la tesi di laurea su argomenti di interesse per la chirurgia plastica; 4) documentazione di eventuali servizi prestati in reparti della specialita'; 5) eventuali pubblicazioni.
+f) la laurea in Scienze biologiche;
 
-Art. 268. - Il numero massimo complessivo degli iscritti ai tre anni di corso e' di 12 (4 per anno di corso).
+g) la laurea in Scienze geologiche.
 
-Alla fine di ciascun anno scolastico, gli specializzandi che abbiano ottenuto la firma di frequenza, dovranno sostenere un esame di profitto, il cui superamento e' condizione necessaria per l'iscrizione all'anno successivo e per quelli che sono stati iscritti all'ultimo anno, per poter accedere all'esame di diploma.
+E' annessa alla Facolta' il biennio di studi propedeutici per la laurea in ingegneria.
 
-Alla fine del terzo anno del corso, ha luogo l'esame di diploma, consistente nella preparazione e discussione di una dissertazione scritta su argomento di chirurgia plastica, concordato fra il diplomando e il direttore della scuola all'inizio del terzo anno. La dissertazione deve essere approvata dal direttore stesso e depositata presso la segreteria almeno quindici giorni prima dell'esame.
+Dopo l'art. 50, e con il conseguente spostamento della successiva numerazione, sono inseriti i seguenti nuovi articoli relativi alla istituzione del corso di laurea in Chimica industriale.
 
-Art. 269. - Gli insegnamenti impartiti nella scuola di specializzazione in chirurgia plastica sono i seguenti:
+Art. 51. - La durata del corso di laurea in Chimica industriale e' di cinque anni, divisi in un biennio di studi propedeutici e in un triennio di studi di applicazione. Il biennio di studi propedeutici e comune al corso di laurea in Chimica.
 
-1° Anno:
+Titolo di ammissione e' il diploma di maturita' classica o scientifica. Possono inoltre essere ammessi i diplomati degli Istituti tecnici industriali, agrari, nautici e per geometri ai sensi delle vigenti disposizioni di legge.
 
-Patologia generale;
+Biennio di studi propedeutici Sono insegnamenti fondamentali:
 
-Concetti di patologia secondaria;
+1) Istituzioni di matematiche (biennale);
 
-Guarigione delle ferite;
+2) Chimica generale ed inorganica (biennale);
 
-Trapianti;
+3) Chimica organica (biennale);
 
-Omoinnesti;
+4) Chimica analitica;
 
-Traumatologia dei tessuti molli;
+5) Fisica sperimentale (biennale);
 
-Malattia-ustione (fisiopatologia e clinica) (1° anno);
+6) Mineralogia con esercitazioni pratiche (corso speciale per chimici);
 
-Anatomia ed embriologia (con specifico riferimento alla faccia, collo, organi genitali, arti superiori ed inferiori);
+7) Esercitazioni di matematiche (biennale);
 
-Anatomia ed istologia patologica (con specifico riferimento alla malattia-ustione e ai tumori cutanei benigni e maligni);
+8) Esercitazioni di preparazioni chimiche;
 
-Anestesiologia e rianimazione (concetti generali sui principi che suggeriscono l'adozione dei vari metodi e tecniche anestesiologiche).
+9) Esercitazioni di disegno di elementi di macchine;
 
-2° Anno:
+10) Esercitazioni di analisi chimica qualitativa;
 
-Tecnica operatoria;
+11) Esercitazioni di fisica sperimentale.
 
-Anatomia chirurgica;
+Triennio di studi di applicazione:
 
-Malformazioni congenite;
+Sono insegnamenti fondamentali:
 
-Malattia-ustione (terapia medica e chirurgica) (2° anno);
+1) Chimica fisica (biennale);
 
-Elementi di otorinolaringoiatria;
+2) Fisica tecnica;
 
-Elementi di stomatologia;
+3) Chimica industriale (biennale);
 
-Elementi di ortopedia generale;
+4) Esercitazioni di analisi chimica quantitativa;
 
-Dermatologia generale (con specifico riferimento alle malattie o lesioni congenite, di competenza plastica, passibili di trattamento chirurgico) (biennale 1° anno).
+5) Esercitazioni di chimica fisica (biennale);
 
-3° Anno:
+6) Esercitazioni di chimica industriale (biennale);
 
-Metodologia chirurgica differenziale;
+7) impianti industriali chimici con elementi di disegno (biennale);
 
-Conservazione e tipizzazione dei tessuti;
+8) Elementi di diritto, di economia e di legislazione sociale.
 
-Chirurgia riparatrice della mano;
+Sono insegnamenti complementari:
 
-Chirurgia riparatrice e correttiva del volto;
+1) Analisi matematica (algebrica e infinitesimale) (biennale);
 
-Dermatologia generale (biennale 2° anno);
+2) Geometria analitica con elementi di proiettiva;
 
-Medicina legale e delle assicurazioni (con riferimento alle deformita' anatomiche e alle menomazioni funzionali di origine traumatica);
+3) Meccanica razionale con elementi di statica grafica;
 
-Elementi di criobiologia e di criochirurgia;
+4) Fisica superiore;
 
-Fisioterapia delle lesioni cutanee (con elementi di criobiologia e di criochirurgia).
+5) Elettrotecnica;
 
-Art. 270. - Gli iscritti alla scuola di specializzazione sono tenuti a pagare le tasse e soprattasse, secondo quanto stabilito per gli studenti della facolta' di medicina e chirurgia, nonche' la tassa di diploma nella misura di L. 6.000, ai sensi dell'[art. 7 della legge 18 dicembre 1951, n. 1551](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1951-12-18;1551~art7).
+6) Misure elettriche (corso speciale per chimici e chimici industriali);
 
-Sono tenuti, altresi', al pagamento di speciali contributi nella misura che sara' determinata dal consiglio di amministrazione, previo parere della facolta', su proposta del direttore della scuola.
+7) Chimica agraria;
 
-Scuola di specializzazione in medicina del lavoro
+8) Chimica delle fermentazioni e batteriologia industriale;
 
-Art. 271. - La scuola di specializzazione in medicina del lavoro ha la durata di tre anni.
+9) Chimica organica industriale;
 
-Art. 272. - Il numero degli iscritti da ammettere alla scuola e' di tre per ogni anno di corso (totale nove iscritti).
+10) Elettrochimica;
 
-Art. 273. - Le materie di insegnamento sono le seguenti:
+11) Chimica applicata;
 
-1° Anno:
+12) Scienza dei metalli;
 
-1) Fisiologia del lavoro ed ergonomia 1° anno;
+13) Strutturistica chimica;
 
-2) Tecnologia ed igiene del lavoro 1° anno;
+14) Chimica e tecnologia delle sostanze coloranti;
 
-3) Patologia e clinica del lavoro 1° anno;
+15) Spettroscopia;
 
-4) Psicologia del lavoro 1° anno.
+16) Radiochimica;
 
-2° Anno:
+17) Petrolchimica e tecnologia dei prodotti petroliferi;
 
-1) Fisiologia del lavoro ed ergonomia 2° anno;
+18) Chimica delle macromolecole;
 
-2) Tecnologia ed igiene del lavoro 2° anno;
+19) Chimica merceologica e analisi merceologica;
 
-3) Patologia e clinica del lavoro 2° anno:
+20) Chimica teorica;
 
-4) Psicologia del lavoro 2° anno;
+21) Tecnologia chimico farmaceutiche;
 
-5) Tossicologia industriale e diagnostica di laboratorio 1° anno;
+22) Chimica degli intermedi e degli esplosivi.
 
-6) Infortunistica e pronto soccorso 1° anno;
+I tre insegnamenti complementari di "Analisi matematica" (biennale), di "Geometria analitica con elementi di proiettiva" e di "Meccanica razionale con elementi di statica grafica" possono sostituire l'unico insegnamento fondamentale di "Istituzioni di matematiche, (biennale).
 
-7) Biometria e statistica sanitaria;
+Il corso biennale di Analisi matematica che comporta due esami distinti, uno per ogni anno di corso, sara' impartito da due professori ciascuno dei quali insegnera' alternativamente "Analisi algebrica" per il primo anno e "Analisi infinitesimale" per il secondo anno.
 
-8) Medicina preventiva dei lavoratori 1° anno.
+Il 1° corso degli insegnamenti fondamentali di "Chimica generale ed inorganica", di "Chimica organica", di "Istituzioni di matematiche", di "Esercitazioni di matematiche", di "Fisica sperimentale", di "Chimica fisica", di "Esercitazioni di chimica fisica", di "Impianti industriali con elementi di disegno" e' propedeutico rispetto al 2° corso dello stesso insegnamento.
 
-3° Anno:
+L'esame della materia comporta due esami separati, uno per ogni anno di corso.
 
-1) Patologia e clinica del lavoro 3° anno;
+Il corso di Chimica industriale (biennale) comprende come prima parte la Chimica industriale inorganica e come seconda parte la Chimica industriale organica.
 
-2) Tecnologia ed igiene del lavoro 3° anno;
+L'esame della materia comporta due esami separati.
 
-3) Infortunistica e pronto soccorso 2° anno;
+Lo stesso vale per i corsi di esercitazioni di Chimica industriale I e di esercitazioni di chimica industriale II.
 
-4) Medicina legale e delle assicurazioni;
+I corsi di esercitazioni costituenti materia fondamentale sono da considerare insegnamenti da impartirsi da: un professore di ruolo o incaricato.
 
-5) Medicina preventiva dei lavoratori 2° anno;
+Art. 52. - Ferma restando la priorita' degli esami del biennio di studi propedeutici rispetto a tutti gli esami del triennio di studi di applicazione e la priorita' degli esami riguardanti la prima parte dei corsi biennali rispetto alla seconda parte dei corsi stessi, lo studente deve osservare le seguenti precedenze negli esami:
 
-6) Radiologia e medicina nucleare;
+l'esame di "Chimica generale e inorganica I" deve precedere qualunque esame di materia chimica ad eccezione dell'esame di "Esercitazioni di preparazioni chimiche";
 
-7) Tossicologia industriale e diagnostica di laboratorio 2° anno;
+l'esame di "Istituzioni di matematiche I" deve precedere l'esame di "Fisica sperimentale I";
 
-8) Dermatologia professionale.
+l'esame di "Fisica sperimentale I" deve precedere l'esame di "Esercitazioni di fisica sperimentale";
 
-Art. 274. - Gli iscritti alla scuola di specializzazione sono tenuti a pagare le tasse e soprattasse, secondo quanto stabilito per gli studenti della facolta' di medicina e chirurgia, nonche' la tassa di diploma nella misura di L. 6.000, ai sensi dell'[art. 7 della legge 18 dicembre 1951, n. 1551](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1951-12-18;1551~art7).
+l'esame di "Esercitazioni di matematiche I", deve precedere l'esame di "Fisica sperimentale II";
 
-Sono tenuti, altresi', al pagamento di speciali contributi nella misura che sara' determinata dal consiglio di amministrazione, previo parere della facolta', su proposta del direttore della scuola.
+l'esame di "Analisi chimica quantitativa" deve precedere l'esame di "Esercitazioni di chimica industriale I";
+
+l'esame di "Chimica organica II" deve precedere gli esami di "Chimica industriale II" e l'esame di "Esercitazioni di chimica industriale II";
+
+l'esame di "Fisica tecnica" deve precedere l'esame di "Impianti industriali chimici con elementi di disegno";
+
+l'esame di "Mineralogia, con esercitazioni" deve precedere l'esame di "Strutturistica chimica".
+
+Art. 53. - Le materie di insegnamento per la laurea in Chimica industriale, secondo quanto previsto dall'art. 2, sono coordinate dal Consiglio di Facolta' in modo da garantire la equilibrata distribuzione fra i vari corsi e l'organico sviluppo.
+
+I corsi di insegnamento vertono su corsi di lezioni teoriche e pratiche dimostrative, seguendo ogni anno i piu' moderni criteri, scientifici e didattici. Il Consiglio di Facolta' provvedera' annualmente, nei limiti delle somme stanziate per la Facolta', ad integrare i corsi con viaggi di istruzione la cui organizzazione e' demandata ai singoli direttori di istituto.
+
+Gli esami per gli insegnamenti della laurea in Chimica industriale sono costituiti da una prova orale integrata generalmente da prove scritte e pratiche secondo le disposizioni del Consiglio di Facolta' su proposta degli insegnanti dei corsi.
+
+Art. 54. - Per ottenere l'iscrizione ai triennio di studi di applicazione lo studente deve aver seguito i corsi e superato gli esami in tutti gli insegnamenti fissati per il biennio di studi propedeutici.
+
+All'atto della iscrizione al primo anno del triennio di studi di applicazione lo studente deve sottoporre all'approvazione del Consiglio di Facolta' l'elenco dei quattro insegnamenti complementari prescelti. La scelta fatta in tal modo e' impegnativa e non puo' subire variazioni nel corso degli studi se non con delibera del Consiglio di Facolta' qualora lo studente ne faccia richiesta con motivata domanda.
+
+Per essere ammesso all'esame di laurea lo studente deve avere seguito i corsi e superato gli esami in tutti ali insegnamenti fondamentali del triennio di applicazione e almeno in quattro degli insegnamenti complementari da lui scelti.
+
+Art. 55. - Per il conseguimento della laurea in Chimica industriale lo studente deve presentare una dissertazione o tesi scritta, preferibilmente di natura sperimentale, su argomento di carattere prevalentemente chimico, concordato con un professore ufficiale del corso di laurea in Chimica industriale. L'assegnazione dell'argomento oggetto della dissertazione di laurea viene fatta soltanto quando lo studente abbia superato un certo numero di esami, fissato dalla Facolta', in modo tale da garantire una preparazione adeguata dello studente.
+
+La dissertazione deve essere presentata alla segreteria della Universita' almeno dieci giorni prima dell'esame di laurea, insieme ai titoli dei tre argomenti scelti per la discussione di cui al comma terzo dell'articolo seguente.
+
+Art. 56. - L'esame di laurea comprende:
+
+1) una prova pratica:
+
+a) di analisi chimica qualitativa;
+
+b) di analisi chimica quantitativa;
+
+c) di chimica industriale o applicata.
+
+2) un colloquio di cultura chimica sostenuto di fronte ad una Commissione nominata dal preside della Facolta'.
+
+3) di una discussione della dissertazione scritta di cui all'art. 55 e una discussione di due dei tre argomenti scelti dal laureando, in accordo con professori ufficiali, in materie di insegnamento del corso di laurea in Chimica industriale. Tali argomenti devono essere scelti in materie diverse fra loro e diverse da quella formante oggetto della dissertazione di laurea.
+
+Art. 75. - Agli insegnamenti complementari del corso di laurea in Medicina veterinaria sono aggiunti i seguenti:
+
+Semeiologia e metodologia medica veterinaria;
+
+Semeiologia e metodologia chirurgica veterinaria Genetica animale.
+
+Dopo l'art. 190, e con il conseguente spostamento della successiva numerazione, sono inseriti i seguenti nuovi articoli relativi a la istituzione della Scuola di specializzazione in Microbiologia.
+
+Art. 191. - E' istituita la Scuola di specializzazione in Microbiologia che ha sede presso l'istituto di Microbiologia della Facolta' di Medicina e chirurgia.
+
+La Scuola e' sottoposta alle regolamentazioni generali fissate dallo statuto delle Scuole di specializzazione annesse alla Facolta' di Medicina e chirurgia dell'Universita' degli studi di Parma.
+
+Art. 192. - Sono ammessi i laureati in Medicina e chirurgia, Scienze biologiche e Scienze naturali.
+
+Art. 193. - L'iscrizione alla Scuola e limitata per ogni anno accademico a dieci allievi.
+
+Art. 194. - La Scuola ha la durata di due anni.
+
+Art. 195. - Le materie di insegnamento sono:
+
+Primo anno:
+
+1) Biochimica;
+
+2) Istologia;
+
+3) Zoologia;
+
+4) Analisi statistica del dosaggio biologico;
+
+5) Batteriologia generale e tecnica batteriologica;
+
+6) Immunologia, immunochimica e sierologica;
+
+7) Virologia generale e tecnica virologica.
+
+Secondo anno:
+
+1) Batteriologia medica ed accertamento diagnostico delle malattie ad eziologia batterica;
+
+2) Virologia speciale ed accertamento diagnostico delle malattie da virus e rickettasie 3) Batteriologa degli alimenti;
+
+4) Microbiologia industriale;
+
+5) Micologia.
+
+Art. 196. - I corsi saranno integrati da conferenze su argomenti speciali: biofisica, genetica, epidemiologia, ecc.
+
+Art. 197. - Gli allievi dovranno seguire turni di internato secondo gli orari stabiliti dalla Scuola.
+
+Art. 198 - Al termine di ciascun anno gli allievi che abbiano regolarmente frequentato i corsi, dovranno superare un esame di profitto.
+
+Art. 199. - Alla fine dei due anni gli allievi dovranno presentare una tesi scritta e sostenere un esame di diploma.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 
-Dato a Roma, addi' 6 giugno 1974
+Dato a Roma, addi' 22 settembre 1963
 
-LEONE
+SEGNI
 
-MALFATTI
+GUI
 
-Visto, il Guardasigilli: ZAGARI
+Visto, il Guardasigilli: BOSCO
 
 Registrato
 ----------
 
-alla Corte dei conti, addi' 29 ottobre 1974 Atti di Governo, registro n. 6, foglio n. 83. - SCIARRETTA
+alla Corte del conti, addi' 18 novembre 1963 Atti del Governo, registro n. 176, foglio n. 14. - VILLA
 
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA   
+ IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Parma, approvato con [regio decreto 13 ottobre 1927, numero 2797](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2797) e modificato con [regio decreto 30 ottobre 1930, n. 1772](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-30;1772), e successive modificazioni;   
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;   
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;   
-Sentito il parere del Consiglio superiore della pubblica istruzione;   
-Sulla proposta del Ministro per la pubblica istruzione;   
+Veduto lo statuto dell'Universita' degli studi di Parma, approvato con [regio decreto 13 ottobre 1927, numero 2797](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2797), e modificato con [regio decreto 30 ottobre 1930, n. 1772](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-30;1772), e successive modificazioni;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
+Vedono il [decreto del Presidente della Repubblica 26 luglio 1960, n. 1145](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1960-07-26;1145);  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita', accademiche dell'Universita' anzidetta;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
+Sentito il parere del Consiglio superiore della pubblica istruzione;  
+Sulla proposta del Ministro per la pubblica istruzione;  
   
-Decreta:   
+Decreta:  
   
-Lo statuto dell'Universita' degli studi di Parma, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
-Art. 142 - all'elenco delle scuole di specializzazione annesse alla facolta' di medicina e chirurgia, sono aggiunte le seguenti scuole di specializzazione:   
-  
-Chirurgia plastica;   
-Medicina del lavoro.   
-  
-Dopo l'art. 265, e con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi alla istituzione delle scuole di specializzazione in chirurgia plastica e in medicina del lavoro.   
-  
-Scuola di specializzazione in chirurgia plastica   
-  
-Art. 266. - La scuola e' posta sotto la direzione del titolare della cattedra di chirurgia plastica coadiuvato da docenti particolarmente preparati nelle materie di insegnamento.   
-Il corso si compone di insegnamenti fondamentali e di conferenze su argomenti speciali.   
-Durante i tre anni del corso verranno quotidianamente tenute esercitazioni di diagnostica, di tecnica operatoria, di laboratorio ed altre di indole pratica.   
-La frequenza sia alle lezioni e conferenze che alle esercitazioni teoriche e pratiche e' obbligatoria.   
-Art. 267. - L'ammissione alla scuola avviene previo superamento di esame, con prova scritta e orale, inteso a chiarire il grado di preparazione generale del candidato ed i suoi specifici interessi ed attitudine verso la chirurgia plastica.   
-Sono da considerarsi titoli preferenziali, a parita' di risultato dell'esame di ammissione: 1) il voto di laurea in medicina e chirurgia; 2) aver frequentato come studente interno un istituto di chirurgia generale e specialistica; 3) aver svolto la tesi di laurea su argomenti di interesse per la chirurgia plastica; 4) documentazione di eventuali servizi prestati in reparti della specialita'; 5) eventuali pubblicazioni.   
-Art. 268. - Il numero massimo complessivo degli iscritti ai tre anni di corso e' di 12 (4 per anno di corso).   
-Alla fine di ciascun anno scolastico, gli specializzandi che abbiano ottenuto la firma di frequenza, dovranno sostenere un esame di profitto, il cui superamento e' condizione necessaria per l'iscrizione all'anno successivo e per quelli che sono stati iscritti all'ultimo anno, per poter accedere all'esame di diploma.   
-Alla fine del terzo anno del corso, ha luogo l'esame di diploma, consistente nella preparazione e discussione di una dissertazione scritta su argomento di chirurgia plastica, concordato fra il diplomando e il direttore della scuola all'inizio del terzo anno. La dissertazione deve essere approvata dal direttore stesso e depositata presso la segreteria almeno quindici giorni prima dell'esame.   
-Art. 269. - Gli insegnamenti impartiti nella scuola di specializzazione in chirurgia plastica sono i seguenti:   
-  
-1° Anno:   
-Patologia generale;   
-Concetti di patologia secondaria;   
-Guarigione delle ferite;   
-Trapianti;   
-Omoinnesti;   
-Traumatologia dei tessuti molli;   
-Malattia-ustione (fisiopatologia e clinica) (1° anno);   
-Anatomia ed embriologia (con specifico riferimento alla faccia, collo, organi genitali, arti superiori ed inferiori);   
-Anatomia ed istologia patologica (con specifico riferimento alla malattia-ustione e ai tumori cutanei benigni e maligni);   
-Anestesiologia e rianimazione (concetti generali sui principi che suggeriscono l'adozione dei vari metodi e tecniche anestesiologiche).   
-  
-2° Anno:   
-Tecnica operatoria;   
-Anatomia chirurgica;   
-Malformazioni congenite;   
-Malattia-ustione (terapia medica e chirurgica) (2° anno);   
-Elementi di otorinolaringoiatria;   
-Elementi di stomatologia;   
-Elementi di ortopedia generale;   
-Dermatologia generale (con specifico riferimento alle malattie o lesioni congenite, di competenza plastica, passibili di trattamento chirurgico) (biennale 1° anno).   
-  
-3° Anno:   
-Metodologia chirurgica differenziale;   
-Conservazione e tipizzazione dei tessuti;   
-Chirurgia riparatrice della mano;   
-Chirurgia riparatrice e correttiva del volto;   
-Dermatologia generale (biennale 2° anno);   
-Medicina legale e delle assicurazioni (con riferimento alle deformita' anatomiche e alle menomazioni funzionali di origine traumatica);   
-Elementi di criobiologia e di criochirurgia;   
-Fisioterapia delle lesioni cutanee (con elementi di criobiologia e di criochirurgia).   
-  
-Art. 270. - Gli iscritti alla scuola di specializzazione sono tenuti a pagare le tasse e soprattasse, secondo quanto stabilito per gli studenti della facolta' di medicina e chirurgia, nonche' la tassa di diploma nella misura di L. 6.000, ai sensi dell'[art. 7 della legge 18 dicembre 1951, n. 1551](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1951-12-18;1551~art7).   
-Sono tenuti, altresi', al pagamento di speciali contributi nella misura che sara' determinata dal consiglio di amministrazione, previo parere della facolta', su proposta del direttore della scuola.   
-  
-Scuola di specializzazione in medicina del lavoro   
-  
-Art. 271. - La scuola di specializzazione in medicina del lavoro ha la durata di tre anni.   
-Art. 272. - Il numero degli iscritti da ammettere alla scuola e' di tre per ogni anno di corso (totale nove iscritti).   
-Art. 273. - Le materie di insegnamento sono le seguenti:   
-  
-1° Anno:   
-1) Fisiologia del lavoro ed ergonomia 1° anno;   
-2) Tecnologia ed igiene del lavoro 1° anno;   
-3) Patologia e clinica del lavoro 1° anno;   
-4) Psicologia del lavoro 1° anno.   
-  
-2° Anno:   
-1) Fisiologia del lavoro ed ergonomia 2° anno;   
-2) Tecnologia ed igiene del lavoro 2° anno;   
-3) Patologia e clinica del lavoro 2° anno:   
-4) Psicologia del lavoro 2° anno;   
-5) Tossicologia industriale e diagnostica di laboratorio 1° anno;   
-6) Infortunistica e pronto soccorso 1° anno;   
-7) Biometria e statistica sanitaria;   
-8) Medicina preventiva dei lavoratori 1° anno.   
-  
-3° Anno:   
-1) Patologia e clinica del lavoro 3° anno;   
-2) Tecnologia ed igiene del lavoro 3° anno;   
-3) Infortunistica e pronto soccorso 2° anno;   
-4) Medicina legale e delle assicurazioni;   
-5) Medicina preventiva dei lavoratori 2° anno;   
-6) Radiologia e medicina nucleare;   
-7) Tossicologia industriale e diagnostica di laboratorio 2° anno;   
-8) Dermatologia professionale.   
-  
-Art. 274. - Gli iscritti alla scuola di specializzazione sono tenuti a pagare le tasse e soprattasse, secondo quanto stabilito per gli studenti della facolta' di medicina e chirurgia, nonche' la tassa di diploma nella misura di L. 6.000, ai sensi dell'[art. 7 della legge 18 dicembre 1951, n. 1551](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1951-12-18;1551~art7).   
-Sono tenuti, altresi', al pagamento di speciali contributi nella misura che sara' determinata dal consiglio di amministrazione, previo parere della facolta', su proposta del direttore della scuola.   
+Lo statuto dell'Universita' degli studi di Parma, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+Art. 22. - Agli insegnamenti complementari del corso di laurea in Economia e commercio sono aggiunti i seguenti:  
+Storia delle dottrine economiche;  
+Statistica economica.  
+Art. 30. - E' abrogato e sostituito dal seguente:  
+"La Facolta' di Scienze matematiche, fisiche e naturali conferisce:  
+a) la laurea in Matematica;  
+b) la laurea in Fisica;  
+c) la laurea in Chimica;  
+d) la laurea in Chimica industriale;  
+e) la laurea in Scienze naturali;  
+f) la laurea in Scienze biologiche;  
+g) la laurea in Scienze geologiche.  
+E' annessa alla Facolta' il biennio di studi propedeutici per la laurea in ingegneria.  
+Dopo l'art. 50, e con il conseguente spostamento della successiva numerazione, sono inseriti i seguenti nuovi articoli relativi alla istituzione del corso di laurea in Chimica industriale.  
+Art. 51. - La durata del corso di laurea in Chimica industriale e' di cinque anni, divisi in un biennio di studi propedeutici e in un triennio di studi di applicazione. Il biennio di studi propedeutici e comune al corso di laurea in Chimica.  
+Titolo di ammissione e' il diploma di maturita' classica o scientifica. Possono inoltre essere ammessi i diplomati degli Istituti tecnici industriali, agrari, nautici e per geometri ai sensi delle vigenti disposizioni di legge.  
+Biennio di studi propedeutici Sono insegnamenti fondamentali:  
+1) Istituzioni di matematiche (biennale);  
+2) Chimica generale ed inorganica (biennale);  
+3) Chimica organica (biennale);  
+4) Chimica analitica;  
+5) Fisica sperimentale (biennale);  
+6) Mineralogia con esercitazioni pratiche (corso speciale per chimici);  
+7) Esercitazioni di matematiche (biennale);  
+8) Esercitazioni di preparazioni chimiche;  
+9) Esercitazioni di disegno di elementi di macchine;  
+10) Esercitazioni di analisi chimica qualitativa;  
+11) Esercitazioni di fisica sperimentale.  
+Triennio di studi di applicazione:  
+Sono insegnamenti fondamentali:  
+1) Chimica fisica (biennale);  
+2) Fisica tecnica;  
+3) Chimica industriale (biennale);  
+4) Esercitazioni di analisi chimica quantitativa;  
+5) Esercitazioni di chimica fisica (biennale);  
+6) Esercitazioni di chimica industriale (biennale);  
+7) impianti industriali chimici con elementi di disegno (biennale);  
+8) Elementi di diritto, di economia e di legislazione sociale.  
+Sono insegnamenti complementari:  
+1) Analisi matematica (algebrica e infinitesimale) (biennale);  
+2) Geometria analitica con elementi di proiettiva;  
+3) Meccanica razionale con elementi di statica grafica;  
+4) Fisica superiore;  
+5) Elettrotecnica;  
+6) Misure elettriche (corso speciale per chimici e chimici industriali);  
+7) Chimica agraria;  
+8) Chimica delle fermentazioni e batteriologia industriale;  
+9) Chimica organica industriale;  
+10) Elettrochimica;  
+11) Chimica applicata;  
+12) Scienza dei metalli;  
+13) Strutturistica chimica;  
+14) Chimica e tecnologia delle sostanze coloranti;  
+15) Spettroscopia;  
+16) Radiochimica;  
+17) Petrolchimica e tecnologia dei prodotti petroliferi;  
+18) Chimica delle macromolecole;  
+19) Chimica merceologica e analisi merceologica;  
+20) Chimica teorica;  
+21) Tecnologia chimico farmaceutiche;  
+22) Chimica degli intermedi e degli esplosivi.  
+I tre insegnamenti complementari di "Analisi matematica" (biennale), di "Geometria analitica con elementi di proiettiva" e di "Meccanica razionale con elementi di statica grafica" possono sostituire l'unico insegnamento fondamentale di "Istituzioni di matematiche, (biennale).  
+Il corso biennale di Analisi matematica che comporta due esami distinti, uno per ogni anno di corso, sara' impartito da due professori ciascuno dei quali insegnera' alternativamente "Analisi algebrica" per il primo anno e "Analisi infinitesimale" per il secondo anno.  
+Il 1° corso degli insegnamenti fondamentali di "Chimica generale ed inorganica", di "Chimica organica", di "Istituzioni di matematiche", di "Esercitazioni di matematiche", di "Fisica sperimentale", di "Chimica fisica", di "Esercitazioni di chimica fisica", di "Impianti industriali con elementi di disegno" e' propedeutico rispetto al 2° corso dello stesso insegnamento.  
+L'esame della materia comporta due esami separati, uno per ogni anno di corso.  
+Il corso di Chimica industriale (biennale) comprende come prima parte la Chimica industriale inorganica e come seconda parte la Chimica industriale organica.  
+L'esame della materia comporta due esami separati.  
+Lo stesso vale per i corsi di esercitazioni di Chimica industriale I e di esercitazioni di chimica industriale II.  
+I corsi di esercitazioni costituenti materia fondamentale sono da considerare insegnamenti da impartirsi da: un professore di ruolo o incaricato.  
+Art. 52. - Ferma restando la priorita' degli esami del biennio di studi propedeutici rispetto a tutti gli esami del triennio di studi di applicazione e la priorita' degli esami riguardanti la prima parte dei corsi biennali rispetto alla seconda parte dei corsi stessi, lo studente deve osservare le seguenti precedenze negli esami:  
+l'esame di "Chimica generale e inorganica I" deve precedere qualunque esame di materia chimica ad eccezione dell'esame di "Esercitazioni di preparazioni chimiche";  
+l'esame di "Istituzioni di matematiche I" deve precedere l'esame di "Fisica sperimentale I";  
+l'esame di "Fisica sperimentale I" deve precedere l'esame di "Esercitazioni di fisica sperimentale";  
+l'esame di "Esercitazioni di matematiche I", deve precedere l'esame di "Fisica sperimentale II";  
+l'esame di "Analisi chimica quantitativa" deve precedere l'esame di "Esercitazioni di chimica industriale I";  
+l'esame di "Chimica organica II" deve precedere gli esami di "Chimica industriale II" e l'esame di "Esercitazioni di chimica industriale II";  
+l'esame di "Fisica tecnica" deve precedere l'esame di "Impianti industriali chimici con elementi di disegno";  
+l'esame di "Mineralogia, con esercitazioni" deve precedere l'esame di "Strutturistica chimica".  
+Art. 53. - Le materie di insegnamento per la laurea in Chimica industriale, secondo quanto previsto dall'art. 2, sono coordinate dal Consiglio di Facolta' in modo da garantire la equilibrata distribuzione fra i vari corsi e l'organico sviluppo.  
+I corsi di insegnamento vertono su corsi di lezioni teoriche e pratiche dimostrative, seguendo ogni anno i piu' moderni criteri, scientifici e didattici. Il Consiglio di Facolta' provvedera' annualmente, nei limiti delle somme stanziate per la Facolta', ad integrare i corsi con viaggi di istruzione la cui organizzazione e' demandata ai singoli direttori di istituto.  
+Gli esami per gli insegnamenti della laurea in Chimica industriale sono costituiti da una prova orale integrata generalmente da prove scritte e pratiche secondo le disposizioni del Consiglio di Facolta' su proposta degli insegnanti dei corsi.  
+Art. 54. - Per ottenere l'iscrizione ai triennio di studi di applicazione lo studente deve aver seguito i corsi e superato gli esami in tutti gli insegnamenti fissati per il biennio di studi propedeutici.  
+All'atto della iscrizione al primo anno del triennio di studi di applicazione lo studente deve sottoporre all'approvazione del Consiglio di Facolta' l'elenco dei quattro insegnamenti complementari prescelti. La scelta fatta in tal modo e' impegnativa e non puo' subire variazioni nel corso degli studi se non con delibera del Consiglio di Facolta' qualora lo studente ne faccia richiesta con motivata domanda.  
+Per essere ammesso all'esame di laurea lo studente deve avere seguito i corsi e superato gli esami in tutti ali insegnamenti fondamentali del triennio di applicazione e almeno in quattro degli insegnamenti complementari da lui scelti.  
+Art. 55. - Per il conseguimento della laurea in Chimica industriale lo studente deve presentare una dissertazione o tesi scritta, preferibilmente di natura sperimentale, su argomento di carattere prevalentemente chimico, concordato con un professore ufficiale del corso di laurea in Chimica industriale. L'assegnazione dell'argomento oggetto della dissertazione di laurea viene fatta soltanto quando lo studente abbia superato un certo numero di esami, fissato dalla Facolta', in modo tale da garantire una preparazione adeguata dello studente.  
+La dissertazione deve essere presentata alla segreteria della Universita' almeno dieci giorni prima dell'esame di laurea, insieme ai titoli dei tre argomenti scelti per la discussione di cui al comma terzo dell'articolo seguente.  
+Art. 56. - L'esame di laurea comprende:  
+1) una prova pratica:  
+a) di analisi chimica qualitativa;  
+b) di analisi chimica quantitativa;  
+c) di chimica industriale o applicata.  
+2) un colloquio di cultura chimica sostenuto di fronte ad una Commissione nominata dal preside della Facolta'.  
+3) di una discussione della dissertazione scritta di cui all'art. 55 e una discussione di due dei tre argomenti scelti dal laureando, in accordo con professori ufficiali, in materie di insegnamento del corso di laurea in Chimica industriale. Tali argomenti devono essere scelti in materie diverse fra loro e diverse da quella formante oggetto della dissertazione di laurea.  
+Art. 75. - Agli insegnamenti complementari del corso di laurea in Medicina veterinaria sono aggiunti i seguenti:  
+Semeiologia e metodologia medica veterinaria;  
+Semeiologia e metodologia chirurgica veterinaria Genetica animale.  
+Dopo l'art. 190, e con il conseguente spostamento della successiva numerazione, sono inseriti i seguenti nuovi articoli relativi a la istituzione della Scuola di specializzazione in Microbiologia.  
+Art. 191. - E' istituita la Scuola di specializzazione in Microbiologia che ha sede presso l'istituto di Microbiologia della Facolta' di Medicina e chirurgia.  
+La Scuola e' sottoposta alle regolamentazioni generali fissate dallo statuto delle Scuole di specializzazione annesse alla Facolta' di Medicina e chirurgia dell'Universita' degli studi di Parma.  
+Art. 192. - Sono ammessi i laureati in Medicina e chirurgia, Scienze biologiche e Scienze naturali.  
+Art. 193. - L'iscrizione alla Scuola e limitata per ogni anno accademico a dieci allievi.  
+Art. 194. - La Scuola ha la durata di due anni.  
+Art. 195. - Le materie di insegnamento sono:  
+Primo anno:  
+1) Biochimica;  
+2) Istologia;  
+3) Zoologia;  
+4) Analisi statistica del dosaggio biologico;  
+5) Batteriologia generale e tecnica batteriologica;  
+6) Immunologia, immunochimica e sierologica;  
+7) Virologia generale e tecnica virologica.  
+Secondo anno:  
+1) Batteriologia medica ed accertamento diagnostico delle malattie ad eziologia batterica;  
+2) Virologia speciale ed accertamento diagnostico delle malattie da virus e rickettasie 3) Batteriologa degli alimenti;  
+4) Microbiologia industriale;  
+5) Micologia.  
+Art. 196. - I corsi saranno integrati da conferenze su argomenti speciali: biofisica, genetica, epidemiologia, ecc.  
+Art. 197. - Gli allievi dovranno seguire turni di internato secondo gli orari stabiliti dalla Scuola.  
+Art. 198 - Al termine di ciascun anno gli allievi che abbiano regolarmente frequentato i corsi, dovranno superare un esame di profitto.  
+Art. 199. - Alla fine dei due anni gli allievi dovranno presentare una tesi scritta e sostenere un esame di diploma.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 6 giugno 1974
+### Dato a Roma, addi' 22 settembre 1963
 
-LEONE MALFATTI
+SEGNI GUI
 
-Visto, il Guardasigilli: ZAGARI
+Visto, il Guardasigilli: BOSCO
 
-Registrato alla Corte dei conti, addi' 29 ottobre 1974
+Registrato alla Corte del conti, addi' 18 novembre 1963
 
-Atti di Governo, registro n. 6, foglio n. 83. - SCIARRETTA
+Atti del Governo, registro n. 176, foglio n. 14. - VILLA

@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 16 luglio 1985 n. 564
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 06 marzo 1976 n. 173
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 16 luglio 1985 n. 564
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 06 marzo 1976 n. 173
+============================================================
 
 Autorizzazione alla fondazione "Pro juventute don Carlo Gnocchi", in Roma, ad accettare un legato.
 --------------------------------------------------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-564. Decreto del Presidente della Repubblica 16 luglio 1985, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare il legato, consistente in un quarto della quota residua dell'assegnazione ad altri legatari del ricavato della vendita di un immobile sito in Roma, via Fratelli Ruspoli n. 2 ed annesso box ed altri beni mobili per un totale di L. 47.872.000, come risulta dal prospetto della consistenza, disposto dalla sig.ra Del Barba Maria con testamento olografo 23 luglio 1981, pubblicato il 12 maggio 1982, n. 75394 di repertorio e n. 9847 di raccolta, a rogito dottor Franco Ventura, notaio in Roma, registrato a Roma il 17 maggio 1982 al n. 419031.  
+173. Decreto del Presidente della Repubblica 6 marzo 1976, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare il legato disposto dal sig. don Giuseppe Lazzari in favore dell'Opera di don Gnocchi, che si identifica con la fondazione "Pro juventute don Carlo Gnocchi", come ha fatto presente la fondazione medesima, con testamento olografo 4 marzo 1972, pubblicato a rogito dott. Gianfranco Palavera, notaio in Gallarate (Milano), in data 26 gennaio 1973, n. 14 di repertorio, n. 1995 di raccolta, registrato a Gallarate il 13 febbraio 1973 con il n. 968, vol. 216, consistente nella somma di L. 3.000.000.  
   
-Visto, il Guardasigilli: MARTINAZZOLI  
-Registrato alla Corte dei conti, addi' 11 ottobre 1985  
-Registro n. 9 Presidenza, foglio n. 67
+Visto, il Guardasigilli: BONIFACIO  
+Registrato alla Corte dei conti, addi' 24 aprile 1976  
+Atti di Governo, registro n. 5, foglio n. 37

@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 febbraio 1953 n. 393
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 febbraio 1952 n. 440
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 febbraio 1953 n. 393
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 febbraio 1952 n. 440
 ===============================================================
 
 Autorizzazione all'Universita' di Napoli ad accettare una donazione.
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-393. Decreto del Presidente della Repubblica 10 febbraio 1953, col quale, sulla proposta del Ministro per la pubblica istruzione, l'Universita' di Napoli viene autorizzata ad accettare la donazione di L. 200.000 nominali, in titoli di Stato 5%, disposta in suo favore dal prof. Ernesto Pontieri, con atto pubblico amministrativo in data 18 luglio 1952, per l'istituzione, con la rendita del capitale donato, di un premio di studio annuo da intitolarsi al nome di "Maria Pontieri" e da conferirsi ad un laureato in lettere o in filosofia dell'Universita' di Napoli che abbia svolta la migliore tesi di laurea in una delle discipline del ramo storico-geografico della Facolta' medesima.  
+440. Decreto del Presidente della Repubblica 2 febbraio 1952, col quale, sulla proposta del Ministro per la pubblica istruzione, l'Universita' di Napoli viene autorizzata ad accettare la donazione della somma di L. 302.436, depositate su libretto di risparmio del Banco di Napoli e da convertirsi in titoli di Stato 5%, disposta in suo favore dal rag. Italo Forti, con atto pubblico amministrativo in data 11 giugno 1951, per l'istituzione di una borsa di studio, da denominarsi "Borsa di studio Emilio Scaglione" e da conferirsi, ogni due anni, alla migliore tesi di laurea in discipline storiche, svolta nel biennio precedente al bando di concorso, da un laureato della Facolta' di lettere e filosofia dell'Universita' medesima che sia bisognoso e figlio di giornalista di professione dell'Italia meridionale.  
   
 Visto, il Guardasigilli: ZOLI  
-Registrato alla Corte dei conti, addi' 15 maggio 1953  
-Atti del Governo, registro n. 76, foglio n. 99. - PALLA
+Registrato alla Corte dei conti, addi' 23 aprile 1952  
+Atti del Governo, registro n. 53, foglio n. 7. - FRASCA

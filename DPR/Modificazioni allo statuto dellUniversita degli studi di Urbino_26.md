@@ -1,42 +1,72 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 03 settembre 1956 n. 1134
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 luglio 1981 n. 1075
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 03 settembre 1956 n. 1134
-=================================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 luglio 1981 n. 1075
+==============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Urbino.
 ------------------------------------------------------------------
 
+IL PRESIDENTE DELLA REPUBBLICA
+------------------------------
+
+Veduto lo statuto dell'Universita' di Urbino, approvato con [regio decreto 8 febbraio 1925, n. 230](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1925-02-08;230) e modificato con [regio decreto 31 ottobre 1929, n. 2475](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1929-10-31;2475), e successive modificazioni;
+
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
+
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
+
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
+
+Veduto il [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382), ed in particolare l'art. 122;
+
+Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Urbino e convalidati dal Consiglio universitario nazionale nel suo parere;
+
+Sentito il parere del Consiglio universitario nazionale;
+
+Sulla proposta del Ministro della pubblica istruzione, di concerto col Ministro del tesoro;
+
+Decreta:
+--------
+
+Lo statuto dell'Universita' di Urbino, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Urbino, approvato con [regio decreto 8 febbraio 1925, n. 230](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1925-02-08;230), modificato con [regi decreti 31 ottobre 1929, n. 2475](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1929-10-31;2475); [27 ottobre 1932, n. 2084](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1932-10-27;2084); [13 dicembre 1934, n. 2403](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1934-12-13;2403); [1 ottobre 1936, n. 2019](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1936-10-01;2019); [20 dicembre 1937, n. 2684](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:regio.decreto:1937-12-20;2684); [5 maggio 1939, n. 1145; con decreto del Capo provvisorio dello Stato](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto:1939-05-05;1145) [29 novembre 1946, n. 643 e con decreti del Presidente della Repubblica](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1946-11-29;643) [5 aprile 1950, n. 853](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1950-04-05;853) e [14 settembre 1954, n. 1058](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1954-09-14;1058);  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
-Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro per la pubblica istruzione;  
+Dopo l'art. 163 dello statuto e' aggiunto il seguente nuovo articolo:  
+Art. 164. - Per quanto riguarda lo stato giuridico ed il trattamento economico dei professori associati e dei ricercatori si applicano le norme contenute nel [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382), e comunque le norme vigenti per il corrispondente personale delle universita' statali.  
+Per quanto riguarda invece il trattamento di previdenza e di assistenza del predetto personale, sara' provveduto nei modi indicati negli articoli 115 e 116 del vigente statuto dell'Universita'.  
+
+Art. 2
+------
+
   
-Decreta:  
+Dopo la tabella A, relativa all'organico del ruolo dei professori straordinari e ordinari e' inserita la tabella A-bis relativa all'organico dei professori associati.  
   
-Lo statuto dell'Universita' degli studi di Urbino, approvato e modificato con i decreti sopraindicati, e ulteriormente modificato come appresso:  
-Art. 25. - Agli insegnamenti complementari del corso di laurea in farmacia sono aggiunti quelli di "biochimica applicata" e "zoologia generale".  
+TABELLA A-bis  
+Ruolo dei professori associati  
+Facolta' di giurisprudenza . . . . . . . . . . . . . . . . . . . . 32 Facolta' di economia e commercio . . . . . . . . . . . . . . . . . 54 Facolta' di lettere e filosofia. . . . . . . . . . . . . . . . . . 55 Facolta' di magistero . . . . . . . . . . . . . . . . . . . . . . 102 Facolta' di farmacia . . . . . . . . . . . . . . . . . . . . . . . 30 Facolta' di scienze matematiche, fisiche e naturali. . . . . . . . 60   
+Dopo la tabella B relativa all'organico del ruolo degli assistenti e dei lettori e' inserita la tabella B-bis relativa all'organico dei ricercatori.  
   
+TABELLA B-bis  
+Ruolo dei ricercatori universitari  
+Facolta' di giurisprudenza . . . . . . . . . . . . . . . . . . . . 50 Facolta' di economia e commercio . . . . . . . . . . . . . . . . . 57 Facolta' di lettere e filosofia. . . . . . . . . . . . . . . . . . 51 Facolta' di magistero. . . . . . . . . . . . . . . . . . . . . . . 60 Facolta' di farmacia . . . . . . . . . . . . . . . . . . . . . . . 40 Facolta' di scienze matematiche, fisiche e naturali. . . . . . . . 60   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 3 settembre 1956
+### Dato a Roma, addi' 31 luglio 1981
 
-GRONCHI ROSSI
+PERTINI BODRATO - ANDREATTA
 
-Visto, il Guardasigilli: MORO
+Visto, il Guardasigilli: DARIDA
 
-Registrato alla Corte dei conti, addi' 12 ottobre 1956
+Registrato alla Corte dei conti, addi' 10 marzo 1982
 
-Atti del Governo, registro n. 101, foglio n. 2. - CARLOMAGNO
+Registro n. 38 Istruzione, foglio n. 278

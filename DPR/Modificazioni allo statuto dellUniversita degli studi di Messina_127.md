@@ -1,110 +1,127 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 gennaio 1966 n. 33
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 15 luglio 1983 n. 506
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 gennaio 1966 n. 33
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 15 luglio 1983 n. 506
 =============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Messina.
 -------------------------------------------------------------------
 
-Art. 1
-------
+IL PRESIDENTE DELLA REPUBBLICA
+------------------------------
 
- IL PRESIDENTE DELLA REPUBBLICA   
+Veduto lo statuto dell'Universita' degli studi di Messina, approvato con [regio decreto 1 ottobre 1936, n. 1923](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1936-10-01;1923), e modificato con [regio decreto 20 aprile 1930, n. 1090](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-04-20;1090), e successive modificazioni;
+
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
+
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
+
+Veduta la [legge 22 maggio 1978, n. 217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-05-22;217);
+
+Veduta la [legge 21 febbraio 1980, n. 28](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1980-02-21;28);
+
+Veduto il [decreto del Presidente della Repubblica 10 marzo 1982, n. 162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1982-03-10;162);
+
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' degli studi anzidetta;
+
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17);
+
+Sentito il parere del Consiglio universitario nazionale;
+
+Sulla
+-----
+
+proposta del Ministro della pubblica istruzione; Decreta:
+
+Articolo unico
+--------------
+
   
-Veduto lo statuto dell'Universita' degli studi di Messina, approvato con [regio decreto 20 aprile 1939, n. 1090](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1090), e modificato con [regio decreto 26 ottobre 1940, n. 1905](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-26;1905), e successive modificazioni;   
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);   
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;   
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;   
-Sentito il parere del Consiglio superiore della pubblica istruzione;   
-Sulla proposta del Ministro per la pubblica istruzione;   
+Lo statuto dell'Universita' degli studi di Messina, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
   
-Decreta:   
+Dopo l'art. 186, e con il conseguente spostamento della numerazione degli articoli successivi, sono aggiunti i seguenti nuovi articoli relativi alla istituzione della scuola di specializzazione in patologia generale.  
+Scuola di specializzazione in patologia generale  
+Art. 187. - E' istituita presso l'Universita' di Messina la scuola di specializzazione in patologia generale che conferisce il diploma di specialista in patologia generale.  
+Art. 188. - La direzione della scuola ha sede presso l'istituto pluridisciplinare di patologia generale.  
+Art. 189. - La scuola ha lo scopo di allargare ed approfondire sul piano scientifico la cultura di coloro che si dedicano allo studio di questa disciplina e di fornire sul piano tecnico una preparazione pratica specifica come qualificazione professionale.  
+Art. 190. - La durata del corso e' di 4 (quattro) anni e non e' suscettibile di abbreviazione, secondo le vigenti norme CEE.  
+Art. 191. - Il numero degli iscritti e' di trenta per ogni anno e complessivamente di centoventi per l'intero corso di studi.  
+Art. 192. - Alla scuola sono ammessi i laureati in medicina e chirurgia, per le scuole relative a specializzazioni mediche, ai quali, dopo aver superato l'esame finale, sara' rilasciato il diploma di "specialista in patologia generale".  
+Alla scuola stessa vengono ammessi anche i laureati in medicina veterinaria, in scienze biologiche, in scienze naturali, in farmacia, in chimica ed in tecnologia farmaceutiche, ai quali, dopo aver superato l'esame finale, sara' rilasciato un diploma di "specialista in patologia generale con indirizzo tecnico".  
+E' richiesto il possesso del diploma di abilitazione all'esercizio professionale rilasciato dalle autorita' competenti, ove prescritto.  
+Art. 193. - Per l'ammissione alla scuola e' richiesto il superamento di un esame consistente in una prova scritta che dovra' svolgersi mediante domande a risposte multiple, integrata eventualmente da un colloquio e da una valutazione, in misura non superiore al 30% del punteggio complessivo a disposizione della commissione dei seguenti titoli:  
+a) la tesi nella disciplina attinente alla specializzazione;  
+b) il voto di laurea;  
+c) il voto riportato negli esami di profitto del corso di laurea nelle materie concernenti la specializzazione;  
+d) le pubblicazioni nelle predette materie.  
+Il punteggio dei predetti titoli e' quello stabilito dal decreto ministeriale del 16 settembre 1982 (Gazzetta Ufficiale del 6 ottobre 1982). Sono ammessi alla scuola di specializzazione coloro che, in relazione al numero dei posti disponibili, si siano collocati in posizioni utili nelle graduatorie compilate sulla base del punteggio complessivo riportato.  
+Art. 194. - Le materie di insegnamento sono le seguenti:  
   
-Lo statuto dell'Universita' di Messina, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
-Dopo l'art. 25 e con il conseguente spostamento della successiva numerazione e' aggiunto il seguente nuovo articolo, relativo alla istituzione della Scuola di statistica annessa alla Facolta' di economia e commercio.   
+I BIENNIO  
+(propedeutico)  
+1° Anno:  
+1) istituzioni di patologia generale;  
+2) patologia delle infezioni;  
+3) epidemiologia e patologia ambientale;  
+4) immunologia;  
+5) parassitologia e diagnostica parassitologica.  
+2° Anno:  
+6) radiobiologia e patologia da radiazioni;  
+7) oncologia generale;  
+8) immunopatologia e analisi immunologiche;  
+9) analisi chimico-cliniche;  
+10) fisiopatologia generale primo corso (metabolismo e sistema endocrino).  
   
-SCUOLA DI STATISTICA   
+II BIENNIO  
+(per il conseguimento del diploma di "specialista in patologia generale")  
+3° Anno:  
+11) diagnostica di laboratorio di citopatologia e citogenetica;  
+12) diagnostica di laboratorio, di batteriologia e virologia;  
+13) fisiopatologia generale secondo corso (termoregolazione, sistema cardiocircolatorio, sangue ed organi emopoietici).  
+4° Anno:  
+14) diagnostica oncologica;  
+15) diagnostica istopatologica;  
+16) diagnostica ultrastrutturale;  
+17) fisiopatologia generale terzo corso (fegato, sistema digerente, renale, respiratorio).  
   
-Art. 26. - E' istituita presso la Facolta' di economia e commercio, una Scuola di statistica, diretta al conseguimento del diploma in statistica.   
-Essa ha la durata di anni due. E' titolo di ammissione il diploma di maturita' classica, di maturita' scientifica, di abilitazione per i provenienti dagli Istituti tecnici commerciali, industriali, agrari, nautici e per geometri.   
-Sono insegnamenti fondamentali:   
-1) Elementi di matematica;   
-2) Statistica;   
-3) Statistica economica - corso elementare;   
-4) Statistica giudiziaria (semestrale);   
-5) Statistica sociale (semestrale);   
-6) Antropometria (semestrale);   
-7) Statistica sanitaria (semestrale);   
-8) Sociologia generale e sociologia coloniale;   
-9) Demografia;   
-10) Geografia politica ed economica.   
-Sono insegnamenti complementari:   
-1) Economia politica - corso elementare;   
-2) Biometria;   
-3) Antropologia;   
-4) Nozioni elementari di diritto privato e pubblico Gli insegnamenti semestrali di "Statistica giudiziaria" e "Statistica sociale" e quelli, pure semestrali, di "Antropometria" e "Statistica sanitaria" comportano rispettivamente esami unici.   
-L'insegnamento biennale di "Statistica economica " comporta un esame alla fine di ogni anno.   
-Gli insegnamenti complementari possono essere scelti dallo studente anche fra le discipline impartite in altre Facolta' dell'Ateneo, previa approvazione del preside della Facolta' dalla quale e' rilasciato il diploma in statistica.   
-Per essere ammesso all'esame di diploma lo studente deve aver seguito i corsi e superato gli esami in tutti gli insegnamenti fondamentali e almeno in due complementari.   
-  
-Art. 39. - Agli insegnamenti complementari del corso di laurea in Materie letterarie sono aggiunti quelli di: "Letteratura latina cristiana, Storia contemporanea, Storia della critica d'arte".   
-  
-Art. 40. - Agli insegnamenti complementari del corso di laurea in Pedagogia e' aggiunto quello di: "Storia contemporanea".   
-  
-Art. 41. - Agli insegnamenti complementari del corso di laurea in Lingue e letterature straniere e' aggiunto quello di: "Letteratura latina cristiana".   
-  
-Art. 48. - Nell'elenco degli Istituti della Facolta' di Medicina e chirurgia e' aggiunto "l'Istituto di Parassitologia medica".   
-  
-Art. 51. - Nell'elenco degli Istituti della Facolta' di Scienze matematiche, fisiche e naturali sono aggiunti quelli di: "17) Istituto di Fisica teorica; 18) Istituto di Struttura della materia".   
-  
-Art. 52, relativo alle propedeuticita' del corso di laurea in Fisica il sesto comma e' abrogato e sostituito dal seguente: "I corsi di Fisica generale I e II, Analisi matematica I e II, constano di due corsi distinti, l'uno propedeutico all'altro e con esami distinti".   
-  
-Art. 53. - Nell'elenco degli insegnamenti complementari del corso di laurea in Fisica, l'insegnamento di "Teoria quantitativa dei corpi" muta denominazione in quella di "Teoria quantistica dei campi".   
-  
-Art. 54, relativo alle modalita' di esame del corso di laurea in Chimica e' aggiunto dopo il sesto comma il seguente: "II corso biennale di Fisica sperimentale comporta due esami annuali distinti".   
-  
-Art. 55. - Agli insegnamenti complementari del corso di laurea in scienze naturali e' aggiunto quello di "Parassitologia". Dopo l'elenco degli insegnamenti complementari del predetto corso di laurea vengono aggiunti i seguenti nuovi commi con l'abrogazione di quelli gia' esistenti:   
-"Gli insegnamenti biennali di Botanica, Zoologia, Fisiologia generale comportano esami distinti al termine dei singoli corsi; i primi due insegnamenti riguardano rispettivamente la parte generale e la parte sistematica.   
-Durante il terzo e il quarto anno lo studente deve frequentare due laboratori, di cui uno biennale, a scelta tra i seguenti: Botanica, Zoologia, Fisiologia generale, Chimica generale e inorganica, Chimica organica, Geologia, Mineralogia, Geografia.   
-Lo studente non puo' sostenere gli esami di Mineralogia e di Chimica organica senza aver superato quelli di Fisica e di Chimica generale ed inorganica; gli esami di Geologia e di Geografia senza aver superato quello di Mineralogia; gli esami di Anatomia comparata senza aver superato entrambi quelli di Zoologia; gli esami di Fisiologia generale senza aver superato quelli di Fisica, di Chimica generale ed inorganica, di Chimica organica, di Anatomia umana, nonche' entrambi gli esami di Zoologia e di Botanica.   
-Per essere ammesso all'esame di laurea lo studente deve aver seguito i corsi e superato gli esami in tutti gli insegnamenti fondamentali ed almeno in quattro da lui scelti tra i complementari.  
-Lo studente deve altresi' avere sostenuto un colloquio di cultura generale vertente sugli argomenti degli insegnamenti fondamentali del gruppo biologico e del gruppo abiologico, colloquio che deve aver luogo in un giorno precedente a quello fissato per le lauree.   
-Lo studente fornito di altra laurea, che chiede l'iscrizione al corso di laurea in Scienze naturali, deve ripetere la frequenza e l'esame di ogni insegnamento fondamentale che sia stato sostenuto come complementare nella laurea gia' conseguita, nonche' sostenere gli esami di almeno altri due insegnamenti complementari non frequentate nel precedente corso di laurea.   
-Egli inoltre deve obbligatoriamente frequentare i laboratori sopra prescritti; se in possesso della laurea in Scienze biologiche i laboratori devono essere ad indirizzo geomineralogico".   
-  
-Art. 56. - Agli insegnamenti complementari del corso di laurea in Scienze biologiche sono aggiunti quelli di:   
-22) Biochimica applicata;   
-23) Ecologia ed etologia animale;   
-24) Endocrinologia;   
-25) Neurofisiologia;   
-26) Parassitologia;   
-27) Radiobiologia.   
-Dopo l'elenco degli insegnamenti complementari del predetto corso di laurea vengono aggiunti i seguenti nuovi commi con l'abrogazione di quelli gia' esistenti:   
-"Gli insegnamenti biennali di Botanica, Zoologia, Fisiologia generale comportano esami distinti al termine dei singoli corsi; i primi due insegnamenti riguardano rispettivamente la parte generale e la parte sistematica.   
-Durante il terzo e il quarto anno lo studente deve frequentare due laboratori, di cui uno biennale, a scelta tra i seguenti: Botanica, Zoologia, Istologia ed Embriologia, Chimica generale ed inorganica, Chimica organica, Igiene, Fisiologia generale, Microbiologia.   
-Lo studente non puo' sostenere l'esame di Chimica organica senza avere superato quello di Chimica generale ed inorganica, ne' l'esame di Chimica biologica senza aver prima superato quello di Chimica organica, ne' l'esame di Anatomia comparata se prima non ha superato quello di Istologia ed Embriologia ed entrambi gli esami di Zoologia, ne' l'esame di Fisiologia generale senza aver superato quello di Fisica, Anatomia umana, Anatomia comparata, Chimica biologica, nonche' entrambi gli esami di Botanica. Per essere ammesso all'esame di laurea lo studente deve aver seguito i corsi e superato gli esami in tutti gli insegnamenti fondamentali ed almeno in quattro da lui scelti fra i complementari.   
-Lo studente deve altresi' avere sostenuto un colloquio di cultura generale vertente sugli argomenti degli insegnamenti fondamentali che deve aver luogo in un giorno precedente a quello fissato per le lauree.   
-Lo studente fornito di altra laurea, che chiede l'iscrizione al corso di laurea in Scienze biologiche, deve ripetere la frequenza e l'esame di ogni materia fondamentale che sia stata sostenuta come complementare nella laurea gia' conseguita, nonche' sostenere gli esami di almeno altri due insegnamenti complementari non frequentati nel precedente corso di laurea. Egli inoltre deve obbligatoriamente frequentare i laboratori sopra prescritti; se in possesso della laurea in Scienze naturali i laboratori devono essere diversi da quelli frequentati precedentemente".   
-  
-Art. 59, relativo alle propedeuticita' del corso di laurea in Fisica e' abrogato con il conseguente spostamento della successiva numerazione.   
-  
-Art. 60. - Il primo comma e' abrogato e sostituito dal seguente "Lo studente del corso di laurea in Chimica deve osservare, negli esami e nella frequenza del laboratori l'ordine di precedenza sotto indicato:   
-Chimica generale ed inorganica 1ª oppure " Esercitazioni di preparazioni chimiche" per la frequenza alle "Esercitazioni di analisi chimica qualitativa"".   
+II BIENNIO  
+(per il conseguimento del diploma di "specialista in patologia generale" con indirizzo tecnico)  
+3° Anno:  
+11) tecniche di batteriologia;  
+12) tecniche di virologia;  
+13) tecniche di citologia e citogenetica.  
+4° Anno:  
+14) statistica e biometria;  
+15) colture in vitro: aspetti biologici ed applicativi;  
+16) tecniche ematologiche;  
+17) tecniche istologiche ed ultrastrutturali.  
+Tutte le discipline previste in questo statuto afferiscono alla facolta' di medicina e chirurgia, corso di laurea in medicina e chirurgia.  
+Art. 195. - La frequenza ai corsi e' obbligatoria. Alla fine di ogni anno accademico lo specializzando deve sostenere un esame teorico-pratico per il passaggio all'anno di corso successivo. La commissione di esame, di cui fanno parte il direttore della scuola ed i docenti delle materie relative all'anno di corso, esprime un giudizio globale sul livello di preparazione del candidato nelle singole discipline e relative attivita' pratiche prescritte per l'anno di corso.  
+Coloro che non superano detto esame potranno ripetere l'anno di corso una sola volta.  
+Art. 196. - Le attivita' pratiche consistono nelle esercitazioni che ciascun candidato sara' invitato ad effettuare nei laboratori di: immunologia, micologia, batteriologia, biochimica, biofisica, parassitologia, oncologia, citopatologia, virologia, istopatologia, con esecuzione, sotto la guida del docente, delle principali reazioni di laboratorio.  
+Le attivita' pratiche avranno orario settimanale di almeno tre ore consecutive al giorno.  
+Le modalita' di frequenza delle attivita' didattiche e pratiche sono documentate in appositi registri con la firma autografa dello specializzando convalidata dal docente ora per ora fino al raggiungimento del numero di ore di frequenza minima che consenta l'ottenimento della firma di frequenza per ciascuna disciplina.  
+La frequenza necessaria per sostenere gli esami viene stabilita in 50 ore per le lezioni teoriche di ciascuna disciplina, in 60 ore per le esercitazioni pratiche ed in 40 ore per i seminari.  
+Ai fini della frequenza e delle attivita' pratiche va riconosciuta utile, sulla base di idonea documentazione, l'attivita' svolta dallo specializzando in strutture di servizio socio-sanitario attinente alla specializzazione anche all'estero o nell'ambito di quanto previsto dalla [legge 9 febbraio 1979, n. 38](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1979-02-09;38), in materia di cooperazione dell'Italia con i Paesi in via di sviluppo.  
+Art. 197. - Superato l'esame teorico-pratico dell'ultimo anno, il corso di studio delle scuole di specializzazione si conclude con un esame finale consistente nella discussione di una dissertazione scritta su una o piu' materie del corso.  
+A coloro che abbiano superato l'esame finale viene rilasciato il diploma di specialista.  
+Art. 198. - L'importo delle tasse e soprattasse dovute dagli iscritti alla scuola e' quello previsto dalle vigenti disposizioni di legge; i contributi sono stabiliti anno per anno dal consiglio di amministrazione.  
+Art. 199. - Per ciascuna scuola di specializzazione, anche se comprendente piu' indirizzi, e' costituito un unico consiglio presieduto da un direttore. Il consiglio e' composto dai docenti universitari di ruolo e dai professori a contratto previsti dall'[art. 4 del decreto del Presidente della Repubblica 10 marzo 1982, n. 162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1982-03-10;162~art4), ai quali sono affidate attivita' didattiche nella scuola, nonche' da una rappresentanza di tre specializzandi eletti secondo le modalita' di cui all'[art. 99 del decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382~art99).  
+Il consiglio esercita le competenze spettanti, ai sensi dell'art. 94 del decreto del Presidente della Repubblica n. 382, al consiglio di corso di laurea in materia di coordinamento di insegnamenti.  
+La direzione della scuola e' affidata a professore ordinario o straordinario che insegni anche nella scuola stessa. In caso di motivato impedimento, la direzione della scuola e' affidata a professore associato che pure insegni nella scuola medesima.  
   
 
-Il presente decreto munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 19 gennaio 1966
+### Dato a Roma, addi' 15 luglio 1983
 
-SARAGAT GUI
+PERTINI FALCUCCI
 
-Visto, il Guardasigilli: REALE
+Visto, il Guardasigilli: MARTINAZZOLI
 
-Registrato alla Corte dei conti, addi' 9 febbraio 1966
+Registrato alla Corte dei conti, addi' 22 settembre 1983
 
-Atti del Governo, registro n. 201, foglio n. 44. - VILLA
+Registro n. 62 Istruzione, foglio n. 304

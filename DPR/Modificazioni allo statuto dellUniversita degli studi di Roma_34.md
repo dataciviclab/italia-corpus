@@ -1,144 +1,44 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 settembre 1970 n. 827
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 06 settembre 1959 n. 815
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 settembre 1970 n. 827
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 06 settembre 1959 n. 815
 ================================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Roma.
 ----------------------------------------------------------------
 
-IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
-
-Veduto lo statuto dell'Universita' degli studi di Roma, approvato con [regio decreto 20 aprile 1939, n. 1350](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1350) e modificato con [regio decreto 26 ottobre 1939, n. 1734](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-26;1734), e successive modificazioni;
-
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
-
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
-
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
-
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
-
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
-
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
-
-Sentito il parere del Consiglio superiore della pubblica istruzione;
-
-Sulla
------
-
-proposta del Ministro per la pubblica istruzione; Decreta:
-
 Art. 1
 ------
 
+ IL PRESIDENTE DELLA REPUBBLICA  
   
-Gli ultimi due comma del n. 7 della Tabella XXIX - Facolta' di ingegneria - annessa al [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), sono abrogati e sostituiti dai seguenti:  
-"Gli insegnamenti di cui alla lettera c) verranno indicati in apposito elenco stabilito nello statuto. Da tale elenco la facolta' trarra', per i singoli corsi di laurea, le materie da attivare, che indichera', anno per anno, nel manifesto degli studi. Nel manifesto, pero', le materie non figureranno isolate, ma raggruppate a costituire indirizzi di specializzazione, tipici di ciascuna scuola.  
-Per ciascun indirizzo potranno al massimo essere prescritti sei corsi annuali (od equivalenti)".  
-
-Art. 2
-------
-
+Veduto lo statuto dell'Universita' degli studi di Roma, approvato con [regio decreto 20 aprile 1939, n. 1350](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1350), modificato con [regio decreto 26 ottobre 1939, n. 1734](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-26;1734), e successivi;  
+Veduto il testo unico delle le sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Visto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella, [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
+Sentito il parere dei Consiglio superiore della pubblica istruzione;  
+Sulla proposta del Ministro per la pubblica istruzione;  
   
+Decreta:  
   
-Lo statuto dell'Universita' degli studi di Roma, approvato e modificato con i decreti suindicati, e' ulteriormente modificato come appresso:   
-Art. 120, relativo agli istituti della facolta' di ingegneria e' modificato nel senso che ai vari istituti vengono attribuiti i seguenti corsi:   
-  
-Istituto di architettura e urbanistica: pianificazione urbanistica;   
-Istituto di arte mineraria: meccanica delle rocce (semestrale);   
-Istituto di automatica: misure e strumentazione automatica; sistemi combinatori e sequenziali (semestrale);   
-Istituto di chimica: istituzioni di chimica (semestrale);   
-Istituto di chimica applicata e industriale: tecnologia degli alti polimeri; tecnologia dei materiali per alte temperature (semestrale);   
-Istituto di costruzioni idrauliche: idrologia, geomorfologia e difesa del territorio (semestrale);   
-Istituto di elettronica: elettronica dello stato solido (semestrale); sistemi digitali (semestrale);   
-Istituto elettrotecnico: centrali elettriche (semestrale); tecnica delle alte tensioni (semestrale);   
-Istituto di fisica: optoelettronica (semestrale); principi di dosimetria e protezione dalle radiazioni (semestrale); fisica dello stato solido (semestrale);   
-Istituto di fisica tecnica: acustica tecnica (semestrale); termotecnica;   
-Istituto di macchine e tecnologie meccaniche: generatori di vapore (semestrale);   
-Istituto di matematica applicata: analisi numerica con elementi di programmazione; calcolo delle probabilita' e statistica applicata all'ingegneria; ricerca operativa;   
-Istituto di metallurgia: siderurgia;   
-Istituto di scienza delle costruzioni: meccanica delle terre e tecnica delle fondazioni; principi di progettazione strutturale; tecnica delle costruzioni prefabbricate (semestrale); teoria delle strutture;   
-Istituto di trasporti: elementi di trasporti.   
-I seguenti insegnamenti dei vari corsi di laurea in ingegneria sono abrogati:   
-  
-Antenne e propagazione;   
-Impianti tecnici dell'edilizia;   
-Teoria statistica delle comunicazioni;   
-Estimo civile (semestrale);   
-Progetti di strade (semestrale);   
-Tecnica dei controlli automatici (semestrale);   
-Chimica analitica;   
-Elettrochimica;   
-Idrologia e idraulica agraria (semestrale);   
-Legislazione dei lavori;   
-Materiali e geotecnica applicata (semestrale);   
-Petrolchimica ed alti polimeri;   
-Tecnica ed economia dei trasporti I;   
-Tecnica ed economia dei trasporti II;   
-Tecnica del traffico e della circolazione;   
-Tecnologie generali;   
-Tecnologie speciali metallurgiche.   
-Dopo l'art. 132, e con il conseguente spostamento della numerazione degli articoli successivi, e' inserito il seguente nuovo articolo all'elenco degli insegnamenti complementari della facolta' di ingegneria.   
-Art. 133. - Insegnamenti complementari:   
-  
-Acustica tecnica (semestrale);   
-Analisi numerica con elementi di programmazione;   
-Calcolo delle probabilita' e statistica applicata all'ingegneria;  
-Elementi di trasporti;   
-Elettronica dello stato solido (semestrale);   
-Generatori di vapore (semestrale);   
-Idrologia, geomorfologia e difesa del territorio (semestrale);   
-Istituzioni di chimica (semestrale);   
-Centrali elettriche (semestrale);   
-Meccanica delle rocce (semestrale);   
-Meccanica delle terre e tecnica delle fondazioni;   
-Misure e strumentazione automatica;   
-Optoelettronica (semestrale);   
-Pianificazione urbanistica;   
-Principi di dosimetria e protezione dalle radiazioni (semestrale);   
-Principi di progettazione strutturale;   
-Ricerca operativa;   
-Siderurgia;   
-Sistemi combinatori e sequenziali (semestrale);   
-Sistemi digitali (semestrale);   
-Tecnica delle alte tensioni (semestrale);   
-Tecnica delle costruzioni prefabbricate (semestrale);   
-Tecnologia degli alti polimeri;   
-Tecnologia dei materiali per alte temperature (semestrale);   
-Teoria delle strutture;   
-Termotecnica;   
-Fisica dello stato solido (semestrale);   
-Antenne e propagazione;   
-Impianti tecnici dell'edilizia;   
-Teoria statistica delle comunicazioni;   
-Economia applicata all'ingegneria;   
-Tecnica dei lavori stradali;   
-Controlli automatici negli impianti chimici;   
-Controllo chimico dei processi industriali;   
-Corrosione e protezione dei materiali;   
-Idraulica agraria (semestrale);   
-Legislazione delle opere pubbliche e dei lavori;   
-Geotecnica applicata alle opere idrauliche (semestrale);   
-Tecnologia del petrolio e petrolchimica;   
-Fondamenti di trasporti;   
-Sistemi di trasporto terrestri;   
-Pianificazione dei trasporti;   
-Scienza dei materiali;   
-Metallurgia dei metalli non ferrosi.   
+Lo statuto dell'Universita' degli studi di Roma, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+Art. 64. - Agli insegna menti complementari del corso di laurea in materie letterarie e' aggiunto quello di "pedagogia e psicologia delle comunicazioni di massa".  
+Art. 65. - Agli insegnamenti complementari del corso di laurea in pedagogia e' aggiunto quello di "pedagogia e psicologia delle comunicazioni di massa".  
+Art. 66. - Agli insegnamenti complementari del corso di laurea in lingue e letterature straniere e' aggiunto quello di "pedagogia e psicologia delle comunicazioni di massa".  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 27 settembre 1970
+### Dato a Roma, addi' 6 settembre 1959
 
-SARAGAT MISASI
+GRONCHI MEDICI
 
-Visto, il Guardasigilli: REALE
+Visto, il Guardasigilli GONELLA
 
-Registrato alla Corte dei conti, addi' 17 novembre 1970
+Registrato alla Corte dei conti, addi' 9 ottobre 1959
 
-Atti del Governo, registro n. 238, foglio n. 64. - CARUSO
+Atti del Governo, registro n. 121, foglio n. 30. - VILLA

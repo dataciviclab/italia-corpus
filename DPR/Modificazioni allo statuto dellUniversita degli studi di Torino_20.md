@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 01 ottobre 1970 n. 983
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 12 gennaio 1958 n. 626
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 01 ottobre 1970 n. 983
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 12 gennaio 1958 n. 626
 ==============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Torino.
@@ -12,12 +12,13 @@ Art. 1
 
  IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Torino, approvato con [regio decreto 14 ottobre 1926, n. 2284](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2284) e modificato con [regio decreto 13 ottobre 1927, n. 2788](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2788), e successive modificazioni;  
+Veduto lo statuto dell'Universita' degli studi di Torino, approvato con [regio decreto 14 ottobre 1926, n. 2284](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2284), e modificato con [regio decreto 13 ottobre 1927, n. 2788](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2788), e successivi;  
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
 Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;  
+Veduta la [legge 26 luglio 1957, n. 741](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1957-07-26;741);  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
 Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
 Sentito il parere del Consiglio superiore della pubblica istruzione;  
 Sulla proposta del Ministro per la pubblica istruzione;  
@@ -25,29 +26,63 @@ Sulla proposta del Ministro per la pubblica istruzione;
 Decreta:  
   
 Lo statuto dell'Universita' degli studi di Torino, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-Art. 83. - All'elenco degli insegnamenti complementari del corso di laurea in scienze agrarie sono aggiunti i seguenti:  
+L'art. 21 e' cosi' modificato:  
+"La Facolta' di lettere e filosofia conferisce le seguenti lauree:  
+a) in lettere;  
+b) in filosofia;  
+c) in lingue e letterature straniere moderne (indirizzo europeo).  
+Dopo l'art. 23 e' aggiunto il seguente nuovo articolo, relativo alla istituzione del corso di laurea in lingue e letterature straniere moderne (indirizzo europeo), con il conseguente spostamento della numerazione degli articoli successivi.  
   
-Gestione aziendale;  
-Organizzazione e assistenza economico agraria (semestrale);  
-Pianificazione territoriale in agricoltura (semestrale);  
-Istituzioni e servizi internazionali in agricoltura (semestrale);  
-Tecnica della commercializzazione dei prodotti zootecnici (semestrale);  
-Produzione delle sementi per colture ortive e floreali;  
-Impianti e macchine per industrie agrarie;  
-Meccanizzazione delle aziende zootecniche (semestrale).  
+Corso di laurea in lingue e letterature straniere moderne (indirizzo europeo)  
   
-Nello stesso elenco all'insegnamento complementare di "Avicoltura e coniglicoltura" e' tolta la limitazione "semestrale" ed avra' quindi durata annuale.  
+Art. 24. - La durata del corso degli studi per la laurea in lingue e letterature straniere moderne (indirizzo europeo) e' di quattro anni.  
+E' titolo di ammissione il diploma di maturita' classica.  
+Sono insegnamenti fondamentali:  
+1) Letteratura italiana;  
+2) Letteratura latina;  
+3) Glottologia;  
+4) Una lingua e letteratura straniera moderna;  
+5) Una seconda lingua e letteratura straniera moderna;  
+6) Filologia romanza (o germanica, o slava o ugro-finnica);  
+7) Storia medioevale;  
+8) Storia moderna;  
+9) Storia dell'arte moderna (o storia dell'arte medioevale e moderna);  
+10) Geografia.  
+Sono insegnamenti complementari (quando non siano scelti come fondamentali ai su indicati numeri 4), 5) e 6):  
+1) Lingua e letteratura francese;  
+2) Lingua e letteratura tedesca;  
+3) Lingua e letteratura inglese;  
+4) Lingua e letteratura spagnola;  
+5) Lingua e letteratura romena;  
+6) Lingua e letteratura nord-americana (angloamericana);  
+7) Filologia romanza;  
+8) Filologia germanica;  
+9) Storia dell'arte medioevale e moderna;  
+10) Letteratura greca;  
+11) Storia della filosofia;  
+12) Storia della lingua italiana;  
+13) Storia della letteratura latina medioevale;  
+14) Storia della letteratura italiana moderna e contemporanea;  
+15) Filologia slava.  
+Lo studente dovra' seguire i corsi e sostenere gli esami in tutti gli insegnamenti fondamentali e in tre altri insegnamenti da lui scelti fra i complementari. Uno degli insegnamenti complementari potra' essere sostituito dallo studente con una disciplina di altri corsi di studi della stessa o di diversa Facolta'.  
+L'insegnamento della lingua e letteratura straniera moderna, alla quale lo studente intende principalmente dedicarsi, dovra' essere seguito per tutti i quattro anni, alla fine di ciascuno dei quali egli sara' sottoposto a prove scritte, di anno in anno gradualmente progressive.  
+Dovranno essere seguiti per due anni l'insegnamento della filologia a cui quella stessa prima lingua si ricollega e l'insegnamento della seconda lingua e letteratura straniera moderna prescelta. Due altri insegnamenti fondamentali dovranno pure essere seguiti per un biennio. Lo studente potra', poi, seguire per un biennio un altro insegnamento; ed in tal caso potra' ridurre da tre a due gli insegnamenti complementari di sua scelta.  
+Gli esami di letteratura italiana e di letteratura latina comprendono una prova scritta preliminare. Il preside, sentita ove ritenga la Facolta', deve controllare i piani di studio presentati dagli studenti e approvarli prima che siano resi definitivi.  
+Per essere ammesso all'esame di laurea lo studente deve aver seguito i corsi e superato gli esami in tutti gli insegnamenti fondamentali e in tutti gli altri insegnamenti compresi nel piano di studi approvato dal preside.  
+Il laureato in lingue e letterature straniere moderne puo' ottenere l'iscrizione al terzo anno del corso di laurea in lettere, indirizzo classico, e al quarto anno del corso di laurea in lettere, indirizzo moderno, completando le iscrizioni alle materie fissate dall'ordinamento dell'indirizzo di studio a cui intende iscriversi.  
+Il laureato in lettere puo' ottenere l'iscrizione al terzo o al secondo anno del corso di laurea in lingue e letterature straniere moderne completando le iscrizioni alle materie prescritte dall'ordinamento, sempre che abbia sostenuto rispettivamente due o un esame della lingua e letteratura prescelta e che superi la relativa prova scritta preliminare.  
+L'esame di laurea in lingue e letterature straniere moderne consiste nella discussione pubblica di una dissertazione scritta svolta dal candidato su un argomento della letteratura scelta come quadriennale o della filologia germanica o romanza, a seconda della lingua scelta.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 1 ottobre 1970
+### Dato a Roma, addi' 12 gennaio 1958
 
-SARAGAT MISASI
+GRONCHI MORO
 
-Visto, il Guardasigilli: REALE
+Visto, il Guardasigilli: GONELLA
 
-Registrato alla Corte dei conti, addi' 7 dicembre 1970
+Registrato alla Corte dei conti, addi' 23 giugno 1958
 
-Atti del Governo, registro n. 238, foglio n. 213. - CARUSO
+Atti del Governo, registro n. 112, foglio n. 235. - RELLEVA

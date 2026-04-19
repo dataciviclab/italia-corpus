@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 06 dicembre 1976 n. 1040
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 07 agosto 1976 n. 922
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 06 dicembre 1976 n. 1040
-================================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 07 agosto 1976 n. 922
+=============================================================
 
 Autorizzazione all'Associazione italiana della Croce Rossa, in Roma, ad acquistare un immobile.
 -----------------------------------------------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-1040. Decreto del Presidente della Repubblica 6 dicembre 1976, col quale, sulla proposta del Ministro per la sanita', l'Associazione italiana della Croce Rossa, in Roma, viene autorizzata ad acquistare dal sig. Giovanni Battista Grosso un immobile sito in Portogruaro (Venezia), via Zappetti n. 3, piano primo della scala B, della complessiva superficie di mq 131,35 e facente parte di uno stabile che insiste su terreno distinto nel catasto urbano al f. 27, mappali 137-138.  
+922. Decreto del Presidente della Repubblica 7 agosto 1976, col quale, sulla proposta del Ministro per la sanita', l'Associazione italiana della Croce Rossa, in Roma, viene autorizzata ad acquistare un fabbricato sito in Treviso, via Fratelli Bandiera, 17, distinto nel nuovo catasto edilizio urbano dal mappale n. 42, sez. I, f. I, sub. 1, 2, 3, 4, 5, da destinare a sede del locale sottocomitato della Croce Rossa italiana.  
   
 Visto, il Guardasigilli: BONIFACIO  
-Registrato alla Corte dei conti, addi' 9 marzo 1977  
-Registro n. 2 Sanita', foglio n. 177
+Registrato alla Corte dei conti, addi' 17 dicembre 1976  
+Registro n. 7 Sanita', foglio n. 153

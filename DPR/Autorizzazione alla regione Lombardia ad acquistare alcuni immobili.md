@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 29 febbraio 1980 n. 121
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 06 novembre 1979 n. 789
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 29 febbraio 1980 n. 121
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 06 novembre 1979 n. 789
 ===============================================================
 
 Autorizzazione alla regione Lombardia ad acquistare alcuni immobili.
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-121. Decreto del Presidente della Repubblica 29 febbraio 1980, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la regione Lombardia viene autorizzata ad acquistare; al prezzo di L. 220.000.000, alcuni terreni della superficie complessiva di mq 2.326.420 siti in Pellio Intelvi (Como), censiti al nuovo catasto terreni alla partita 130/1852, destinati all'incremento del patrimonio forestale regionale.  
+789. Decreto del Presidente della Repubblica 6 novembre 1979, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la regione Lombardia viene autorizzata ad acquistare, al prezzo di L. 200.000.000, alcuni beni immobili della superficie complessiva di mq 817567 costituiti da terreni e fabbricati siti nei comuni di Schignano e Brienno (Como), individuati nella perizia tecnica fatta predisporre dal tribunale di Como per esecuzione immobiliare contro "Peduzzi" sotto il titolo "lotto 2°", aggiudicati con decreto del citato tribunale 23 giugno 1977, n. 7-15/74, alla regione Lombardia, in sede ed a seguito di asta giudiziaria tenuta dal suddetto tribunale.   
   
-Visto, il Guardasigilli: MORLINO  
-Registrato alla Corte dei conti, addi' 31 marzo 1980  
-Registro n. 3 Presidenza, foglio n. 4
+Visto, il Guardasigilli: MORLINO   
+Registrato alla Corte dei conti, addi' 27 febbraio 1980   
+Registro n. 2 Presidenza, foglio n. 83

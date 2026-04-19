@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 29 agosto 1986 n. 706
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 24 agosto 1977 n. 1249
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 29 agosto 1986 n. 706
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 24 agosto 1977 n. 1249
+==============================================================
 
 Autorizzazione all'Associazione italiana della Croce rossa, in Roma, ad accettare un legato.
 --------------------------------------------------------------------------------------------
@@ -10,10 +10,11 @@ Autorizzazione all'Associazione italiana della Croce rossa, in Roma, ad accettar
 Art. 1
 ------
 
-n.
+N.
 
-706. Decreto del Presidente della Repubblica 29 agosto 1986, col quale, sulla proposta del Ministro della sanita', l'Associazione italiana della Croce rossa, in Roma, viene autorizzata ad accettare il legato, consistente nella meta' del ricavato della vendita di un brillante taglio smeraldo di carati 9,75, disposto dalla sig.ra Lega Sigfrida in Sarteschi con testamento olografo 18 marzo 1981, pubblicato in data 17 febbraio 1982, n. 165640 di repertorio, a rogito dott. Corrado Giannotti, notaio in Como, registrato a Como in data 8 marzo 1982 al n. 1144, da destinare al perseguimento dei fini istituzionali dell'ente.  
+1249. Decreto del Presidente della Repubblica 24 agosto 1977, col quale, sulla proposta del Ministro della sanita', l'Associazione italiana della Croce rossa, in Roma, viene autorizzata ad accettare il legato disposto dalla sig.ra Maria Podesta' con testamento olografo pubblicato a rogito dott. Almerico Vegezzi, notaio in Piacenza, il 3 gennaio 1974, n. 16911 di repertorio, consistente in un complesso immobiliare sito in Piacenza, via Vincenzo Porri n. 14, censito nel nuovo catasto edilizio urbano alla partita n. 7410, foglio 69, mappale 890, cat. A/ 7, classe 2ª, vani 9,5, R.C. L. 3.306; foglio 69, mappale 518/5, cat. C/ 6, classe 7ª, mq 14, R.C.  
+L. 224, costituito da un villino edificato nel periodo 1 aprile 1959-23 marzo 1960 su di un'area della superficie di mq 560, indicata nel catasto terreni al foglio 69 con il mappale 189 di are 5,60 e R.D. lire 78,40, e di una rimessa ad essa annessa.  
   
-Visto, il Guardasigilli: ROGNONI  
-Registrato alla Corte dei conti, addi' 18 ottobre 1986  
-Registro n. 10 Sanita', foglio n. 234
+Visto, il Guardasigilli: BONIFACIO  
+Registrato alla Corte dei conti, addi' 25 luglio 1978  
+Registro n. 5 Sanita', foglio n. 152

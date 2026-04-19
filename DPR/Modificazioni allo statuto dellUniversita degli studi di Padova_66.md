@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1981 n. 1142
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 07 febbraio 1970 n. 185
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1981 n. 1142
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 07 febbraio 1970 n. 185
 ===============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Padova.
@@ -10,139 +10,120 @@ Modificazioni allo statuto dell'Universita' degli studi di Padova.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' di Padova, approvato con [regio decreto 14 ottobre 1926, n. 2133](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2133) e modificato con [regio decreto 13 ottobre 1927, n. 2226](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2226), e successive modificazioni;
+Veduto lo statuto dell'Universita' degli studi di Padova, approvato con [regio decreto 20 aprile 1939, numero 1058](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1058) e modificato con [regio decreto 5 ottobre 1939, n. 1847](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-05;1847), e successive modificazioni;
 
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
 
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
 
-Veduta la [legge 22 maggio 1978, n. 217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-05-22;217);
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
 
-Veduto il [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;
 
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
 
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Padova e convalidati dal Consiglio universitario nazionale nei suoi pareri;
+Sentito il parere del Consiglio superiore della pubblica istruzione;
 
-Sentito il parere del Consiglio universitario nazionale;
-
-Veduta la necessita' di adeguare la norma sulla direzione delle scuole di perfezionamento, di specializzazione e delle scuole dirette a fini speciali a quanto disposto dall'art. 16 del citato [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
-
-Sulla proposta del Ministro della pubblica istruzione;
+Sulla proposta del Ministro per la pubblica istruzione;
 
 Decreta:
---------
 
-Lo statuto dell'Universita' di Padova, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+Lo statuto dell'Universita' degli studi di Padova, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+
+Art. 15. - All'elenco degli insegnamenti complementari del corso di laurea in giurisprudenza e' aggiunto quello di "Diritto anglo-americano".
+
+Art. 37. - All'elenco degli insegnamenti complementari del corso di laurea in scienze politiche e' aggiunto quello di "Storia della chiesa".
+
+Art. 42. - L'elenco degli insegnamenti complementari della facolta' di economia e commercio e' modificato nel senso che la denominazione dell'insegnamento di "Tecnica commerciale dei prodotti agricoli" muta in quella di "Economia di mercato dei prodotti agricoli".
+
+Art. 44. - E' abrogato e sostituito dal seguente:
+
+L'esame di matematica generale deve precedere quello di matematica finanziaria e quello di statistica; l'esame di istituzioni di diritto privato deve precedere quelli di diritto commerciale e di diritto industriale; gli esami di istituzioni di diritto privato e di istituzioni di diritto pubblico devono precedere quelli di diritto internazionale, di diritto del lavoro e di diritto amministrativo; gli esami di economia politica (primo corso) e di statistica (primo corso) devono precedere quello di scienza delle finanze e diritto finanziario; gli esami di economia politica (primo corso) e di ragioneria generale devono precedere l'esame di economia e politica agraria; gli esami di statistica (primo corso) e di economia politica (secondo corso) devono precedere l'esame di politica economica e finanziaria; gli esami di ragioneria generale e applicata devono precedere quelli di tecnica bancaria e professionale e di tecnica commerciale e industriale.
+
+Art. 45, relativo agli esami di profitto e di laurea del corso di laurea in economia e commercio e' modificato nel senso che il secondo comma e l'ultimo comma sono abrogati e sostituiti dai seguenti:
+
+"L'esame di laurea riguarda la discussione di una dissertazione scritta svolta sopra un tema scelto dal candidato, con facolta' dello stesso di esporre e discutere anche una tesina su argomento scelto fra due materie diverse fra loro e diverse pure da quella della dissertazione scritta.
+
+Almeno quindici giorni prima dell'inizio degli esami di laurea lo studente deve aver depositato alla segreteria della facolta' la dissertazione scritta con la eventuale indicazione degli argomenti delle tesi orali facoltative".
+
+Art. 46. - All'elenco degli insegnamenti complementari del corso di laurea in lingue e letterature straniere sono aggiunti quelli di:
+
+Storia dell'arte;
+
+Linguistica africana;
+
+Filologia italiana.
+
+Art. 56 (gia' 51), relativo alle norme sulla propedeuticita' ed esami del corso di laurea in scienze statistiche ed economiche e' modificato nel senso che i commi primo, secondo, terzo, quarto, quinto e sesto sono abrogati e sostituiti dai seguenti:
+
+"L'esame di istituzioni di analisi matematica deve essere superato prima degli esami di analisi matematica, calcolo delle probabilita', statistica, demografia, statistica economica; quello di geometria analitica prima degli esami di calcolo delle probabilita' e di statistica; quello di istituzioni di statistica prima degli esami di calcolo delle probabilita', statistica, demografia, istituzioni di statistica economica; quello di istituzioni di statistica economica prima degli esami di politica economica e finanziaria, statistica economica, economia d'azienda, statistica aziendale ed analisi di mercato, quello di economia politica (primo esame) prima dello esame di istituzioni di statistica economica.
+
+Gli esami di analisi matematica, calcolo delle probabilita' e statistica debbono essere superati prima degli esami di statistica metodologica e di teoria dei campioni; quelli di calcolo delle probabilita' e statistica prima degli esami di controllo statistico della qualita' e statistica industriale e di statistica aziendale e analisi di mercato; quelli di statistica e di economia politica (secondo esame) prima dell'esame di politica economica e finanziaria".
+
+Art. 119, relativo agli istituti annessi alla facolta' di scienze matematiche, fisiche e naturali e' modificato nel senso che l'istituto e museo di anatomia comparata e l'istituto e museo di zoologia e di genetica mutano denominazione in "Istituto di biologia animale".
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 7 febbraio 1970
+
+SARAGAT
+
+FERRARI AGGRADI
+
+Visto, il Guardasigilli: REALE
+
+Registrato
+----------
+
+alla Corte dei conti, addi' 23 aprile 1970 Atti del Governo, registro n. 234, foglio n. 201. - CARUSO
 
 Art. 1
 ------
 
+ IL PRESIDENTE DELLA REPUBBLICA   
   
-Il testo dell'art. 421, concernente l'elenco delle scuole di specializzazione in medicina e chirurgia, e' modificato nel senso che la scuola di specializzazione per medici laboratoristi che conferisce il diploma di specialista in analisi cliniche di laboratorio muta la denominazione in scuola di specializzazione in biologia clinica che conferisce il diploma di specialista in biologia clinica.  
-Allo stesso elenco e' aggiunta la scuola di specializzazione in medicina dello sport che conferisce il diploma di specialista in medicina dello sport.  
-
-Art. 2
-------
-
+Veduto lo statuto dell'Universita' degli studi di Padova, approvato con [regio decreto 20 aprile 1939, numero 1058](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1058) e modificato con [regio decreto 5 ottobre 1939, n. 1847](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-05;1847), e successive modificazioni;   
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);   
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;   
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;   
+Sentito il parere del Consiglio superiore della pubblica istruzione;   
+Sulla proposta del Ministro per la pubblica istruzione;   
   
+Decreta:   
   
-Il testo dell'art. 422, relativo agli ordinamenti delle scuole di specializzazione in medicina e chirurgia, e' modificato nel modo seguente:   
-L'ordinamento della scuola di specializzazione per medici laboratoristi, che muta la denominazione in scuola di specializzazione in biologia clinica, e' soppresso e sostituito dal seguente:   
-  
-Scuola di specializzazione in biologia clinica   
-La scuola di specializzazione in biologia clinica ha sede presso l'istituto di chimica biologica della facolta' di medicina e chirurgia dell'Universita' di Padova e conferisce il diploma di specialista in biologia clinica.   
-La scuola di specializzazione in biologia clinica ha lo scopo di preparare sul piano scientifico e tecnico i medici che intendano dedicarsi particolarmente alle analisi di laboratorio chimico-cliniche e microbiologiche applicate alla clinica.   
-La direzione della scuola e' affidata a professore ordinario, straordinario o fuori ruolo che insegni anche nella scuola stessa. In caso di motivato impedimento la direzione della scuola e' affidata a professore associato, che pure insegni nella scuola medesima.   
-Possono iscriversi alla scuola i laureati in medicina e chirurgia.  
-E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale rilasciato dall'autorita' competente.   
-La durata del corso di studi e' di quattro anni e non e' suscettibile di abbreviazione.   
-Il numero degli allievi e' di venti per anno di corso e complessivamente di ottanta iscritti per l'intero corso di studi.   
-L'ammissione al corso avviene per titoli ed esami.   
-Le materie di insegnamento sono le seguenti:   
-1° Anno:   
-1) chimica biologica generale;   
-2) fondamenti di chimica-fisica biologica;   
-3) batteriologia generale;   
-4) biochimica analitica I;   
-5) tecnica dei prelevamenti;   
-6) fisiopatologia I;   
-7) fondamenti di statistica biologica.   
-2° Anno:   
-8) chimica biologica speciale di organi e tessuti;   
-9) fisiopatologia II;   
-10) ematologia ed ematochimica I;   
-11) batteriologia speciale;   
-12) immunologia e sierologia;   
-13) biochimica analitica II.   
-3° Anno:   
-14) nozioni di igiene e legislazione sanitaria;   
-15) ematologia ed ematochimica II;   
-16) chimica clinica;   
-17) immunochimica;   
-18) parassitologia;   
-19) virologia.   
-4° Anno:   
-20) analisi biologico-tossicologiche;   
-21) endocrinologia clinica e dosaggi ormonali;   
-22) micologia;   
-23) enzimologia clinica;   
-24) automazione e controlli di qualita';   
-25) metodiche microanalitiche;   
-26) microscopia clinica e citodiagnostica.   
-La frequenza alle lezioni ed alle esercitazioni pratiche e' obbligatoria. Gli allievi che non conseguono le attestazioni di frequenza sul relativo libretto non possono essere ammessi a sostenere le prove di esame.   
-Alla fine di ogni corso gli iscritti per essere ammessi agli anni di corso successivi devono superare le prove di esame sulle materie impartite durante l'anno. Per le materie a corso pluriennale l'esame e' sostenuto alla fine dei corsi medesimi.   
-Al termine del corso di studi per il conseguimento del diploma di specialista in biologia clinica gli interessati devono superare l'esame di diploma consistente nella dissertazione scritta di un argomento attinente alla specializzazione o nell'espletamento delle prove pratiche.   
-Lo stesso art. 422 e' integrato con l'inserimento dello ordinamento della scuola di specializzazione in medicina dello sport.   
-Scuola di specializzazione in medicina dello sport   
-La scuola di specializzazione in medicina dello sport dell'Universita' di Padova si propone:   
-a) di valorizzare ed approfondire gli studi biologici e di medicina applicata nel campo delle attivita' sportive, formative e di competizione e della educazione fisica;   
-b) di preparare adeguatamente sotto l'aspetto teorico e della applicazione pratica i medici che intendono dedicarsi alle attivita' attinenti a questa particolare branca della medicina applicata, conferendo ad essi il diploma di specialista in medicina dello sport.   
-Il titolo richiesto per l'ammissione alla scuola e' la laurea in medicina e chirurgia. Il corso di studio ha la durata di tre anni, con frequenza obbligatoria; esso ha la sede ufficiale presso l'istituto di fisiologia umana. Gli insegnamenti clinici e specialistici si svolgeranno presso i rispettivi istituti clinici e specialistici. Il numero massimo degli allievi sara' di venti per anno e complessivamente di sessanta per l'intero corso. L'ammissione ai corsi avviene per titoli. Nel caso di domande eccedenti il numero dei posti disponibili la selezione dei candidati avverra' in base ai risultati di un esame di ammissione. Non sono previste abbreviazioni di corso.   
-La direzione della scuola e' affidata a professore ordinario, straordinario o fuori ruolo che insegni anche nella scuola stessa. In caso di motivato impedimento la direzione della scuola e' affidata a professore associato, che pure insegni nella scuola medesima.  
-L'ordine degli studi e' il seguente:   
-1° Anno:   
-1) anatomia dell'apparato locomotore;   
-2) fisiologia dell'apparato locomotore;   
-3) biochimica ed energetica muscolare;   
-4) antropometria ed auxologia;   
-5) psicologia applicata allo sport;   
-6) storia dell'educazione fisica e dello sport;   
-7) sistematica delle attivita' sportivo-agonistiche e regolamenti sportivi.   
-2° Anno:   
-1) fisiologia dell'esercizio fisico;   
-2) biomeccanica dell'esercizio fisico;   
-3) metodologia dell'allenamento sportivo;   
-4) scienza della nutrizione applicata all'attivita' sportiva;   
-5) fisiopatologia degli sport e semeiotica medico sportiva (I);  
-6) farmacologia tossicologia del doping;   
-7) igiene e medicina preventiva applicata all'attivita' sportiva;   
-8) traumatologia degli sport.   
-3° Anno:   
-1) fisiologia applicata agli sport;   
-2) valutazione funzionale dello sportivo;   
-3) fisiopatologia degli sport e semeiotica medicosportiva (II);  
-4) fisioterapia e rieducazione funzionale;   
-5) rianimazione e pronto soccorso;   
-6) medicina legale ed infortunistica legata agli sport;   
-7) fisiologia dell'adattamento agli ambienti straordinari.   
-La scuola svolgera' brevi corsi integrativi di conferenze o seminari sopra argomenti e discipline che saranno stabiliti, secondo le possibilita' contingenti, dal consiglio dei docenti della scuola.  
-Saranno inoltre svolte esercitazioni pratiche in sede e sul campo.  
-Alla fine di ogni anno di corso gli allievi devono sostenere l'esame di profitto nelle materie di insegnamento, previste per ogni anno di corso e articolate in un unico gruppo. L'iscrizione agli anni successivi e' subordinata al superamento di tutti gli esami annuali.   
-Il diploma si consegue dopo aver superato tutte le prove di esame del triennio; la prova di diploma si svolge con la discussione su una dissertazione scritta concernente un tema assegnato o in ogni altro caso approvato dal direttore della scuola.   
+Lo statuto dell'Universita' degli studi di Padova, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
+Art. 15. - All'elenco degli insegnamenti complementari del corso di laurea in giurisprudenza e' aggiunto quello di "Diritto anglo-americano".   
+Art. 37. - All'elenco degli insegnamenti complementari del corso di laurea in scienze politiche e' aggiunto quello di "Storia della chiesa".   
+Art. 42. - L'elenco degli insegnamenti complementari della facolta' di economia e commercio e' modificato nel senso che la denominazione dell'insegnamento di "Tecnica commerciale dei prodotti agricoli" muta in quella di "Economia di mercato dei prodotti agricoli".   
+Art. 44. - E' abrogato e sostituito dal seguente:   
+L'esame di matematica generale deve precedere quello di matematica finanziaria e quello di statistica; l'esame di istituzioni di diritto privato deve precedere quelli di diritto commerciale e di diritto industriale; gli esami di istituzioni di diritto privato e di istituzioni di diritto pubblico devono precedere quelli di diritto internazionale, di diritto del lavoro e di diritto amministrativo; gli esami di economia politica (primo corso) e di statistica (primo corso) devono precedere quello di scienza delle finanze e diritto finanziario; gli esami di economia politica (primo corso) e di ragioneria generale devono precedere l'esame di economia e politica agraria; gli esami di statistica (primo corso) e di economia politica (secondo corso) devono precedere l'esame di politica economica e finanziaria; gli esami di ragioneria generale e applicata devono precedere quelli di tecnica bancaria e professionale e di tecnica commerciale e industriale.   
+Art. 45, relativo agli esami di profitto e di laurea del corso di laurea in economia e commercio e' modificato nel senso che il secondo comma e l'ultimo comma sono abrogati e sostituiti dai seguenti:   
+"L'esame di laurea riguarda la discussione di una dissertazione scritta svolta sopra un tema scelto dal candidato, con facolta' dello stesso di esporre e discutere anche una tesina su argomento scelto fra due materie diverse fra loro e diverse pure da quella della dissertazione scritta.   
+Almeno quindici giorni prima dell'inizio degli esami di laurea lo studente deve aver depositato alla segreteria della facolta' la dissertazione scritta con la eventuale indicazione degli argomenti delle tesi orali facoltative".   
+Art. 46. - All'elenco degli insegnamenti complementari del corso di laurea in lingue e letterature straniere sono aggiunti quelli di:   
+Storia dell'arte;   
+Linguistica africana;   
+Filologia italiana.   
+Art. 56 (gia' 51), relativo alle norme sulla propedeuticita' ed esami del corso di laurea in scienze statistiche ed economiche e' modificato nel senso che i commi primo, secondo, terzo, quarto, quinto e sesto sono abrogati e sostituiti dai seguenti:   
+"L'esame di istituzioni di analisi matematica deve essere superato prima degli esami di analisi matematica, calcolo delle probabilita', statistica, demografia, statistica economica; quello di geometria analitica prima degli esami di calcolo delle probabilita' e di statistica; quello di istituzioni di statistica prima degli esami di calcolo delle probabilita', statistica, demografia, istituzioni di statistica economica; quello di istituzioni di statistica economica prima degli esami di politica economica e finanziaria, statistica economica, economia d'azienda, statistica aziendale ed analisi di mercato, quello di economia politica (primo esame) prima dello esame di istituzioni di statistica economica.   
+Gli esami di analisi matematica, calcolo delle probabilita' e statistica debbono essere superati prima degli esami di statistica metodologica e di teoria dei campioni; quelli di calcolo delle probabilita' e statistica prima degli esami di controllo statistico della qualita' e statistica industriale e di statistica aziendale e analisi di mercato; quelli di statistica e di economia politica (secondo esame) prima dell'esame di politica economica e finanziaria".   
+Art. 119, relativo agli istituti annessi alla facolta' di scienze matematiche, fisiche e naturali e' modificato nel senso che l'istituto e museo di anatomia comparata e l'istituto e museo di zoologia e di genetica mutano denominazione in "Istituto di biologia animale".   
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 31 ottobre 1981
+### Dato a Roma, addi' 7 febbraio 1970
 
-PERTINI BODRATO
+SARAGAT FERRARI AGGRADI
 
-Visto, il Guardasigilli: DARIDA
+Visto, il Guardasigilli: REALE
 
-Registrato alla Corte dei conti, addi' 24 aprile 1982
+Registrato alla Corte dei conti, addi' 23 aprile 1970
 
-Registro n. 58 Istruzione, foglio n. 164
+Atti del Governo, registro n. 234, foglio n. 201. - CARUSO

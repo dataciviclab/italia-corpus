@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 settembre 1972 n. 867
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 settembre 1969 n. 714
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 settembre 1972 n. 867
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 settembre 1969 n. 714
 ================================================================
 
 Autorizzazione all'Associazione italiana della croce rossa ad accettare una eredita'.
@@ -12,9 +12,8 @@ Art. 1
 
 N.
 
-867. Decreto del Presidente della Repubblica 26 settembre 1972, col quale, sulla proposta del Ministro per la sanita', l'Associazione italiana, della croce rossa viene autorizzata ad accettare, con beneficio d'inventario, l'eredita' disposta dal marchese Salvatore Spinelli, con testamento olografo del 25 settembre 1954, depositato e pubblicato con verbale in data 9 maggio 1955, n. 53085 di repertorio a rogito notar E. Minore in Catania.  
-Considerato che l'eredita' suddetta consiste nella quota parte in ragione di un terzo, di mobili, depositi bancari, azioni, canoni attivi, nonche' dei seguenti immobili: 1) terre nel comune di Biancavilla (Catania) della complessiva estensione catastale di Ha 166.45.57 dei quali coltivato ad agrumeto Ha 12.06.99 e il resto a seminiero. Catastato alla partita n. 3564 diviso in diversi poderi, foglio n. 56, particella 12, 21, 51, 34, 55, 54, 35, 106; foglio n. 57, particella 66, 68, 69, 65, 179, 183, 184, 67, 186, 188, 189, 215, 182, 190, 187, 70, 181, 216, 132, 64; foglio n. 61, particella 1, 2, 3, 13, 73, 74; 2) terre nel comune di Biancavilla, catastate alla partita n. 3564, costituenti il podere Mastropaolo, complessivamente esteso Ha 11.25.29 dei quali Ha 2.04.79 a chiusa e il resto a seminiero, costituito dalle seguenti particelle catastali foglio n. 57, particelle 19, 128-b, 4, 128-a, 122, 123, 125; 3) fabbricato nel comune di Catania, via Guglia n. 24, catastato alla partita n. 49963 composto di 7 vani a piano rialzato con terrazza a villetta, di 4 vani ammezzati e 8 vani al 1° piano; beni mobili ed immobili del denunciato valore di lire 35.974.121.  
+714. Decreto del Presidente della Repubblica 10 settembre 1969, col quale, sulla proposta del Ministro per la sanita', l'Associazione italiana della croce rossa, viene autorizzata ad accettare l'eredita' costituita da mobili di arredamento, depositi bancari e somme di danaro del valore complessivo di L. 3.022.855, da cui debbono essere detratte lire 438.000 e lire 63.320 per spese sostenute, si che residuano lire 2.501.575, disposta dalla defunta signora Luigia Quirinio con testamento olografo pubblicato per atto notaio Barberi di Novara il 20 febbraio 1968, repertorio n. 130486.  
   
-Visto, il Guardasigilli: GONELLA  
-Registrato alla Corte dei conti, addi' 3 gennaio 1973  
-Atti di Governo, registro n. 254, foglio n. 71. - CARUSO
+Visto, il Guardasigilli: GAVA  
+Registrato alla Corte dei conti, addi' 21 ottobre 1969  
+Atti del Governo, registro n. 229, foglio n. 125. - CARUSO

@@ -1,96 +1,71 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 23 ottobre 1965 n. 1295
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 01 luglio 1980 n. 635
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 23 ottobre 1965 n. 1295
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 01 luglio 1980 n. 635
+=============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Roma.
 ----------------------------------------------------------------
 
+IL PRESIDENTE DELLA REPUBBLICA
+------------------------------
+
+Veduto lo statuto dell'Universita' di Roma, approvato con [regio decreto 20 aprile 1939, n. 1350](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1350) e modificato con [regio decreto 26 ottobre 1939, n. 1734](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-26;1734), e successive modificazioni;
+
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
+
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
+
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
+
+Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Roma e convalidati dal Consiglio universitario nazionale nel suo parere;
+
+Sentito il parere del Consiglio universitario nazionale;
+
+Sulla proposta del Ministro della pubblica istruzione;
+
+Decreta:
+--------
+
+Lo statuto dell'Universita' degli studi di Roma, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Roma, approvato con [regio decreto 20 aprile 1939, numero 1350](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1350) e modificato con [regio decreto 26 ottobre 1939, n. 1734](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-26;1734) e successive modificazioni;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652) e successive modificazioni;  
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
-Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro per la pubblica istruzione;  
+L'art. 106, relativo all'ordinamento degli studi del corso di laurea in matematica, e' modificato nel senso che all'elenco degli insegnamenti complementari per i tre indirizzi: generale, didattico, applicativo, sono aggiunti i seguenti insegnamenti:  
+teoria e applicazione delle macchine calcolatrici I;  
+teoria e applicazione delle macchine calcolatrici II;  
+logica matematica II;  
+matematica applicata I;  
+matematica applicata II;  
+calcolo delle probabilita' II;  
+matematica combinatoria;  
+analisi numerica III;  
+teoria e metodi dell'ottimizzazione;  
+cosmologia.  
+
+Art. 2
+------
+
   
-Decreta:  
-  
-Lo statuto dell'Universita' degli studi di Roma, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-Art. 81. - Nell'elenco degli insegnamenti complementari del corso di laurea in Medicina e chirurgia sono soppressi quelli di "Anestesiologia" e di "Urologia".  
-Al loro posto sono istituiti i seguenti insegnamenti complementari: "Anestesiologia e rianimazione;  
-Clinica urologica".  
-Dopo l'art. 601, e con il conseguente spostamento della successiva numerazione, sono aggiunti i seguenti nuovi articoli relativi alla istituzione della Scuola diretta a fini speciali per terapisti della riabilitazione.  
-  
-Scuola speciale per terapisti della riabilitazione  
-  
-Art. 602. - La Scuola speciale per terapisti della riabilitazione ha sede presso la Clinica delle malattie nervose e mentali. Essa ha lo scopo di dare una preparazione completa, teorica e pratica, agli allievi, istruendoli sui problemi della riabilitazione dei minorati fisici con particolare riguardo ai minorati per lesioni organiche del sistema nervoso e di quelli affetti da disturbi organici del linguaggio, suscettibili di recupero funzionale e sociale mediante terapie fisiche, chinesiterapiche, occupazionali e del linguaggio.  
-Art. 603. - La durata del corso degli studi per il conseguimento del diploma di terapista della riabilitazione e' di tre anni accademici: i primi due consistenti in lezioni teoriche e pratiche su materie propedeutiche e tecniche presso la Clinica delle malattie nervose e mentali, il terzo di tirocinio pratico presso il Centro di riabilitazione della Clinica stessa o presso Centri di riabilitazione riconosciuti idonei a tale scopo dalla Scuola.  
-Gli allievi hanno l'obbligo della frequenza.  
-Art. 604. - Possono essere ammessi alla Scuola gli allievi di ambo i sessi di eta' non inferiore ai 17 anni in possesso del titolo di studio prescritto per l'ammissione alle Universita' (preferibilmente del diploma di maturita' classica, del diploma di maturita' scientifica del diploma di abilitazione magistrale).  
-Art. 605. - Il numero massimo dei posti disponibili annualmente e' stabilito nella misura di 30. Chi aspira ad ottenere l'iscrizione al primo anno della Scuola dovra' sostenere un esame di ammissione, consistente in una prova orale di cultura generale e in una intervista attitudinale.  
-Art. 606. - Il direttore della Scuola e' di diritto il titolare della cattedra della clinica delle malattie nervose e mentali dell'Universita'.  
-Art. 607. - Per essere ammessi al secondo anno occorre aver superato almeno due terzi degli esami del primo anno.  
-Art. 608. - Le materie di insegnamento del primo anno sono:  
-1) Nozioni generali di Anatomia, Fisiologia, Patologia;  
-2) Anatomia e fisiologia del sistema nervoso;  
-3) Anatomia e fisiologia dell'apparato motore;  
-4) Servizio sociale e relazioni umane;  
-5) Tecnica infermieristica;  
-6) Nozioni fondamentali di Psichiatria;  
-7) Psicologia e psicopatologia del minorato;  
-8) Chinesiologia e diagnostica dei disturbi del movimento;  
-9) Metodologia di fisioterapia;  
-10) Metodologia di terapia occupazionale;  
-11) Clinica della riabilitazione.  
-Le materie di insegnamento del secondo anno sono:  
-1) Patologia e clinica del sistema nervoso;  
-2) Patologia e clinica dell'apparato motore;  
-3) Anatomia, Fisiologia, Patologia degli organi della parola e dell'udito;  
-4) Neuropsichiatria infantile;  
-5) Paralisi cerebrali infantili;  
-6) Riabilitazione geriatrica;  
-7) Nozioni di reumatologia;  
-8) Elettroterapia ed altre terapie fisiche;  
-9) Chinesiologia e diagnostica dei disturbi del movimento; - 10) Metodologia di fisioterapia;  
-11) Metodologia di terapia occupazionale;  
-12) Metodologia di terapia del linguaggio;  
-13) Clinica della riabilitazione.  
-Nel secondo anno viene dato particolare risalto alle dimostrazioni pratiche per tutte le materie di insegnamento.  
-I corsi regolari saranno integrati da conferenze si argomenti specifici, proiezioni, visite ad altri Istituti.  
-Art. 609. - Per essere ammessi a sostenere l'esame di diploma gli allievi dovranno aver seguito i corsi, superati gli esami in tutti gli insegnamenti prescritti ed aver compiuto con esito favorevole le esercitazioni previste e l'anno di tirocinio.  
-L'esame per il conseguimento del diploma di terapista della riabilitazione consiste nella discussione di una tesi scritta su un tema preventivamente assegnato dal direttore della Scuola.  
-Art. 610. - Per ottenere l'ammissione alla Scuola si deve presentare all'Ufficio di segreteria dell'Universita', entro il 5 novembre, la domanda redatta in carta bollata da L. 400 diretta al rettore (indicare i recapito del richiedente) e, previo pagamento di una multa per ritardata presentazione, per gravi e giustificati motivi, fino al 30 novembre.  
-Art. 611. - I candidati ammessi alla Scuola dovranno, entro il termine che verra' a suo tempo comunicato, presentare:  
-a) titolo originale di studio;  
-b) due copie (formato tessera su fondo chiaro e firmate) della fotografia del richiedente, di cui una bollata ed autenticata;  
-c) quietanze comprovanti il pagamento alla Tesoreria universitaria delle tasse, sopratasse e contributi prescritti:  
-  
-Immatricolazione . . . . . . . . . . . . . . . . . . . . . . L. 5.000 Tassa annuale di iscrizione . . . . . . . . . . . . . . . . L. 18.000 Sopratassa annuale di esami. . . . . . . . . . . . . . . . . L. 7.000 Contributi generali. . . . . . . . . . . . . . . . . . . . . . L. 950 Contributo riscaldamento . . . . . . . . . . . . . . . . . . L. 2.000 Libretto di riconoscimento . . . . . . . . . . . . . . . . . . L. 300 Indennita' di schedatura . . . . . . . . . . . . . . . . . . . L. 500 Contributo di reparto . . . . . . . . . . . . . . . L. 50.000 annuali   
-Il pagamento della tassa di iscrizione e della sopratassa puo' essere ripartito in quattro rate uguali; il contributo di reparto puo' essere ripartito in due rate uguali.  
-Art. 612. - Per ottenere il rilascio del diploma gli interessati dovranno presentare:  
-1) domanda redatta su carta bollata da L. 400 diretta al rettore;  
-2) quietanza comprovante il pagamento di L. 800 per indennita' di diploma, bollo, ecc., effettuato mediante apposito bollettino di c/c postale mod. "O" in vendita presso l'economato;  
-3) quietanza comprovante il pagamento della tassa erariale di diploma da L. 6000 da effettuare mediante il c/c postale n. 1/53000 intestato al procuratore del Registro di Roma, ufficio L. I.G.E.  
+Il primo comma dell'art. 451, relativo ai titoli di ammissione alla scuola di perfezionamento in fisica, e' sostituito dal seguente:  
+"Alla scuola di perfezionamento in fisica vengono ammessi soltanto i laureati in fisica, matematica, matematica e fisica, chimica industriale, ingegneria e scienze dell'informazione".  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 27 ottobre 1965
+### Dato a Roma, addi' 1 luglio 1980
 
-SARAGAT GUI
+PERTINI SARTI
 
-Visto, il Guardasigilli: REALE
+Visto, il Guardasigilli: MORLINO
 
-Registrato alla Corte dei conti, addi' 23 novembre 1965
+Registrato alla Corte dei conti, addi' 8 ottobre 1980
 
-Atti del Governo, registro n. 198, foglio n. 60. - VILLA
+Registro n. 92 Istruzione, foglio n. 141

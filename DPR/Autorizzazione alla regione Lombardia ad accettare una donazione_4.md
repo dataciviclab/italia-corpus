@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 giugno 1979 n. 386
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 24 ottobre 1979 n. 695
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 giugno 1979 n. 386
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 24 ottobre 1979 n. 695
+==============================================================
 
 Autorizzazione alla regione Lombardia ad accettare una donazione.
 -----------------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-386. Decreto del Presidente della Repubblica 4 giugno 1979, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la regione Lombardia viene autorizzata ad accettare la donazione disposta dal comune di Luino (Varese) con deliberazioni del commissario prefettizio 26 giugno 1976, n. 41 e 20 gennaio 1977, n. 24, consistente in un appezzamento di terreno della superficie di mq 1500, mappali 1457, 7115, 1456, 3991, del valore di L. 4.500.000, destinato alla costruzione del nuovo centro di formazione professionale.  
+695. Decreto del Presidente della Repubblica 24 ottobre 1979, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la regione Lombardia viene autorizzata ad accettare la donazione disposta a suo favore dal comune di Luino, costituita da un appezzamento di terreno della superficie di mq 1500, mappali 1458, 3991/b, 1466/b, del valore di L. 4.500.000, per la costruzione del nuovo centro di formazione professionale.   
   
-Visto, il Guardasigilli: MORLINO  
-Registrato alla Corte dei conti, addi' 6 agosto 1979  
-Registro n. 6 Presidenza, foglio n. 70
+Visto, il Guardasigilli: MORLINO   
+Registrato alla Corte dei conti, addi' 11 gennaio 1980   
+Registro n. 1 Presidenza, foglio n. 80

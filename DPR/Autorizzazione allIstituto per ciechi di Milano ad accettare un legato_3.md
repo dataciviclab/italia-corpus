@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 24 dicembre 1954 n. 1427
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 24 dicembre 1954 n. 1515
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 24 dicembre 1954 n. 1427
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 24 dicembre 1954 n. 1515
 ================================================================
 
 Autorizzazione all'Istituto per ciechi di Milano ad accettare un legato.
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-1427. Decreto del Presidente della Repubblica 24 dicembre 1954, col quale, sulla proposta dei Ministro per la pubblica istruzione, l'Istituto per ciechi di Milano, con sede in via Vivaio n. 7, per la Casa Famiglia delle cieche, viene autorizzato ad accettare un legato costituito dalla somma di L. 1.000.000 (un milione) disposto in suo favore con testamento elegrafo in data 6 marzo 1951, dalla defunta signorina Virginia Tortonese fu Eugenio.  
+1515. Decreto del Presidente della Repubblica 24 dicembre 1954, col quale, sulla proposta del Ministro per la pubblica istruzione, l'istituto per ciechi di Milano, avente sede in via Vivaio n. 7, viene autorizzato ad accettare un legato di lire duecentomila disposto in suo favore dal defunto barone avvocato Giovanni Teodoro Vismara Curro' fu Luigi.  
   
 Visto, il Guardasigilli: DE PIETRO  
-Registrato alla Corte dei conti, addi' 1 marzo 1955  
-Atti del Governo, registro n. 89, foglio n. 2. - CARLOMAGNO
+Registrato alla Corte dei conti, addi' 2 aprile 1955  
+Atti del Governo, registro n. 90, foglio n. 2. - CARLOMAGNO

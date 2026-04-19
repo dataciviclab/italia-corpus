@@ -1,311 +1,42 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 07 giugno 1972 n. 420
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 luglio 1955 n. 761
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 07 giugno 1972 n. 420
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 luglio 1955 n. 761
 =============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Firenze.
 -------------------------------------------------------------------
 
-IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
-
-Veduto lo statuto dell'Universita' degli studi di Firenze, approvato con [regio decreto 13 ottobre 1927, n. 2230](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2230) e modificato con [regio decreto 30 ottobre 1930, n. 1816](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-30;1816), e successive modificazioni;
-
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
-
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
-
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
-
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
-
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;
-
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
-
-Sentito il parere del Consiglio superiore della pubblica istruzione;
-
-Sulla proposta del Ministro per la pubblica istruzione;
-
-Decreta:
-
-Art. 147: all'elenco degli insegnamenti complementari del corso di laurea in scienze agrarie sono aggiunti i seguenti:
-
-Meteorologia e climatologia;
-
-Elementi di idraulica e idrologia;
-
-Fisiologia degli alberi forestali (semestrale);
-
-Conservazione della natura e delle sue risorse;
-
-Miglioramento genetico delle piante agrarie;
-
-Miglioramento genetico degli alberi forestali (semestrale);
-
-Vivaistica forestale e rimboschimenti;
-
-Frutticoltura;
-
-Coltivazioni erbacee delle regioni tropicali e subtropicali (semestrale);
-
-Fitoiatria;
-
-Nematologia (semestrale);
-
-Analisi chimico-biologiche degli alimenti zootecnici;
-
-Tecnica mangimistica (semestrale);
-
-Zootecnica dei Paesi tropicali e sub-tropicali;
-
-Meccanica del suolo ed interazione macchina-terreno;
-
-Elementi di scienza e tecnica delle costruzioni;
-
-Tecnica della meccanizzazione agricola;
-
-Meccanizzazione delle colture tropicali e sub-tropicali;
-
-Meccanizzazione forestale;
-
-Microbiologia degli alimenti;
-
-Tecnologie alimentari;
-
-Tecnica amministrativa e contabilita' dell'azienda agraria;
-
-Economia di mercato dei prodotti forestali;
-
-Pedologia generale;
-
-Pedologia forestale;
-
-Rilevamento e cartografia del suolo con elementi di aerofotointerpretazione.
-
-Nello stesso articolo l'insegnamento complementare di aviconiglicoltura da semestrale passa ad annuale.
-
-Art. 153: il punto b) dell'art. 153 viene abrogato e sostituito dal seguente:
-
-b) Nella discussione di una tesi orale scelta dal candidato in materia diversa da quella della dissertazione scritta e parimenti approvata dal professore della materia.
-
-Gli articoli da 225 a 233, relativi alla scuola di specializzazione in agricoltura tropicale e subtropicale, sono abrogati e sostituiti dai seguenti con lo spostamento della numerazione degli articoli successivi.
-
-Scuola di specializzazione in agricoltura tropicale e subtropicale
-
-Art. 225. - Alla facolta' di agraria e' annessa la scuola di specializzazione in agricoltura tropicale e subtropicale, della durata di due anni accademici. Alla scuola sono ammessi i laureati in scienze agrarie o in scienze forestali.
-
-Art. 226. - La facolta' si avvale, come sede della scuola, dell'Istituto agronomico per l'oltremare in Firenze, i cui mezzi didattici e scientifici (laboratori, collezioni, biblioteche, ecc.), sono posti a disposizione della scuola stessa.
-
-La direzione della scuola e' affidata ogni anno dal consiglio della facolta' di agraria ad un professore di ruolo, fuori ruolo, aggregato o incaricato della facolta' stessa, competente nel campo della specializzazione. Gli incarichi di insegnamento nella scuola sono affidati anno per anno dalla facolta' di agraria su proposta del direttore della scuola, avvalendosi anche dei docenti di altre facolta' e dell'Istituto agronomico per l'oltremare nonche' di esperti particolarmente qualificati.
-
-Il direttore della scuola convoca, prima dell'inizio dei corsi, tutti i docenti della scuola stessa, al fine di:
-
-a) coordinare i programmi di insegnamento;
-
-b) stabilire gli orari delle lezioni, esercitazioni, ecc.;
-
-c) decidere gli inviti ad eventuali conferenzieri non facenti parte del corpo docente della scuola.
-
-Con apposita convenzione sono regolati i rapporti fra l'universita' e l'Istituto agronomico per l'oltremare per il funzionamento della scuola.
-
-Art. 227. - Gli insegnamenti della scuola sono i seguenti:
-
-1) Biogeografia delle regioni tropicali e subtropicali;
-
-2) Agronomia dei Paesi tropicali e subtropicali;
-
-3) Coltivazioni erbacee tropicali e subtropicali;
-
-4) Coltivazioni arboree tropicali e subtropicali;
-
-5) Zootecnica dei Paesi tropicali e subtropicali;
-
-6) Industrie ed utilizzazioni dei prodotti agrari tropicali e subtropicali;
-
-7) Entomologia agraria tropicale e subtropicale;
-
-8) Patologia delle piante tropicali e subtropicali;
-
-9) Economia e politica agraria dei Paesi tropicali e subtropicali;
-
-10) Selvicoltura tropicale e subtropicale;
-
-11) Macchine e meccanizzazione delle colture tropicali e subtropicali;
-
-12) Tecnologia dei legnami tropicali e subtropicali.
-
-Possono inoltre essere istituiti corsi speciali da designare, in numero non superiore a due, che saranno stabiliti all'inizio di ciascun anno dal consiglio dei docenti della scuola.
-
-I suddetti insegnamenti saranno integrati da seminari, colloqui ed esercitazioni su speciali argomenti, nonche' da eventuali viaggi di istruzione in zone tropicali e subtropicali.
-
-Art. 228. - Per l'iscrizione alla scuola di specializzazione occorre presentare domanda su carta legale, indirizzata al rettore dell'Universita' di Firenze entro il 30 novembre presso la segreteria della facolta' di agraria.
-
-Le tasse e soprattasse sono stabilite nella seguente misura:
-
-a) tassa di immatricolazione |L. 5.000
-
----------------------------------------------------------------------
-
-b) tassa annuale di iscrizione |L. 30.000
-
----------------------------------------------------------------------
-
-c) soprattassa annuale di esami |L. 7.000
-
----------------------------------------------------------------------
-
-d) contributi di laboratorio (nella misura stabilita dal |
-
-consiglio di amministrazione, su proposta del senato |
-
-accademico, udita la facolta' e la scuola) |
-
----------------------------------------------------------------------
-
-e) tassa di diploma |L. 6.000
-
-Le tasse di immatricolazione, di iscrizione, la soprattassa di esami ed i contributi come alle lettere a), b), c) e d), devono essere versate all'universita'; la tassa di diploma deve essere versata all'erario e di vaglia postale intestato al procuratore del registro di Firenze.
-
-Art. 229. - Per essere ammesso all'esame di diploma lo studente deve aver seguito i corsi e superato gli esami di profitto in almeno otto degli insegnamenti di cui all'art. 227.
-
-Art. 230. - L'esame di diploma consiste nella discussione di una tesi scritta, svolta sopra un argomento scelto dal candidato in una delle materie della scuola ed approvato dal professore della materia alla quale la tesi si riferisce.
-
-E' facolta' della commissione esaminatrice di richiedere al candidato, per l'ammissione all'esame di diploma, una o piu' prove pratiche.
-
-Art. 231. - Le commissioni per gli esami di profitto sono costituite dal professore della materia e da altri due professori della scuola. La commissione per l'esame di diploma e' composta da almeno quattro membri scelti fra i professori delle discipline impartite nella scuola, uno dei quali assumera' le funzioni di presidente. Per particolari argomenti potra' essere aggregato alla commissione per l'esame di diploma un membro estraneo scelto fra gli studiosi e cultori della disciplina interessata.
-
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
-
-Dato a Roma, addi' 7 giugno 1972
-
-LEONE
-
-MISASI
-
-Visto, il Guardasigilli: GONELLA
-
-Registrato
-----------
-
-alla Corte dei conti, addi' 31 luglio 1972 Atti del Governo, registro n. 250, foglio n. 105. - CARUSO
-
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA   
+ IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Firenze, approvato con [regio decreto 13 ottobre 1927, n. 2230](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2230) e modificato con [regio decreto 30 ottobre 1930, n. 1816](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-30;1816), e successive modificazioni;   
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);   
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;   
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;   
-Sentito il parere del Consiglio superiore della pubblica istruzione;   
-Sulla proposta del Ministro per la pubblica istruzione;   
+Veduto lo statuto dell'Universita' degli studi di Firenze, approvato con [regio decreto 14 ottobre 1926, n. 2406](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2406), modificato con i [regi decreti 13 ottobre 1927, n. 2230](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1927-10-13;2230); [30 ottobre 1930, n. 1826](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1930-10-30;1826); [1 ottobre 1931, numero 1441](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1931-10-01;1441); [6 dicembre 1934, n. 2449](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1934-12-06;2449); [1 ottobre 1936, n. 2475](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1936-10-01;2475); [27 ottobre 1937, n. 2620](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1937-10-27;2620); [5 maggio 1939, numero 1165](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1939-05-05;1165); [12 ottobre 1939, n. 1712](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1939-10-12;1712); [26 ottobre 1940, n. 2057](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1940-10-26;2057); [27 aprile 1942, n. 467](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:regio.decreto:1942-04-27;467); [24 ottobre 1942, n. 1439; e con decreto del Presidente della Repubblica](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1942-10-24;1439) [11 giugno 1950, n. 616](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1950-06-11;616); [30 ottobre 1950, n. 1127](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1950-10-30;1127); [30 ottobre 1950, n. 1304](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1950-10-30;1304); [30 giugno 1951, n. 957](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-06-30;957); [27 ottobre 1951, n. 1681](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1951-10-27;1681); [23 gennaio 1952, n. 168](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-01-23;168); [26 ottobre 1952, n. 4557](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-10-26;4557); [26 ottobre 1952, n. 4543](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1952-10-26;4543); [10 febbraio 1953, n. 376](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1953-02-10;376); [30 luglio 1953, n. 710](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1953-07-30;710); [2 marzo 1954, n. 183](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1954-03-02;183); [14 settembre 1954, n. 1202](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1954-09-14;1202); [22 gennaio 1955, n. 69](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1955-01-22;69) e [16 febbraio 1955, n. 120](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1955-02-16;120);  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
+Sentito il parere del Consiglio superiore della pubblica istruzione;  
+Sulla proposta del Ministro per la pubblica istruzione;  
   
-Decreta:   
+Decreta:  
   
-Art. 147: all'elenco degli insegnamenti complementari del corso di laurea in scienze agrarie sono aggiunti i seguenti:   
-  
-Meteorologia e climatologia;   
-Elementi di idraulica e idrologia;   
-Fisiologia degli alberi forestali (semestrale);   
-Conservazione della natura e delle sue risorse;   
-Miglioramento genetico delle piante agrarie;   
-Miglioramento genetico degli alberi forestali (semestrale);   
-Vivaistica forestale e rimboschimenti;   
-Frutticoltura;   
-Coltivazioni erbacee delle regioni tropicali e subtropicali (semestrale);   
-Fitoiatria;   
-Nematologia (semestrale);   
-Analisi chimico-biologiche degli alimenti zootecnici;   
-Tecnica mangimistica (semestrale);   
-Zootecnica dei Paesi tropicali e sub-tropicali;   
-Meccanica del suolo ed interazione macchina-terreno;   
-Elementi di scienza e tecnica delle costruzioni;   
-Tecnica della meccanizzazione agricola;   
-Meccanizzazione delle colture tropicali e sub-tropicali;   
-Meccanizzazione forestale;   
-Microbiologia degli alimenti;   
-Tecnologie alimentari;   
-Tecnica amministrativa e contabilita' dell'azienda agraria;   
-Economia di mercato dei prodotti forestali;   
-Pedologia generale;   
-Pedologia forestale;   
-Rilevamento e cartografia del suolo con elementi di aerofotointerpretazione.   
-  
-Nello stesso articolo l'insegnamento complementare di aviconiglicoltura da semestrale passa ad annuale.   
-  
-Art. 153: il punto b) dell'art. 153 viene abrogato e sostituito dal seguente:   
-  
-b) Nella discussione di una tesi orale scelta dal candidato in materia diversa da quella della dissertazione scritta e parimenti approvata dal professore della materia.   
-  
-Gli articoli da 225 a 233, relativi alla scuola di specializzazione in agricoltura tropicale e subtropicale, sono abrogati e sostituiti dai seguenti con lo spostamento della numerazione degli articoli successivi.   
-  
-Scuola di specializzazione in agricoltura tropicale e subtropicale   
-Art. 225. - Alla facolta' di agraria e' annessa la scuola di specializzazione in agricoltura tropicale e subtropicale, della durata di due anni accademici. Alla scuola sono ammessi i laureati in scienze agrarie o in scienze forestali.   
-Art. 226. - La facolta' si avvale, come sede della scuola, dell'Istituto agronomico per l'oltremare in Firenze, i cui mezzi didattici e scientifici (laboratori, collezioni, biblioteche, ecc.), sono posti a disposizione della scuola stessa.   
-La direzione della scuola e' affidata ogni anno dal consiglio della facolta' di agraria ad un professore di ruolo, fuori ruolo, aggregato o incaricato della facolta' stessa, competente nel campo della specializzazione. Gli incarichi di insegnamento nella scuola sono affidati anno per anno dalla facolta' di agraria su proposta del direttore della scuola, avvalendosi anche dei docenti di altre facolta' e dell'Istituto agronomico per l'oltremare nonche' di esperti particolarmente qualificati.   
-Il direttore della scuola convoca, prima dell'inizio dei corsi, tutti i docenti della scuola stessa, al fine di:   
-  
-a) coordinare i programmi di insegnamento;   
-b) stabilire gli orari delle lezioni, esercitazioni, ecc.;   
-c) decidere gli inviti ad eventuali conferenzieri non facenti parte del corpo docente della scuola.   
-  
-Con apposita convenzione sono regolati i rapporti fra l'universita' e l'Istituto agronomico per l'oltremare per il funzionamento della scuola.   
-  
-Art. 227. - Gli insegnamenti della scuola sono i seguenti:   
-  
-1) Biogeografia delle regioni tropicali e subtropicali;   
-2) Agronomia dei Paesi tropicali e subtropicali;   
-3) Coltivazioni erbacee tropicali e subtropicali;   
-4) Coltivazioni arboree tropicali e subtropicali;   
-5) Zootecnica dei Paesi tropicali e subtropicali;   
-6) Industrie ed utilizzazioni dei prodotti agrari tropicali e subtropicali;   
-7) Entomologia agraria tropicale e subtropicale;   
-8) Patologia delle piante tropicali e subtropicali;   
-9) Economia e politica agraria dei Paesi tropicali e subtropicali;   
-10) Selvicoltura tropicale e subtropicale;   
-11) Macchine e meccanizzazione delle colture tropicali e subtropicali;   
-12) Tecnologia dei legnami tropicali e subtropicali.   
-  
-Possono inoltre essere istituiti corsi speciali da designare, in numero non superiore a due, che saranno stabiliti all'inizio di ciascun anno dal consiglio dei docenti della scuola.   
-I suddetti insegnamenti saranno integrati da seminari, colloqui ed esercitazioni su speciali argomenti, nonche' da eventuali viaggi di istruzione in zone tropicali e subtropicali.   
-Art. 228. - Per l'iscrizione alla scuola di specializzazione occorre presentare domanda su carta legale, indirizzata al rettore dell'Universita' di Firenze entro il 30 novembre presso la segreteria della facolta' di agraria.   
-Le tasse e soprattasse sono stabilite nella seguente misura:   
-  
-  
-  
-a) tassa di immatricolazione |L. 5.000
-
-|  |  |
-| --- | --- |
-| b) tassa annuale di iscrizione | L. 30.000 |
-| c) soprattassa annuale di esami | L. 7.000 |
-| d) contributi di laboratorio (nella misura stabilita dal consiglio di amministrazione, su proposta del senato accademico, udita la facolta' e la scuola) |  |
-
-  
-  
-  
-Le tasse di immatricolazione, di iscrizione, la soprattassa di esami ed i contributi come alle lettere a), b), c) e d), devono essere versate all'universita'; la tassa di diploma deve essere versata all'erario e di vaglia postale intestato al procuratore del registro di Firenze.   
-Art. 229. - Per essere ammesso all'esame di diploma lo studente deve aver seguito i corsi e superato gli esami di profitto in almeno otto degli insegnamenti di cui all'art. 227.   
-Art. 230. - L'esame di diploma consiste nella discussione di una tesi scritta, svolta sopra un argomento scelto dal candidato in una delle materie della scuola ed approvato dal professore della materia alla quale la tesi si riferisce.   
-E' facolta' della commissione esaminatrice di richiedere al candidato, per l'ammissione all'esame di diploma, una o piu' prove pratiche.   
-Art. 231. - Le commissioni per gli esami di profitto sono costituite dal professore della materia e da altri due professori della scuola. La commissione per l'esame di diploma e' composta da almeno quattro membri scelti fra i professori delle discipline impartite nella scuola, uno dei quali assumera' le funzioni di presidente. Per particolari argomenti potra' essere aggregato alla commissione per l'esame di diploma un membro estraneo scelto fra gli studiosi e cultori della disciplina interessata.   
+Lo statuto dell'Universita' degli studi di Firenze, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+Art. 67. - Agli insegnamenti complementari del corso di laurea in medicina e chirurgia e' aggiunto quello di:  
+"Medicina del lavoro".  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 7 giugno 1972
+### Dato a Roma, addi' 19 luglio 1955
 
-LEONE MISASI
+GRONCHI ROSSI
 
-Visto, il Guardasigilli: GONELLA
+Visto, il Guardasigilli: MORO
 
-Registrato alla Corte dei conti, addi' 31 luglio 1972
+Registrato atta Corte dei conti, addi' 22 agosto 1955
 
-Atti del Governo, registro n. 250, foglio n. 105. - CARUSO
+Atti del Governo, registro n. 92, foglio n. 92. - CARLOMAGNO

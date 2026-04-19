@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 23 novembre 1978 n. 854
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 giugno 1983 n. 486
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 23 novembre 1978 n. 854
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 giugno 1983 n. 486
+=============================================================
 
 Autorizzazione alla fondazione "Pro juventute don Carlo Gnocchi", in Roma, ad accettare un legato.
 --------------------------------------------------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-854. Decreto del Presidente della Repubblica 23 novembre 1978, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare il legato disposto dal cav. lav. Francesco Penotti a favore dell'opera di don Gnocchi per i mutilatini di guerra che si identificano con la fondazione "Pro juventute don Carlo Gnocchi", come ha fatto presente la fondazione medesima, con testamento olografo 24 giugno 1972, pubblicato a rogito notaio dott. Marco Panvini-Rosati di Roma il 1 aprile 1974, n. 98797/41375 di repertorio, registrato a Roma il 3 aprile 1974 al n. 2437, vol. 1790, consistente nella somma di L. 20.000.000.  
+486. Decreto del Presidente della Repubblica 27 giugno 1983, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare il legato, consistente in buoni del Tesoro per un valore di L. 3.500.000, disposto dalla sig.ra Barberis Elvira ved. Torre a favore dell'istituto "Pro juventute don Carlo Gnocchi - Centro poliomielitici", viale Settimio Severo, 65, Torino, che si identifica con la fondazione "Pro juventute don Carlo Gnocchi", come si evince dal verbale del consiglio di amministrazione della fondazione medesima in data 28 novembre 1980, con testamento olografo 1 maggio 1975, pubblicato l'8 ottobre 1980, n. 2607 di repertorio e n. 1806 di fascicolo, a rogito dott.ssa Fernanda Perosino, notaio in Torino, registrato a Torino il 28 ottobre 1980 al n. 47198.  
   
-Visto, il Guardasigilli: BONIFACIO  
-Registrato alla Corte dei conti, addi' 27 dicembre 1978  
-Registro n. 8 Presidenza, foglio n. 130
+Visto, il Guardasigilli: DARIDA  
+Registrato alla Corte dei conti, addi' 8 settembre 1983  
+Registro n. 7 Presidenza, foglio n. 300

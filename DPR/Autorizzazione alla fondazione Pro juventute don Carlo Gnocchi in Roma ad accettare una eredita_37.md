@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 03 dicembre 1980 n. 1043
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 13 novembre 1985 n. 914
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 03 dicembre 1980 n. 1043
-================================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 13 novembre 1985 n. 914
+===============================================================
 
 Autorizzazione alla fondazione "Pro juventute don Carlo Gnocchi", in Roma, ad accettare una eredita'.
 -----------------------------------------------------------------------------------------------------
@@ -10,10 +10,11 @@ Autorizzazione alla fondazione "Pro juventute don Carlo Gnocchi", in Roma, ad ac
 Art. 1
 ------
 
-N.
+n.
 
-1043. Decreto del Presidente della Repubblica 3 dicembre 1980, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare, col beneficio d'inventario, l'eredita', consistente in beni mobili ed immobili per un valore al netto delle passivita' di L. 11.168.550, disposta dalla sig.na Jamoretti Amelia con testamento olografo 17 ottobre 1976, pubblicato in data 6 maggio 1977, n. 11/4 di repertorio, a rogito dott. Ulderico Brambilla, notaio in Milano, registrato a Milano in data 23 maggio 1977, n. 6248, serie I.  
+914. Decreto del Presidente della Repubblica 13 novembre 1985, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare, col beneficio d'inventario, l'eredita', consistente in beni immobili per un valore peritale complessivo di L. 11.500.000, elevato dall'ufficio tecnico erariale di Milano a L. 14.000.000, disposta dalla sig.ra Pirovano Anna Maria con testamento olografo 22 settembre 1981, pubblicato in data 20 ottobre 1981, n. 5672/122 di repertorio, a rogito dott. Ulderico Brambilla, notaio in Milano, registrato a  
+Milano il 27 ottobre 1981, al n. 19477.  
   
-Visto, il Guardasigilli: SARTI  
-Registrato alla Corte dei conti, addi' 5 febbraio 1981  
-Registro n. 1 Presidenza, foglio n. 321
+Visto, il Guardasigilli: MARTINAZZOLI  
+Registrato alla Corte dei conti, addi' 6 febbraio 1986  
+Registro n. 1 Presidenza, foglio n. 399

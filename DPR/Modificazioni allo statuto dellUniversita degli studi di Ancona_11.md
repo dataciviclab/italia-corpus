@@ -1,187 +1,287 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 15 settembre 1979 n. 645
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 ottobre 1978 n. 944
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 15 settembre 1979 n. 645
-================================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 ottobre 1978 n. 944
+==============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Ancona.
 ------------------------------------------------------------------
 
-IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
-
-Veduto lo statuto dell'Universita' di Ancona, approvato con [decreto del Presidente della Repubblica 4 ottobre 1971, n. 1330](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1971-10-04;1330) e modificato con [decreto del Presidente della Repubblica 7 agosto 1973, n. 909](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1973-08-07;909), e successive modificazioni;
-
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
-
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
-
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
-
-Veduta la [legge 22 maggio 1978, n. 217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-05-22;217);
-
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
-
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Ancona e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;
-
-Sentito il parere del Consiglio superiore della pubblica istruzione;
-
-Sulla
------
-
-proposta del Ministro della pubblica istruzione; Decreta:
-
 Art. 1
 ------
 
+ IL PRESIDENTE DELLA REPUBBLICA   
   
+Veduto lo statuto dell'Universita' di Ancona, approvato con [decreto del Presidente della Repubblica 4 ottobre 1971, n. 1330](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1971-10-04;1330), e modificato con [decreto del Presidente della Repubblica 7 agosto 1973, n. 909](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1973-08-07;909), e successive modificazioni;   
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;   
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Ancona e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;   
+Veduta la [legge 22 maggio 1978, n. 217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-05-22;217);   
+Sentito il parere del Consiglio superiore della pubblica istruzione;   
+Sulla proposta del Ministro della pubblica istruzione;   
+  
+Decreta:   
   
 Lo statuto dell'Universita' degli studi di Ancona, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
   
-Dopo l'art. 17, e con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi alla istituzione delle scuole di specializzazione in anatomia patologica ed in cardiologia.   
-Scuola di specializzazione in anatomia patologica.   
-Art. 18. - La scuola di specializzazione in anatomia patologica ha sede presso l'istituto di anatomia ed istologia patologica e conferisce il diploma di specialista in anatomia patologica.   
-La direzione della scuola e' affidata al professore di ruolo o fuori ruolo della stessa materia della specializzazione o, in carenza, al professore di ruolo o fuori ruolo di materia affine.   
-Possono iscriversi alla scuola di specializzazione i laureati in medicina e chirurgia. E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione all'esercizio della professione rilasciato dall'autorita' competente.   
-La durata del corso di studi e' di quattro anni e non e' suscettibile di abbreviazione.   
-Il numero massimo degli allievi e' di dieci per anno di corso e complessivamente di quaranta iscritti per l'intero corso di studi.   
-L'ammissione al corso avviene per titoli ed esami.   
-Art. 19. - Le materie d'insegnamento sono le seguenti:   
-1° Anno:   
-anatomia patologica sistematica I;   
-tecnica delle autopsie;   
-diagnostica anatomo-patologica macroscopica I;   
-tecniche istologiche ed istochimiche.   
-2° Anno:   
-anatomia patologica sistematica II;   
-diagnostica anatomo-patologica macroscopica II;   
-diagnostica istopatologica I;   
-tecniche e diagnostica citologica e citogenetica.   
-3° Anno:   
-diagnostica istopatologica II;   
-tecniche di microscopia elettronica e biologia ultrastrutturale;   
-immunopatologia.   
-4° Anno:   
-diagnostica istopatologica III;   
-diagnostica istocitopatologica ultrastrutturale;   
-diagnostica autoptica medico-legale ed elementi di legislazione sanitaria;   
-applicazioni statistiche ed epidemiologiche.   
-Art. 20. - La frequenza alle lezioni, alle esercitazioni pratiche e' obbligatoria.   
-Gli allievi che non conseguono le attestazioni di frequenza sul relativo libretto non possono essere ammessi a sostenere le prove di esame.   
-Alla fine di ogni corso gli iscritti, per essere ammessi agli anni successivi, devono superare le prove di esame sulle materie impartite durante l'anno. Per le materie a corso pluriennale l'esame sara' sostenuto alla fine dei corsi medesimi.   
-Al termine del corso di studi per il conseguimento del diploma di specialista in anatomia patologica gli interessati devono superare l'esame di diploma che consiste nella dissertazione scritta di un argomento attinente alla specializzazione.   
+Dopo l'art. 28 sono inseriti i seguenti nuovi articoli relativi alla istituzione presso la facolta' di medicina e chirurgia delle scuole di specializzazione in igiene e medicina preventiva, in ginecologia e ostetricia, in medicina del lavoro.   
   
-Scuola di specializzazione in cardiologia   
-Art. 21. - E' istituita la scuola di specializzazione in cardiologia, che ha sede presso la clinica medica generale e terapia medica e conferisce il diploma di specialista in cardiologia.   
-Art. 22. - La direzione della scuola e' affidata al professore di ruolo o fuori ruolo della stessa materia della specializzazione o, in carenza, al professore di ruolo o fuori ruolo di materia affine.   
-I docenti della scuola sono nominati dal rettore su proposta del direttore.   
-I docenti formano il consiglio della scuola che coadiuva il direttore nella gestione della stessa, specie per quanto riguarda la compilazione annuale dei programmi di insegnamento e di frequenza.   
-Art. 23. - Possono iscriversi alla scuola di specializzazione i laureati in medicina e chirurgia in possesso del diploma di abilitazione all'esercizio professionale rilasciato dall'autorita' competente.   
-Art. 24. - La durata del corso di studi e' di quattro anni e non e' suscettibile di abbreviazioni.   
-Art. 25. - Il numero massimo degli allievi e' di dieci per anno di corso e complessivamente di quaranta iscritti per l'intero corso di studi.   
-Art. 26. - L'ammissione al corso avviene per titoli ed esami.   
-Art. 27. - Le materie di insegnamento sono le seguenti:   
-1° Anno:   
-anatomia umana normale ed embriologia dell'apparato cardiovascolare;   
-fisiologia dell'apparato cardiovascolare (I);   
-biochimica e biofisica;   
-semeiotica fisica e strumentale dell'apparato cardiovascolare (I);   
-informatica medica e strumentazione biomedica (I).   
-2° Anno:   
-anatomia patologica (I);   
-fisiologia dell'apparato cardiovascolare (II);   
-patologia e clinica cardiovascolare (I);   
-semeiotica fisica e strumentale dell'apparato cardiovascolare (II);   
-informatica medica e strumentazione biomedica (II);   
-radiologia (I);   
-aspetti sociali ed epidemiologici delle malattie cardiovascolari.   
-3° Anno:   
-anatomia patologica (II);   
-semeiotica fisica e strumentale dell'apparato cardiovascolare (III);   
-patologia e clinica cardiovascolare (II);   
-radiologia (II);   
-terapia medica e farmacologia clinica (I).   
-4° Anno:   
-semeiotica fisica e strumentale dell'apparato cardiovascolare (IV);   
-patologia e clinica cardiovascolare (III);   
-terapia medica e farmacologia clinica (II);   
-terapia chirurgica;   
-terapie intensive cardiologiche.   
-Art. 28. - La frequenza alle lezioni, alle esercitazioni, ai seminari e' obbligatoria per tutti gli iscritti.   
-L'esercitazione pratica nei reparti e' obbligatoria durante tutti i quattro anni del corso e si svolge presso la clinica medica e gli altri servizi e reparti di degenza affidati alla scuola, per non meno di nove mesi all'anno.   
-Dall'obbligo di tali esercitazioni pratiche nei reparti possono essere esentati, ad insindacabile giudizio del direttore della scuola, quegli allievi che, in qualita' di assistenti od aiuti, prestino effettivo servizio presso divisioni di cardiologia o di medicina interna con servizio di cardiologia di universita' o di ospedali regionali o che godano di borsa di studio presso universita' ed ospedali, italiani o stranieri particolarmente qualificati.   
-Gli allievi che non conseguono le attestazioni di frequenza con relativo libretto non possono essere ammessi a sostenere le prove di esame.   
-Art. 29. - Alla fine di ogni corso gli iscritti, per essere ammessi agli anni di corso successivi, devono superare le prove di esame sulle materie impartite durante l'anno.   
-La sessione di esami di profitto e' unica ed espletata nel mese di ottobre.   
-Al termine del corso di studio per il conseguimento del diploma di specialista in cardiologia gli iscritti devono superare l'esame di diploma consistente nella dissertazione scritta, con contributo personale, di un argomento di carattere cardiologico. I candidati non riconosciuti idonei possono ripresentarsi dopo un altro anno di frequenza alla scuola. Ma se al secondo esame non sia loro riconosciuta l'idoneita', sono senz'altro esclusi da ulteriori prove.   
+Scuola di specializzazione in igiene e medicina preventiva   
+  
+Art. 29. - La scuola di specializzazione in igiene e medicina preventiva ha sede presso l'istituto di igiene e conferisce il diploma di specialista in igiene e medicina preventiva.   
+Art. 30. - La direzione della scuola e' affidata al professore di ruolo della stessa materia di specializzazione o, in carenza, al professore di ruolo o fuori ruolo di materia affine.   
+Art. 31. - Possono iscriversi alla scuola i laureati in medicina e chirurgia. E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale rilasciato dall'autorita' competente.   
+Art. 32. - La durata del corso di studi e' di quattro anni e non e' suscettibile di abbreviazione.   
 
-Art. 2
-------
+((Art. 33. - Il numero massimo degli allievi e' di venticinque per anno di corso e complessivamente di cento per l'intero corso di studi.))
 
   
+Art. 34. - L'ammissione al corso avviene per titoli ed esami.   
+Art. 35. - Il corso si articola in un biennio propedeutico seguito da un biennio differenziato con cinque orientamenti e precisamente:   
+a) sanita' pubblica;   
+b) igiene e tecnica ospedaliera;   
+c) igiene del lavoro;   
+d) igiene e medicina scolastica;   
+e) laboratorio.   
+Art. 36. - Il piano di studio e' il seguente:   
   
-Gli [articoli 47](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1977-06-10;779~art47), [48](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1977-06-10;779~art48) e [49 del decreto del Presidente della Repubblica 10 giugno 1977, n. 779](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1977-06-10;779~art49), relativi alla scuola di specializzazione in psichiatria, sono soppressi e sostituiti dai seguenti:   
+PRIMO BIENNIO   
   
-Scuola di specializzazione in psichiatria   
-Art. 47. - La scuola di specializzazione in psichiatria ha sede presso l'istituto di discipline psichiatriche e sociomediche e conferisce il diploma di specialista in psichiatria.   
-La direzione della scuola e' affidata al professore di ruolo o fuori ruolo della stessa materia della specializzazione o, in carenza, al professore di ruolo o fuori ruolo di materia affine.   
-Possono iscriversi alla scuola i laureati in medicina e chirurgia.  
-E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale rilasciato dall'autorita' competente.   
-La durata del corso di studi e' di quattro anni e non e' suscettibile di abbreviazioni.   
-Il numero massimo degli allievi e' complessivamente di trentasette iscritti per l'intero corso di studi.   
-L'ammissione al corso avviene per titoli ed esami.   
-Art. 48. - Le materie di insegnamento sono le seguenti:   
 1° Anno:   
-metodologia del rapporto medico-paziente (annuale);   
-psicologia (annuale);   
-elementi di genetica e biochimica (annuale);   
-struttura e funzioni integrative del SNC (annuale);   
-neurologia clinica (annuale);   
-clinica psichiatrica I (quadriennale).   
+metodologia statistica e biometria;   
+educazione sanitaria;   
+psicologia;   
+microbiologia e immunologia I;   
+parassitologia;   
+epidemiologia generale e metodologia;   
+profilassi generale;   
+sociologia medica ed antropologia culturale.   
 2° Anno:   
-psicopatologia e psicodinamica (annuale);   
-psicoterapia I (triennale);   
-psicofarmacologia (annuale);   
-psicofarmacoterapia (annuale);   
-clinica psichiatrica II (quadriennale).   
-3° Anno:   
-psicodiagnostica ed informatica psichiatrica (annuale);   
-psichiatria sociale I (biennale);   
-psichiatria infantile (annuale);   
-psicoterapia II (triennale);   
-clinica psichiatrica III (quadriennale).   
-4° Anno:   
-psicosomatica (annuale);   
-psichiatria sociale II (biennale);   
-psichiatria forense (annuale);   
-psicoterapia III (triennale);   
-clinica psichiatrica IV (quadriennale).   
+microbiologia ed immunologia II;   
+patologia e clinica delle malattie infettive;   
+epidemiologia e profilassi delle malattie infettive I;   
+patologia e clinica delle malattie non infettive di importanza sociale;   
+epidemiologia e profilassi delle malattie non infettive di importanza sociale I;   
+demografia e statistica sanitaria;   
+legislazione e programmazione sanitarie.   
   
-NOTE ESPLICATIVE.   
-Strutture e funzioni integrative del SNC: tale materia annuale, e' comprensiva della anatomofisiologia del SNC e della psicofisiologia.   
-Neurologia clinica: tale insegnamento, annuale, deve essere comprensivo, eventualmente con sottodivisioni, di cenni di anatomia patologica del SNC, di semeiologia neurologica, clinica e strumentale, di neuroradiologia.   
-Clinica psichiatrica: tale materia, quadriennale, e comprensiva anche degli elementi di semeiotica psichiatrica, delle tecniche laboratoristiche, delle terapie biologiche.   
-Psicoterapia: tale materia, triennale, comprende e considera nel corso dei tre anni, le tecniche ed i principi fondamentali delle principali psicoterapie individuali direttive e non direttive, i principi fondamentali e le dinamiche delle piu' importanti psicoterapie di gruppo, delle prassi psicoterapiche, socioterapiche e delle sociodinamiche delle istituzioni psichiatriche.   
-Psicodiagnostica ed informatica psichiatrica: tale materia, annuale, e' comprensiva di cenni di statistica, dei reattivi mentali e psicodiagnostica strumentale e di metodologia della ricerca psichiatrica.   
-Psichiatria sociale: tale materia, biennale, con molte possibilita' di suddivisioni, e' comprensiva di elementi di sociologia, di antropologia culturale, di etologia, di ecologia psichiatrica, di epidemiologia psichiatrica, di psichiatria transculturale, di psichiatria preventiva e di igiene mentale, prassi ed organizzazione di assistenza psichiatrica sul territorio extra istituzionale.   
-Psicosomatica: tale materia, annuale, e' comprensiva degli aspetti psichici delle materie somatiche della cosiddetta medicina integrata, della endocrinologia in riferimento alla psichiatria delle cosiddette specifiche malattie psicosomatiche.   
-Art. 49. - E' obbligatoria la frequenza per undici mesi all'anno; tale periodo comprende sia la frequenza alle lezioni, sia l'esercitazione pratica nei reparti di degenza e nelle strutture ambulatoriali a disposizione della scuola. Gli allievi che non conseguono le attestazioni di frequenza sul relativo libretto non possono essere ammessi a sostenere le prove di esame.   
-La scuola programma lo svolgimento dei corsi di insegnamento.   
-Per il passaggio agli anni successivi e' obbligatorio il superamento degli esami per ogni singolo esame. Per le materie a corso pluriennale l'esame e' sostenuto alla fine dei corsi medesimi.   
-Le lezioni teoriche sono integrate da seminari anche interdisciplinari, da documentazioni cliniche e da esperienze effettuate nei vari settori della disciplina.   
-Alla fine dei quattro anni gli allievi che hanno frequentato i corsi sono ammessi all'esame di diploma, consistente nella presentazione e discussione di una tesi scritta di argomento pertinente alla psichiatria, in una prova pratica ed in una prova orale.   
-Agli allievi che hanno ottenuto l'approvazione nell'esame di diploma e' rilasciato il diploma di specializzazione in psichiatria valido a tutti gli effetti di legge.   
+SECONDO BIENNIO   
+  
+a) Orientamento di sanita' pubblica.   
+3° Anno:   
+epidemiologia e profilassi delle malattie infettive II;   
+epidemiologia e profilassi delle malattie non infettive di importanza sociale II;   
+igiene dell'ambiente fisico e difesa ecologica;   
+igiene degli alimenti e della nutrizione;   
+igiene dell'eta' evolutiva;   
+igiene del lavoro;   
+igiene ed assistenza dell'anziano.   
+4° Anno:   
+igiene edilizia e dell'aggregato urbano;   
+igiene ospedaliera;   
+organizzazione del territorio e programmazione sanitaria;   
+medicina di comunita';   
+economia sanitaria;   
+elementi di diritto amministrativo.   
+b) Orientamento di igiene e tecnica ospedaliera.   
+3° Anno:   
+epidemiologia e profilassi delle malattie infettive II;   
+epidemiologia e profilassi delle malattie non infettive di importanza sociale II;   
+igiene dell'ambiente fisico e difesa ecologica;   
+igiene e tecnica delle costruzioni ospedaliere; arredamenti ed impianti tecnologici;   
+igiene dell'alimentazione e dietetica ospedaliera;   
+organizzazione e funzionamento degli ospedali I;   
+elementi di diritto e legislazione ospedaliera.   
+4° Anno:   
+organizzazione e funzionamento degli ospedali II;   
+compiti ed attribuzioni della direzione sanitaria;   
+formazione professionale e compiti del personale ospedaliero;   
+programmazione ospedaliera e medicina di comunita';   
+assistenza psichiatrica;   
+aspetti socio-sanitari dell'ospitalismo;   
+aspetti economici della gestione ospedaliera.   
+c) Orientamento di igiene del lavoro.   
+3° Anno:   
+epidemiologia e profilassi delle malattie infettive II;   
+epidemiologia e profilassi delle malattie non infettive di importanza sociale II;   
+igiene dell'ambiente fisico e difesa ecologica;   
+epidemiologia e profilassi delle malattie del lavoro;   
+tecnica ed economia degli impianti industriali;   
+tossicologia industriale e diagnostica di laboratorio;   
+elementi di fisica tecnica applicata all'igiene;   
+igiene dell'ambiente di lavoro I.   
+4° Anno:   
+igiene dell'ambiente di lavoro II;   
+elementi di diritto e legislazione del lavoro;   
+psicologia del lavoro;   
+prevenzione degli infortuni;   
+politica del territorio ed insediamenti industriali;   
+igiene del lavoro e medicina di comunita'.   
+d) Orientamento di igiene e medicina scolastica.   
+3° Anno:   
+epidemiologia e profilassi delle malattie infettive II;   
+epidemiologia e profilassi delle malattie non infettive di importanza sociale II;   
+igiene dell'ambiente fisico e difesa ecologica;   
+clinica delle malattie dell'eta' evolutiva;   
+epidemiologia e profilassi delle malattie dell'eta' evolutiva;   
+igiene degli alimenti e della nutrizione;   
+auxologia normale e patologica;   
+psicologia dell'eta' evolutiva.   
+4° Anno:   
+servizi di medicina scolastica;   
+edilizia ed arredamento scolastico;   
+elementi di pedagogia;   
+assistenza parascolastica;   
+educazione sanitaria nella scuola;   
+legislazione scolastica;   
+igiene mentale.   
+e) Orientamento di laboratorio.   
+3° Anno:   
+epidemiologia e profilassi delle malattie infettive II;   
+epidemiologia e profilassi delle malattie non infettive di importanza sociale II;   
+igiene dell'ambiente fisico e difesa ecologica;   
+metodi e dosaggi fisico-chimici per il controllo dell'inquinamento ambientale I;   
+metodi e dosaggi biologici per il controllo dell'inquinamento ambientale;   
+strumentazione e metodologia chimico-cliniche ed ematologiche I; microscopia applicata all'igiene;   
+elementi di fisica tecnica applicata all'igiene;   
+accertamento diagnostico delle malattie infettive e parassitarie I.   
+4° Anno:   
+metodi e dosaggi fisico-chimici per il controllo dell'inquinamento ambientale II;   
+accertamento diagnostico delle malattie infettive e parassitarie II;   
+strumentazione e metodologie chimico-cliniche ed ematologiche II; ispezione e controllo degli alimenti;   
+elementi di informatica.   
+Gli esami relativi alle discipline svolte con insegnamento biennale verranno sostenuti alla fine di detti insegnamenti.   
+I corsi saranno completati da insegnamenti complementari scelti dalla scuola tra i seguenti:   
+Materie complementari:   
+automazione del sistema ospedaliero;   
+biochimica applicata;   
+climatologia;   
+diritto sanitario internazionale;   
+elementi di medicina legale;   
+genetica umana;   
+geologia applicata all'igiene;   
+idrologia;   
+igiene dei climi tropicali;   
+igiene dei trasporti;   
+igiene militare;   
+igiene rurale;   
+istituzioni di matematiche;   
+micologia;   
+radioprotezionistica.   
+A giudizio della scuola possono essere indicati come complementari anche altri insegnamenti regolarmente attivati nei corsi di laurea di ciascuna universita'.   
+I corsi saranno integrati da un tirocinio pratico di durata comunque non inferiore a tre mesi, da svolgersi durante il secondo biennio.   
+Art. 37. - La frequenza alle lezioni e alle esercitazioni pratiche e' obbligatoria. Gli allievi che non conseguono le attestazioni di frequenza sul relativo libretto, non potranno essere ammessi a sostenere le prove di esame.   
+Art. 38. - Alla fine di ogni anno di corso gli iscritti per essere ammessi agli anni successivi di corso, devono superare le prove di esame sulle materie impartite durante l'anno; per le materie a corso pluriennale, l'esame sara' sostenuto alla fine dei corsi medesimi.   
+Al termine del corso di studi per il conseguimento del diploma di specialista in igiene e medicina preventiva, gli interessati dovranno superare l'esame di diploma consistente nella dissertazione scritta di un argomento attinente alla specializzazione.   
+  
+Scuola di specializzazione in ginecologia e ostetricia   
+  
+Art. 39. - La scuola di specializzazione in ginecologia ed ostetricia ha sede presso la clinica ostetrica e ginecologica dell'Universita' degli studi di Ancona e conferisce il diploma di specialista in ginecologia ed ostetricia.   
+Art. 40. - La direzione della scuola e' affidata al professore di ruolo della stessa materia della specializzazione o, in carenza, al professore di ruolo o fuori ruolo di materia affine.   
+Art. 41. - Possono iscriversi alla scuola i laureati in medicina e chirurgia. E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale rilasciato dall'autorita' competente.   
+Art. 42. - La durata del corso di studi e' di quattro anni e non e' suscettibile di abbreviazione.   
+
+(( Art. 43. - Il numero massimo degli allievi e' complessivamente di ventisei iscritti per l'intero corso di studi.))
+
+  
+Art. 44. - L'ammissione al corso avviene per titoli ed esami.   
+Art. 45. - Le materie di insegnamento sono le seguenti:   
+1° Anno:   
+a) elementi di genetica medica;   
+b) elementi di embriologia; anatomia macro e micro dell'apparato genitale femminile; anatomia della pelvi;   
+c) elementi di fisiopatologia della riproduzione umana;   
+d) fisiologia ostetrica;   
+e) endocrinologia ginecologica ed ostetrica;   
+f) semeiotica e diagnostica ostetrica;   
+g) patologia ostetrica e ginecologica I;   
+h) lingua straniera (inglese) I.   
+2° Anno:   
+a) semeiotica e diagnostica ginecologica;   
+b) operazioni ostetriche I;   
+c) anatomia ed istologia patologica della sfera genitale femminile;   
+d) citologia ginecologica;   
+e) patologia ostetrica e ginecologica II;   
+f) diagnostica di laboratorio in ostetricia e ginecologia;   
+g) lingua straniera (inglese) II.   
+3° Anno:   
+a) puericultura prenatale;   
+b) immunologia ostetrica e ginecologica;   
+c) analgo-anestesia e rianimazione in ostetricia;   
+d) operazioni ostetriche II;   
+e) operazioni ginecologiche I;   
+f) ostetricia e ginecologia forense;   
+g) terapia medica in ostetricia e ginecologia;   
+h) clinica ostetrica e ginecologica I;   
+i) psicosomatica ostetrica e ginecologica;   
+l) lingua straniera (inglese) III.   
+4° Anno:   
+a) neonatologia;   
+b) urologia ginecologica;   
+c) radio-diagnostica e terapia fisica in ostetricia e ginecologia;   
+d) chirurgia addominale;   
+e) operazioni ginecologiche II;   
+f) clinica ostetrica e ginecologica II;   
+g) lingua straniera (inglese) IV.   
+Art. 46. - La frequenza alle lezioni ed alle esercitazioni pratiche e' obbligatoria.   
+Gli allievi che non conseguono le attestazioni di frequenza sul relativo libretto non potranno essere ammessi a sostenere le prove di esame.   
+Art 47. - Alla fine di ogni anno di corso gli iscritti per essere ammessi agli anni di corso successivi devono superare le prove di esame sulle materie impartite durante l'anno.   
+Per le materie a corsi pluriennali l'esame sara' sostenuto alla fine dei corsi medesimi.   
+Al termine del corso di studi per il conseguimento del diploma di specialista in ginecologia ed ostetricia, gli interessati dovranno superare l'esame di diploma su di un argomento attinente alla specializzazione.   
+  
+Scuola di specializzazione in medicina del lavoro   
+  
+Art. 48. - La scuola di specializzazione in medicina del lavoro ha sede presso la facolta' di medicina e chirurgia dell'Universita' di Ancona e conferisce il diploma di specialista in medicina del lavoro.   
+Art. 49. - La direzione della scuola e' affidata al professore di ruolo o fuori ruolo della stessa materia della specializzazione o, in carenza, al professore di ruolo o fuori ruolo di materia affine.   
+Art. 50. - Possono iscriversi alla scuola i laureati in medicina e chirurgia. E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale rilasciato dall'autorita' competente.   
+Art. 51. - La durata del corso di studi e' di quattro anni e non e' suscettibile d'abbreviazione.   
+
+((Art. 52. - Il numero massimo degli allievi e' di ventiquattro per l'intero corso di studi.))
+
+  
+Art. 53. - L'ammissione al corso avviene per titoli ed esami.   
+Art. 54. - Le materie di insegnamento sono le seguenti:   
+1° Anno:   
+1) igiene del lavoro I;   
+2) fisiologia del lavoro ed ergonomia I;   
+3) tecnologia industriale;   
+4) statistica medica e biometria;   
+5) tecniche di laboratorio.   
+2° Anno:   
+1) patologia e clinica delle malattie del lavoro I;   
+2) igiene del lavoro II;   
+3) fisiologia del lavoro ed ergonomia II;   
+4) psicologia del lavoro;   
+5) tossicologia industriale.   
+3° Anno:   
+1) patologia e clinica delle malattie del lavoro II;   
+2) prevenzione degli infortuni e delle malattie da lavoro I;   
+3) epidemiologia delle malattie da lavoro;   
+4) radiobiologia e radioprotezione;   
+5) dermatologia professionale.   
+4° Anno:   
+1) patologia e clinica delle malattie del lavoro III;   
+2) prevenzione degli infortuni e delle malattie da lavoro II;   
+3) pronto soccorso;   
+4) medicina legale e delle assicurazioni;   
+5) organizzazione dei servizi di medicina e igiene del lavoro.   
+Gli esami delle discipline svolte in corsi pluriennali verranno sostenuti alla fine dell'ultimo corso.   
+Art. 55. - La frequenza alle lezioni e alle esercitazioni pratiche e' obbligatoria.   
+Gli allievi che non conseguono le attestazioni di frequenza sul relativo libretto non potranno essere ammessi a sostenere le prove di esame.   
+Art. 56. - Alla fine di ogni corso gli iscritti, per essere ammessi agli anni di corso successivi, devono superare le prove di esame sulle materie impartite durante l'anno. Per le materie biennali o triennali l'esame sara' sostenuto alla fine del biennio o del triennio.   
+Al termine del corso di studi per il conseguimento del diploma di specialista in medicina del lavoro, gli interessati dovranno superare l'esame di diploma consistente nella dissertazione scritta su un argomento attinente alla specializzazione.   
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 15 settembre 1979
+### Dato a Roma, addi' 27 ottobre 1978
 
-PERTINI VALITUTTI
+PERTINI PEDINI
 
-Visto, il Guardasigilli: MORLINO
+Visto, il Guardasigilli: BONIFACIO
 
-Registrato alla Corte dei conti, addi' 13 dicembre 1979
+Registrato alla Corte dei conti, addi' 30 gennaio 1979
 
-Registro n. 96 Istruzione, foglio n. 179
+Registro n. 4 Istruzione, foglio n. 7

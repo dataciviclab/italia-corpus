@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 03 agosto 1964 n. 1052
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 06 luglio 1971 n. 1293
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 03 agosto 1964 n. 1052
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 06 luglio 1971 n. 1293
 ==============================================================
 
 Autorizzazione all'Universita' degli studi di Padova ad acquistare un immobile.
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-1052. Decreto del Presidente della Repubblica 3 agosto 1964, col quale, sulla proposta del Ministro per la pubblica istruzione, l'Universita' degli studi di Padova viene autorizzata ad acquistare, dall'Amministrazione finanziaria dello Stato, il compendio immobiliare demaniale dell'ex carcere giudiziario dei "Paolotti", sito in Padova, via Belzoni, al prezzo di L. 125.000.000.  
+1293. Decreto del Presidente della Repubblica 6 luglio 1971, col quale, sulla proposta del Ministro per la pubblica istruzione, l'Universita' degli studi di Padova viene autorizzata ad acquistare un immobile sito in Verona, via Nicola Mazza, censito nel comune di Verona, sezione A, foglio XI, mappali 336, 773 e 778 di are 3.37, al prezzo di L. 119.000.000.  
   
-Visto, il Guardasigilli: REALE  
-Registrato alla Corte dei conti, addi' 14 ottobre 1964  
-Atti del Governo, registro n. 187, foglio n. 116. - VILLA
+Visto, il Guardasigilli: COLOMBO  
+Registrato alla Corte dei conti, addi' 1 febbraio 1972  
+Atti del Governo, registro n. 246, foglio n. 63. - VALENTINI

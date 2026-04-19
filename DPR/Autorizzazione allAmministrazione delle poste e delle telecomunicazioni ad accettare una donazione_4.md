@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 febbraio 1968 n. 268
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 febbraio 1968 n. 216
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 26 febbraio 1968 n. 268
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 02 febbraio 1968 n. 216
 ===============================================================
 
 Autorizzazione all'Amministrazione delle poste e delle telecomunicazioni ad accettare una donazione.
@@ -12,9 +12,8 @@ Art. 1
 
 N.
 
-268. Decreto del Presidente della Repubblica 26 febbraio 1968, col quale, sulla proposta del relativo Ministro, l'Amministrazione delle poste e delle telecomunicazioni viene autorizzata ad accettare dal comune di Sapri (Salerno), la donazione di un'area di mq. 314,25, sita in Sapri, piazza Marconi, da destinare alla costruzione di un edificio p.t., giusta atto a rogito notaio Raffaele Pugliese. La Corte in data 22 luglio 1964, rep. 10069, raccolta 2245, registrato a Sapri il 6 agosto 1964 al n. 71, mod.  
-I, vol. 29.  
+216. Decreto del Presidente della Repubblica 2 febbraio 1968, col quale, sulla proposta del relativo Ministro, l'Amministrazione delle poste e delle telecomunicazioni viene autorizzata ad accettare, dal comune di Fuscaldo (Cosenza) la donazione di un'area di mq. 300, sita in Fuscaldo Centro, via Tenente Passalacqua, da destinare alla costruzione di un ufficio postale, giusta atto a rogito notaio Francesco Stancati in data 14 maggio 1965, rep. 208484, raccolta 18601 registrato a Cosenza il 20 maggio 1965.  
   
 Visto, il Guardasigilli: REALE  
-Registrato alla Corte dei conti, addi' 21 marzo 1968  
-Atti del Governo, registro n. 218, foglio n. 67. - DI PRETORO
+Registrato alla Corte dei conti, addi' 14 marzo 1968  
+Atti del Governo, registro n. 218, foglio n. 17. - GRECO

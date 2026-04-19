@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 23 maggio 1977 n. 315
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 novembre 1975 n. 620
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 23 maggio 1977 n. 315
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 18 novembre 1975 n. 620
+===============================================================
 
 Disciplina per il tirocinio degli uditori giudiziari.
 -----------------------------------------------------
@@ -10,130 +10,118 @@ Disciplina per il tirocinio degli uditori giudiziari.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Visto l'art. 129 dell'ordinamento giudiziario:
+Visto l'art. 129 dell'ordinamento giudiziario approvato con [regio decreto 30 gennaio 1941, n. 12](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-01-30;12);
 
 Visto l'[art. 48 del decreto del Presidente della Repubblica 16 settembre 1958, n. 916](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1958-09-16;916~art48);
 
-Vista la [legge 30 maggio 1965, n. 579](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1965-05-30;579);
+Viste le deliberazioni del Consiglio superiore della magistratura in data 18 dicembre 1974 e 24 ottobre 1975;
 
-Vista la tabella D allegata al [decreto del Presidente della Repubblica 2 aprile 1969, n. 303](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1969-04-02;303);
+Sulla proposta del Guardasigilli Ministro Segretario di Stato per gli affari di grazia e giustizia;
 
-Vista la deliberazione del Consiglio superiore della magistratura adottata nella seduta del 12 maggio 1977;
+Decreta:
+--------
 
-Sulla
------
-
-proposta del Guardasigilli Ministro per la grazia e giustizia; Decreta:
+Disciplina per il tirocinio degli uditori giudiziari
 
 Art. 1
 ------
 
   
-Con il decreto di nomina l'uditore giudiziario e' addetto per lo svolgimento del tirocinio al tribunale, alla procura della Repubblica o alla pretura di una citta' sede di corte di appello.  
+Il tirocinio degli uditori giudiziari dura, di regola, almeno un anno.  
+Per un periodo non inferiore a sei mesi gli uditori sono destinati presso il tribunale, la procura della Repubblica o la pretura di Roma; nel rimanente periodo gli uditori giudiziari sono destinati al tribunale, alla procura della Repubblica o alla pretura di una citta' sede di corte di appello.  
 
 Art. 2
 ------
 
   
-Durante il tirocinio gli uditori giudiziari prendono conoscenza dei diversi settori dell'amministrazione della giustizia e, per approfondire la loro preparazione teorica e pratica, partecipano anche a incontri di studio articolati in conferenze, dibattiti, corsi di perfezionamento e specializzazione, frequenza di pubblici uffici ed istituti, nonche' altre attivita' ritenute necessarie.  
+Durante il periodo di destinazione agli uffici giudiziari di Roma, gli uditori prendono conoscenza dei diversi settori dell'Amministrazione della giustizia e, per approfondire la loro preparazione teorica e pratica, partecipano a incontri di studio articolati in conferenze, dibattiti, corsi di perfezionamento e specializzazione, frequenza di pubblici uffici e altre attivita' ritenute necessarie.  
 
 Art. 3
 ------
 
   
-Presso le sedi di corte di appello l'organizzazione del tirocinio e' affidata al consiglio giudiziario che attua le direttive emanate dal Consiglio superiore della magistratura.  
+La commissione speciale per gli uditori giudiziari del Consiglio superiore della magistratura coordina il tirocinio degli uditori, riferendo periodicamente al Consiglio e seguendone le direttive.  
 
 Art. 4
 ------
 
   
-Il consiglio giudiziario per l'organizzazione del tirocinio si avvale della collaborazione di magistrati dotati di particolare preparazione teorica e pratica e di spiccate attitudini didattiche e capacita' organizzative, prescelti tra i magistrati in servizio presso gli uffici giudiziari del capoluogo del distretto.  
+Il Consiglio superiore della magistratura, su proposta della commissione speciale, nomina i collaboratori di detta commissione scegliendoli tra i magistrati dotati di particolare preparazione teorica e pratica e di spiccate attitudini didattiche e capacita' organizzative.  
 
 Art. 5
 ------
 
   
-Ai magistrati collaboratori del consiglio giudiziario e' affidato il compito di curare il tirocinio di un gruppo di non piu' di dieci uditori. A tal fine essi:  
-1) predispongono per ciascun uditore un piano di tirocinio da sottoporre all'approvazione del consiglio giudiziario che puo' apportarvi le opportune modifiche;  
-2) assegnano l'uditore ai vari uffici indicati nel piano di tirocinio e, per ciascuno di detti uffici, d'intesa con i dirigenti degli stessi, prescelgono i magistrati ai quali affidare, di volta in volta, la guida del tirocinio pratico dell'uditore;  
-3) verificano, attraverso il continuo contatto con gli uditori, l'efficacia e la validita' del tirocinio pratico svolto presso gli uffici giudiziari;  
-4) possono formulare al consiglio giudiziario proposte sulle concrete modalita' degli incontri di studio e ne curano lo svolgimento;  
-5) trasmettono al consiglio giudiziario al termine del periodo di tirocinio una relazione sulle attitudini e le capacita' dimostrate dai singoli uditori, redatta sulla base anche delle relazioni dei magistrati ai quali gli uditori sono stati affidati presso i singoli uffici giudiziari.  
+Ai magistrati collaboratori della commissione speciale viene affidato il compito di curare il tirocinio di un gruppo di non piu' di dieci uditori. A tal fine essi:  
+1) predispongono per ciascun uditore un piano di tirocinio da sottoporre all'approvazione della commissione speciale;  
+2) assegnano l'uditore ai vari uffici indicati nel piano di tirocinio e, per ciascuno dei detti uffici, d'intesa con i dirigenti degli stessi, prescelgono i magistrati ai quali affidare, di volta in volta, la guida del tirocinio pratico dell'uditore;  
+3) verificano, attraverso il continuo contatto con gli uditori, la efficacia e la validita' del tirocinio pratico svolto presso gli uffici giudiziari;  
+4) possono formulare alla commissione speciale proposte sulle concrete modalita' degli incontri di studio e ne curano lo svolgimento;  
+5) trasmettono alla commissione speciale, al termine del periodo di tirocinio presso gli uffici giudiziari di Roma, una relazione sulle attitudini e le capacita' dimostrate dai singoli uditori, redatta sulla base anche delle relazioni dei magistrati ai quali gli uditori sono stati affidati presso i singoli uffici giudiziari.  
 
 Art. 6
 ------
 
   
-Il piano di tirocinio di cui all'articolo precedente deve assicurare che l'uditore prenda conoscenza dell'attivita' svolta sia presso il tribunale, che presso la procura della Repubblica e la pretura.  
+Il magistrato alla cui guida l'uditore e' affidato in occasione del tirocinio pratico fa assistere l'uditore a tutte le attivita' giudiziarie, compresa la partecipazione alle camere di consiglio.  
+Se trattasi di magistrato addetto alle udienze penali delle preture, incarica l'uditore di esercitare le funzioni di pubblico ministero, ai sensi dell'art. 72 dell'ordinamento giudiziario.  
+In ogni caso affida all'uditore la redazione delle minute di provvedimenti e spiega all'uditore le modifiche eventualmente apportate.  
+Al termine del periodo di affidamento redige una relazione sul tirocinio compiuto dall'uditore sotto la sua guida.  
 
 Art. 7
 ------
 
   
-Il magistrato alla cui guida l'uditore e' affidato in occasione del tirocinio pratico cura che l'uditore assista a tutte le attivita' giudiziarie, compresa la partecipazione alle camere di consiglio.  
-Se trattasi di magistrato addetto alle udienze penali delle preture, incarica l'uditore di esercitare le funzioni di pubblico ministero, ai sensi dell'art. 72 dell'ordinamento giudiziario.  
-In ogni caso affida all'uditore la redazione delle minute di provvedimenti e spiega all'uditore le modifiche eventualmente apportate.  
-Al termine del periodo di affidamento redige una relazione sul tirocinio compiuto dall'uditore sotto la sua guida.  
+La commissione speciale per gli uditori giudiziari coordina il tirocinio, tiene i fascicoli personali degli uditori, nei quali include il piano di tirocinio e le relazioni dei magistrati collaboratori e dei magistrati ai quali i singoli uditori sono stati affidati presso gli uffici giudiziari; organizza gli incontri di studio; formula proposte al Consiglio sulla scelta dell'ufficio cui assegnare l'uditore nell'ulteriore periodo di tirocinio; redige la relazione sul conferimento delle funzioni; provvede all'attuazione di quanto occorra per il piu' efficace svolgimento del tirocinio.  
+Per lo svolgimento degli incontri di studio, oltre che dei componenti del Consiglio superiore della magistratura, la commissione speciale puo' avvalersi dei magistrati dell'ufficio studi e documentazione del Consiglio, nonche' di altri esperti anche non appartenenti all'ordine giudiziario, nominati dal Consiglio stesso.  
 
 Art. 8
 ------
 
   
-Il consiglio giudiziario coordina il tirocinio, forma per ciascun uditore un fascicolo nel quale include il piano di tirocinio e le relazioni dei magistrati ai quali i singoli uditori sono stati affidati presso gli uffici giudiziari; redige la relazione sul conferimento delle funzioni; provvede all'attuazione di quanto occorra per il piu' efficace svolgimento del tirocinio, organizzando anche incontri di studi secondo le direttive del Consiglio superiore della magistratura.  
+Ferma restando la facolta' prevista dall'articolo unico della [legge 30 maggio 1965, n. 579](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1965-05-30;579), al termine del periodo di tirocinio presso gli uffici giudiziari di Roma, gli uditori in considerazione delle attitudini dimostrate e delle prevedibili esigenze di servizio vengono destinati dal Consiglio presso il tribunale, la procura della Repubblica o la pretura di una citta' sede di corte di appello.  
+Il consiglio giudiziario presso la corte di appello, d'intesa con il dirigente dell'ufficio di destinazione, affida l'uditore a un magistrato per il completamento del tirocinio secondo le modalita' di cui al precedente art. 6.  
 
 Art. 9
 ------
 
   
-Durante il tirocinio la commissione speciale per gli uditori giudiziari, anche attraverso visite nei distretti previamente deliberate dal Consiglio superiore della magistratura:  
-a) vigila sulla attuazione delle direttive emanate dal Consiglio;  
-b) coordina il tirocinio presso i diversi distretti anche per assicurarne la uniformita' nelle linee generali.  
-La commissione riferisce periodicamente al Consiglio dell'attivita' svolta.  
+Il magistrato cui l'uditore e' affidato redige la relazione sulla base della quale il consiglio giudiziario stende il parere di cui all'art. 129 dell'ordinamento giudiziario. Tale relazione e il parere del consiglio giudiziario vengono trasmessi al Consiglio superiore della magistratura e allegati al fascicolo personale dell'uditore.  
 
 Art. 10
 -------
 
   
-Al termine del tirocinio, il magistrato collaboratore del consiglio giudiziario, cui l'uditore e' stato affidato, redige la relazione sulla base della quale il consiglio giudiziario esprime il parere di cui all'art. 129 dell'ordinamento giudiziario. Tale relazione e il parere del consiglio giudiziario vengono trasmessi unitamente al fascicolo dell'uditore al Consiglio superiore della magistratura e comunicati all'uditore giudiziario il quale ha facolta' di formulare proprie osservazioni: queste vanno allegate al fascicolo.  
-La commissione speciale, sulla base anche dei documenti acquisiti ai fascicoli degli uditori, redige una relazione finale sull'intero tirocinio svolto e formula le proposte in ordine all'idoneita' per il conferimento delle funzioni giurisdizionali.  
-Il Consiglio superiore della magistratura, udita la relazione della commissione ed esaminati, se del caso, i fascicoli degli uditori conferisce agli stessi le funzioni giurisdizionali, ai sensi dell'art. 129 dell'ordinamento giudiziario, e successive modificazioni, salvo che non ritenga di disporre che egli prosegua il tirocinio con le modalita' di cui ai precedenti articoli per uno o piu' periodi di sei mesi fino alla scadenza del termine massimo previsto dalla legge.  
+La commissione speciale per gli uditori giudiziari, sulla base anche dei documenti acquisiti ai fascicoli personali degli uditori, redige una relazione finale sull'intero tirocinio svolto e formula le proposte in ordine alla idoneita' per il conferimento delle funzioni giurisdizionali.  
 
 Art. 11
 -------
 
   
-L'individuazione dell'ufficio presso il quale l'uditore e' destinato per l'esercizio delle funzioni avviene secondo criteri predeterminati da parte del Consiglio superiore della magistratura, su proposta della commissione competente.  
+Il Consiglio superiore della magistratura, esaminati la detta relazione e il fascicolo personale dell'uditore, puo' incaricare l'uditore delle funzioni giurisdizionali, ai sensi dell'art. 129 dell'ordinamento giudiziario, e successive modificazioni, ovvero puo' disporre che egli prosegua il tirocinio con le modalita' di cui al precedente art. 8 per uno o piu' periodi di sei mesi fino alla scadenza del termine massimo previsto dalla legge.  
 
 Art. 12
 -------
 
   
-Il Consiglio superiore della magistratura stabilisce di volta in volta con propria determinazione la durata e la specifica articolazione del tirocinio nel rispetto del termine massimo e minimo previsto dalla legge.  
-Qualora il Consiglio superiore della magistratura intenda esercitare la facolta' attribuitagli dall'articolo unico della [legge 30 maggio 1965, n. 579, il parere](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1965-05-30;579) previsto dall'art. 129 dell'ordinamento giudiziario puo' essere richiesto anche dopo cinque mesi dall'inizio del tirocinio; in tal caso al parere del consiglio giudiziario dovra' essere allegato anche quello del primo presidente e del procuratore generale presso la corte di appello.  
+Per il periodo di destinazione agli uffici giudiziari di Roma, verra' corrisposto agli uditori giudiziari un rimborso spese (per acquisto di testi di legge, libri, riviste e articoli di cancelleria, per svolgimento di ricerche, per mezzi di trasporto, etc.) nella misura massima di L. 135.000 mensili lorde, che gravera' su apposita voce del bilancio del Consiglio superiore.  
 
 Art. 13
 -------
 
   
-Durante il periodo di tirocinio e prima del conferimento delle funzioni, il Consiglio, su proposta della commissione speciale, puo' disporre che gli uditori partecipino, in Roma, ad attivita' seminariali destinate alla trattazione di tematiche, anche di carattere tecnico, legate alla loro formazione professionale, dando particolare rilievo alla verifica pratica delle conoscenze teoriche acquisite.  
-Per tali attivita' la commissione uditori e' delegata dal Consiglio all'organizzazione prevista dall'art. 3.  
-
-Art. 14
--------
-
-  
-Le presenti norme sostituiscono la disciplina per il tirocinio degli uditori giudiziari contenuta nel decreto i del [Presidente della Repubblica 18 novembre 1975, n. 620](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica::1975-11-18;620), e si applicano agli uditori nominati successivamente al 1 maggio 1977.  
+Le presenti norme sostituiscono la disciplina per il tirocinio degli uditori giudiziari contenuta nel decreto del Presidente della Repubblica 27 aprile 1962 e si applicano al tirocinio degli uditori nominati successivamente al 1 gennaio 1975.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 23 maggio 1977
+### Dato a Roma, addi' 18 novembre 1975
 
-LEONE BONIFACIO
+LEONE REALE
 
-Visto, il Guardasigilli: BONIFACIO
+Visto, il Guardasigilli: REALE
 
-Registrato alla Corte dei conti, addi' 15 giugno 1977
+Registrato alla Corte dei conti, addi' 5 dicembre 1975
 
-Atti di Governo, registro n. 13, foglio n. 16
+Atti di Governo, registro n. 14, foglio n. 116

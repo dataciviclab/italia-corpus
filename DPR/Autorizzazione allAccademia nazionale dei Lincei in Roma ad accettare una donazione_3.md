@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 dicembre 1983 n. 1119
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 21 aprile 1982 n. 325
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 dicembre 1983 n. 1119
-================================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 21 aprile 1982 n. 325
+=============================================================
 
 Autorizzazione all'Accademia nazionale dei Lincei, in Roma, ad accettare una donazione.
 ---------------------------------------------------------------------------------------
@@ -12,9 +12,8 @@ Art. 1
 
 N.
 
-1119. Decreto del Presidente della Repubblica 19 dicembre 1983, col quale, sulla proposta del Ministro per i beni culturali e ambientali, l'Accademia nazionale dei Lincei, in Roma, viene autorizzata ad accettare la donazione, consistente nella somma di L. 300.000.000, per la costituzione di un fondo intestato al dott.  
-Giuseppe Guelfi per l'assegnazione di borse di perfezionamento a giovani laureati in scienze biologiche o in medicina e chirurgia, che intendano eseguire ricerche presso istituti di scienze biologiche e biomediche dell'Universita' di Firenze, Pisa, Siena o presso la Scuola normale superiore di Pisa, disposta dalla sig.ra Emma Collavoli vedova Guelfi, con atto 15 luglio 1982, n. 4745/1267 di repertorio, a rogito dott. Giuseppe Ramondelli, notaio in Roma, e registrato a Roma in data 23 luglio 1982, n. 28895.  
+325. Decreto del Presidente della Repubblica 21 aprile 1982, col quale, sulla proposta del Ministro per i beni culturali e ambientali, l'Accademia nazionale dei Lincei, in Roma, viene autorizzata ad accettare una donazione di L. 20.000.000 in buoni del Tesoro disposta dai signori Mario Barone e Giovanna Biraghi Lossetti in Barone, come da atto pubblico 28 maggio 1980, n. 73183/32838 di repertorio, a rogito dottor Vincenzo Colapietro, notaio in Roma, registrato a Roma in data 17 giugno 1980 al n. 8480.  
   
-Visto, il Guardasigilli: MARTINAZZOLI  
-Registrato alla Corte dei conti, addi' 31 marzo 1984  
-Registro n. 15 Beni culturali, foglio n. 228
+Visto, il Guardasigilli: DARIDA  
+Registrato alla Corte dei conti, addi' 29 maggio 1982  
+Registro n. 14 Beni culturali, foglio n. 197

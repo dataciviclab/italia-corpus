@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 marzo 1986 n. 275
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 09 luglio 1975 n. 527
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 10 marzo 1986 n. 275
-============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 09 luglio 1975 n. 527
+=============================================================
 
 Autorizzazione alla fondazione "Pro juventute don Carlo Gnocchi", in Roma, ad accettare un legato.
 --------------------------------------------------------------------------------------------------
@@ -10,10 +10,11 @@ Autorizzazione alla fondazione "Pro juventute don Carlo Gnocchi", in Roma, ad ac
 Art. 1
 ------
 
-n.
+N.
 
-275. Decreto del Presidente della Repubblica 10 marzo 1986, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare il legato, consistente nella somma di L. 75.000.000, disposto dal sig. Tumminello Biagio a favore della fondazione "Pro juventute istituto don Gnocchi", che si identifica con la fondazione "Pro juventute don Carlo Gnocchi", come si evince dal verbale 16 gennaio 1984 del consiglio di amministrazione della fondazione stessa, con testamento olografo 18 maggio 1982, pubblicato in data 30 settembre 1983, n. 214859 di repertorio, a rogito dott. Olivares Giovanni, notaio in Milano, registrato a Milano in data 7 ottobre 1983 al n. 15784.  
+527. Decreto del Presidente della Repubblica 9 luglio 1975, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare il legato consistente nella somma di lire 400.000 disposto dalla sig.ra Enrica Pernigotti con testamento olografo 22 luglio 1971, pubblicato, a rogito del notaio dott.  
+Muzio Battista in data 21 settembre 1971, n. 36714 di repertorio, n. 14810 di raccolta, e registrato a Voghera il 4 ottobre 1971 con il n. 1482, vol. 215.  
   
-Visto, il Guardasigilli: MARTINAZZOLI  
-Registrato alla Corte dei conti, addi' 6 giugno 1986  
-Registro n. 5 Presidenza, foglio n. 87
+Visto, il Guardasigilli: REALE  
+Registrato alla Corte dei conti, addi' 29 ottobre 1975  
+Atti di Governo, registro n. 13, foglio n. 42

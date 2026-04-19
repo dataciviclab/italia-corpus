@@ -1,161 +1,271 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1977 n. 1124
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 25 maggio 1976 n. 700
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1977 n. 1124
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 25 maggio 1976 n. 700
+=============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Perugia.
 -------------------------------------------------------------------
 
+IL PRESIDENTE DELLA REPUBBLICA
+------------------------------
+
+Veduto lo statuto dell'Universita' di Perugia, approvato con [regio decreto 29 aprile 1939, n. 1107](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-29;1107) e modificato con [regio decreto 2 ottobre 1940, n. 1471](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-02;1471), e successive modificazioni;
+
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
+
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
+
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
+
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Perugia e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;
+
+Sentito il parere del Consiglio superiore della pubblica istruzione;
+
+Sulla proposta del Ministro per la pubblica istruzione;
+
+Decreta:
+
+Lo statuto dell'Universita' degli studi di Perugia, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+
+Dopo l'art. 134, e con lo spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi alla scuola di specializzazione in scienza dell'alimentazione, annessa alla facolta' di farmacia.
+
+Scuola di specializzazione in scienza dell'alimentazione
+
+(Annessa alla facolta' di farmacia)
+
+Art. 135. - E' istituita presso l'istituto di scienza dell'alimentazione della facolta' di farmacia, la scuola di specializzazione in scienza dell'alimentazione.
+
+Direttore della scuola e' il titolare della cattedra di scienza dell'alimentazione o in caso di vacanza della cattedra, il titolare della cattedra di chimica biologica.
+
+Il consiglio della scuola e' costituito da tutti i docenti che insegnano nella scuola stessa. Gli incarichi di insegnamento nella scuola sono conferiti dal rettore su proposta del direttore della scuola.
+
+Art. 136. - La scuola di specializzazione in scienza dell'alimentazione e' articolata secondo il seguente triplice indirizzo:
+
+a) indirizzo dietetico;
+
+b) indirizzo nutrizionistico;
+
+c) indirizzo tecnologico.
+
+L'indirizzo dietetico mira ad approfondire nei medici le conoscenze di base teoriche e pratiche di fondamentale importanza per la dietetica preventiva e curativa ed a stimolare, altresi', la ricerca scientifica nel vasto campo della nutrizione umana. A tale indirizzo possono iscriversi soltanto i laureati in medicina e chirurgia.
+
+L'indirizzo nutrizionistico mira alla preparazione specialistica di laureati in settori concernenti lo studio dei problemi generali e speciali dell'alimentazione negli aspetti fisiologici, bio-chimici, igienici, ecologici, economico-sociali, nonche' a stimolare la ricerca scientifica nei sopra citati settori.
+
+A tale indirizzo possono essere ammessi i laureati in chimica e tecnologia farmaceutiche, in farmacia, in medicina e chirurgia, in medicina veterinaria, in scienze biologiche, in scienze naturali, in scienze agrarie.
+
+L'indirizzo tecnologico mira alla preparazione di laureati per le attivita' direttive in settori concernenti le tecnologie alimentari in funzione dei loro riflessi nutritivi ed igienici sul prodotto finito nonche' a stimolare la ricerca in questo settore.
+
+A tale indirizzo possono essere ammessi i laureati in chimica, chimica e tecnologia farmaceutiche, farmacia, ingegneria chimica, scienze agrarie, scienze biologiche scienza delle preparazioni alimentari.
+
+Art. 137. - Il numero degli iscritti e' fissato a 10 per ogni anno di corso e per ogni indirizzo.
+
+La durata del corso per tutti e tre gli indirizzi e' di tre anni.
+
+Non sono ammesse abbreviazioni di corso, ad eccezione che per quei candidati i quali, gia' in possesso del diploma di specializzazione in scienza dell'alimentazione possono essere ammessi al terzo anno per ottenere il completamento di corso in uno dei tre indirizzi.
+
+Art. 138. - Nel primo biennio vengono impartiti gli insegnamenti comuni agli iscritti a tutti e tre gli indirizzi: gli insegnamenti si differenziano invece al terzo anno a seconda dell'indirizzo prescelto.
+
+Il piano di insegnamento della scuola risulta pertanto cosi' articolato:
+
+1° Anno:
+
+1) chimica degli alimenti;
+
+2) biochimica della nutrizione;
+
+3) fisiologia generale della nutrizione;
+
+4) istituzioni di statistica applicata ai problemi alimentari.
+
+2° Anno:
+
+1) fisiologia della nutrizione umana;
+
+2) igiene degli alimenti ed elementi di legislazione;
+
+3) istituzioni di tecnologie alimentari;
+
+4) biochimica patologica della nutrizione.
+
+3° Anno:
+
+A) Indirizzo dietetico:
+
+1) alimentazione umana;
+
+2) dietetica nell'eta' adulta;
+
+3) dietetica nell'infanzia;
+
+4) dietetica per le collettivita';
+
+5) malattie dell'alimentazione e dietoterapia;
+
+6) dietetica ospedaliera e organizzazione dei relativi
+
+servizi;
+
+B) Indirizzo nutrizionistico:
+
+1) alimentazione umana;
+
+2) alimentazione degli animali da allevamento e da lavoro;
+
+3) ecologia e geografia dell'alimentazione;
+
+4) economia e statistica applicata all'alimentazione;
+
+5) tecnica dei rilevamenti alimentari;
+
+6) analisi chimiche degli alimenti; additivi chimici; frodi
+
+alimentari;
+
+C) Indirizzo tecnologico:
+
+1) microbiologia e chimica delle fermentazioni nell'industria alimentare;
+
+2) tecnologie industriali di preparazione, conservazione e
+
+confezionamento degli alimenti di origine animale;
+
+3) tecnologie industriali di preparazione, conservazione e
+
+confezionamento degli alimenti di origine vegetale;
+
+4) analisi chimiche degli alimenti; additivi chimici; frodi
+
+alimentari.
+
+I corsi sopra indicati possono essere integrati da esercitazioni pratiche e seminari decisi dal consiglio della scuola, nonche' da conferenze su argomenti speciali (come ad esempio, psicologia dell'alimentazione, antropologia nutrizionale, organizzazione della vigilanza e del controllo sulla produzione e commercio degli alimenti e bevande).
+
+Art. 139. - Alla fine di ogni anno di corso gli iscritti che abbiano ottenuto la firma di frequenza potranno sostenere un esame di profitto sulle materie di insegnamento annuali contemplate nel piano di studio.
+
+L'esame di diploma consistera' nella discussione di una dissertazione scritta su un argomento approvato dalla direzione della scuola.
+
+Le commissioni per gli esami di profitto e per l'esame di diploma sono costituite rispettivamente da tre a cinque membri, nominati dal preside della facolta' di farmacia su proposta del direttore della scuola.
+
+Art. 140. - A coloro che hanno frequentato la scuola e superato le prove di esame prescritte verra' rilasciato un diploma di specialista valido a tutti gli effetti di legge.
+
+Art. 141. - Le tasse di immatricolazione e di iscrizione alla scuola sono le stesse dovute dagli studenti della facolta' di farmacia; la misura dei contributi di laboratorio verra' fissata dal consiglio di amministrazione, sentito il senato accademico su proposta del consiglio della scuola.
+
+Il presente decreto munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 25 maggio 1976
+
+LEONE
+
+MALFATTI
+
+Visto, il Guardasigilli: BONIFACIO
+
+Registrato
+----------
+
+alla Corte dei conti, addi' 2 ottobre 1976 Atti di Governo, registro n. 9, foglio n. 53
+
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA  
+ IL PRESIDENTE DELLA REPUBBLICA   
   
-Veduto lo statuto dell'Universita' di Perugia, approvato con [regio decreto 20 aprile 1939, n. 1107](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1107), e modificato con [regio decreto 2 ottobre 1940, n. 1471](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-02;1471), e successive modificazioni;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
-Veduto il [regio decreto-legge 20 giugno 1935, numero 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Perugia e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;  
-Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro per la pubblica istruzione;  
+Veduto lo statuto dell'Universita' di Perugia, approvato con [regio decreto 29 aprile 1939, n. 1107](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-29;1107) e modificato con [regio decreto 2 ottobre 1940, n. 1471](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-10-02;1471), e successive modificazioni;   
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);   
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;   
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);   
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;   
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Perugia e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;   
+Sentito il parere del Consiglio superiore della pubblica istruzione;   
+Sulla proposta del Ministro per la pubblica istruzione;   
   
-Decreta:  
+Decreta:   
   
-Lo statuto dell'Universita' degli studi di Perugia, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
+Lo statuto dell'Universita' degli studi di Perugia, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:   
   
-L'art. 52, relativo alle lauree rilasciate dalla facolta' di scienze matematiche, fisiche e naturali, e' modificato nel senso che nel primo e nel secondo comma dopo la parola matematica vanno aggiunte le parole "e in fisica".  
-Dopo l'art. 67, e con lo spostamento della numerazione degli articoli successivi, e' inserito il seguente nuovo articolo, relativo alla istituzione del corso di laurea in fisica:  
+Dopo l'art. 134, e con lo spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi alla scuola di specializzazione in scienza dell'alimentazione, annessa alla facolta' di farmacia.   
   
-Corso di laurea in fisica  
-Art. 68. - Il corso degli studi per la laurea in fisica si distingue in tre indirizzi:  
-1) generale;  
-2) didattico;  
-3) applicativo.  
-All'atto dell'iscrizione al terzo anno lo studente dovra' indicare l'indirizzo prescelto.  
-Sono insegnamenti fondamentali obbligatori comuni a tutti gli indirizzi per il primo biennio:  
-1) fisica generale I;  
-2) fisica generale II;  
-3) analisi matematica I;  
-4) analisi matematica II;  
-5) geometria I;  
-6) meccanica razionale;  
-7) chimica con esercitazioni di laboratorio (per fisici);  
-8) esperimentazione fisica (biennale).  
-Alla fine del primo biennio e' richiesta una prova di conoscenza di due fra le seguenti lingue: francese, inglese, russo, tedesco.  
-I corsi di fisica generale I e II, analisi matematica I e II, geometria I e di meccanica razionale sono integrati da esercitazioni (non di laboratorio). I corsi di fisica generale I e II, analisi matematica I e II non devono essere considerati corsi biennali, essi constano di due corsi distinti, l'uno propedeutico all'altro e con esami distinti.  
-Il corso di meccanica razionale deve essere distinto da quello destinato agli allievi ingegneri, e in comune con gli allievi matematici. L'insegnamento di esperimentazione fisica comporta un unico esame alla fine del primo biennio. Per ciascuno dei corsi elencati vi e' un esame finale.  
-Gli insegnamenti obbligatori per il secondo biennio sono i seguenti:  
-a) Corsi comuni ai tre indirizzi:  
-1) struttura della materia;  
-2) istituzioni di fisica teorica;  
-3) metodi matematici della fisica.  
-L'insegnamento di metodi matematici della fisica potra' essere sostituito con uno dei due seguenti insegnamenti fondamentali del corso di laurea in scienze matematiche:  
-istituzioni di analisi superiore;  
-istituzioni di fisica matematica.  
-b) Corsi per l'indirizzo didattico:  
-4)-5) complementi di fisica generale (biennale);  
-6) storia della fisica;  
-7)-8) preparazione di esperienze didattiche (biennale);  
-9) corso a scelta dello studente tra gli insegnamenti complementari attivati.  
-c) Corsi per l'indirizzo applicativo:  
-4)-5) laboratorio di fisica (biennale);  
-6)-7)-8)-9) da determinare a seconda del ramo di specializzazione.  
-d) Corsi per l'indirizzo generale:  
-4) fisica superiore;  
-5) fisica teorica;  
-6)-7) laboratorio di fisica (biennale);  
-8) corso a scelta di matematiche superiori;  
-9) corso a scelta dello studente tra gli insegnamenti complementari attivati.  
-Gli insegnamenti di cui ai numeri 6), 7), 8) e 9) dell'indirizzo applicativo verranno stabiliti dalla facolta' o proposti dallo studente e approvati dalla facolta'.  
-Gli insegnamenti complementari sono:  
-acustica;  
-algebra;  
-algebra superiore;  
-analisi funzionale;  
-analisi superiore;  
-astrofisica;  
-bioelettronica;  
-biofisica;  
-calcolatori elettronici;  
-calcolo delle probabilita';  
-chimica fisica;  
-chimica organica;  
-chimica teorica;  
-cibernetica e teoria dell'informazione;  
-complementi di fisica generale (biennale);  
-cristallografia;  
-elettroacustica;  
-elettronica;  
-elettronica applicata;  
-elettronica quantistica;  
-filosofia della scienza;  
-fisica dei plasmi;  
-fisica dei reattori;  
-fisica delle basse temperature;  
-fisica dello stato solido;  
-fisica delle particelle elementari;  
-fisica atomica;  
-fisica matematica;  
-fisica molecolare;  
-fisica nucleare;  
-fisica superiore;  
-fisica sanitaria;  
-fisica tecnica;  
-fisica teorica;  
-fisica terrestre (geofisica);  
-geofisica applicata;  
-geologia;  
-geometria differenziale;  
-geometria superiore;  
-istituzioni di analisi superiore;  
-istituzioni di fisica nucleare;  
-istituzioni di fisica matematica;  
-istituzioni di geometria superiore;  
-laboratorio di fisica (biennale);  
-linguaggi speciali di programmazione;  
-logica matematica;  
-matematiche superiori;  
-meccanica quantistica;  
-meccanica statistica;  
-meccanica superiore;  
-meteorologia;  
-mineralogia;  
-misure elettriche;  
-optoelettronica;  
-ottica;  
-pedagogia;  
-preparazione di esperienze didattiche (biennale);  
-radioattivita';  
-relativita';  
-scienze dei metalli;  
-sismologia;  
-sistemi combinatori e sequenziali;  
-spettroscopia;  
-storia della fisica;  
-tecnica della programmazione;  
-tecnica del vuoto;  
-teoria delle funzioni;  
-teoria dei sistemi;  
-teoria e metodi dell'ottimizzazione;  
-teorie quantistiche;  
-ultracustica.  
-Potranno iscriversi ai corsi comuni dei tre indirizzi del secondo biennio soltanto quegli studenti che abbiano superato gli esami di fisica generale I e II e analisi matematiche I e II.  
-Per essere ammesso all'esame di laurea lo studente dovra' aver superato gli esami relativi ad almeno diciassette insegnamenti. Il consiglio di facolta' decidera' quali insegnamenti potranno avere durata semestrale. Nel caso di scelta da parte dello studente di corsi semestrali, due di essi, pur avendo esami distinti, equivarranno ad uno annuale.  
-L'esame di laurea consistera' nella discussione di una tesi scritta il cui argomento dovra' inquadrarsi nell'indirizzo scelto dallo studente. Superato l'esame di laurea lo studente conseguira' il titolo di dottore in fisica, indipendentemente dall'indirizzo prescelto, del quale verra', peraltro, fatta menzione nella carriera scolastica.  
+Scuola di specializzazione in scienza dell'alimentazione   
+(Annessa alla facolta' di farmacia)   
+  
+Art. 135. - E' istituita presso l'istituto di scienza dell'alimentazione della facolta' di farmacia, la scuola di specializzazione in scienza dell'alimentazione.   
+Direttore della scuola e' il titolare della cattedra di scienza dell'alimentazione o in caso di vacanza della cattedra, il titolare della cattedra di chimica biologica.   
+Il consiglio della scuola e' costituito da tutti i docenti che insegnano nella scuola stessa. Gli incarichi di insegnamento nella scuola sono conferiti dal rettore su proposta del direttore della scuola.   
+Art. 136. - La scuola di specializzazione in scienza dell'alimentazione e' articolata secondo il seguente triplice indirizzo:   
+a) indirizzo dietetico;   
+b) indirizzo nutrizionistico;   
+c) indirizzo tecnologico.   
+L'indirizzo dietetico mira ad approfondire nei medici le conoscenze di base teoriche e pratiche di fondamentale importanza per la dietetica preventiva e curativa ed a stimolare, altresi', la ricerca scientifica nel vasto campo della nutrizione umana. A tale indirizzo possono iscriversi soltanto i laureati in medicina e chirurgia.   
+L'indirizzo nutrizionistico mira alla preparazione specialistica di laureati in settori concernenti lo studio dei problemi generali e speciali dell'alimentazione negli aspetti fisiologici, bio-chimici, igienici, ecologici, economico-sociali, nonche' a stimolare la ricerca scientifica nei sopra citati settori.   
+A tale indirizzo possono essere ammessi i laureati in chimica e tecnologia farmaceutiche, in farmacia, in medicina e chirurgia, in medicina veterinaria, in scienze biologiche, in scienze naturali, in scienze agrarie.   
+L'indirizzo tecnologico mira alla preparazione di laureati per le attivita' direttive in settori concernenti le tecnologie alimentari in funzione dei loro riflessi nutritivi ed igienici sul prodotto finito nonche' a stimolare la ricerca in questo settore.   
+A tale indirizzo possono essere ammessi i laureati in chimica, chimica e tecnologia farmaceutiche, farmacia, ingegneria chimica, scienze agrarie, scienze biologiche scienza delle preparazioni alimentari.   
+Art. 137. - Il numero degli iscritti e' fissato a 10 per ogni anno di corso e per ogni indirizzo.   
+La durata del corso per tutti e tre gli indirizzi e' di tre anni.  
+Non sono ammesse abbreviazioni di corso, ad eccezione che per quei candidati i quali, gia' in possesso del diploma di specializzazione in scienza dell'alimentazione possono essere ammessi al terzo anno per ottenere il completamento di corso in uno dei tre indirizzi.   
+Art. 138. - Nel primo biennio vengono impartiti gli insegnamenti comuni agli iscritti a tutti e tre gli indirizzi: gli insegnamenti si differenziano invece al terzo anno a seconda dell'indirizzo prescelto.   
+Il piano di insegnamento della scuola risulta pertanto cosi' articolato:   
+  
+1° Anno:   
+1) chimica degli alimenti;   
+2) biochimica della nutrizione;   
+3) fisiologia generale della nutrizione;   
+4) istituzioni di statistica applicata ai problemi alimentari.   
+  
+2° Anno:   
+1) fisiologia della nutrizione umana;   
+2) igiene degli alimenti ed elementi di legislazione;   
+3) istituzioni di tecnologie alimentari;   
+4) biochimica patologica della nutrizione.   
+  
+3° Anno:   
+A) Indirizzo dietetico:   
+1) alimentazione umana;   
+2) dietetica nell'eta' adulta;   
+3) dietetica nell'infanzia;   
+4) dietetica per le collettivita';   
+5) malattie dell'alimentazione e dietoterapia;   
+6) dietetica ospedaliera e organizzazione dei relativi   
+servizi;   
+B) Indirizzo nutrizionistico:   
+1) alimentazione umana;   
+2) alimentazione degli animali da allevamento e da lavoro;   
+3) ecologia e geografia dell'alimentazione;   
+4) economia e statistica applicata all'alimentazione;   
+5) tecnica dei rilevamenti alimentari;   
+6) analisi chimiche degli alimenti; additivi chimici; frodi   
+alimentari;   
+C) Indirizzo tecnologico:   
+1) microbiologia e chimica delle fermentazioni nell'industria alimentare;   
+2) tecnologie industriali di preparazione, conservazione e   
+confezionamento degli alimenti di origine animale;   
+3) tecnologie industriali di preparazione, conservazione e   
+confezionamento degli alimenti di origine vegetale;   
+4) analisi chimiche degli alimenti; additivi chimici; frodi   
+alimentari.   
+  
+I corsi sopra indicati possono essere integrati da esercitazioni pratiche e seminari decisi dal consiglio della scuola, nonche' da conferenze su argomenti speciali (come ad esempio, psicologia dell'alimentazione, antropologia nutrizionale, organizzazione della vigilanza e del controllo sulla produzione e commercio degli alimenti e bevande).   
+Art. 139. - Alla fine di ogni anno di corso gli iscritti che abbiano ottenuto la firma di frequenza potranno sostenere un esame di profitto sulle materie di insegnamento annuali contemplate nel piano di studio.   
+L'esame di diploma consistera' nella discussione di una dissertazione scritta su un argomento approvato dalla direzione della scuola.   
+Le commissioni per gli esami di profitto e per l'esame di diploma sono costituite rispettivamente da tre a cinque membri, nominati dal preside della facolta' di farmacia su proposta del direttore della scuola.   
+Art. 140. - A coloro che hanno frequentato la scuola e superato le prove di esame prescritte verra' rilasciato un diploma di specialista valido a tutti gli effetti di legge.   
+Art. 141. - Le tasse di immatricolazione e di iscrizione alla scuola sono le stesse dovute dagli studenti della facolta' di farmacia; la misura dei contributi di laboratorio verra' fissata dal consiglio di amministrazione, sentito il senato accademico su proposta del consiglio della scuola.   
   
 
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Il presente decreto munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 31 ottobre 1977
+### Dato a Roma, addi' 25 maggio 1976
 
 LEONE MALFATTI
 
 Visto, il Guardasigilli: BONIFACIO
 
-Registrato alla Corte dei conti, addi' 25 febbraio 1978
+Registrato alla Corte dei conti, addi' 2 ottobre 1976
 
-Registro n. 22 Istruzione, foglio n. 177
+Atti di Governo, registro n. 9, foglio n. 53

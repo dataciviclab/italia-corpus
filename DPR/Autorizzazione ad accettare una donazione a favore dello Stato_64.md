@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 ottobre 1975 n. 747
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 febbraio 1984 n. 472
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 ottobre 1975 n. 747
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 febbraio 1984 n. 472
+===============================================================
 
 Autorizzazione ad accettare una donazione a favore dello Stato.
 ---------------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-747. Decreto del Presidente della Repubblica 30 ottobre 1975, col quale, sulla proposta del Ministro per i beni culturali e ambientali, viene autorizzata l'accettazione di una donazione, consistente nell'opera di Vincenzo Gemito "Ritratto del pittore Francesco Paolo Michetti" 1873 (scultura in terracotta alta cm 44), disposta a favore dello Stato dalla signora Paola Ojetti con atto in data 15 febbraio 1974, numero 36962/6730 di repertorio, a rogito dott. Achille de Martino, notaio in Roma, da destinare alla galleria nazionale d'arte moderna di Roma.  
+472. Decreto del Presidente della Repubblica 27 febbraio 1984, col quale, sulla proposta del Ministro per i beni culturali ed ambientali, il Ministero omonimo - Ufficio centrale per i beni librari e gli istituti culturali, viene autorizzato ad accettare la donazione, consistente in circa tremila volumi, nonche' di circa sei raccolte di periodici, del valore complessivo di L. 1.000.000, disposta dalla sig.ra Renata Lidia Arcuno con atto 15 settembre 1980, n. 16857 di repertorio, a rogito dott. Ugo de Cesare, notaio in Napoli.  
   
-Visto, il Guardasigilli: REALE  
-Registrato alla Corte dei conti, addi' 18 dicembre 1975  
-Atti di Governo, registro n. 15, foglio n. 52
+Visto, il Guardasigilli: MARTINAZZOLI  
+Registrato alla Corte dei conti, addi' 30 luglio 1984  
+Registro n. 28 Beni culturali, foglio n. 65

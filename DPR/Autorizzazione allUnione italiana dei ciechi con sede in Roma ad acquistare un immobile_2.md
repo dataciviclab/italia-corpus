@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 20 novembre 1970 n. 1177
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 febbraio 1970 n. 355
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 20 novembre 1970 n. 1177
-================================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 05 febbraio 1970 n. 355
+===============================================================
 
 Autorizzazione all'Unione italiana dei ciechi, con sede in Roma, ad acquistare un immobile.
 -------------------------------------------------------------------------------------------
@@ -12,8 +12,8 @@ Art. 1
 
 N.
 
-1177. Decreto del Presidente della Repubblica 20 novembre 1970, col quale, sulla proposta del Presidente del Consiglio dei Ministri, l'Unione italiana dei ciechi, con sede centrale in Roma, viene autorizzata ad acquistare al complessivo convenuto prezzo di lire 14.000.000, dalla sig.ra Ornella Dejak in Bobisutti (Bobisut), un appartamento di vani sette ed accessori al 2° piano del fabbricato sito in Trieste, via Battisti n. 2.  
+355. Decreto del Presidente della Repubblica 5 febbraio 1970, col quale, sulla proposta del Presidente del Consiglio dei Ministri, l'Unione italiana dei ciechi, con sede in Roma, viene autorizzata ad acquistare dal dott. ing. Mazzocchi la proprieta' piena ed esclusiva della porzione del fabbricato urbano sito in Bergamo, in via Panseri n. 15, contraddistinto in catasto con i numeri 4774/3930/ c sub 26 del comune di Bergamo, sezione censuaria di Boccaleone, consistente in un appartamento posto al piano terreno, composto di quattro vani piu' un bagno e due disimpegni; con la comproprieta' delle pertinenze condominiali e con l'onere della partecipazione proporzionale al pagamento delle spese di manutenzione ed esercizio dei luoghi ed impianti di uso e servizi comuni.  
   
-Visto, il Guardasigilli: REALE  
-Registrato alla Corte dei conti, addi' 9 gennaio 1971  
-Atti del Governo, registro n. 240, foglio n. 8. - CARUSO
+Visto, il Guardasigilli: GAVA  
+Registrato alla Corte dei conti, addi' 8 giugno 1970  
+Atti del Governo, registro n. 236, foglio n. 20. - CARUSO

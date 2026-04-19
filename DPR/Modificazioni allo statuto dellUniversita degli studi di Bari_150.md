@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 ottobre 1960 n. 1502
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1980 n. 936
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 ottobre 1960 n. 1502
-===============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1980 n. 936
+==============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Bari.
 ----------------------------------------------------------------
@@ -10,9 +10,9 @@ Modificazioni allo statuto dell'Universita' degli studi di Bari.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' degli studi di Bari, approvato con [regio decreto 14 ottobre 1926, n. 2134](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2134), modificato con [regio decreto 13 ottobre 1927, n. 2169](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2169), e successivi;
+Veduto lo statuto dell'Universita' di Bari, approvato con [regio decreto 14 ottobre 1926, n. 2134](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2134) e modificato con [regio decreto 13 ottobre 1927, n. 2169](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2169), e successive modificazioni;
 
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592):
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
 
@@ -20,156 +20,76 @@ Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/ur
 
 Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
 
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Bari e convalidati dal Consiglio universitario nazionale nel suo parere;
 
-Sentito il parere del Consiglio superiore della pubblica istruzione;
+Sentito il parere del Consiglio universitario nazionale;
 
-Sulla proposta del Ministro per la pubblica istruzione:
+Sulla proposta del Ministro della pubblica istruzione;
 
 Decreta:
+--------
 
 Lo statuto dell'Universita' degli studi di Bari, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
-
-Art. 9. - Agli insegnamenti complementari del corso di laurea in Scienze politiche sono aggiunti quelli di:
-
-"Diritto tributario";
-
-"Organizzazione internazionale".
-
-Art. 52. - Agli insegnamenti complementari del corso di laurea in lettere e' aggiunto quello di "Letteratura anglo-americana".
-
-Art. 127. - All'elenco delle Scuole di specializzazione annesse alla Facolta' di medicina e chirurgia e' aggiunta quella di "Anestesiologia".
-
-Dopo l'art. 171 sono aggiunti i seguenti nuovi articoli relativi alla istituzione della Scuola in specializzazione di anestesiologia.
-
-Scuola di specializzazione in anestesiologia
-
-Art. 172. - La Scuola si propone di far perfezionare gli aspiranti allo studio ed alla pratica dell'anestesiologia.
-
-La Scuola e' sotto la direzione del direttore dell'Istituto di patologia speciale chirurgica, ed e' affidata per l'insegnamento delle materie specifiche e per la parte tecnica ad un docente di anestesiologia, capo del servizio di anestesiologia dell'istituto, e disporra' dei reparti clinici, dei laboratori e delle attrezzature dell'Istituto stesso, ed eventualmente potra' utilizzare i reparti clinici e le attrezzature di altri istituti.
-
-Art. 173. - Alla Scuola potranno essere ammessi i laureati in medicina e chirurgia, che abbiano conseguito la laurea da non oltre quattro anni e che, dopo la laurea, abbiano svolto un internato di almeno un anno in un reparto medico o chirurgico.
-
-La selezione degli aspiranti ai fini dell'ammissione sara' fatta dal direttore della Scuola, che provvedera' alla loro valutazione in base ai titoli di studio ed eventualmente, per mezzo di esami.
-
-Le decisioni al riguardo adottate dalla Direzione saranno approvate dal Consiglio di Facolta'.
-
-Non saranno concesse abbreviazioni di corso, fatta eccezione per gli assistenti in carica presso gli Istituti di chirurgia della Facolta'.
-
-Art. 174. - La durata della Scuola e' di due anni.
-
-Il numero massimo degli iscritti sara' di dieci per anno di corso.
-
-Gli iscritti saranno tenuti a prestare regolare e continuato servizio di internato presso l'Istituto per tutta la, durata dei corsi.
-
-Art. 175. - Le materie d'insegnamento sono le seguenti:
-
-1° anno:
-
-1) Fondamenti di anatomia d'interesse anestesiologico;
-
-2) Fondamenti di fisiologia applicata all'anestesiologia;
-
-3) Chimica e farmacologia degli anestetici e delle sostanze coadiuvanti;
-
-4) Anestesiologia, parte generale;
-
-5) Rianimazione.
-
-2° anno:
-
-1) Anestesiologia, parte speciale.
-
-Tali insegnamenti saranno integrati da esercitazioni pratiche di tecnica anestesiologica e di rianimazione.
-
-Art. 176. - Al termine di ciascun anno di corso gli allievi dovranno superare un esame unico sulle materie di insegnamento.
-
-Al termine del secondo corso gli allievi, dovranno inoltre superare un esame di diploma, consistente nella discussione di una tesi scritta su argomento attinente all'anestesiologia, proposta dal direttore della Scuola.
-
-Il presente decreto, munito del sigillo dello stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
-
-Dato a Roma, addi' 19 ottobre 1960
-
-GRONCHI
-
-BOSCO
-
-Visto, il Guardasigilli: GONELLA
-
-Registrato
-----------
-
-alla Corte dei conti, addi' 28 novembre 1960 Atti del Governo, registro n. 131, foglio n. 100. - VILLA
 
 Art. 1
 ------
 
- IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Bari, approvato con [regio decreto 14 ottobre 1926, n. 2134](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2134), modificato con [regio decreto 13 ottobre 1927, n. 2169](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2169), e successivi;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592):  
+L'art. 112 e' modificato nel senso che alla facolta' di ingegneria e aggiunto il corso di laurea in ingegneria elettronica.  
+
+Art. 2
+------
+
   
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
-Sentito il parere del Consiglio superiore della pubblica istruzione;  
-Sulla proposta del Ministro per la pubblica istruzione:  
+L'art. 115, relativo al biennio propedeutico, e' modificato nel senso che prima del secondo comma e' aggiunta la seguente frase: per il corso di laurea in ingegneria elettronica:  
+9) Tecnologie generali dei materiali.  
+Inoltre, nel secondo comma, e' aggiunta la frase: per il corso di laurea in ingegneria elettronica:  
+10) Calcolo numerico.  
+Dopo l'art. 120, e con il conseguente spostamento della numerazione degli articoli successivi, e' aggiunto il seguente articolo relativo alla istituzione del corso di laurea in ingegneria elettronica:  
+Ingegneria elettronica  
   
-Decreta:  
+Art. 121. - Gli insegnamenti per il conseguimento della laurea in ingegneria elettronica sono i seguenti:  
+A) Obbligatori sul piano nazionale:  
+scienza delle costruzioni;  
+meccanica delle macchine e macchine;  
+fisica tecnica;  
+elettrotecnica;  
+campi elettromagnetici e circuiti;  
+misure elettriche;  
+comunicazioni elettriche;  
+elettronica applicata;  
+controlli automatici;  
+radiotecnica.  
+Obbligatori sul piano della facolta':  
+calcolo numerico (anticipato al biennio);  
+complementi di matematica;  
+complementi di elettrotecnica;  
+elementi di calcolatori e tecniche operative;  
+misure elettroniche.  
+Sei insegnamenti a scelta tratti dall'elenco seguente:  
+antenne e propagazione;  
+componenti elettronici;  
+controllo di processi industriali;  
+elettronica digitale;  
+materiali per l'elettronica;  
+microonde;  
+tecnologie elettroniche;  
+telegrafia, telefonia e telesegnalazioni;  
+teoria dei sistemi;  
+teoria dell'informazione.  
   
-Lo statuto dell'Universita' degli studi di Bari, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-  
-Art. 9. - Agli insegnamenti complementari del corso di laurea in Scienze politiche sono aggiunti quelli di:  
-"Diritto tributario";  
-"Organizzazione internazionale".  
-  
-Art. 52. - Agli insegnamenti complementari del corso di laurea in lettere e' aggiunto quello di "Letteratura anglo-americana".  
-  
-Art. 127. - All'elenco delle Scuole di specializzazione annesse alla Facolta' di medicina e chirurgia e' aggiunta quella di "Anestesiologia".  
-Dopo l'art. 171 sono aggiunti i seguenti nuovi articoli relativi alla istituzione della Scuola in specializzazione di anestesiologia.  
-  
-Scuola di specializzazione in anestesiologia  
-  
-Art. 172. - La Scuola si propone di far perfezionare gli aspiranti allo studio ed alla pratica dell'anestesiologia.  
-La Scuola e' sotto la direzione del direttore dell'Istituto di patologia speciale chirurgica, ed e' affidata per l'insegnamento delle materie specifiche e per la parte tecnica ad un docente di anestesiologia, capo del servizio di anestesiologia dell'istituto, e disporra' dei reparti clinici, dei laboratori e delle attrezzature dell'Istituto stesso, ed eventualmente potra' utilizzare i reparti clinici e le attrezzature di altri istituti.  
-  
-Art. 173. - Alla Scuola potranno essere ammessi i laureati in medicina e chirurgia, che abbiano conseguito la laurea da non oltre quattro anni e che, dopo la laurea, abbiano svolto un internato di almeno un anno in un reparto medico o chirurgico.  
-La selezione degli aspiranti ai fini dell'ammissione sara' fatta dal direttore della Scuola, che provvedera' alla loro valutazione in base ai titoli di studio ed eventualmente, per mezzo di esami.  
-Le decisioni al riguardo adottate dalla Direzione saranno approvate dal Consiglio di Facolta'.  
-Non saranno concesse abbreviazioni di corso, fatta eccezione per gli assistenti in carica presso gli Istituti di chirurgia della Facolta'.  
-  
-Art. 174. - La durata della Scuola e' di due anni.  
-Il numero massimo degli iscritti sara' di dieci per anno di corso.  
-Gli iscritti saranno tenuti a prestare regolare e continuato servizio di internato presso l'Istituto per tutta la, durata dei corsi.  
-  
-Art. 175. - Le materie d'insegnamento sono le seguenti:  
-  
-1° anno:  
-1) Fondamenti di anatomia d'interesse anestesiologico;  
-2) Fondamenti di fisiologia applicata all'anestesiologia;  
-3) Chimica e farmacologia degli anestetici e delle sostanze coadiuvanti;  
-4) Anestesiologia, parte generale;  
-5) Rianimazione.  
-  
-2° anno:  
-1) Anestesiologia, parte speciale.  
-  
-Tali insegnamenti saranno integrati da esercitazioni pratiche di tecnica anestesiologica e di rianimazione.  
-  
-Art. 176. - Al termine di ciascun anno di corso gli allievi dovranno superare un esame unico sulle materie di insegnamento.  
-Al termine del secondo corso gli allievi, dovranno inoltre superare un esame di diploma, consistente nella discussione di una tesi scritta su argomento attinente all'anestesiologia, proposta dal direttore della Scuola.  
-  
-Il presente decreto, munito del sigillo dello stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.  
-  
-Dato a Roma, addi' 19 ottobre 1960  
-  
-GRONCHI  
-  
-BOSCO   
-Visto, il Guardasigilli: GONELLA  
-Registrato alla Corte dei conti, addi' 28 novembre 1960  
-Atti del Governo, registro n. 131, foglio n. 100. - VILLA  
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+### Dato a Roma, addi' 31 ottobre 1980
+
+PERTINI BODRATO
+
+Visto, il Guardasigilli: SARTI
+
+Registrato alla Corte dei conti, addi' 30 dicembre 1980
+
+Registro n. 122 Istruzione, foglio n. 36

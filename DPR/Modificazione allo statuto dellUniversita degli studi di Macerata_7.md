@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 maggio 1983 n. 416
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 17 maggio 1986 n. 602
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 maggio 1983 n. 416
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 17 maggio 1986 n. 602
 =============================================================
 
 Modificazione allo statuto dell'Universita' degli studi di Macerata.
@@ -39,19 +39,22 @@ Articolo unico
 --------------
 
   
-Nell'art. 11, relativo al corso di laurea in giurisprudenza, all'elenco degli insegnamenti complementari e' aggiunto il seguente nuovo insegnamento:  
-tossicologia forense.  
+  
+Nell'art. 37, relativo al corso di laurea in lettere, all'elenco degli insegnamenti complementari e' aggiunto il seguente nuovo insegnamento:   
+archeologia delle province romane.   
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 4 maggio 1983
+### Dato a Roma, addi' 17 maggio 1986
 
-PERTINI FALCUCCI
+COSSIGA
 
-Visto, il Guardasigilli: DARIDA
+FALCUCCI, Ministro della pubblica istruzione
 
-Registrato alla Corte dei conti, addi' 17 agosto 1983
+Visto, il Guardasigilli: MARTINAZZOLI
 
-Registro n. 59 Istruzione, foglio n. 124
+Registrato alla Corte dei conti, addi' 17 settembre 1986
+
+Registro n. 71 Istruzione, foglio n. 194

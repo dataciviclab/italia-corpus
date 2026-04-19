@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 novembre 1954 n. 1330
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 24 dicembre 1954 n. 1509
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 novembre 1954 n. 1330
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 24 dicembre 1954 n. 1509
 ================================================================
 
 Autorizzazione allo statale Istituto tecnico industriale "A. Rossi" di Vicenza ad accettare una donazione.
@@ -12,9 +12,8 @@ Art. 1
 
 N.
 
-1330. Decreto del Presidente della Repubblica 30 novembre 1954, col quale, sulla proposta del Ministro per la pubblica istruzione, lo statale Istituto tecnico industriale "A. Rossi" di Vicenza viene autorizzato ad accettare la donazione di nominali lire 100.000, in titoli di Stato, disposta al fine di istituire, col relativo reddito, due premi di studio annuali, intitolati al nome del dott.  
-ing. Franco Rossi.  
+1509. Decreto del Presidente della Repubblica 24 dicembre 1954, col quale, sulla proposta del Ministro per la pubblica istruzione, lo statale Istituto tecnico industriale "A. Rossi" di Vicenza viene autorizzato ad accettare la donazione di nominali L. 800.000 in titoli di Stato, disposta a favore dell'Istituto stesso al fine di istituire, col relativo reddito, una borsa di studio annuale intitolata "Ex allievi Istituto tecnico industriale "A. Rossi" di Vicenza - 1878-1953".  
   
 Visto, il Guardasigilli: DE PIETRO  
-Registrato alla Corte dei conti, addi' 26 gennaio 1955  
-Atti del Governo, registro n. 88, foglio n. 94. - CARLOMAGNO
+Registrato alla Corte dei conti, addi' 21 marzo 1955  
+Atti del Governo, registro n. 89, foglio n. 127. - CARLOMAGNO

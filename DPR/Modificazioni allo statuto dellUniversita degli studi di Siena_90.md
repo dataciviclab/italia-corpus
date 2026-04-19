@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 maggio 1982 n. 634
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 marzo 1980 n. 372
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 maggio 1982 n. 634
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 27 marzo 1980 n. 372
+============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Siena.
 -----------------------------------------------------------------
@@ -10,162 +10,94 @@ Modificazioni allo statuto dell'Universita' degli studi di Siena.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' di Siena, approvato con [regio decreto 13 ottobre 1927, n. 2831](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2831), e modificato con [regio decreto 31 ottobre 1929, n. 2395](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1929-10-31;2395), e successive modificazioni;
+Veduto lo statuto dell'Universita' di Siena, approvato con [regio decreto 13 ottobre 1927, n. 2831](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2831) e modificato con [regio decreto 31 ottobre 1929, n. 2395](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1929-10-31;2395), e successive modificazioni;
 
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
 
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
 
-Veduto il [decreto-legge 26 novembre 1981, n. 677](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1981-11-26;677), convertito in [legge 26 gennaio 1982, n. 11](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1982-01-26;11);
+Veduta la [legge 22 maggio 1978, n. 217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-05-22;217);
 
 Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Siena e convalidati dal Consiglio universitario nazionale nel suo parere;
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Siena e convalidati dal Consiglio universitario nazionale nel suo parere;
 
 Sentito il parere del Consiglio universitario nazionale;
+
+Veduto il [parere della sezione prima del Consiglio di Stato n. 1902/74 del 14 febbraio 1975](https://e-justice.europa.eu/ecli/ECLI::::);
+
+Considerato che non appare opportuno, al momento, procedere ad una generale revisione delle norme statutarie di tutti gli Atenei relative alla direzione delle scuole di specializzazione e perfezionamento e degli istituti nonche' delle scuole dirette a fini speciali, attualmente affidata esclusivamente ai professori di ruolo o fuori ruolo, in attesa del provvedimento relativo allo stato giuridico del personale docente;
 
 Sulla
 -----
 
 proposta del Ministro della pubblica istruzione; Decreta:
 
-Art. 1
-------
+Articolo unico
+--------------
 
   
 Lo statuto dell'Universita' di Siena, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-L'art. 222, relativo alle tasse e soprattasse per l'iscrizione alle scuole di specializzazione in medicina e chirurgia, e' abrogato e sostituito dal seguente:  
-Art. 222. - Le tasse per le iscrizioni ai corsi e i contributi per le esercitazioni pratiche sono stabilite, per tutte le scuole, come segue:  
-tassa di immatricolazione (primo anno) L. 12.000;  
-tassa di iscrizione (ogni anno) L. 200.000;  
-soprattassa esami (ogni anno) L. 16.000;  
-contributi di laboratorio (ogni anno) L. 14.000;  
-soprattassa per esame di diploma (ultimo anno) L. 20.000;  
-tassa di trasferimento per altra sede L. 10.000;  
-tassa registrazione congedi provenienti da altra sede L. 2.000;  
-rilascio diploma originale per il valore dello speciale stampato e delle spese inerenti alla compilazione da parte del calligrafo L. 6.000;  
-tassa erariale di diploma L. 50.000.  
-
-Art. 2
-------
-
   
-L'ultimo comma dell'art. 228, relativo alle tasse e soprattasse della scuola di specializzazione in ginecologia e ostetricia, e' soppresso.  
-
-Art. 3
-------
-
+Dopo l'art. 193, e con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi alla istituzione della scuola di specializzazione in medicina interna.  
   
-L'ultimo comma dell'art. 231, relativo alle tasse e soprattasse della scuola di specializzazione in urologia, e' soppresso.  
-
-Art. 4
-------
-
+Scuola di specializzazione in medicina interna  
   
-L'ultimo comma dell'art. 238, relativo alle tasse e soprattasse della scuola di specializzazione in pediatria, e' soppresso.  
-
-Art. 5
-------
-
+Art. 194. - La scuola di specializzazione in medicina interna ha sede presso l'istituto di patologia speciale medica e metodologia clinica e conferisce il diploma di specialista in medicina interna.  
+Art. 195. - La direzione della scuola e' affidata al professore di ruolo o fuori ruolo della stessa materia della specializzazione o, in mancanza, ad un professore di ruolo o fuori ruolo di materia affine.  
+Art. 196. - Possono iscriversi alla scuola di specializzazione i laureati in medicina e chirurgia. E' richiesto, almeno per l'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale rilasciato dalle autorita' competenti.  
+Art. 197. - Il corso di specializzazione ha la durata di cinque anni, non e' suscettibile di abbreviazione e prevede l'insegnamento di tutte le branche della medicina interna.  
+Art. 198. - Il numero degli allievi per ogni anno di corso e' di sei e, complessivamente, di trenta iscritti per l'intero corso di studi.  
+Art. 199. - L'ammissione al corso avviene per titoli ed esami.  
+Art. 200. - Le materie di insegnamento sono le seguenti:  
+1° Anno:  
+1) malattie infettive, disreattive e del sangue;  
+2) istituzioni di terapia;  
+3) anatomia ed istologia patologica (biennale) I;  
+4) clinica medica generale e terapia medica (quinquennale) I.  
+2° Anno:  
+1) malattie dell'apparato cardiovascolare;  
+2) microbiologia e sierologia;  
+3) chimica clinica;  
+4) anatomia ed istologia patologica (biennale) II;  
+5) clinica medica generale e terapia medica (quinquennale) II. 3° Anno:  
+1) malattie dell'apparato digerente;  
+2) malattie renali;  
+3) clinica medica generale e terapia medica (quinquennale) III. 4° Anno:  
+1) malattie dell'apparato respiratorio;  
+2) malattie del sistema nervoso;  
+3) clinica medica generale e terapia medica (quinquennale) IV. 5° Anno:  
+1) malattie del ricambio;  
+2) malattie delle ghiandole endocrine;  
+3) clinica medica generale e terapia medica (quinquennale) V.  
+Gli insegnamenti fondamentali possono essere integrati, a giudizio del consiglio della scuola, da almeno tre insegnamenti scelti tra i seguenti:  
+Insegnamenti complementari:  
+parassitologia medica;  
+genetica medica;  
+semeiotica dermatologica;  
+radiologia;  
+semeiotica oculistica;  
+semeiotica ginecologica.  
+Art. 201. - Il corso si compone di lezioni, esercitazioni pratiche nei reparti ai fini di apprendimento, di conferenze e di turni in corsia.  
+La partecipazione alle lezioni, alle esercitazioni pratiche nei reparti ai fini di apprendimento, alle conferenze ed ai turni in corsia e' obbligatoria. In caso contrario, i candidati non possono ottenere l'attestazione di frequenza necessaria per l'ammissione agli esami.  
+Art. 202. - Alla fine di ogni anno di corso, gli specializzandi, in regola con la firma di frequenza, devono sostenere un esame di profitto, su ognuna delle materie di insegnamento. Il superamento di tutti gli esami e' condizione indispensabile per l'ammissione all'anno successivo e, per coloro che frequentano l'ultimo anno della scuola, per essere ammessi all'esame di diploma.  
+Art. 203. - Per gli specializzandi che hanno superato tutti gli esami dei cinque anni di corso e' previsto, alla fine dell'ultimo, l'esame di diploma che consiste nella presentazione di una dissertazione scritta su di un argomento di medicina interna.  
+L'argomento della sopradetta dissertazione deve essere preventivamente concordato con il direttore della scuola.  
+Art. 204. - Le tasse, soprattasse e contributi della scuola di specializzazione in medicina interna sono cosi' fissate:  
   
-L'ultimo comma dell'art. 241, relativo alle tasse e soprattasse della scuola di specializzazione in cardiologia, e' soppresso.  
-
-Art. 6
-------
-
-  
-L'ultimo comma dell'art. 242, relativo alle tasse e soprattasse della scuola di specializzazione in anestesia e rianimazione, e' soppresso.  
-
-Art. 7
-------
-
-  
-L'ultimo comma dell'art. 263, relativo alle tasse e soprattasse della scuola di specializzazione in malattie infettive, e' soppresso.
-
-Art. 8
-------
-
-  
-L'ultimo comma dell'art. 266, relativo alle tasse e soprattasse della scuola di specializzazione in igiene e medicina preventiva, e' soppresso.  
-
-Art. 9
-------
-
-  
-L'art. 276, relativo alle tasse e soprattasse della scuola di specializzazione in chirurgia dell'apparato digerente ed endoscopia digestiva, e' soppresso.  
-
-Art. 10
--------
-
-  
-L'art. 283, relativo alle tasse e soprattasse della scuola di specializzazione in tisiologia e malattie dell'apparato respiratorio, e' soppresso.  
-
-Art. 11
--------
-
-  
-L'ultimo comma dell'art. 286, relativo alle tasse e soprattasse della scuola di specializzazione in odontostomatologia, e' soppresso.
-
-Art. 12
--------
-
-  
-L'art. 292, relativo alle tasse e soprattasse della scuola di specializzazione in chirurgia d'urgenza e pronto soccorso, e' soppresso.  
-
-Art. 13
--------
-
-  
-L'art. 298, relativo alle tasse e soprattasse della scuola di specializzazione in psichiatria, e' soppresso.  
-
-Art. 14
--------
-
-  
-L'art. 305, relativo alle tasse e soprattasse della scuola di specializzazione in chirurgia, e' soppresso.  
-
-Art. 15
--------
-
-  
-L'art. 320, relativo alle tasse e soprattasse della scuola di specializzazione in psicologia, e' soppresso.  
-
-Art. 16
--------
-
-  
-L'art. 335, relativo alle tasse e soprattasse della scuola di specializzazione in chirurgia toracica, e' soppresso.  
-
-Art. 17
--------
-
-  
-L'art. 341, relativo alle tasse e soprattasse della scuola di specializzazione in medicina dello sport, e' soppresso.  
-
-Art. 18
--------
-
-  
-L'art. 351, relativo alle tasse e soprattasse della scuola di specializzazione in anatomia patologica, e' soppresso.  
-
-Art. 19
--------
-
-  
-L'art. 362, relativo alle tasse e soprattasse della scuola di specializzazione in medicina interna, e' soppresso.  
-  
+immatricolazione. . . . . . . . . . . . . . . . . . . . L. 12.000 tassa annuale d'iscrizione . . . . . . . . . . . . . . L. 200.000 soprattassa annuale d'esame . . . . . . . . . . . . . . L. 16.000 contributi annui di laboratorio . . . . . . . . . . . . L. 14.000 tassa di diploma . . . . . . . . . . . . . . . . . . . . L. 6.000   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 14 maggio 1982
+### Dato a Roma, addi' 27 marzo 1980
 
-PERTINI BODRATO
+PERTINI VALITUTTI
 
-Visto, il Guardasigilli: DARIDA
+Visto, il Guardasigilli: MORLINO
 
-Registrato alla Corte dei conti, addi' 31 agosto 1982
+Registrato alla Corte dei conti, addi' 17 luglio 1980
 
-Registro n. 104 Istruzione, foglio n. 154
+Registro n. 68 Istruzione, foglio n. 192

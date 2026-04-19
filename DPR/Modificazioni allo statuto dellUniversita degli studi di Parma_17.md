@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 ottobre 1970 n. 1157
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 ottobre 1960 n. 1533
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 ottobre 1970 n. 1157
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 19 ottobre 1960 n. 1533
 ===============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Parma.
@@ -10,17 +10,15 @@ Modificazioni allo statuto dell'Universita' degli studi di Parma.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' degli studi di Parma, approvato con [regio decreto 13 ottobre 1927, n. 2797](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2797) e modificato con [regio decreto 30 ottobre 1930, n. 1772](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-30;1772), e successive modificazioni;
+Veduto lo statuto dell'Universita' degli studi di Parma, approvato con [regio decreto 13 ottobre 1927, numero 2797](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2797), modificato con [regio decreto 30 ottobre 1930, n. 1772](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-30;1772), e successivi;
 
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
 
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
 
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
-
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
 Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
 
@@ -32,80 +30,95 @@ Decreta:
 
 Lo statuto dell'Universita' degli studi di Parma, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
 
-Art. 95. - All'elenco degli insegnamenti complementari del corso di laurea in scienze naturali e' aggiunto il seguente:
+Art. 61, relativo alla Scuola di paleografia musicale, e' sostituito dal seguente:
 
-Radioecologia.
+"Il Consiglio della Scuola e' composto dai professori della Scuola stessa e dagli incaricati che vi tengono insegnamenti essendo professori di ruolo delle Facolta' della stessa Universita' o in altre Universita'".
 
-Art. 96, relativo alle propedeuticita' del corso di laurea in scienze naturali e' abrogato e sostituito dal seguente:
+Dopo l'art. 143, sono aggiunti i seguenti nuovi articoli, relativi alla istituzione della Scuola di specializzazione in endocrinologia e malattie del ricambio, con il conseguente spostamento della numerazione degli articoli successivi.
 
-"Gli insegnamenti biennali di botanica e di zoologia comprendono tanto la parte generale quanto la parte sistematica.
+Scuola di specializzazione in endocrinologia e malattie del ricambio
 
-L'insegnamento di zoologia importa due esami distinti, relativi ai due anni di insegnamento.
+Art. 144. - E' istituita la Scuola di specializzazione in endocrinologia e malattie del ricambio, che ha sede presso l'Istituto di patologia speciale medica e metodologia clinica della Facolta' di medicina e chirurgia.
 
-L'insegnamento di chimica generale ed inorganica e chimica organica devono precedere gli esami di zoologia e fisiologia generale.
+Art. 145. - Sono ammessi i laureati in medicina e chirurgia.
 
-L'esame di chimica generale ed inorganica deve precedere l'esame di mineralogia.
+Art. 146. L'iscrizione alla Scuola e' limitata, per ogni anno accademico, a dodici allievi.
 
-L'esame di zoologia deve precedere l'esame di anatomia comparata.
+Art. 147. - La Scuola ha la durata di due anni.
 
-L'esame di mineralogia deve precedere gli esami di geologia e di petrografia.
+Art. 148. - Le materie di insegnamento sono:
 
-Gli esami di anatomia umana e di anatomia comparata devono precedere gli esami di fisiologia generale e di chimica biologica.
+1° anno:
 
-Gli esami di zoologia e di botanica devono precedere gli esami di paleontologia.
+1) Anatomia delle ghiandole endocrine;
 
-L'esame di fisica deve precedere l'esame di fisica terrestre e climatologia.
+2) Fisiologia delle ghiandole endocrine;
 
-L'esame di botanica deve precedere quello di fisiologia vegetale".
+3) Fisiologia dell'alimentazione e del ricambio;
 
-Art. 103. - All'elenco degli insegnamenti complementari del corso di laurea in scienze biologiche e' aggiunto il seguente:
+4) Chimica biologica;
 
-Radioecologia.
+5) Tecniche di laboratorio;
 
-Art. 104, relativo alle propedeuticita' del corso di laurea in scienze biologiche e' abrogato e sostituito dal seguente:
+6) Fisiopatologia endocrina;
 
-"Gli insegnamenti biennali di botanica e di zoologia comprendono tanto la parte generale quanto la parte sistematica.
+7) Fisiopatologia delle ghiandole sessuali;
 
-L'insegnamento di zoologia importa due esami distinti, relativi ai due anni di insegnamento.
+8) Anatomia patologica delle malattie endocrine e metaboliche;
 
-Per le precedenze nell'ordine degli esami valgono le norme di cui all'art. 96, fatta eccezione per le materie di "mineralogia", "petrografia", e "fisica terrestre e climatologia"".
+9) Patologia e clinica delle malattie endocrine;
 
-Art. 108. - All'elenco degli insegnamenti complementari del corso di laurea in scienze geologiche sono aggiunti i seguenti:
+10) Patologia e clinica delle malattie del ricambio;
 
-Geologia del quaternario;
+11) Genetica (eredo-patologica-dismetabolica).
 
-Petrografia del sedimentario;
+2° anno:
 
-Geomorfologia applicata;
+1) Clinica delle malattie endocrine;
 
-Geologia marina.
+2) Endocrinologia clinica ginecologica;
+
+3) Clinica delle malattie del ricambio;
+
+4) Terapia delle malattie endocrine;
+
+5) Terapia delle malattie del ricambio;
+
+6) Radiodiagnostica e radioterapia.
+
+Art. 149. - Le lezioni, le dimostrazioni e le esercitazioni si svolgeranno presso l'Istituto di patologia medica, in conformita' dell'orario, che al principio dell'anno verra' stabilito dal direttore della Scuola.
+
+Art. 150. - Al termine di ciascun anno di corso, gli allievi che abbiano regolarmente frequentato, dovranno superare un esame di profitto teorico-pratico.
+
+Art. 151. - Al termine del biennio, per il conseguimento del diploma di specializzazione, gli allievi dovranno sostenere la discussione di un caso clinico e La discussione di una tesi scritta sopra un argomento riguardante l'endocrinologia e le malattie del ricambio.
+
+Art. 152. - Durante i due anni del corso gli allievi dovranno frequentare assiduamente, a turno, i reparti di degenza, i laboratori e gli ambulatori dell'Istituto di patologia medica.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 
-Dato a Roma, addi' 30 ottobre 1970
+Dato a Roma, addi' 19 ottobre 1960
 
-SARAGAT
+GRONCHI
 
-MISASI
+BOSCO
 
-Visto, il Guardasigilli: REALE
+Visto, il Guardasigilli: GONELLA
 
 Registrato
 ----------
 
-alla Corte dei conti, addi' 9 gennaio 1971 Atti del Governo, registro n. 240, foglio n. 15. - CARUSO
+alla Corte dei conti, addi' 17 dicembre 1960 Atti del Governo, registro n. 132, foglio n. 88. - VILLA
 
 Art. 1
 ------
 
  IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Parma, approvato con [regio decreto 13 ottobre 1927, n. 2797](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2797) e modificato con [regio decreto 30 ottobre 1930, n. 1772](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-30;1772), e successive modificazioni;  
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto lo statuto dell'Universita' degli studi di Parma, approvato con [regio decreto 13 ottobre 1927, numero 2797](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2797), modificato con [regio decreto 30 ottobre 1930, n. 1772](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-30;1772), e successivi;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
 Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
 Sentito il parere del Consiglio superiore della pubblica istruzione;  
 Sulla proposta del Ministro per la pubblica istruzione;  
@@ -113,42 +126,49 @@ Sulla proposta del Ministro per la pubblica istruzione;
 Decreta:  
   
 Lo statuto dell'Universita' degli studi di Parma, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-  
-Art. 95. - All'elenco degli insegnamenti complementari del corso di laurea in scienze naturali e' aggiunto il seguente:  
-Radioecologia.  
-Art. 96, relativo alle propedeuticita' del corso di laurea in scienze naturali e' abrogato e sostituito dal seguente:  
-"Gli insegnamenti biennali di botanica e di zoologia comprendono tanto la parte generale quanto la parte sistematica.  
-L'insegnamento di zoologia importa due esami distinti, relativi ai due anni di insegnamento.  
-L'insegnamento di chimica generale ed inorganica e chimica organica devono precedere gli esami di zoologia e fisiologia generale.  
-L'esame di chimica generale ed inorganica deve precedere l'esame di mineralogia.  
-L'esame di zoologia deve precedere l'esame di anatomia comparata.  
-L'esame di mineralogia deve precedere gli esami di geologia e di petrografia.  
-Gli esami di anatomia umana e di anatomia comparata devono precedere gli esami di fisiologia generale e di chimica biologica.  
-Gli esami di zoologia e di botanica devono precedere gli esami di paleontologia.  
-L'esame di fisica deve precedere l'esame di fisica terrestre e climatologia.  
-L'esame di botanica deve precedere quello di fisiologia vegetale".  
-Art. 103. - All'elenco degli insegnamenti complementari del corso di laurea in scienze biologiche e' aggiunto il seguente:  
-Radioecologia.  
-Art. 104, relativo alle propedeuticita' del corso di laurea in scienze biologiche e' abrogato e sostituito dal seguente:  
-"Gli insegnamenti biennali di botanica e di zoologia comprendono tanto la parte generale quanto la parte sistematica.  
-L'insegnamento di zoologia importa due esami distinti, relativi ai due anni di insegnamento.  
-Per le precedenze nell'ordine degli esami valgono le norme di cui all'art. 96, fatta eccezione per le materie di "mineralogia", "petrografia", e "fisica terrestre e climatologia"".  
-Art. 108. - All'elenco degli insegnamenti complementari del corso di laurea in scienze geologiche sono aggiunti i seguenti:  
-Geologia del quaternario;  
-Petrografia del sedimentario;  
-Geomorfologia applicata;  
-Geologia marina.  
+Art. 61, relativo alla Scuola di paleografia musicale, e' sostituito dal seguente:  
+"Il Consiglio della Scuola e' composto dai professori della Scuola stessa e dagli incaricati che vi tengono insegnamenti essendo professori di ruolo delle Facolta' della stessa Universita' o in altre Universita'".  
+Dopo l'art. 143, sono aggiunti i seguenti nuovi articoli, relativi alla istituzione della Scuola di specializzazione in endocrinologia e malattie del ricambio, con il conseguente spostamento della numerazione degli articoli successivi.  
+Scuola di specializzazione in endocrinologia e malattie del ricambio  
+Art. 144. - E' istituita la Scuola di specializzazione in endocrinologia e malattie del ricambio, che ha sede presso l'Istituto di patologia speciale medica e metodologia clinica della Facolta' di medicina e chirurgia.  
+Art. 145. - Sono ammessi i laureati in medicina e chirurgia.  
+Art. 146. L'iscrizione alla Scuola e' limitata, per ogni anno accademico, a dodici allievi.  
+Art. 147. - La Scuola ha la durata di due anni.  
+Art. 148. - Le materie di insegnamento sono:  
+1° anno:  
+1) Anatomia delle ghiandole endocrine;  
+2) Fisiologia delle ghiandole endocrine;  
+3) Fisiologia dell'alimentazione e del ricambio;  
+4) Chimica biologica;  
+5) Tecniche di laboratorio;  
+6) Fisiopatologia endocrina;  
+7) Fisiopatologia delle ghiandole sessuali;  
+8) Anatomia patologica delle malattie endocrine e metaboliche;  
+9) Patologia e clinica delle malattie endocrine;  
+10) Patologia e clinica delle malattie del ricambio;  
+11) Genetica (eredo-patologica-dismetabolica).  
+2° anno:  
+1) Clinica delle malattie endocrine;  
+2) Endocrinologia clinica ginecologica;  
+3) Clinica delle malattie del ricambio;  
+4) Terapia delle malattie endocrine;  
+5) Terapia delle malattie del ricambio;  
+6) Radiodiagnostica e radioterapia.  
+Art. 149. - Le lezioni, le dimostrazioni e le esercitazioni si svolgeranno presso l'Istituto di patologia medica, in conformita' dell'orario, che al principio dell'anno verra' stabilito dal direttore della Scuola.  
+Art. 150. - Al termine di ciascun anno di corso, gli allievi che abbiano regolarmente frequentato, dovranno superare un esame di profitto teorico-pratico.  
+Art. 151. - Al termine del biennio, per il conseguimento del diploma di specializzazione, gli allievi dovranno sostenere la discussione di un caso clinico e La discussione di una tesi scritta sopra un argomento riguardante l'endocrinologia e le malattie del ricambio.  
+Art. 152. - Durante i due anni del corso gli allievi dovranno frequentare assiduamente, a turno, i reparti di degenza, i laboratori e gli ambulatori dell'Istituto di patologia medica.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 30 ottobre 1970
+### Dato a Roma, addi' 19 ottobre 1960
 
-SARAGAT MISASI
+GRONCHI BOSCO
 
-Visto, il Guardasigilli: REALE
+Visto, il Guardasigilli: GONELLA
 
-Registrato alla Corte dei conti, addi' 9 gennaio 1971
+Registrato alla Corte dei conti, addi' 17 dicembre 1960
 
-Atti del Governo, registro n. 240, foglio n. 15. - CARUSO
+Atti del Governo, registro n. 132, foglio n. 88. - VILLA

@@ -1,11 +1,127 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 15 marzo 1978 n. 619
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1977 n. 1253
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 15 marzo 1978 n. 619
-============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1977 n. 1253
+===============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Genova.
 ------------------------------------------------------------------
+
+IL PRESIDENTE DELLA REPUBBLICA
+------------------------------
+
+Veduto lo statuto dell'Universita' di Genova, approvato con [regio decreto 7 ottobre 1926, n. 2054](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-07;2054) e modificato con [regio decreto 13 ottobre 1927, n. 2846](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2846), e successive modificazioni;
+
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
+
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
+
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
+
+Vedute le proposte di modifiche dello statuto formulate delle autorita' accademiche dell'Universita' anzidetta;
+
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Genova e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;
+
+Sentito il parere del Consiglio superiore della pubblica istruzione;
+
+Sulla proposta del Ministro della pubblica istruzione;
+
+Decreta:
+
+Lo statuto dell'Universita' degli studi di Genova, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+
+Dopo l'art. 154 del titolo XII, e con il conseguente spostamento della numerazione dei titoli e degli articoli successivi, sono inseriti il seguente nuovo titolo e relativi articoli concernenti l'istituzione della scuola di perfezionamento in lingue e letterature straniere moderne presso la facolta' di magistero.
+
+Titolo XIII
+
+FACOLTA' DI MAGISTERO
+
+Scuola di perfezionamento in lingue e letterature straniere moderne
+
+Art. 155. - La durata del corso e' di due anni.
+
+Alla scuola sono ammessi i laureati in materie letterarie, in pedagogia, in lingue e letterature straniere, in lettere, in lingue e letterature straniere moderne, nel cui curriculum risulti superato un esame di profitto su corsi di insegnamento della corrispondente lingua straniera di durata pluriennale.
+
+Art. 156. - La scuola si articola in corsi di lezioni, in seminari ed in cicli di esercitazioni.
+
+E' obbligatoria la frequenza alle lezioni, alle esercitazioni ed ai seminari.
+
+Per l'iscrizione al secondo anno e' necessario aver superato almeno due esami.
+
+La scuola ha quattro sezioni:
+
+a) lingua e letteratura francese;
+
+b) lingua e letteratura inglese;
+
+c) lingua e letteratura spagnola;
+
+d) lingua e letteratura tedesca.
+
+Art. 157. - Gli insegnamenti obbligatori per le quattro sezioni sono:
+
+1) lingua e letteratura straniera I;
+
+2) lingua e letteratura straniera II;
+
+3) filologia romanza (per le sezioni di lingua e letteratura francese e di lingua e letteratura spagnola);
+
+3) filologia germanica (per le sezioni di lingua e letteratura inglese e di lingua e letteratura tedesca);
+
+4) pedagogia.
+
+Gli insegnamenti complementari delle quattro sezioni sono:
+
+1) glottologia;
+
+2) letteratura anglo-americana (per la sezione di lingua e letteratura inglese);
+
+3) lingua e letteratura italiana;
+
+4) linguistica generale;
+
+5) storia della critica letteraria;
+
+6) storia della lingua italiana;
+
+7) storia della lingua francese (solo per la sezione omonima);
+
+8) storia della lingua inglese (solo per la sezione omonima);
+
+9) storia della lingua tedesca (solo per la sezione omonima).
+
+Art. 158. - Il diploma menzionera' la lingua e letteratura della sezione prescelta.
+
+Per tutte e quattro le sezioni sono richiesti, oltre agli esami negli insegnamenti obbligatori, esami in due discipline a scelta.
+
+I perfezionandi dovranno superare una prova pratica sull'uso dei mezzi di sussidio audiovisivi.
+
+L'esame di diploma consiste nella presentazione e nella discussione in lingua di una dissertazione scritta nella lingua prescelta.
+
+Art. 159. - Il direttore della scuola e' nominato per un biennio dal rettore, su proposta del consiglio di facolta', fra i professori della scuola.
+
+La scuola ha un proprio consiglio, costituito da tutti i docenti, da un rappresentante per ciascuna delle categorie indicate nei [commi primo](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1973-10-01;580~art9-com1) e [secondo dell'art. 9 del decreto-legge del 1 ottobre 1973, n. 580](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1973-10-01;580~art9-com2) (convertito nella [legge 30 novembre 1973, n. 766](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1973-11-30;766)), nonche' da due rappresentanti degli studenti iscritti.
+
+Spetta al consiglio della scuola formulare al consiglio di facolta' di magistero le proposte per l'attivazione degli insegnamenti, mediante conferimento di incarichi annuali o mutuazione di insegnamenti gia' esistenti presso l'Universita'.
+
+Art. 160. - Le tasse, soprattasse e contributi sono gli stessi della facolta' di magistero. Il contributo di esercitazioni viene fissato con la procedura prevista dalla [legge 18 dicembre 1951, n. 1551](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1951-12-18;1551).
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 31 ottobre 1977
+
+LEONE
+
+MALFATTI
+
+Visto, il Guardasigilli: BONIFACIO
+
+Registrato
+----------
+
+alla Corte dei conti, addi' 25 luglio 1978 Registro n. 83 Istruzione, foglio n. 135
 
 Art. 1
 ------
@@ -16,8 +132,9 @@ Veduto lo statuto dell'Universita' di Genova, approvato con [regio decreto 7 ott
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Genova e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;  
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
+Vedute le proposte di modifiche dello statuto formulate delle autorita' accademiche dell'Universita' anzidetta;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Genova e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;  
 Sentito il parere del Consiglio superiore della pubblica istruzione;  
 Sulla proposta del Ministro della pubblica istruzione;  
   
@@ -25,72 +142,57 @@ Decreta:
   
 Lo statuto dell'Universita' degli studi di Genova, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
   
-Dopo l'art. 499 viene aggiunto il titolo XVI, con i relativi articoli, concernente l'istituzione, presso la facolta' di architettura, della scuola di perfezionamento in architettura del paesaggio ed in documentazione sui centri storici.  
+Dopo l'art. 154 del titolo XII, e con il conseguente spostamento della numerazione dei titoli e degli articoli successivi, sono inseriti il seguente nuovo titolo e relativi articoli concernenti l'istituzione della scuola di perfezionamento in lingue e letterature straniere moderne presso la facolta' di magistero.  
   
-Titolo XVI  
-FACOLTA' DI ARCHITETTURA  
+Titolo XIII  
+FACOLTA' DI MAGISTERO  
   
-1) Scuola di perfezionamento in architettura  
-del paesaggio ed in documentazione sui centri storici  
-  
-Art. 500. - E' istituita presso la facolta' di architettura la scuola di perfezionamento in architettura del paesaggio ed in documentazione sui centri storici, che ha lo scopo di preparare alla conoscenza, alla tutela, alla progettazione del paesaggio nonche' al recupero ed alla riqualificazione dell'ambiente architettonico.  
-Art. 501. - La durata del corso e' di due anni. Alla scuola sono ammessi i laureati in architettura e in ingegneria. Per essere iscritti alla scuola i candidati dovranno sostenere un esame consistente in una prova scritta ed in un colloquio. Il numero dei perfezionandi sara' stabilito di anno in anno dal consiglio di facolta', su proposta del direttore della scuola.  
-Art. 502. - La scuola si articola in corsi di lezioni, in seminari ed in cicli di esercitazioni con frequenza obbligatoria.  
-La scuola ha due indirizzi:  
-1) architettura del paesaggio;  
-2) documentazione sui centri storici.  
-Art. 503. - Gli insegnamenti obbligatori per l'indirizzo "Architettura del paesaggio" sono i seguenti:  
-1° Anno:  
-metodi e tecniche di rappresentazione;  
-complementi di topografia;  
-principi di fotogrammetria terrestre ed aerea e cartografia;  
-storia e teoria di restauro dei monumenti e dei centri storici; rilievo architettonico e paesistico.  
-2° Anno:  
-elementi di botanica, geobotanica e pedologia;  
-principi di ecologia;  
-storia e teoria dell'architettonica del paesaggio;  
-analisi e pianificazione paesistica;  
-materiali e tecniche dell'architettura del paesaggio.  
-Gli insegnamenti obbligatori per l'indirizzo "Documentazione sui centri storici" sono i seguenti:  
-1° Anno:  
-metodi e tecniche di rappresentazione;  
-complementi di topografia;  
-principi di fotogrammetria terrestre ed aerea e cartografia;  
-storia e teoria di restauro dei monumenti e dei centri storici; rilievo architettonico e paesistico.  
-2° Anno:  
-istituzioni di morfologia classica ed applicazioni nel rilevamento;  
-principi di ricerca storico-archivistica;  
-tecniche di scavo e restauro delle strutture riemerse;  
-analisi delle strutture;  
-risanamento delle strutture.  
-Gli insegnamenti opzionali per entrambi gli, indirizzi sono:  
-economia del territorio (semestrale);  
-pianificazione rurale (semestrale);  
-nozioni di geologia tecnica (semestrale);  
-trasformazione e conservazione dei materiali (semestrale);  
-tecniche di elaborazione dei dati (semestrale);  
-principi di indagine sociologica (semestrale);  
-tecniche di progettazione degli interventi e di riqualificazione dell'ambiente (semestrale);  
-legislazione comparata sulla tutela dei beni culturali ed ambientali (semestrale).  
-Art. 504. - Il diploma menzionera' l'indirizzo seguito.  
-Per entrambi gli indirizzi sono richiesti, oltre agli esami negli insegnamenti obbligatori, esami in almeno tre discipline opzionali.  
-Gli insegnamenti del secondo anno concorrono interdisciplinariamente alla definizione delle proposte che costituiscono il fondamento della tesi.  
-Art. 505. - Per conseguire il diploma di perfezionamento gli studenti, oltre agli esami relativi a tutti gli insegnamenti previsti nel piano biennale di studi, dovranno superare l'esame finale di diploma, consistente nella discussione di una tesi scritta, basata su rilievi e proposte grafiche, su un argomento scelto dal candidato.  
-Art. 506. - Il direttore della scuola e' nominato dal rettore, su proposta del consiglio di facolta', tra i professori di ruolo.  
-Gli insegnanti saranno scelti tra i professori di ruolo e fuori ruolo, tra i professori incaricati e tra i liberi docenti, tra gli assistenti di ruolo nonche' tra esperti, anche stranieri, di riconosciuta competenza nelle rispettive specialita'. Gli incarichi di insegnamento della scuola sono conferiti dal consiglio di facolta', su proposta del direttore della scuola.  
-La scuola ha un proprio consiglio costituito da tutti i docenti della scuola stessa. Il consiglio della scuola ha il compito di coadiuvare il direttore nella definizione dei programmi didattici, delle modalita' di ammissione, del numero di studenti iscrivibili anno per anno e in tutte le questioni concernenti gestione e finanziamento.  
-Art. 507. - Le tasse, soprattasse e contributi sono le stesse della facolta' di architettura. Il contributo di esercitazioni viene fissato con la procedura prevista dalla [legge 18 dicembre 1951, n. 1551](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1951-12-18;1551).  
+Scuola di perfezionamento in lingue e letterature straniere moderne   
+Art. 155. - La durata del corso e' di due anni.  
+Alla scuola sono ammessi i laureati in materie letterarie, in pedagogia, in lingue e letterature straniere, in lettere, in lingue e letterature straniere moderne, nel cui curriculum risulti superato un esame di profitto su corsi di insegnamento della corrispondente lingua straniera di durata pluriennale.  
+Art. 156. - La scuola si articola in corsi di lezioni, in seminari ed in cicli di esercitazioni.  
+E' obbligatoria la frequenza alle lezioni, alle esercitazioni ed ai seminari.  
+Per l'iscrizione al secondo anno e' necessario aver superato almeno due esami.  
+La scuola ha quattro sezioni:  
+a) lingua e letteratura francese;  
+b) lingua e letteratura inglese;  
+c) lingua e letteratura spagnola;  
+d) lingua e letteratura tedesca.  
+Art. 157. - Gli insegnamenti obbligatori per le quattro sezioni sono:  
+1) lingua e letteratura straniera I;  
+2) lingua e letteratura straniera II;  
+3) filologia romanza (per le sezioni di lingua e letteratura francese e di lingua e letteratura spagnola);  
+3) filologia germanica (per le sezioni di lingua e letteratura inglese e di lingua e letteratura tedesca);  
+4) pedagogia.  
+Gli insegnamenti complementari delle quattro sezioni sono:  
+1) glottologia;  
+2) letteratura anglo-americana (per la sezione di lingua e letteratura inglese);  
+3) lingua e letteratura italiana;  
+4) linguistica generale;  
+5) storia della critica letteraria;  
+6) storia della lingua italiana;  
+7) storia della lingua francese (solo per la sezione omonima);  
+8) storia della lingua inglese (solo per la sezione omonima);  
+9) storia della lingua tedesca (solo per la sezione omonima).  
+Art. 158. - Il diploma menzionera' la lingua e letteratura della sezione prescelta.  
+Per tutte e quattro le sezioni sono richiesti, oltre agli esami negli insegnamenti obbligatori, esami in due discipline a scelta.  
+I perfezionandi dovranno superare una prova pratica sull'uso dei mezzi di sussidio audiovisivi.  
+L'esame di diploma consiste nella presentazione e nella discussione in lingua di una dissertazione scritta nella lingua prescelta.  
+Art. 159. - Il direttore della scuola e' nominato per un biennio dal rettore, su proposta del consiglio di facolta', fra i professori della scuola.  
+La scuola ha un proprio consiglio, costituito da tutti i docenti, da un rappresentante per ciascuna delle categorie indicate nei [commi primo](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1973-10-01;580~art9-com1) e [secondo dell'art. 9 del decreto-legge del 1 ottobre 1973, n. 580](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1973-10-01;580~art9-com2) (convertito nella [legge 30 novembre 1973, n. 766](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1973-11-30;766)), nonche' da due rappresentanti degli studenti iscritti.  
+Spetta al consiglio della scuola formulare al consiglio di facolta' di magistero le proposte per l'attivazione degli insegnamenti, mediante conferimento di incarichi annuali o mutuazione di insegnamenti gia' esistenti presso l'Universita'.  
+Art. 160. - Le tasse, soprattasse e contributi sono gli stessi della facolta' di magistero. Il contributo di esercitazioni viene fissato con la procedura prevista dalla [legge 18 dicembre 1951, n. 1551](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1951-12-18;1551).  
   
 
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 15 marzo 1978
+### Dato a Roma, addi' 31 ottobre 1977
 
-LEONE PEDINI
+LEONE MALFATTI
 
 Visto, il Guardasigilli: BONIFACIO
 
-Registrato alla Corte dei conti, addi' 9 ottobre 1978
+Registrato alla Corte dei conti, addi' 25 luglio 1978
 
-Registro n. 109 Istruzione, foglio n. 196
+Registro n. 83 Istruzione, foglio n. 135

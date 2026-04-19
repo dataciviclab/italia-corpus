@@ -1,113 +1,22 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 09 aprile 1974 n. 589
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1961 n. 1400
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 09 aprile 1974 n. 589
-=============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1961 n. 1400
+===============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Cagliari.
 --------------------------------------------------------------------
-
-IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
-
-Veduto lo statuto dell'Universita' degli studi di Cagliari, approvato con [regio decreto 20 aprile 1939, numero 1098](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1098), e modificato con [regio decreto 5 ottobre 1939, n. 1743](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-05;1743), e successive modificazioni;
-
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
-
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
-
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
-
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
-
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
-
-Sentito il parere del Consiglio superiore della pubblica istruzione;
-
-Sulla proposta del Ministro per la pubblica istruzione;
-
-Decreta:
-
-Lo statuto dell'Universita' degli studi di Cagliari, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
-
-Gli articoli 163, 164, 165, relativi alla "Scuola di specializzazione in cardiologia" che muta la denominazione in quella di "Scuola di specializzazione in malattie dell'apparato cardiovascolare", sono abrogati e sostituiti dai seguenti:
-
-Scuola di specializzazione in malattie dell'apparato cardiovascolare
-
-Art. 163. - Alla facolta' di medicina e chirurgia e' annessa una scuola di speciaizzazione in malattie dell'apparato cardio-vascolare con sede presso la clinica medica generale dell'Universita'.
-
-Art. 164. - La durata del corso e' di tre anni.
-
-Il numero massimo degli iscritti e' di dodici complessivamente nei tre anni.
-
-Art. 165. - Le materie di insegnamento e la loro ripartizione nei singoli anni sono le seguenti:
-
-1° Anno:
-
-Anatomia normale dell'apparato cardiovascolare;
-
-Fisiologia dell'apparato cardiovascolare e respiratorio;
-
-Fisiopatologia cardiovascolare e respiratoria (1° corso);
-
-Patologia cardiovascolare (1° corso);
-
-Semeiologia fisica (1° corso);
-
-Semeiologia strumentale (1° corso).
-
-2° Anno:
-
-Fisiopatologia cardiovascolare e respiratoria (2° corso);
-
-Patologia cardiovascolare (2° corso);
-
-Semeiologia fisica (2° corso);
-
-Semeiologia strumentale (2° corso);
-
-Anatomia patologica dell'apparato cardiovascolare (1° corso);
-
-Radiologia dell'apparato cardiovascolare;
-
-Farmacologia dell'apparato cardiovascolare;
-
-Clinica e terapia dell'apparato cardiovascolare (1° corso).
-
-3° Anno:
-
-Anatomia patologica dell'apparato cardiovascolare (2° corso);
-
-Clinica e terapia dell'apparato cardiovascolare (2° corso);
-
-Chirurgia dell'apparato cardiovascolare.
-
-Gli esami dovranno essere sostenuti al termine di ogni insegnamento.
-
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
-
-Dato a Roma, addi' 9 aprile 1974
-
-LEONE
-
-MALFATTI
-
-Visto, il Guardasigilli: ZAGARI
-
-Registrato
-----------
-
-alla Corte dei conti, addi' 21 novembre 1974 Atti di Governo, registro n. 7, foglio n. 10. - SCIARRETTA
 
 Art. 1
 ------
 
  IL PRESIDENTE DELLA REPUBBLICA  
   
-Veduto lo statuto dell'Universita' degli studi di Cagliari, approvato con [regio decreto 20 aprile 1939, numero 1098](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1098), e modificato con [regio decreto 5 ottobre 1939, n. 1743](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-05;1743), e successive modificazioni;  
+Veduto lo statuto dell'Universita' degli studi di Cagliari, approvato con [regio decreto 20 aprile 1939, n. 1098](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1098), modificato con [regio decreto 5 ottobre 1939, n. 1743](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-10-05;1743), e successivi;  
 Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
 Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
 Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
 Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
 Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
 Sentito il parere del Consiglio superiore della pubblica istruzione;  
@@ -116,51 +25,18 @@ Sulla proposta del Ministro per la pubblica istruzione;
 Decreta:  
   
 Lo statuto dell'Universita' degli studi di Cagliari, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-Gli articoli 163, 164, 165, relativi alla "Scuola di specializzazione in cardiologia" che muta la denominazione in quella di "Scuola di specializzazione in malattie dell'apparato cardiovascolare", sono abrogati e sostituiti dai seguenti:  
-  
-Scuola di specializzazione in malattie dell'apparato cardiovascolare   
-Art. 163. - Alla facolta' di medicina e chirurgia e' annessa una scuola di speciaizzazione in malattie dell'apparato cardio-vascolare con sede presso la clinica medica generale dell'Universita'.  
-  
-Art. 164. - La durata del corso e' di tre anni.  
-Il numero massimo degli iscritti e' di dodici complessivamente nei tre anni.  
-  
-Art. 165. - Le materie di insegnamento e la loro ripartizione nei singoli anni sono le seguenti:  
-  
-1° Anno:  
-Anatomia normale dell'apparato cardiovascolare;  
-Fisiologia dell'apparato cardiovascolare e respiratorio;  
-Fisiopatologia cardiovascolare e respiratoria (1° corso);  
-Patologia cardiovascolare (1° corso);  
-Semeiologia fisica (1° corso);  
-Semeiologia strumentale (1° corso).  
-  
-2° Anno:  
-Fisiopatologia cardiovascolare e respiratoria (2° corso);  
-Patologia cardiovascolare (2° corso);  
-Semeiologia fisica (2° corso);  
-Semeiologia strumentale (2° corso);  
-Anatomia patologica dell'apparato cardiovascolare (1° corso);  
-Radiologia dell'apparato cardiovascolare;  
-Farmacologia dell'apparato cardiovascolare;  
-Clinica e terapia dell'apparato cardiovascolare (1° corso).  
-  
-3° Anno:  
-Anatomia patologica dell'apparato cardiovascolare (2° corso);  
-Clinica e terapia dell'apparato cardiovascolare (2° corso);  
-Chirurgia dell'apparato cardiovascolare.  
-  
-Gli esami dovranno essere sostenuti al termine di ogni insegnamento.  
+Art. 50. - Agli insegnamenti complementari del corso di laurea in medicina e chirurgia e aggiunto quello di "Psichiatria".  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 9 aprile 1974
+### Dato a Roma, addi' 31 ottobre 1961
 
-LEONE MALFATTI
+GRONCHI BOSCO
 
-Visto, il Guardasigilli: ZAGARI
+Visto, il Guardasigilli: GONELLA
 
-Registrato alla Corte dei conti, addi' 21 novembre 1974
+Registrato alla Corte dei conti, addi' 5 gennaio 1962
 
-Atti di Governo, registro n. 7, foglio n. 10. - SCIARRETTA
+Atti del Governo, registro n. 143, foglio n. 16. - VILLA

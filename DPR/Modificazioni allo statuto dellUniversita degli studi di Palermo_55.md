@@ -1,102 +1,55 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1979 n. 791
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 ottobre 1970 n. 1156
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 31 ottobre 1979 n. 791
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 ottobre 1970 n. 1156
+===============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Palermo.
 -------------------------------------------------------------------
 
-IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
-
-Veduto lo statuto dell'Universita' di Palermo, approvato con [regio decreto 14 ottobre 1926, n. 2412](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2412) e modificato con [regio decreto 13 ottobre 1927, n. 2240](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2240), e successive modificazioni;
-
-Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
-
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
-
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
-
-Veduta la [legge 22 maggio 1978, n. 217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-05-22;217);
-
-Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
-
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Palermo e convalidati dal Consiglio universitario nazionale nel suo parere;
-
-Sentito il parere del Consiglio universitario nazionale;
-
-Sulla
------
-
-proposta del Ministro della pubblica istruzione; Decreta:
-
 Art. 1
 ------
 
+ IL PRESIDENTE DELLA REPUBBLICA  
+  
+Veduto lo statuto dell'Universita' degli studi di Palermo, approvato con [regio decreto 14 ottobre 1926, n. 2412](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2412) e modificato con [regio decreto 13 ottobre 1927, n. 2240](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2240), e successive modificazioni;  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);  
+Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;  
+Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);  
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
+Sentito il parere del Consiglio superiore della pubblica istruzione;  
+Sulla proposta del Ministro per la pubblica istruzione;  
+  
+Decreta:  
   
 Lo statuto dell'Universita' degli studi di Palermo, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:  
-Art. 147 - all'elenco delle scuole di specializzazione in medicina e chirurgia e' aggiunta la scuola di specializzazione in chirurgia toracica.  
-
-Art. 2
-------
-
+Art. 35. - All'elenco degli insegnamenti complementari del corso di laurea in medicina e chirurgia sono aggiunti i seguenti:  
   
+Reumatologia;  
+Oftalmologia pediatrica;  
+Radiobiologia;  
+Chirurgia d'urgenza;  
+Oncologia sperimentale;  
+Micrologia medica;  
+Neurofisiologia;  
+Endocrinologia ginecologica;  
+Farmacologia clinica;  
+Chirurgia pediatrica.  
   
-Dopo l'art. 196, e con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi alla istituzione della scuola di specializzazione in chirurgia toracica:   
-  
-Scuola di specializzazione in chirurgia toracica   
-  
-Art. 197. - La scuola di specializzazione in chirurgia toracica ha sede presso l'istituto di patologia speciale chirurgica e propedeutica clinica e conferisce il diploma di specialista in chirurgia toracica.   
-Art. 198. - La direzione della scuola e' affidata al professore di ruolo o fuori ruolo della stessa materia della specializzazione o, in carenza, al professore di ruolo o fuori ruolo di materia affine.   
-Art. 199. - Possono iscriversi alla scuola di specializzazione i laureati in medicina e chirurgia. E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale rilasciato dalla autorita' competente.   
-Art. 200. - La durata del corso e' di cinque anni, non suscettibile di abbreviazione e prevede l'insegnamento di tutte le branche della chirurgia toracica, chirurgia polmonare, chirurgia cardiaca, chirurgia esofagea, chirurgia del mediastino e della parete toracica.   
-Art. 201. - Il numero degli allievi e' di sei per anno di corso e complessivamente di trenta iscritti per l'intero corso di studi.   
-Art. 202. - L'ammissione al corso avviene per concorso per titoli ed esami.   
-Art. 203. - Le materie di insegnamento sono le seguenti:   
-1° Anno:   
-1) embriologia, anatomia descrittiva e topografica del torace e degli organi endotoracici;   
-2) anatomia chirurgica del torace e degli organi endotoracici;   
-3) anatomia patologica delle malattie del torace (biennale) I;   
-4) anestesia in chirurgia toracica.   
-2° Anno:   
-1) fisiopatologia dell'apparato respiratorio;   
-2) fisiopatologia dell'apparato cardiocircolatorio;   
-3) semeiotica dell'apparato respiratorio, dell'esofago e del mediastino;   
-4) semeiotica dell'apparato cardiocircolatorio;   
-5) anatomia patologica delle malattie del torace (biennale) II.   
-3° Anno:   
-1) patologia e clinica chirurgica delle affezioni dell'apparato respiratorio, del mediastino e della parete toracica (biennale) I;   
-2) patologia e clinica chirurgica delle affezioni del cuore e dei grossi vasi endotoracici;   
-3) patologia e clinica chirurgica delle affezioni dell'esofago e del diaframma;   
-4) elementi di terapia medica delle cardio-angiopatie;   
-5) elementi di fisioterapia respiratoria;   
-6) diagnostica radiologica nelle malattie chirurgiche del torace.   
-4° Anno:   
-1) patologia e clinica chirurgica delle affezioni dell'apparato respiratorio, del mediastino e della parete toracica (biennale) II;   
-2) tecnica operatoria per le affezioni della parete toracica, dell'apparato respiratorio, dell'esofago, del mediastino e del diaframma (biennale) I;   
-3) tecnica operatoria delle affezioni del cuore, pericardio e grossi vasi endotoracici;   
-4) principi e tecniche della circolazione extracorporea.   
-5° Anno:   
-1) terapia intensiva e rianimazione in chirurgia toracica;   
-2) tecnica operatoria per le affezioni della parete toracica, dell'apparato respiratorio, dell'esofago, del mediastino e del diaframma (biennale) II;   
-3) terapia chirurgica della tbc pleuropolmonare.   
-Art. 204. - Il corso si compone di lezioni, di esercitazioni pratiche, di frequenza obbligatoria ai fini di apprendimento, di conferenze riguardanti argomenti specialistici, di turni in corsia ed in sala operatoria. La frequenza ai corsi, in corsia ed in sala operatoria, alle esercitazioni e' obbligatoria.   
-In caso contrario i candidati non possono ottenere l'attestazione di frequenza necessaria per l'ammissione agli esami.   
-Art. 205.- Alla fine di ciascun anno di corso gli specialisti che abbiano ottenuto la firma di frequenza devono sostenere un esame di profitto sulle materie di insegnamento il cui superamento e' condizione necessaria ed indispensabile per ottenere l'iscrizione all'anno successivo e, per quelli che sono stati iscritti al quinto anno, per l'ammissione all'esame di diploma.   
-Durante il corso gli specializzandi frequentano la sala operatoria in maniera assidua, devono assistere a numerosi interventi in chirurgia toracica ed essere in grado di eseguirne essi stessi.   
-Art. 206. - Per tutti gli specializzandi che hanno superato gli esami dei cinque anni, alla fine del quinto anno di corso ha luogo l'esame di diploma, consistente nella presentazione e discussione di una dissertazione scritta su un argomento di chirurgia toracica concordato con la direzione della scuola.   
+Nello stesso elenco l'insegnamento di "Igiene" assume la denominazione di "Igiene e medicina preventiva" mentre i due insegnamenti di "Patologia dell'eta' neo-natale" e "Patologia dell'eta' pre-natale" vengono fusi in un solo insegnamento, che assume la denominazione di "Patologia dell'eta' prenatale e perinatale".  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 31 ottobre 1979
+### Dato a Roma, addi' 30 ottobre 1970
 
-PERTINI VALITUTTI
+SARAGAT MISASI
 
-Visto, il Guardasigilli: MORLINO
+Visto, il Guardasigilli: REALE
 
-Registrato alla Corte dei conti, addi' 22 febbraio 1980
+Registrato alla Corte dei conti, addi' 9 gennaio 1971
 
-Registro n. 13 Istruzione, foglio n. 324
+Atti del Governo, registro n. 240, foglio n. 14. - CARUSO

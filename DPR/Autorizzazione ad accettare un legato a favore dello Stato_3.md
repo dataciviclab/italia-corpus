@@ -1,7 +1,7 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 17 maggio 1986 n. 680
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 12 maggio 1976 n. 469
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 17 maggio 1986 n. 680
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 12 maggio 1976 n. 469
 =============================================================
 
 Autorizzazione ad accettare un legato a favore dello Stato.
@@ -10,11 +10,11 @@ Autorizzazione ad accettare un legato a favore dello Stato.
 Art. 1
 ------
 
-n.
+N.
 
-680. Decreto del Presidente della Repubblica 17 maggio 1986, col quale, sulla proposta del Ministro per i beni culturali e ambientali, viene autorizzata l'accettazione a favore dello Stato del legato, consistente in una raccolta di settantadue rami incisi, i quali rivestono un importante interesse artistico, da destinare all'Istituto nazionale per la grafica - calcografia di Roma, disposto dall'avv. Ettore De Fornaris con testamento olografo 20 gennaio 1973, pubblicato in data 9 ottobre 1978 e 22 novembre 1978, numeri 42583/8395 e 42944/8395 di repertorio, a rogito dott.  
-Federico Bottino, notaio in Torino.  
+469. Decreto del Presidente della Repubblica 12 maggio 1976, col quale, sulla proposta del Ministro per i beni culturali e ambientali, viene autorizzata l'accettazione a favore dello Stato del legato disposto dal comm. Mario Magrini con testamenti olografi, il primo datato 24 marzo 1964, n. 103 di repertorio, l'altro datato 4 aprile 1964, n. 104 di repertorio, a rogito dott.  
+Nino Bertelli, notaio in Ferrara, consistente in un gruppo di sculture, di dipinti e di oggetti d'arte di notevole interesse artistico e storico, da destinare al museo del Palazzo dei diamanti di Ferrara.  
   
-Visto, il Guardasigilli: ROGNONI  
-Registrato alla Corte dei conti, addi' 10 ottobre 1986  
-Registro n. 26 Beni culturali, foglio n. 122
+Visto, il Guardasigilli: BONIFACIO  
+Registrato alla Corte dei conti, addi' 30 giugno 1976  
+Atti di Governo, registro n. 7, foglio n. 36

@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 13 marzo 1984 n. 809
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 ottobre 1950 n. 1125
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 13 marzo 1984 n. 809
-============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 30 ottobre 1950 n. 1125
+===============================================================
 
 Modificazioni allo statuto dell'Universita' degli studi di Torino.
 ------------------------------------------------------------------
@@ -10,119 +10,111 @@ Modificazioni allo statuto dell'Universita' degli studi di Torino.
 IL PRESIDENTE DELLA REPUBBLICA
 ------------------------------
 
-Veduto lo statuto dell'Universita' di Torino, approvato con [regio decreto 14 ottobre 1926, n. 2284](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-10-14;2284), e successive modificazioni;
+Veduto lo statuto dell'Universita' degli studi di Torino, approvato con il [regio decreto 20 aprile 1939, numero 1118](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1118), e modificato con i [regi decreti 12 gennaio 1941, n. 34](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-01-12;34); [27 aprile 1942, n. 571](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-04-27;571); [5 settembre 1942, n. 1237](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-09-05;1237) e [24 ottobre 1942, n. 1438](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-10-24;1438); e con i [decreti del Capo provvisorio dello Stato del 4 febbraio 1947, numero 196](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto:1947-02-04;196) e [7 marzo 1947, n. 1727, e con decreti del Presidente della Repubblica](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1947-03-07;1727) [21 febbraio 1949, n. 43](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-02-21;43) e [21 aprile 1949, n. 613](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-04-21;613);
 
-Veduto il testo unico delle leggi sull'istruzione superiore approvato con [regio decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
 
-Veduto il [regio decreto-legge 20 giugno 1935, n. 1071](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-06-20;1071), convertito nella [legge 2 gennaio 1936, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-01-02;73);
+Veduto il [regio decreto 30 settembre 1933, n. 1052](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-09-30;1052), e successive modificazioni;
 
-Veduto il [regio decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), e successive modificazioni;
+Vedute le proposte di modifica allo statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
 
-Veduta la [legge 11 aprile 1953, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-04-11;312);
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
 
-Veduto il [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382);
+Sentito il parere del Consiglio superiore della pubblica istruzione;
 
-Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
-
-Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'[art. 17 del testo unico 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1933-08-31;1592~art17), per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Torino e convalidati dal Consiglio universitario nazionale nel suo parere;
-
-Sentito il parere del Consiglio universitario nazionale;
-
-Sulla proposta del Ministro della pubblica istruzione;
+Sulla proposta del Ministro per la pubblica istruzione;
 
 Decreta:
---------
 
-Lo statuto dell'Universita' di Torino, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+Lo statuto dell'Universita' di Torino, approvato e modificato con i decreti sopra indicati e' cosi' ulteriormente modificato:
+
+All'attuale art. 66 e' aggiunto quanto appresso:
+
+19) Urologia.
+
+Dopo l'attuale art. 115 sono aggiunti i seguenti nuovi articoli, relativi all'istituzione della Scuola di specializzazione in urologia, con lo spostamento della numerazione degli articoli successivi.
+
+Art. 116. - La durata, del corso degli studi della Scuola di specializzazione in urologia e' di tre anni.
+
+Art. 117. - Gli insegnamenti impartiti nella Scuola sono i seguenti:
+
+1) embriologia, anatomia dell'apparato genito-urinario.
+
+Fisiologia dell'apparato genito-urinario;
+
+2) patologia e clinica medica dell'apparato urinario (urologia medica);
+
+3) patologia e clinica chirurgica dell'apparato urinario (urologia chirurgica);
+
+4) semeiotica endoscopia e radiologia urologica;
+
+5) Interventi endoscopici;
+
+6) tecnica operatoria degli interventi urologici.
+
+Art. 118. - L'insegnamento teorico sara' integrato da esercitazioni pratiche per Cui si richiede un internato di due anni nella divisione urologica della clinica chirurgica.
+
+Art. 119. - L'esame di diploma consiste nella presentazione e discussione di una dissertazione scritta su argomento della specialita'.
+
+Art. 120. - La spesa relativa al funzionamento della predetta Scuola e' a carico del bilancio ordinario dell'Universita' di Torino.
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 30 ottobre 1950
+
+EINAUDI
+
+GONELLA
+
+Visto, il Guardasigilli: SEGNI
+
+Registrato
+----------
+
+alla Corte dei conti, addi' 27 gennaio 1951 Atti del Governo, registro n. 37, foglio n. 39. - CARLOMAGNO
 
 Art. 1
 ------
 
+ IL PRESIDENTE DELLA REPUBBLICA  
   
-Nell'art. 75, relativo al corso di laurea in chimica, all'elenco degli insegnamenti complementari per gli indirizzi organico-biologico ed inorganico-chimico-fisico sono aggiunti i seguenti nuovi insegnamenti:  
-storia della chimica;  
-chimica organica teorica;  
-analisi chimica spettroscopica;  
-analisi chimica applicata.  
-Nello stesso articolo nell'elenco degli insegnamenti complementari per gli indirizzi organico-biologico ed inorganico-chimico-fisico viene soppresso l'insegnamento di "chimica di guerra".  
-
-Art. 2
-------
-
+Veduto lo statuto dell'Universita' degli studi di Torino, approvato con il [regio decreto 20 aprile 1939, numero 1118](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1939-04-20;1118), e modificato con i [regi decreti 12 gennaio 1941, n. 34](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-01-12;34); [27 aprile 1942, n. 571](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-04-27;571); [5 settembre 1942, n. 1237](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-09-05;1237) e [24 ottobre 1942, n. 1438](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-10-24;1438); e con i [decreti del Capo provvisorio dello Stato del 4 febbraio 1947, numero 196](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto:1947-02-04;196) e [7 marzo 1947, n. 1727, e con decreti del Presidente della Repubblica](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1947-03-07;1727) [21 febbraio 1949, n. 43](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-02-21;43) e [21 aprile 1949, n. 613](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1949-04-21;613);  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con [regio decreto 31 agosto 1933, numero 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);  
+Veduto il [regio decreto 30 settembre 1933, n. 1052](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-09-30;1052), e successive modificazioni;  
+Vedute le proposte di modifica allo statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;  
+Sentito il parere del Consiglio superiore della pubblica istruzione;  
+Sulla proposta del Ministro per la pubblica istruzione;  
   
-Nell'art. 76, relativo al corso di laurea in chimica industriale, all'elenco degli insegnamenti complementari sono aggiunti i seguenti nuovi insegnamenti:  
-chimica fisica delle interfasi;  
-catalisi;  
-analisi chimica spettroscopica;  
-tecnologie chimiche speciali.  
-
-Art. 3
-------
-
+Decreta:  
   
-Nell'art. 79, relativo al corso di laurea in fisica, all'elenco degli insegnamenti complementari sono aggiunti i seguenti nuovi insegnamenti:  
-astrofisica teorica;  
-teorie quantistiche;  
-fisica dei semiconduttori.  
-
-Art. 4
-------
-
-  
-Nell'art. 90, relativo al corso di laurea in scienze naturali, all'elenco degli insegnamenti complementari sono aggiunti i seguenti nuovi insegnamenti:  
-geologia ambientale;  
-laboratorio di chimica;  
-ecologia umana.  
-Nello stesso articolo vengono soppressi i seguenti insegnamenti:  
-patologia vegetale;  
-geologia applicata;  
-statistica e biometria;  
-mineralogia applicata;  
-laboratorio di tecniche fisiologiche;  
-laboratorio di patologia vegetale;  
-petrologia.  
-
-Art. 5
-------
-
-  
-Nell'art. 91, relativo al corso di laurea in scienza biologiche, all'elenco degli insegnamenti complementari sono aggiunti i seguenti nuovi insegnamenti:  
-storia della biologia;  
-biologia cellulare;  
-biologia marina;  
-biologia del terreno;  
-citologia ed embriologia vegetale;  
-antropometria.  
-
-Art. 6
-------
-
-  
-Nell'art. 92, relativo al corso di laurea in scienze geologiche, all'elenco degli insegnamenti complementari sono aggiunti i seguenti nuovi insegnamenti:  
-biostratigrafia e paleoecologia;  
-cristallogenesi;  
-metodologie mineralogiche-petrografiche;  
-paleomagnetismo;  
-paleontologia dei vertebrati;  
-geologia ambientale;  
-fotogeologia.  
-Nello stesso articolo sono soppressi i seguenti insegnamenti:  
-botanica;  
-analisi matematica (algebrica e infinitesimale) (biennale);  
-elementi di scienza e tecnica delle costruzioni;  
-meccanica razionale;  
-zoologia.  
+Lo statuto dell'Universita' di Torino, approvato e modificato con i decreti sopra indicati e' cosi' ulteriormente modificato:  
+All'attuale art. 66 e' aggiunto quanto appresso:  
+19) Urologia.  
+Dopo l'attuale art. 115 sono aggiunti i seguenti nuovi articoli, relativi all'istituzione della Scuola di specializzazione in urologia, con lo spostamento della numerazione degli articoli successivi.  
+Art. 116. - La durata, del corso degli studi della Scuola di specializzazione in urologia e' di tre anni.  
+Art. 117. - Gli insegnamenti impartiti nella Scuola sono i seguenti:  
+1) embriologia, anatomia dell'apparato genito-urinario.  
+Fisiologia dell'apparato genito-urinario;  
+2) patologia e clinica medica dell'apparato urinario (urologia medica);  
+3) patologia e clinica chirurgica dell'apparato urinario (urologia chirurgica);  
+4) semeiotica endoscopia e radiologia urologica;  
+5) Interventi endoscopici;  
+6) tecnica operatoria degli interventi urologici.  
+Art. 118. - L'insegnamento teorico sara' integrato da esercitazioni pratiche per Cui si richiede un internato di due anni nella divisione urologica della clinica chirurgica.  
+Art. 119. - L'esame di diploma consiste nella presentazione e discussione di una dissertazione scritta su argomento della specialita'.  
+Art. 120. - La spesa relativa al funzionamento della predetta Scuola e' a carico del bilancio ordinario dell'Universita' di Torino.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 13 marzo 1984
+### Dato a Roma, addi' 30 ottobre 1950
 
-PERTINI FALCUCCI
+EINAUDI GONELLA
 
-Visto, il Guardasigilli: MARTINAZZOLI
+Visto, il Guardasigilli: SEGNI
 
-Registrato alla Corte dei conti, addi' 22 novembre 1984
+Registrato alla Corte dei conti, addi' 27 gennaio 1951
 
-Registro n. 71 Istruzione, foglio n. 7
+Atti del Governo, registro n. 37, foglio n. 39. - CARLOMAGNO

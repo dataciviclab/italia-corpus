@@ -1,8 +1,8 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 giugno 1983 n. 1026
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 24 settembre 1985 n. 848
 
 
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA 04 giugno 1983 n. 1026
-==============================================================
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 24 settembre 1985 n. 848
+================================================================
 
 Modificazione allo statuto dell'Universita' degli studi di Pisa.
 ----------------------------------------------------------------
@@ -39,26 +39,23 @@ Articolo unico
 --------------
 
   
-Nell'art. 78, relativo al corso di laurea in medicina e chirurgia, agli insegnamenti complementari sono aggiunti i seguenti nuovi insegnamenti:  
-fisiologia clinica;  
-fisiopatologia endocrina;  
-patologia urologica;  
-farmacologia cellulare;  
-chirurgia pediatrica;  
-fisiopatologia chirurgica;  
-semeiotica ostetrica;  
-fisiopatologia dell'emostasi.  
+Nell'art. 78, relativo al corso di laurea in medicina e chirurgia, all'elenco degli insegnamenti complementari sono aggiunti i seguenti insegnamenti:  
+diagnostica clinica radioisotopica;  
+fisiopatologia delle malattie del ricambio;  
+dietoterapia.  
   
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 4 giugno 1983
+### Dato a Roma, addi' 24 settembre 1985
 
-PERTINI FALCUCCI
+COSSIGA
+
+FALCUCCI, Ministro della pubblica istruzione
 
 Visto, il Guardasigilli: MARTINAZZOLI
 
-Registrato alla Corte dei conti, addi' 29 febbraio 1984
+Registrato alla Corte dei conti, addi' 21 gennaio 1986
 
-Registro n. 13 Istruzione, foglio n. 86
+Registro n. 2 Istruzione, foglio n. 93
