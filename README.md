@@ -1,6 +1,6 @@
 # 🇮🇹 Italia Corpus
 
-**Il corpus della legislazione italiana in Markdown — aggiornato quotidianamente, aperto a tutti.**
+**Il corpus della legislazione italiana in Markdown — aggiornato quotidianamente.**
 
 [License: MIT](https://opensource.org/licenses/MIT)
 [Data: Public Domain](https://www.normattiva.it)
@@ -12,7 +12,7 @@
 
 | 📄 Atti   | 🗂️ Collezioni     | 💾 Dimensione | 🔄 Aggiornamenti |
 | --------- | ------------------ | ------------- | ---------------- |
-| > 200.000 | 23 (sync completo) | GBs           | Ogni 24 ore      |
+| > 250.000 | 23 (sync completo) | GBs           | Ogni 24 ore      |
 
 
 [🇬🇧 English](#english) · [🇮🇹 Italiano](#italiano)
@@ -301,7 +301,7 @@ PR benvenute per fix di parsing, script di validazione e integrazioni. **Apri un
 
 I testi normativi italiani sono atti pubblici dello Stato e come tali liberamente riproducibili ai sensi dell'**art. 5 della Legge sul diritto d'autore (L. 633/1941)**.
 
-Questo repository **non è affiliato né sponsorizzato** da Normattiva o dal Governo italiano.
+Questa repository **non è affiliata né sponsorizzata** da Normattiva o dal Governo italiano.
 
 > [!WARNING]
 > I testi sono forniti **senza garanzia di completezza o aggiornamento in tempo reale**. Per uso legale o professionale fare sempre riferimento alla *Gazzetta Ufficiale*.
