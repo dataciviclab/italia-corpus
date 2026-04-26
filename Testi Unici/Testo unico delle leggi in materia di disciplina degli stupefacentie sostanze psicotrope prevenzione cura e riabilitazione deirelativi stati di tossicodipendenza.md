@@ -3471,9 +3471,11 @@ SOSTANZE
 | 4-fluorophenibut (4-fluorofenibut) | Acido 4-ammino-3- (4-fluorofenil)butanoico |  |
 | 4-FMA | (1-(4-fluorofenil)-N- metilpropan-2-ammina) | (4-Fluorome- thamphetami- ne) |
 | 4F-ABINACA | N-(adamantan-1-il)-1- (4-fluorobutil)-1H-indazol -3-carbossamide | 4F-AKB48 |
+| ((4F-ADMB-BINACA)) | ((N-(1-ammino-3,3-))  ((dimetil-1-ossobutan-2))  ((-il)-1-(4-fluoro))  ((butil)-1H-indazol-3-))  ((carbossammide)) | ((N-(1-carba))  ((moil-2,2-))  ((dmetil-))  ((propil)-1-))  (((4-fluoro))  ((butil)inda))  ((zol-3-))  ((carbossam))  ((mide))  ((ADMB-4F-))  ((BINACA))  ((4F-ADMB-))  ((BUTINACA))  ((4F-ADB-))  ((BUTINACA))  ((4-fluoro-))  ((ADB-BUTI))  ((NACA))  ((4F-ADB-))  ((BINACA))  ((ADB-4F-))  ((BUTINACA)) |
 | 4F-deprenyl | N-[1-(4-fluorofenil) propan-2-il]-N- metilprop-2-in-1 -ammina | 4F- selegilina |
 | 4F-MBZP | 1-[(4-fluorofenil)metil] -4-metilpiperazina | 4-Fluoro-MBZP 4-fluorometil benzilpipera zina |
 | 4F-MDMB-BICA | Metil 2-(«[1- (4-fluorobutil)-1H- indol-3-il] carbonil»ammino)-3,3- dimetilbutanoato | Metil N-[1- (4-fluoro- butil)-1H- indol-3- carbonil]-3 -metilvalinato Metil 2-[[1-(4- fluorobutil) indol-3-carbo- nil]ammino]- 3,3-dimetil- butanoato 4F-MDMB-BICA MDMB-4F-BICA 4F-MDMB-BUTICA MDMB-4F-BUTICA 4-fluoro MDMB- BICA 4FBC/4FBCA 4-fluoro MDMB- BUTICA |
+| ((4F-MDMB-PINACA)) | ((metil2-[1-(4-fluoropen))  ((til)-1H-indazol-3-))  ((carbossammide]-3,3-))  ((dimetilbutanoato)) | ((metil2-«[1))  ((-(4-fluoro))  ((pentil)-1H))  ((-indazol-3))  ((-il]carbos))  ((sammide»-))  ((3,3-dimeti))  ((lbutanoato))  ((metil2-[[1))  ((-(4-fluoro))  ((pentil)in))  ((dazol-3-))  ((carbonil])) ammino]-3,3-)) ((dimetilbu))  ((tanoato))  ((metilN-[1-))  (( (4-fluoro))  ((pentil)-1H))  ((-indazol-))  ((3-carbo))  ((nil]-3-))  ((metil-L-))  ((valinato))  ((N-[[1-(4-))  ((fluoropen))  ((til)-1H-))  ((indazol-3))  ((-il]carbo))  ((nil]-3-))  ((metil-L-))  ((valina))  ((metil))  ((estere))  ((4F-ADB))  ((4-fluoro))  ((ADB))  ((4-fluoro-))  ((MDMB-))  ((PINACA))  ((MDMB-4F-))  ((PINACA)) |
 | 4F-MPH | metil(4-fluorofenil) (piperidin-2-il)acetato | 4-fluorometil- fenidato |
 | 4-MEC | (2-etilamino-1-p- tolilpropan-1-one) | (2-Etilammino- 1-(4-metilfen- il)-1-propano- ne) 4-metiletcati- none |
 | 4-MeO-MiPT | N-[2-(4-metossi-1H-indol- 3-il)etil]-N-metilpropan- 2-ammina |  |
@@ -3613,6 +3615,7 @@ SOSTANZE
 | Analoghi di struttura derivanti dal 3-fenilacetilindolo |  |  |
 | Analoghi di struttura derivanti dal 3-(1-naftoil)indolo |  |  |
 | Analoghi di struttura e derivati del fentanil (vedi nota descrittiva in calce alla Tabella) |  |  |
+| ((analoghi di struttura))  ((e derivati del 2-))  (([(fenil)metil]-))  ((benzimidazol-1-il]-))  ((etanammina)) |  |  |
 | analogo pent-4-ene di MDA 19 | N-[(Z)-(2-osso-1-pent-4- enil-indolin-3-ilidene) ammino]benzammide) | N'-[(3Z)-2- osso-1-(pent-4 -en-1-il)-2,3- diidro-1H- indol-3-ilide- ne] benzoidrazide N'-[(3Z)-2- osso-1-(pent-4 -en-1-il)-1,2- diidro-3H- indol-3-ili- dene]benzoi- drazide BZO-4en- POXIZID BZO-4en- PentOXIZID 4en-MDA-19 |
 | analogo 5-fluoropentile di MDA 19 | N-[(Z)-[1-(5-fluoropentil) -2-osso-indolin-3-ilidene] ammino]benzammide | N'-[(3Z)-1-(5- fluoropentil)- 2-osso-1,2- diidro-3H- indol-3- ilidene] benzoidrazide N'-(1- (5- fluoropentil)- 2-ossoindolin- 3-ilidene) benzoidrazide 5F-MDA-19 5F-BZO-POXIZID BZO-5F- POXIZID |
 | Anileridina | estere etilico dell'acido 1-para- aminofeniletil- 4-fenilpiperidin- 4-carbossilico | alidina |
@@ -3683,11 +3686,17 @@ SOSTANZE
 | CUMIL-4CN-B7AICA | 1-(4-cianobutil)-N- (2-fenilpropan-2-il)-1H- pirrolo[2,3-b]piridin- 3-carbossamide |  |
 | CUMIL-4CN-BINACA | 1-(4-cianobutil)-N- (1-metil-1-fenil-etil) indazolo-3-carbossamide |  |
 | CUMIL-EINACA | 1-etil-N-(2-fenilpro pan-2-il)-1H-indazol-3 -carbossammide | 1-etil-N- (1-metil-1 -fenil- etil) indazol-3- carbossam mide CUMYL- EINACA |
+
+Tabelle
+
+|  |  |  |
+| --- | --- | --- |
 | CUMIL-FUBINACA | 1-[(4-fluorofenil)me til]-N-(2-fenilpropan- 2-il)-1H-indazol-3-car bossammide | 1-(4-fluo robenzil)- N-(2-fenil propan-2- il)-1H- indazol-3- carbossam mide 1-[(4-fluo rofenil)me til]-N-(1- metil-1- fenil-etil )indazol- 3-carbos sammide 1-[(4-fluo rofenil)me til]-N-(1- metil-1- feniletil )-1H-inda zol-3-car bossammide SGT-149 cumil- FUBINACA |
 | CUMIL-INACA | N-(2-fenilpropan-2-il)-1H -indazol-3-carbossammide | N-(1-metil-1- fenil-etil)-1H -indazol-3- carbossammide CUMYL-INACA |
 | CUMIL-NBMICA |  | 1- (biciclo [2.2.1] eptan -2- ilmetil) -N-(2- fenil- propan -2-il) -1H-indol -3- carbos- sammide |
 | CUMIL-NBMINACA | (1-(biciclo[2.2.1] eptan-2-il)metil) -N-(2-fenilpropan -2-il) -1H-indazol -3-carbossammide | SGT-152 |
 | CUMIL-PeGACLONE | 2-(1-metil-1-fenil-etil)- 5-pentil-pirido[4,3- b]indol-1-one |  |
+| ((CUMIL-PMINACA)) | ((1-pentil-N-(2-fenilpro))  ((pan-2-il)-4,5,6,7-))  ((tetraidro-1H-4,7-))  ((metanoindazol-3-))  ((carbossammide)) | ((N-(1-metil))  ((-1-fenil-))  ((etil)-3-))  ((pentil-3,4))  ((-diazatri))  ((ciclo[5.2.))  ((1.02,6]))  ((deca-2(6),))  ((4-diene-5-))  ((carbossam))  ((mide))  ((3-pentil-))  ((N-(2-fenil))  ((propan-2-))  ((il)-3,4-))  ((diazatrici))  ((clo[5.2.1.))  ((02,6]deca))  ((-2(6),4-))  ((diene-5-))  ((carbossam))  ((mide))  ((SGT-313)) |
 | CUMIL-5F-PINACA | 1-(5-Fluoropentil)-N-(1- metil-1-feniletil)-1H- indazol-3-carbossamide | SGT-25 |
 | CUMIL-TsINACA | N-(2-fenilpropan-2-il)-1- tosil-1H-indazol-3- carbossammide | N-(1-metil-1- fenil-etil)-1- (p-tolilsulfon il)indazol-3- carbossammide Cumil-TsINACA |
 | DALT | N-[2-(1H-indol-3-il)etil] -N-prop-2-enilprop-2-en-1- amina | N,N-diallil- triptamina |
@@ -3835,6 +3844,7 @@ SOSTANZE
 | Lophophora Williamsii pianta (Peyote) |  |  |
 | LSD (Dietilamide dell'acido lisergico) | 9,10-dideidro- N,N-dietil-6- metilergolina-8-beta- carbossamide | (+)-lysergide; (+)-N, N-dietil- lysergamide; LSD 25 |
 | M-ALFA-HCMA | 3-(2H-1,3-benzodiossol -5-il)-2-idrossi-N,2 -dimetil-3- (metilammino)propa- nammide | 3-(benzo [d][1,3] diossol-5 -il)-2 -idrossi -N,2- dimetil-3- (metilam- mino) propenam- mide |
+| ((MADMB-4en-PINACA)) | ((N-[3,3-dimetil-1-))  (( (metilammino)-1-))  ((ossobutan-2-il]-1-))  (( (pent-4-en-1-il)-1H-))  ((indazol-3-))  ((carbossammide)) | ((N-[1-))  (( (metilam))  ((minocar))  ((bonil)-2,2))  ((-dimetil))  ((propil]-1-))  (( (4-penten))  ((-1-il)-1H-))  ((indazol-3-))  ((carbossam))  ((mide))  ((N-[2,2-))  ((dimetil-1-))  (( (metilcar))  ((bamoil) ))  ((propil]-1-))  ((pent-4-))  ((enil-))  ((indazol-3-))  ((carbossam))  ((mide))  ((N-[3,3-))  ((dimetil-1-))  (( (metilam))  ((mino)-1-))  ((ossobutan-))  ((2-il]-1-))  ((pent-4-))  ((enilinda))  ((zol-3-))  ((carbossam))  ((mide))  ((MADB-4en-))  ((PINACA))  ((MMAB-4en-))  ((PINACA)) |
 | MALT | N-[2-(1H-indol-3-il) etil]-N-metilprop -2-en-1-ammina | Metilalli- ltrip- tamina |
 | MAM-2201 | 1-(5-fluoropentil)-3- (4-metil-naftoil)indolo |  |
 | Mazindolo |  |  |
@@ -3851,7 +3861,7 @@ SOSTANZE
 | MDMB-7Br-INACA | Metil 2-(7-bromo-1H- indazol-3-carbossammide) -3,3-dimetilbutanoato | Metil 2-[(7-bromo -1H-indazol -3-carbonil) ammino]-3,3 -dimetil- butanoato MDMB-7- bromo- INACA |
 | MDMB-BINACA buta | Metil 2-(1-butil-1H- indazol-3-carbossa- mmide)-3,3-dimetilbu- tanoato | metil N- 1-butil- 1H-indazo- l-3-carbo nil)-3- metil-L- valinato MDMB- BUTINACA |
 | MDMB-CHMICA | Metil-3,3-dimetil-2-«[(1- (cicloesilmetil)-1H-indol- 3-il)carboni l]amino»butanoato | N-«[1-(cicloe- silmetil)-1H- indol-3-il] carbonil»-3- metil-valina, metil estere |
-| ((MDMB-FUBINACA)) | ((metil2-(1-(4-fluoro))  ((benzil)-1H-indazol-3-))  ((carbossammide)-3,3-))  ((dimetilbutanoato)) | ((metil N-«))  (([1-(4-fluo))  ((robenzil)-))  ((1H-indazol))  ((-3-il]))  ((carbonil»-))  ((3-metilva))  ((linato))  ((metil2-))  (( (1-(4-))  ((fluoro))  ((benzil)-))  ((1H-indazol))  ((-3-carbos))  ((sammide)-))  ((3,3-dime))  ((tilbuta))  ((noato))  ((MDMB(N)-))  ((BZ-F)) |
+| MDMB-FUBINACA | metil2-(1-(4-fluoro benzil)-1H-indazol-3- carbossammide)-3,3- dimetilbutanoato | metil N-« [1-(4-fluo robenzil)- 1H-indazol -3-il] carbonil»- 3-metilva linato metil2- (1-(4- fluoro benzil)- 1H-indazol -3-carbos sammide)- 3,3-dime tilbuta noato MDMB(N)- BZ-F |
 | MDMB-INACA | metil 2-(1H-indazol-3- carbossammide)-3,3- dimetilbutanoato | metil N- (1H-indazol-3- carbonil)-3- metilvalinato |
 | MDMB-PCZCA | Metil 3,3-dimetil-2-(9- pentil-9H-carbazol-3- carbossamide)butanoato |  |
 | MDMB-PINACA | Metil 3,3-dimetil-2-[ 1-pentil-1H-indazol-3- carbonil)ammino]butano ato | Metil 2-(1 -(pentil)- 1H-indazol -3-carbos- sammide)-3 ,3-dimetil butanoato metil 3-metil-N- (1-pentil- 1H-indazol -3-carbo- nil)-L- valinato 3-metil-N- [(1-pentil -1H-inda- zol-3-il) carbonil]- L-valina metil este re |
@@ -4001,6 +4011,7 @@ SOSTANZE
 | Tianeptina | Acido 7-[(3-cloro -6-metil-5,5- diossidodibenzo[c,f][1,2] tiaezepin-11-il) amino]eptanoico |  |
 | Tiletamina | 2-etilamino-2-(2-tienil) -cicloesanone | 2-ethylamino-2 -(2-thienyl) cyclohexanon |
 | Tilidina | (±)-etil-trans-2- (dimetilamino)-1-fenil- 3-cicloesene-1- carbossilato |  |
+| ((tilmetamina)) | ((2-(metilammino)-2-))  (( (tiofen-2-il) ))  ((cicloesan-1-one)) | ((2-(metilam))  ((mino)-2-))  (( (2-tien))  ((il)cicloe))  ((sanone)) |
 | Tiofenefentanil | N-(1-phenethylipiperidin- 4-yl)-N-phenylthiophene-2- carboxamide | N-(1-fenetil- piperidin-4- il)-N-fenil- tiofene-2-car- bossamide |
 | THCB | 3-butil-6,6,9-trimetil -6a,7,8,10a-tetraidro -6H-dibenzo[b,d]piran -1-olo | 3-butil-6, 6,9- trimetil- 6a,7,8,10a -tetraidro benzo[c] cromen-1- olo 3-butil- 6a,7,8,10a -tetraidro -6,6,9- trimetil -6H- dibenzo [b,d]piran -1-olo nor-THC delta-9- THCB delta-9- tetraidroc annabutolo delta-9- tetraidroc annabinolo -C4 delta-9- THC-butil delta-9- THC-C4 THC-butil tetraidro cannabinol -C4 THC-C4 tetraidro -cannabut olo |
 | TMA (3,4,5- trimetossiamfetamina) | (±)-3,4,5-trimetossi-alfa- metilfeniletilamina |  |
@@ -4018,8 +4029,6 @@ SOSTANZE
 | XLR-11 | (1-(5-fluoropentil)-1H- indol-3-il)(2,2,3,3-tetra- metilciclopropil)metanone) | ([1-(5-fluoro- pentyl)-1H-in- dol-3-yl](2,2, 3,3-tetrame- thylcyclopro- pyl)methano- ne) |
 | Zipeprolo |  |  |
 
-Tabelle
-
 |  |
 | --- |
 | Qualsiasi forma stereoisomera delle sostanze iscritte nella presente tabella, in tutti i casi in cui possono esistere, salvo che ne sia fatta espressa eccezione. Gli esteri e gli eteri delle sostanze iscritte nella presente tabella, a meno che essi non figurino in altre tabelle, compresi i sali dei suddetti isomeri, esteri ed eteri in tutti i casi in cui questi possono esistere. |
@@ -4029,11 +4038,10 @@ Tabelle
 | Le sostanze correlate al fentanil comprendono qualsiasi sostanza non altrimenti controllata in una tabella che e' strutturalmente correlata al fentanil mediante una o piu' delle seguenti modifiche: 1. sostituzione della porzione fenilica del gruppo fenetilico con qualsiasi monociclo, sostituito o meno nel monociclo; 2. sostituzione nel o sul gruppo fenetilico con gruppi alchilici, alchenilici, alcossilici, idrossilici, alogeni, aloalchilici, amminici o nitrici; 3. sostituzione in o sull'anello di piperidina con gruppi alchilici, alchenilici, alcossilici, esteri, eterei, idrossilici, alogeni, aloalchilici, amminici o nitrici; 4. sostituzione dell'anello di anilina con qualsiasi monociclo aromatico, sostituito o meno nel o sul monociclo aromatico; 5. sostituzione del gruppo N-propionile con un altro gruppo acile. |
 | L'Ayahuasca puo' essere costituita da un estratto, da un macinato, o da polvere, ottenuto principalmente dalle piante Banisteriopsis caapi, Psychotria viridis, contenente DMT e uno o entrambi dei seguenti componenti attivi: armalina, armina |
 | Sono espressamente escluse dalla presente tabella le seguenti sostanze classificate come precursori di droghe di categoria 1 che possono essere utilizzate per la fabbricazione illecita di fentanil e dei suoi analoghi»: 4-AP (N-fenilpiperidin-4-ammina); 1-boc-4-AP (terz-butil 4-anilinopiperidin-1-carbossilato); N-fenil-1-(2-feniletil) piperidin-4-ammina (ANPP); norfentanil (N-fenil-N-(piperidin-4-il) propanammide); 1-(2-feniletil)piperidin-4-one (NPP). |
+| ((Qualsiasi sostanza derivata dalla struttura chimica analoghi di struttura del 2-[(fenil)metil]-benzimidazol-1-il]-etanammina: con o senza etanammina azoto sostituito dai seguenti gruppi (R1 e/o R2): alchil, alchenil, alchinil o con etanammina che fa parte di una struttura ciclica; con o senza il nucleo del benzimidazolo sostituito in posizione 5 e/o 6 dai seguenti gruppi (R3 e/o R4): alchil, acetile, nitro, ammino, trifluorometil, metossi, trifluorometossi,ciano e alogenuri quali fluoro, cloro, bromo o iodio; con o senza il nucleo fenile del sistema benzilico sostituito, nelle posizioni da 2 a 6, dai seguenti gruppi (Rn): 1. alchil, aloalchil, alcossi, aloalcossi; 2. trifluorometossi, acetossi, trifluorometil, idrossi, ciano e alogenuri quali fluoro, cloro, bromo o iodio; 3. alchilsolfonil, tioalchil; 4. con carbonio benzilico che puo' essere sostituito da uno o due gruppi alchilici; 5. con carbonio benzilico che puo' essere sostituito da due gruppi metilenici «C1-C2» sostituiti o non sostituiti da gruppi alchilici; 6. carbonio benzilico sostituito da un atomo di azoto, ossigeno o zolfo con o senza sostituzione del nucleo fenile del sistema benzile in posizione 3 e/o 4 con un gruppo alcossi, anche per formare una struttura ciclica.)) |
 
-  
-  
-  
-  
+Tabelle
+
 (53) (58)   
 TABELLA II   
 SOSTANZE   
