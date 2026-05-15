@@ -58,9 +58,11 @@ d) predisporre la relazione sullo stato di attuazione delle politiche sulla disa
 
 e) promuovere la realizzazione di studi e ricerche che possano contribuire ad individuare aree prioritarie verso cui indirizzare azioni e interventi per la promozione dei diritti delle persone con disabilita'.
 
-5-bis. 
+5-bis. Il programma di azione triennale
 
-((Il programma di azione triennale e' adottato con decreto del Presidente della Repubblica, su proposta del Presidente del Consiglio dei ministri ovvero dell'Autorita' politica delegata in materia di disabilita', previa deliberazione del Consiglio dei ministri.))
+((di cui al comma 5, lettera b),))
+
+e' adottato con decreto del Presidente della Repubblica, su proposta del Presidente del Consiglio dei ministri ovvero dell'Autorita' politica delegata in materia di disabilita', previa deliberazione del Consiglio dei ministri.
 
 6. Al funzionamento dell'Osservatorio e' destinato uno stanziamento annuo di 500.000 euro, per gli anni dal 2009 al 2014. Al relativo onere si provvede mediante corrispondente riduzione dell'autorizzazione di spesa di cui all'[articolo 20, comma 8, della legge 8 novembre 2000, n. 328](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2000-11-08;328~art20-com8).
 
