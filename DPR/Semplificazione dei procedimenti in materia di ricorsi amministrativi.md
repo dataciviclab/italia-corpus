@@ -83,9 +83,9 @@ La decisione deve essere motivata e deve essere emessa e comunicata all'organo o
 
   
   
-Decorso il termine di novanta giorni dalla data di presentazione del ricorso senza che l'organo adito abbia comunicato la decisione, il ricorso si intende respinto a tutti gli effetti, e contro il provvedimento impugnato e' esperibile il ricorso all'autorita' giurisdizionale competente, o
+Decorso il termine di novanta giorni dalla data di presentazione del ricorso senza che l'organo adito abbia comunicato la decisione, il ricorso si intende respinto a tutti gli effetti, e contro il provvedimento impugnato e' esperibile il ricorso all'autorita' giurisdizionale competente, o quello di cui al
 
-((quello di cui al capo terzo))
+((capo III))
 
 .   
 
@@ -101,8 +101,8 @@ CAPO II CAPO II RICORSO IN OPPOSIZIONE
 Nei casi previsti dalla legge, il ricorso in opposizione e' presentato all'organo che ha emanato l'atto impugnato.  
 Per quanto non espressamente previsto dalla legge valgono, in quanto applicabili, le norme contenute nel capo I del presente decreto.  
 
-CAPO III CAPO III RICORSO STRAORDINARIO AL PRESIDENTE DELLA REPUBBLICA
-----------------------------------------------------------------------
+CAPO III CAPO III ((Ricorso straordinario))
+-------------------------------------------
 
 ### Art. 8
 
