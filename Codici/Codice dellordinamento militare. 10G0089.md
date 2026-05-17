@@ -11067,6 +11067,8 @@ n) esito negativo agli accertamenti diagnostici per l'abuso di alcool, per l'uso
 
 ((Per il reclutamento nell'Arma dei carabinieri e' altresi' richiesto il requisito dell'affidabilita' di cui all'[articolo 9 della legge 3 agosto 2007, n. 124](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2007-08-03;124~art9)))
 
+.
+
 ### Art. 636
 
 Obiettori di coscienza
@@ -12271,6 +12273,20 @@ a) nel limite massimo del 60 per cento dei posti disponibili agli appartenenti a
 
 b) nel limite minimo del 40 per cento agli appartenenti ai ruoli iniziali in servizio permanente che rivestono il grado di appuntato, carabiniere scelto e carabiniere.
 
+### Art. 690-bis
+
+(( (Ulteriori modalita' per il reclutamento dei sergenti).))
+
+((1. In relazione alle specifiche esigenze funzionali, ciascuna Forza armata puo' bandire concorsi straordinari per titoli ed esami per il reclutamento nel ruolo sergenti riservati, nel limite massimo del 15 per cento dei posti disponibili, da computarsi nel limite massimo del 60 per cento di cui all'articolo 690, comma 1, lettera a), ai volontari in ferma prefissata quadriennale e ai volontari in ferma prefissata triennale in servizio che, alla data di scadenza del termine per la presentazione delle domande, hanno maturato almeno:))
+
+((quarantadue mesi in qualita' di volontario in ferma prefissata quadriennale;))
+
+((diciotto mesi in qualita' di volontario in ferma prefissata triennale.))
+
+2. 
+
+((I volontari in ferma prefissata di cui al comma 1, utilmente collocati nella graduatoria di merito, frequentano il corso di cui all'articolo 773, al termine del quale, qualora dichiarati idonei, conseguono la nomina a sergente e sono iscritti in ruolo nell'ordine determinato dalla graduatoria finale del corso, con decorrenza dalla data di conclusione dello stesso.))
+
 ### Art. 691
 
 ((ARTICOLO ABROGATO DAL [D.LGS. 27 DICEMBRE 2019, N. 173](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2019-12-27;173)))
@@ -13182,17 +13198,39 @@ CAPO CXXXVI - SEZIONE II UFFICIALI DELL'ESERCITO ITALIANO
 
 ### Art. 725
 
-Corso di applicazione
+((Formazione degli aspiranti e degli ufficiali presso l'Accademia militare e le scuole di applicazione))
 
-1. Per i sottotenenti e tenenti dei ruoli normali, delle Armi di fanteria, cavalleria, artiglieria, genio e trasmissioni, dell'Arma dei trasporti e dei materiali e del Corpo di commissariato che superino i corsi delle scuole di applicazione, il nuovo ordine di anzianita' e' determinato, con decreto ministeriale, in base alla graduatoria stabilita secondo le norme previste nel regolamento.
+1. 
 
-1-bis. Le disposizioni di cui al comma 1 relative alla determinazione dell'anzianita' si applicano anche agli ufficiali dei ruoli normali del Corpo degli ingegneri e del Corpo sanitario.
+((Per gli aspiranti, i sottotenenti e i tenenti dei ruoli normali, delle Armi di fanteria, cavalleria, artiglieria, genio e trasmissioni, dell'Arma dei trasporti e dei materiali, del Corpo degli ingegneri, del Corpo di commissariato e del Corpo sanitario, che superano i corsi presso l'Accademia militare e le scuole di applicazione, il nuovo ordine di anzianita' e' determinato, con decreto ministeriale, in base alla graduatoria stabilita secondo le norme previste nel regolamento.))
 
-2. Gli ufficiali di cui al comma 1 che non superino per una sola volta uno degli anni del corso di applicazione per essi previsto sono ammessi a ripeterlo
+1-bis. 
 
-((e sono iscritti in ruolo dopo l'ultimo dei parigrado del corso cui sono aggregati, assumendone la stessa anzianita' assoluta))
+((COMMA ABROGATO DAL [D.LGS. 2 APRILE 2026, N. 58](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2026-04-02;58)))
 
-. Gli ufficiali di cui al comma 1 che superino il corso di applicazione con ritardo per motivi di servizio riconosciuti con determinazione ministeriale ovvero per motivi di salute, sono iscritti in ruolo al posto che a essi sarebbe spettato se avessero superato il corso al loro turno.
+.
+
+2. 
+
+((Gli aspiranti e gli ufficiali di cui al comma 1, che:   
+a) non superano per una sola volta uno degli anni del corso per essi previsto, sono ammessi a ripeterlo e sono iscritti in ruolo dopo l'ultimo dei parigrado del corso cui sono aggregati, assumendone la stessa anzianita' assoluta;   
+b) superano il corso per essi previsto con ritardo per motivi di servizio riconosciuti con determinazione ministeriale ovvero per motivi di salute, sono iscritti in ruolo al posto che a essi sarebbe spettato se avessero superato il corso al loro turno.))
+
+2-bis. 
+
+((I sottotenenti di cui al comma 1 sono tratti dai frequentatori degli istituti di formazione che hanno completato con esito favorevole il terzo anno di corso secondo le modalita' previste dal piano degli studi della Forza armata e secondo quanto previsto dal regolamento dell'istituto.))
+
+2-ter. 
+
+((L'anzianita' di grado dei sottotenenti di cui al comma 1 decorre, ai soli fini giuridici, dalla data di nomina ad aspirante.))
+
+2-quater. 
+
+((E' nominato aspirante e ammesso a frequentare il terzo anno in qualita' di frequentatore, l'allievo dei ruoli di cui al comma 1 risultato idoneo al termine del secondo anno. La nomina ad aspirante decorre a partire dai corsi di formazione in accademia avviati dall'anno 2024.))
+
+2-quinquies. 
+
+((L'alloggiamento e il pernottamento degli aspiranti possono essere disciplinati con regolamento dell'istituto di formazione.))
 
 ### Art. 726
 
@@ -13200,13 +13238,13 @@ Mancato superamento del corso di applicazione
 
 1. Fermo restando quanto previsto dall'articolo 660, i sottotenenti e i tenenti di cui all'articolo 725, comma 1, che non superano i corsi di applicazione per essi prescritti e ottengono a domanda di permanere in servizio permanente, ai sensi dell'articolo 655, comma 1, lettera d), sono trasferiti, anche in soprannumero, nei ruoli speciali e sono iscritti in tali ruoli dopo i pari grado in possesso della stessa anzianita' assoluta.
 
-((
-
 1-bis. Gli ufficiali che non superano l'anno di corso perche' non idonei in attitudine militare sono posti in congedo secondo le modalita' previste dall'articolo 935, comma 1, lettera c-bis).
 
-))
+2. Gli ufficiali dei ruoli normali
 
-2. Gli ufficiali dei ruoli normali del Corpo degli ingegneri e del Corpo sanitario che non hanno completato il ciclo di studi per essi previsto per il conseguimento della laurea, possono ottenere con determinazione ministeriale, su proposta delle autorita' gerarchiche, la proroga fino a un massimo di due anni accademici. Se completano il ciclo di studi universitari entro la proroga concessa, subiscono una detrazione di anzianita' nel ruolo pari alla proroga concessa.
+((dell'Arma dei trasporti e dei materiali,))
+
+del Corpo degli ingegneri e del Corpo sanitario che non hanno completato il ciclo di studi per essi previsto per il conseguimento della laurea, possono ottenere con determinazione ministeriale, su proposta delle autorita' gerarchiche, la proroga fino a un massimo di due anni accademici. Se completano il ciclo di studi universitari entro la proroga concessa, subiscono una detrazione di anzianita' nel ruolo pari alla proroga concessa.
 
 3. Agli ufficiali di cui al comma 2 che non conseguono il diploma di laurea nei limiti di tempo prescritti, compresa l'eventuale proroga, si applicano le disposizioni di cui al comma 1, con destinazione a uno dei ruoli speciali esistenti, individuati secondo le esigenze di Forza armata, nonche' una detrazione di anzianita' nel ruolo pari alla proroga concessa.
 
@@ -13778,14 +13816,13 @@ Svolgimento dei corsi e nomina nel grado
 
 1. Il personale vincitore del concorso di cui all'articolo 679, comma 1, lettere a) e b), e' tenuto a frequentare un corso di formazione e di specializzazione, nonche' il tirocinio complementare fino alla concorrenza dei due anni, presso ciascuna Forza armata, avuto riguardo alle assegnazioni, agli incarichi, alle specializzazioni, alle categorie e specialita', alle esigenze specifiche di Forza armata, al risultato della selezione psico-fisica e attitudinale, nonche' alle preferenze espresse dagli arruolati; al termine del periodo di formazione e istruzione nonche' dei periodi di tirocinio complementare, gli allievi sono sottoposti a esami e trattenuti d'ufficio per il periodo necessario all'espletamento delle prove.
 
-1-bis. In relazione alle esigenze di ciascuna Forza armata, il personale vincitore del concorso di cui all'articolo 679, comma 1, lettera b), in alternativa al corso di cui al comma 1 del presente articolo, puo' essere avviato a frequentare un corso di formazione professionale di durata comunque non inferiore a
-
-((tre mesi))
-
-.  
-All'esito dei corsi di formazione, il medesimo personale puo' essere impiegato anche nella sede di servizio di provenienza, tenuto conto delle esigenze dell'amministrazione di cui alle direttive di impiego di ciascuna Forza armata e, ove possibile, delle preferenze espresse dal personale stesso.
+1-bis. In relazione alle esigenze di ciascuna Forza armata, il personale vincitore del concorso di cui all'articolo 679, comma 1, lettera b), in alternativa al corso di cui al comma 1 del presente articolo, puo' essere avviato a frequentare un corso di formazione professionale di durata comunque non inferiore a tre mesi. All'esito dei corsi di formazione, il medesimo personale puo' essere impiegato anche nella sede di servizio di provenienza, tenuto conto delle esigenze dell'amministrazione di cui alle direttive di impiego di ciascuna Forza armata e, ove possibile, delle preferenze espresse dal personale stesso.
 
 2. Al superamento degli esami sono nominati, sulla base della graduatoria di merito, marescialli e gradi corrispondenti in servizio permanente, con decorrenza dal giorno successivo alla data in cui hanno avuto termine gli esami finali; gli allievi non idonei possono essere trattenuti a domanda per sostenere per una sola volta il primo esame utile.
+
+2-bis. 
+
+((Ai marescialli, reclutati ai sensi dell'articolo 679, comma 1, lettera a), che hanno superato i corsi di cui al comma 1, all'atto dell'iscrizione in ruolo, si applica una ferma obbligatoria di anni 5.))
 
 3. Agli allievi si applicano le disposizioni previste dal regolamento per lo svolgimento dei corsi.
 
@@ -14008,27 +14045,25 @@ CAPO CXLVIII - CAPO VII SERGENTI
 
 ### Art. 773
 
-Corso di
+Corso di formazione basico
 
-((formazione basico))
+1. I volontari
 
-1. I volontari in servizio permanente utilmente collocati nella graduatoria di merito del concorso per il reclutamento del personale del ruolo dei sergenti dell'Esercito italiano, della Marina militare e dell'Aeronautica militare frequentano un corso di
+((in ferma prefissata di cui all'articolo 690-bis e i volontari))
 
-((formazione basico di durata non superiore))
-
-a tre mesi.
+in servizio permanente utilmente collocati nella graduatoria di merito del concorso per il reclutamento del personale del ruolo dei sergenti dell'Esercito italiano, della Marina militare e dell'Aeronautica militare frequentano un corso di formazione basico di durata non superiore a tre mesi.
 
 2. Coloro che al termine del corso sono dichiarati idonei conseguono la nomina a sergente e sono inseriti in ruolo nell'ordine determinato dalla graduatoria finale del corso, con decorrenza dalla data di conclusione dello stesso.
 
 ### Art. 774
 
-(( (Stato giuridico dei frequentatori). ))
+(Stato giuridico dei frequentatori)
 
-((
+1. Agli ammessi ai corsi per la nomina a sergente si applicano le disposizioni sullo stato giuridico
 
-1. Agli ammessi ai corsi per la nomina a sergente si applicano le disposizioni sullo stato giuridico dei volontari in servizio permanente e quelle contenute nel regolamento.
+((del ruolo di provenienza all'atto dell'inizio del corso di formazione di cui all'articolo 773))
 
-))
+e quelle contenute nel regolamento.
 
 CAPO CXLIX - CAPO VIII SOVRINTENDENTI
 -------------------------------------
@@ -15598,13 +15633,17 @@ e delle direzioni del genio militare per la Marina ed enti subordinati, possono 
 
 ### Art. 833-ter
 
-(( (Transito dal ruolo normale al ruolo speciale degli ufficiali con grado fino a tenente colonnello delle Armi dell'Aeronautica militare). ))
+(Transito dal ruolo normale al ruolo speciale degli ufficiali con grado fino a tenente colonnello
 
-((
+((...))
 
-1. In relazione a particolari esigenze funzionali, gli ufficiali fino al grado di tenente colonnello possono transitare, a domanda, dal ruolo normale al ruolo speciale delle Armi dell'Aeronautica militare, nel numero e con le modalita' stabilite con decreto ministeriale. Gli ufficiali transitati ai sensi del presente articolo mantengono il grado, la posizione di stato, l'anzianita' di grado e sono iscritti in ruolo secondo le modalita' di cui all'articolo 797, commi 2 e 3.
+dell'Aeronautica militare).
 
-))
+1. In relazione a particolari esigenze funzionali, gli ufficiali fino al grado di tenente colonnello possono transitare, a domanda, dal ruolo normale al ruolo speciale
+
+((...))
+
+dell'Aeronautica militare, nel numero e con le modalita' stabilite con decreto ministeriale. Gli ufficiali transitati ai sensi del presente articolo mantengono il grado, la posizione di stato, l'anzianita' di grado e sono iscritti in ruolo secondo le modalita' di cui all'articolo 797, commi 2 e 3.
 
 ### Art. 833-quater
 
@@ -17974,11 +18013,9 @@ CAPO CXCII - SEZIONE V INCARICHI IN CAMPO INTERNAZIONALE
 
 Ufficiali
 
-1. Gli ufficiali in servizio permanente che sono destinati a ricoprire incarichi particolarmente qualificanti in campo internazionale
+1. 
 
-((o, in campo nazionale, presso agenzie ed enti esterni al Ministero della difesa))
-
-sono vincolati a una ferma pari a due volte la durata dell'incarico, con decorrenza dalla data di assunzione dell'incarico, aggiuntiva rispetto al periodo di ferma eventualmente in atto.
+((Gli ufficiali in servizio permanente, che sono destinati a ricoprire incarichi particolarmente qualificanti in campo internazionale o in campo nazionale presso agenzie ed enti esterni al Ministero della difesa, sono vincolati a una ferma aggiuntiva pari a due volte la durata dell'incarico, con decorrenza dalla data di assunzione dell'incarico. Tale ferma aggiuntiva viene assorbita nella ferma eventualmente gia' in atto, limitatamente al periodo sovrapponibile.))
 
 2. Il Ministro della difesa definisce, con proprio decreto da pubblicare nella Gazzetta Ufficiale, gli incarichi di cui al comma 1.
 
@@ -26186,9 +26223,11 @@ c) previsione che il personale non piu' idoneo alle attivita' dei gruppi sportiv
 
 d) assicurare criteri omogenei di valutazione per l'autorizzazione delle sponsorizzazioni e di destinazione dei proventi, tenuto conto di quanto previsto dall'[articolo 43, comma 7, della legge 27 dicembre 1997, n. 449](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-12-27;449~art43-com7).
 
-2. Al personale dei gruppi sportivi si applicano le disposizioni del presente libro, salvo quanto previsto dal regolamento. Per particolari discipline sportive indicate dal bando di concorso, i limiti minimo e massimo di eta' per il reclutamento degli atleti dei gruppi sportivi delle Forze armate sono fissati, rispettivamente, in diciassette e trentacinque anni. Il personale reclutato ai sensi del presente articolo non puo' essere impiegato in attivita' operative fino al compimento del diciottesimo anno di eta'.
+1-bis. 
 
-((Il limite di eta' per il reclutamento degli istruttori dei gruppi sportivi delle Forze armate e' fissato in trentacinque anni.))
+((Possono partecipare ai pubblici concorsi per il reclutamento degli atleti e degli istruttori dei gruppi sportivi dell'Esercito italiano, della Marina militare e dell'Aeronautica militare, di cui al libro quarto, titolo XI, del regolamento, i giovani che, anche senza aver effettuato il servizio quali volontari in ferma prefissata iniziale, sono in possesso dei requisiti previsti per l'arruolamento quali volontari in ferma prefissata triennale e, se vincitori, sono avviati allo specifico corso formativo in qualita' di volontari in ferma prefissata triennale.))
+
+2. Al personale dei gruppi sportivi si applicano le disposizioni del presente libro, salvo quanto previsto dal regolamento. Per particolari discipline sportive indicate dal bando di concorso, i limiti minimo e massimo di eta' per il reclutamento degli atleti dei gruppi sportivi delle Forze armate sono fissati, rispettivamente, in diciassette e trentacinque anni. Il personale reclutato ai sensi del presente articolo non puo' essere impiegato in attivita' operative fino al compimento del diciottesimo anno di eta'. Il limite di eta' per il reclutamento degli istruttori dei gruppi sportivi delle Forze armate e' fissato in trentacinque anni.
 
 CAPO CCCXVII - LIBRO QUINTO PERSONALE CIVILE E PERSONALE AUSILIARIO DELLE FORZE ARMATE TITOLO I DISPOSIZIONI GENERALI
 ---------------------------------------------------------------------------------------------------------------------
@@ -29516,11 +29555,7 @@ c) euro 103,29, per gli ufficiali che abbiano prestato un periodo di ferma pari 
 
 Retribuzione degli allievi di scuole e accademie militari
 
-1. Agli allievi ufficiali, agli allievi marescialli e agli allievi delle carriere iniziali dell'Esercito italiano, della Marina militare e dell'Aeronautica militare sono attribuite le paghe nette giornaliere nella misura percentuale
-
-((del 74 per cento riferita al valore giornaliero dello stipendio iniziale lordo e dell'indennita' integrativa speciale costituenti la retribuzione mensile del grado iniziale dei volontari in servizio permanente))
-
-.
+1. Agli allievi ufficiali, agli allievi marescialli e agli allievi delle carriere iniziali dell'Esercito italiano, della Marina militare e dell'Aeronautica militare sono attribuite le paghe nette giornaliere nella misura percentuale del 74 per cento riferita al valore giornaliero dello stipendio iniziale lordo e dell'indennita' integrativa speciale costituenti la retribuzione mensile del grado iniziale dei volontari in servizio permanente.
 
 2. Agli allievi ufficiali e agli allievi marescialli provenienti da altri ruoli senza soluzione di continuita', in luogo della paga prevista al comma 1, competono gli assegni del grado rivestito all'atto dell'ammissione all'accademia o alla frequenza dei corsi; se essi sono superiori a quelli spettanti nella nuova posizione, e' attribuito un assegno personale riassorbibile in applicazione del principio di cui all'articolo 1780.
 
@@ -29545,6 +29580,10 @@ g) l'indennita' supplementare per allievi piloti: 85,53 euro.
 5. Agli allievi ufficiali in ferma prefissata compete il trattamento economico previsto per gli allievi ufficiali delle accademie.
 
 6. Si applicano agli allievi delle scuole e delle accademie militari le disposizioni previste per i militari di cui all'articolo 1788, comma 1, in materia di sospensione della paga e di assegni per il nucleo familiare.
+
+6-bis. 
+
+((In relazione a quanto previsto dall'articolo 2268, comma 1, numero 736), gli allievi dei corsi regolari dell'Accademia militare, dell'Accademia navale e dell'Accademia aeronautica, all'atto della nomina ad aspirante ufficiale e limitatamente alla permanenza in detta qualifica, hanno diritto al trattamento economico iniziale del sottotenente o guardiamarina in servizio permanente. La disposizione di cui al presente comma si applica a decorrere dalla data di entrata in vigore del presente codice.))
 
 ### Art. 1799
 
@@ -37000,6 +37039,14 @@ a) fino all'anno 2024, e' innalzato a 55 anni per il reclutamento nel ruolo spec
 
 b) negli anni 2020, 2021 e 2022 non si applica ai concorrenti di cui all'articolo 655, comma 1, lettera b).
 
+### Art. 2196-bis.1
+
+(( (Regime transitorio dei reclutamenti degli ufficiali dei ruoli normali dell'Esercito italiano, della Marina militare e dell'Aeronautica militare).))
+
+1. 
+
+((Fino all'anno 2033, il limite di eta' per la partecipazione al concorso di cui all'articolo 652 e' elevato a quaranta anni per il personale dei ruoli marescialli, sergenti e volontari in servizio permanente dell'Esercito italiano, della Marina militare e dell'Aeronautica militare.))
+
 ### Art. 2196-ter
 
 (Disposizioni transitorie in materia di reclutamento del ruolo normale dell'Arma dei carabinieri)
@@ -37177,7 +37224,9 @@ c) ai vincitori del concorso e' assicurata la permanenza, almeno biennale, nella
 
 (Reclutamento straordinario per il ruolo dei marescialli)
 
-1. In deroga a quanto previsto dagli articoli 682 e 760 e nell'ambito delle consistenze del personale di ciascuna Forza armata, come determinate per l'anno 2020 ai sensi dell'articolo 2207, e' autorizzato, per il solo anno 2020, il reclutamento, a nomina diretta con il grado di maresciallo o grado corrispondente, mediante concorso per titoli, di n. 60 marescialli in servizio permanente, di cui n. 30 dell'Esercito italiano, n. 15 della Marina militare e n. 15 dell'Aeronautica militare.
+1. 
+
+((In deroga a quanto previsto dagli articoli 682 e 760 e nell'ambito delle consistenze del personale di ciascuna Forza armata, e' autorizzato, per il biennio 2026-2027, il reclutamento, a nomina diretta con il grado di maresciallo o grado corrispondente, mediante concorso per titoli, di trenta marescialli in servizio permanente. I posti a concorso sono ripartiti, per Forza armata, con determinazione del Capo di stato maggiore della difesa.))
 
 2. Il concorso di cui al comma 1 e' riservato al personale in servizio appartenente ai ruoli dei sergenti e dei volontari in servizio permanente, anche in deroga ai vigenti limiti di eta', in possesso dei seguenti requisiti:
 
@@ -37187,11 +37236,15 @@ b) non aver riportato nell'ultimo biennio sanzioni disciplinari piu' gravi della
 
 3. Le modalita' di svolgimento del concorso, compresi la tipologia e i criteri di valutazione dei titoli di merito ai fini della formazione della graduatoria, sono stabiliti dal bando di concorso.
 
-3-bis. Per i posti eventualmente non coperti con il concorso di cui al comma 1, nell'anno 2021 puo' essere bandito un ulteriore concorso per titoli riservato al medesimo personale di cui al comma 2 e secondo le modalita' di cui al comma 3. Con determinazione del Capo di stato maggiore della difesa, i posti di cui al primo periodo sono ripartiti per Forza armata, nell'ambito delle relative consistenze di personale, come determinate per l'anno 2021 ai sensi dell'articolo 2207.
+3-bis. 
+
+((COMMA ABROGATO DAL [D.LGS. 2 APRILE 2026, N. 58](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2026-04-02;58)))
+
+.
 
 3-ter. 
 
-((Per i posti non coperti con il concorso di cui al comma 3-bis, nell'anno 2024 puo' essere bandito un ulteriore concorso per titoli riservato al medesimo personale di cui al comma 2 e secondo le modalita' di cui al comma 3. Con determinazione del Capo di stato maggiore della difesa, i posti di cui al primo periodo sono ripartiti per Forza armata, nell'ambito delle relative consistenze di personale, come determinate per l'anno 2024 ai sensi dell'articolo 2207))
+((COMMA ABROGATO DAL [D.LGS. 2 APRILE 2026, N. 58](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2026-04-02;58)))
 
 .
 
@@ -37214,6 +37267,34 @@ b) aver riportato nell'ultimo triennio in servizio permanente la qualifica di al
 3. Con decreto del Ministro della difesa di concerto con il Ministro dell'economia e delle finanze, e' stabilita la ripartizione annuale dei posti per Forza armata.
 
 4. I vincitori dei concorsi di cui al comma 1 sono immessi nel ruolo dei marescialli con il grado di maresciallo e, con il medesimo grado, ove ritenuto indispensabile dalla Forza armata di appartenenza, sono tenuti a frequentare un corso di formazione della durata massima di sei mesi.
+
+### Art. 2197-quater.1
+
+(( (Disposizioni transitorie in materia di reclutamento interno straordinario nel ruolo dei marescialli dell'Esercito italiano, della Marina militare e dell'Aeronautica militare).))
+
+1. 
+
+((Fino all'anno 2033, per specifiche esigenze delle Forze armate, possono essere banditi concorsi straordinari per titoli, nei limiti delle risorse finanziarie disponibili a legislazione vigente, per l'accesso al ruolo marescialli dell'Esercito italiano, della Marina militare e dell'Aeronautica militare in favore del personale appartenente ai ruoli sergenti e volontari in servizio permanente della medesima Forza armata, in possesso dei seguenti requisiti:   
+a) laurea a indirizzo tecnico-ingegneristico, informatico e sanitario;   
+b) eta' non superiore a 52 anni;   
+c) non aver riportato, nell'ultimo biennio, sanzioni disciplinari piu' gravi della consegna;   
+d) non aver riportato, nell'ultimo biennio, una valutazione inferiore a "superiore alla media" o giudizio corrispondente.))
+
+2. 
+
+((Il numero dei posti a concorso in applicazione del comma 1 non puo' superare il 20 per cento dell'entita' dei posti devoluta ai sergenti e ai volontari in servizio permanente ai sensi dell'articolo 2197, comma 1, lettera b).))
+
+3. 
+
+((Il numero dei posti riservati di cui all'articolo 682, comma 5, lettere a) e b), e' ridotto in misura corrispondente al numero dei posti messi a concorso ai sensi del comma 1, rispettivamente in favore dei sergenti e dei volontari in servizio permanente.))
+
+4. 
+
+((Le modalita' di svolgimento dei concorsi, compresi la tipologia e i criteri di valutazione dei titoli di merito, sono stabiliti dai rispettivi bandi.))
+
+5. 
+
+((I vincitori dei concorsi di cui al comma 1 sono immessi nel ruolo marescialli con il grado di maresciallo o grado corrispondente e, con il medesimo grado, ove ritenuto indispensabile dalla Forza armata di appartenenza, sono tenuti a frequentare un corso di formazione della durata massima di tre mesi.))
 
 ### Art. 2197-quinquies
 
@@ -37250,6 +37331,51 @@ c) non aver riportato nell'ultimo biennio sanzioni disciplinari piu' gravi della
 3. Con decreto del Ministro della difesa di concerto con il Ministro dell'economia e delle finanze, e' stabilita la ripartizione annuale dei posti per Forza armata.
 
 4. I vincitori dei concorsi di cui al comma 1 sono immessi nel ruolo dei sergenti con il grado di sergente e, con il medesimo grado, ove ritenuto indispensabile dalla Forza armata di appartenenza, sono tenuti a frequentare un corso di formazione della durata massima di tre mesi.
+
+### Art. 2197-sexies.1
+
+(( (Regime transitorio del reclutamento nel ruolo sergenti dell'Esercito italiano, della Marina militare e dell'Aeronautica militare. Ulteriori modalita' per il reclutamento).))
+
+1. 
+
+((Fino all'anno 2030, per specifiche esigenze delle singole Forze armate, possono essere banditi concorsi per titoli ed esami, nei limiti delle risorse finanziarie disponibili a legislazione vigente, per il reclutamento di personale con il grado di sergente.  
+Ai predetti concorsi partecipano i giovani in possesso dei seguenti requisiti:   
+a) diploma di istruzione secondaria di secondo grado;   
+b) eta' non superiore a trentadue anni alla data indicata nel bando di concorso.))
+
+2. 
+
+((I concorsi di cui al comma 1 possono essere banditi nell'anno in corso se, al 31 dicembre dell'anno precedente, il ruolo dei sergenti presenta vacanze organiche in misura pari o superiore al 30 per cento delle dotazioni previste dall'articolo 798-bis.))
+
+3. 
+
+((Il numero massimo dei posti banditi per i concorsi di cui al comma 1 e' stabilito in misura non superiore al 5 per cento delle vacanze organiche di cui al comma 2.))
+
+4. 
+
+((Le modalita' di svolgimento dei concorsi di cui al comma 1 sono stabilite con decreto di cui all'articolo 690, comma 3.))
+
+5. 
+
+((Il personale vincitore dei concorsi di cui al comma 1:   
+a) e' tenuto a frequentare un corso di formazione e di specializzazione di durata non inferiore a sei mesi, nonche' un tirocinio complementare;   
+b) durante la frequenza dei corsi di cui alla lettera a) assume la qualita' di allievo e lo stato giuridico di volontario in ferma iniziale.))
+
+6. 
+
+((Le modalita' di svolgimento e la durata dei corsi e dei tirocini di cui al comma 5, lettera a), sono disciplinate con determinazione dei rispettivi Capi di stato maggiore di Forza armata o autorita' dagli stessi delegata.))
+
+7. 
+
+((L'anzianita' relativa del personale vincitore dei concorsi di cui al comma 1 e' determinata, a seguito del superamento degli esami di fine corso, dalla media del punteggio della graduatoria del concorso e di quello conseguito al termine del corso di formazione e di specializzazione.))
+
+8. 
+
+((Il personale vincitore dei concorsi di cui al comma 1 e' iscritto in ruolo con decorrenza dal giorno successivo alla data di nomina dell'ultimo dei sergenti proveniente dai concorsi di cui agli articoli 690 e 690-bis, nell'anno di riferimento.))
+
+9. 
+
+((I candidati che non superano i corsi di cui al comma 5, lettera a), sono collocati in congedo, se non devono assolvere o completare gli obblighi di leva. Il periodo di durata dei corsi non e' computabile ai fini dell'assolvimento degli obblighi di leva.))
 
 ### Art. 2197-septies
 
@@ -38680,15 +38806,13 @@ m-quinquies) 2024: ufficiali: 60; marescialli: 284; totale 344;
 
 m-sexies) 2025: ufficiali: 32; marescialli: 75; totale 107;
 
-m-septies)
+m-septies) 2026: ufficiali: 16; marescialli: 38;
 
-((2026: ufficiali: 16; marescialli: 38; totali 54.))
+((totale))
 
-1-bis. Il cinquanta per cento delle unita' di ufficiali di cui al comma 1, lettere da m) a
+54.
 
-(( m-septies) ))
-
-, e' riservato ai tenenti colonnelli. Se il numero dei tenenti colonnelli e' inferiore alla quota riservata, le posizioni residue sono devolute a ufficiali aventi grado diverso.
+1-bis. Il cinquanta per cento delle unita' di ufficiali di cui al comma 1, lettere da m) a m-septies), e' riservato ai tenenti colonnelli. Se il numero dei tenenti colonnelli e' inferiore alla quota riservata, le posizioni residue sono devolute a ufficiali aventi grado diverso.
 
 ### Art. 2231
 
@@ -43120,9 +43244,7 @@ Quadro I (specchio A-bis)
   
 Quadro I (specchio B - anno 2022)   
   
-
-(([Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=v010G00890040001011000310&dgu=2010-05-08&art.dataPubblicazioneGazzetta=2010-05-08&art.codiceRedazionale=010G0089)))
-
+[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=v010G00890040001011000310&dgu=2010-05-08&art.dataPubblicazioneGazzetta=2010-05-08&art.codiceRedazionale=010G0089)
   
 (88)   
   

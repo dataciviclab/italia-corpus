@@ -6389,17 +6389,21 @@ Il [D.Lgs. 22 novembre 2023, n. 184](http://www.normattiva.it/uri-res/N2Ls?urn:n
 
 1. In deroga a quanto disposto dall'articolo 122, comma 1, del presente codice e dall'[articolo 193 del codice della strada](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-04-30;285~art193) di cui al [decreto legislativo 30 aprile 1992, n. 285](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-04-30;285), i veicoli formalmente ritirati dalla circolazione nonche' quelli il cui uso e' vietato, in via temporanea o permanente, in forza di una misura adottata dall'autorita' competente conformemente alla normativa vigente, non sono soggetti all'obbligo di assicurazione.
 
-1-bis. 
+1-bis. La deroga di cui al comma 1 trova altresi' applicazione per i veicoli di cui all'articolo 1, comma 1, lettera rrr), del presente codice rientranti nella tipologia dei carrelli di cui all'[articolo 58, comma 2, lettera c), del codice della strada](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-04-30;285~art58-com2-letc), di cui al [decreto legislativo 30 aprile 1992, n. 285](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-04-30;285), non immatricolati, quando operano all'interno di aree aziendali, stabilimenti, magazzini o depositi, nonche' per i veicoli utilizzati esclusivamente in zone non accessibili al pubblico nelle aree ferroviarie, portuali e aeroportuali, coperti da polizza assicurativa per la responsabilita' civile verso terzi diversa dall'assicurazione obbligatoria. Nei casi di cui al presente comma non vi e' obbligo di indennizzo da parte del Fondo di garanzia di cui all'articolo 283 del presente codice, se la responsabilita' verso terzi, per i sinistri occorsi nelle aree indicate, e' comunque coperta da assicurazione volontaria o contratta in forza di disposizioni speciali.
 
-((La deroga di cui al comma 1 trova altresi' applicazione per i veicoli di cui all'articolo 1, comma 1, lettera rrr), del presente codice rientranti nella tipologia dei carrelli di cui all'[articolo 58, comma 2, lettera c), del codice della strada](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-04-30;285~art58-com2-letc), di cui al [decreto legislativo 30 aprile 1992, n. 285](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-04-30;285), non immatricolati, quando operano all'interno di aree aziendali, stabilimenti, magazzini o depositi, nonche' per i veicoli utilizzati esclusivamente in zone non accessibili al pubblico nelle aree ferroviarie, portuali e aeroportuali, coperti da polizza assicurativa per la responsabilita' civile verso terzi diversa dall'assicurazione obbligatoria. Nei casi di cui al presente comma non vi e' obbligo di indennizzo da parte del Fondo di garanzia di cui all'articolo 283 del presente codice, se la responsabilita' verso terzi, per i sinistri occorsi nelle aree indicate, e' comunque coperta da assicurazione volontaria o contratta in forza di disposizioni speciali.))
+1-ter. La deroga di cui al comma 1 trova altresi' applicazione per le macchine agricole di cui all'[articolo 57 del codice della strada](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-04-30;285~art57), di cui al [decreto legislativo 30 aprile 1992, n. 285](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-04-30;285), non immatricolate o prive del certificato di idoneita' tecnica alla circolazione, che operano esclusivamente all'interno di fondi agricoli, aziende agrarie o spazi a uso interno non accessibili al pubblico, a condizione che siano coperte da polizza assicurativa per la responsabilita' civile verso terzi diversa dall'assicurazione obbligatoria. Nei casi di cui al presente comma non vi e' obbligo di indennizzo da parte del Fondo di garanzia di cui all'articolo 283 del presente codice, se la responsabilita' verso terzi, per i sinistri occorsi nelle aree indicate, e' comunque coperta da assicurazione volontaria o contratta in forza di disposizioni speciali.
 
-1-ter. 
+2. 
 
-((La deroga di cui al comma 1 trova altresi' applicazione per le macchine agricole di cui all'[articolo 57 del codice della strada](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-04-30;285~art57), di cui al [decreto legislativo 30 aprile 1992, n. 285](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-04-30;285), non immatricolate o prive del certificato di idoneita' tecnica alla circolazione, che operano esclusivamente all'interno di fondi agricoli, aziende agrarie o spazi a uso interno non accessibili al pubblico, a condizione che siano coperte da polizza assicurativa per la responsabilita' civile verso terzi diversa dall'assicurazione obbligatoria. Nei casi di cui al presente comma non vi e' obbligo di indennizzo da parte del Fondo di garanzia di cui all'articolo 283 del presente codice, se la responsabilita' verso terzi, per i sinistri occorsi nelle aree indicate, e' comunque coperta da assicurazione volontaria o contratta in forza di disposizioni speciali))
+((La deroga di cui al comma 1 si applica anche quando il veicolo non e' idoneo all'uso come mezzo di trasporto, inclusa l'ipotesi in cui il veicolo sia privo di parti essenziali, che lo rendano, in maniera stabile, inidoneo per il suo utilizzo. Con decreto del Ministero delle infrastrutture e dei trasporti sono identificate le parti essenziali dei veicoli la cui mancanza li renda, in maniera stabile, inidonei al loro utilizzo. Tale deroga trova applicazione anche quando l'utilizzo del veicolo e' stato volontariamente sospeso su richiesta dei soggetti di cui all'articolo 122, comma 3, per effetto di una formale comunicazione all'impresa di assicurazione resa ai sensi dell'[articolo 47 del testo unico delle disposizioni legislative e regolamentari in materia di documentazione amministrativa](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2000-12-28;445~art47), di cui al [decreto del Presidente della Repubblica 28 dicembre 2000, n. 445](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2000-12-28;445).))
 
-.
+Il termine di sospensione, inizialmente comunicato dal soggetto legittimato, puo' essere prorogato piu' volte, previa formale comunicazione all'impresa di assicurazione da effettuarsi entro dieci giorni prima della scadenza del periodo di sospensione in corso e non puo' avere una durata superiore a dieci mesi, rispetto all'annualita'. Per i veicoli di cui all'[articolo 60 del decreto legislativo 30 aprile 1992, n. 285](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-04-30;285~art60), il termine di sospensione, inizialmente comunicato dal soggetto legittimato, puo' essere prorogato piu' volte, previa formale comunicazione all'impresa di assicurazione da effettuarsi entro cinque giorni prima della scadenza del periodo di sospensione in corso e non puo' avere una durata superiore a undici mesi, rispetto all'annualita'. Con decreto del Ministro delle imprese e del made in Italy e del Ministro delle infrastrutture e dei trasporti, sentito l'Ivass, possono essere disciplinati ulteriori casi e modalita' di sospensione dell'obbligo assicurativo tenuto conto del precipuo valore collezionistico dei veicoli di cui al medesimo articolo 60.
 
-2. La deroga di cui al comma 1 si applica anche quando il veicolo non e' idoneo all'uso come mezzo di trasporto, nonche' quando il suo utilizzo e' stato volontariamente sospeso su richiesta dei soggetti di cui all'articolo 122, comma 3, per effetto di una formale comunicazione all'impresa di assicurazione resa ai sensi dell'[articolo 47 del decreto del Presidente della Repubblica 28 dicembre 2000, n. 445](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2000-12-28;445~art47). Il termine di sospensione, inizialmente comunicato dal soggetto legittimato, puo' essere prorogato piu' volte, previa formale comunicazione all'impresa di assicurazione da effettuarsi entro dieci giorni prima della scadenza del periodo di sospensione in corso e non puo' avere una durata superiore a dieci mesi, rispetto all'annualita'. Per i veicoli di cui all'[articolo 60 del decreto legislativo 30 aprile 1992, n. 285](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-04-30;285~art60), il termine di sospensione, inizialmente comunicato dal soggetto legittimato, puo' essere prorogato piu' volte, previa formale comunicazione all'impresa di assicurazione da effettuarsi entro cinque giorni prima della scadenza del periodo di sospensione in corso e non puo' avere una durata superiore a undici mesi, rispetto all'annualita'. Con decreto del Ministro delle imprese e del made in Italy e del Ministro delle infrastrutture e dei trasporti, sentito l'Ivass, possono essere disciplinati ulteriori casi e modalita' di sospensione dell'obbligo assicurativo tenuto conto del precipuo valore collezionistico dei veicoli di cui al medesimo articolo 60.
+((Ferma restando la necessita' che la carta di circolazione riporti la classificazione conseguita e i dati del certificato di rilevanza storica, in relazione ai veicoli di interesse storico e collezionistico di cui all'[articolo 60, comma 4, del codice della strada](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-04-30;285~art60-com4), di cui al [decreto legislativo 30 aprile 1992, n. 285](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-04-30;285), l'obbligo assicurativo puo' essere adempiuto anche con schemi assicurativi diversi dallo schema della responsabilita' civile dei veicoli a motore, sempre che sia indicato separatamente il premio relativo al rischio dinamico rispetto a quello statico.))
+
+2-bis. 
+
+((Nei casi di uso stagionale, nonche' nelle ipotesi di trasferimento di proprieta', demolizione o esportazione definitiva all'estero dei veicoli, con decreto del Ministro delle imprese e del made in Italy, di concerto con il Ministro delle infrastrutture e dei trasporti, sentito l'IVASS, possono essere, altresi', previsti schemi di contratti di assicurazione obbligatoria della responsabilita' civile derivante dalla circolazione dei veicoli a motore e dei natanti la cui durata puo' essere inferiore al termine di cui all'articolo 170-bis.))
 
 3. La sospensione di cui al comma 2 e' attivata dal momento della registrazione nella banca dati di cui all'articolo 1, comma 1, lettera c), del regolamento di cui al [decreto del Ministro dello sviluppo economico 9 agosto 2013, n. 110](http://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.sviluppo.economico:decreto:2013-08-09;110), secondo le modalita' previste dall'articolo 3, comma 2, del medesimo regolamento.  
 L'impresa ne da' tempestiva comunicazione all'assicurato.
@@ -6439,21 +6443,15 @@ su proposta dell'
 
 Gare e competizioni sportive
 
-1. Le gare e le competizioni sportive di qualsiasi genere di veicoli a motore e le relative prove non possono essere autorizzate, anche se in circuiti chiusi, se l'organizzatore non abbia provveduto a contrarre assicurazione per la responsabilita' civile
+1. 
 
-((dei veicoli a motore.))
+((Le gare e le competizioni sportive di qualsiasi genere di veicoli a motore e le relative prove non possono essere autorizzate, anche se in circuiti chiusi o strade interdette alla circolazione, se l'organizzatore non abbia provveduto a contrarre l'assicurazione per la responsabilita' civile dei veicoli a motore o, in alternativa, l'assicurazione generale di cui all'articolo 2, comma 3, numero 13, con massimali idonei alla copertura del rischio assicurando.))
 
-.
+2. L'assicurazione
 
-((70))
+((stipulata dall'organizzatore))
 
-2. L'assicurazione copre la responsabilita' dell'organizzatore e degli altri obbligati per i danni arrecati alle persone, agli animali e alle cose, esclusi i danni prodotti ai partecipanti stessi e ai veicoli da essi adoperati.
-
--------------
-
-AGGIORNAMENTO (70)
-
-Il [D.Lgs. 22 novembre 2023, n. 184](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2023-11-22;184) ha disposto (con l'art. 4, comma 1) che "Le disposizioni del presente decreto si applicano a decorrere dal 23 dicembre 2023".
+copre la responsabilita' dell'organizzatore e degli altri obbligati per i danni arrecati alle persone, agli animali e alle cose, esclusi i danni prodotti ai partecipanti stessi e ai veicoli da essi adoperati.
 
 ### Art. 125
 
@@ -6780,24 +6778,23 @@ Formule tariffarie
 
 Attestazione sullo stato del rischio
 
-((1. Il contraente o, se persona diversa, il proprietario ovvero l'usufruttuario, l'acquirente con patto di riservato dominio o il locatario in caso di locazione finanziaria hanno diritto di esigere in qualunque momento, entro quindici giorni dalla richiesta, l'attestazione sullo stato del rischio relativo ad almeno gli ultimi cinque anni del contratto di assicurazione obbligatoria relativo ai veicoli a motore, oppure dell'assenza di sinistri. Le imprese di assicurazione non trattano i contraenti in maniera discriminatoria, ne' maggiorano i premi in ragione della loro nazionalita' o unicamente sulla base del loro precedente Stato membro di residenza.  
-Le imprese di assicurazione trattano le attestazioni emesse in altri Stati membri alla pari di quelle emesse da un'impresa di assicurazione avente sede nel territorio della Repubblica, anche in relazione all'applicazione di eventuali sconti. La consegna dell'attestazione sullo stato del rischio e' effettuata per via telematica, attraverso l'utilizzo delle banche dati elettroniche di cui al comma 2 o di cui all'articolo 135.))
+1. Il contraente o, se persona diversa, il proprietario ovvero l'usufruttuario, l'acquirente con patto di riservato dominio o il locatario in caso di locazione finanziaria hanno diritto di esigere in qualunque momento, entro quindici giorni dalla richiesta, l'attestazione sullo stato del rischio relativo ad almeno gli ultimi cinque anni del contratto di assicurazione obbligatoria relativo ai veicoli a motore, oppure dell'assenza di sinistri. Le imprese di assicurazione non trattano i contraenti in maniera discriminatoria, ne' maggiorano i premi in ragione della loro nazionalita' o unicamente sulla base del loro precedente Stato membro di residenza.  
+Le imprese di assicurazione trattano le attestazioni emesse in altri Stati membri alla pari di quelle emesse da un'impresa di assicurazione avente sede nel territorio della Repubblica, anche in relazione all'applicazione di eventuali sconti. La consegna dell'attestazione sullo stato del rischio e' effettuata per via telematica, attraverso l'utilizzo delle banche dati elettroniche di cui al comma 2 o di cui all'articolo 135.
 
-((70))
+((L'IVASS vigila sulla corretta alimentazione e gestione della banca dati elettronica di cui al comma 2.))
+
+(70)
 
 1-bis. COMMA ABROGATO DAL [D.LGS. 22 NOVEMBRE 2023, N. 184](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2023-11-22;184).
 
 1-ter. COMMA ABROGATO DAL [D.LGS. 22 NOVEMBRE 2023, N. 184](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2023-11-22;184).
 
-2. 
+2. L'impresa di assicurazione inserisce le informazioni riportate sull'attestato di rischio in una banca dati elettronica detenuta da enti pubblici ovvero, qualora gia' esistente, da enti privati, al fine di consentire adeguati controlli nell'assunzione dei contratti di assicurazione di cui all'articolo 122, comma 1. In ogni caso l'IVASS ha accesso gratuito alla banca dati contenente le informazioni sull'attestazione. (70)
 
-((L'impresa di assicurazione inserisce le))
+3. La classe di merito indicata sull'attestato di rischio si riferisce al proprietario del veicolo. PERIODO SOPPRESSO DAL [D.LGS. 22 NOVEMBRE 2023, N. 184](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2023-11-22;184).
 
-informazioni riportate sull'attestato di rischio in una banca dati elettronica detenuta da enti pubblici ovvero, qualora gia' esistente, da enti privati, al fine di consentire adeguati controlli nell'assunzione dei contratti di assicurazione di cui all'articolo 122, comma 1. In ogni caso l'IVASS ha accesso gratuito alla banca dati contenente le informazioni sull'attestazione.
-
-((70))
-
-3. La classe di merito indicata sull'attestato di rischio si riferisce al proprietario del veicolo. PERIODO SOPPRESSO DAL [D.LGS. 22 NOVEMBRE 2023, N. 184](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2023-11-22;184). In caso di cessazione del rischio assicurato o in caso di sospensione o di mancato rinnovo del contratto di assicurazione per mancato utilizzo del veicolo, l'ultimo attestato di rischio conseguito conserva validita' per un periodo di cinque anni.
+((L'IVASS con regolamento determina le indicazioni aggiuntive relative all'attestazione sullo stato del rischio, rispetto a quelle previste dal modello europeo, approvato con regolamento di esecuzione (UE) 2024/1855 della Commissione, del 3 luglio 2024, ne stabilisce la validita', comunque non inferiore a dodici mesi, e individua i termini relativi alla decorrenza e alla durata del periodo di osservazione del rischio. Le indicazioni contenute nell'attestazione sullo stato del rischio devono comprendere i dati relativi ai sinistri e al conducente del veicolo.  
+Con medesimo regolamento l'IVASS disciplina le modalita' di alimentazione e di accesso alla banca dati elettronica di cui al comma 2 e le modalita' di consegna dell'attestato di rischio. Per le finalita' di vigilanza di cui al comma 1, l'IVASS accede alle banche dati di cui agli [articoli 225](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-04-30;285~art225) e [226 del codice della strada](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-04-30;285~art226), di cui al [decreto legislativo 30 aprile 1992, n. 285](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-04-30;285).))
 
 4. L'attestazione sullo stato del rischio, all'atto della stipulazione di un contratto per il medesimo veicolo al quale si riferisce l'attestato, e' acquisita direttamente dall'impresa assicuratrice in via telematica attraverso le banche dati di cui al comma 2 del presente articolo e di cui all'articolo 135.
 
@@ -6809,13 +6806,9 @@ informazioni riportate sull'attestato di rischio in una banca dati elettronica d
 
 4-quater. E' fatto comunque obbligo alle imprese di assicurazione di comunicare tempestivamente al contraente le variazioni peggiorative apportate alla classe di merito.
 
-((4-quinquies. L'impresa adotta, ai sensi dell'articolo 30, comma 5, politiche relative all'uso delle attestazioni di sinistralita' pregressa nel calcolare i premi e pubblica una panoramica generale delle stesse.))
+4-quinquies. L'impresa adotta, ai sensi dell'articolo 30, comma 5, politiche relative all'uso delle attestazioni di sinistralita' pregressa nel calcolare i premi e pubblica una panoramica generale delle stesse. (70)
 
-((70))
-
-((4-sexies. Fino all'emanazione da parte della Commissione europea dell'atto di esecuzione di cui all'[articolo 16 della direttiva 2009/103/CE del Parlamento europeo e del Consiglio del 16 settembre 2009](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32009L0103), il quale specifica, per mezzo di un modello, la forma e il contenuto delle attestazioni di sinistralita' pregressa, si applicano le disposizioni adottate dall'IVASS con proprio regolamento.))
-
-((70))
+4-sexies. Fino all'emanazione da parte della Commissione europea dell'atto di esecuzione di cui all'[articolo 16 della direttiva 2009/103/CE del Parlamento europeo e del Consiglio del 16 settembre 2009](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32009L0103), il quale specifica, per mezzo di un modello, la forma e il contenuto delle attestazioni di sinistralita' pregressa, si applicano le disposizioni adottate dall'IVASS con proprio regolamento. (70)
 
 --------------
 
