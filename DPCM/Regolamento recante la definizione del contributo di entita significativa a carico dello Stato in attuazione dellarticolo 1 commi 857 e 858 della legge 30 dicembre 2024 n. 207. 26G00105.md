@@ -1,0 +1,160 @@
+DECRETO DEL PRESIDENTE DEL CONSIGLIO DEI MINISTRI 26 marzo 2026 n. 84
+
+
+DECRETO DEL PRESIDENTE DEL CONSIGLIO DEI MINISTRI 26 marzo 2026 n. 84
+=====================================================================
+
+Regolamento recante la definizione del contributo di entita' significativa a carico dello Stato in attuazione dell'articolo 1, commi 857 e 858, della legge 30 dicembre 2024, n. 207. (26G00105)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 04/06/2026
+
+IL PRESIDENTE
+-------------
+
+DEL CONSIGLIO DEI MINISTRI
+
+Vista la [legge 23 agosto 1988, n. 400](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400), recante «Disciplina dell'attivita' di Governo e ordinamento della Presidenza del Consiglio dei ministri» e, in particolare, l'articolo 17, comma 3;
+
+Visto il [decreto legislativo 30 luglio 1999, n. 303](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1999-07-30;303), recante «Ordinamento della Presidenza del Consiglio dei ministri, a norma dell'[articolo 11 della legge 15 marzo 1997, n. 59](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-03-15;59~art11)»;
+
+Vista la [legge 30 dicembre 2024, n. 207](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2024-12-30;207), recante «Bilancio di previsione dello Stato per l'anno finanziario 2025 e bilancio pluriennale per il triennio 2025-2027» e, in particolare, l'articolo 1, commi 857 e 858, concernenti, rispettivamente, l'effettuazione di apposite attivita' di verifica in materia di utilizzo da parte di societa', enti, organismi e fondazioni, di contributi di entita' significativa a carico dello Stato e l'estensione alle predette societa', enti, organismi e fondazioni delle misure di contenimento della spesa di cui all'[articolo 1, commi 591](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2019-12-27;160~art1-com591), [592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2019-12-27;160~art1-com592), [593](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2019-12-27;160~art1-com593), [597](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2019-12-27;160~art1-com597), [598](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2019-12-27;160~art1-com598) e [599, della legge 27 dicembre 2019, n. 160](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2019-12-27;160~art1-com599), a decorrere dal 1° gennaio 2025;
+
+Considerato, in particolare, che il citato [comma 857 dell'articolo 1 della legge n. 207 del 2024](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2024;207~art1-com857) demanda l'individuazione dei contributi di entita' significativa, ai fini dell'applicazione della disposizione, a un decreto del Presidente del Consiglio dei ministri, da adottare, su proposta del Ministro dell'economia e delle finanze, entro novanta giorni dalla data di entrata in vigore della medesima legge;
+
+Ritenuto di dover, pertanto, procedere all'individuazione dei contributi di entita' significativa e alle relative disposizioni attuative;
+
+Udito il parere del Consiglio di Stato, espresso dalla Sezione consultiva per gli atti normativi nell'adunanza del 7 ottobre 2025;
+
+Visto il decreto del Presidente del Consiglio dei ministri 23 ottobre 2022, con il quale al Sottosegretario di Stato alla Presidenza del Consiglio dei ministri, Alfredo Mantovano, e' stata delegata la firma di decreti, atti e provvedimenti di competenza del Presidente del Consiglio dei ministri, ad esclusione di quelli che richiedono una preventiva deliberazione del Consiglio dei ministri e di quelli relativi alle attribuzioni di cui all'[articolo 5 della legge 23 agosto 1988, n. 400](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400~art5);
+
+Sulla proposta del Ministro dell'economia e delle finanze;
+
+Adotta
+------
+
+il seguente regolamento:
+
+Art. 1
+------
+
+Definizione di contributo   
+di entita' significativa
+
+1. Ai fini dell'attuazione e ai sensi delle disposizioni richiamate in premessa, si considerano di entita' significativa i contributi a carico dello Stato, erogati da amministrazioni centrali dello Stato o da societa' da queste direttamente possedute, in misura maggioritaria, con esclusione delle societa' quotate ai sensi del testo unico in materia di societa' a partecipazione pubblica, di cui al [decreto legislativo 19 agosto 2016, n. 175](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2016-08-19;175), e loro controllate, o da enti pubblici non economici vigilati dalle predette amministrazioni centrali, che, cumulativamente:
+
+a) sono destinati alla realizzazione di finalita' o di specifici progetti di interesse pubblico, con esclusione dei contributi destinati a una generalita' di soggetti, di quelli aventi natura corrispettiva, retributiva, indennitaria o risarcitoria, di quelli concessi sotto forma di credito di imposta, nonche' di quelli erogati, oltre che alle predette societa' quotate e loro controllate, agli enti del terzo settore disciplinati dal codice del terzo settore, di cui al [decreto legislativo 3 luglio 2017, n. 117](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2017-07-03;117), alle organizzazioni non lucrative di utilita' sociale di cui al [decreto legislativo 4 dicembre 1997, n. 460](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1997-12-04;460), iscritte nella relativa anagrafe, nonche' a favore degli enti ecclesiastici civilmente riconosciuti e degli enti riconosciuti delle confessioni religiose che hanno sottoscritto intese con lo Stato. Conseguentemente alle societa', alle organizzazioni e agli enti esclusi ai sensi della presente lettera non si applica l'[articolo 1, comma 858, della legge 30 dicembre 2024, n. 207](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2024-12-30;207~art1-com858);
+
+b) sono di importo superiore a un milione di euro annui ovvero, nel caso di importi fino a un milione di euro annui, sono di ammontare pari ad almeno il 50 per cento del totale delle entrate o del valore della produzione del soggetto beneficiario. Ai fini di cui alla presente lettera rilevano i contributi comunque percepiti, anche in forma disgiunta.
+
+2. Il presente decreto si applica ai contributi percepiti dai soggetti beneficiari a partire dal 1° gennaio 2025.
+
+3. Resta ferma la possibilita' di rinuncia del contributo da parte dei medesimi beneficiari.
+
+Avvertenza:   
+Il testo delle note qui pubblicato e' stato redatto dall'amministrazione competente per materia ai sensi dell'articolo 10, comma 3, del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con [D.P.R. 28 dicembre 1985, n. 1092](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1985-12-28;1092), al solo fine di facilitare la lettura delle disposizioni di legge alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.   
+Note alle premesse:   
+- Si riporta il testo dell'[articolo 17 della legge 23 agosto 1988, n. 400](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400~art17), recante «Disciplina dell'attivita' di Governo e ordinamento della Presidenza del Consiglio dei ministri»:   
+«Art. 17 (Regolamenti). - 1. Con decreto del Presidente della Repubblica, previa deliberazione del Consiglio dei ministri, sentito il parere del Consiglio di Stato che deve pronunziarsi entro novanta giorni dalla richiesta, possono essere emanati regolamenti per disciplinare:   
+a) l'esecuzione delle leggi e dei decreti legislativi nonche' dei regolamenti comunitari;   
+b) l'attuazione e l'integrazione delle leggi e dei decreti legislativi recanti norme di principio, esclusi quelli relativi a materie riservate alla competenza regionale;   
+c) le materie in cui manchi la disciplina da parte di leggi o di atti aventi forza di legge, sempre che non si tratti di materie comunque riservate alla legge;   
+d) l'organizzazione ed il funzionamento delle amministrazioni pubbliche secondo le disposizioni dettate dalla legge;   
+2. Con decreto del Presidente della Repubblica, previa deliberazione del Consiglio dei ministri, sentito il Consiglio di Stato e previo parere delle Commissioni parlamentari competenti in materia, che si pronunciano entro trenta giorni dalla richiesta, sono emanati i regolamenti36 per la disciplina delle materie, non coperte da riserva assoluta di legge prevista dalla Costituzione, per le quali le leggi della Repubblica, autorizzando l'esercizio della potesta' regolamentare del Governo, determinano le norme generali regolatrici della materia e dispongono l'abrogazione delle norme vigenti, con effetto dall'entrata in vigore delle norme regolamentari.   
+3. Con decreto ministeriale possono essere adottati regolamenti nelle materie di competenza del Ministro o di autorita' sottordinate al Ministro, quando la legge espressamente conferisca tale potere. Tali regolamenti, per materie di competenza di piu' ministri, possono essere adottati con decreti interministeriali, ferma restando la necessita' di apposita autorizzazione da parte della legge.  
+I regolamenti ministeriali ed interministeriali non possono dettare norme contrarie a quelle dei regolamenti emanati dal Governo. Essi debbono essere comunicati al Presidente del Consiglio dei ministri prima della loro emanazione.   
+4. I regolamenti di cui al comma 1 ed i regolamenti ministeriali ed interministeriali, che devono recare la denominazione di "regolamento", sono adottati previo parere del Consiglio di Stato, sottoposti al visto ed alla registrazione della Corte dei conti e pubblicati nella Gazzetta Ufficiale.   
+4-bis. L'organizzazione e la disciplina degli uffici dei Ministeri sono determinate, con regolamenti emanati ai sensi del comma 2, su proposta del Ministro competente d'intesa con il Presidente del Consiglio dei ministri e con il Ministro del tesoro, nel rispetto dei principi posti dal [decreto legislativo 3 febbraio 1993, n. 29](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-02-03;29), e successive modificazioni, con i contenuti e con l'osservanza dei criteri che seguono:   
+a) riordino degli uffici di diretta collaborazione con i ministri ed i Sottosegretari di Stato, stabilendo che tali uffici hanno esclusive competenze di supporto dell'organo di direzione politica e di raccordo tra questo e l'amministrazione;   
+b) individuazione degli uffici di livello dirigenziale generale, centrali e periferici, mediante diversificazione tra strutture con funzioni finali e con funzioni strumentali e loro organizzazione per funzioni omogenee e secondo criteri di flessibilita' eliminando le duplicazioni funzionali;   
+c) previsione di strumenti di verifica periodica dell'organizzazione e dei risultati;   
+d) indicazione e revisione periodica della consistenza elle piante organiche;   
+e) previsione di decreti ministeriali di natura non regolamentare per la definizione dei compiti delle unita' dirigenziali nell'ambito degli uffici dirigenziali generali.   
+4-ter. Con regolamenti da emanare ai sensi del comma 1 del presente articolo, si provvede al periodico riordino delle disposizioni regolamentari vigenti, alla ricognizione di quelle che sono state oggetto di abrogazione implicita e all'espressa abrogazione di quelle che hanno esaurito la loro funzione o sono prive di effettivo contenuto normativo o sono comunque obsolete.».   
+- Si riporta il testo dei [commi 857](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2024-12-30;207~art1-com857) e [858 dell'articolo 1, della legge 30 dicembre 2024, n. 207](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2024-12-30;207~art1-com858), recante "Bilancio di previsione dello Stato per l'anno finanziario 2025 e bilancio pluriennale per il triennio 2025-2027»:   
+«Omissis.   
+857. Gli organi di controllo, anche in forma monocratica, gia' costituiti o da costituire per il rispetto di quanto previsto dal presente comma, delle societa', degli enti, degli organismi e delle fondazioni che ricevono, anche in modo indiretto e sotto qualsiasi forma, un contributo di entita' significativa a carico dello Stato stabilito con decreto del Presidente del Consiglio dei ministri, su proposta del Ministro dell'economia e delle finanze, da adottare entro novanta giorni dalla data di entrata in vigore della presente legge, provvedono allo svolgimento dei compiti e, secondo le responsabilita' ad essi attribuiti in base alla normativa vigente, ad effettuare apposite attivita' di verifica intese ad accertare che l'utilizzo dei predetti contributi sia avvenuto nel rispetto delle finalita' per le quali i medesimi sono stati concessi e a inviare annualmente al Ministero dell'economia e delle finanze una relazione contenente le risultanze delle verifiche effettuate.   
+858. A decorrere dal 1° gennaio 2025, l'applicazione delle misure di contenimento della spesa di cui ai [commi 591](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2019-12-27;160~art1-com591), [592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2019-12-27;160~art1-com592), [593](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2019-12-27;160~art1-com593), [597](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2019-12-27;160~art1-com597), [598](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2019-12-27;160~art1-com598) e [599 dell'articolo 1 della legge 27 dicembre 2019, n. 160](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2019-12-27;160~art1-com599), e' estesa alle societa', agli enti, agli organismi e alle fondazioni di cui al comma 857 del presente articolo. Conseguentemente, tali soggetti, a decorrere dall'anno 2025, non possono effettuare spese per l'acquisto di beni e servizi per un importo superiore al valore medio sostenuto per le medesime finalita' negli esercizi finanziari 2021, 2022 e 2023, come risultante dai relativi rendiconti o bilanci deliberati. Con esclusivo riferimento alle fondazioni lirico-sinfoniche e ai teatri di tradizione, gli esercizi finanziari di riferimento sono limitati agli anni 2022 e 2023.   
+Omissis.».   
+- Si riporta il testo dei [commi 591](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2019-12-27;207~art1-com591), [592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2019-12-27;207~art1-com592), [593](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2019-12-27;207~art1-com593), [597](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2019-12-27;207~art1-com597), [598](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2019-12-27;207~art1-com598) e [599 dell'articolo 1, della legge 27 dicembre 2019, n. 207](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2019-12-27;207~art1-com599), recante «Bilancio di previsione dello Stato per l'anno finanziario 2020 e bilancio pluriennale per il triennio 2020-2022»:   
+«Omissis.   
+591. A decorrere dall'anno 2020, i soggetti di cui al comma 590 non possono effettuare spese per l'acquisto di beni e servizi per un importo superiore al valore medio sostenuto per le medesime finalita' negli esercizi finanziari 2016, 2017 e 2018, come risultante dai relativi rendiconti o bilanci deliberati. La disposizione di cui al presente comma non si applica alle agenzie fiscali di cui al [decreto legislativo 30 luglio 1999, n. 300](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1999-07-30;300), per le quali resta fermo l'obbligo di versamento previsto dall'[articolo 6, comma 21-sexies, del decreto-legge 31 maggio 2010, n. 78](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2010-05-31;78~art6-com21sexies), convertito, con modificazioni, dalla [legge 30 luglio 2010, n. 122](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2010-07-30;122), come incrementato ai sensi del comma 594. A decorrere dall'esercizio 2021, alle spese di natura corrente del settore informatico dell'INPS non si applicano i vincoli di spesa di cui al presente comma.   
+592. Ai fini dei commi da 590 a 600, le voci di spesa per l'acquisto di beni e servizi sono individuate con riferimento:   
+a) per gli enti che adottano la contabilita' finanziaria, alle corrispondenti voci, rilevate in conto competenza, del piano dei conti integrato previsto dal regolamento di cui al [decreto del Presidente della Repubblica 4 ottobre 2013, n. 132](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2013-10-04;132);   
+b) per gli enti e gli organismi che adottano la contabilita' civilistica, alle corrispondenti voci B6), B7) e B8) del conto economico del bilancio di esercizio redatto secondo lo schema di cui all'allegato 1 al [decreto del Ministro dell'economia e delle finanze 27 marzo 2013, pubblicato nel supplemento ordinario alla Gazzetta Ufficiale n. 86 del 12 aprile 2013](http://www.gazzettaufficiale.it/gazzetta/serie_generale/caricaDettaglio?dataPubblicazioneGazzetta=2013-04-12&numeroGazzetta=86). Le universita', che adottano gli schemi di bilancio di cui al [decreto del Ministro dell'istruzione, dell'universita' e della ricerca n. 19 del 14 gennaio 2014, pubblicato nella Gazzetta Ufficiale n. 25 del 31 gennaio 2014](http://www.gazzettaufficiale.it/gazzetta/serie_generale/caricaDettaglio?dataPubblicazioneGazzetta=2014-01-31&numeroGazzetta=25), individuano le voci di bilancio riconducibili a quelle indicate nel primo periodo della presente lettera.   
+593. Fermo restando il principio dell'equilibrio di bilancio, compatibilmente con le disponibilita' di bilancio, il superamento del limite delle spese per acquisto di beni e servizi di cui al comma 591 e' consentito in presenza di un corrispondente aumento dei ricavi o delle entrate accertate in ciascun esercizio rispetto al valore relativo ai ricavi conseguiti o alle entrate accertate nell'esercizio 2018. L'aumento dei ricavi o delle entrate puo' essere utilizzato per l'incremento delle spese per beni e servizi entro il termine dell'esercizio successivo a quello di accertamento. Non concorrono alla quantificazione delle entrate o dei ricavi di cui al presente comma le risorse destinate alla spesa in conto capitale e quelle finalizzate o vincolate da norme di legge, ovvero da disposizioni dei soggetti finanziatori, a spese diverse dall'acquisizione di beni e servizi. Il superamento del limite di cui al comma 591 e' altresi' consentito per le spese per l'acquisto di beni e servizi del settore informatico finanziate con il PNRR, nonche', nei limiti delle risorse disponibili a legislazione vigente, per l'acquisizione di servizi cloud infrastrutturali.   
+Omissis.   
+597. La relazione degli organi deliberanti degli enti e degli organismi di cui al comma 590, presentata in sede di approvazione del bilancio consuntivo, deve contenere, in un'apposita sezione, l'indicazione riguardante le modalita' attuative delle disposizioni di cui ai commi da 590 a 600.   
+598. Ferma restando la disciplina in materia di responsabilita' amministrativa e contabile, l'inosservanza di quanto disposto dai commi 591, 593, 594 e 595 costituisce illecito disciplinare del responsabile del servizio amministrativo-finanziario. In caso di inadempienza per piu' di un esercizio, i compensi, le indennita' ed i gettoni di presenza corrisposti agli organi di amministrazione sono ridotti, per il restante periodo del mandato, del 30 per cento rispetto all'ammontare annuo risultante alla data del 30 giugno 2019 e i risparmi sulla spesa per gli organi sono acquisiti al bilancio dell'ente.   
+599. Il rispetto degli adempimenti e delle prescrizioni previsti dai commi da 590 a 598 e' verificato e asseverato dai rispettivi organi di controllo.   
+Omissis.».   
+- Si riporta il testo dell'articolo 5 della citata [legge 23 agosto 1988, n. 400](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400):   
+«Art. 5 (Attribuzioni del Presidente del Consiglio dei ministri). - 1. Il Presidente del Consiglio dei ministri a nome del Governo:   
+a) comunica alle Camere la composizione del Governo e ogni mutamento in essa intervenuto;   
+b) chiede la fiducia sulle dichiarazioni di cui alla lettera a) del comma 3 dell'articolo 2 e pone, direttamente o a mezzo di un Ministro espressamente delegato, la questione di fiducia;   
+c) sottopone al Presidente della Repubblica le leggi per la promulgazione; in seguito alla deliberazione del Consiglio dei ministri, i disegni di legge per la presentazione alle Camere e, per l'emanazione, i testi dei decreti aventi valore o forza di legge, dei regolamenti governativi e degli altri atti indicati dalle leggi;   
+d) controfirma gli atti di promulgazione delle leggi nonche' ogni atto per il quale e' intervenuta deliberazione del Consiglio dei ministri, gli atti che hanno valore o forza di legge e, insieme con il Ministro proponente, gli altri atti indicati dalla legge;   
+e) presenta alle Camere i disegni di legge di iniziativa governativa e, anche attraverso il Ministro espressamente delegato, esercita le facolta' del Governo di cui all'[articolo 72 della Costituzione](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27~art72);   
+f) esercita le attribuzioni di cui alla [legge 11 marzo 1953, n. 87](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-03-11;87), e promuove gli adempimenti di competenza governativa conseguenti alle decisioni della Corte costituzionale. Riferisce inoltre periodicamente al Consiglio dei ministri, e ne da' comunicazione alle Camere, sullo stato del contenzioso costituzionale, illustrando le linee seguite nelle determinazioni relative agli interventi nei giudizi dinanzi alla Corte costituzionale. Segnala altresi', anche su proposta dei ministri competenti, i settori della legislazione nei quali, in relazione alle questioni di legittimita' costituzionale pendenti, sia utile valutare l'opportunita' di iniziative legislative del Governo.   
+2. Il Presidente del Consiglio dei ministri, ai sensi dell'[articolo 95, primo comma, della Costituzione](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27~art95-com1):   
+a) indirizza ai ministri le direttive politiche ed amministrative in attuazione delle deliberazioni del Consiglio dei ministri nonche' quelle connesse alla propria responsabilita' di direzione della politica generale del Governo;   
+b) coordina e promuove l'attivita' dei ministri in ordine agli atti che riguardano la politica generale del Governo;   
+c) puo' sospendere l'adozione di atti da parte dei ministri competenti in ordine a questioni politiche e amministrative, sottoponendoli al Consiglio dei ministri nella riunione immediatamente successiva;   
+c-bis) puo' deferire al Consiglio dei ministri, ai fini di una complessiva valutazione ed armonizzazione degli interessi pubblici coinvolti, la decisione di questioni sulle quali siano emerse valutazioni contrastanti tra amministrazioni a diverso titolo competenti in ordine alla definizione di atti e provvedimenti;   
+d) concorda con i ministri interessati le pubbliche dichiarazioni che essi intendano rendere ogni qualvolta, eccedendo la normale responsabilita' ministeriale, possano impegnare la politica generale del Governo;   
+e) adotta le direttive per assicurare l'imparzialita', il buon andamento e l'efficacia degli uffici pubblici e promuove le verifiche necessarie; in casi di particolare rilevanza puo' richiedere al Ministro competente relazioni e verifiche amministrative;   
+f) promuove l'azione dei ministri per assicurare che le aziende e gli enti pubblici svolgano la loro attivita' secondo gli obiettivi indicati dalle leggi che ne definiscono l'autonomia e in coerenza con i conseguenti indirizzi politici e amministrativi del Governo;   
+g) esercita le attribuzioni conferitegli dalla legge in materia di servizi di sicurezza e di segreto di Stato;   
+h) puo' disporre, con proprio decreto, l'istituzione di particolari Comitati di ministri, con il compito di esaminare in via preliminare questioni di comune competenza, di esprimere parere su direttive dell'attivita' del Governo e su problemi di rilevante importanza da sottoporre al Consiglio dei ministri, eventualmente avvalendosi anche di esperti non appartenenti alla pubblica amministrazione; 10   
+i) puo' disporre la costituzione di gruppi di studio e di lavoro composti in modo da assicurare la presenza di tutte le competenze dicasteriali interessate ed eventualmente di esperti anche non appartenenti alla pubblica amministrazione.   
+3. Il Presidente del Consiglio dei ministri, direttamente o conferendone delega ad un Ministro:   
+a) promuove e coordina l'azione del Governo relativa alle politiche comunitarie e assicura la coerenza e la tempestivita' dell'azione di Governo e della pubblica amministrazione nell'attuazione delle politiche comunitarie, riferendone periodicamente alle Camere; promuove gli adempimenti di competenza governativa conseguenti alle pronunce della Corte di giustizia delle Comunita' europee, cura la tempestiva comunicazione alle Camere dei procedimenti normativi in corso nelle Comunita' europee, informando il Parlamento delle iniziative e posizioni assunte dal Governo nelle specifiche materie;   
+a-bis) promuove gli adempimenti di competenza governativa conseguenti alle pronunce della Corte europea dei diritti dell'uomo emanate nei confronti dello Stato italiano; comunica tempestivamente alle Camere le medisime pronunce ai fini dell'esame da parte delle competenti Commissioni parlamentari permanenti e presenta annualmente al Parlamento una relazione sullo stato di esecuzione delle suddette pronunce;   
+b) promuove e coordina l'azione del Governo per quanto attiene ai rapporti con le regioni e le province autonome di Trento e di Bolzano e sovraintende all'attivita' dei commissari del Governo;   
+b-bis) promuove, indirizza, coordina l'azione del Governo nelle materie dell'innovazione tecnologica, dell'attuazione dell'agenda digitale italiana ed europea, della strategia italiana per la banda ultralarga, della digitalizzazione delle pubbliche amministrazioni e delle imprese, nonche' della trasformazione, crescita e transizione digitale del Paese, in ambito pubblico e privato, dell'accesso ai servizi in rete, della connettivita', delle infrastrutture digitali materiali e immateriali e della strategia nazionale dei dati pubblici.   
+4. Il Presidente del Consiglio dei ministri esercita le altre attribuzioni conferitegli dalla legge.».   
+  
+Note all'[art. 1:   
+- Il decreto legislativo 19 agosto 2016, n. 175](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2016-08-19;175~art1), recante «Testo unico in materia di societa' a partecipazione pubblica» e' [pubblicato nella Gazzetta Ufficiale n. 210 dell'8 settembre 2016](http://www.gazzettaufficiale.it/gazzetta/serie_generale/caricaDettaglio?dataPubblicazioneGazzetta=2016-09-08&numeroGazzetta=210).   
+- Il [decreto legislativo 3 luglio 2017, n. 177](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2017-07-03;177), recante «Codice del Terzo settore, a norma dell'[articolo 1, comma 2, lettera b), della legge 6 giugno 2016, n. 106](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2016-06-06;106~art1-com2-letb)» e' [pubblicato nella Gazzetta Ufficiale n. 179 del 2 agosto 2017](http://www.gazzettaufficiale.it/gazzetta/serie_generale/caricaDettaglio?dataPubblicazioneGazzetta=2017-08-02&numeroGazzetta=179).   
+- Per il riferimento all'[articolo 1, comma 858, della legge 30 dicembre 2024, n. 207](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2024-12-30;207~art1-com858), si veda nelle note alle premesse.
+
+Art. 2
+------
+
+Attivita' di verifica   
+e obblighi di comunicazione
+
+1. I collegi di revisione e i collegi sindacali, anche in forma monocratica, delle societa', degli enti, degli organismi e delle fondazioni che ricevono un contributo di entita' significativa a carico dello Stato, come definito ai sensi dell'articolo 1, assicurano, nell'ambito dei compiti e delle responsabilita' ad essi attribuiti in base alla normativa vigente, lo svolgimento di apposite attivita' di verifica intese ad accertare che l'utilizzo dei predetti contributi e' avvenuto nel rispetto delle finalita' per i quali i medesimi sono stati concessi, ovvero ha dato luogo alla realizzazione dei progetti previsti. A tal fine, gli organi di controllo di cui al primo periodo provvedono a inviare al Ministero dell'economia e delle finanze - Dipartimento della Ragioneria generale dello Stato, entro il 30 aprile dell'anno successivo a quello in cui i contributi sono stati erogati, una relazione contenente le risultanze delle verifiche effettuate.
+
+2. Ove non gia' esistenti, gli organi di controllo di cui al comma 1 sono costituiti, anche in forma monocratica, dai soggetti beneficiari dei contributi, previa approvazione delle occorrenti modifiche statutarie, regolamentari e organizzative, al fine di assicurare lo svolgimento degli adempimenti di cui al medesimo comma.
+
+3. Il mancato invio della relazione di cui al comma 1, ovvero la comunicazione di mancata esecuzione del progetto o di mancato rispetto delle finalita' per le quali il contributo e' stato concesso, e' valutata ai fini dell'eventuale ammissione alla erogazione di contributi pubblici o del medesimo contributo, qualora previsto, nella successiva annualita'.
+
+4. I soggetti erogatori di cui all'articolo 1, comma 1, comunicano, entro il 28 febbraio di ciascun anno, alla Presidenza del Consiglio dei ministri e al Ministero dell'economia e delle finanze - Dipartimento della Ragioneria generale dello Stato gli esiti dell'attivita' di ricognizione delle societa', degli enti, degli organismi e delle fondazioni, a favore dei quali risultano essere stati assegnati nel corso del precedente esercizio finanziario contributi di entita' significativa, come definiti ai sensi dell'articolo 1.
+
+Art. 3
+------
+
+Disposizioni finali
+
+1. Con atto del Ministero dell'economia e delle finanze da emanare entro novanta giorni dalla data di entrata in vigore del presente decreto sono stabilite le modalita' per la trasmissione in via telematica della relazione di cui all'articolo 2, comma 1, e le disposizioni applicative e operative del presente regolamento. Il Ministero dell'economia e delle finanze puo' provvedere annualmente all'aggiornamento delle disposizioni di cui al primo periodo.
+
+2. Il presente regolamento puo' essere periodicamente aggiornato anche sulla base delle risultanze delle relazioni di cui all'articolo 2, comma 1, nonche' degli esiti delle attivita' di ricognizione di cui al comma 4 del medesimo articolo 2.
+
+3. L'attuazione delle disposizioni di cui al presente regolamento e' assicurata dalle pubbliche amministrazioni interessate nell'ambito delle risorse umane, strumentali e finanziarie disponibili a legislazione vigente.   
+Il presente decreto e' trasmesso agli organi di controllo per gli adempimenti di competenza e pubblicato nella Gazzetta Ufficiale della Repubblica italiana.   
+Il presente decreto munito del sigillo di Stato sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.   
+Roma, 26 marzo 2026   
+  
+p. Il Presidente   
+del Consiglio dei ministri   
+Il Sottosegretario di Stato   
+Mantovano   
+Il Ministro dell'economia   
+e delle finanze   
+Giorgetti   
+Visto, il Guardasigilli: Nordio   
+  
+Registrato alla [Corte dei conti il 5 maggio 2026   
+Ufficio di controllo sugli atti](https://e-justice.europa.eu/ecli/ECLI::::) del Ministero dell'economia e delle finanze, n. 638
