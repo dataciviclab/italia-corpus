@@ -388,17 +388,13 @@ Obblighi del richiedente asilo
 
 3-bis. Quando il richiedente non e' accolto o trattenuto presso i centri o le strutture di cui all'[articolo 5, comma 2, del decreto legislativo 18 agosto 2015, n. 142](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2015-08-18;142~art5-com2), le notificazioni degli atti e dei provvedimenti del procedimento per il riconoscimento della protezione internazionale sono effettuate presso l'ultimo domicilio comunicato dal richiedente ai sensi del [comma 2 e dell'articolo 5](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2015-08-18;142~art5-com2), [comma 1, del decreto legislativo 18 agosto 2015, n. 142](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2015-08-18;142~com1)
 
-((oppure mediante posta elettronica certificata, anche presso il legale rappresentante ove il richiedente ha eletto domicilio))
+((,))
 
-.
+oppure mediante posta elettronica certificata, anche presso il legale rappresentante ove il richiedente ha eletto domicilio le notificazioni sono effettuate da parte della Commissione territoriale a mezzo del servizio postale secondo le disposizioni della [legge 20 novembre 1982, n. 890](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1982-11-20;890), e successive modificazioni
 
-((...))
+((,))
 
-le notificazioni sono effettuate da parte della Commissione territoriale a mezzo del servizio postale secondo le disposizioni della [legge 20 novembre 1982, n. 890](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1982-11-20;890), e successive modificazioni
-
-((oppure attraverso l'invio all'indirizzo di posta elettronica certificata dichiarato))
-
-. (8)
+oppure attraverso l'invio all'indirizzo di posta elettronica certificata dichiarato. (8)
 
 3-ter. Nei casi in cui la consegna di copia dell'atto al richiedente da parte del responsabile del centro o della struttura di cui al comma 3 sia impossibile per irreperibilita' del richiedente e nei casi in cui alla Commissione territoriale pervenga l'avviso di ricevimento da cui risulta l'impossibilita' della notificazione effettuata ai sensi del comma 3-bis per inidoneita' del domicilio dichiarato o comunicato ai sensi dell'[articolo 5, comma 1, del decreto legislativo 18 agosto 2015, n. 142](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2015-08-18;142~art5-com1), l'atto e' reso disponibile al richiedente presso la questura del luogo in cui ha sede la Commissione territoriale. Decorsi venti giorni dalla trasmissione dell'atto alla questura da parte della Commissione territoriale, mediante messaggio di posta elettronica certificata, la notificazione si intende eseguita. (8)
 
