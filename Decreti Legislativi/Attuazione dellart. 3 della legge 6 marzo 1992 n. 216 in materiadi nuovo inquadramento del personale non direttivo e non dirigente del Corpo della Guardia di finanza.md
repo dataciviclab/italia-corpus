@@ -293,23 +293,15 @@ CAPO IV Capo III STATO GIURIDICO
 
 Posizione di stato degli allievi finanzieri
 
-1. Gli ammessi al corso per allievo finanziere sono promossi finanzieri dopo sei mesi dalla data di arruolamento, se giudicati idonei da apposita commissione esaminatrice, con determinazione del
+1. Gli ammessi al corso per allievo finanziere sono promossi finanzieri dopo sei mesi dalla data di arruolamento, se giudicati idonei da apposita commissione esaminatrice, con determinazione del Comandante generale o dell'autorita' da esso delegata. I militari in servizio e in congedo delle forze armate e quelli in congedo della guardia di finanza nonche' il personale appartenente alle forze di polizia a ordinamento civile perdono, rispettivamente, il grado e le qualifiche all'atto della ammissione al corso.
 
-((Comandante))
+2. La commissione di cui al precedente comma viene nominata con determinazione del Comandante generale o dell'autorita' da esso delegata.
 
-generale o dell'autorita' da esso delegata. I militari in servizio e in congedo delle forze armate e quelli in congedo della guardia di finanza nonche' il personale appartenente alle forze di polizia a ordinamento civile perdono, rispettivamente, il grado e le qualifiche all'atto della ammissione al corso.
+3. 
 
-2. La commissione di cui al precedente comma viene nominata con determinazione del
+((La promozione a finanziere e' sospesa qualora nei confronti dell'allievo finanziere, gia' giudicato idoneo ai sensi del comma 1, sia stata emessa, per delitto non colposo, sentenza di condanna in primo grado ovvero sentenza di applicazione della pena su richiesta o decreto penale di condanna esecutivo, anche qualora la pena sia condizionalmente sospesa))
 
-((Comandante))
-
-generale o dell'autorita' da esso delegata.
-
-3. La promozione a finanziere e' sospesa nei casi in cui l'allievo finanziere, gia' giudicato idoneo ai sensi del comma 1, sia
-
-((rinviato a giudizio o ammesso ai riti alternativi))
-
-per delitto non colposo.
+.
 
 4. Al venir meno della causa impeditiva specificata al comma 3, trovano applicazione le disposizioni relative alla decorrenza della promozione di cui al successivo articolo 11, comma 2.
 
@@ -660,20 +652,7 @@ generale
 
 Esclusione dalla valutazione
 
-1. Il personale appartenente al ruolo "appuntati e finanzieri" che, alla data in cui ha inizio la procedura di avanzamento, risulti:
-
-a) sospeso
-
-((dall'impiego))
-
-;
-
-b) rinviato a giudizio o ammesso ai riti alternativi per delitto non colposo;
-
-c) sottoposto a procedimento disciplinare di stato;
-
-d) in una posizione di stato da cui scaturisca una detrazione o riduzione d'anzianita';   
-viene escluso dalla valutazione. Della predetta esclusione e dei motivi che l'hanno determinata e' data comunicazione al militare interessato. Il provvedimento di esclusione e' adottato con determinazione del Comandante generale della Guardia di finanza.
+1. .
 
 2. Al venir meno delle singole cause impeditive elencate al comma 1, purche' sussistano i requisiti di legge per l'iscrizione a ruolo, il medesimo personale deve essere sottoposto a valutazione con le modalita' di cui all'art. 10 e, se dichiarato idoneo, deve essere promosso con la stessa decorrenza che gli sarebbe spettata qualora la valutazione fosse stata effettuata in assenza della causa impeditiva.
 
@@ -1651,7 +1630,7 @@ Il [D.Lgs. 28 febbraio 2001, n. 67](http://www.normattiva.it/uri-res/N2Ls?urn:ni
 
 AGGIORNAMENTO (24)
 
-Il [D.L 24 febbraio 2026, n. 23](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2026-02-24;23), ha disposto (con l'art. 21, comma 7) che " In deroga all'[articolo 49, comma 2, lettera a), del decreto legislativo 12 maggio 1995, n. 199](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1995-05-12;199~art49-com2-leta), il personale arruolato ai sensi del comma 1 contrae una ferma volontaria di due anni, con decorrenza dalla data di arruolamento".
+Il [D.L 24 febbraio 2026, n. 23](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2026-02-24;23), ha disposto (con l'art. 21, comma 7) che in deroga all'[articolo 49, comma 2, lettera a), del decreto legislativo 12 maggio 1995, n. 199](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1995-05-12;199~art49-com2-leta), il personale arruolato ai sensi del comma 1 del presente articolo contrae una ferma volontaria di due anni, con decorrenza dalla data di arruolamento.
 
 ### Art. 50
 
@@ -1737,33 +1716,9 @@ Inclusione ed esclusione dalle aliquote
 
 1. Nelle aliquote di valutazione sono inclusi tutti gli ispettori ed i sovrintendenti che alla data indicata nell'articolo 54 abbiano soddisfatto le condizioni di cui all'articolo 53. Per l'inclusione in aliquota dei marescialli capo e dei marescialli aiutanti e' richiesto il possesso di una laurea triennale rientrante in una delle classi individuate con determinazione del Comandante generale della guardia di finanza.
 
-1-bis. Il personale di cui al comma 1, valutato e non promosso, per essere nuovamente valutato deve aver maturato un ulteriore anno di anzianita' di grado nell'anno di formazione dell'aliquota di riferimento.
-
-2. Dalle aliquote sono esclusi coloro che, alla data di formazione delle stesse, risultino:
-
-a) rinviati a giudizio o ammessi ai riti alternativi per delitto non colposo;
-
-b) sottoposti a procedimento disciplinare di stato;
-
-c) sospesi dall'impiego ovvero dalle attribuzioni del grado;
-
-d) in una posizione di stato da cui scaturisca una detrazione o riduzione di anzianita'.
-
-3. Nei riguardi degli ispettori e dei sovrintendenti esclusi dalle aliquote di valutazione per non aver maturato, per motivi di servizio, le condizioni di cui all'art. 53, ovvero esclusi dalle stesse ai sensi del comma 2, e' apposta riserva fino al cessare delle cause impeditive.
-
-4. Al venir meno delle predette cause impeditive, salvo che le stesse non comportino la cessazione dal servizio, gli interessati sono inclusi
-
-((...))
-
-, affinche' si proceda al loro scrutinio
-
-((nell'))
-
-aliquota nella quale avrebbero dovuto essere inseriti laddove non si fosse manifestata la causa di esclusione. Gli stessi conseguiranno, eventualmente, la promozione al grado superiore con la
-
-((medesima))
-
-anzianita' che gli sarebbe spettata qualora non si fosse manifestata la causa di esclusione.
+1-bis. .   
+3. Nei riguardi degli ispettori e dei sovrintendenti esclusi dalle aliquote di valutazione per non aver maturato, per motivi di servizio, le condizioni di cui all'art. 53, ovvero esclusi dalle stesse ai sensi del comma 2, e' apposta riserva fino al cessare delle cause impeditive.   
+4. Al venir meno delle predette cause impeditive, salvo che le stesse non comportino la cessazione dal servizio, gli interessati sono inclusi, affinche' si proceda al loro scrutinio nell'aliquota nella quale avrebbero dovuto essere inseriti laddove non si fosse manifestata la causa di esclusione. Gli stessi conseguiranno, eventualmente, la promozione al grado superiore con la medesima anzianita' che gli sarebbe spettata qualora non si fosse manifestata la causa di esclusione.
 
 ### Art. 55-bis
 

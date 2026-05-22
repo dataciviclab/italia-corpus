@@ -1360,13 +1360,19 @@ CAPO VII ((Capo V-bis Tutela del lavoro tramite piattaforme digitali ))
 
 ### Art. 47-bis
 
-(( (Scopo, oggetto e ambito di applicazione). ))
-
-((
+(Scopo, oggetto e ambito di applicazione)
 
 1. Fatto salvo quanto previsto dall'articolo 2, comma 1, le disposizioni del presente capo stabiliscono livelli minimi di tutela per i lavoratori autonomi che svolgono attivita' di consegna di beni per conto altrui, in ambito urbano e con l'ausilio di velocipedi o veicoli a motore di cui all'[articolo 47, comma 2, lettera a), del codice della strada](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-04-30;285~art47-com2-leta), di cui al [decreto legislativo 30 aprile 1992, n. 285](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-04-30;285), attraverso piattaforme anche digitali.
 
-2. Ai fini di cui al comma 1 si considerano piattaforme digitali i programmi e le procedure informatiche utilizzati dal committente che, indipendentemente dal luogo di stabilimento, sono strumentali alle attivita' di consegna di beni, fissandone il compenso e determinando le modalita' di esecuzione della prestazione))
+2. Ai fini di cui al comma 1 si considerano piattaforme digitali i programmi e le procedure informatiche utilizzati dal committente che, indipendentemente dal luogo di stabilimento, sono strumentali alle attivita' di consegna di beni, fissandone il compenso e determinando le modalita' di esecuzione della prestazione.   
+2.bis
+
+((In caso di lavoro intermediato da piattaforma digitale, l'accesso alla piattaforma da parte del lavoratore puo' essere consentito con SPID, CIE o CNS oppure con un account rilasciato dalla stessa piattaforma ad un singolo codice fiscale con un sistema di autentificazione a piu' fattori, nel rispetto delle garanzie di sicurezza previste dal [Codice dell'Amministrazione Digitale](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-03-07;82), di cui al [decreto legislativo 7 marzo 2005, n. 82](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-03-07;82). Le credenziali di accesso al proprio account rivestono carattere strettamente personale ed e' fatto divieto di cessione a terzi. La cessione del proprio account o l'uso di account da parte di persona diversa del titolare e' punito con una sanzione amministrativa da euro 800 a euro 1.200.))
+
+  
+2.ter
+
+((La piattaforma non puo' rilasciare piu' di un account per ogni singolo codice fiscale, ne' commissionare prestazioni temporalmente inconciliabili allo stesso lavoratore. La violazione della presente disposizione comporta una sanzione amministrativa da euro 1000 a euro 1500 per ogni account in piu' associato al singolo codice fiscale.))
 
 ### Art. 47-ter
 
@@ -1388,17 +1394,20 @@ Il [D.Lgs. 27 giugno 2022, n. 104](http://www.normattiva.it/uri-res/N2Ls?urn:nir
 
 ### Art. 47-quater
 
-(( (Compenso). ))
-
-((
+(Compenso)
 
 1. I contratti collettivi stipulati dalle organizzazioni sindacali e datoriali comparativamente piu' rappresentative a livello nazionale possono definire criteri di determinazione del compenso complessivo che tengano conto delle modalita' di svolgimento della prestazione e dell'organizzazione del committente.
 
 2. In difetto della stipula dei contratti di cui al comma 1, i lavoratori di cui all'articolo 47-bis non possono essere retribuiti in base alle consegne effettuate e ai medesimi lavoratori deve essere garantito un compenso minimo orario parametrato ai minimi tabellari stabiliti da contratti collettivi nazionali di settori affini o equivalenti sottoscritti dalle organizzazioni sindacali e datoriali comparativamente piu' rappresentative a livello nazionale.
 
-3. Ai lavoratori di cui all'articolo 47-bis deve essere garantita un'indennita' integrativa non inferiore al 10 per cento per il lavoro svolto di notte, durante le festivita' o in condizioni meteorologiche sfavorevoli, determinata dai contratti di cui al comma 1 o, in difetto, con decreto del Ministro del lavoro e delle politiche sociali))
+3. Ai lavoratori di cui all'articolo 47-bis deve essere garantita un'indennita' integrativa non inferiore al 10 per cento per il lavoro svolto di notte, durante le festivita' o in condizioni meteorologiche sfavorevoli, determinata dai contratti di cui al comma 1 o, in difetto, con decreto del Ministro del lavoro e delle politiche sociali.
 
-((14))
+3-bis. 
+
+((Il committente, a decorrere dal 1° luglio 2026, e' tenuto alla redazione e alla consegna ai lavoratori di cui all'art. 47-bis del libro unico del lavoro di cui all'[art. 39 del decreto-legge 26 giugno 2008 n. 112](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008-06-26;112~art39), convertito, con modificazioni, dalla [legge 6 agosto 2008, n. 133](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2008-08-06;133), nel quale devono essere annotati per ciascun mese di attivita', anche il numero di consegne e l'importo totale erogato al lavoratore.))
+
+  
+(14)
 
 ---------------
 
@@ -1424,17 +1433,20 @@ Il [D.L. 3 settembre 2019, n. 101](http://www.normattiva.it/uri-res/N2Ls?urn:nir
 
 ### Art. 47-septies
 
-(( (Copertura assicurativa obbligatoria contro gli infortuni sul lavoro e le malattie professionali). ))
-
-((
+(Copertura assicurativa obbligatoria contro gli infortuni sul lavoro e le malattie professionali)
 
 1. I prestatori di lavoro di cui al presente capo sono comunque soggetti alla copertura assicurativa obbligatoria contro gli infortuni sul lavoro e le malattie professionali prevista dal testo unico di cui al [decreto del Presidente della Repubblica 30 giugno 1965, n. 1124](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1965-06-30;1124). Il premio di assicurazione INAIL e' determinato ai sensi dell'articolo 41 del citato [decreto del Presidente della Repubblica n. 1124 del 1965](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1965;1124), in base al tasso di rischio corrispondente all'attivita' svolta. Ai fini del calcolo del premio assicurativo, si assume come retribuzione imponibile, ai sensi dell'[articolo 30 del decreto del Presidente della Repubblica n. 1124 del 1965](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1965;1124~art30), la retribuzione convenzionale giornaliera di importo corrispondente alla misura del limite minimo di retribuzione giornaliera in vigore per tutte le contribuzioni dovute in materia di previdenza e assistenza sociale, rapportata ai giorni di effettiva attivita'.
 
 2. Ai fini dell'assicurazione INAIL, il committente che utilizza la piattaforma anche digitale e' tenuto a tutti gli adempimenti del datore di lavoro previsti dal [decreto del Presidente della Repubblica n. 1124 del 1965](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1965;1124).
 
-3. Il committente che utilizza la piattaforma anche digitale e' tenuto nei confronti dei lavoratori di cui al comma 1, a propria cura e spese, al rispetto del [decreto legislativo 9 aprile 2008, n. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81)))
+3. Il committente che utilizza la piattaforma anche digitale e' tenuto nei confronti dei lavoratori di cui al comma 1, a propria cura e spese, al rispetto del [decreto legislativo 9 aprile 2008, n. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81).
 
-((14))
+3-bis. 
+
+((Ad integrazione della attivita' formativa obbligatoria prevista dalla normativa vigente in materia di sicurezza sul lavoro, con decreto del Ministero del lavoro e delle politiche sociali sono annualmente stabilite le attivita' di formazione base essenziali che il lavoratore di cui all'[art. 47-bis del decreto legislativo 15 giugno 2015, n. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2015-06-15;81~art47bis), entro i primi trenta giorni dalla prima prestazione, deve seguire accedendo alla piattaforma SIISL, di cui all'[art. 5 del decreto-legge 4 maggio 2023, n. 48](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2023-05-04;48~art5), convertito con modificazioni dalla [legge 3 luglio 2023, n. 85](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2023-07-03;85). I Patronati possono prestare assistenza per facilitare l'accesso al lavoratore per fruire dei corsi sulla piattaforma SIISL. Il mancato completamento del corso di formazione base obbligatorio entro i termini previsti e' segnalato al committente. Al committente che si avvale delle prestazioni di un lavoratore oggetto di segnalazione di cui al presente comma per tre mesi e' erogata una sanzione pari da euro 800 a euro 2.400.))
+
+  
+(14)
 
 ---------------
 

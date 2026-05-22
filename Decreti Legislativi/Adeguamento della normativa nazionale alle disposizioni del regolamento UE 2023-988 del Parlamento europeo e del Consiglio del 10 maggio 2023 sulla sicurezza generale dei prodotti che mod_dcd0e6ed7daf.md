@@ -1,0 +1,311 @@
+DECRETO LEGISLATIVO 08 aprile 2026 n. 78
+
+
+DECRETO LEGISLATIVO 08 aprile 2026 n. 78
+========================================
+
+Adeguamento della normativa nazionale alle disposizioni del regolamento (UE) 2023/988 del Parlamento europeo e del Consiglio, del 10 maggio 2023, sulla sicurezza generale dei prodotti, che modifica il regolamento (UE) n. 1025/2012 del Parlamento europeo e del Consiglio e la direttiva (UE) 2020/1828 del Parlamento europeo e del Consiglio, e che abroga la direttiva 2001/95/CE del Parlamento europeo e del Consiglio e la direttiva 87/357/CEE del Consiglio. (26G00093)
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 16/05/2026
+
+IL PRESIDENTE DELLA REPUBBLICA
+------------------------------
+
+Visti gli [articoli 76](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27~art76) e [87, quinto comma, della Costituzione](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27~art87-com5);
+
+Vista la [legge 23 agosto 1988, n. 400](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400), recante «Disciplina dell'attivita' di Governo e ordinamento della Presidenza del Consiglio dei Ministri» e, in particolare, l'articolo 14;
+
+Vista la [legge 24 dicembre 2012, n. 234](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2012-12-24;234), recante «Norme generali sulla partecipazione dell'Italia alla formazione e all'attuazione della normativa e delle politiche dell'Unione europea»;
+
+Vista la [legge del 13 giugno 2025, n. 91](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2025-06-13;91), recante «Delega al Governo per il recepimento delle direttive europee e l'attuazione di altri atti dell'Unione europea - Legge di delegazione europea 2024» e, in particolare, l'articolo 24;
+
+Visto il [regolamento (UE) 2023/988 del Parlamento europeo e del Consiglio, del 10 maggio 2023](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32023R0988), relativo alla sicurezza generale dei prodotti che modifica il [regolamento (UE) n. 1025/2012 del Parlamento europeo e del Consiglio](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32012R1025) e la [direttiva (UE) 2020/1828 del Parlamento europeo e del Consiglio](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32020L1828), e che abroga la [direttiva 2001/95/CE del Parlamento europeo e del Consiglio](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32001L0095) e la [direttiva 87/357/CEE del Consiglio](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:31987L0357);
+
+Visto il [regolamento (CE) n. 765/2008](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32008R0765) che fissa le norme in materia di accreditamento e abroga il [regolamento (CEE) n. 339/93](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:31993R0339);
+
+Visto il [regolamento (UE) 2019/1020 del Parlamento europeo e del Consiglio, del 20 giugno 2019](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32019R1020), sulla vigilanza del mercato e sulla conformita' dei prodotti e che modifica la [direttiva 2004/42/CE](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32004L0042) e i [regolamenti (CE) n. 765/2008](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32008R0765) e (UE) n. 305/2011;
+
+Vista la [legge 4 novembre 1981, n. 689](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-11-04;689), recante «Modifiche al sistema penale»;
+
+Visto il [decreto legislativo 6 settembre 2005, n. 206](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-09-06;206), recante «[Codice del consumo](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-09-06;206)»;
+
+Visto il [decreto legislativo 12 ottobre 2022, n. 157](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2022-10-12;157), recante «Adeguamento della normativa nazionale alle disposizioni del [regolamento (UE) 2019/1020 del Parlamento europeo e del Consiglio, del 20 giugno 2019](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32019R1020), e semplificazione e riordino del relativo sistema di vigilanza del mercato»;
+
+Visto il [decreto-legge 11 novembre 2022, n. 173](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2022-11-11;173), convertito, con modificazioni, dalla [legge 16 dicembre 2022, n. 204](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2022-12-16;204), recante «Disposizioni urgenti in materia di riordino delle attribuzioni dei Ministeri» e, in particolare, l'articolo 2;
+
+Vista la preliminare deliberazione del Consiglio dei ministri, adottata nella riunione del 22 dicembre 2025;
+
+Acquisiti i pareri delle competenti Commissioni della Camera dei deputati e del Senato della Repubblica;
+
+Vista la deliberazione del Consiglio dei ministri, adottata nella riunione del 27 marzo 2026;
+
+Sulla proposta del Ministro per gli affari europei, il PNRR e le politiche di coesione e del Ministro delle imprese e del made in Italy, di concerto con i Ministri degli affari esteri e della cooperazione internazionale, dell'economia e delle finanze, della giustizia, dell'interno, della salute, del lavoro e delle politiche sociali e delle infrastrutture e dei trasporti;
+
+Emana
+-----
+
+il seguente decreto legislativo:
+
+Art. 1
+------
+
+Modifiche alle premesse del codice del consumo, di cui   
+al decreto legislativo 6 settembre 2005, n. 206
+
+1. Alle premesse del [codice del consumo](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-09-06;206), di cui al [decreto legislativo 6 settembre 2005, n. 206](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-09-06;206), dopo il sesto Visto e' inserito il seguente:   
+«Visto il [regolamento (UE) 2023/988 del Parlamento europeo e del Consiglio, del 10 maggio 2023](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32023R0988), relativo alla sicurezza generale dei prodotti che modifica il [regolamento (UE) n. 1025/2012 del Parlamento europeo e del Consiglio](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32012R1025) e la [direttiva (UE) 2020/1828 del Parlamento europeo e del Consiglio](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32020L1828), e che abroga la [direttiva 2001/95/CE del Parlamento europeo e del Consiglio](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32001L0095) e la [direttiva 87/357/CEE del Consiglio](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:31987L0357);».
+
+N O T E   
+  
+Avvertenza:   
+- Il testo delle note qui pubblicato e' stato redatto dall'amministrazione competente per materia ai sensi dell'articolo 10, commi 2 e 3, del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con [D.P.R. 28 dicembre 1985, n. 1092](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1985-12-28;1092), al solo fine di facilitare la lettura delle disposizioni di legge modificate o alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.   
+- Per gli atti dell'Unione europea vengono forniti gli estremi di pubblicazione nella Gazzetta Ufficiale dell'Unione europea (GUUE).   
+  
+Note alle premesse:   
+- Si riporta il testo dell'[art. 76 della Costituzione](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27~art76):   
+«Art. 76. - L'esercizio della funzione legislativa non puo' essere delegato al Governo se non con determinazione di principi e criteri direttivi e soltanto per tempo limitato e per oggetti definiti.».   
+- L'[art. 87 della Costituzione](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27~art87) conferisce, tra l'altro, al Presidente della Repubblica il potere di promulgare le leggi ed emanare i decreti aventi valore di legge e i regolamenti.   
+- Si riporta il testo dell'[articolo 14 della legge 23 agosto 1988, n. 400](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400~art14), recante: «Disciplina dell'attivita' di Governo e ordinamento della Presidenza del Consiglio dei ministri», [pubblicata nella Gazzetta Ufficiale n.214 del 12 settembre 1988](http://www.gazzettaufficiale.it/gazzetta/serie_generale/caricaDettaglio?dataPubblicazioneGazzetta=1988-09-12&numeroGazzetta=214):   
+«Art. 14 (Decreti legislativi). - 1. I decreti legislativi adottati dal Governo ai sensi dell'[articolo 76 della Costituzione](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27~art76) sono emanati dal Presidente della Repubblica con la denominazione di "decreto legislativo" e con l'indicazione, nel preambolo, della legge di delegazione, della deliberazione del Consiglio dei ministri e degli altri adempimenti del procedimento prescritti dalla legge di delegazione.   
+2. L'emanazione del decreto legislativo deve avvenire entro il termine fissato dalla legge di delegazione; il testo del decreto legislativo adottato dal Governo e' trasmesso al Presidente della Repubblica, per la emanazione, almeno venti giorni prima della scadenza.   
+3. Se la delega legislativa si riferisce ad una pluralita' di oggetti distinti suscettibili di separata disciplina, il Governo puo' esercitarla mediante piu' atti successivi per uno o piu' degli oggetti predetti. In relazione al termine finale stabilito dalla legge di delegazione, il Governo informa periodicamente le Camere sui criteri che segue nell'organizzazione dell'esercizio della delega.   
+4. In ogni caso, qualora il termine previsto per l'esercizio della delega ecceda in due anni, il Governo e' tenuto a richiedere il parere delle Camere sugli schemi dei decreti delegati. Il parere e' espresso dalle Commissioni permanenti delle due Camere competenti per materia entro sessanta giorni, indicando specificamente le eventuali disposizioni non ritenute corrispondenti alle direttive della legge di delegazione. Il Governo, nei trenta giorni successivi, esaminato il parere, ritrasmette, con le sue osservazioni e con eventuali modificazioni, i testi alle Commissioni per il parere definitivo che deve essere espresso entro trenta giorni.».   
+- La [legge 24 dicembre 2012, n. 234](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2012-12-24;234), recante: «Norme generali sulla partecipazione dell'Italia alla formazione e all'attuazione della normativa e delle politiche dell'Unione europea» e' [pubblicata nella Gazzetta Ufficiale n. 3 del 4 gennaio 2013](http://www.gazzettaufficiale.it/gazzetta/serie_generale/caricaDettaglio?dataPubblicazioneGazzetta=2013-01-04&numeroGazzetta=3).   
+- Si riporta il testo dell'[articolo 24 della legge 13 giugno 2025, n. 91](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2025-06-13;91~art24), recante: «Delega al Governo per il recepimento delle direttive europee e l'attuazione di altri atti dell'Unione europea - Legge di delegazione europea 2024», [pubblicata nella Gazzetta Ufficiale n. 145 del 25 giugno 2025](http://www.gazzettaufficiale.it/gazzetta/serie_generale/caricaDettaglio?dataPubblicazioneGazzetta=2025-06-25&numeroGazzetta=145):   
+«Art. 24 (Delega al Governo per l'adeguamento della normativa nazionale alle disposizioni del [regolamento (UE) 2023/988 del Parlamento europeo e del Consiglio, del 10 maggio 2023](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32023R0988), relativo alla sicurezza generale dei prodotti, che modifica il [regolamento (UE) n. 1025/2012 del Parlamento europeo e del Consiglio](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32012R1025) e la [direttiva (UE) 2020/1828 del Parlamento europeo e del Consiglio](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32020L1828), e che abroga la [direttiva 2001/95/CE del Parlamento europeo e del Consiglio](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32001L0095) e la [direttiva 87/357/CEE del Consiglio](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:31987L0357)). - 1. Il Governo e' delegato ad adottare, entro sei mesi dalla data di entrata in vigore della presente legge, uno o piu' decreti legislativi per l'adeguamento della normativa nazionale alle disposizioni del [regolamento (UE) 2023/988 del Parlamento europeo e del Consiglio, del 10 maggio 2023](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32023R0988).   
+2. Nell'esercizio della delega di cui al comma 1, il Governo osserva, oltre ai principi e criteri direttivi generali di cui all'[articolo 32 della legge 24 dicembre 2012, n. 234](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2012-12-24;234~art32), anche i seguenti principi e criteri direttivi specifici:   
+a) apportare le necessarie abrogazioni, modificazioni e integrazioni al [codice del consumo](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-09-06;206), di cui al [decreto legislativo 6 settembre 2005, n. 206](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-09-06;206), al fine di assicurare il coordinamento con le disposizioni emanate in attuazione del [regolamento (UE) 2023/988](http://www.normattiva.it/uri-res/N2Ls?urn:nir::regolamento:2023;988) ed effettuare il coordinamento delle residue disposizioni anche con riferimento al sistema RAPEX/Safety Gate e al Safety Business Gateway ferme restando le competenze per categoria di prodotti, non coperti dalle norme armonizzate, in capo a ciascuna autorita' di vigilanza del mercato, cosi' come individuata dal [decreto legislativo 12 ottobre 2022, n. 157](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2022-10-12;157);   
+b) garantire la coerenza con il quadro normativo dell'Unione europea in materia di vigilanza del mercato e conformita' dei prodotti, di cui al [decreto legislativo 12 ottobre 2022, n. 157](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2022-10-12;157);   
+c) aggiornare il sistema sanzionatorio per la violazione delle disposizioni in materia di sicurezza generale dei prodotti e integrare le nuove fattispecie sanzionatorie derivanti dall'attuazione del [regolamento (UE) 2023/988](http://www.normattiva.it/uri-res/N2Ls?urn:nir::regolamento:2023;988), attraverso la previsione di sanzioni efficaci, dissuasive e proporzionate alla gravita' e alla durata delle relative violazioni, anche in relazione alle diverse fasi della filiera commerciale e ai soggetti coinvolti, ferme restando le competenze per categorie di prodotti, non coperti dalle norme armonizzate, in capo a ciascuna autorita' di vigilanza del mercato, cosi' come individuata dal [decreto legislativo 12 ottobre 2022, n. 157](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2022-10-12;157), nonche' garantire la celerita', l'economicita' e l'efficacia dell'azione amministrativa anche nei procedimenti sanzionatori;   
+d) individuare, nelle ipotesi di prodotti forniti online o attraverso altri mezzi di vendite a distanza, i soggetti responsabili della catena di fornitura nei confronti dei quali possono essere irrogate le sanzioni e imposte le altre misure amministrative per le violazioni commesse;   
+e) prevedere una disciplina transitoria per assicurare la commerciabilita' dei prodotti immessi sul mercato prima del 13 dicembre 2024, conformemente alla [direttiva 2001/95/CE del Parlamento europeo e del Consiglio, del 3 dicembre 2001](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32001L0095);   
+f) prevedere, previo versamento in apposito capitolo di entrata del bilancio dello Stato, la riassegnazione delle somme introitate a seguito dell'irrogazione delle nuove sanzioni amministrative pecuniarie di cui alla lettera c), agli appositi capitoli di spesa delle autorita' di vigilanza del mercato ai sensi del [decreto legislativo 12 ottobre 2022, n. 157](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2022-10-12;157), per essere destinate al potenziamento della vigilanza sul mercato. Per le autorita' di vigilanza che non sono Amministrazioni centrali la riassegnazione avviene in capo all'Amministrazione centrale titolare delle attivita' di indirizzo, vigilanza e controllo per il successivo trasferimento alle medesime autorita'.   
+3. Dall'attuazione del presente articolo non devono derivare nuovi o maggiori oneri a carico della finanza pubblica. Le autorita' interessate provvedono all'adempimento dei compiti derivanti dall'attuazione della delega di cui al presente articolo con le risorse umane, strumentali e finanziarie disponibili a legislazione vigente.».   
+- Il [regolamento (UE) 2023/988 del Parlamento europeo e del Consiglio, del 10 maggio 2023](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32023R0988), relativo alla sicurezza generale dei prodotti che modifica il [regolamento (UE) n. 1025/2012 del Parlamento europeo e del Consiglio](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32012R1025) e la [direttiva (UE) 2020/1828 del Parlamento europeo e del Consiglio](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32020L1828), e che abroga la [direttiva 2001/95/CE del Parlamento europeo e del Consiglio](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32001L0095) e la [direttiva 87/357/CEE del Consiglio](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:31987L0357) («regolamento sulla sicurezza generale dei prodotti») e' pubblicata nella G.U.U.E. 23 maggio 2023 Serie L 135/1.   
+- Il [regolamento (CE) n. 765/2008 del Parlamento europeo e del Consiglio, del 9 luglio 2008](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32008R0765), che fissa le norme in materia di accreditamento e abroga il [regolamento (CEE) n. 339/93](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:31993R0339) e' pubblicato nella G.U.U.E. 13 agosto 2008 Serie [L 218/30](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1930;218).   
+- Il [regolamento (UE) 2019/1020 del Parlamento europeo e del Consiglio, del 20 giugno 2019](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32019R1020), sulla vigilanza del mercato e sulla conformita' dei prodotti e che modifica la [direttiva 2004/42/CE](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32004L0042) e i [regolamenti (CE) n. 765/2008](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32008R0765) e (UE) n. 305/2011 e' pubblicata nella G.U.U.E. 25 giugno 2019 Serie L 169/1.   
+- La [legge 24 novembre 1981, n. 689](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-11-24;689), recante: «Modifiche al sistema penale» e' [pubblicata nella Gazzetta ufficiale n. 329 del 30 novembre 1981](http://www.gazzettaufficiale.it/gazzetta/serie_generale/caricaDettaglio?dataPubblicazioneGazzetta=1981-11-30&numeroGazzetta=329).   
+- Il [decreto legislativo 6 settembre 2005, n. 206](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-09-06;206), recante: «[Codice del consumo](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-09-06;206), a norma dell'[articolo 7 della legge 29 luglio 2003, n. 229](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2003-07-29;229~art7)» e' [pubblicato nella Gazzetta Ufficiale n. 162 dell'8 ottobre 2005](http://www.gazzettaufficiale.it/gazzetta/serie_generale/caricaDettaglio?dataPubblicazioneGazzetta=2005-10-08&numeroGazzetta=162), n. 235.   
+- Il [decreto legislativo 12 ottobre 2022, n. 157](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2022-10-12;157), recante: «Adeguamento della normativa nazionale alle disposizioni del [regolamento (UE) 2019/1020 del Parlamento europeo e del Consiglio, del 20 giugno 2019](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32019R1020), e semplificazione e riordino del relativo sistema di vigilanza del mercato» e' pubblicato nella Gazzetta ufficiale 22 ottobre 2022, n. 248;   
+- Il [decreto-legge 11 novembre 2022, n. 173](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2022-11-11;173), recante: «Disposizioni urgenti in materia di riordino delle attribuzioni dei Ministeri», pubblicato nella Gazzetta ufficiale 11 novembre 2022, n. 264 e convertito, con modificazioni, dalla [legge 16 dicembre 2022, n. 204](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2022-12-16;204).   
+  
+Note all'art. 1:   
+- Per i riferimenti al decreto 6 settembre 2005, n. 206 si vedano le note alle premesse.
+
+Art. 2
+------
+
+Modifiche alla parte I, titolo I, e alla parte II, titolo II, del codice del consumo, di cui al decreto legislativo 6 settembre 2005, n. 206
+
+1. Alla parte I, titolo I, del [codice del consumo](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-09-06;206), di cui al [decreto legislativo 6 settembre 2005, n. 206, all'articolo 3, lettera d)](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-09-06;206~art3-letd), le parole: «nell'articolo 103, comma 1, lettera d),» sono soppresse.
+
+2. Alla parte II, titolo II, del [codice del consumo](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-09-06;206), di cui al [decreto legislativo 6 settembre 2005, n. 206](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-09-06;206), sono apportate le seguenti modificazioni:
+
+a) all'articolo 6, lettera b), sono aggiunte, in fine, le seguenti parole: «, nonche' il loro indirizzo postale ed elettronico e, se diverso, l'indirizzo postale o elettronico del punto unico di contatto al quale possono essere contattati»;
+
+b) all'articolo 12, comma 1, le parole: «titolo II» sono sostituite dalle seguenti: «titoli I e II».
+
+Note all'art. 2:   
+- Si riporta il testo degli articoli 3, 6 e 12 del citato [decreto legislativo 6 settembre 2005, n. 206](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-09-06;206), come modificati dal presente decreto:   
+«Art. 3 (Definizioni). - 1. Ai fini del presente codice ove non diversamente previsto, si intende per:   
+a) consumatore o utente: la persona fisica che agisce per scopi estranei all'attivita' imprenditoriale, commerciale, artigianale o professionale eventualmente svolta;   
+b) associazioni dei consumatori e degli utenti: le formazioni sociali che abbiano per scopo statutario esclusivo la tutela dei diritti e degli interessi dei consumatori o degli utenti;   
+c) professionista: la persona fisica o giuridica che agisce nell'esercizio della propria attivita' imprenditoriale ,commerciale, artigianale o professionale, ovvero un suo intermediario; produttore: fatto salvo quanto stabilito nell'articolo 115, comma 2-bis e nell'articolo 128, comma 2, lettera d), il fabbricante del bene o il fornitore del servizio, o un suo intermediario, nonche' l'importatore del bene o del servizio nel territorio dell'Unione europea o qualsiasi altra persona fisica o giuridica che si presenta come produttore identificando il bene o il servizio con il proprio nome, marchio o altro segno distintivo;   
+d) produttore: fatto salvo quanto stabilito il fabbricante del bene o il fornitore del servizio, o un suo intermediario, nonche' l'importatore del bene o del servizio nel territorio dell'Unione europea o qualsiasi altra persona fisica o giuridica che si presenta come produttore identificando il bene o il servizio con il proprio nome, marchio o altro segno distintivo;   
+e) prodotto: fatto salvo quanto stabilito nell'articolo 18, comma 1, lettera c), e) nell'articolo 115, comma 1, qualsiasi prodotto destinato al consumatore, anche nel quadro di una prestazione di servizi, o suscettibile, in condizioni ragionevolmente prevedibili, di essere utilizzato dal consumatore, anche se non a lui destinato, fornito o reso disponibile a titolo oneroso o gratuito nell'ambito di un'attivita' commerciale, indipendentemente dal fatto che sia nuovo, usato o rimesso a nuovo; tale definizione non si applica ai prodotti usati, forniti come pezzi d'antiquariato, o come prodotti da riparare o da rimettere a nuovo prima dell'utilizzazione, purche' il fornitore ne informi per iscritto la persona cui fornisce il prodotto;   
+f) codice: il presente decreto legislativo di riassetto delle disposizioni vigenti in materia di tutela dei consumatori.».   
+«Art. 6 (Contenuto minimo delle informazioni). - 1. I prodotti o le confezioni dei prodotti destinati al consumatore, commercializzati sul territorio nazionale, riportano, chiaramente visibili e leggibili, almeno le indicazioni relative:   
+a) alla denominazione legale o merceologica del prodotto;   
+b) al nome o ragione sociale o marchio e alla sede legale del produttore o di un importatore stabilito nell'Unione europea, nonche' il loro indirizzo postale ed elettronico e, se diverso, l'indirizzo postale o elettronico del punto unico di contatto al quale possono essere contattati;   
+c) al Paese di origine se situato fuori dell'Unione europea;   
+d) all'eventuale presenza di materiali o sostanze che possono arrecare danno all'uomo, alle cose o all'ambiente;   
+e) ai materiali impiegati ed ai metodi di lavorazione ove questi siano determinanti per la qualita' o le caratteristiche merceologiche del prodotto;   
+f) alle istruzioni, alle eventuali precauzioni e alla destinazione d'uso, ove utili ai fini di fruizione e sicurezza del prodotto.».   
+«Art. 12 (Sanzioni). - 1. Fatto salvo quanto previsto nella parte IV, titoli I e II, e salvo che il fatto costituisca reato, per quanto attiene alle responsabilita' del produttore, ai contravventori al divieto di cui all'articolo 11 si applica una sanzione amministrativa da 516 euro a 25.823 euro. La misura della sanzione e' determinata, in ogni singolo caso, facendo riferimento al prezzo di listino di ciascun prodotto ed al numero delle unita' poste in vendita.   
+Le sanzioni sono applicate ai sensi della [legge 24 novembre 1981, n. 689](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-11-24;689). Fermo restando quanto previsto in ordine ai poteri di accertamento degli ufficiali e degli agenti di polizia giudiziaria dall'articolo 13 della predetta [legge 24 novembre 1981, n. 689](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-11-24;689), all'accertamento delle violazioni provvedono d'ufficio o su denunzia, gli organi di polizia amministrativa. Il rapporto previsto dall'[articolo 17 della legge 24 novembre 1981, n. 689](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-11-24;689~art17), e' presentato all'ufficio della camera di commercio, industria, artigianato e agricoltura della provincia in cui vi e' la residenza o la sede legale del professionista.».
+
+Art. 3
+------
+
+Modifiche alla parte IV, titolo I, del codice del consumo,   
+di cui al decreto legislativo 6 settembre 2005, n. 206
+
+1. Alla parte IV, titolo I, del [codice del consumo](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-09-06;206), di cui al [decreto legislativo 6 settembre 2005, n. 206](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-09-06;206), sono apportate le seguenti modificazioni:
+
+a) l'articolo 102 e' sostituito dal seguente:   
+«Art. 102 (Finalita' e campo di applicazione). - 1. Il presente titolo intende garantire che gli operatori economici immettano o mettano a disposizione sul mercato solo prodotti sicuri.   
+2. Le disposizioni del presente titolo si applicano a tutti i prodotti definiti dal [regolamento (UE) 2023/988 del Parlamento europeo e del Consiglio, del 10 maggio 2023](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32023R0988), anche oggetto di vendita online o tramite altri canali di vendita a distanza. Ciascuna disposizione del presente titolo si applica laddove non esistono, nell'ambito della normativa vigente, disposizioni specifiche aventi come obiettivo la sicurezza dei prodotti.   
+3. Se taluni prodotti sono soggetti a requisiti di sicurezza prescritti dal diritto dell'Unione europea, le disposizioni del presente titolo si applicano unicamente per gli aspetti e i rischi o le categorie di rischio non soggetti a tali requisiti.   
+4. Ai prodotti soggetti a specifici requisiti di sicurezza prescritti dalla normativa di armonizzazione elencata nell'allegato I al [regolamento (UE) 2019/1020 del Parlamento europeo e del Consiglio, del 20 giugno 2019](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32019R1020), e da qualsiasi altra normativa dell'Unione europea che armonizza le condizioni di commercializzazione dei prodotti non si applicano gli articoli 104 e 106, comma 1.   
+5. Le disposizioni del presente titolo non si applicano ai prodotti elencati nell'[articolo 2, paragrafo 2, del regolamento (UE) 2023/988](http://www.normattiva.it/uri-res/N2Ls?urn:nir::regolamento:2023;988~art2-par2).»;
+
+b) l'articolo 103 e' sostituito dal seguente:   
+«Art. 103 (Definizioni). - 1. Fatte salve le definizioni di cui all'[articolo 3 del regolamento (UE) 2023/988 del Parlamento europeo e del Consiglio, del 10 maggio 2023](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32023R0988), ai fini del presente titolo si intende per:   
+a) "regolamento": il [regolamento (UE) 2023/988 del Parlamento europeo e del Consiglio, del 10 maggio 2023](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32023R0988), relativo alla sicurezza generale dei prodotti che modifica il [regolamento (UE) n. 1025/2012 del Parlamento europeo e del Consiglio](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32012R1025) e la [direttiva (UE) 2020/1828 del Parlamento europeo e del Consiglio](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32020L1828), e che abroga la [direttiva 2001/95/CE del Parlamento europeo e del Consiglio](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32001L0095) e la [direttiva 87/357/CEE del Consiglio](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:31987L0357);   
+b) "autorita' di vigilanza del mercato": autorita' designate a norma dell'[articolo 3, comma 1, del decreto legislativo 12 ottobre 2022, n. 157](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2022-10-12;157~art3-com1), quali responsabili dell'organizzazione e dell'esecuzione della vigilanza del mercato nel territorio italiano;   
+c) "autorita' di controllo": autorita' designate a norma dell'[articolo 4, comma 1, del decreto legislativo n. 157 del 2022](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2022;157~art4-com1), quali autorita' incaricate del controllo dei prodotti che entrano nel mercato dell'Unione europea;   
+d) "ufficio unico di collegamento": la struttura di cui all'[articolo 5 del decreto legislativo n. 157 del 2022](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2022;157~art5).»;
+
+c) l'articolo 104 e' sostituito dal seguente:   
+«Art. 104 (Obblighi e informazione degli operatori economici).  
+- 1. Gli operatori economici si assicurano che il prodotto sia conforme all'obbligo generale di sicurezza previsto dall'articolo 102, comma 1.   
+2. Gli operatori economici, in relazione ai rispettivi ruoli nella catena di fornitura, sono tenuti al rispetto degli obblighi stabiliti dal capo III del regolamento e alla cooperazione con le autorita' di vigilanza del mercato.   
+3. Gli operatori economici si assicurano che qualsiasi avvertenza o informazione di sicurezza, che deve essere apposta sul prodotto o accompagnarlo, sia in lingua italiana ben visibile. Gli operatori si assicurano, inoltre, che gli eventuali avvisi di richiamo e i relativi servizi di informazione per i consumatori siano in lingua italiana.   
+4. Gli operatori economici, su loro richiesta e a titolo gratuito, possono richiedere informazioni sull'attuazione del regolamento e sulle norme nazionali sulla sicurezza dei prodotti di cui al presente titolo al punto di contatto per i prodotti, di cui al [regolamento (UE) 2019/515 del Parlamento europeo e del Consiglio, del 19 marzo 2019](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32019R0515), individuato nel Ministero delle imprese e del made in Italy.»;
+
+d) l'articolo 105 e' abrogato;
+
+e) l'articolo 106 e' sostituito dal seguente:   
+«Art. 106 (Ufficio unico di collegamento, autorita' di vigilanza del mercato e procedure di coordinamento). - 1. Ai fini del presente titolo, e' designato quale ufficio unico di collegamento il Ministero delle imprese e del made in Italy.   
+2. L'autorita' di vigilanza del mercato competente per i controlli di cui all'articolo 107 e' individuata tra le autorita' di cui all'[articolo 3, comma 1, del decreto legislativo 12 ottobre 2022, n. 157](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2022-10-12;157~art3-com1), sulla base dei seguenti criteri:   
+a) destinazione d'uso e luogo prevalente di utilizzo del prodotto;   
+b) caratteristiche intrinseche del prodotto;   
+c) analogia con prodotti rientranti nelle normative di armonizzazione.   
+3. I criteri per il coordinamento dei controlli, previsti dall'articolo 107, sono stabiliti in un apposito tavolo tecnico di coordinamento fra le autorita' di vigilanza del mercato, convocato almeno due volte l'anno dal Ministero delle imprese e del made in Italy. Al tavolo tecnico partecipano anche le autorita' di controllo e le altre amministrazioni di volta in volta competenti per materia.  
+Per la partecipazione al tavolo tecnico di coordinamento non spettano compensi, gettoni di presenza, indennita', rimborsi di spese o altri emolumenti comunque denominati.   
+4. Al tavolo tecnico di cui al comma 3, possono presentare osservazioni gli organismi di categoria della produzione e della distribuzione, nonche' le associazioni di tutela degli interessi dei consumatori e degli utenti iscritte all'elenco di cui all'articolo 137, per l'elaborazione e l'esecuzione di progetti comuni di sorveglianza e prova, anche nell'ambito del commercio elettronico.   
+5. Il Ministero delle imprese e del made in Italy comunica gli esperti designati per la consultazione sugli atti delegati della Commissione europea e partecipa, con propri rappresentanti, alla rete europea per la sicurezza dei consumatori, informando le amministrazioni interessate.   
+6. Le autorita' di vigilanza tutelano le informazioni raccolte per le finalita' di cui al presente titolo, conformemente alle disposizioni del [codice in materia di protezione dei dati personali](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2003-06-30;196), di cui al [decreto legislativo 30 giugno 2003, n. 196](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2003-06-30;196).   
+7. Ai prodotti di cui al presente titolo, si applicano, inoltre, l'articolo 3, comma 3, e gli articoli 4, 5, commi 1, 2, 3, 4, 5, 6, 7 e 8, 6 e 10 del [decreto legislativo 12 ottobre 2022, n. 157](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2022-10-12;157).»;
+
+f) l'articolo 107 e' sostituito dal seguente:   
+«Art. 107 (Vigilanza del mercato). - 1. Ai fini del presente titolo, le autorita' di vigilanza del mercato assicurano, ciascuna per il proprio ambito di competenza, il rispetto dell'obbligo generale di sicurezza di cui all'articolo 102, comma 1.   
+2. Le autorita' di vigilanza del mercato svolgono i controlli previsti dal regolamento, nell'ambito delle rispettive competenze, anche mediante i propri uffici territoriali, nonche' tramite la collaborazione con le autorita' incaricate del controllo e gli altri enti ai quali e' demandato lo svolgimento delle attivita' di vigilanza.   
+3. L'Agenzia delle dogane e dei monopoli e la Guardia di finanza hanno accesso al sistema di allarme rapido «Safety Gate».   
+4. Le autorita' di vigilanza del mercato sono tenute a comunicare all'ufficio unico di collegamento, con cadenza annuale, i dati relativi ai controlli effettuati in applicazione del presente titolo.   
+5. Le amministrazioni competenti, nell'ambito delle misure adottate sulla base del principio di precauzione e, senza nuovi o maggiori oneri per la finanza pubblica, incoraggiano e favoriscono l'azione volontaria degli operatori economici di adeguamento agli obblighi imposti dal presente titolo, anche mediante l'eventuale elaborazione di codici di buona condotta e accordi con le categorie di settore.   
+6. Le autorita' di vigilanza del mercato, ciascuna per i prodotti di propria competenza, garantiscono ai consumatori la possibilita' di sporgere reclami con riguardo alla sicurezza dei prodotti, alle attivita' di controllo e vigilanza relativi a prodotti specifici nonche' ai casi in cui i rimedi offerti dai consumatori in caso di richiamo di prodotti non siano soddisfacenti, garantendo l'informazione dell'interessato in merito alle eventuali azioni intraprese.   
+7. Se il reclamo non e' manifestamente infondato e sussistono i presupposti per adottare un provvedimento, le autorita' di vigilanza del mercato assicurano adeguato seguito al reclamo e forniscono al reclamante informazioni riguardo le eventuali misure intraprese.   
+8. Per i controlli di cui all'articolo 22 del regolamento, le autorita' di vigilanza cooperano con il coordinatore dei servizi digitali di cui all'[articolo 15, comma 3, del decreto-legge 15 settembre 2023, n. 123](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2023-09-15;123~art15-com3), convertito, con modificazioni, dalla [legge 13 novembre 2023, n. 159](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2023-11-13;159).   
+9. Per armonizzare l'attivita' di controllo derivante dal presente titolo con quella attuata per i prodotti per i quali gli obblighi di sicurezza sono disciplinati dalla normativa antincendio, il Ministero dell'interno opera, per gli aspetti di coordinamento, attraverso il Dipartimento dei vigili del fuoco, del soccorso pubblico e della difesa civile - direzione centrale per la prevenzione e la sicurezza tecnica, antincendio ed energetica del Corpo nazionale dei vigili del fuoco, nonche' attraverso gli organi periferici del Corpo nazionale dei vigili del fuoco per gli interventi sul territorio, nell'ambito delle dotazioni organiche esistenti e, comunque, senza oneri aggiuntivi a carico del bilancio dello Stato.   
+10. Il Ministero della salute, ai fini degli adempimenti derivanti dalle norme sulla sicurezza dei prodotti e dal presente titolo, opera anche attraverso i propri uffici di sanita' marittima, aerea e di frontiera nell'ambito delle dotazioni organiche esistenti e, comunque, senza oneri aggiuntivi a carico del bilancio dello Stato.»;
+
+g) all'articolo 108:   
+1) al comma 1, le parole: «ai sensi dell'articolo 107» sono sostituite dalle seguenti: «dalle Autorita' di vigilanza»;   
+2) al comma 2, le parole: «delle misure di cui all'articolo 107, commi 2 e 3» sono sostituite dalle seguenti: «dei provvedimenti di cui al comma 1»;   
+3) il comma 3-bis e' abrogato;
+
+h) l'articolo 109 e' abrogato;
+
+i) l'articolo 110 e' sostituito dal seguente:   
+«Art. 110 (Sistema di allarme rapido "Safety Gate"). - 1. Le autorita' di vigilanza del mercato notificano le misure correttive intraprese, per i prodotti a rischio grave, tramite il sistema di allarme rapido "Safety Gate". Le misure correttive o altre azioni adottate per i prodotti di cui al primo periodo, anche in relazione ai prodotti notificati da altri Stati membri, nonche' qualsiasi altra informazione pertinente, compresi i risultati di eventuali prove o analisi effettuate, devono essere notificati dalle autorita' di vigilanza del mercato, senza indebito ritardo e, in ogni caso, entro quattro giorni lavorativi dall'adozione della misura intrapresa.   
+2. Le autorita' di vigilanza del mercato possono inoltre notificare le misure correttive previste, anche da parte degli operatori economici, anche in relazione ai prodotti che presentano un rischio non grave.   
+3. Le autorita' di vigilanza del mercato notificano, inoltre, senza indebito ritardo, tramite il sistema di allarme rapido "Safety Gate" ogni aggiornamento, modifica o revoca delle misure correttive notificate.   
+4. Il Ministero delle imprese e del made in Italy, in qualita' di punto di contatto di cui all'[articolo 9 del regolamento (UE) 2019/515 del Parlamento europeo e del Consiglio, del 19 marzo 2019](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32019R0515), verifica la completezza delle notifiche caricate dalle autorita' di vigilanza nazionali e garantisce la trasmissione delle medesime alla Commissione europea per la convalida, nonche' verifica l'adempimento da parte delle autorita' di vigilanza dei compiti di cui ai commi 1, 2 e 3.   
+5. Le autorita' di vigilanza verificano, inoltre, ciascuna per il proprio ambito di competenza, le decisioni eventualmente adottate dalla Commissione europea relativamente a prodotti che presentano un rischio grave per la salute e la sicurezza dei consumatori in diversi Stati membri e garantiscono, entro venti giorni o nel rispetto del termine eventualmente inferiore previsto dalla Commissione europea, l'adozione di idonei provvedimenti.   
+6. Se il provvedimento adottato riguarda un rischio che si ritiene limitato al territorio nazionale, il Ministero delle imprese e del made in Italy procede, anche su richiesta delle altre amministrazioni competenti, alla notifica alla Commissione europea qualora il provvedimento contenga informazioni suscettibili di presentare un interesse, quanto alla sicurezza dei prodotti, per gli altri Stati membri, in particolare se tale provvedimento risponde a un rischio nuovo, non ancora segnalato in altre notifiche.   
+7. Le autorita' di vigilanza del mercato, ognuna per i prodotti di propria competenza assicurano, inoltre, l'attuazione a livello nazionale degli specifici compiti stabiliti dagli atti di esecuzione dell'Unione europea e si assicurano di informare la Commissione europea delle misure intraprese.   
+8. Le disposizioni di cui al presente articolo si applicano anche ai prodotti coperti dalla normativa di armonizzazione e dal [regolamento (UE) 2019/1020 del Parlamento europeo e del Consiglio, del 20 giugno 2019](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32019R1020).   
+9. Il Ministero delle imprese e del made in Italy provvede alle attivita' di propria competenza di cui al presente articolo con le risorse umane, strumentali e finanziarie disponibili a legislazione vigente.»;
+
+l) dopo l'articolo 110 e' inserito il seguente:   
+«Art. 110-bis (Portali "Safety Business Gateway" e "Consumer Safety Gateway"). - 1. Qualsiasi operatore economico che ritiene o ha motivo di credere, sulla base delle informazioni in suo possesso, che un prodotto da lui immesso sul mercato o altrimenti fornito al consumatore sia pericoloso, deve notificarlo tramite il portale "Safety Business Gateway" alle autorita' di vigilanza del mercato, inserendo informazioni dettagliate, in particolare, sul rischio per la salute e la sicurezza del consumatore, sulle eventuali misure correttive gia' adottate e, se disponibili, sulla quantita' dei prodotti ancora in circolazione sul mercato.   
+2. Le autorita' di vigilanza sono tenute, ognuno per i propri ambiti di competenza, alla verifica periodica e alla gestione delle segnalazioni notificate sul portale di cui al comma 1.   
+3. I consumatori e le altre parti interessate possono segnalare alla Commissione europea i prodotti che possono presentare un rischio per la salute e la sicurezza dei consumatori sul portale "Consumer Safety Gateway".   
+4. Le autorita' di vigilanza del mercato, ognuno per i propri ambiti di competenza, a seguito della verifica della Commissione europea sull'esattezza delle informazioni di cui al comma 3 garantiscono, senza indebito ritardo, adeguato seguito alle segnalazioni trasmesse tramite il portale "Consumer Safety Gateway".   
+5. Le autorita' di vigilanza provvedono alle attivita' di propria competenza di cui al presente articolo con le risorse umane, strumentali e finanziarie disponibili a legislazione vigente.»;
+
+m) l'articolo 112 e' sostituito dal seguente:   
+«Art. 112 (Sanzioni). - 1. Salvo che il fatto costituisca piu' grave reato, l'operatore economico che immette sul mercato o mette a disposizione prodotti pericolosi, in violazione dell'obbligo generale di sicurezza di cui all'articolo 102, comma 1, e' punito con l'arresto da sei mesi a un anno e con l'ammenda da 10.000 euro a 100.000 euro. Ove il prodotto presenti un rischio grave ai sensi dell'articolo 3, numero 5), del regolamento, la pena pecuniaria e' aumentata fino alla meta'.   
+2. L'operatore economico che non adempie agli obblighi di informazione previsti dall'articolo 15, paragrafi 2, 3, 4, 5 e 6, del regolamento e comunque non coopera con l'autorita' di vigilanza, in violazione dell'articolo 15, paragrafo 1, del regolamento, oppure ne ostacola l'attivita' di controllo, e' soggetto alla sanzione amministrativa pecuniaria da 4.000 euro a 40.000 euro.   
+3. Salvo che il fatto costituisca reato o configuri un illecito amministrativo sanzionato dalle disposizioni nazionali di recepimento o di adeguamento della normativa di armonizzazione dell'Unione europea di cui all'allegato I al [regolamento (UE) 2019/1020 del Parlamento europeo e del Consiglio, del 20 giugno 2019](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32019R1020), gli operatori economici che violano gli obblighi stabiliti dal capo III del regolamento, in relazione ai rispettivi ruoli nella catena di fornitura, sono soggetti alla sanzione amministrativa pecuniaria da 2.500 euro a 25.000 euro.   
+4. Salvo che il fatto costituisca piu' grave reato o configuri un illecito amministrativo sanzionato dalle disposizioni nazionali di recepimento o di adeguamento della normativa di armonizzazione dell'Unione europea di cui all'allegato I al [regolamento (UE) 2019/1020](http://www.normattiva.it/uri-res/N2Ls?urn:nir::regolamento:2019;1020), l'operatore economico e il fornitore di mercato online che non ottemperano ai provvedimenti emanati dall'autorita' di vigilanza del mercato sono puniti con l'ammenda da 3.000 euro a 30.000 euro.   
+5. Fermo restando quanto previsto dall'articolo 12, comma 2, l'attivita' di accertamento delle violazioni previste dal presente articolo e' esercitata, nell'ambito delle rispettive competenze, dalle autorita' di vigilanza del mercato e dalle autorita' di controllo.   
+6. Le sanzioni sono irrogate dalla camera di commercio, industria, artigianato e agricoltura territorialmente competente. Si applicano, in quanto compatibili, le disposizioni di cui alla [legge 24 novembre 1981, n. 689](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-11-24;689).»;
+
+n) all'articolo 113:   
+1) il comma 1 e' sostituito dal seguente:   
+«1. Sono fatte salve tutte le disposizioni del regolamento nonche' le ulteriori specifiche norme di settore che, con riferimento a particolari categorie merceologiche, obbligano a specifici standard di sicurezza.»;   
+2) dopo il comma 1 e' inserito il seguente:   
+«1-bis. E' consentita la messa a disposizione dei prodotti rientranti nell'ambito di applicazione della [direttiva 2001/95/CE del Parlamento europeo e del Consiglio, del 3 dicembre 2001](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32001L0095), e a essa conformi, immessi sul mercato anteriormente al 13 dicembre 2024.».
+
+Note all'art. 3:   
+- Si riporta il testo degli articoli 108 e 113 del citato decreto 6 settembre 2005, n. 206, come modificato dal presente decreto:   
+«Art. 108 (Disposizioni procedurali). - 1. Il provvedimento adottato dalle Autorita' di vigilanza che limita l'immissione sul mercato di un prodotto o ne dispone il ritiro o il richiamo, deve essere adeguatamente motivato, con l'indicazione dei termini e delle Autorita' competenti cui e' possibile ricorrere e deve essere notificato entro sette giorni dall'adozione.   
+2. Fatti salvi i casi di grave o immediato pericolo per la salute o per la pubblica o privata incolumita', prima dell'adozione delle misure dei provvedimenti di cui al comma 1, commi 2 e 3, agli interessati deve essere consentito di partecipare alla fase del procedimento amministrativo e di presenziare agli accertamenti riguardanti i propri prodotti, in base agli [articoli 7 e seguenti della legge 7 agosto 1990, n. 241](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-08-07;241~art7); in particolare, gli interessati possono presentare all'Autorita' competente osservazioni scritte e documenti.   
+3. Gli interessati possono presentare osservazioni scritte anche in seguito all'emanazione del provvedimento, anche quando, a causa dell'urgenza della misura da adottare, non hanno potuto partecipare al procedimento.   
+3-bis. (abrogato).».   
+«Art. 113 (Rinvio e disposizioni transitorie). - 1.  
+Sono fatte salve tutte le disposizioni del regolamento nonche' le ulteriori specifiche norme di settore che, con riferimento a particolari categorie merceologiche, obbligano a specifici standard di sicurezza.   
+1-bis. E' consentita la messa a disposizione dei prodotti rientranti nell'ambito di applicazione della [direttiva 2001/95/CE del Parlamento europeo e del Consiglio, del 3 dicembre 2001](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32001L0095), e a essa conformi, immessi sul mercato anteriormente al 13 dicembre 2024.».   
+- Gli articoli 105 e 109 del citato decreto 6 settembre 2005, n. 206, abrogati dal presente decreto, recavano rispettivamente: «Presunzione e valutazione di sicurezza» e «Sorveglianza del mercato».
+
+Art. 4
+------
+
+Modifica all'allegato II-septies al codice del consumo,   
+di cui al decreto legislativo 6 settembre 2005, n. 206
+
+1. All'allegato II-septies al [codice del consumo](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-09-06;206), di cui al [decreto legislativo 6 settembre 2005, n. 206, il numero 8](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-09-06;8)) e' sostituito dal seguente: «8) [Articoli da 103](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-09-06;206~art103) [a 113 del decreto legislativo 6 settembre 2005, n. 206](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-09-06;206~art113), recante «[Codice del consumo](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-09-06;206)» a norma dell'[articolo 24 della legge 13 giugno 2025, n. 91](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2025-06-13;91~art24), in attuazione del [regolamento (UE) 2023/988 del Parlamento europeo e del Consiglio, del 10 maggio 2023](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32023R0988), relativo alla sicurezza generale dei prodotti, che modifica il [regolamento (UE) n. 1025/2012 del Parlamento europeo e del Consiglio](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32012R1025) e la [direttiva (UE) 2020/1828 del Parlamento europeo e del Consiglio](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32020L1828), e che abroga la [direttiva 2001/95/CE del Parlamento europeo e del Consiglio](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32001L0095) e la [direttiva 87/357/CEE del Consiglio](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:31987L0357).».
+
+Note all'art. 4:   
+- Si riporta il testo dell'allegato II-septies del citato decreto 6 settembre 2005, n. 206, come modificato dal presente decreto:   
+«Allegato II-septies   
+1) [Articoli da 114](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-09-06;206~art114) [a 127 del decreto legislativo 6 settembre 2005, n. 206](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-09-06;206~art127), recante «[Codice del consumo](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-09-06;206), a norma dell'[articolo 7 della legge 29 luglio 2003, n. 229](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2003-07-29;229~art7)» in cui sono confluite le norme di cui al [DPR 24 maggio 1988, n. 224](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1988-05-24;224), di recepimento della [direttiva 85/374/CEE del Consiglio, del 25 luglio 1985](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:31985L0374), relativa al ravvicinamento delle disposizioni legislative, regolamentari e amministrative degli Stati membri in materia di responsabilita' per danno da prodotti difettosi.   
+2) [Articoli da 33](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-09-06;206~art33) [a 38 del decreto legislativo 6 settembre 2005, n. 206](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-09-06;206~art38), recante «[Codice del consumo](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-09-06;206), a norma dell'[articolo 7 della legge 29 luglio 2003, n. 229](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2003-07-29;229~art7)» in cui sono confluite le disposizioni di cui alla [legge 6 febbraio 1996, n. 52](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-02-06;52), di recepimento della [direttiva 93/13/CEE del Consiglio, del 5 aprile 1993](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:31993L0013), concernente le clausole abusive nei contratti stipulati con i consumatori.   
+3) [Regolamento (CE) 1997/2027 del Consiglio, del 9 ottobre 1997](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:31997R2027), sulla responsabilita' del vettore aereo con riferimento al trasporto aereo dei passeggeri e dei loro bagagli.   
+4) [Articoli da 13](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-09-06;206~art13) [a 17 del decreto legislativo 6 settembre 2005, n. 206](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-09-06;206~art17), recante «[Codice del consumo](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-09-06;206), a norma dell'[articolo 7 della legge 29 luglio 2003, n. 229](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2003-07-29;229~art7)» in cui sono confluite le disposizioni di cui al [decreto legislativo 25 febbraio 2000, n. 84](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2000-02-25;84), di attuazione della [direttiva 98/6/CE del Parlamento europeo e del Consiglio, del 16 febbraio 1998](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:31998L0006), relativa alla protezione dei consumatori in materia di indicazione dei prezzi dei prodotti offerti ai consumatori.   
+5) [Articoli da 128](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-09-06;206~art128) [a 135-septies del decreto legislativo 6 settembre 2005, n. 206](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-09-06;206~art135septies), recante «[Codice del consumo](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-09-06;206), a norma dell'[articolo 7 della legge 29 luglio 2003, n. 229](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2003-07-29;229~art7)», in attuazione della [direttiva 1999/44/CE del Parlamento europeo e del Consiglio, del 25 maggio 1999](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:31999L0044), su taluni aspetti della vendita e delle garanzie dei beni di consumo.   
+6) [Decreto legislativo 9 aprile 2003, n. 70](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2003-04-09;70), recante «Attuazione della [direttiva 2000/31/CE](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32000L0031) relativa a taluni aspetti giuridici dei servizi della societa' dell'informazione nel mercato interno, con particolare riferimento al commercio elettronico», in attuazione della [direttiva 2000/31/CE del Parlamento europeo e del Consiglio, dell'8 giugno 2000](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32000L0031), relativa a taluni aspetti giuridici dei servizi della societa' dell'informazione, in particolare il commercio elettronico, nel mercato interno («direttiva sul commercio elettronico»): articoli 5, 6, 7, 10 e 11.   
+7) [Decreto legislativo 24 aprile 2006, n. 219](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006-04-24;219), recante «Attuazione della [direttiva 2001/83/CE](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32001L0083) relativa ad un codice comunitario concernente i medicinali per uso umano ( (...) )» e [decreto legislativo 29 dicembre 2007, n. 274](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2007-12-29;274), recante «Disposizioni correttive al [decreto legislativo 24 aprile 2006, n. 219](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006-04-24;219), recante attuazione della [direttiva 2001/83/CE](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32001L0083) relativa ad un codice comunitario concernente medicinali per uso umano», in attuazione della [direttiva 2001/83/CE del Parlamento europeo e del Consiglio, del 6 novembre 2001](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32001L0083), recante un codice comunitario relativo ai medicinali per uso umano: articoli da 86 a 90 e articoli 98 e 100.   
+8) [Articoli da 103](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-09-06;206~art103) [a 113 del decreto legislativo 6 settembre 2005, n. 206](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-09-06;206~art113), recante «[Codice del consumo](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-09-06;206)» a norma dell'[articolo 24 della legge 13 giugno 2025, n. 91](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2025-06-13;91~art24), in attuazione del [regolamento (UE) 2023/988 del Parlamento europeo e del Consiglio, del 10 maggio 2023](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32023R0988), relativo alla sicurezza generale dei prodotti, che modifica il [regolamento (UE) n. 1025/2012 del Parlamento europeo e del Consiglio](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32012R1025) e la [direttiva (UE) 2020/1828 del Parlamento europeo e del Consiglio](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32020L1828), e che abroga la [direttiva 2001/95/CE del Parlamento europeo e del Consiglio](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32001L0095) e la [direttiva 87/357/CEE del Consiglio](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:31987L0357).   
+Omissis.».
+
+Art. 5
+------
+
+Abrogazioni
+
+1. L'allegato II al [codice del consumo](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-09-06;206), di cui al [decreto legislativo 6 settembre 2005, n. 206](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-09-06;206), e' abrogato.
+
+2. Il [decreto legislativo 25 gennaio 1992, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-01-25;73), e' abrogato.
+
+Note all'art. 5:   
+- L'allegato II del decreto 6 settembre 2005, n. 206, abrogato dal presente decreto, recava: «Procedure per l'applicazione del rapex delle linee guida per le notifiche».   
+- Il [decreto legislativo 25 gennaio 1992, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-01-25;73) recante: «Attuazione della [direttiva 87/357/CEE](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:31987L0357) relativa ai prodotti che, avendo un aspetto diverso da quello che sono in realta', compromettono la salute o la sicurezza dei consumatori», [pubblicato nella Gazzetta Ufficiale n. 36 del 13 febbraio 1992](http://www.gazzettaufficiale.it/gazzetta/serie_generale/caricaDettaglio?dataPubblicazioneGazzetta=1992-02-13&numeroGazzetta=36) e' abrogato dal presente decreto.
+
+Art. 6
+------
+
+Clausola di invarianza finanziaria
+
+1. Le amministrazioni interessate provvedono agli adempimenti previsti dal presente decreto con le risorse umane, finanziarie e strumentali disponibili a legislazione vigente e, comunque, senza nuovi oneri o maggiori oneri a carico della finanza pubblica.
+
+Art. 7
+------
+
+Entrata in vigore
+
+1. Il presente decreto entra in vigore il giorno successivo a quello della sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana.
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+### Dato a Roma, addi' 8 aprile 2026
+
+MATTARELLA
+
+Meloni, Presidente del Consiglio dei ministri
+
+Foti, Ministro per gli affari
+
+europei, il PNRR e le politiche di coesione
+
+Urso, Ministro delle imprese e del made in Italy
+
+Tajani, Ministro degli affari esteri e della cooperazione internazionale
+
+Giorgetti, Ministro dell'economia e delle finanze
+
+Nordio, Ministro della giustizia
+
+Piantedosi, Ministro dell'interno
+
+Schillaci, Ministro della salute
+
+Calderone, Ministro del lavoro e delle politiche sociali
+
+Salvini, Ministro delle infrastrutture e dei trasporti
+
+Visto, il Guardasigilli: Nordio

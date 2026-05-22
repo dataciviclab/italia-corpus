@@ -172,9 +172,9 @@ Il [D.Lgs. 6 ottobre 2018, n. 127](http://www.normattiva.it/uri-res/N2Ls?urn:nir
 
 2. Durante il periodo dei sei mesi di formazione, gli allievi non possono essere impiegati in servizi operativi e sono sottoposti a selezione attitudinale per la futura assegnazione a servizi che richiedano particolare qualificazione. Al termine di tale periodo, il direttore centrale per la formazione del Dipartimento dei vigili del fuoco, del soccorso pubblico e della difesa civile, di seguito denominato "Dipartimento", su proposta del dirigente delle scuole centrali antincendi, formula il giudizio di idoneita' al servizio di istituto nei confronti degli allievi che abbiano superato l'esame teorico-pratico. Gli allievi riconosciuti idonei sono nominati allievi vigili del fuoco in prova e avviati all'espletamento del periodo di applicazione pratica.
 
-3. L'applicazione pratica e' svolta con le modalita' previste dal decreto di cui al comma 6. Al termine della stessa, gli allievi vigili del fuoco in prova conseguono la nomina a vigile del fuoco, sulla base di un giudizio di idoneita' formulato dal dirigente del comando o dell'ufficio presso cui hanno prestato servizio. Essi prestano giuramento e sono immessi nel ruolo secondo la graduatoria finale del periodo di formazione di cui al comma 2. Il periodo minimo di permanenza nella sede di prima assegnazione non puo' essere inferiore a due anni. (20)
+3. L'applicazione pratica e' svolta con le modalita' previste dal decreto di cui al comma 6. Al termine della stessa, gli allievi vigili del fuoco in prova conseguono la nomina a vigile del fuoco, sulla base di un giudizio di idoneita' formulato dal dirigente del comando o dell'ufficio presso cui hanno prestato servizio. Essi prestano giuramento e sono immessi nel ruolo secondo la graduatoria finale del periodo di formazione di cui al comma 2. Il periodo minimo di permanenza nella sede di prima assegnazione non puo' essere inferiore a due anni. (20) (38)
 
-((38))
+((41))
 
 4. Gli allievi vigili del fuoco in prova sono ammessi a ripetere, per una sola volta, il periodo di applicazione pratica, su motivata proposta del dirigente del comando o dell'ufficio presso cui hanno prestato servizio.
 
@@ -212,6 +212,12 @@ Il [D.L. 16 luglio 2020, n. 76](http://www.normattiva.it/uri-res/N2Ls?urn:nir:st
 AGGIORNAMENTO (38)
 
 La [L. 4 aprile 2025, n. 42](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2025-04-04;42), ha disposto (con l'art. 14, comma 2) che "Allo scopo di rafforzare i servizi di soccorso pubblico e di prevenzione degli incendi per far fronte alle emergenze connesse agli eventi giubilari del 2025, in deroga a quanto previsto dall'articolo 6, comma 3, ultimo periodo, e dall'[articolo 144, comma 7, del decreto legislativo 13 ottobre 2005, n. 217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-10-13;217~art144-com7), a decorrere dalla data di entrata in vigore della presente legge e fino al 31 dicembre 2025, i trasferimenti del personale del ruolo dei vigili del fuoco e del ruolo dei direttivi che espletano funzioni operative possono essere disposti, a domanda, con provvedimento del Capo del Dipartimento dei vigili del fuoco, del soccorso pubblico e della difesa civile, anche se il dipendente non abbia maturato il requisito minimo di permanenza in sede".
+
+---------------
+
+AGGIORNAMENTO (41)
+
+La [L. 4 aprile 2025, n. 42](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2025-04-04;42), come modificata dal [D.L. 24 febbraio 2026, n. 23](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2026-02-24;23), convertito con modificazioni dalla [L. 24 aprile 2026, n. 54](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2026-04-24;54), ha disposto (con l'art. 14, comma 2) che "Allo scopo di rafforzare i servizi di soccorso pubblico e di prevenzione degli incendi per far fronte alle emergenze connesse agli eventi giubilari del 2025, in deroga a quanto previsto dall'articolo 6, comma 3, ultimo periodo, e dall'[articolo 144, comma 7, del decreto legislativo 13 ottobre 2005, n. 217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-10-13;217~art144-com7), a decorrere dalla data di entrata in vigore della presente legge e fino al 31 ottobre 2026, i trasferimenti del personale del ruolo dei vigili del fuoco e del ruolo dei direttivi che espletano funzioni operative possono essere disposti, a domanda, con provvedimento del Capo del Dipartimento dei vigili del fuoco, del soccorso pubblico e della difesa civile, anche se il dipendente non abbia maturato il requisito minimo di permanenza in sede".
 
 ### Art. 7
 
@@ -3689,9 +3695,9 @@ Il [D.Lgs. 6 ottobre 2018, n. 127](http://www.normattiva.it/uri-res/N2Ls?urn:nir
 
 6. Con decreto del capo del Dipartimento sono stabiliti le modalita' di svolgimento del corso di formazione e del tirocinio, i criteri per la formulazione dei giudizi di idoneita', le modalita' di svolgimento dell'esame finale, nonche' i criteri per la formazione della graduatoria di fine corso.
 
-7. I vice direttori sono assegnati ai servizi di istituto presso i comandi dei vigili del fuoco, permanendo nella sede di prima assegnazione per un periodo non inferiore a due anni, fatte salve le ipotesi di trasferimento per incompatibilita'. L'individuazione degli uffici viene effettuata anche in relazione a quanto previsto dall'articolo 150, comma 1.
+7. I vice direttori sono assegnati ai servizi di istituto presso i comandi dei vigili del fuoco, permanendo nella sede di prima assegnazione per un periodo non inferiore a due anni, fatte salve le ipotesi di trasferimento per incompatibilita'. L'individuazione degli uffici viene effettuata anche in relazione a quanto previsto dall'articolo 150, comma 1. (38)
 
-((38))
+((41))
 
 8. L'assegnazione di cui al comma 7 e' effettuata in relazione alla scelta manifestata dagli interessati secondo l'ordine della graduatoria di fine corso, nell'ambito delle sedi indicate dall'amministrazione.
 
@@ -3715,6 +3721,12 @@ Il [D.L. 19 marzo 2020, n. 34](http://www.normattiva.it/uri-res/N2Ls?urn:nir:sta
 AGGIORNAMENTO (38)
 
 La [L. 4 aprile 2025, n. 42](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2025-04-04;42), ha disposto (con l'art. 14, comma 2) che "Allo scopo di rafforzare i servizi di soccorso pubblico e di prevenzione degli incendi per far fronte alle emergenze connesse agli eventi giubilari del 2025, in deroga a quanto previsto dall'articolo 6, comma 3, ultimo periodo, e dall'[articolo 144, comma 7, del decreto legislativo 13 ottobre 2005, n. 217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-10-13;217~art144-com7), a decorrere dalla data di entrata in vigore della presente legge e fino al 31 dicembre 2025, i trasferimenti del personale del ruolo dei vigili del fuoco e del ruolo dei direttivi che espletano funzioni operative possono essere disposti, a domanda, con provvedimento del Capo del Dipartimento dei vigili del fuoco, del soccorso pubblico e della difesa civile, anche se il dipendente non abbia maturato il requisito minimo di permanenza in sede".
+
+---------------
+
+AGGIORNAMENTO (41)
+
+La [L. 4 aprile 2025, n. 42](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2025-04-04;42), come modificata dal [D.L. 24 febbraio 2026, n. 23](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2026-02-24;23), convertito con modificazioni dalla [L. 24 aprile 2026, n. 54](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2026-04-24;54), ha disposto (con l'art. 14, comma 2) che "Allo scopo di rafforzare i servizi di soccorso pubblico e di prevenzione degli incendi per far fronte alle emergenze connesse agli eventi giubilari del 2025, in deroga a quanto previsto dall'articolo 6, comma 3, ultimo periodo, e dall'[articolo 144, comma 7, del decreto legislativo 13 ottobre 2005, n. 217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-10-13;217~art144-com7), a decorrere dalla data di entrata in vigore della presente legge e fino al 31 ottobre 2026, i trasferimenti del personale del ruolo dei vigili del fuoco e del ruolo dei direttivi che espletano funzioni operative possono essere disposti, a domanda, con provvedimento del Capo del Dipartimento dei vigili del fuoco, del soccorso pubblico e della difesa civile, anche se il dipendente non abbia maturato il requisito minimo di permanenza in sede".
 
 ### Art. 145
 

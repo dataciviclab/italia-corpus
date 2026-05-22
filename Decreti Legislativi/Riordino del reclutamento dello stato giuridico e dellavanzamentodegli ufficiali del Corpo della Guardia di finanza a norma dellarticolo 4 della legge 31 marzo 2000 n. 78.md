@@ -527,15 +527,17 @@ CAPO V SEZIONE III VALUTAZIONE PER L'AVANZAMENTO
 
 2. Non puo' essere valutato per l'avanzamento l'ufficiale che ricopra la carica di Ministro o di Sottosegretario di Stato.
 
-3. Non puo' essere inserito nell'aliquota di avanzamento l'ufficiale rinviato a giudizio o ammesso ai riti alternativi per delitto non colposo, o sottoposto a procedimento disciplinare da cui possa derivare una sanzione di stato, o sospeso dall'impiego o dalle funzioni del grado, o in aspettativa per qualsiasi motivo per una durata non interiore e sessanta giorni.
+3. 
+
+((Non puo' essere inserito nell'aliquota di avanzamento l'ufficiale:   
+a) nei cui confronti sia stata emessa, per delitto non colposo, sentenza di condanna in primo grado ovvero sentenza di applicazione della pena su richiesta o decreto penale di condanna esecutivo, anche qualora la pena sia condizionalmente sospesa;   
+b) sottoposto a procedimento disciplinare da cui possa derivare una sanzione di stato;   
+c) sospeso dall'impiego o dalle funzioni del grado;   
+d) in aspettativa per qualsiasi motivo per una durata non inferiore a sessanta giorni))
 
 4. L'ufficiale condannato con sentenza definitiva ad una pena non inferiore a due anni per delitto non colposo compiuto mediante comportamenti contrari ai doveri di fedelta' alle istituzioni ovvero lesivi del prestigio dell'Amministrazione o dell'onere militare e' escluso da ogni procedura di avanzamento.
 
-5. 
-
-((La valutazione dell'ufficiale che, inserito nell'aliquota di valutazione, si trovi in una delle condizioni di cui al comma 3 e' sospesa.))
-
-Quando eccezionalmente le autorita' competenti ritengano di non poter addivenire alla pronuncia del giudizio sull'avanzamento, sospendono il giudizio indicandone i motivi. All'ufficiale e' data comunicazione della sospensione della valutazione e dei motivi che l'hanno determinata.
+5. La valutazione dell'ufficiale che, inserito nell'aliquota di valutazione, si trovi in una delle condizioni di cui al comma 3 e' sospesa. Quando eccezionalmente le autorita' competenti ritengano di non poter addivenire alla pronuncia del giudizio sull'avanzamento, sospendono il giudizio indicandone i motivi. All'ufficiale e' data comunicazione della sospensione della valutazione e dei motivi che l'hanno determinata.
 
 ### Art. 19
 

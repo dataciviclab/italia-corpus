@@ -1839,19 +1839,33 @@ commissione per la progressione in carriera, ai fini della proposta al consiglio
 
 Collocamento in disponibilita'
 
-1. I dirigenti della Polizia di Stato possono essere collocati in posizione di disponibilita', entro il limite non eccedente il cinque per cento della dotazione organica e per particolari esigenze di servizio, anche per lo svolgimento di incarichi particolari o a tempo determinato.
+1. I dirigenti della Polizia di Stato possono essere collocati in posizione di disponibilita', entro il limite non eccedente il
 
-2. I dirigenti generali di pubblica sicurezza
+((3,5 per cento della dotazione organica complessiva delle qualifiche dirigenziali della carriera di appartenenza))
 
-((...))
+e per particolari esigenze di servizio, anche per lo svolgimento di incarichi particolari o a tempo determinato.
 
-e gli altri dirigenti generali dei ruoli della Polizia di Stato sono collocati in posizione di disponibilita', previa deliberazione del Consiglio dei Ministri, su proposta del Ministro dell'interno, sentito il capo della polizia - direttore generale della pubblica sicurezza.
+2. I dirigenti generali di pubblica sicurezza e gli altri dirigenti generali dei ruoli della Polizia di Stato sono collocati in posizione di disponibilita', previa deliberazione del Consiglio dei Ministri, su proposta del Ministro dell'interno, sentito il capo della polizia - direttore generale della pubblica sicurezza.
 
 3. I dirigenti superiori e i primi dirigenti sono collocati in posizione di disponibilita' con decreto del Ministro dell'interno su proposta del capo della polizia - direttore generale della pubblica sicurezza.
 
-4. I dirigenti possono permanere nella posizione di disponibilita' per un periodo non superiore al triennio. Con provvedimento motivato puo' esserne disposta la proroga per un periodo non superiore a un anno.
+4. I dirigenti possono permanere nella posizione di disponibilita' per un periodo
+
+((non superiore al quadriennio))
+
+. Con provvedimento motivato puo' esserne disposta la proroga per un periodo non superiore a un anno.
 
 5. I dirigenti collocati in posizione di disponibilita' non occupano posto nella qualifica del ruolo cui appartengono. Nella qualifica iniziale dei rispettivi ruoli direttivi e' reso indisponibile un posto per ciascun dirigente collocato in disponibilita'.
+
+5-bis. 
+
+((Il dirigente collocato in disponibilita' che consegue la promozione o la nomina alla qualifica superiore rientra in organico andando a occupare, secondo l'ordine della graduatoria dei promossi o dei nominati, un posto di ruolo.))
+
+5-ter. 
+
+((Se in corrispondenza della qualifica conseguita con la promozione o con la nomina permane la possibilita' di collocamento in disponibilita', il decreto di promozione o di nomina puo' disporre il collocamento in disponibilita', anche nella nuova qualifica))
+
+.
 
 ### Art. 65
 

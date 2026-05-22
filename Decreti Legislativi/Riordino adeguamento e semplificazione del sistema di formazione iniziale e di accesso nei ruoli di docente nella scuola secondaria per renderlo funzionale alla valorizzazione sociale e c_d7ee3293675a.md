@@ -442,15 +442,17 @@ Se dipendente statale o docente universitario, per l'intera durata dell'incarico
 
 ### Art. 16-ter
 
-((Formazione in servizio continua e incentivata e valutazione degli insegnanti))
+Formazione in servizio continua e incentivata e valutazione degli insegnanti
 
 1. Nell'ambito dell'attuazione del Piano nazionale di ripresa e resilienza, con riferimento alle metodologie didattiche innovative e alle competenze linguistiche e digitali, e con l'obiettivo di consolidare e rafforzare l'autonomia delle istituzioni scolastiche, a decorrere dall'anno scolastico 2023/2024, fermo restando quanto previsto dall'[articolo 1, comma 124, della legge 13 luglio 2015, n. 107](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2015-07-13;107~art1-com124), e dall'[articolo 40 del decreto legislativo 30 marzo 2001, n. 165](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2001-03-30;165~art40), in ordine alla formazione obbligatoria che ricomprende le competenze digitali e l'uso critico e responsabile degli strumenti digitali, anche con riferimento al benessere psicofisico degli allievi con disabilita' e ai bisogni educativi speciali, nonche' le pratiche di laboratorio e l'inclusione, e' introdotto un sistema di formazione e aggiornamento permanente delle figure di sistema di cui al comma 3 e dei docenti di ruolo, articolato in percorsi di durata almeno triennale. Per rafforzare tanto le conoscenze quanto le competenze applicative, sono parte integrante di detti percorsi di formazione anche attivita' di progettazione, tutoraggio, accompagnamento e guida allo sviluppo delle potenzialita' degli studenti, volte a favorire il raggiungimento di obiettivi scolastici specifici e attivita' di sperimentazione di nuove modalita' didattiche. Le modalita' di partecipazione alle attivita' formative dei percorsi, la loro durata e le eventuali ore aggiuntive sono definite dalla contrattazione collettiva. La partecipazione alle attivita' formative dei percorsi si svolge al di fuori dell'orario di insegnamento ed e' retribuita anche a valere sul fondo per il miglioramento dell'offerta formativa, fermo restando quanto disposto dall'articolo 1, comma 3, del presente decreto.
 
 2. Gli obiettivi formativi dei percorsi di cui al comma 1 sono definiti dalla Scuola, che ne coordina in raccordo con il Ministero dell'istruzione e del merito, la struttura con il supporto dell'INVALSI e dell'INDIRE nello svolgimento in particolare delle seguenti funzioni:
 
-a)
+a) definizione di orientamenti per l'accreditamento delle istituzioni deputate ad erogare la formazione di cui al presente articolo, ai fini dell'adozione della direttiva del Ministro dell'istruzione e del merito di cui al comma 8
 
-((definizione di orientamenti per l'accreditamento delle istituzioni deputate ad erogare la formazione di cui al presente articolo, ai fini dell'adozione della direttiva del Ministro dell'istruzione e del merito di cui al comma 8 e verifica dei requisiti indicati dalla direttiva;))
+((,))
+
+e verifica dei requisiti indicati dalla direttiva;
 
 b) adozione delle linee di indirizzo sui contenuti della formazione del personale scolastico in linea con gli standard europei;
 
@@ -485,19 +487,13 @@ c) dopo il comma 335 e' inserito il seguente:
 
 7. Non necessitano di accreditamento per l'erogazione della formazione continua di cui al comma 2, lettera a), la Scuola nazionale dell'amministrazione, tutte le universita', le istituzioni AFAM, le istituzioni scolastiche, gli enti pubblici di ricerca, le istituzioni museali pubbliche e gli enti culturali rappresentanti i Paesi le cui lingue sono incluse nei curricoli scolastici italiani.
 
-8. Possono chiedere l'accreditamento di cui al comma 2, lettera a), i soggetti in possesso dei requisiti di moralita', idoneita' professionale, capacita' economico-finanziaria e tecnico-professionale determinati con apposita direttiva del Ministro dell'istruzione.
-
-((Sono))
-
-requisiti minimi di accreditamento, ai quali deve attenersi la direttiva di cui al primo periodo, la previsione espressa della formazione dei docenti tra gli scopi statutari dell'ente,
+8. Possono chiedere l'accreditamento di cui al comma 2, lettera a), i soggetti in possesso dei requisiti di moralita', idoneita' professionale, capacita' economico-finanziaria e tecnico-professionale determinati con apposita direttiva del Ministro dell'istruzione. Sono requisiti minimi di accreditamento, ai quali deve attenersi la direttiva di cui al primo periodo, la previsione espressa della formazione dei docenti tra gli scopi statutari dell'ente
 
 ((...))
 
 , la stabile disponibilita' di risorse professionali con esperienza universitaria pregressa nel settore della formazione dei docenti e di risorse strumentali idonee allo svolgimento dei corsi di formazione. I costi della formazione sono allineati agli standard utilizzati per analoghi interventi formativi finanziati con risorse del Programma operativo nazionale.
 
-8-bis. 
-
-((L'accreditamento degli enti di formazione e la qualificazione delle associazioni professionali e disciplinari ai fini della formazione continua in servizio del personale scolastico e' disposto con la direttiva di cui al comma 8.))
+8-bis. L'accreditamento degli enti di formazione e la qualificazione delle associazioni professionali e disciplinari ai fini della formazione continua in servizio del personale scolastico e' disposto con la direttiva di cui al comma 8.
 
 9. Con decreto del Ministro dell'istruzione e del merito, da adottare di concerto con il Ministro dell'economia e delle finanze e sentite le organizzazioni sindacali di categoria maggiormente rappresentative, sono delineati i contenuti della formazione continua di cui al comma 1, prevedendo per le verifiche intermedie e finale di cui al comma 4 criteri specifici di valutazione degli obiettivi conseguiti e della capacita' didattica. La definizione del numero di ore aggiuntivo e dei criteri del sistema di incentivazione e' rimessa alla contrattazione collettiva. In sede di prima applicazione, nelle more dell'adozione del decreto e dell'aggiornamento contrattuale di cui, rispettivamente, al primo e al secondo periodo, la formazione continua e il sistema di incentivazione volto a promuovere l'accesso ai detti percorsi di formazione presentano i contenuti minimi e seguono i vincoli di cui all'allegato B, annesso al presente decreto.
 

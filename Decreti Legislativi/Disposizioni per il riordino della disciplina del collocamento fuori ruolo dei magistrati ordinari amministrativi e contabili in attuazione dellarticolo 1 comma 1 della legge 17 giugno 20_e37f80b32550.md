@@ -131,7 +131,15 @@ Requisiti per il collocamento fuori ruolo
 
 1. 
 
-((Il collocamento del magistrato fuori ruolo puo' essere autorizzato solo se ricorrono entrambe le seguenti condizioni: a) sono decorsi sei anni di effettivo esercizio delle funzioni proprie della magistratura;b) sono decorsi tre anni dal rientro in ruolo a seguito di un incarico svolto fuori ruolo per un periodo superiore a cinque anni.))
+((Il collocamento del magistrato fuori ruolo puo' essere autorizzato solo se ricorrono entrambe le seguenti condizioni:))
+
+a)
+
+((sono decorsi sei anni di effettivo esercizio delle funzioni proprie della magistratura;))
+
+b)
+
+((sono decorsi tre anni dal rientro in ruolo a seguito di un incarico svolto fuori ruolo per un periodo superiore a cinque anni.))
 
 2. Ai fini di quanto indicato alla lettera a) del comma 1, il magistrato deve avere esercitato le funzioni per
 
@@ -325,42 +333,42 @@ Disposizioni transitorie
 
 2. Ai magistrati fuori ruolo al momento della data di entrata in vigore del presente decreto si applica la disciplina vigente al momento del conferimento o dell'autorizzazione dell'incarico. I limiti temporali di permanenza nell'incarico previsti dalle disposizioni vigenti non operano per tutti gli incarichi indicati nell'articolo 11, comma 3.
 
-3. Ai magistrati collocati fuori ruolo successivamente alla data di entrata in vigore del presente decreto, che abbiano anteriormente ricoperto incarichi con collocamento fuori ruolo, si applica la disciplina relativa ai limiti temporali prevista dal presente decreto
+3. Ai magistrati collocati fuori ruolo successivamente alla data di entrata in vigore del presente decreto, che abbiano anteriormente ricoperto incarichi con collocamento fuori ruolo, si applica la disciplina relativa ai limiti temporali prevista dal presente decreto , salvo il caso in cui il collocamento fuori ruolo sia stato effettuato senza soluzione di continuita' rispetto al precedente incarico. La durata del precedente incarico e' computata nel termine complessivo.
 
-((, salvo il caso in cui il collocamento fuori ruolo sia stato effettuato senza soluzione di continuita' rispetto al precedente incarico))
+3-bis. In deroga a quanto previsto dai commi 1, 2 e 3, la durata del precedente incarico non e' mai computata nel termine complessivo per gli incarichi conferiti o autorizzati e per quelli da conferire o autorizzare presso la Presidenza della Repubblica, la Corte costituzionale, il Parlamento, la Presidenza del Consiglio dei ministri e gli organi di governo autonomo, nonche' presso il Ministero della giustizia limitatamente agli incarichi di capo e vice capo degli uffici di diretta collaborazione e agli incarichi di capo e vice capo di dipartimento.
 
-. La durata del precedente incarico e' computata nel termine complessivo
+3-ter. Le disposizioni di cui al comma 3-bis si applicano anche agli incarichi di capo e vice capo degli uffici di diretta collaborazione e agli incarichi di capo e vice capo di dipartimento gia' conferiti o da conferire fino al 31 dicembre 2029 presso i Ministeri titolari di interventi previsti nel PNRR, ovvero nel Piano nazionale per gli investimenti complementari al PNRR di cui all'[articolo 1 del decreto-legge 6 maggio 2021, n. 59](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2021-05-06;59~art1), convertito, con modificazioni, dalla [legge 1° luglio 2021, n. 101](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2021-07-01;101).
 
-((...))
+4. Le disposizioni di cui all'articolo 13 e all'articolo 17, comma 2, non si applicano sino al 31 dicembre 2029. Nelle more dell'applicabilita' delle disposizioni di cui agli articoli 13 e 17, comma 2
+
+((,))
+
+e al fine di garantire il rispetto della dotazione organica complessiva, il limite dei magistrati ordinari destinati a funzioni non giudiziarie, indicati alla lettera M) della Tabella B allegata alla [legge 5 marzo 1991, n. 71](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-03-05;71)
+
+((,))
+
+e' rideterminato nel numero di 200 fino al 31 dicembre 2029 e il limite dei magistrati indicati alla lettera L) della medesima tabella e' rideterminato nel numero di 9.981 fino al 30 giugno 2026 e nel numero di 10.039 fino al
+
+((31 dicembre 2029))
 
 .
-
-3-bis. 
-
-((In deroga a quanto previsto dai commi 1, 2 e 3, la durata del precedente incarico non e' mai computata nel termine complessivo per gli incarichi conferiti o autorizzati e per quelli da conferire o autorizzare presso la Presidenza della Repubblica, la Corte costituzionale, il Parlamento, la Presidenza del Consiglio dei ministri e gli organi di governo autonomo, nonche' presso il Ministero della giustizia limitatamente agli incarichi di capo e vice capo degli uffici di diretta collaborazione e agli incarichi di capo e vice capo di dipartimento.))
-
-3-ter. 
-
-((Le disposizioni di cui al comma 3-bis si applicano anche agli incarichi di capo e vice capo degli uffici di diretta collaborazione e agli incarichi di capo e vice capo di dipartimento gia' conferiti o da conferire fino al 31 dicembre 2029 presso i Ministeri titolari di interventi previsti nel PNRR, ovvero nel Piano nazionale per gli investimenti complementari al PNRR di cui all'[articolo 1 del decreto-legge 6 maggio 2021, n. 59](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2021-05-06;59~art1), convertito, con modificazioni, dalla [legge 1° luglio 2021, n. 101](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2021-07-01;101).))
-
-4. 
-
-((Le disposizioni di cui all'articolo 13 e all'articolo 17, comma 2, non si applicano sino al 31 dicembre 2029. Nelle more dell'applicabilita' delle disposizioni di cui agli articoli 13 e 17, comma 2 e al fine di garantire il rispetto della dotazione organica complessiva, il limite dei magistrati ordinari destinati a funzioni non giudiziarie, indicati alla lettera M) della Tabella B allegata alla [legge 5 marzo 1991, n. 71](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-03-05;71) e' rideterminato nel numero di 200 fino al 31 dicembre 2029 e il limite dei magistrati indicati alla lettera L) della medesima tabella e' rideterminato nel numero di 9.981 fino al 30 giugno 2026 e nel numero di 10.039 fino al 31 dicembre 2029.))
 
 Art. 16
 -------
 
 Limiti di applicazione della legge 6 novembre 2012, n. 190
 
-1. Salvo quanto previsto
+1. Salvo quanto previsto dall'articolo 15, commi 2 e 3, dalla data di entrata in vigore del presente decreto le disposizioni di cui all'articolo 1, comma 68, primo periodo, e [commi da 69](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2012-11-06;190~com69) [a 72, della legge 6 novembre 2012, n. 190](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2012-11-06;190~com72), non si applicano ai magistrati ordinari, amministrativi e contabili.
 
-((dall'articolo 15, commi 2 e 3))
+1-bis. All'articolo 1, comma 68
 
-, dalla data di entrata in vigore del presente decreto le disposizioni di cui all'articolo 1, comma 68, primo periodo, e [commi da 69](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2012-11-06;190~com69) [a 72, della legge 6 novembre 2012, n. 190](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2012-11-06;190~com72), non si applicano ai magistrati ordinari, amministrativi e contabili.
+((,))
 
-1-bis. 
+della [legge 6 novembre 2012, n. 190](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2012-11-06;190), dopo il primo periodo sono inseriti i seguenti: «Ai fini dell'applicazione del primo periodo, non e' mai computata nel termine complessivo la durata degli incarichi conferiti o autorizzati e di quelli da conferire o autorizzare presso la Presidenza della Repubblica, la Corte costituzionale, il Parlamento, la Presidenza del Consiglio dei ministri e gli organi di governo autonomo. Le disposizioni del secondo periodo si applicano anche agli incarichi di capo e vice capo degli uffici di diretta collaborazione e agli incarichi di capo e vice capo di dipartimento gia' conferiti o da conferire fino al 31 dicembre 2029 presso i Ministeri titolari di interventi previsti nel PNRR, ovvero nel Piano nazionale per gli investimenti complementari al PNRR di cui all'[articolo 1 del decreto-legge 6 maggio 2021, n. 59](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2021-05-06;59~art1), convertito, con modificazioni, dalla legge 1° luglio 2021,
 
-((All'[articolo 1, comma 68 della legge 6 novembre 2012, n. 190](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2012-11-06;190~art1-com68), dopo il primo periodo sono inseriti i seguenti: «Ai fini dell'applicazione del primo periodo, non e' mai computata nel termine complessivo la durata degli incarichi conferiti o autorizzati e di quelli da conferire o autorizzare presso la Presidenza della Repubblica, la Corte costituzionale, il Parlamento, la Presidenza del Consiglio dei ministri e gli organi di governo autonomo. Le disposizioni del secondo periodo si applicano anche agli incarichi di capo e vice capo degli uffici di diretta collaborazione e agli incarichi di capo e vice capo di dipartimento gia' conferiti o da conferire fino al 31 dicembre 2029 presso i Ministeri titolari di interventi previsti nel PNRR, ovvero nel Piano nazionale per gli investimenti complementari al PNRR di cui all'[articolo 1 del decreto-legge 6 maggio 2021, n. 59](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2021-05-06;59~art1), convertito, con modificazioni, dalla [legge 1° luglio 2021, n. 101](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2021-07-01;101).))
+((n. 101))
+
+.
 
 Art. 17
 -------
@@ -371,7 +379,9 @@ Abrogazioni e disposizioni di coordinamento
 
 1-bis. 
 
-((All'[articolo 21 della legge 27 aprile 1982, n. 186](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1982-04-27;186~art21), quinto comma, il secondo periodo e' soppresso.))
+((All'[articolo 21, quinto comma, della legge 27 aprile 1982, n. 186](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1982-04-27;186~art21-com5)))
+
+, il secondo periodo e' soppresso.
 
 2. La tabella B allegata alla [legge 5 marzo 1991, n. 71](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-03-05;71), e' sostituita dalla tabella allegata al presente decreto.
 

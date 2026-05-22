@@ -28,12 +28,10 @@ Acquisiti i pareri delle competenti commissioni permanenti della Camera dei depu
 
 Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 16 maggio 1997;
 
-Sulla proposta del Presidente del Consiglio dei Ministri e dei Ministri del lavoro e della previdenza sociale, e per la funzione pubblica e gli affari regionali, di concerto con i Ministri degli affari esteri, di grazia e giustizia e del tesoro;
-
-Emana
+Sulla
 -----
 
-il seguente decreto legislativo:
+proposta del Presidente del Consiglio dei Ministri e dei Ministri del lavoro e della previdenza sociale, e per la funzione pubblica e gli affari regionali, di concerto con i Ministri degli affari esteri, di grazia e giustizia e del tesoro; Emana il seguente decreto legislativo:
 
 Art. 1
 ------
