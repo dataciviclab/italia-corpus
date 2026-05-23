@@ -4073,15 +4073,15 @@ Obblighi dei rivenditori.
 
 Autorizzazione generale
 
-1. Per conseguire un'autorizzazione generale all'espletamento delle attivita' di cui all'articolo 104, comma 1, lettera a), il soggetto interessato e' tenuto a presentare al Ministero una dichiarazione, conforme al modello riportato nell'
+1. Per conseguire un'autorizzazione generale all'espletamento delle attivita' di cui all'articolo 104, comma 1, lettera a), il soggetto interessato e' tenuto a presentare al Ministero una dichiarazione,
 
-((allegato n. 13-bis))
+((conforme al modello approvato con decreto del Ministero delle imprese e del made in Italy))
 
 , contenente informazioni riguardanti il richiedente ed una dichiarazione di impegno ad osservare specifici obblighi, quali il pagamento dei contributi di cui all'allegato n. 25, nonche' il rispetto delle norme di sicurezza, di protezione ambientale, di salute della popolazione ed urbanistiche.
 
-2. Alla dichiarazione di cui all'
+2. Alla dichiarazione di cui
 
-((allegato n. 13-bis))
+((al comma 1))
 
 deve essere acclusa la domanda di concessione dei diritti d'uso di frequenza, corredata dalla documentazione seguente:
 
@@ -4951,21 +4951,21 @@ d) richiesta della societa' di gestione, di cui all'articolo 183, comma 2, in ca
 
 3. Le ispezioni ordinarie sono effettuate da un funzionario del Ministero, sia per il servizio di sicurezza che di corrispondenza pubblica.
 
+((Le predette ispezioni sono effettuate dagli organismi riconosciuti ai sensi dell'[articolo 5, comma 1, del decreto legislativo 14 giugno 2011, n. 104](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2011-06-14;104~art5-com1), se hanno a oggetto le navi che si trovano all'estero e concernono l'applicazione delle regole 7 e 9 del capitolo I dell'allegato alla Convenzione internazionale del 1974 per la salvaguardia della vita umana in mare, di cui alla [legge 23 maggio 1980, n. 313](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1980-05-23;313), come modificato dagli emendamenti del 1988, [pubblicati nel supplemento ordinario alla Gazzetta Ufficiale n. 62 del 14 marzo 1992](http://www.gazzettaufficiale.it/gazzetta/serie_generale/caricaDettaglio?dataPubblicazioneGazzetta=1992-03-14&numeroGazzetta=62)))
+
+.
+
 4. I collaudi e le ispezioni ordinarie dovranno essere richiesti all'autorita' marittima portuale dalla societa' che gestisce il servizio radioelettrico a norma dell'articolo 183, comma 2, o dall'armatore, dal proprietario o da chi li rappresenta nei casi di cui all'articolo 183, comma 3.
 
-5. Il
-
-((Ministro delle imprese e del made in Italy))
-
-ha facolta', con proprio decreto motivato, di esonerare dall'obbligo del collaudo e della ispezione ordinaria categorie di navi per le quali non sia fatto obbligo della installazione radioelettrica da norme internazionali.
+5. Il Ministro delle imprese e del made in Italy ha facolta', con proprio decreto motivato, di esonerare dall'obbligo del collaudo e della ispezione ordinaria categorie di navi per le quali non sia fatto obbligo della installazione radioelettrica da norme internazionali.
 
 6. Durante le ispezioni ordinarie e straordinarie potranno essere effettuati tutti gli accertamenti e le indagini ritenuti necessari, anche in merito all'andamento del servizio ed al possesso del titolo di qualificazione da parte del personale addetto.
 
-7. Il
+7. 
 
-((Ministro delle imprese e del made in Italy))
+((Il Ministro delle imprese e del made in Italy, d'intesa con il Ministro delle infrastrutture e dei trasporti, affida i compiti d'ispezione e controllo di cui al comma 3 del presente articolo agli organismi riconosciuti che ne facciano domanda ai sensi del [decreto legislativo 14 giugno 2011, n. 104](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2011-06-14;104)))
 
-, d'intesa con i Ministri delle infrastrutture e dei trasporti e dell'ambiente, puo' affidare i compiti d'ispezione e controllo agli organismi riconosciuti che ne facciano domanda ai sensi del [decreto legislativo 3 agosto 1998, n. 314](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1998-08-03;314), con eccezione delle navi da carico.
+.
 
 ### Art. 177
 

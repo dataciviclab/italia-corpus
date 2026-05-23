@@ -137,24 +137,34 @@ c-bis) e' utilizzata per assistenza all'ormeggio delle unita' di cui all'articol
 
 c-ter) e' utilizzata per l'attivita' di assistenza e di traino delle unita' di cui all'articolo 3.
 
-((
-
 c-quater) e' utilizzata, nel rispetto della normativa europea, nazionale e regionale di settore, per l'esercizio di attivita' in forma itinerante di somministrazione di cibo e di bevande e di commercio al dettaglio.
-
-))
 
 2. L'utilizzazione a fini commerciali delle imbarcazioni e navi da diporto e' annotata nell'Archivio telematico centrale delle unita' da diporto (ATCN), con l'indicazione delle attivita' svolte e dei proprietari o armatori delle unita', imprese individuali o societa', esercenti le suddette attivita' commerciali e degli estremi della loro iscrizione, nel registro delle imprese della competente camera di commercio, industria, artigianato ed agricoltura. Gli estremi dell'annotazione sono riportati sulla licenza di navigazione.
 
 2-bis. Nel caso di natanti l'utilizzazione a fini commerciali e' annotata secondo le modalita' indicate nel regolamento di attuazione del presente codice.
 
-3. Qualora le attivita' di cui al comma 1 siano svolte stabilmente in Italia con unita' da diporto battenti bandiera di uno dei Paesi dell'Unione europea o
+2-ter. 
 
-((di un Paese terzo))
+((Quando la locazione di imbarcazioni e navi da diporto e' concessa da un soggetto privato a favore di imprese di locazione e noleggio, l'annotazione di cui al comma 2 e' effettuata esclusivamente dall'impresa di locazione e noleggio. In tal caso e' ammesso l'uso commerciale dell'unita' per determinati periodi dell'anno da specificare nell'annotazione di cui al comma 2))
 
-, l'esercente presenta allo Sportello telematico del diportista (STED) una dichiarazione contenente le caratteristiche dell'unita', il titolo che attribuisce la disponibilita' della stessa, nonche' gli estremi della polizza assicurativa a garanzia delle persone imbarcate e di responsabilita' civile verso terzi e della certificazione di sicurezza in possesso.  
+.
+
+3. Qualora le attivita' di cui al comma 1 siano svolte stabilmente in Italia con unita' da diporto battenti bandiera di uno dei Paesi dell'Unione europea o di un Paese terzo,
+
+((fermo restando il rispetto delle vigenti normative doganali e fiscali nazionali ed europee,))
+
+l'esercente presenta allo Sportello telematico del diportista (STED)
+
+((una dichiarazione sostitutiva di atto di notorieta' ai sensi dell'[articolo 47 del testo unico delle disposizioni legislative e regolamentari in materia di documentazione amministrativa](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2000-12-28;445~art47), di cui al [decreto del Presidente della Repubblica 28 dicembre 2000, n. 445](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2000-12-28;445), contenente le caratteristiche dell'unita', il titolo che attribuisce la disponibilita' della stessa, gli estremi e la data di scadenza della polizza assicurativa a garanzia delle persone imbarcate e di responsabilita' civile verso terzi e della certificazione di sicurezza in possesso, nonche' l'indicazione delle dotazioni di sicurezza imbarcate in base alle norme dello stato di bandiera))
+
+.  
 Copia della dichiarazione, validata dall'Ufficio di conservatoria centrale delle unita' da diporto (UCON) per il tramite dello Sportello telematico del diportista (STED), deve essere mantenuta a bordo.
 
-4. Le unita' da diporto di cui al comma 1, lettera a), possono essere utilizzate esclusivamente per le attivita' a cui sono adibite.
+4. 
+
+((Le imbarcazioni e le navi da diporto adibite ad un uso commerciale possono essere utilizzate, previa domanda di annotazione ai sensi del comma 2, anche per altri usi commerciali tra quelli indicati al comma 1. Le unita' da diporto di cui al comma 1, lettera a), non possono essere utilizzate per attivita' non commerciale))
+
+.
 
 ### Art. 2-bis
 
@@ -367,9 +377,9 @@ Disposizioni per la pubblicita' degli atti relativi alle unita' da diporto
 
 1. Per gli effetti previsti dal [codice civile](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262), gli atti costitutivi, traslativi o estintivi della proprieta' o di altri diritti reali su unita' da diporto soggette ad iscrizione ai sensi del presente decreto legislativo sono resi pubblici, su richiesta avanzata dall'interessato, entro sessanta giorni o, se l'interessato e' residente all'estero, entro centoventi giorni dalla data dell'atto, mediante trascrizione nell'Archivio telematico centrale delle unita' da diporto (ATCN) ed annotazione sulla licenza di navigazione.
 
-2. La ricevuta dell'avvenuta presentazione dei documenti per la pubblicita', rilasciata dallo Sportello telematico del diportista (STED), sostituisce la licenza di navigazione per la durata massima di
+2. 
 
-((sessanta giorni))
+((La ricevuta dell'avvenuta presentazione dei documenti per la pubblicita', rilasciata dallo Sportello telematico del diportista (STED), sostituisce la licenza di navigazione fino all'aggiornamento della medesima. Ove corredata della dichiarazione di costruzione e importazione (DCI) prevista dal regolamento di cui al [decreto del Presidente della Repubblica del 14 dicembre 2018, n. 152](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2018-12-14;152), attestante i dati tecnici dell'unita', conforme al modello stabilito con decreto del Ministro delle infrastrutture e dei trasporti, la ricevuta dell'avvenuta presentazione dei documenti per la pubblicita' sostituisce a tutti gli effetti la licenza di navigazione fino all'aggiornamento della medesima e per un periodo comunque non superiore a novanta giorni. Nelle more della pubblicita' e' consentito il rilascio del ruolo e del ruolino di equipaggio e della licenza per l'apparato ricetrasmittente di bordo))
 
 .
 
@@ -576,15 +586,11 @@ Rinnovo della licenza di navigazione
 
 1. La licenza di navigazione e' rinnovata in caso di modifiche del tipo e delle caratteristiche principali dello scafo, come definite nell'[articolo 3, comma 1, lettera h), del decreto legislativo 11 gennaio 2016, n. 5](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2016-01-11;5~art3-com1-leth) e dell'apparato motore, come definite nell'articolo 3, comma 1, lettera g), del medesimo decreto e del tipo di navigazione autorizzata.
 
-2. La ricevuta dell'avvenuta presentazione dei documenti necessari per il rinnovo rilasciata dallo Sportello telematico del diportista (STED) sostituisce la licenza di navigazione anche ai fini del rilascio del ruolo e del ruolino di equipaggio e della licenza per l'apparato ricetrasmittente di bordo per la durata massima di
+2. 
 
-((sessanta giorni))
+((Lo STED rinnova la licenza di navigazione entro trenta giorni dalla presentazione dei documenti all'UCON. La ricevuta dell'avvenuta presentazione dei documenti necessari per il rinnovo rilasciata dallo STED, corredata della DCI attestante i dati tecnici dell'unita', sostituisce la licenza di navigazione fino al rilascio della medesima. Nelle more del rinnovo e' consentito il rilascio del ruolo e del ruolino di equipaggio e della licenza per l'apparato ricetrasmittente di bordo))
 
-. Lo sportello telematico del diportista (STED) rinnova la licenza di navigazione entro
-
-((sessanta giorni))
-
-dalla presentazione dei documenti.
+.
 
 ### Art. 24-bis
 
@@ -701,6 +707,16 @@ Certificato di sicurezza e certificato di idoneita' al noleggio
 4. I controlli alle unita' da diporto sono svolti anche tramite l'accesso all'anagrafe nazionale delle patenti nautiche di cui all'articolo 39-bis del presente codice, all'Archivio telematico centrale delle unita' da diporto (ATCN) e al Centro elaborazione dati di cui all'[articolo 9, comma 1, della legge 1º aprile 1981, n. 121](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-04-01;121~art9-com1), da parte degli ufficiali e agenti di polizia giudiziaria appartenenti al Corpo delle Capitanerie di porto, nei limiti previsti dall'[articolo 8-bis, comma 1, del decreto legge 23 maggio 2008, n. 92](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008-05-23;92~art8bis-com1), convertito, con modificazioni, dalla [legge 24 luglio 2008, n. 125](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2008-07-24;125).
 
 ))
+
+### Art. 26-ter
+
+(( (Prevenzione dei danni ambientali).))
+
+1. 
+
+((Le unita' da diporto fino a 24 metri di bandiera estera che navigano o stazionano nelle acque interne, nel mare territoriale e nella zona di protezione ecologica italiani, di proprieta' di cittadini italiani o persone giuridiche aventi, rispettivamente, residenza o sede legale in Italia, devono dimostrare l'idoneita' alla navigabilita' dell'unita' mediante le certificazioni previste dalle norme dello stato di bandiera ovvero, qualora dette norme non prevedano certificazioni, sottoporre l'imbarcazione a visita presso un organismo tecnico notificato ai sensi del [decreto legislativo 11 gennaio 2016, n. 5](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2016-01-11;5), che ne rilascia attestazione, onde verificare se lo stato dell'unita' presenta potenziali rischi per l'integrita' dell'ambiente marino e la sicurezza della navigazione. L'attestazione ha durata quinquennale))
+
+.
 
 ### Art. 27
 
@@ -875,55 +891,30 @@ Navigazione temporanea
 
 a) verificare l'efficienza degli scafi o dei motori;
 
-b) presentare
+b) presentare unita' da diporto al pubblico o ai singoli interessati all'acquisto;
 
-((unita'))
+c) trasferire unita' da diporto da un luogo all'altro anche per la partecipazione a fiere, saloni e altri eventi espositivi, anche all'estero.
 
-da diporto al pubblico o ai singoli interessati all'acquisto;
-
-c) trasferire
-
-((unita'))
-
-da diporto da un luogo all'altro anche per la partecipazione a
-
-((fiere, saloni e altri eventi espositivi, anche all'estero.))
-
-.
-
-2. 
-
-((Lo Sportello telematico del diportista (STED) rilascia))
-
-ai cantieri navali, ai costruttori di motori marini
-
-((, ai mediatori del diporto, alle aziende di assemblaggio e di allestimento di unita' da diporto))
-
-e alle aziende di vendita le autorizzazioni alla navigazione temporanea per le unita' da diporto, non abilitate e non munite dei prescritti documenti ovvero abilitate e provviste di documenti di bordo ed a loro affidate in conto vendita o per riparazioni ed assistenza.
+2. Lo Sportello telematico del diportista (STED) rilascia)) ai cantieri navali, ai costruttori di motori marini ((, ai mediatori del diporto, alle aziende di assemblaggio e di allestimento di unita' da diporto e alle aziende di vendita le autorizzazioni alla navigazione temporanea per le unita' da diporto, non abilitate e non munite dei prescritti documenti ovvero abilitate e provviste di documenti di bordo ed a loro affidate in conto vendita o per riparazioni ed assistenza.
 
 3. La navigazione temporanea e' effettuata sotto la responsabilita' del titolare dell'autorizzazione.
 
-4. L'atto di autorizzazione vale come documento di bordo ed abilita alla navigazione nei limiti consentiti dalle caratteristiche di costruzione dell'unita' da diporto.
-
-((L'atto di autorizzazione abilita anche alla navigazione in acque territoriali straniere per il periodo di tempo necessario alla partecipazione a fiere, saloni e altri eventi espositivi.))
-
-((
+4. L'atto di autorizzazione vale come documento di bordo ed abilita alla navigazione nei limiti consentiti dalle caratteristiche di costruzione dell'unita' da diporto. L'atto di autorizzazione abilita anche alla navigazione in acque territoriali straniere per il periodo di tempo necessario alla partecipazione a fiere, saloni e altri eventi espositivi.
 
 4-bis. L'autorizzazione di cui al comma 2 e' rinnovabile ogni due anni con annotazione sull'originale e riporta l'annotazione delle attivita' commerciali di cui al comma 1.
 
-))
+4-ter. ((L'autorizzazione di cui al comma 2, ove corredata della DCI, attestante i dati tecnici dell'unita', abilita l'unita' da diporto alla navigazione in acque internazionali e in acque interne e territoriali di Stati esteri per il periodo di tempo necessario all'effettuazione delle attivita' di cui al comma 1, lettere a) e c).  
+Il documento, conforme al modello stabilito con decreto del Ministro delle infrastrutture e dei trasporti, e' rilasciato previo pagamento di euro 23,70 per diritti e compensi, da versare all'entrata del bilancio dello Stato. Tali somme sono successivamente riassegnate al Ministero delle infrastrutture e dei trasporti per le finalita' e con le modalita' previste dall'articolo 27, comma 2-bis. L'importo delle somme da versare per diritti e compensi ai sensi del secondo periodo e' aggiornato con cadenza almeno biennale con decreto del Ministro delle infrastrutture e dei trasporti, di concerto con il Ministro dell'economia e delle finanze, sulla base dei costi effettivi delle attivita' amministrative di cui al presente comma)).
 
-5. L'unita' da diporto che fruisce di tale autorizzazione deve essere comandata dal titolare o da persona che abbia un contratto di lavoro con il soggetto intestatario dell'autorizzazione medesima abilitati, se richiesto, al comando di quella unita'.
+5. L'unita' da diporto che fruisce di tale autorizzazione deve essere comandata dal titolare o da persona che abbia un contratto di lavoro
 
-6. Le unita' che effettuano la navigazione temporanea debbono essere munite delle dotazioni di sicurezza necessarie per il tipo di navigazione effettuata e per garantire la sicurezza delle persone presenti a bordo, sotto la responsabilita' del soggetto intestatario dell'autorizzazione.
+((o di collaborazione))
 
-((In tali casi, e' richiesto il solo requisito del possesso della patente nautica di cui all'articolo 39 del presente codice, in deroga alle disposizioni recanti l'istituzione e la disciplina dei titoli professionali del diporto.))
+con il soggetto intestatario dell'autorizzazione medesima abilitati, se richiesto, al comando di quella unita'.
 
-((
+6. Le unita' che effettuano la navigazione temporanea debbono essere munite delle dotazioni di sicurezza necessarie per il tipo di navigazione effettuata e per garantire la sicurezza delle persone presenti a bordo, sotto la responsabilita' del soggetto intestatario dell'autorizzazione. In tali casi, e' richiesto il solo requisito del possesso della patente nautica di cui all'articolo 39 del presente codice, in deroga alle disposizioni recanti l'istituzione e la disciplina dei titoli professionali del diporto.
 
 6-bis. In caso di esecuzione di prove a mare per verificare l'efficienza di scafi o motori e qualora si tratti di unita' da diporto di lunghezza superiore a ventiquattro metri, il titolare dell'autorizzazione provvede, con oneri a proprio carico, a garantire la presenza a bordo di una persona in possesso del certificato "First Aid" ovvero di quello "Medical care", a seconda che l'unita' sia rispettivamente in grado di raggiungere o meno una postazione medica entro tre ore di navigazione.
-
-))
 
 ### Art. 32
 
@@ -1111,6 +1102,32 @@ AGGIORNAMENTO (14)
 
 Il [D.L. 30 dicembre 2019, n. 162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2019-12-30;162), convertito con modificazioni dalla [L. 28 febbraio 2020, n. 8](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2020-02-28;8), ha disposto (con l'art. 13, comma 5-quater) che "Il termine per l'applicazione delle disposizioni dell'[articolo 39, comma 1, lettera b), del codice della nautica da diporto](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-07-18;171~art39-com1-letb), di cui al [decreto legislativo 18 luglio 2005, n. 171](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-07-18;171), relative all'obbligo della patente nautica per la conduzione di unita' aventi motore di cilindrata superiore a 750 cc a iniezione a due tempi, fissato al 1° gennaio 2020 dall'[articolo 1, comma 1, della legge 24 luglio 2019, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2019-07-24;73~art1-com1), e' differito al 1° gennaio 2021".
 
+### Art. 39-ter
+
+(( (Conversione di patenti nautiche o di abilitazioni equipollenti estere).))
+
+1. 
+
+((I cittadini italiani, che risultano iscritti nell'Anagrafe degli italiani residenti all'estero (AIRE) e che hanno conseguito un titolo di abilitazione alla navigazione da diporto o un documento riconosciuto equipollente nello Stato estero di precedente residenza, possono chiedere il rilascio senza esami della patente nautica italiana, a seguito di trasferimento della residenza nel territorio della Repubblica ai sensi dell'[articolo 43, secondo comma, del codice civile](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art43-com2).))
+
+2. 
+
+((La domanda di rilascio senza esami della patente nautica italiana, corredata del titolo conseguito all'estero e del giudizio di idoneita' di cui all'articolo 36 del regolamento di cui [decreto del Ministero delle infrastrutture e dei trasporti 29 luglio 2008, n. 146](http://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.infrastrutture.trasporti:decreto:2008-07-29;146), e' presentata all'autorita' marittima competente per circoscrizione territoriale in base alla localita' di residenza del richiedente, ai sensi del regolamento di cui al [decreto del Presidente della Repubblica 18 aprile 2000, n. 135](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2000-04-18;135).))
+
+3. 
+
+((L'autorita' marittima accerta il possesso dei requisiti morali dell'interessato, richiedendo il certificato selettivo del casellario giudiziale di cui all'articolo 28, comma 2, del testo unico delle disposizioni legislative e regolamentari in materia di casellario giudiziale, di casellario giudiziale europeo, di anagrafe delle sanzioni amministrative dipendenti da reato e dei relativi carichi pendenti, di cui al [decreto del Presidente della Repubblica 14 novembre 2002, n. 313](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2002-11-14;313).))
+
+4. 
+
+((La patente nautica italiana riporta i medesimi limiti di abilitazione alla navigazione da diporto adattati alla disciplina nazionale, le medesime limitazioni e prescrizioni mediche presenti sul titolo estero nonche' le eventuali limitazioni e prescrizioni contenute nel giudizio di idoneita' di cui al comma 2, che, se piu' severe, prevalgono su quelle eventualmente presenti sul titolo estero.))
+
+5. 
+
+((Il titolo estero e' restituito in ogni caso al richiedente))
+
+.
+
 CAPO VIII - Capo V Responsabilita' derivante dalla circolazione delle unita' da diporto
 ---------------------------------------------------------------------------------------
 
@@ -1122,15 +1139,15 @@ Responsabilita' civile
 
 2. Ai fini dell'applicazione dell'[articolo 2054, comma 3, del codice civile](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2054-com3) il locatario dell'unita' da diporto e' responsabile in solido con il proprietario e, in caso di locazione finanziaria, l'utilizzatore dell'unita' da diporto e' responsabile in solido con il conducente in vece del proprietario.
 
-Nota all'art. 40.  
-L'[art. 2054 del codice civile](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2054) e' il seguente:  
-«2054. Circolazione di veicoli.  
-Il conducente di un veicolo senza guida di rotaie e' obbligato a risarcire il danno prodotto a persone o a cose dalla circolazione del veicolo, se non prova di aver fatto tutto il possibile per evitare il danno [c.c. 2947].  
-Nel caso di scontro tra veicoli si presume, fino a prova contraria, che ciascuno dei conducenti abbia concorso ugualmente a produrre il danno subito dai singoli veicoli [c.c. 2055].  
-Il proprietario del veicolo o, in sua vece, l'usufruttuario [c.c. 978] o l'acquirente con patto di riservato dominio [c.c. 1523], e' responsabile in solido col conducente, se non prova che la circolazione del veicolo e' avvenuta contro la sua volonta'.  
-In ogni caso le persone indicate dai commi precedenti sono responsabili dei danni derivati da vizi di costruzione o da difetto di manutenzione del veicolo [c.c. 2053].».  
-Il testo del [comma 2, dell'art. 2947 del codice civile](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2947-com2) e' il seguente:  
-«Per il risarcimento del danno prodotto dalla circolazione dei veicoli di ogni specie il diritto si prescrive in due anni [c.c. 2054, 2767, 2952].».
+((In caso di sanzioni amministrative, la responsabilita' del proprietario, o del locatore in caso di locazione finanziaria dell'unita', e' limitata alla comunicazione dei dati del locatario o del conducente all'autorita' competente))
+
+.
+
+2-bis. 
+
+((In caso di locazione finanziaria, la responsabilita' del proprietario e' limitata alla comunicazione all'autorita' competente dei dati del locatario o del conducente))
+
+.
 
 ### Art. 41
 
@@ -1170,11 +1187,36 @@ Locazione e forma del contratto
 
 1. La locazione di unita' da diporto e' il contratto con il quale una delle parti si obbliga verso corrispettivo a cedere il godimento dell'unita' da diporto per un periodo di tempo determinato.
 
-2. Con l'unita' da diporto locata, il conduttore esercita la navigazione e ne assume la responsabilita' ed i rischi.
+2. 
+
+((Con l'unita' da diporto locata ai sensi del comma 1 il conduttore assume la temporanea detenzione della stessa e con essa i rischi derivanti dalla sua condotta))
+
+.
 
 3. Il contratto di locazione delle imbarcazioni e delle navi da diporto e' redatto per iscritto a pena di nullita' ed e' tenuto a bordo in originale o copia conforme.
 
 4. La forma del contratto di sublocazione o di quello di cessione e' regolata dal comma 3.
+
+### Art. 42-bis
+
+(( (Locazione con prescrizione di comandante).))
+
+  
+1.
+
+((Il contratto di locazione puo' prevedere che l'imbarcazione da diporto sia comandata da soggetto munito almeno di titolo professionale di cui all'articolo 36-bis e designato dal locatario in qualita' di comandante.))
+
+  
+2.
+
+((Nel caso previsto dal comma 1, il numero massimo di persone trasportate non deve essere superiore a dodici, escluso il comandante, fatto salvo il numero massimo delle persone trasportabili, indicato nel certificato di omologazione dell'imbarcazione, se inferiore a tredici.))
+
+  
+3.
+
+((Il contratto di locazione di cui al comma 1 puo' essere stipulato solo da un unico locatario persona fisica e, unitamente al contratto tra locatario e comandante, e' conservato tra i documenti di bordo per tutta la durata della locazione))
+
+.   
 
 ### Art. 43
 
@@ -1210,11 +1252,13 @@ CAPO X - Capo II Noleggio
 
 ### Art. 47
 
-(( (Noleggio di unita' da diporto). ))
+(Noleggio di unita' da diporto)
 
-((
+1. Il noleggio di unita' da diporto e' il contratto con cui il noleggiante, in corrispettivo del nolo pattuito, si obbliga a mettere a disposizione dell'altra parte, noleggiatore oppure piu' noleggiatori a cabina, rispettivamente, l'unita' da diporto o parte di essa per un determinato periodo
 
-1. Il noleggio di unita' da diporto e' il contratto con cui il noleggiante, in corrispettivo del nolo pattuito, si obbliga a mettere a disposizione dell'altra parte, noleggiatore oppure piu' noleggiatori a cabina, rispettivamente, l'unita' da diporto o parte di essa per un determinato periodo da trascorrere a scopo ricreativo in zone marine o acque interne di sua scelta, da fermo o in navigazione, alle condizioni stabilite dal contratto. L'unita' noleggiata rimane nella disponibilita' del noleggiante, alle cui dipendenze resta anche l'equipaggio.
+((di tempo o per un itinerario concordato))
+
+da trascorrere a scopo ricreativo in zone marine o acque interne di sua scelta, da fermo o in navigazione, alle condizioni stabilite dal contratto. L'unita' noleggiata rimane nella disponibilita' del noleggiante, alle cui dipendenze resta anche l'equipaggio.
 
 2. Il contratto di noleggio non puo' avere ad oggetto l'attivita' di collegamento di linea ad orari prestabiliti tra due o piu' localita' predefinite.
 
@@ -1222,29 +1266,29 @@ CAPO X - Capo II Noleggio
 
 4. Nel caso di noleggio a cabina, salva diversa volonta' delle parti, sono stipulati piu' contratti di noleggio per quanti sono i noleggiatori di ogni cabina o gruppo di cabine oggetto dei contratti stessi. In ogni caso, nei contratti e' riportata l'indicazione del numero delle persone da imbarcare.
 
-))
-
 ### Art. 48
 
 Obblighi del noleggiante
 
-1. Il noleggiante e' obbligato a mettere a disposizione l'unita' da diporto in perfetta efficienza, armata ed equipaggiata convenientemente, completa di tutte le dotazioni di sicurezza, munita dei prescritti documenti e coperta dall'assicurazione di cui alla [legge 24 dicembre 1969, n. 990](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1969-12-24;990), e successive modificazioni, estesa in favore del noleggiatore
+1. Il noleggiante e' obbligato a mettere a disposizione l'unita' da diporto in perfetta efficienza, armata ed equipaggiata convenientemente, completa di tutte le dotazioni di sicurezza, munita dei prescritti documenti e coperta dall'assicurazione di cui alla [legge 24 dicembre 1969, n. 990](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1969-12-24;990), e successive modificazioni, estesa in favore del noleggiatore o dei noleggiatori a cabina e dei passeggeri per gli infortuni e i danni subiti in occasione o in dipendenza del contratto di noleggio, in conformita' alle disposizioni ed ai massimali previsti per la responsabilita' civile.
 
-((o dei noleggiatori a cabina))
+1-bis. 
 
-e dei passeggeri per gli infortuni e i danni subiti in occasione o in dipendenza del contratto di noleggio, in conformita' alle disposizioni ed ai massimali previsti per la responsabilita' civile.
+((Al fine di tutelare la sicurezza della navigazione, la vita umana in mare e l'ambiente, nel caso di unita' da diporto di cui all'articolo 2, comma 3, il noleggiante, il locatore o l'esercente hanno l'obbligo di integrare le dotazioni di sicurezza qualora quelle prescritte dalla bandiera non soddisfino le prescrizioni minime previste dalla normativa italiana))
+
+.
 
 ### Art. 49
 
 Obblighi del noleggiatore
 
-1. Nel noleggio di unita' da diporto, salvo che sia stato diversamente pattuito, il noleggiatore provvede al combustibile, all'acqua ed ai lubrificanti necessari per il funzionamento dell'apparato motore e degli impianti ausiliari di bordo, per la durata del contratto.
+1. 
 
-((
+((Nel noleggio di unita' da diporto a tempo determinato, salvo che sia stato diversamente pattuito, il noleggiatore non provvede al combustibile, all'acqua ed ai lubrificanti necessari per il funzionamento dell'apparato motore e degli impianti ausiliari di bordo, per la durata del contratto))
+
+.
 
 1-bis. Nel caso di noleggio a cabina, salvo che sia stato diversamente pattuito, i noleggiatori provvedono a quanto previsto nel comma 1 secondo le quote stabilite nel contratto.
-
-))
 
 ### Art. 49-bis
 
@@ -1252,16 +1296,19 @@ Obblighi del noleggiatore
 
 1. Al fine di incentivare la nautica da diporto e il turismo nautico, il proprietario persona fisica o societa' non avente come oggetto sociale il noleggio o la locazione, ovvero l'utilizzatore a titolo di locazione finanziaria, di imbarcazioni e navi da diporto di cui all'articolo 3, comma 1, iscritte nei registri nazionali, puo' effettuare, in forma occasionale, attivita' di noleggio della predetta unita'. Tale forma di noleggio non costituisce uso commerciale dell'unita'.
 
-2. Il comando e la condotta dell'imbarcazione da diporto possono essere assunti dal titolare, dall'utilizzatore a titolo di locazione finanziaria dell'imbarcazione ovvero attraverso l'utilizzazione di altro personale, con il solo requisito del possesso
+1-bis. 
 
-((da almeno tre anni))
+((Le unita' di cui al comma 1 espongono in maniera ben visibile, su ciascuna murata, un contrassegno riportante la scritta "noleggio occasionale" di dimensioni minime di 100 centimetri di lunghezza e 20 centimetri di altezza))
 
-della patente nautica di cui all'articolo 39 del presente codice, in deroga alle disposizioni recanti l'istituzione e la disciplina dei titoli professionali del diporto. Nel caso di navi da diporto, in luogo della patente nautica, il conduttore deve essere munito di titolo professionale del diporto. Qualora sia utilizzato personale diverso, le relative prestazioni di lavoro si intendono comprese tra le prestazioni occasionali di tipo accessorio di cui all'[articolo 70, comma 1, del decreto legislativo 10 settembre 2003, n. 276](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2003-09-10;276~art70-com1), e ad esse si applicano le disposizioni di cui all'articolo 72 del citato [decreto legislativo n. 276 del 2003](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2003;276).
+.
 
-((16))
+2. Il comando e la condotta dell'imbarcazione da diporto possono essere assunti dal titolare, dall'utilizzatore a titolo di locazione finanziaria dell'imbarcazione ovvero attraverso l'utilizzazione di altro personale, con il solo requisito del possesso da almeno tre anni della patente nautica di cui all'articolo 39 del presente codice, in deroga alle disposizioni recanti l'istituzione e la disciplina dei titoli professionali del diporto. Nel caso di navi da diporto, in luogo della patente nautica, il conduttore deve essere munito di titolo professionale del diporto. Qualora sia utilizzato personale diverso, le relative prestazioni di lavoro si intendono comprese tra le prestazioni occasionali di tipo accessorio di cui all'[articolo 70, comma 1, del decreto legislativo 10 settembre 2003, n. 276](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2003-09-10;276~art70-com1), e ad esse si applicano le disposizioni di cui all'articolo 72 del citato [decreto legislativo n. 276 del 2003](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2003;276).(16)
 
-3. Ferme restando le previsioni di cui al presente titolo, l'effettuazione del noleggio e' subordinata esclusivamente alla previa comunicazione, da effettuare mediante modalita' telematiche e comunque finalizzate alla semplificazione degli adempimenti, all'Agenzia delle entrate e alla Capitaneria di porto territorialmente competente, nonche' all'Inps ed all'Inail, nel caso di impiego di personale ai sensi dell'ultimo periodo del comma 2.  
-L'effettuazione del servizio di noleggio in assenza della comunicazione alla Capitaneria di porto comporta l'applicazione della sanzione di cui all'articolo 55, comma 1, del presente codice, mentre la mancata comunicazione all'Inps o all'Inail comporta l'applicazione delle sanzioni di cui all'[articolo 3, comma 3, del decreto-legge 22 febbraio 2002, n. 12](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2002-02-22;12~art3-com3), convertito, con modificazioni, dalla [legge 23 aprile 2002, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2002-04-23;73).
+3. Ferme restando le previsioni di cui al presente titolo, l'effettuazione del noleggio e' subordinata esclusivamente alla previa comunicazione, da effettuare mediante modalita' telematiche e comunque finalizzate alla semplificazione degli adempimenti, all'Agenzia delle entrate e alla Capitaneria di porto
+
+((o del contrassegno previsto al comma 1-bis))
+
+territorialmente competente, nonche' all'Inps ed all'Inail, nel caso di impiego di personale ai sensi dell'ultimo periodo del comma 2. L'effettuazione del servizio di noleggio in assenza della comunicazione alla Capitaneria di porto comporta l'applicazione della sanzione di cui all'articolo 55, comma 1, del presente codice, mentre la mancata comunicazione all'Inps o all'Inail comporta l'applicazione delle sanzioni di cui all'[articolo 3, comma 3, del decreto-legge 22 febbraio 2002, n. 12](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2002-02-22;12~art3-com3), convertito, con modificazioni, dalla [legge 23 aprile 2002, n. 73](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2002-04-23;73).
 
 3-bis. Il contratto di noleggio deve essere tenuto a bordo in originale o copia conforme.
 
@@ -1531,9 +1578,7 @@ CAPO XII - ((Capo IIter)) ((Scuole nautiche e Centri di istruzione per la nautic
 
 ### Art. 49-septies
 
-(( (Scuole nautiche ). ))
-
-((
+(Scuole nautiche )
 
 1. Le scuole per l'educazione marinaresca, la formazione e la preparazione dei candidati agli esami per il conseguimento delle patenti nautiche sono denominate scuole nautiche. L'attivita' di scuola nautica e' esercitata nella forma dell'impresa o del consorzio di imprese.
 
@@ -1587,7 +1632,11 @@ b) sono in possesso di diploma di istruzione secondaria di secondo grado o di ti
 
 c) sono in possesso dei requisiti morali di cui al comma 6, ad eccezione di quelli inerenti il diritto fallimentare, e non hanno riportato condanne per delitti contro la moralita' pubblica e il buon costume;
 
-d) se istruttori pratici, sono in possesso di certificato di idoneita' psichica e fisica rilasciato dai medici della Federazione medico-sportiva italiana o dal personale e dalle strutture pubbliche e private convenzionate ai sensi dell'[articolo 5 del decreto-legge 30 dicembre 1979, n. 663](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1979-12-30;663~art5), convertito, con modificazioni, dalla [legge 29 febbraio 1980, n. 33](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1980-02-29;33), e delle relative disposizioni di attuazione;
+d)
+
+((se istruttori pratici, sono in possesso del certificato di idoneita' sportiva non agonistica rilasciato dal medico di medicina generale))
+
+;
 
 e) se cittadini stranieri, sono in possesso di un livello di competenza nella conoscenza della lingua italiana pari almeno al livello B2 (livello intermedio superiore) del quadro comune europeo di riferimento per la conoscenza delle lingue (QCER). Il requisito della conoscenza della lingua italiana si intende soddisfatto se l'interessato ha conseguito in Italia il diploma di cui alla lettera b), ovvero e' in possesso della certificazione della conoscenza della lingua italiana come lingua straniera rilasciato da un ente certificatore (CLIQ).
 
@@ -1626,19 +1675,23 @@ i) tariffario minimo;
 
 l) disciplina delle modalita' di diffida o sospensione dall'esercizio dell'attivita' di scuola nautica.
 
-))
-
 ### Art. 49-octies
 
-(( (Centri di istruzione per la nautica). ))
+(Centri di istruzione per la nautica)
 
-((
+1. Le associazioni e gli enti nautici di livello nazionale riconosciuti dal Ministero delle infrastrutture e dei trasporti quali centri di istruzione per la nautica possono svolgere senza scopo di lucro attivita' di formazione e di preparazione dei candidati agli esami per il conseguimento delle patenti nautiche
 
-1. Le associazioni e gli enti nautici di livello nazionale riconosciuti dal Ministero delle infrastrutture e dei trasporti quali centri di istruzione per la nautica possono svolgere senza scopo di lucro attivita' di formazione e di preparazione dei candidati agli esami per il conseguimento delle patenti nautiche.
+((soltanto a favore di coloro che, al momento dell'iscrizione al corso di preparazione, sono associati da almeno un anno))
+
+.
 
 2. I centri di istruzione per la nautica sono soggetti alla vigilanza amministrativa e tecnica del Ministero delle infrastrutture e dei trasporti.
 
-3. Le direzioni generali territoriali del Ministero delle infrastrutture e dei trasporti e le Capitanerie di porto, competenti per territorio in relazione al luogo ove sono ubicate, rispettivamente per le acque interne e per le acque marittime nella fascia costiera, effettuano controlli ordinari sull'esercizio dell'attivita' e sulla permanenza dei requisiti da parte delle articolazioni e delle affiliazioni locali dei centri di istruzione per la nautica con cadenza almeno triennale e controlli straordinari a seguito della ricezione di notizie circostanziate circa l'irregolare esercizio dell'attivita'. Qualora, all'esito delle attivita' di controllo, sussistano fondati sospetti in ordine alla prescritta assenza dello scopo di lucro, le predette autorita' interessano la Guardia di Finanza ai sensi dell'[articolo 36, quarto comma, del decreto del Presidente della Repubblica 29 settembre 1973, n. 600](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1973-09-29;600~art36-com4). Gli esiti dei controlli, da qualsiasi autorita' effettuati, sono comunicati al Ministero delle infrastrutture e dei trasporti.
+3. Le direzioni generali territoriali del Ministero delle infrastrutture e dei trasporti e le Capitanerie di porto, competenti per territorio in relazione al luogo ove sono ubicate, rispettivamente per le acque interne e per le acque marittime nella fascia costiera, effettuano controlli ordinari sull'esercizio dell'attivita' e sulla permanenza dei requisiti da parte delle articolazioni e delle affiliazioni locali dei centri di istruzione per la nautica con cadenza almeno triennale e controlli straordinari a seguito della ricezione di notizie circostanziate circa l'irregolare esercizio dell'attivita'. Qualora, all'esito delle attivita' di controllo, sussistano fondati sospetti in ordine alla prescritta assenza dello scopo di lucro,
+
+((anche dimostrata dalla promozione commerciale al di fuori del perimetro associativo dell'attivita' di formazione e di preparazione dei candidati agli esami per il conseguimento delle patenti nautiche,))
+
+le predette autorita' interessano la Guardia di Finanza ai sensi dell'[articolo 36, quarto comma, del decreto del Presidente della Repubblica 29 settembre 1973, n. 600](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1973-09-29;600~art36-com4). Gli esiti dei controlli, da qualsiasi autorita' effettuati, sono comunicati al Ministero delle infrastrutture e dei trasporti.
 
 4. La domanda di riconoscimento quale centro di istruzione per la nautica e' presentata al Ministero delle infrastrutture e dei trasporti dal legale rappresentante dell'ente o dell'associazione nautici di livello nazionale. Il legale rappresentate risponde al predetto Ministero del regolare funzionamento del centro di istruzione per la nautica, nonche' delle sue articolazioni e affiliazioni locali che svolgono tale attivita'.
 
@@ -1690,8 +1743,6 @@ g) modalita' di svolgimento dell'attivita' di formazione e di preparazione dei c
 
 h) disciplina delle modalita' di diffida o sospensione dall'esercizio dell'attivita' di centro di istruzione della nautica di cui al presente decreto.
 
-))
-
 CAPO XIII - ((Capo IIquater)) ((Strutture dedicate alla nautica da diporto))
 ----------------------------------------------------------------------------
 
@@ -1710,32 +1761,24 @@ d) fino a 250 posti barca: dieci;
 e) da 251 a 500 posti barca: quindici;   
 f) da 501 a 750 posti barca: venti;   
 g) oltre 750 posti barca: venticinque.   
-3. Nel periodo dal 15 giugno al 15 settembre di ciascun anno il numero degli accosti riservato al transito destinato
-
-((a natanti e a imbarcazioni))
-
-da diporto, a vela o a motore, condotte da persone con disabilita' o con persone con disabilita' a bordo e' determinato nell'uno per cento dei posti barca disponibili. Negli altri periodi dell'anno il numero dei posti barca e' stabilito come segue:   
+3. Nel periodo dal 15 giugno al 15 settembre di ciascun anno il numero degli accosti riservato al transito destinato a natanti e a imbarcazioni da diporto, a vela o a motore, condotte da persone con disabilita' o con persone con disabilita' a bordo e' determinato nell'uno per cento dei posti barca disponibili. Negli altri periodi dell'anno il numero dei posti barca e' stabilito come segue:   
 a) fino a 80 posti barca: uno;   
 b) fino a 150 posti barca: due;   
 c) fino a 300 posti barca: tre;   
 d) da 300 a 400 posti barca: quattro;   
 e) da 400 a 700 posti barca: sei;   
 f) oltre 700 posti barca: otto.   
-4. Per la finalita' di cui al comma 3 e' scelta di preferenza una area che risulta di comodo accesso e collocata alla minore distanza possibile dai punti di erogazione di acqua e di energia elettrica. Il posto di ormeggio deve essere riconoscibile mediante la sua delimitazione
-
-((a terra))
-
-con strisce gialle dipinte e mediante il simbolo identificativo della destinazione dell'area e deve prevedere
-
-((sistemi idonei allo specifico attracco))
-
-che consentano comodo accesso e uso.   
+4. Per la finalita' di cui al comma 3 e' scelta di preferenza una area che risulta di comodo accesso e collocata alla minore distanza possibile dai punti di erogazione di acqua e di energia elettrica. Il posto di ormeggio deve essere riconoscibile mediante la sua delimitazione a terra con strisce gialle dipinte e mediante il simbolo identificativo della destinazione dell'area e deve prevedere sistemi idonei allo specifico attracco che consentano comodo accesso e uso.   
 5. La persona con disabilita' che conduce l'unita' da diporto o la persona che conduce una unita' da diporto con disabile a bordo, a pena di decadenza dal diritto di ormeggio nell'attracco di cui al comma 3, deve comunicare al concessionario che gestisce l'ormeggio, via radio o via telefono, la data e l'orario del proprio arrivo, con almeno 24 ore di anticipo. In caso di beni del demanio marittimo non in concessione la citata comunicazione e' fatta all'autorita' marittima competente.   
 6. Il posto di attracco riservato alle persone con disabilita', quando non impegnato a tale fine, puo' essere occupato da altra unita', con l'esplicita avvertenza che in caso di arrivo di unita' condotta da persona con disabilita' o con persona con disabilita' a bordo, che abbia fatto richiesta del suo utilizzo secondo quanto previsto al comma 5, dovra' essere immediatamente liberato.   
 7. Lo stazionamento nel punto di attracco di cui al comma 3 e' consentito, qualora non gia' occupato da altra unita' con persona con disabilita', per un giorno e una notte. Nel caso in cui le condizioni metereologiche non consentono di riprendere la navigazione, l'autorita' marittima puo' autorizzare il prolungamento dello stazionamento.   
 8. Le richieste e le prenotazioni degli accosti di cui ai commi 2 e 3 sono annotate in un registro, numerato e siglato in ogni singola pagina dall'autorita' marittima territorialmente competente.   
 9. In occasione di manifestazioni sportive o mostre, i posti di ormeggio riservati al transito possono essere utilizzati dalle unita' partecipanti alle gare o presentate per l'esposizione.   
-10. Negli altri beni del demanio marittimo non in regime di concessione destinati alla navigazione e al trasporto marittimo, con ordinanza del capo del circondario marittimo competente e' disciplinata la riserva per gli accosti alle unita' da diporto in transito o che approdano per rifugio. Con la medesima ordinanza, al fine di garantire la sicurezza portuale e della navigazione, sono altresi' individuati sistemi di regolazione degli accessi alle isole minori da parte dei passeggeri delle unita' da diporto adibite a noleggio e trasporto passeggeri.   
+10. Negli altri beni del demanio marittimo non in regime di concessione destinati alla navigazione e al trasporto marittimo, con ordinanza del capo del circondario marittimo competente e' disciplinata la riserva per gli accosti alle unita' da diporto in transito o che approdano per rifugio. Con la medesima ordinanza, al fine di garantire la sicurezza portuale e della navigazione, sono altresi' individuati sistemi di regolazione degli accessi alle isole minori da parte dei passeggeri delle unita' da diporto adibite a noleggio e trasporto passeggeri
+
+((nonche' l'accosto per lo sbarco e l'imbarco dei passeggeri di natanti e imbarcazioni da diporto adibiti a noleggio))
+
+.   
 11. Il capo del circondario marittimo, con riferimento alla compatibilita' delle strutture dedicate alla nautica da diporto di cui all'[articolo 2, comma 1, del decreto del Presidente della Repubblica 2 dicembre 1997, n. 509](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1997-12-02;509~art2-com1), con gli interessi marittimi e con la sicurezza della navigazione esprime il parere di competenza.   
 12. Nella acque interne, nei laghi, nei parchi e nelle riserve od oasi naturali attraversati da corsi d'acqua o che comprendano bacini normalmente fruiti dall'utenza turistica mediante piccole imbarcazioni, l'autorita' o l'ente competente, con proprio atto determina le modalita' attuative e operative degli accosti alle unita' da diporto, a vela o a motore, in transito o che approdano per rifugio, nonche' dei punti di imbarco di transito idonei alla comoda fruizione da parte delle persone con disabilita'. Le tariffe relative all'utilizzazione degli accosti in transito o per rifugio sono rese pubbliche dal gestore dei punti di accosto e di imbarco.   
 13. In caso di mancata osservanza delle disposizioni del presente articolo, si applicano le sanzioni amministrative previste dal [codice della navigazione](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-03-30;327) in materia di uso del demanio marittimo.   
@@ -1982,10 +2025,7 @@ Per i soggetti di cui al comma 1, lettere a) e b), dell'articolo 53-ter, le sanz
 
 ### Art. 53-quinquies
 
-((Sospensione della licenza di navigazione   
-e ritiro della dichiarazione di potenza))
-
-((
+Sospensione della licenza di navigazione e ritiro della dichiarazione di potenza
 
 1. La sanzione accessoria della sospensione della licenza di navigazione da quindici a sessanta giorni, qualora il trasgressore sia il proprietario o l'armatore o l'utilizzatore dell'unita' da diporto in locazione finanziaria, si applica:
 
@@ -1997,7 +2037,11 @@ c) per le violazioni di cui all'articolo 53-ter, comma 2;
 
 d) per le violazioni di cui all'articolo 53-quater, comma 1;
 
-e) per le violazioni di cui all'articolo 55, comma 3;
+e) per le violazioni di cui all'articolo 55, comma 3
+
+((comma 1, e all'articolo 55-bis))
+
+;
 
 f) nei casi in cui le violazioni di cui all'articolo 53, comma 9, sono reiterate nei due anni dal compimento della prima violazione.
 
@@ -2006,8 +2050,6 @@ f) nei casi in cui le violazioni di cui all'articolo 53, comma 9, sono reiterate
 3. Se le violazioni di cui al comma 1 sono commesse mediante utilizzo di un natante da diporto, si procede al ritiro della dichiarazione di potenza o del documento equivalente da parte dell'organo accertatore per un periodo di tempo da quindici a sessanta giorni.
 
 4. In caso di navigazione con licenza di navigazione sospesa o senza la dichiarazione di potenza o documento equivalente in quanto ritirati, e' disposto il sequestro cautelare amministrativo dell'unita' da diporto, di cui all'[articolo 13 della legge 24 novembre 1981, n. 689](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-11-24;689~art13).
-
-))
 
 ### Art. 54
 
@@ -2021,17 +2063,17 @@ f) nei casi in cui le violazioni di cui all'articolo 53, comma 9, sono reiterate
 
 ### Art. 55
 
-((Esercizio abusivo delle attivita' commerciali con unita' da diporto))
-
-((
+Esercizio abusivo delle attivita' commerciali con unita' da diporto
 
 1. Chiunque esercita le attivita' di cui all'articolo 2, comma 1, del presente codice senza l'osservanza delle disposizioni di cui al comma 2 del medesimo articolo ovvero utilizza unita' da diporto per attivita' diverse da quelle cui sono adibite o esercita con unita' da diporto le attivita' di trasporto di persone a titolo oneroso di cui agli [articoli da 396](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-03-30;327~art396) [a 418 del codice della navigazione](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-03-30;327~art418), e' soggetto alla sanzione amministrativa del pagamento di una somma da 2775 euro a 11017 euro.
 
-2. Alla stessa sanzione e' soggetto chiunque non presenta la dichiarazione di cui all'articolo 2, comma 4.
+2. 
+
+((Alla stessa sanzione e' soggetto chiunque esercita le attivita' di cui all'articolo 2, comma 1, in assenza della dichiarazione di cui all'articolo 2, comma 3))
+
+.
 
 3. Nel caso di impiego di unita' da diporto per le attivita' di trasporto di persone a titolo oneroso di cui al comma 1, la patente nautica e' sospesa da uno a tre mesi e, se la violazione e' reiterata nel biennio, la patente nautica e' revocata.
-
-))
 
 ### Art. 55-bis
 
@@ -2098,11 +2140,19 @@ CAPO XVII - Titolo VI DISPOSIZIONI COMPLEMENTARI, TRANSITORIE E FINALI
 
 Durata dei procedimenti
 
-1. I procedimenti amministrativi relativi alle unita' da diporto devono essere portati a termine entro sessanta giorni dalla data di presentazione della documentazione prescritta.
+1. I procedimenti amministrativi relativi alle unita' da diporto devono essere portati a termine entro
+
+((trenta giorni))
+
+dalla data di presentazione della documentazione prescritta
+
+((all'UCON))
+
+.
 
 1-bis. Il termine di cui al comma 1 e' ridotto a sette giorni in caso di richiesta di estratto dai registri o copie di documenti.
 
-((1-ter. Il termine di cui al comma 1 e' ridotto a sette giorni per l'iscrizione provvisoria di cui all'articolo 20))
+1-ter. Il termine di cui al comma 1 e' ridotto a sette giorni per l'iscrizione provvisoria di cui all'articolo 20.
 
 2. Il termine di cui al comma 1 si applica anche al procedimento di rilascio del certificato limitato di radiotelefonista per l'uso di apparati radiotelefonici installati a bordo di navi di stazza lorda inferiore alle centocinquanta tonnellate, con potenza non superiore a 60 watts, di cui all'articolo 2-bis del decreto del Ministro per le poste e le telecomunicazioni in data 21 novembre 1956, pubblicato nella Gazzetta Ufficiale della Repubblica italiana in data 23 febbraio 1957, n. 50, e successive modificazioni, qualora il predetto certificato riguardi l'uso di apparati installati a bordo di unita' da diporto.
 
