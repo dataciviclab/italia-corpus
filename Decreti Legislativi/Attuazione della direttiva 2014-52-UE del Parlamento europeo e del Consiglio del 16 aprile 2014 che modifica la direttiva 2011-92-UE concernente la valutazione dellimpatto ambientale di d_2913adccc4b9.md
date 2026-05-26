@@ -1576,28 +1576,21 @@ Disposizioni attuative
 
 5. Con decreto del Ministro dell'ambiente e della tutela del territorio e del mare, ai sensi dell'[articolo 17, comma 3, della legge 23 agosto 1988, n. 400](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400~art17-com3), da adottarsi entro sessanta giorni dalla data di entrata in vigore del presente decreto, sono definiti i contenuti minimi e i formati dei verbali di accertamento, contestazione e notificazione dei procedimenti di cui all'[articolo 29 del decreto legislativo 3 aprile 2006, n. 152](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006-04-03;152~art29), come modificato dall'articolo 18 del presente decreto.
 
-6. Con decreto del Ministro dello sviluppo economico, di concerto con il Ministro dell'ambiente e della tutela del territorio e del mare e con il Ministro dei beni e delle attivita' culturali e del turismo, da adottarsi entro centottanta giorni dalla data di entrata in vigore del presente decreto, previo parere della Conferenza permanente per i rapporti tra lo Stato, le regioni e le province autonome, sono emanate le linee guida nazionali per la dismissione mineraria delle piattaforme per la coltivazione di idrocarburi in mare e delle infrastrutture connesse al fine di assicurare la qualita' e la completezza della valutazione dei relativi impatti ambientali.
+6. Con decreto del Ministro dello sviluppo economico, di concerto con il Ministro dell'ambiente e della tutela del territorio e del mare e con il Ministro dei beni e delle attivita' culturali e del turismo,
+
+((sentito il Ministro dell'universita' e della ricerca,))
+
+da adottarsi entro centottanta giorni dalla data di entrata in vigore del presente decreto, previo parere della Conferenza permanente per i rapporti tra lo Stato, le regioni e le province autonome, sono emanate le linee guida nazionali per la dismissione mineraria delle piattaforme per la coltivazione di idrocarburi in mare e delle infrastrutture connesse al fine di assicurare la qualita' e la completezza della valutazione dei relativi impatti ambientali
+
+((, tenendo conto delle opportunita' connesse alle funzioni di indirizzo, programmazione e coordinamento della ricerca scientifica e tecnologica nazionale affidate al Ministro dell'universita' e della ricerca e degli ecosistemi marini di interesse conservazionistico che, nel periodo di funzionamento della piattaforma, si sono formati aventi quest'ultima come substrato artificiale))
+
+.
 
 7. Con decreto del Ministro dell'ambiente e della tutela del territorio e del mare, di concerto con il Ministro dei beni e delle attivita' culturali e del turismo, da adottarsi entro centottanta giorni dalla data di entrata in vigore del presente decreto, sono disciplinate le modalita' di svolgimento e gestione della procedura di inchiesta pubblica di cui all'[articolo 24-bis del decreto legislativo 3 aprile 2006, n. 152](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006-04-03;152~art24bis), come introdotto dall'articolo 13, comma 2, del presente decreto.
 
 8. Il decreto del Ministro dell'ambiente e della tutela del territorio e del mare di cui all'[articolo 33, comma 1, del decreto legislativo 3 aprile 2006, n. 152](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006-04-03;152~art33-com1), come modificato dall'articolo 21 del presente decreto, e' adottato entro sessanta giorni dalla data di entrata in vigore del presente decreto.
 
 9. Con accordo ai sensi dell'[articolo 15 della legge 8 agosto 1990, n. 241](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-08-08;241~art15), il Ministero dell'ambiente e della tutela del territorio e del mare e il Ministero dei beni e delle attivita' culturali e del turismo definiscono forme e modalita' di raccordo per l'esercizio delle rispettive competenze disciplinate dal presente decreto.
-
-Note all'art. 25:   
-- Per il testo dell'articolo 6 del citato [decreto legislativo 3 aprile 2006, n. 152](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006-04-03;152), si veda nelle note all'art. 3.   
-- Per il testo dell'articolo 28 del citato [decreto legislativo 3 aprile 2006, n. 152](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006-04-03;152), si veda nelle note all'art. 17.   
-- Per il testo dell'Allegato VII alla parte seconda del citato [decreto legislativo 3 aprile 2006, n. 152](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006-04-03;152), si veda nelle note all'art. 22.   
-- Per il testo dell'[articolo 17 della legge 23 agosto 1988, n. 400](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400~art17), si veda nelle note alle premesse.   
-- Per il testo dell'articolo 29 del citato [decreto legislativo 3 aprile 2006, n. 152](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006-04-03;152), si veda nelle note all'art. 18.   
-- Per il testo dell'articolo 24-bis del citato [decreto legislativo 3 aprile 2006, n. 152](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006-04-03;152), si veda nelle note all'art. 13.   
-- Per il testo dell'articolo 33 del decreto citato legislativo 3 aprile 2006, n. 152, si veda nelle note all'art. 21.   
-- Si riporta il testo dell'articolo 15 della citata [legge 8 agosto 1990, n. 241](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-08-08;241):   
-"Art. 15 (Accordi fra pubbliche amministrazioni)   
-1. Anche al di fuori delle ipotesi previste dall'articolo 14, le amministrazioni pubbliche possono sempre concludere tra loro accordi per disciplinare lo svolgimento in collaborazione di attivita' di interesse comune.   
-2. Per detti accordi si osservano, in quanto applicabili, le disposizioni previste dall'articolo 11, commi 2 e 3.   
-2-bis. A fare data dal 30 giugno 2014 gli accordi di cui al comma 1 sono sottoscritti con firma digitale, ai sensi dell'[articolo 24 del decreto legislativo 7 marzo 2005, n. 82](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-03-07;82~art24), con firma elettronica avanzata, ai sensi dell'[articolo 1, comma 1, lettera q-bis), del decreto legislativo 7 marzo 2005, n. 82](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-03-07;82~art1-com1-letqbis), ovvero con altra firma elettronica qualificata, pena la nullita' degli stessi.  
-Dall'attuazione della presente disposizione non devono derivare nuovi o maggiori oneri a carico del bilancio dello Stato. All'attuazione della medesima si provvede nell'ambito delle risorse umane, strumentali e finanziarie previste dalla legislazione vigente.".
 
 Art. 26
 -------

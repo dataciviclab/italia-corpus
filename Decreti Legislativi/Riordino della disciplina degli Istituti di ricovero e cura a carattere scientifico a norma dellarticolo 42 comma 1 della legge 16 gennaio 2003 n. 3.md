@@ -163,17 +163,15 @@ Istituti non trasformati
 
 ### Art. 6
 
-((Disposizioni in materia di organizzazione e requisiti degli organi))
+Disposizioni in materia di organizzazione e requisiti degli organi
 
 1. Le Fondazioni IRCCS, cosi' come gli IRCCS non trasformati, informano la propria attivita' a criteri di efficacia, efficienza ed economicita' e sono tenuti al rispetto del vincolo di bilancio, attraverso l'equilibrio di costi e ricavi, compresi i trasferimenti di risorse finanziarie per specifiche attivita' istituzionali. Essi organizzano la propria struttura mediante centri di costo in grado di programmare e rendicontare la gestione economica, amministrativa e delle risorse umane e strumentali.
 
-((
+1-bis. 
 
-1-bis. Gli istituti di cui al comma 1, entro il 31 marzo 2023 adeguano gli statuti o i regolamenti di organizzazione e funzionamento in coerenza con gli indirizzi di politica sanitaria e nel rispetto dell'autonomia regionale, in modo da garantire il coordinamento delle attivita' del direttore generale e quelle del direttore scientifico e al fine di assicurare l'integrazione dell'attivita' assistenziale e dell'attivita' di formazione con l'attivita' di ricerca per potenziarne l'efficacia nelle aree tematiche di afferenza. Gli statuti o i regolamenti di organizzazione e funzionamento prevedono altresi' che il direttore scientifico sia supportato dalla struttura amministrativa dell'IRCCS, e che tutti i componenti degli organi di governo siano in possesso di un diploma di laurea di cui all'ordinamento previgente al [decreto ministeriale 3 novembre 1999 n. 509](http://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.:decreto:1999-11-03;509), ovvero laurea specialistica o magistrale e di comprovata esperienza e competenza in campo amministrativo, economico, finanziario, medico o biomedico, assicurando l'assenza di conflitti d'interesse.
+((Entro sessanta giorni dalla data di entrata in vigore della presente disposizione, gli istituti di cui al comma 1 adeguano gli statuti o i regolamenti di organizzazione e funzionamento in coerenza con gli indirizzi di politica sanitaria e nel rispetto dell'autonomia regionale, in modo da garantire il coordinamento delle attivita' del direttore generale e quelle del direttore scientifico e al fine di assicurare l'integrazione dell'attivita' assistenziale e dell'attivita' di formazione con l'attivita' di ricerca per potenziarne l'efficacia nelle aree tematiche di afferenza. Gli statuti o i regolamenti di organizzazione e funzionamento prevedono, altresi', che il direttore scientifico sia supportato dalla struttura amministrativa dell'IRCCS e che tutti i componenti degli organi di governo siano in possesso di un diploma di laurea di cui all'ordinamento previgente al decreto ministeriale novembre 1999, n. 509, ovvero laurea specialistica o magistrale e di comprovata esperienza e competenza in campo amministrativo, economico, finanziario, medico o biomedico, assicurando l'assenza di conflitti d'interesse. Le Fondazioni IRCCS e gli IRCCS non trasformati possono, senza nuovi o maggiori oneri a carico della finanza pubblica, prevedere negli statuti o nei regolamenti di organizzazione e funzionamento il conferimento dell'incarico di consulente esperto, con funzioni di supporto e assistenza al direttore scientifico nell'ambito di aree o progetti di ricerca specificamente individuati dal medesimo direttore scientifico. Le Fondazioni IRCCS e gli IRCCS non trasformati possono, senza nuovi o maggiori oneri a carico della finanza pubblica, altresi', prevedere negli statuti o nei regolamenti di organizzazione e funzionamento, al fine di valorizzare la specificita' delle competenze tecnico-scientifiche in materia di sperimentazione clinica, nel rispetto delle vigenti disposizioni contrattuali per il profilo di ricercatore sanitario il conferimento degli incarichi di responsabile di ricerca clinica e di infermiere di ricerca clinica deputati alle funzioni organizzative inerenti alle sperimentazioni cliniche, ciascuno per la parte di competenza.))
 
 1-ter. Per le finalita' di cui al comma 1-bis, le regioni attribuiscono al direttore generale, all'atto della nomina, ulteriori specifici obiettivi funzionali al raccordo tra attivita' di assistenza e quella di ricerca, nonche' alla realizzazione del piano triennale delle linee di ricerca definito per l'Istituto e approvato dal Ministero della salute.
-
-))
 
 CAPO III Capo III Beni e attivita'
 ----------------------------------
@@ -314,6 +312,23 @@ d) per gli IRCCS pubblici, per le finalita' di cui al presente comma con apposit
 
 7. Le Fondazioni e gli Istituti non trasformati svolgono attivita' di alta formazione nell'ambito delle discipline e attivita' di riferimento.
 
+### Art. 8-bis
+
+(( (Reti di ricerca degli Istituti di ricovero e cura a carattere scientifico). ))
+
+1. 
+
+((Le reti di ricerca degli IRCCS sono reti di eccellenza che, nelle aree tematiche di cui all'allegato 1 al presente decreto, perseguono finalita' di ricerca prevalentemente traslazionale, promuovono il progresso delle conoscenze, sperimentano modelli di innovazione nei diversi settori dell'area tematica, anche per potenziare la capacita' operativa del Servizio sanitario nazionale e delle reti regionali. Le reti sono aperte alla partecipazione di altri enti del Servizio sanitario nazionale e, in misura non prevalente, di universita' ed enti di ricerca senza finalita' di lucro, dotati di elevata qualita' scientifica traslazionale, nonche' alla collaborazione con reti o gruppi di ricerca, anche internazionali, con partner scientifici e industriali nazionali e internazionali.))
+
+2. 
+
+((Le reti di ricerca degli IRCCS sono associazioni riconosciute dotate di personalita' giuridica costituite mediante atto pubblico e lo statuto indica l'area tematica di afferenza, di cui all'allegato 1 al presente decreto, il legale rappresentante, il coordinatore scientifico, le modalita' di funzionamento dell'assemblea e quelle per condividere la strumentazione e le competenze scientifiche tra i partecipanti. Entro centoventi giorni dalla data di entrata in vigore della presente disposizione, con uno o piu' decreti del Ministro della salute, sentito il Ministro dell'universita' e della ricerca, sono stabiliti i criteri di costituzione della rete e di accesso alla stessa, le modalita' e le procedure per il riconoscimento da parte del Ministero della salute della rete in quanto rete di ricerca traslazionale sanitaria, nonche' le modalita' di accesso alle reti da parte degli enti del Servizio sanitario nazionale, universita' ed enti pubblici di ricerca nonche' enti e fondazioni di ricerca senza finalita' di lucro che abbiano riconosciuta esperienza nel campo della ricerca clinica, sanitaria e biomedica, dotati di elevata qualita' scientifica traslazionale. Tali decreti sono adottati previa acquisizione del parere del Comitato tecnico sanitario - Sezione per la ricerca sanitaria e della Conferenza permanente per i rapporti tra lo Stato, le regioni e le province autonome di Trento e di Bolzano.))
+
+3. 
+
+((Le reti di ricerca degli IRCCS svolgono l'attivita' di ricerca sulla base di una programmazione quadriennale, articolata in traiettorie integrative rispetto alle linee di ricerca dei singoli Istituti, in coerenza con il programma di ricerca sanitaria di cui all'[articolo 12-bis del decreto legislativo 30 dicembre 1992, n. 502](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-12-30;502~art12bis).  
+Le procedure e i criteri per l'assegnazione delle risorse destinate alle attivita' di ricerca delle reti di IRCCS sono approvate con decreto dal Ministro della salute, previa acquisizione del parere della Conferenza permanente per i rapporti tra lo Stato, le regioni e le province autonome di Trento e di Bolzano.))
+
 ### Art. 9
 
 Attivita' strumentali
@@ -352,13 +367,29 @@ Personale
 
 1. Nelle Fondazioni di cui all'articolo 2 il rapporto di lavoro del personale ha natura privatistica. Il personale dipendente alla data di trasformazione in Fondazione mantiene, ad esaurimento, il rapporto di lavoro di diritto pubblico e puo' optare per un contratto di diritto privato entro centottanta giorni dal decreto di trasformazione. Al personale che non opta per il rapporto di lavoro privato continua ad applicarsi la disciplina prevista dai [decreti legislativi 30 dicembre 1992, n. 502, e 30 marzo 2001, n. 165](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2001-03-30;165), e successive modificazioni; per detto personale nulla e' innovato sul piano della contrattazione collettiva nazionale di comparto. Per il personale delle Fondazioni di cui all'articolo 2, che opta per il rapporto di lavoro privato e per quello di nuova assunzione nelle stesse Fondazioni si applicano trattamenti economici derivanti da finanziamenti pubblici non superiori a quelli previsti dai contratti pubblici della dirigenza medica e non medica e del comparto sanita'.
 
-2. Negli Istituti non trasformati, il trattamento giuridico ed economico del personale e' sottoposto alla disciplina del citato [decreto legislativo n. 502 del 1992](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992;502), e successive modificazioni, del [decreto legislativo 30 marzo 2001, n. 165](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2001-03-30;165), e successive modificazioni, nonche' alla contrattazione collettiva nazionale di comparto. La commissione di cui al [comma 2 dell'articolo 15-ter del decreto legislativo n. 502 del 1992](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992;502~art15ter-com2) e' composta, oltre che dal direttore scientifico, che la presiede, da due dirigenti dei ruoli del personale del Servizio sanitario nazionale, preposti a una struttura complessa della disciplina oggetto dell'incarico, di cui uno scelto dal Comitato tecnico scientifico e uno individuato dal direttore generale. Nei medesimi Istituti e' consentita l'assunzione diretta, di diritto privato a tempo determinato, per incarichi afferenti i progetti finalizzati di ricerca sulla base di specifici requisiti di natura professionale.
+2. Negli Istituti non trasformati, il trattamento giuridico ed economico del personale e' sottoposto alla disciplina del citato [decreto legislativo n. 502 del 1992](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992;502), e successive modificazioni, del [decreto legislativo 30 marzo 2001, n. 165](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2001-03-30;165), e successive modificazioni, nonche' alla contrattazione collettiva nazionale di comparto.
+
+((Negli Istituti non trasformati e nelle Fondazioni IRCCS la commissione di cui all'[articolo 15, comma 7-bis, lettera a), del decreto legislativo n. 502 del 1992](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992;502~art15-com7bis-leta) e' composta dal direttore scientifico, che la presiede, dal direttore sanitario e da due dirigenti dei ruoli del personale del Servizio sanitario nazionale, preposti a una struttura complessa della disciplina oggetto dell'incarico, di cui almeno uno scelto dal comitato tecnico scientifico e uno individuato dal direttore generale.))
+
+Nei medesimi Istituti e' consentita l'assunzione diretta, di diritto privato a tempo determinato, per incarichi afferenti i progetti finalizzati di ricerca sulla base di specifici requisiti di natura professionale.
 
 3. Nelle Fondazioni e negli Istituti non trasformati gli incarichi di direttore generale, direttore scientifico, direttore amministrativo e direttore sanitario sono di natura autonoma, esclusivi e di durata non inferiore a tre anni e non superiore a cinque. Il direttore generale deve essere in possesso del diploma di laurea e avere svolto un'esperienza qualificata di direzione in enti, aziende, strutture pubbliche o private di media o grande dimensione con autonomia gestionale e diretta responsabilita' delle risorse umane, tecniche e finanziarie, svolta nei dieci anni precedenti la nomina. Il direttore scientifico deve essere in possesso di comprovate capacita' scientifiche e manageriali.
 
-((L'incarico del direttore scientifico degli IRCCS pubblici comporta l'incompatibilita' con qualsiasi altro rapporto di lavoro pubblico e privato, fatta salva l'attivita' di ricerca preclinica, clinica, traslazionale e di formazione, esercitata nell'interesse esclusivo dell'Istituto, senza ulteriore compenso.))
+((L'incarico di direttore scientifico degli IRCCS pubblici comporta l'incompatibilita' assoluta con l'esercizio di qualsiasi altro rapporto di lavoro di natura pubblica o privata. Tale incompatibilita' e' derogata per l'esercizio di attivita' di ricerca preclinica, clinica, traslazionale e di formazione, purche' sia svolta nell'interesse esclusivo dell'Istituto e non configuri situazioni di concorrenza con l'attivita' dell'IRCCS o conflitti di interesse con le attivita' anche assistenziali dello stesso. Fermo restando il disposto del regolamento di cui al [decreto del Presidente della Repubblica 26 febbraio 2007, n. 42](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2007-02-26;42), il contratto di conferimento dell'incarico di direttore scientifico negli IRCCS pubblici deve conformarsi, anche ai fini della valutazione di risultato, alle finalita' e agli obiettivi funzionali alla realizzazione del programma triennale IRCCS, come fissati nella programmazione triennale IRCCS approvata dal Ministero della salute, previo parere del Comitato tecnico sanitario - Sezione per la ricerca sanitaria. Gli obiettivi, di cui all'[articolo 3, comma 1-ter del decreto legislativo 23 dicembre 2022, n. 200](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2022-12-23;200~art3-com1ter), assegnati dalle regioni al Direttore generale, devono conformarsi agli obiettivi assegnati al Direttore scientifico in coerenza alla Programmazione triennale IRCCS.))
 
 Il direttore sanitario deve essere laureato in medicina e chirurgia e avere svolto un'esperienza almeno quinquennale di direzione tecnico-sanitaria in enti, aziende o strutture sanitarie, pubbliche o private, di media o grande dimensione. Il direttore amministrativo deve essere in possesso del diploma di laurea in discipline giuridiche o economiche ed avere svolto un'esperienza almeno quinquennale di direzione tecnica o amministrativa in enti, aziende o strutture sanitarie, pubbliche o private, di media o grande dimensione. Le funzioni di direttore sanitario e di direttore amministrativo cessano al compimento del sessantacinquesimo anno di eta', fermi restando gli effetti di cui all'[articolo 16, comma 1, del decreto legislativo 30 dicembre 1992, n. 503](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-12-30;503~art16-com1). (7)
+
+3-bis. 
+
+((L'atto di nomina del consulente esperto di cui all'articolo 6, comma 1-bis, e' adottato dal direttore generale, su proposta del direttore scientifico, previa valutazione dell'elevata qualificazione professionale, dell'esperienza maturata nel settore della ricerca nonche' delle competenze tecnico-amministrative in materia di programmazione scientifica, gestione, monitoraggio e controllo dei finanziamenti pubblici e privati destinati alle attivita' di ricerca. L'incarico, che e' incompatibile con altri incarichi di consulenza che possano determinare conflitti di interesse con l'IRCCS, ha una durata biennale, rinnovabile, e puo' essere oggetto di corresponsione di un compenso annuo non superiore a euro 60.000 al lordo degli oneri riflessi a carico del bilancio sezionale della ricerca degli IRCCS. La cessazione dell'incarico di consulente esperto si verifica ex lege con l'insediamento del direttore scientifico successivo a quello in carica al momento del conferimento. L'incarico di consulente esperto negli IRCCS pubblici puo' essere conferito anche in deroga al divieto di cui all'[articolo 5, comma 9, del decreto-legge 6 luglio 2012, n. 95](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2012-07-06;95~art5-com9), convertito, con modificazioni, dalla [legge 7 agosto 2012, n. 135](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2012-08-07;135), per un periodo massimo di due anni, a soggetti esperti collocati in quiescenza che possiedano un'elevata qualificazione professionale, esperienza nel settore della ricerca, anche in ambito universitario, e che abbiano acquisito significative competenze e professionalita' scientifiche e tecnico-amministrative in materia di programmazione scientifica, gestione, monitoraggio e controllo dei finanziamenti pubblici e privati destinati alle attivita' di ricerca. Resta fermo quanto previsto dall'[articolo 1, comma 489, della legge 27 dicembre 2013, n. 147](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2013-12-27;147~art1-com489), e dagli articoli 14, comma 3, e 14.[1, comma 3, del decreto-legge 28 gennaio 2019, n. 4](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2019-01-28;4~art1-com3), convertito, con modificazioni, dalla [legge 28 marzo 2019, n. 26](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2019-03-28;26).))
+
+3-ter. 
+
+((Gli incarichi di responsabile di ricerca clinica e di infermiere di ricerca clinica, di cui all'articolo 6, comma 1-bis, sono conferiti dal direttore generale, su proposta del direttore scientifico, previa valutazione dell'elevata qualificazione professionale e in considerazione dell'esperienza acquisita nello specifico settore.))
+
+3-quater. 
+
+((Dall'attuazione delle disposizioni di cui ai commi 3-bis e 3-ter non devono derivare nuovi o maggiori oneri a carico della finanza pubblica.))
 
 ---------------
 
@@ -374,17 +405,23 @@ Istituti di diritto privato
 
 2. L'assunzione di personale sanitario dipendente presso gli Istituti di diritto privato e' subordinata all'espletamento di procedure di selezione e di valutazione dei candidati atte a verificarne la professionalita' e l'esperienza; l'assunzione e' comunque condizionata al possesso degli stessi requisiti previsti per le corrispondenti qualifiche degli enti e strutture del Servizio sanitario nazionale.
 
-((
+((Al fine di garantire e promuovere il miglioramento della qualita' e dell'efficienza dell'attivita' di ricerca sanitaria, gli Istituti di diritto privato possono valorizzare i rapporti di lavoro dei ricercatori dipendenti in analogia ai corrispondenti profili professionali del ruolo della ricerca sanitaria.))
 
-2-bis. Gli IRCCS di diritto privato, al fine di assicurare l'integrazione dell'attivita' assistenziale e dell'attivita' di formazione con l'attivita' di ricerca, entro il 31 marzo 2023 adeguano i propri atti di organizzazione in modo da garantire il coordinamento delle attivita' del direttore generale e quelle del direttore scientifico.
+2-bis. 
 
-2-ter. Gli atti di organizzazione devono altresi' prevedere che il direttore scientifico, sia in possesso dei requisiti di comprovata professionalita' e competenza, anche manageriale, correlati alla specificita' dei medesimi Istituti, assicurando l'assenza di conflitto di interesse.
+((Gli IRCCS di diritto privato, al fine di assicurare l'integrazione dell'attivita' assistenziale e dell'attivita' di formazione con l'attivita' di ricerca, entro il 31 marzo 2023 adeguano i propri atti di organizzazione in modo da garantire il coordinamento delle attivita' del direttore generale e quelle del direttore scientifico.))
 
-2-quater. Ferma restando l'autonomia giuridico-amministrativa di cui al comma 1, gli IRCCS di diritto privato inviano annualmente al Ministero della salute la programmazione dell'attivita' di ricerca e la relativa rendicontazione, il bilancio d'esercizio annuale con la relativa certificazione di una societa' di revisione indipendente, il bilancio sezionale della ricerca, un bilancio separato per i fondi pubblici, nonche' rendiconti finanziari dell'attivita' non economica ed economica. Essi inviano al Ministero della salute ogni atto di modifica della persona giuridica, di revisione della dotazione organica e della titolarita' dell'accreditamento sanitario.
+2-ter. 
 
-2-quinquies. Il Ministero della salute, nell'esercizio delle funzioni di vigilanza di cui all'articolo 1, comma 2, puo' verificare in ogni momento il mantenimento dei requisiti e degli standard per il riconoscimento del carattere scientifico.
+((Gli atti di organizzazione devono altresi' prevedere che il direttore scientifico sia in possesso dei requisiti di comprovata professionalita' e competenza, anche manageriale, correlati alla specificita' dei medesimi Istituti, assicurando l'assenza di conflitto di interesse. Gli atti di organizzazione possono altresi' prevedere il conferimento degli incarichi di consulente esperto, di coordinatore di ricerca clinica e di infermiere di ricerca clinica di cui all'articolo 11, commi 3-bis e 3-ter.))
 
-))
+2-quater. 
+
+((Ferma restando l'autonomia giuridico-amministrativa di cui al comma 1, gli IRCCS di diritto privato inviano annualmente al Ministero della salute la programmazione dell'attivita' di ricerca e la relativa rendicontazione, il bilancio d'esercizio annuale con la relativa certificazione di una societa' di revisione indipendente, il bilancio sezionale della ricerca e, con riferimento all'attivita' di ricerca nonche' ai relativi finanziamenti pubblici ottenuti, i rendiconti finanziari dell'attivita' non economica ed economica, fermo restando l'obbligo dell'osservanza della disciplina europea concernente gli organismi di ricerca. Essi inviano al Ministero della salute ogni atto di modifica della persona giuridica, di revisione della dotazione organica e della titolarita' dell'accreditamento sanitario.))
+
+2-quinquies. 
+
+((Il Ministero della salute, nell'esercizio delle funzioni di vigilanza di cui all'articolo 1, comma 2, puo' verificare in ogni momento il mantenimento dei requisiti e degli standard per il riconoscimento del carattere scientifico.))
 
 CAPO IV Capo IV Riconoscimento e revoca
 ---------------------------------------
@@ -393,9 +430,7 @@ CAPO IV Capo IV Riconoscimento e revoca
 
 Riconoscimento
 
-((1. Fatte salve le disposizioni di cui all'articolo 1, l'istituzione di nuovi Istituti di ricovero e cura a carattere scientifico deve essere coerente e compatibile con la programmazione sanitaria della regione interessata e con la disciplina europea concernente gli organismi di ricerca; essa e' subordinata al riconoscimento dei requisiti di cui al comma 3 ed avviene con riferimento ad una o piu' aree tematiche, di cui all'allegato 1 del presente decreto, ed ai soli presidi nei quali la stessa attivita' e' svolta. Gli istituti politematici sono riconosciuti con riferimento a piu' aree tematiche biomediche integrate))
-
-((9))
+1. Fatte salve le disposizioni di cui all'articolo 1, l'istituzione di nuovi Istituti di ricovero e cura a carattere scientifico deve essere coerente e compatibile con la programmazione sanitaria della regione interessata e con la disciplina europea concernente gli organismi di ricerca; essa e' subordinata al riconoscimento dei requisiti di cui al comma 3 ed avviene con riferimento ad una o piu' aree tematiche, di cui all'allegato 1 del presente decreto, ed ai soli presidi nei quali la stessa attivita' e' svolta. Gli istituti politematici sono riconosciuti con riferimento a piu' aree tematiche biomediche integrate.
 
 2. Le strutture pubbliche che chiedono il riconoscimento possono costituirsi nella forma delle Fondazioni di cui all'articolo 2; le strutture private debbono costituirsi in una delle forme giuridiche disciplinate dal [codice civile](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262).
 
@@ -405,61 +440,37 @@ a) personalita' giuridica di diritto pubblico o di diritto privato;
 
 b) titolarita' dell'autorizzazione e dell'accreditamento sanitari;
 
-c) economicita' ed efficienza dell'organizzazione, qualita' delle strutture e livello tecnologico delle attrezzature
+c) economicita' ed efficienza dell'organizzazione, qualita' delle strutture e livello tecnologico delle attrezzature adeguatezza della struttura organizzativa rispetto alle finalita' di ricerca ed equilibrio economico finanziario e patrimoniale, nonche' almeno il 35 per cento dei ricercatori con contratto di lavoro subordinato secondo il contratto collettivo nazionale di lavoro della sanita' pubblica e/o privata. Ai fini del computo di tale percentuale non si calcola il personale dedicato all'assistenza sanitaria
 
-((adeguatezza della struttura organizzativa rispetto alle finalita' di ricerca ed equilibrio economico finanziario e patrimoniale, nonche' almeno il 35 per cento dei ricercatori con contratto di lavoro subordinato secondo il contratto collettivo nazionale di lavoro della sanita' pubblica e/o privata. Ai fini del computo di tale percentuale non si calcola il personale dedicato all'assistenza sanitaria nonche' il personale distaccato in via esclusiva in base alle convenzioni con le Universita'))
+((...))
 
-;
+; (9)
 
-((9))
+d) caratteri di eccellenza del livello dell'attivita' di ricovero e cura di alta specialita' direttamente svolta negli ultimi tre anni, ovvero del contributo tecnico-scientifico fornito, nell'ambito di un'attivita' di ricerca biomedica riconosciuta a livello nazionale e internazionale, al fine di assicurare una piu' alta qualita' dell'attivita' assistenziale, attestata da strutture pubbliche del Servizio sanitario nazionale della complessita' delle prestazioni erogate, delle caratteristiche strutturali, del volume e tipologia delle attivita' e del percorso assistenziale
 
-d) caratteri di eccellenza del livello dell'attivita' di ricovero e cura di alta specialita' direttamente svolta negli ultimi tre anni, ovvero del contributo tecnico-scientifico fornito, nell'ambito di un'attivita' di ricerca biomedica riconosciuta a livello nazionale e internazionale, al fine di assicurare una piu' alta qualita' dell'attivita' assistenziale, attestata da strutture pubbliche del Servizio sanitario nazionale
+((nonche' della qualifica di centro di riferimento clinico-assistenziale di eccellenza a livello regionale e sovra regionale come bacino di utenza per l'area tematica di appartenenza))
 
-((della complessita' delle prestazioni erogate, delle caratteristiche strutturali, del volume e tipologia delle attivita' e del percorso assistenziale nonche' della qualifica di centro di riferimento clinico - assistenziale a livello regionale o sovraregionale per l'area tematica di appartenenza))
+; (9)
 
-;
+e) caratteri di eccellenza della attivita' di ricerca svolta nell'ultimo triennio relativamente alla specifica disciplina assegnata secondo sistemi bibliometrici internazionalmente riconosciuti; (9)
 
-((9))
-
-e) caratteri di eccellenza della attivita' di ricerca svolta nell'ultimo triennio relativamente alla specifica disciplina assegnata
-
-((secondo sistemi bibliometrici internazionalmente riconosciuti))
-
-;
-
-((9))
-
-((f) dimostrata capacita' di operare in rete con gli Istituti di ricerca della stessa area di riferimento, di collaborare con altri enti pubblici e privati nonche' di comprovare il numero delle sperimentazioni cliniche multicentriche e il numero delle partecipazioni a bandi comunitari.))
-
-((9))
+f) dimostrata capacita' di operare in rete con gli Istituti di ricerca della stessa area di riferimento, di collaborare con altri enti pubblici e privati nonche' di comprovare il numero delle sperimentazioni cliniche multicentriche e il numero delle partecipazioni a bandi comunitari. (9)
 
 g) dimostrata capacita' di attrarre finanziamenti pubblici e privati indipendenti;
 
 h) certificazione di qualita' dei servizi secondo procedure internazionalmente riconosciute.
 
-((3-bis. Fatte salve le disposizioni di cui al comma 3, ai fini del riconoscimento della qualifica di IRCCS, nell'allegato 2, parte integrante del presente decreto legislativo, e' individuato per ciascuna area tematica di cui all'allegato 1 del presente decreto nonche' per ogni macro area territoriale nazionale, il bacino minimo di utenza su base territoriale, che consenta un'adeguata attivita' di ricerca a garanzia dei percorsi innovativi di cura e l'accesso a nuovi farmaci e l'individuazione dei relativi centri di riferimento regionali o sovraregionali.))
+3-bis. Fatte salve le disposizioni di cui al comma 3, ai fini del riconoscimento della qualifica di IRCCS, nell'allegato 2, parte integrante del presente decreto legislativo, e' individuato per ciascuna area tematica di cui all'allegato 1 del presente decreto nonche' per ogni macro area territoriale nazionale, il bacino minimo di utenza su base territoriale, che consenta un'adeguata attivita' di ricerca a garanzia dei percorsi innovativi di cura e l'accesso a nuovi farmaci e l'individuazione dei relativi centri di riferimento regionali o sovraregionali. (9)
 
-((9))
+3-ter. Il Ministero della salute, ai fini dell'esame delle istanze per il riconoscimento del carattere scientifico, verifica la compatibilita' dell'istanza con il fabbisogno nazionale di prestazioni di eccellenza che richiedono tecnologie avanzate e farmaci innovativi, nonche' con il fabbisogno nazionale di ricerca sanitaria, e verifica la sussistenza del bacino minimo di utenza per MDC, come definito al comma 3-bis, e delle caratteristiche epidemiologiche della popolazione insistente nell'area di riferimento. A tali fini, si tiene conto del numero delle sperimentazioni cliniche no profit annualmente condotte nelle relative aree tematiche, del numero dei pazienti arruolati, nonche' del numero dei pazienti affetti dalle patologie riconducibili alla medesima area. (9)
 
-((3-ter. Il Ministero della salute, ai fini dell'esame delle istanze per il riconoscimento del carattere scientifico, verifica la compatibilita' dell'istanza con il fabbisogno nazionale di prestazioni di eccellenza che richiedono tecnologie avanzate e farmaci innovativi, nonche' con il fabbisogno nazionale di ricerca sanitaria, e verifica la sussistenza del bacino minimo di utenza per MDC, come definito al comma 3-bis, e delle caratteristiche epidemiologiche della popolazione insistente nell'area di riferimento. A tali fini, si tiene conto del numero delle sperimentazioni cliniche no profit annualmente condotte nelle relative aree tematiche, del numero dei pazienti arruolati, nonche' del numero dei pazienti affetti dalle patologie riconducibili alla medesima area.))
+3-quater. In caso di richiesta di trasferimento di sede da parte di un IRCCS all'interno dello stesso territorio comunale, alle strutture diverse da quelle afferenti alla rete dell'emergenza-urgenza, non si applicano le disposizioni di cui all'[articolo 8-ter, comma 3, del decreto legislativo 30 dicembre 1992, n. 502](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-12-30;502~art8ter-com3). (9)
 
-((9))
+3-quinquies. Ai fini della verifica del possesso dei requisiti di cui al comma 3, all'allegato 3 sono individuati gli indicatori e le soglie di valutazione elevate, anche per le sedi secondarie degli IRCCS al fine di garantire che le stesse, essendo dotate di capacita' operative di alto livello, contribuiscano ai risultati dell'attivita' di ricerca della sede principale dell'IRCCS. (9)
 
-((3-quater. In caso di richiesta di trasferimento di sede da parte di un IRCCS all'interno dello stesso territorio comunale, alle strutture diverse da quelle afferenti alla rete dell'emergenza-urgenza, non si applicano le disposizioni di cui all'[articolo 8-ter, comma 3, del decreto legislativo 30 dicembre 1992, n. 502](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-12-30;502~art8ter-com3).))
+3-sexies. Ai fini del riconoscimento di nuovi IRCCS, in sede di riparto del fabbisogno sanitario nazionale standard, puo' essere vincolata una quota per il finanziamento della ricerca degli stessi IRCCS, nel rispetto della programmazione delle attivita' e dei volumi degli stessi Istituti. (9)
 
-((9))
-
-((3-quinquies. Ai fini della verifica del possesso dei requisiti di cui al comma 3, all'allegato 3 sono individuati gli indicatori e le soglie di valutazione elevate, anche per le sedi secondarie degli IRCCS al fine di garantire che le stesse, essendo dotate di capacita' operative di alto livello, contribuiscano ai risultati dell'attivita' di ricerca della sede principale dell'IRCCS.))
-
-((9))
-
-((3-sexies. Ai fini del riconoscimento di nuovi IRCCS, in sede di riparto del fabbisogno sanitario nazionale standard, puo' essere vincolata una quota per il finanziamento della ricerca degli stessi IRCCS, nel rispetto della programmazione delle attivita' e dei volumi degli stessi Istituti.))
-
-((9))
-
-((3-septies. Le regioni in cui insistono diverse sedi di un medesimo IRCCS adottano specifici accordi per definire un piano di sviluppo valido per le diverse sedi dell'Istituto anche con riferimento ad un sistema di accreditamento e di convenzionamento uniforme, disciplinando l'implementazione dei percorsi di diagnosi e cura dei pazienti, i piani assunzionali e disciplinando la copertura di perdite di bilancio o di squilibri finanziari, anche relative all'attivita' di ricerca.))
-
-((9))
+3-septies. Le regioni in cui insistono diverse sedi di un medesimo IRCCS adottano specifici accordi per definire un piano di sviluppo valido per le diverse sedi dell'Istituto anche con riferimento ad un sistema di accreditamento e di convenzionamento uniforme, disciplinando l'implementazione dei percorsi di diagnosi e cura dei pazienti, i piani assunzionali e disciplinando la copertura di perdite di bilancio o di squilibri finanziari, anche relative all'attivita' di ricerca. (9)
 
 ------------
 
@@ -516,11 +527,13 @@ Il [D.Lgs. 23 dicembre 2022, n. 200](http://www.normattiva.it/uri-res/N2Ls?urn:n
 
 ### Art. 16
 
-(( (Vigilanza). ))
+(Vigilanza)
 
-((
+1. Gli IRCCS di diritto pubblico inviano annualmente al Ministero della salute la programmazione dell'attivita' di ricerca e la relativa rendicontazione, il bilancio d'esercizio annuale, il bilancio sezionale della ricerca, i rendiconti finanziari dell'attivita' non economica ed economica
 
-1. Gli IRCCS di diritto pubblico inviano annualmente al Ministero della salute la programmazione dell'attivita' di ricerca e la relativa rendicontazione, il bilancio d'esercizio annuale, il bilancio sezionale della ricerca, i rendiconti finanziari dell'attivita' non economica ed economica, le eventuali modifiche alla persona giuridica, le revisioni alla dotazione organica o della titolarita' dell'accreditamento sanitario.
+((con riferimento all'attivita' di ricerca e ai relativi finanziamenti pubblici ottenuti))
+
+, le eventuali modifiche alla persona giuridica, le revisioni alla dotazione organica o della titolarita' dell'accreditamento sanitario.
 
 2. Il Ministero della salute, nell'esercizio delle funzioni di vigilanza di cui all'articolo 1, comma 2, puo' chiedere dati e informazioni relativi al mantenimento dei requisiti e degli standard per il riconoscimento del carattere scientifico.
 
@@ -532,7 +545,7 @@ b) il conto economico chiude con una perdita superiore al 20 per cento del patri
 
 c) vi e' impossibilita' di funzionamento degli organi di amministrazione e gestione.
 
-4. Con il decreto di scioglimento il Ministro della salute, d'intesa con il Presidente della regione interessata, nomina un Commissario straordinario, con il compito di rimuovere le irregolarita' e sanare la situazione di passivita', sino alla ricostituzione degli ordinari organi di amministrazione.))
+4. Con il decreto di scioglimento il Ministro della salute, d'intesa con il Presidente della regione interessata, nomina un Commissario straordinario, con il compito di rimuovere le irregolarita' e sanare la situazione di passivita', sino alla ricostituzione degli ordinari organi di amministrazione.
 
 ------------
 
