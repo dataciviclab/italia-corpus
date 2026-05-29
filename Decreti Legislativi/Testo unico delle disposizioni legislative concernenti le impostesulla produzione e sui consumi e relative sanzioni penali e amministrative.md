@@ -4559,18 +4559,18 @@ ELENCO PRODOTTI ASSOGGETTATI AD IMPOSIZIONE ED ALIQUOTE VIGENTI ALLA DATA DI ENT
   
 PRODOTTI ENERGETICI (7)   
 benzina con piombo: lire 1.111.490 per mille litri; (22) (41) (42) (56) (58) (69) (70)   
-benzina : lire 1.003.480 per mille litri; (22) (41) (42) (56) (58) (69) (70) (95) (94) (96) (101) (102) (103) (107) (105) (106) (108) (111) (130) (134) (135) (137)
+benzina : lire 1.003.480 per mille litri; (22) (41) (42) (56) (58) (69) (70) (95) (94) (96) (101) (102) (103) (107) (105) (106) (108) (111) (130) (134) (135) (137)(136) (138)
 
-((136))
+((139))
 
   
 Petrolio lampante o cherosene:   
 usato come carburante: lire 625.620 per mille litri;   
 usato come combustibile per riscaldamento: lire 415.990 per mille litri;   
 Oli da gas o gasolio: (11) (15) (16) (17) (17a) (17b) (18a) (19) (21) (41)   
-usato come carburante: lire 747.470 per mille litri;(22)(26)(29) (41) (42) (56) (58) (69) (70) (95) (94) (96) (101) (102) (103) (107) (105) (106) (108) (111)(130) (134) (135) (137)
+usato come carburante: lire 747.470 per mille litri;(22)(26)(29) (41) (42) (56) (58) (69) (70) (95) (94) (96) (101) (102) (103) (107) (105) (106) (108) (111)(130) (134) (135) (137) (136) (138)
 
-((136))
+((139))
 
   
 usato come combustibile per riscaldamento: lire 747.470 per mille litri;   
@@ -4585,15 +4585,19 @@ b) a basso tenore di zolfo (BTZ): euro 31,38870 per mille chilogrammi;
 usati per la produzione diretta o indiretta di energia elettrica: euro 15,4 per mille chilogrammi.   
 Oli minerali greggi, naturali usati per la produzione diretta o indiretta di energia elettrica: euro 15,4 per mille chilogrammi.   
 Gas di petrolio liquefatti:   
-usato come carburante: lire 591.640 per mille kg.; (26) (41) (94) (96) (95) (101) (102) (103) (107) (105) (106)(108) (111) (134) (135) (137)
+usato come carburante: lire 591.640 per mille kg.; (26) (41) (94) (96) (95) (101) (102) (103) (107) (105) (106)(108) (111) (134) (135) (137) (136) (138)
 
-((136))
+((139))
 
   
 usato come combustibile per riscaldamento: lire 359.220 per mille kg.;   
 usato per la produzione diretta o indiretta di energia elettrica: euro 0,70 per mille chilogrammi.   
 Gas naturale:   
-per autotrazione: euro 0,00331 per metro cubo (137)   
+per autotrazione: euro 0,00331 per metro cubo (137) (138)
+
+((139))
+
+  
 per combustione per usi non domestici: euro 0,012498 per metro cubo   
 per combustione per usi domestici:   
 a) per consumi fino a 120 metri cubi annui: euro 0,044 per metro cubo;   
@@ -5137,6 +5141,16 @@ c) gas di petrolio liquefatti (GPL) usati come carburanti: 225,27 euro per mille
 AGGIORNAMENTO (138)
 
 Il [D.L. 30 aprile 2026, n. 63](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2026-04-30;63), ha disposto (con l'art. 1, comma 1, lettere a), b), c) e d)) che "In considerazione del perdurare dell'incremento dei prezzi dei prodotti energetici, le aliquote di accisa sulla benzina e sul gasolio, sui gas di petrolio liquefatti (GPL) e sul gas naturale usati come carburanti, di cui all'Allegato I al testo unico delle disposizioni legislative concernenti le imposte sulla produzione e sui consumi e relative sanzioni penali e amministrative, approvato con il [decreto legislativo 26 ottobre 1995, n. 504](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1995-10-26;504), sono rideterminate, dal 2 maggio 2026 e fino al 10 maggio 2026, nelle seguenti misure:   
+a) benzina: 622,90 euro per mille litri;   
+b) oli da gas o gasolio usato come carburante: 472,90 euro per mille litri;   
+c) gas di petrolio liquefatti (GPL) usati come carburanti: 242,77 euro per mille chilogrammi;   
+d) gas naturale usato come carburante: zero euro per metro cubo".
+
+---------------
+
+AGGIORNAMENTO (139)
+
+Il Decreto 8 maggio 2026 (in G.U. 09/05/2026, n. 106) ha disposto (con l'art.1 , comma 1, lettere a), b), c) e d)) che "Al fine di compensare le maggiori entrate dell'imposta sul valore aggiunto rispetto all'ultima previsione, derivanti dall'aumento del prezzo internazionale, espresso in euro, del petrolio greggio, a decorrere dall'11 maggio 2026 e fino al 22 maggio 2026, le aliquote di accisa, di cui all'Allegato I al testo unico delle disposizioni legislative concernenti le imposte sulla produzione e sui consumi e relative sanzioni penali e amministrative, approvato con il [decreto legislativo 26 ottobre 1995, n. 504](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1995-10-26;504) e successive modificazioni, dei sotto indicati prodotti sono rideterminate nelle seguenti misure:   
 a) benzina: 622,90 euro per mille litri;   
 b) oli da gas o gasolio usato come carburante: 472,90 euro per mille litri;   
 c) gas di petrolio liquefatti (GPL) usati come carburanti: 242,77 euro per mille chilogrammi;   
