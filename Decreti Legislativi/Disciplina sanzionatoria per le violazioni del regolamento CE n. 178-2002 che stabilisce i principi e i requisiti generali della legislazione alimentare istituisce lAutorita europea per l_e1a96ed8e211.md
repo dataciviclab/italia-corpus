@@ -68,11 +68,17 @@ Nota all'[art. 1:
 Art. 2
 ------
 
-Violazione degli obblighi derivanti dall'articolo 18 del regolamento (CE) n. 178/2002 in materia di rintracciabilita'
+(( (Violazione degli obblighi derivanti dall'articolo 18 del regolamento (CE) n. 178/2002 in materia di rintracciabilita'). ))
 
-1. Salvo che il fatto costituisca reato, gli operatori del settore alimentare e dei mangimi che non adempiono agli obblighi di cui all'[articolo 18 del regolamento (CE) n. 178/2002](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32002R0178) sono soggetti al pagamento di una sanzione amministrativa pecuniaria da settecentocinquanta euro a quattromilacinquecento euro.
+1. 
 
-((1-bis. Se le violazioni di cui al comma 1 sono commesse da imprese aventi i parametri di media e grande impresa, ai sensi della [raccomandazione 2003/361/CE della Commissione, del 6 maggio 2003](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32003H0361), le sanzioni amministrative di cui al medesimo comma 1 sono aumentate di due volte nel caso delle medie imprese e di tre volte nel caso delle grandi imprese))
+((1. Salvo che il fatto costituisca reato, gli operatori del settore alimentare e dei mangimi che non adempiono agli obblighi di cui all'[articolo 18 del regolamento (CE) n. 178/2002](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32002R0178) sono soggetti a una sanzione amministrativa pecuniaria da 6.000 euro a 48.000 euro o del 3 per cento del fatturato totale annuo realizzato nell'ultimo esercizio chiuso anteriormente all'accertamento della violazione quando tale importo e' superiore a 48.000 euro. La sanzione massima non puo' eccedere comunque 150.000 euro.))
+
+2. 
+
+((Per la determinazione delle sanzioni amministrative pecuniarie previste dal presente decreto, l'autorita' competente tiene conto della gravita' del fatto, della durata della violazione, dell'opera svolta dall'agente per l'eliminazione o l'attenuazione delle conseguenze della violazione nonche' delle condizioni economiche dello stesso. Per le violazioni di natura documentale o formale che non incidano sulla sicurezza alimentare o sulla tracciabilita' sostanziale del prodotto, l'autorita' competente, prima di procedere all'irrogazione della sanzione amministrativa, assegna all'operatore un termine di quindici giorni per la regolarizzazione spontanea dell'attivita'))
+
+.
 
 Art. 3
 ------

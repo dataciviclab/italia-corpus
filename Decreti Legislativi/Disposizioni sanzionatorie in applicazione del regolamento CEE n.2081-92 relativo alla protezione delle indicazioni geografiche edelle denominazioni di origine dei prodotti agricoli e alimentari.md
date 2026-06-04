@@ -79,11 +79,7 @@ Designazione e presentazione della denominazione del segno distintivo o del marc
 
 1. Salva l'applicazione delle norme penali vigenti, chiunque modifica, per la commercializzazione o l'immissione al consumo, la denominazione protetta, o il segno distintivo o il marchio cosi' come registrati ai sensi del [regolamento (CEE) n. 2081/92, del Consiglio, del 14 luglio 1992](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:31992R2081), per un prodotto certificato conforme, e' sottoposto alla sanzione amministrativa pecuniaria da euro tremila ad euro quindicimila.
 
-2. Salva l'applicazione delle norme penali vigenti, chiunque nella designazione e presentazione del prodotto usurpa, imita, o evoca una denominazione protetta, o il segno distintivo o il marchio, anche se l'origine vera del prodotto e' indicata o se la denominazione protetta e' una traduzione non consentita o e' accompagnata da espressioni quali genere, tipo, metodo, alla maniera, imitazione, o simili e' sottoposto alla sanzione amministrativa pecuniaria da euro duemila ad euro tredicimila.
-
-((Nel caso in cui le violazioni sono commesse da imprese aventi i parametri di media e grande impresa ai sensi della [raccomandazione 2003/361/CE della Commissione, del 6 maggio 2003](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32003H0361), le sanzioni amministrative di cui al primo periodo sono aumentate di due volte nel caso delle medie imprese e di tre volte nel caso delle grandi imprese))
-
-.
+2. Salva l'applicazione delle norme penali vigenti, chiunque nella designazione e presentazione del prodotto usurpa, imita, o evoca una denominazione protetta, o il segno distintivo o il marchio, anche se l'origine vera del prodotto e' indicata o se la denominazione protetta e' una traduzione non consentita o e' accompagnata da espressioni quali genere, tipo, metodo, alla maniera, imitazione, o simili e' sottoposto alla sanzione amministrativa pecuniaria da euro duemila ad euro tredicimila. Nel caso in cui le violazioni sono commesse da imprese aventi i parametri di media e grande impresa ai sensi della [raccomandazione 2003/361/CE della Commissione, del 6 maggio 2003](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32003H0361), le sanzioni amministrative di cui al primo periodo sono aumentate di due volte nel caso delle medie imprese e di tre volte nel caso delle grandi imprese.
 
 3. Salva l'applicazione delle norme penali vigenti, chiunque utilizza sulla confezione o sull'imballaggio, nella pubblicita', nell'informazione ai consumatori o sui documenti relativi ai prodotti considerati indicazioni false o ingannevoli relative alla provenienza, all'origine, alla natura o alle qualita' essenziali dei prodotti o utilizza le indicazioni non conformi a quanto indicato nei disciplinari di produzione della denominazione protetta e nelle relative disposizioni applicative, nonche' impiega, per la confezione, recipienti che possono indurre in errore sull'origine e' sottoposto alla sanzione amministrativa pecuniaria da euro tremila ad euro ventimila.
 
@@ -91,7 +87,11 @@ Designazione e presentazione della denominazione del segno distintivo o del marc
 
 5. Salva l'applicazione delle norme penali vigenti, chiunque usa un marchio d'impresa che riproduce od evoca una denominazione protetta, a meno che non ricorra il caso di cui all'articolo 14 del citato [regolamento (CEE) n. 2081/92](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:31992R2081), ovvero contraffa' il segno distintivo o il marchio o altro sigillo o simbolo che ha costituito oggetto della registrazione ai sensi del medesimo [regolamento (CEE) n. 2081/92](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:31992R2081), ovvero detiene o usa tale segno distintivo o marchio o altro sigillo o simbolo contraffatto, e' sottoposto alla sanzione amministrativa pecuniaria da euro cinquemila ad euro cinquantamila.
 
-6. Salva l'applicazione delle norme penali vigenti, l'uso di espressioni da parte di qualsiasi soggetto, non autorizzato dal Ministero delle politiche agricole e forestali che, nella pubblicita' e nell'informazione ai consumatori, sono dirette a garantire o ad affermare lo svolgimento di attivita' di controllo o di vigilanza su una denominazione protetta, attivita' che la normativa vigente attribuisce in via esclusiva rispettivamente alla struttura di controllo di cui all'articolo 1, comma 1, lettera a), numero 1), e al Consorzio di tutela di cui all'articolo 1, comma 1, lettera c), numero 1), e' sottoposto alla sanzione amministrativa pecuniaria di euro cinquantamila.
+6. Salva l'applicazione delle norme penali vigenti, l'uso di espressioni da parte di qualsiasi soggetto, non autorizzato dal Ministero delle politiche agricole e forestali che, nella pubblicita' e nell'informazione ai consumatori, sono dirette a garantire o ad affermare lo svolgimento di attivita' di controllo o di vigilanza su una denominazione protetta, attivita' che la normativa vigente attribuisce in via esclusiva rispettivamente alla struttura di controllo di cui all'articolo 1, comma 1, lettera a), numero 1), e al Consorzio di tutela di cui all'articolo 1, comma 1, lettera c), numero 1), e' sottoposto alla sanzione amministrativa pecuniaria
+
+((da euro diecimila a euro cinquantamila))
+
+.
 
 7. Per tutti gli illeciti previsti dal presente articolo e' disposta la sanzione accessoria dell'inibizione del comportamento sanzionato e, tenuto conto della gravita' del fatto, desunta dalle quantita' dei prodotti oggetto delle condotte sanzionate nel presente articolo e del rischio di induzione in errore dei consumatori finali, puo' essere disposta la pubblicazione del provvedimento che accerta la violazione a spese del soggetto cui la sanzione e' applicata.
 
@@ -103,9 +103,27 @@ Piano di controllo
 
 2. Salva l'applicazione delle norme penali vigenti, il soggetto immesso nel sistema di controllo che pone in essere un comportamento diretto a non consentire le ispezioni e/o a impedire il prelievo di campioni ovvero ad intralciare o ad ostacolare l'attivita' di verifica dei documenti da parte degli incaricati della struttura di controllo, di cui al comma 1 o degli agenti vigilatori del Consorzio di tutela di cui all'articolo 1, comma 1, lettera c), numero 1), e' sottoposto alla sanzione amministrativa pecuniaria, previa verifica da parte del Ministero delle politiche agricole e forestali, di euro cinquecentosedici.
 
-3. Salva l'applicazione delle norme penali vigenti, il soggetto immesso nel sistema di controllo, che non assolve agli obblighi pecuniari, in modo totale o parziale, limitatamente allo svolgimento dell'attivita' della struttura di controllo di cui all'articolo 1, comma 1, lettera a), numero 1), per la denominazione protetta rivendicata dal soggetto stesso, previa verifica da parte del Ministero delle politiche agricole e forestali, e' sottoposto alla sanzione amministrativa pecuniaria pari al triplo dell'importo dell'obbligo pecuniario accertato.
+3. 
 
-4. Salva l'applicazione delle norme penali vigenti, il soggetto immesso nel sistema di controllo di una denominazione protetta, che non assolve agli obblighi pecuniari, in modo totale o parziale, nei confronti del Consorzio di tutela di cui all'articolo 1, comma 1, lettera c), numero 1), e' sottoposto, previa verifica da parte del Ministero delle politiche agricole e forestali, alla sanzione amministrativa pecuniaria pari al triplo dell'importo dell'obbligo pecuniario accertato.
+((Salva l'applicazione delle norme penali vigenti, il soggetto immesso nel sistema di controllo, inadempiente, in modo totale o parziale, agli obblighi pecuniari nei confronti della struttura di controllo di cui all'articolo 1, comma 1, lettera a), numero 1), per le produzioni a denominazione di origine protetta e a indicazione geografica protetta rivendicate, che non esegue il pagamento dovuto entro trenta giorni dalla diffida inviata dal medesimo organismo creditore, e' soggetto alla sanzione amministrativa pecuniaria pari al triplo dell'importo dovuto))
+
+.
+
+4. 
+
+((Salva l'applicazione delle norme penali vigenti, il soggetto immesso nel sistema di controllo, inadempiente, in modo totale o parziale, agli obblighi pecuniari nei confronti del Consorzio di tutela di cui all'articolo 1, comma 1, lettera c), numero 1), per le produzioni a denominazione di origine protetta e a indicazione geografica protetta rivendicate, che non esegue il pagamento dovuto entro trenta giorni dalla diffida inviata dal medesimo organismo creditore, e' soggetto alla sanzione amministrativa pecuniaria pari al triplo dell'importo dovuto))
+
+.
+
+4-bis. 
+
+((Il responsabile delle violazioni di cui ai commi 3 e 4, oltre al pagamento della sanzione amministrativa pecuniaria applicata, provvede a versare le somme dovute per gli obblighi pecuniari non assolti, comprensive degli interessi legali, direttamente al creditore.))
+
+4-ter. 
+
+((Per gli illeciti previsti dai commi 3 e 4, con la diffida ad adempiere la struttura di controllo e il Consorzio di tutela possono inibire al soggetto inadempiente, in via cautelare, a decorrere dalla scadenza dei trenta giorni previsti e sino all'adozione del provvedimento sanzionatorio definitivo, l'utilizzo della denominazione di origine protetta e dell'indicazione geografica protetta))
+
+.
 
 5. Per tutti gli illeciti previsti ai commi 1, 3 e 4, oltre alla sanzione amministrativa pecuniaria si applica la sospensione del diritto ad utilizzare la denominazione protetta fino alla rimozione della causa che ha dato origine alla sanzione.
 
@@ -116,11 +134,18 @@ CAPO II Capo II DEGLI ORGANISMI DI CONTROLLO E DEI CONSORZI DI TUTELA
 
 Inadempienze della struttura di controllo
 
-1. Alla struttura di cui all'articolo 1, comma 1, lettera a), numero 1), che non adempie alle prescrizioni o agli obblighi, impartiti dalle competenti autorita' pubbliche, comprensivi delle disposizioni del piano di controllo e del relativo tariffario concernenti una denominazione protetta, si applica la sanzione amministrativa pecuniaria di euro cinquantamila. La stessa sanzione si applica alle strutture che continuano a svolgere attivita' incompatibili con il mantenimento del provvedimento autorizzatorio, non ottemperando alla specifica intimazione ad adempiere da parte del Ministero delle politiche agricole e forestali e fatta salva la facolta' del predetto Ministero di procedere alla sospensione o alla revoca del provvedimento autorizzatorio.
+1. Alla struttura di cui all'articolo 1, comma 1, lettera a), numero 1), che non adempie alle prescrizioni o agli obblighi, impartiti dalle competenti autorita' pubbliche, comprensivi delle disposizioni del piano di controllo e del relativo tariffario concernenti una denominazione protetta, si applica la sanzione amministrativa pecuniaria
 
-((4))
+((da euro diecimila a euro cinquantamila))
 
-2. La struttura di cui al comma 1 che, nell'espletamento delle attivita' di controllo su una denominazione protetta, discrimina tra i soggetti da immettere o tra quelli immessi nel sistema di controllo di tale denominazione oppure pone ostacoli all'esercizio del diritto a detto accesso e' sottoposto alla sanzione amministrativa pecuniaria di euro sessantaduemila.
+.  
+La stessa sanzione si applica alle strutture che continuano a svolgere attivita' incompatibili con il mantenimento del provvedimento autorizzatorio, non ottemperando alla specifica intimazione ad adempiere da parte del Ministero delle politiche agricole e forestali e fatta salva la facolta' del predetto Ministero di procedere alla sospensione o alla revoca del provvedimento autorizzatorio. (4)
+
+2. La struttura di cui al comma 1 che, nell'espletamento delle attivita' di controllo su una denominazione protetta, discrimina tra i soggetti da immettere o tra quelli immessi nel sistema di controllo di tale denominazione oppure pone ostacoli all'esercizio del diritto a detto accesso e' sottoposto alla sanzione amministrativa pecuniaria
+
+((da euro ventimila a euro sessantamila))
+
+.
 
 --------------
 
@@ -132,19 +157,27 @@ La Corte Costituzionale con sentenza 11 gennaio - 10 marzo 2023, n. 40 (in G.U. 
 
 Tutela dei Consorzi incaricati
 
-1. L'uso della denominazione protetta, nella ragione o denominazione sociale di una organizzazione diversa dal Consorzio di tutela di cui all'articolo 1, comma 1, lettera c), numero 1), trascorsi centottanta giorni dalla data di pubblicazione nella Gazzetta Ufficiale della Repubblica italiana del decreto di riconoscimento del predetto Consorzio e di affidamento dell'incarico a svolgere le funzioni di cui all'[articolo 53, comma 15, della legge 24 aprile 1998, n. 128](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1998-04-24;128~art53-com15), come sostituito dall'[articolo 14 della legge 21 dicembre 1999, n. 526](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1999-12-21;526~art14), ovvero in caso di Consorzio gia' riconosciuto, dalla data di pubblicazione del presente decreto legislativo, e' sottoposto alla sanzione amministrativa pecuniaria di euro ventiseimila ed alla sanzione accessoria dell'inibizione all'uso della ragione o denominazione sociale.
+1. L'uso della denominazione protetta, nella ragione o denominazione sociale di una organizzazione diversa dal Consorzio di tutela di cui all'articolo 1, comma 1, lettera c), numero 1), trascorsi centottanta giorni dalla data di pubblicazione nella Gazzetta Ufficiale della Repubblica italiana del decreto di riconoscimento del predetto Consorzio e di affidamento dell'incarico a svolgere le funzioni di cui all'[articolo 53, comma 15, della legge 24 aprile 1998, n. 128](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1998-04-24;128~art53-com15), come sostituito dall'[articolo 14 della legge 21 dicembre 1999, n. 526](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1999-12-21;526~art14), ovvero in caso di Consorzio gia' riconosciuto, dalla data di pubblicazione del presente decreto legislativo, e' sottoposto alla sanzione amministrativa pecuniaria
 
-2. Soggetti privati non immessi nel sistema di controllo di una denominazione protetta che svolgono attivita' rientranti tra quelle indicate al citato [comma 15 dell'articolo 53 della legge 24 aprile 1998, n. 128](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1998-04-24;128~art53-com15), come sostituito dall'[articolo 14 della legge 21 dicembre 1999, n. 526](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1999-12-21;526~art14), senza il preventivo consenso del Consorzio di tutela di cui all'articolo 1, comma 1, lettera c), numero 1), sono sottoposti alla sanzione amministrativa pecuniaria di euro diecimilacinquecento.
+((da euro cinquemila a euro venticinquemila))
 
-Note all'[art. 5:  
-- Per la legge 24 aprile 1998, n. 128](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1998-04-24;128~art5), l'art. 53, comma 15, vedi note alle premesse.  
-- Per la [legge 21 dicembre 1999, n. 526, art. 14](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1999-12-21;526~art14), vedi note alle premesse.
+ed alla sanzione accessoria dell'inibizione all'uso della ragione o denominazione sociale.
+
+2. Soggetti privati non immessi nel sistema di controllo di una denominazione protetta che svolgono attivita' rientranti tra quelle indicate al citato [comma 15 dell'articolo 53 della legge 24 aprile 1998, n. 128](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1998-04-24;128~art53-com15), come sostituito dall'[articolo 14 della legge 21 dicembre 1999, n. 526](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1999-12-21;526~art14), senza il preventivo consenso del Consorzio di tutela di cui all'articolo 1, comma 1, lettera c), numero 1), sono sottoposti alla sanzione amministrativa pecuniaria
+
+((da euro duemila a euro diecimila))
+
+.
 
 ### Art. 6
 
 Inadempienze dei Consorzi di tutela
 
-1. Al Consorzio di tutela di cui all'articolo 1, comma 1, lettera c), numero 1), che non adempie alle prescrizioni o agli obblighi derivanti dal decreto di riconoscimento o da eventuali successive disposizioni impartite dal Ministero delle politiche agricole e forestali, ovvero svolge attivita' che risulta incompatibile con il mantenimento del provvedimento di riconoscimento, non avendo ottemperato alla specifica intimazione ad adempiere e fatta salva la facolta' del Ministero delle politiche agricole e forestali di procedere alla sospensione o alla revoca del provvedimento stesso, si applica la sanzione amministrativa pecuniaria di euro cinquantamila.
+1. Al Consorzio di tutela di cui all'articolo 1, comma 1, lettera c), numero 1), che non adempie alle prescrizioni o agli obblighi derivanti dal decreto di riconoscimento o da eventuali successive disposizioni impartite dal Ministero delle politiche agricole e forestali, ovvero svolge attivita' che risulta incompatibile con il mantenimento del provvedimento di riconoscimento, non avendo ottemperato alla specifica intimazione ad adempiere e fatta salva la facolta' del Ministero delle politiche agricole e forestali di procedere alla sospensione o alla revoca del provvedimento stesso, si applica la sanzione amministrativa pecuniaria
+
+((da euro diecimila a euro cinquantamila))
+
+.
 
 2. Il Consorzio di cui al comma 1 che, nell'espletamento delle sue attivita' pone in essere comportamenti che hanno l'effetto di:
 
@@ -152,10 +185,11 @@ a) discriminare tra i soggetti associati appartenenti ad uno stesso segmento del
 
 b) porre ostacoli all'esercizio del diritto all'accesso al Consorzio;
 
-c) violare le disposizioni impartite con il [decreto del Ministro delle politiche agricole e forestali 12 settembre 2000, n. 410](http://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.politiche.agricole.forestali:decreto:2000-09-12;410), concernente la ripartizione dei costi, e' sottoposto alla sanzione amministrativa pecuniaria di euro sessantaduemila.
+c) violare le disposizioni impartite con il [decreto del Ministro delle politiche agricole e forestali 12 settembre 2000, n. 410](http://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.politiche.agricole.forestali:decreto:2000-09-12;410), concernente la ripartizione dei costi, e' sottoposto alla sanzione amministrativa pecuniaria
 
-Nota all'[art. 6:  
-- Per il decreto del Ministro delle politiche agricole e forestali 12 settembre 2000, n. 410](http://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.politiche.agricole.forestali:decreto:2000-09-12;410~art6), vedi note alle premesse.
+((da euro ventimila a euro sessantamila))
+
+.
 
 CAPO III Capo III DELLE CIRCOSTANZE
 -----------------------------------
@@ -164,7 +198,11 @@ CAPO III Capo III DELLE CIRCOSTANZE
 
 Altri illeciti
 
-1. Il mancato rispetto delle inibizioni previste agli articoli 1 e 2 e' punito con la sanzione amministrativa pecuniaria di euro cinquantamila.
+1. Il mancato rispetto delle inibizioni previste agli articoli 1 e 2 e' punito con la sanzione amministrativa pecuniaria
+
+((da euro diecimila a euro cinquantamila))
+
+.
 
 2. Le sanzioni di cui agli articoli da 1 a 6, sono aumentate di tre volte in caso di reiterazione dello stesso illecito.
 
@@ -191,25 +229,31 @@ E' fatto salvo l'esercizio degli specifici poteri di accertamento previsti dalle
 
 ### Art. 9
 
-Competenza del Ministero delle politiche agricole e forestali
+(( (Competenza del Ministero dell'agricoltura, della sovranita' alimentare e delle foreste). ))
 
-1. Fatti salvi i poteri attribuiti ai competenti organi dello Stato, l'accertamento delle violazioni previste all'articolo 3, commi 1, 2 e 3 e all'articolo 4 e' di competenza del Ministero delle politiche agricole e forestali.
+1. 
+
+((1. Fatti salvi i poteri attribuiti ai competenti organi dello Stato, l'accertamento delle violazioni di cui agli articoli 3, 4 e 6 e l'irrogazione delle relative sanzioni e' di competenza del Ministero dell'agricoltura, della sovranita' alimentare e delle foreste.))
+
+2. 
+
+((Il Ministero dell'agricoltura, della sovranita' alimentare e delle foreste e' altresi' competente a irrogare le sanzioni per le violazioni accertate dai soggetti di cui all'articolo 8 nonche' dagli organi competenti in materia di prodotti a denominazione di origine protetta (DOP) e indicazione geografica protetta (IGP) ))
+
+.
 
 ### Art. 10
 
-Competenza del Ministero delle politiche agricole e forestali
+(( (Criteri per la determinazione delle sanzioni). ))
 
-1. L'accertamento delle violazioni previste all'articolo 3, comma 4, e all'articolo 6 e' di competenza del Ministero delle politiche agricole e forestali.
+1. 
+
+((1. Per la determinazione delle sanzioni amministrative pecuniarie previste dal presente decreto, l'autorita' competente tiene conto della gravita' del fatto, della durata della violazione, dell'opera svolta dall'agente per l'eliminazione o l'attenuazione delle conseguenze della violazione nonche' delle condizioni economiche dello stesso))
+
+.
 
 ### Art. 11
 
-Competenza del Ministero delle politiche agricole e forestali
-
-1. La competenza ad irrogare le sanzioni, accertate dai soggetti indicati agli articoli 8, 9 e 10, nonche' quelle accertate dagli organi competenti ai sensi delle norme vigenti in materia di prodotti DOP ed IGP, e' attribuita al Ministero delle politiche agricole e forestali.
-
-2. Per le violazioni di cui all'articolo 3, commi 3 e 4, il soggetto sanzionato, oltre al pagamento della sanzione amministrativa pecuniaria prevista, dovra' provvedere a versare le somme dovute, comprensive degli interessi legali, direttamente al creditore.
-
-3. L'attuazione delle competenze di cui agli articoli 9, 10 e 11, comma 1, del Ministero delle politiche agricole e forestali avviene nell'ambito delle attivita' previste dalle disposizioni vigenti.
+((ARTICOLO ABROGATO DALLA [L. 21 APRILE 2026, N. 75](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2026-04-21;75)))
 
 ### Art. 11-bis
 

@@ -265,190 +265,307 @@ nel registro dei pescatori da quindici a trenta giorni e, in caso di recidiva, d
 
 ### Art. 10
 
-(( (Illeciti amministrativi). ))
+(( (Pesca senza licenza o autorizzazione). ))
 
-((
+1. 
 
-1. Al fine di tutelare le risorse biologiche il cui ambiente abituale o naturale di vita sono le acque marine, nonche' di prevenire, scoraggiare ed eliminare la pesca illegale, non dichiarata e non regolamentata, e' fatto divieto di:
-
-a) effettuare la pesca con unita' iscritte nei registri di cui all'[articolo 146 del codice della navigazione](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-03-30;327~art146), senza essere in possesso di una licenza di pesca in corso di validita' o di un'autorizzazione in corso di validita';
-
-b) pescare in zone e tempi vietati dalle normative europea e nazionale vigenti;
-
-c) detenere, trasportare e commerciare il prodotto pescato in zone e tempi vietati dalle normative europea e nazionale vigenti;
-
-d) pescare direttamente stock ittici per i quali la pesca e' sospesa ai fini del ripopolamento per la ricostituzione degli stessi;
-
-e) pescare quantita' superiori a quelle autorizzate, per ciascuna specie, dalle normative europea e nazionale vigenti;
-
-f) effettuare catture accessorie o accidentali in quantita' superiori a quelle autorizzate, per ciascuna specie, dalle normative europea e nazionale vigenti;
-
-g) pescare direttamente uno stock ittico per il quale e' previsto un contingente di cattura, senza disporre di tale contingente ovvero dopo che il medesimo e' andato esaurito;
-
-h) pescare con attrezzi o strumenti vietati dalle normative europea e nazionale o non espressamente permessi, o collocare apparecchi fissi o mobili ai fini di pesca senza la necessaria autorizzazione o in difformita' da questa;
-
-i) detenere attrezzi non consentiti, non autorizzati o non conformi alla normativa vigente e detenere, trasportare o commerciare il prodotto di tale pesca;
-
-l) manomettere, sostituire, alterare o modificare l'apparato motore dell'unita' da pesca, al fine di aumentarne la potenza oltre i limiti massimi indicati nella relativa certificazione tecnica;
-
-m) navigare con un dispositivo di localizzazione satellitare manomesso, alterato o modificato, nonche' interrompere volontariamente il segnale, ovvero navigare, in aree marine soggette a misure di restrizione dell'attivita' di pesca, con rotte o velocita' difformi da quelle espressamente disposte dalle normative europea e nazionale, accertate con i previsti dispositivi di localizzazione satellitare;
-
-n) falsificare, occultare od omettere la marcatura, l'identita' o i contrassegni di individuazione dell'unita' da pesca, ovvero, dove previsto, degli attrezzi da pesca;
-
-o) violare gli obblighi previsti dalle pertinenti normative europea e nazionale vigenti in materia di registrazione e dichiarazione dei dati relativi alle catture e agli sbarchi, compresi i dati da trasmettere attraverso il sistema di controllo dei pescherecci via satellite;
-
-p) violare gli obblighi previsti dalle pertinenti normative europea e nazionale vigenti in materia di registrazione e dichiarazione dei dati relativi alle catture e agli sbarchi di specie appartenenti a stock oggetto di piani pluriennali o pescate fuori dalle acque mediterranee;
-
-q) effettuare operazioni di trasbordo o partecipare a operazioni di pesca congiunte con pescherecci sorpresi ad esercitare pesca illegale, non dichiarata e non regolamentata (INN) ai sensi del [regolamento (CE) n. 1005/2008 del Consiglio, del 29 settembre 2008](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32008R1005), in particolare con quelli inclusi nell'elenco dell'Unione delle navi INN o nell'elenco delle navi INN di un'organizzazione regionale per la pesca, o effettuare prestazione di assistenza o rifornimento a tali navi;
-
-r) utilizzare un peschereccio privo di nazionalita' e quindi da considerare nave senza bandiera ai sensi del diritto vigente;
-
-s) occultare, manomettere o eliminare elementi di prova relativi a un'indagine posta in essere dagli ispettori della pesca, dagli organi deputati alla vigilanza ed al controllo e dagli osservatori, nell'esercizio delle loro funzioni, nel rispetto delle normative europea e nazionale vigenti;
-
-t) intralciare l'attivita' posta in essere dagli ispettori della pesca, dagli organi deputati alla vigilanza ed al controllo e dagli osservatori, nell'esercizio delle loro funzioni, nel rispetto delle normative europea e nazionale vigenti;
-
-u) violare gli obblighi previsti dalle pertinenti normative europea e nazionale relative a specie appartenenti a stock ittici oggetto di piani pluriennali, fatto salvo quanto previsto alla lettera p);
-
-v) commercializzare il prodotto della pesca proveniente da attivita' di pesca INN ai sensi del [regolamento (CE) n. 1005/2008 del Consiglio, del 29 settembre 2008](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32008R1005), fatta salva l'applicazione delle norme in materia di alienazione dei beni confiscati da parte delle Autorita' competenti;
-
-z) violare gli obblighi previsti dalle pertinenti normative europea e nazionale vigenti in materia di etichettatura e tracciabilita' nonche' gli obblighi relativi alle corrette informazioni al consumatore finale, relativamente a tutte le partite di prodotti della pesca e dell'acquacoltura, in ogni fase della produzione, della trasformazione e della distribuzione, dalla cattura o raccolta alla vendita al dettaglio;
-
-aa) violare le prescrizioni delle normative europea e nazionale vigenti in materia di obbligo di sbarco.
-
-2. Fatte salve le specie ittiche soggette all'obbligo di sbarco ai sensi delle normative europee e nazionali vigenti, e' fatto divieto di:
-
-a) detenere, sbarcare e trasbordare esemplari di specie ittiche di taglia inferiore alla taglia minima di riferimento per la conservazione, in violazione della normativa vigente;
-
-b) trasportare, commercializzare e somministrare esemplari di specie ittiche di taglia inferiore alla taglia minima di riferimento per la conservazione, in violazione della normativa vigente.
-
-3. In caso di cattura, accidentale o accessoria, di specie non soggette all'obbligo di sbarco, la cui taglia e' inferiore alla taglia minima di riferimento per la conservazione, e' fatto divieto di conservarne gli esemplari a bordo. Le catture di cui al presente comma devono essere rigettate in mare.
-
-4. In caso di cattura, accidentale o accessoria, di specie soggette all'obbligo di sbarco, la cui taglia e' inferiore alla taglia minima di riferimento per la conservazione, e' fatto divieto di trasportarne e commercializzarne gli esemplari al fine del consumo umano diretto.
-
-5. In caso di cattura accidentale o accessoria di esemplari di cui al comma 4, restano salvi gli obblighi relativi alla comunicazione preventiva alla competente Autorita' marittima secondo modalita', termini e procedure stabiliti con successivo decreto del Ministro delle politiche agricole alimentari e forestali.
-
-6. I divieti di cui ai commi 1, lettere b), c), d), g) e h), 2, 3 e 4 non riguardano la pesca scientifica, nonche' le altre attivita' espressamente autorizzate ai sensi delle vigenti normative europea e nazionale. Fatto salvo quanto previsto all'articolo 6, comma 3, resta vietata qualsiasi forma di commercializzazione per i prodotti di tale tipo di pesca ed e' consentito detenere e trasportare le specie pescate per soli fini scientifici.
-
-7. Fatto salvo quanto previsto al comma 1, lettera z), e fermo restando quanto previsto dall'[articolo 16 del regolamento (CE) n. 1967/2006 del Consiglio, del 21 dicembre 2006](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32006R1967), le disposizioni di cui al presente articolo non si applicano ai prodotti dell'acquacoltura e a quelli ad essa destinati.
-
-))
+((Salvo che il fatto costituisca reato, chiunque svolge attivita' di pesca con unita' iscritte nei registri di cui all'[articolo 146 del codice della navigazione](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-03-30;327~art146) senza essere in possesso di una licenza di pesca in corso di validita' o di un'autorizzazione prevista da disposizioni europee o nazionali in corso di validita' e' soggetto al pagamento della sanzione amministrativa pecuniaria da 1.000 euro a 6.000 euro. La violazione costituisce infrazione grave e comporta l'assegnazione di 7 punti alla licenza di pesca e al marittimo imbarcato con la funzione di comandante dell'unita' da pesca, qualora la validita' del titolo sia scaduta da oltre trenta giorni))
 
 ### Art. 11
 
-(Sanzioni amministrative principali)
+(( (Pesca in zone e tempi vietati).))
 
-((1. Salvo che il fatto costituisca reato, chiunque viola i divieti posti dall'articolo 10, comma 1, lettere a), b), c), d), e), g), h), i), l), m), n), p), q), r), s), t), u) e v), ovvero non adempie agli obblighi di cui al comma 5 del medesimo articolo, e' soggetto al pagamento della sanzione amministrativa pecuniaria da 1.000 euro a 6.000 euro. I predetti importi sono aumentati fino alla meta' se la violazione e' commessa nei cinque anni successivi alla prima violazione. Le predette sanzioni sono aumentate di un terzo nel caso in cui le violazioni dei divieti posti dall'articolo 10, comma 1, lettere a), b), c), d), e), g), h), p), q), u) e v), abbiano a oggetto le specie ittiche tonno rosso (Thunnus thynnus) e pesce spada (Xiphias gladius) ))
+1. 
 
-2. A decorrere dal 1º gennaio 2017, salvo che il fatto costituisca reato, chiunque viola il divieto di cui all'articolo 10, comma 1, lettera aa), e' soggetto al pagamento della sanzione amministrativa pecuniaria da 2.000 euro a 12.000 euro.
+((Salvo che il fatto costituisca reato, chiunque svolge attivita' di pesca in zone e tempi vietati dalle normative europea e nazionale vigenti e' soggetto al pagamento della sanzione amministrativa pecuniaria da 1.000 euro a 6.000 euro. La violazione costituisce infrazione grave e comporta l'assegnazione di 6 punti alla licenza di pesca e al marittimo imbarcato con la funzione di comandante dell'unita' da pesca, nei seguenti casi:   
+a) pesca in aree marine protette;   
+b) pesca a una distanza superiore a 0,5 miglia dal confine interno di ogni altra zona vietata;   
+c) quando la navigazione e' iniziata in tempi vietati.))
 
-3. Chiunque viola il divieto posto dall'articolo 10, comma 1, lettera o), e' soggetto al pagamento della sanzione amministrativa pecuniaria da 1.000 euro a 6.000 euro.
+2. 
 
-((3-bis. Chiunque viola il divieto posto dall'articolo 10, comma 1, lettera f), e' soggetto al pagamento della sanzione amministrativa pecuniaria da 500 euro a 2.000 euro))
+((Salvo che il fatto costituisca reato, chiunque detiene, trasporta e commercia il prodotto pescato in zone e tempi vietati dalle normative europea e nazionale vigenti e' soggetto al pagamento della sanzione amministrativa pecuniaria da 1.000 euro a 6.000 euro.))
 
-4. Salvo che il fatto costituisca reato, chiunque viola il divieto posto dall'articolo 10, comma 1, lettera z), e' soggetto al pagamento della sanzione amministrativa pecuniaria da 750 euro a 4.500 euro.
+3. 
 
-((
+((Salvo che il fatto costituisca reato, chiunque pesca direttamente stock ittici per i quali l'attivita' di pesca e' sospesa ai fini del ripopolamento per la ricostituzione degli stessi e' soggetto al pagamento della sanzione amministrativa pecuniaria da 1.000 euro a 6.000 euro. La violazione costituisce infrazione grave e comporta l'assegnazione di 7 punti alla licenza di pesca e al marittimo imbarcato con la funzione di comandante dell'unita' da pesca, qualora il prodotto ittico prelevato superi 100 kg di peso))
 
-5. Salvo che il fatto costituisca reato, chiunque viola le disposizioni dell'articolo 10, commi 2, lettere a) e b), 3, 4 e 6, e' soggetto al pagamento delle seguenti sanzioni amministrative pecuniarie:
-
-a) fino a 5 kg di pescato di taglia inferiore alla taglia minima di riferimento per la conservazione: sanzione amministrativa pecuniaria compresa tra 100 euro e 600 euro;
-
-b) oltre 5 kg e fino a 25 kg di pescato di taglia inferiore alla taglia minima di riferimento per la conservazione: sanzione amministrativa pecuniaria compresa tra 250 euro e 1.500 euro;
-
-c) oltre 25 kg e fino a 100 kg di pescato di taglia inferiore alla taglia minima di riferimento per la conservazione: sanzione amministrativa pecuniaria compresa tra 2.000 euro e 12.000 euro;
-
-d) oltre 100 kg e fino a 200 kg di pescato di taglia inferiore alla taglia minima di riferimento per la conservazione: sanzione amministrativa pecuniaria compresa tra 5.000 euro e 30.000 euro;
-
-e) oltre 200 kg di pescato di taglia inferiore alla taglia minima di riferimento per la conservazione: sanzione amministrativa pecuniaria compresa tra 12.500 euro e 75.000 euro.
-
-5-bis. Le sanzioni di cui al comma 5 sono aumentate di un terzo qualora le specie ittiche di taglia inferiore alla taglia minima di riferimento per la conservazione siano il tonno rosso (Thunnus thynnus) o il pesce spada (Xiphias gladius) ))
-
-6. Ai fini della determinazione delle sanzioni di cui
-
-((ai commi 5 e 5-bis, al peso del prodotto ittico pescato sotto la taglia minima di riferimento per la conservazione))
-
-deve essere applicata una riduzione a favore del trasgressore pari al 10 per cento del peso rilevato. Eventuali decimali risultanti da questa operazione non possono essere oggetto di ulteriore arrotondamento, ne' e' possibile tener conto di ulteriori percentuali di riduzione collegate all'incertezza della misura dello strumento, che sono gia' comprese nella percentuale sopra indicata.
-
-7. Fermo restando quanto stabilito all'articolo 10, commi 2, 3 e 4, non e' applicata sanzione se la cattura accessoria o accidentale di esemplari di specie di taglia inferiore alla taglia minima di riferimento per la conservazione e' stata realizzata con attrezzi conformi alle normative europea e nazionale, autorizzati dalla licenza di pesca.
-
-8. E' soggetto al pagamento della sanzione amministrativa pecuniaria da 2.000 euro a 6.000 euro chiunque esercita la pesca marittima senza la preventiva iscrizione nel registro dei pescatori marittimi.
-
-9. E' soggetto al pagamento della sanzione amministrativa pecuniaria da 4.000 euro a 12.000 euro chiunque viola il divieto di cui all'articolo 6, comma 3.
-
-10. E' soggetto al pagamento della sanzione amministrativa pecuniaria da 1.000 euro a 3.000 euro chiunque:
-
-a) viola le norme vigenti relative all'esercizio della pesca sportiva, ricreativa e subacquea.
-
-((Le predette sanzioni sono aumentate di un terzo nel caso in cui la violazione abbia ad oggetto le specie ittiche tonno rosso (Thunnus thynnus) e pesce spada (Xiphias gladius) ))
-
-;
-
-b) cede un fucile subacqueo o altro attrezzo similare a persona minore degli anni sedici, ovvero affida un fucile subacqueo o altro attrezzo similare a persona minore degli anni sedici, se questa ne faccia uso.
-
-11. Fermo restando quanto previsto dalla normativa vigente in materia di limitazione di cattura e fatto salvo il caso in cui tra le catture vi sia un singolo pesce di peso superiore a 5 kg, nel caso in cui il quantitativo totale di prodotto della pesca, raccolto o catturato giornalmente, sia superiore a 5 kg, il pescatore sportivo, ricreativo e subacqueo e' soggetto al pagamento della sanzione amministrativa pecuniaria compresa tra 500 euro e 50.000 euro, da applicare secondo i criteri di seguito stabiliti:
-
-a) oltre 5 kg e fino a 10 kg di pescato: sanzione amministrativa pecuniaria compresa tra 500 euro e 3.000 euro;
-
-b) oltre 10 kg e fino a 50 kg di pescato: sanzione amministrativa pecuniaria compresa tra 2.000 euro e 12.000 euro;
-
-c) oltre 50 kg di pescato: sanzione amministrativa pecuniaria compresa tra 12.000 euro e 50.000 euro.
-
-((12. Le sanzioni di cui al comma 11 sono aumentate di un terzo nel caso in cui le violazioni ivi richiamate abbiano a oggetto le specie ittiche tonno rosso (Thunnus thynnus) e pesce spada (Xiphias gladius). Ai fini della determinazione della sanzione si applicano le disposizioni del comma 6))
-
-13. Fermo restando quanto previsto dalla normativa vigente, agli esercizi commerciali che acquistano pescato in violazione delle disposizioni dei commi 10 e 11 si applica la sanzione della sospensione dell'esercizio commerciale da cinque a dieci giorni lavorativi.
-
-14. L'armatore e' solidalmente e civilmente responsabile con il comandante della nave da pesca per le sanzioni amministrative pecuniarie inflitte ai propri ausiliari e dipendenti per illeciti commessi nell'esercizio della pesca marittima.
+.
 
 ### Art. 12
 
-(Sanzioni amministrative accessorie)
+(( (Pesca di quantita' superiori a quelle autorizzate).))
 
-1. All'applicazione delle sanzioni di cui all'articolo 11, commi 1, 3, 4, 5, 8, 9, 10, lettera a), e 11, consegue l'irrogazione delle seguenti sanzioni amministrative accessorie:
+1. 
 
-a) la confisca del pescato. Fatte salve le previsioni di cui all'[articolo 15 del regolamento (UE) n. 1380/2013 del Parlamento europeo e del Consiglio, dell'11 dicembre 2013](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32013R1380), e' sempre disposta la confisca degli esemplari di specie di taglia inferiore alla taglia minima di riferimento per la conservazione, stabilita dalle normative europea e nazionale;
+((Salvo che il fatto costituisca reato, chiunque pesca quantita' superiori a quelle autorizzate, per ciascuna specie, dalle normative europea e nazionale vigenti, e' soggetto al pagamento della sanzione amministrativa pecuniaria da 1.000 euro a 6.000 euro.))
 
-b) la confisca degli attrezzi, degli strumenti e degli apparecchi usati o detenuti, in contrasto con le pertinenti normative europea e nazionale. Gli attrezzi confiscati non consentiti, non autorizzati o non conformi alla normativa vigente sono distrutti e le spese relative alla custodia e demolizione sono poste a carico del contravventore;
+2. 
 
-c) l'obbligo di rimettere in pristino le zone in cui sono stati collocati apparecchi fissi o mobili di cui all'articolo 10, comma 1, lettera h).
+((Chiunque effettua catture accessorie o accidentali in quantita' superiori a quelle autorizzate, per ciascuna specie, dalle normative europea e nazionale vigenti, e' soggetto al pagamento della sanzione amministrativa pecuniaria da 500 euro a 2.000 euro.))
 
-2. Qualora le violazioni di cui all'articolo 10, comma 1, lettere h) ed i), siano commesse con reti da posta derivante, e' sempre disposta nei confronti del titolare dell'impresa di pesca, quale obbligato in solido, la sospensione della licenza di pesca per un periodo da tre mesi a sei mesi e, in caso di recidiva, la revoca della medesima licenza, anche ove non venga emessa l'ordinanza di ingiunzione.
+3. 
 
-((3. Qualora le violazioni di cui all'articolo 10, commi 1, lettere b), c), d), e), f), g), h), p) e q), 2, 3, 4 e 5, abbiano a oggetto le specie ittiche tonno rosso (Thunnus thynnus) e pesce spada (Xiphias gladius), in caso di recidiva e' disposta nei confronti del titolare dell'impresa di pesca, quale obbligato in solido, la sospensione della licenza di pesca per un periodo di tre mesi anche ove non venga emessa l'ordinanza di ingiunzione e, in caso di ulteriore violazione delle predette disposizioni, la revoca della medesima licenza anche ove non venga emessa l'ordinanza di ingiunzione))
+((Salvo che il fatto costituisca reato, chiunque pesca direttamente uno stock ittico per il quale e' previsto un contingente di cattura senza disporre di tale contingente ovvero dopo che il medesimo e' andato esaurito e' soggetto al pagamento della sanzione amministrativa pecuniaria da 1.000 euro a 6.000 euro. La violazione costituisce infrazione grave e comporta l'assegnazione di 6 punti alla licenza di pesca e al marittimo imbarcato con la funzione di comandante dell'unita' da pesca, qualora il prodotto ittico prelevato superi 100 kg di peso, salvo il caso di un unico esemplare di peso superiore))
 
-4. Qualora le violazioni di cui all'articolo 10, commi 1, lettere a), b), c), d), g), h), s) e t), 2, 3, 4 e 5, siano commesse mediante l'impiego di una imbarcazione non espressamente autorizzata all'esercizio della pesca marittima professionale, e' sempre disposta nei confronti dei trasgressori la sospensione
-
-((dell'iscrizione))
-
-nel registro dei pescatori da quindici a trenta giorni e, in caso di recidiva, da trenta giorni a tre mesi, anche ove non venga emessa l'ordinanza di ingiunzione.
-
-5. Con decreto del Ministro delle politiche agricole alimentari e forestali sono individuati modalita', termini e procedure per l'applicazione della sospensione di cui al comma 4.
+.
 
 ### Art. 13
 
-Disposizioni procedurali
+(( (Uso o detenzione di attrezzi o strumenti da pesca vietati).))
 
-1. Le sanzioni amministrative principali ed accessorie previste per le violazioni di cui al presente decreto si applicano secondo le modalita' di cui alla [legge 24 novembre 1981, n. 689](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-11-24;689), e successive modificazioni.
+1. 
 
-2. In relazione alle violazioni individuate dal presente decreto, l'autorita' competente a ricevere il rapporto di cui all'[articolo 17 della legge 24 novembre 1981, n. 689](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-11-24;689~art17), e successive modificazioni, e' il Capo del compartimento marittimo.
+((Salvo che il fatto costituisca reato, chiunque svolge attivita' di pesca con attrezzi o strumenti vietati o non conformi alla normativa vigente o colloca apparecchi fissi o mobili, ai fini di pesca, senza la necessaria autorizzazione o in difformita' da questa e' soggetto al pagamento della sanzione amministrativa pecuniaria da 1.000 euro a 6.000 euro. In caso di reti da posta derivanti o ferrettare non conformi, la violazione comporta la sospensione della licenza di pesca per un periodo di tre mesi o, se la violazione e' commessa nei cinque anni successivi alla prima violazione, la revoca della medesima licenza, anche nel caso in cui non sia stata emessa ordinanza di ingiunzione. Le violazioni previste dal presente comma costituiscono infrazioni gravi e comportano l'assegnazione di 4 punti alla licenza di pesca e al marittimo imbarcato con la funzione di comandante dell'unita' da pesca, nei seguenti casi:   
+a) utilizzo di reti da posta derivanti o ferrettare non conformi;   
+b) utilizzo di attrezzi le cui caratteristiche di selettivita' richieste dalle norme siano modificate riducendone le dimensioni di tre millimetri o del 5 per cento se maggiore;   
+c) utilizzo di attrezzi con ami o altri strumenti o apparecchi da pesca in quantita' superiori del 10 per cento rispetto al consentito.))
 
-Note all'art. 13:   
-- Per i riferimenti alla [legge n. 689 del 1981](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981;689), si veda nelle note alle premesse.
+2. 
+
+((Salvo che il fatto costituisca reato, chiunque detiene attrezzi non consentiti, non autorizzati o non conformi alla normativa vigente o detiene, trasporta o commercia il prodotto della pesca che sia avvenuta con tali attrezzi e' soggetto al pagamento della sanzione amministrativa pecuniaria da 1.000 euro a 6.000 euro.  
+In caso di reti da posta derivanti o ferrettare non conformi, la violazione costituisce infrazione grave e comporta l'assegnazione di 4 punti alla licenza di pesca e al marittimo imbarcato con la funzione di comandante dell'unita' da pesca e la sospensione della licenza di pesca per un periodo di tre mesi o, se la violazione e' commessa nei cinque anni successivi alla prima violazione, la revoca della medesima licenza, anche nel caso in cui non sia stata emessa ordinanza di ingiunzione.))
+
+3. 
+
+((Chiunque falsifica, occulta o omette la marcatura, l'identita' o i contrassegni di individuazione dell'unita' da pesca ovvero, ove previsto, degli attrezzi da pesca e' soggetto al pagamento della sanzione amministrativa pecuniaria da 1.000 euro a 6.000 euro. La violazione costituisce infrazione grave e comporta l'assegnazione di 5 punti alla licenza di pesca e al marittimo imbarcato con la funzione di comandante dell'unita' da pesca))
+
+.
+
+### Art. 13-bis
+
+(( (Apparato motore, dispositivi di geolocalizzazione e registrazione delle catture).))
+
+1. 
+
+((Salvo che il fatto costituisca reato, chiunque manomette, sostituisce, altera o modifica l'apparato motore dell'unita' da pesca, al fine di aumentarne la potenza oltre i limiti massimi indicati nella relativa certificazione tecnica, e' soggetto al pagamento della sanzione amministrativa pecuniaria da 1.000 euro a 6.000 euro.))
+
+2. 
+
+((Salvo che il fatto costituisca reato, chiunque naviga con un dispositivo di geolocalizzazione manomesso, alterato o modificato, nonche' interrompe volontariamente il segnale, ovvero naviga in aree marine soggette a misure di restrizione dell'attivita' di pesca, con rotte o velocita' difformi da quelle espressamente disposte dalle normative europea e nazionale, accertate con sistemi di localizzazione satellitare, e' soggetto al pagamento della sanzione amministrativa pecuniaria da 1.000 euro a 6.000 euro.))
+
+3. 
+
+((Chiunque viola gli obblighi previsti dalle vigenti normative europea e nazionale in materia di registrazione e dichiarazione dei dati relativi alle catture e agli sbarchi, compresi i dati da trasmettere attraverso il sistema di controllo dei pescherecci via satellite, e' soggetto al pagamento della sanzione amministrativa pecuniaria da 1.000 euro a 6.000 euro. La violazione costituisce infrazione grave e comporta l'assegnazione di 3 punti alla licenza di pesca e al marittimo imbarcato con la funzione di comandante dell'unita' da pesca, qualora i prodotti della pesca oggetto dell'illecito rappresentino almeno il 10 per cento del peso totale dei prodotti di specie.))
+
+4. 
+
+((Salvo che il fatto costituisca reato, chiunque viola gli obblighi previsti dalle vigenti normative europea e nazionale in materia di registrazione e dichiarazione dei dati relativi alle catture e agli sbarchi di specie appartenenti a stock oggetto di piani pluriennali o pescate fuori dal Mar Mediterraneo e' soggetto al pagamento della sanzione amministrativa pecuniaria da 1.000 euro a 6.000 euro. La violazione costituisce infrazione grave e comporta l'assegnazione di 3 punti alla licenza di pesca e al marittimo imbarcato con la funzione di comandante dell'unita' da pesca, qualora i prodotti della pesca oggetto dell'illecito rappresentino almeno il 10 per cento del peso totale dei prodotti di specie.))
+
+5. 
+
+((Salvo che il fatto costituisca reato, chiunque viola le prescrizioni delle normative europea e nazionale vigenti in materia di obbligo di sbarco e' soggetto al pagamento della sanzione amministrativa pecuniaria da 2.000 euro a 12.000 euro. La violazione costituisce infrazione grave e comporta l'assegnazione di 3 punti alla licenza di pesca e al marittimo imbarcato con la funzione di comandante dell'unita' da pesca.))
+
+### Art. 13-ter
+
+(( (Contrasto alla pesca illegale, non dichiarata e non regolamentata).))
+
+1. 
+
+((Al fine di prevenire, scoraggiare ed eliminare la pesca illegale, non dichiarata e non regolamentata (INN), ai sensi del [regolamento (CE) n. 1005/2008 del Consiglio, del 29 settembre 2008](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32008R1005), e' fatto divieto di:   
+a) effettuare operazioni di trasbordo o partecipare a operazioni di pesca congiunta con pescherecci che esercitano la pesca INN, inclusi nell'elenco dell'Unione europea delle navi INN o nell'elenco delle navi INN di un'organizzazione regionale per la pesca;   
+b) effettuare prestazione di assistenza o rifornimento alle navi di cui alla lettera a);   
+c) coadiuvare la pesca INN o svolgere attivita' a bordo in qualita' di operatore o di proprietario effettivo di peschereccio inserito nell'elenco dell'Unione europea delle navi INN.))
+
+2. 
+
+((Chiunque viola i divieti di cui al comma 1 e' soggetto al pagamento della sanzione amministrativa pecuniaria da 1.000 euro a 6.000 euro. Le violazioni costituiscono infrazioni gravi e comportano l'assegnazione di 7 punti alla licenza di pesca e al marittimo imbarcato con la funzione di comandante dell'unita' da pesca.))
+
+3. 
+
+((Salvo che il fatto costituisca reato, chiunque utilizza un peschereccio privo di nazionalita' e quindi da considerare nave senza bandiera ai sensi del diritto vigente e' soggetto al pagamento della sanzione amministrativa pecuniaria da 1.000 euro a 6.000 euro. Le violazioni costituiscono infrazioni gravi e comportano l'assegnazione di 7 punti alla licenza di pesca e al marittimo imbarcato con la funzione di comandante dell'unita' da pesca.))
+
+4. 
+
+((Salvo che il fatto costituisca reato, chiunque commercializza il prodotto della pesca proveniente da attivita' di pesca INN, ai sensi del [regolamento (CE) n. 1005/2008 del Consiglio, del 29 settembre 2008](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32008R1005), ferma restando l'applicazione delle norme in materia di alienazione dei beni confiscati da parte delle autorita' competenti, e' soggetto al pagamento della sanzione amministrativa pecuniaria da 1.000 euro a 6.000 euro.))
+
+### Art. 13-quater
+
+(( (Intralcio all'attivita' di ispezione degli organi deputati alla vigilanza e al controllo).))
+
+1. 
+
+((Salvo che il fatto costituisca reato, chiunque occulta, manomette o elimina elementi di prova relativi a un'indagine condotta dagli ispettori della pesca, dagli organi deputati alla vigilanza e al controllo e dagli osservatori, nell'esercizio delle loro funzioni, nel rispetto delle normative europea e nazionale vigenti, e' soggetto al pagamento della sanzione amministrativa pecuniaria da 1.000 euro a 6.000 euro. La violazione costituisce infrazione grave e comporta l'assegnazione di 5 punti alla licenza di pesca e al marittimo imbarcato con la funzione di comandante dell'unita' da pesca.))
+
+2. 
+
+((Salvo che il fatto costituisca reato, chiunque intralcia l'attivita' condotta dagli ispettori della pesca, dagli organi deputati alla vigilanza e al controllo e dagli osservatori, nell'esercizio delle loro funzioni, nel rispetto delle normative europea e nazionale vigenti, e' soggetto al pagamento della sanzione amministrativa pecuniaria da 1.000 euro a 6.000 euro. La violazione costituisce infrazione grave e comporta l'assegnazione di 7 punti alla licenza di pesca e al marittimo imbarcato con la funzione di comandante dell'unita' da pesca.))
+
+### Art. 13-quinquies
+
+(( (Violazione di obblighi relativi a specie appartenenti a stock ittici oggetto di piani pluriennali).))
+
+1. 
+
+((Salvo che il fatto costituisca reato e fermo restando quanto previsto all'articolo 13-bis, comma 4, chiunque viola gli obblighi previsti dalle pertinenti normative europea e nazionale relative a specie appartenenti a stock ittici oggetto di piani pluriennali e' soggetto al pagamento della sanzione amministrativa pecuniaria da 1.000 euro a 6.000 euro.))
+
+### Art. 13-sexies
+
+(( (Violazione di obblighi in materia di etichettatura e tracciabilita').))
+
+1. 
+
+((Salvo che il fatto costituisca reato, chiunque viola gli obblighi previsti dalle vigenti normative europea e nazionale in materia di etichettatura e tracciabilita', nonche' gli obblighi relativi alle corrette informazioni all'acquirente finale, relativamente a tutte le partite di prodotti della pesca e dell'acquacoltura, in ogni fase della produzione, della trasformazione e della distribuzione, dalla cattura o raccolta alla vendita al dettaglio, e' soggetto al pagamento della sanzione amministrativa pecuniaria da 1.000 euro a 6.000 euro.))
+
+### Art. 13-septies
+
+(( (Violazioni agli obblighi relativi al rispetto delle taglie minime di riferimento).))
+
+1. 
+
+((Fatte salve le specie ittiche soggette all'obbligo di sbarco ai sensi delle normative europea e nazionale vigenti, e' fatto divieto di:   
+a) detenere, sbarcare e trasbordare esemplari di specie ittiche di taglia inferiore alla taglia minima di riferimento per la conservazione, in violazione della normativa vigente;   
+b) trasportare, commercializzare e somministrare esemplari di specie ittiche di taglia inferiore alla taglia minima di riferimento per la conservazione, in violazione della normativa vigente.))
+
+2. 
+
+((In caso di cattura, accidentale o accessoria, di specie non soggette all'obbligo di sbarco, la cui taglia e' inferiore alla taglia minima di riferimento per la conservazione, e' fatto divieto di conservarne gli esemplari a bordo. Le catture di cui al primo periodo devono essere rigettate in mare.))
+
+3. 
+
+((In caso di cattura, accidentale o accessoria, di specie soggette all'obbligo di sbarco, la cui taglia e' inferiore alla taglia minima di riferimento per la conservazione, e' fatto divieto di trasportarne e commercializzarne gli esemplari al fine del consumo umano diretto.))
+
+4. 
+
+((In caso di cattura accidentale o accessoria di esemplari di cui al comma 3, restano salvi gli obblighi relativi alla comunicazione preventiva alla competente autorita' marittima secondo modalita', termini e procedure stabiliti con decreto del Ministro dell'agricoltura, della sovranita' alimentare e delle foreste.  
+Chiunque non ottempera agli obblighi di comunicazione previsti dal presente comma e' soggetto al pagamento della sanzione amministrativa pecuniaria da 1.000 euro a 6.000 euro.))
+
+5. 
+
+((I divieti di cui ai commi 1, 2 e 3 non riguardano la pesca scientifica, nonche' le altre attivita' espressamente autorizzate ai sensi delle vigenti normative europea e nazionale. Fatto salvo quanto previsto all'articolo 6, comma 3, resta vietata qualsiasi forma di commercializzazione per i prodotti di tale tipo di pesca ed e' consentito detenere e trasportare le specie pescate per soli fini scientifici.))
+
+6. 
+
+((Salvo che il fatto costituisca reato, chiunque viola le disposizioni dei commi 1, lettere a) e b), 2, 3 e 5 e' soggetto al pagamento delle seguenti sanzioni amministrative pecuniarie:   
+a) fino a 5 kg di pescato di taglia inferiore alla taglia minima di riferimento per la conservazione: sanzione amministrativa pecuniaria compresa tra 100 euro e 600 euro;   
+b) oltre 5 kg e fino a 25 kg di pescato di taglia inferiore alla taglia minima di riferimento per la conservazione: sanzione amministrativa pecuniaria compresa tra 250 euro e 1.500 euro;   
+c) oltre 25 kg e fino a 100 kg di pescato di taglia inferiore alla taglia minima di riferimento per la conservazione: sanzione amministrativa pecuniaria compresa tra 2.000 euro e 12.000 euro;   
+d) oltre 100 kg e fino a 200 kg di pescato di taglia inferiore alla taglia minima di riferimento per la conservazione: sanzione amministrativa pecuniaria compresa tra 5.000 euro e 30.000 euro;   
+e) oltre 200 kg di pescato di taglia inferiore alla taglia minima di riferimento per la conservazione: sanzione amministrativa pecuniaria compresa tra 12.500 euro e 75.000 euro.))
+
+7. 
+
+((Ai fini della determinazione delle sanzioni di cui al comma 6, al peso del prodotto ittico pescato sotto la taglia minima di riferimento per la conservazione e' applicata una riduzione pari al 10 per cento del peso rilevato senza arrotondamento di decimali. Non e' possibile tener conto di ulteriori percentuali di riduzione collegate all'incertezza della misura dello strumento, che sono gia' comprese nella percentuale sopra indicata.))
+
+8. 
+
+((Fermo restando quanto stabilito ai commi 1, 2 e 3, non e' applicata la sanzione se la cattura accessoria o accidentale di esemplari di specie di taglia inferiore alla taglia minima di riferimento per la conservazione e' stata realizzata con attrezzi conformi alle normative europea e nazionale, autorizzati dalla licenza di pesca.))
+
+9. 
+
+((Le violazioni di cui ai commi 1 e 3 costituiscono infrazioni gravi e comportano l'assegnazione di 5 punti alla licenza di pesca e al marittimo imbarcato con la funzione di comandante dell'unita' da pesca, qualora il prodotto ittico prelevato superi 100 kg di peso.))
+
+### Art. 13-octies
+
+(( (Violazioni nell'esercizio della pesca non professionale).))
+
+1. 
+
+((Chiunque svolge attivita' di pesca marittima senza la preventiva iscrizione nel registro dei pescatori marittimi e' soggetto al pagamento della sanzione amministrativa pecuniaria da 2.000 euro a 6.000 euro.))
+
+2. 
+
+((Chiunque pone in vendita o esercita il commercio dei prodotti della pesca non professionale, fatta eccezione per quella effettuata a fini scientifici, salvo quanto disposto dall'[articolo 25, paragrafo 2, del regolamento (UE) 2019/1241 del Parlamento europeo e del Consiglio, del 20 giugno 2019](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32019R1241), e dall'articolo 6, comma 3, del presente decreto, e' soggetto al pagamento della sanzione amministrativa pecuniaria da 4.000 euro a 12.000 euro.))
+
+3. 
+
+((E' soggetto al pagamento della sanzione amministrativa pecuniaria da 1.000 euro a 3.000 euro chiunque:   
+a) viola le norme vigenti relative all'esercizio della pesca sportiva, ricreativa e subacquea. La sanzione e' aumentata di un terzo nel caso in cui la violazione abbia ad oggetto le specie ittiche soggette a piani di ricostituzione e il tonno rosso (Thunnus thynnus);   
+b) cede un fucile subacqueo o altro attrezzo similare a persona minore degli anni sedici, ovvero affida un fucile subacqueo o altro attrezzo similare a persona minore degli anni sedici, se questa ne faccia uso.))
+
+4. 
+
+((Fermo restando quanto previsto dalla normativa vigente in materia di limitazione di cattura e fatto salvo il caso in cui tra le catture vi sia un singolo pesce di peso superiore a 5 kg, nel caso in cui il quantitativo totale di prodotto della pesca, raccolto o catturato giornalmente, sia superiore a 5 kg, il pescatore sportivo, ricreativo e subacqueo e' soggetto al pagamento della sanzione amministrativa pecuniaria compresa tra 500 euro e 50.000 euro, da applicare secondo i criteri di seguito stabiliti:   
+a) oltre 5 kg e fino a 10 kg di pescato: sanzione amministrativa pecuniaria compresa tra 500 euro e 3.000 euro;   
+b) oltre 10 kg e fino a 50 kg di pescato: sanzione amministrativa pecuniaria compresa tra 2.000 euro e 12.000 euro;   
+c) oltre 50 kg di pescato: sanzione amministrativa pecuniaria compresa tra 12.000 euro e 50.000 euro.))
+
+5. 
+
+((Le sanzioni di cui al comma 4 sono aumentate di un terzo nel caso in cui le violazioni ivi richiamate abbiano ad oggetto le specie ittiche soggette a piani di ricostituzione e il tonno rosso (Thunnus thynnus). Ai fini della determinazione della sanzione si applicano le disposizioni dell'articolo 13-septies, comma 7.))
+
+6. 
+
+((Fermo restando quanto previsto dalla normativa vigente, agli esercizi commerciali che acquistano pescato in violazione delle disposizioni dei commi 3 e 4 si applica la sanzione della sospensione dell'esercizio commerciale da cinque a dieci giorni lavorativi.))
+
+### Art. 13-novies
+
+(( (Sanzioni amministrative accessorie).))
+
+1. 
+
+((All'applicazione delle sanzioni di cui agli articoli 10, 11, 12, commi 1 e 3, 13, 13-bis, commi 1, 2, 3 e 4, 13-ter, 13-quater, 13-quinquies, 13-sexies, 13-septies e 13-octies, commi 1, 2, 3, lettera a), e 4, consegue l'irrogazione delle seguenti sanzioni amministrative accessorie:   
+a) la confisca del pescato. Fatte salve le previsioni di cui all'[articolo 15 del regolamento (UE) n. 1380/2013 del Parlamento europeo e del Consiglio, dell'11 dicembre 2013](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32013R1380), e' sempre disposta la confisca degli esemplari di specie di taglia inferiore alla taglia minima di riferimento per la conservazione, stabilita dalle normative europea e nazionale. In caso di violazione degli obblighi di cui all'articolo 13-sexies, la confisca non e' disposta nel caso in cui il trasgressore possa dimostrare che la partita dei prodotti della pesca o dell'acquacoltura sia comunque rintracciabile in tutte le fasi della produzione, dalla cattura o raccolta alla vendita al dettaglio;   
+b) la confisca degli attrezzi, degli strumenti e degli apparecchi usati o detenuti, in contrasto con le pertinenti normative europea e nazionale. E' sempre disposta la confisca degli attrezzi non consentiti, non autorizzati o non conformi alla normativa vigente, anche se il trasgressore o l'obbligato in solido si avvalgono della facolta' del pagamento in misura ridotta di cui all'[articolo 16 della legge 24 novembre 1981, n. 689](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-11-24;689~art16). Gli attrezzi, strumenti o apparecchi confiscati sono distrutti e le spese relative alla custodia e demolizione sono poste a carico del contravventore;   
+c) l'obbligo di rimettere in pristino le zone in cui sono stati collocati apparecchi fissi o mobili di cui all'articolo 13, comma 1.))
+
+2. 
+
+((Qualora le violazioni di cui agli articoli 11, 12, 13, comma 1, 13-bis, comma 4, 13-ter, comma 1, e 13-septies abbiano ad oggetto le specie ittiche soggette a piani di ricostituzione, e' disposta, in caso di recidiva, nei confronti del titolare dell'impresa di pesca, quale obbligato in solido, la sospensione della licenza di pesca per un periodo di tre mesi anche nel caso in cui non sia emessa l'ordinanza di ingiunzione e, in caso di ulteriore violazione delle predette disposizioni, la revoca della medesima licenza anche nel caso in cui non sia emessa l'ordinanza di ingiunzione.))
+
+3. 
+
+((Qualora le violazioni di cui agli articoli 10, 11, 12, comma 3, 13, comma 1, 13-quater e 13-septies siano commesse mediante l'impiego di un'imbarcazione non espressamente autorizzata all'esercizio della pesca marittima professionale, e' sempre disposta nei confronti dei trasgressori la sospensione dell'iscrizione nel registro dei pescatori da quindici a trenta giorni e, in caso di recidiva, da trenta giorni a tre mesi, anche nel caso in cui non sia emessa l'ordinanza di ingiunzione.))
+
+4. 
+
+((Con decreto del Ministro dell'agricoltura, della sovranita' alimentare e delle foreste sono individuati modalita', termini e procedure per l'applicazione della misura della sospensione dell'iscrizione nel registro dei pescatori di cui al comma 3.))
+
+### Art. 13-decies
+
+(( (Disposizioni procedurali).))
+
+1. 
+
+((Le disposizioni di cui alla [legge 24 novembre 1981, n. 689](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-11-24;689), si applicano per quanto non diversamente disciplinato dal presente capo.))
+
+2. 
+
+((In relazione agli illeciti amministrativi individuati nel presente capo, l'autorita' competente a ricevere il rapporto di cui all'[articolo 17 della legge 24 novembre 1981, n. 689](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-11-24;689~art17), e' il Capo del compartimento marittimo territorialmente competente ovvero, in caso di violazioni accertate oltre il limite delle acque territoriali italiane, il Capo del compartimento marittimo di iscrizione dell'unita' da pesca.))
+
+3. 
+
+((Fatto salvo quanto previsto dall'articolo 13-sexies e fermo restando quanto previsto dall'[articolo 26 del regolamento (UE) 2019/1241 del Parlamento europeo e del Consiglio, del 20 giugno 2019](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32019R1241), le disposizioni di cui al presente capo non si applicano ai prodotti dell'acquacoltura e a quelli ad essa destinati.))
+
+4. 
+
+((L'armatore e' solidalmente e civilmente responsabile con il comandante dell'unita' da pesca per le sanzioni amministrative inflitte per illeciti commessi nell'esercizio dell'attivita' di pesca marittima.))
+
+5. 
+
+((Le sanzioni amministrative pecuniarie previste dal presente capo, determinate ai sensi dell'[articolo 16, comma 1, della legge 24 novembre 1981, n. 689](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-11-24;689~art16-com1), sono ridotte del 30 per cento se il pagamento e' effettuato entro cinque giorni dalla contestazione o dalla notificazione.))
+
+6. 
+
+((Le sanzioni amministrative pecuniarie previste dal presente capo, ad esclusione di quelle di cui agli articoli 12, comma 2, 13-bis, commi 3 e 5, e 13-sexies, sono aumentate fino alla meta' se la violazione e' commessa nei cinque anni successivi alla prima violazione e il trasgressore non si avvale della facolta' del pagamento in misura ridotta di cui all'[articolo 16 della legge 24 novembre 1981, n. 689](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-11-24;689~art16).))
+
+7. 
+
+((Le sanzioni amministrative pecuniarie di cui agli articoli 10, 11, 12, commi 1 e 3, 13, comma 1, 13-bis, comma 4, 13-ter, commi 2 e 4, 13-quinquies e 13-septies, comma 6, sono aumentate di un terzo nel caso in cui abbiano a oggetto specie ittiche soggette a piani di gestione per la ricostituzione))
+
+.
 
 ### Art. 14
 
-(( (Istituzione del sistema di punti per infrazioni gravi). ))
-
-((
+(Istituzione del sistema di punti per infrazioni gravi)
 
 1. E' istituito il sistema di punti per infrazioni gravi di cui all'[articolo 92 del regolamento (CE) n. 1224/2009 del Consiglio, del 20 novembre 2009](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32009R1224), ed agli [articoli 125 e seguenti del regolamento (UE) n. 404/2011 della Commissione, dell'8 aprile 2011](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32011R0404).
 
-2. Costituiscono infrazioni gravi le contravvenzioni di cui all'articolo 7, comma 1, lettere a) e e), e gli illeciti amministrativi di cui all'articolo 10, commi 1, lettere a), b), d), g), h), n), o), p), q), r), s), t) e aa), 2, lettere a) e b), e 4.
+2. 
 
-3. La commissione di un'infrazione grave da' sempre luogo all'assegnazione di un numero di punti alla licenza di pesca, come individuati nell'allegato I, anche se non venga emessa l'ordinanza di ingiunzione.
+((Le contravvenzioni di cui all'articolo 7, comma 1, lettere a) ed e), costituiscono infrazioni gravi))
+
+.
+
+3. La commissione di un'infrazione grave da' sempre luogo all'assegnazione di un numero di punti alla licenza di pesca, come individuati
+
+((nel presente capo e))
+
+nell'allegato I, anche se non venga emessa l'ordinanza di ingiunzione.
 
 4. Con decreto del Ministro delle politiche agricole alimentari e forestali sono individuati modalita', termini e procedure per l'applicazione del sistema di punti di cui al presente articolo, ferma restando la competenza della Direzione generale della pesca marittima e dell'acquacoltura del Ministero delle politiche agricole alimentari e forestali in ordine alla revoca della licenza di pesca.
 
-5. Il sistema di punti per infrazioni gravi si applica anche all'autorizzazione per l'esercizio della pesca subacquea professionale, secondo modalita', termini e procedure da individuare con decreto del Ministro delle politiche agricole alimentari e forestali))
+5. Il sistema di punti per infrazioni gravi si applica anche all'autorizzazione per l'esercizio della pesca subacquea professionale, secondo modalita', termini e procedure da individuare con decreto del Ministro delle politiche agricole alimentari e forestali.
 
 ### Art. 15
 
@@ -514,14 +631,17 @@ Sistema di punti per i comandanti dei pescherecci
 
 1. E' istituito un sistema di punti per infrazioni gravi del comandante a norma dell'[articolo 92, paragrafo 6, del regolamento (CE) n. 1224/2009](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32009R1224) e dell'[articolo 134 del regolamento (CE) n. 404/2011](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32011R0404).
 
-2. La commissione di un'infrazione grave, di cui all'articolo 14, comma 2, da' sempre luogo all'assegnazione di un numero di punti al marittimo imbarcato con la funzione di comandante della unita' da pesca, come individuati nell'allegato I, anche se non viene emessa l'ordinanza di ingiunzione.
+2. La commissione di un'infrazione grave
+
+((...))
+
+da' sempre luogo all'assegnazione di un numero di punti al marittimo imbarcato con la funzione di comandante della unita' da pesca, come individuati
+
+((nel presente capo e))
+
+nell'allegato I, anche se non viene emessa l'ordinanza di ingiunzione.
 
 3. Con successivo decreto del Ministro delle politiche agricole alimentari e forestali sono individuati modalita', termini e procedure per l'applicazione del sistema di punti di cui al presente articolo.
-
-Note all'art. 19:   
-- Per il testo dell'art. 92 del citato [Regolamento (CE) n. 1224/2009](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32009R1224), si veda nelle note all'art. 14.   
-- Il testo dell'art. 134 del citato [Regolamento (CE) n. 404/2011](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32011R0404), cosi' recita:   
-«Art. 134 (Sistema di punti per i comandanti dei pescherecci). - Gli Stati membri informano la Commissione del loro sistema di punti nazionale per i comandanti di cui all'art. 92, paragrafo 6, del regolamento sul controllo sei mesi dopo la data di applicazione del presente titolo.».
 
 ### Art. 20
 
@@ -571,16 +691,11 @@ Vigilanza e controllo
 
 6. Ai soggetti di cui al comma 3, e' riconosciuta, qualora gia' ad esse non competa, la qualifica di ufficiali o agenti di polizia giudiziaria, secondo le rispettive attribuzioni, ai fini della vigilanza sulla pesca ai sensi dell'articolo 55, ultimo comma, del [codice di procedura penale](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447).
 
-7. Gli incaricati del controllo sulla pesca marittima possono accedere in ogni momento presso le navi, i galleggianti, gli stabilimenti di pesca, i luoghi di deposito e di vendita, commercializzazione e somministrazione e presso i mezzi di trasporto dei prodotti della pesca, al fine di accertare l'osservanza delle norme sulla disciplina della pesca.
+7. Gli incaricati del controllo sulla pesca marittima possono accedere in ogni momento presso le navi, i galleggianti, gli stabilimenti di pesca, i luoghi di deposito e di vendita, commercializzazione e somministrazione e presso i mezzi di trasporto dei prodotti della pesca, al fine di accertare l'osservanza delle norme sulla disciplina della pesca
 
-Note all'art. 22:   
-- Il testo dell'art. 5, paragrafo 5, del citato [Regolamento (CE) n. 1224/2009](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32009R1224), cosi' recita:   
-«Art. 5 (Principi generali). - (Omissis).   
-5. In ogni Stato membro vi e' un'unica autorita' competente che coordina le attivita' di controllo di tutte le autorita' di controllo nazionali. Tale autorita' e' inoltre incaricata di coordinare la raccolta, il trattamento e la certificazione dei dati sulle attivita' di pesca e notifica questi dati alla Commissione, all'Agenzia comunitaria di controllo della pesca istituita dal [regolamento (CE) n. 768/2005 del Consiglio](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32005R0768), agli altri Stati membri e, se necessario, ai paesi terzi, con cui collabora ed a cui assicura che siano trasmesse le informazioni.».   
-- Il testo dell'art. 55, ultimo comma, del [Codice di procedura penale](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447), cosi' recita:   
-«Art. 55 (Funzioni della polizia giudiziaria). - 1. La polizia giudiziaria deve, anche di propria iniziativa, prendere notizia dei reati, impedire che vengano portati a conseguenze ulteriori, ricercarne gli autori, compiere gli atti necessari per assicurare le fonti di prova e raccogliere quant'altro possa servire per l'applicazione della legge penale.   
-2. Svolge ogni indagine e attivita' disposta o delegata dall'autorita' giudiziaria.   
-3. Le funzioni indicate nei commi 1 e 2 sono svolte dagli ufficiali e dagli agenti di polizia giudiziaria.».
+((e delle disposizioni concernenti la sicurezza e l'igiene dei prodotti ittici destinati al consumo umano, quando gli accertamenti consistono nella verifica di situazioni oggettive di non conformita' che non richiedono valutazioni di ordine tecnico-sanitario))
+
+.
 
 ### Art. 23
 
@@ -684,30 +799,27 @@ Visto, il Guardasigilli: Severino
 
 Allegato I
 
-((Allegato I))
-
-((PUNTI ASSEGNATI IN CASO DI INFRAZIONI GRAVI))
-
-((
+ Allegato I   
+  
+PUNTI ASSEGNATI IN CASO DI INFRAZIONI GRAVI   
+  
+  
 
 |  |  |  |
 | --- | --- | --- |
 | N. | Infrazione grave | Punti |
-| 1 | Violazione degli obblighi previsti dalle pertinenti norme europee e nazionali in materia di registrazione e dichiarazione dei dati relativi alle catture e agli sbarchi, compresi i dati da trasmettere attraverso il sistema di controllo dei pescherecci via satellite. Violazione degli obblighi previsti dalle pertinenti norme europee e nazionali in materia di registrazione e dichiarazione dei dati relativi alle catture e agli sbarchi di specie appartenenti a stock oggetto di piani pluriennali o pescate fuori dalle acque mediterranee. (Articolo 10, comma 1, lettere o) e p), del presente decreto, in combinato disposto con l'[articolo 90, paragrafo 1, del regolamento (CE) n. 1224/2009 del Consiglio, del 20 novembre 2009](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32009R1224), con l'[articolo 42, paragrafo 1, lettera a)](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::2008-09-29;1005~art42-par1-leta), e con l'[articolo 3, paragrafo 1, lettera b), del regolamento (CE) n. 1005/2008 del Consiglio, del 29 settembre 2008](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32008R1005)). | 3 |
-| 2 | Pesca con attrezzi o strumenti vietati dalle pertinenti disposizioni europee e nazionali o non espressamente permessi. (Articolo 10, comma 1, lettera h), del presente decreto, in combinato disposto con l'[articolo 90, paragrafo 1, del regolamento (CE) n. 1224/2009 del Consiglio, del 20 novembre 2009](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32009R1224), con l'[articolo 42, paragrafo 1, lettera a)](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::2008-09-29;1005~art42-par1-leta), e con l'[articolo 3, paragrafo 1, lettera e), del regolamento (CE) n. 1005/2008 del Consiglio, del 29 settembre 2008](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32008R1005)). | 4 |
-| 3 | Falsificazione, occultamento od omissione di marcatura, identita' o contrassegni di individuazione dell'unita' da pesca. (Articolo 10, comma 1, lettera n), del presente decreto, in combinato disposto con l'[articolo 90, paragrafo 1, del regolamento (CE) n. 1224/2009 del Consiglio, del 20 novembre 2009](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32009R1224), con l'[articolo 42, paragrafo 1, lettera a)](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::2008-09-29;1005~art42-par1-leta), e con l'[articolo 3, paragrafo 1, lettera f), del regolamento (CE) n. 1005/2008 del Consiglio, del 29 settembre 2008](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32008R1005)). | 5 |
-| 4 | Occultamento, manomissione o eliminazione di elementi di prova relativi a un'indagine posta in essere dagli ispettori della pesca, dagli organi deputati alla vigilanza ed al controllo e dagli osservatori, nell'esercizio delle loro funzioni, nel rispetto della normativa europea e nazionale. (Articolo 10, comma 1, lettera s), del presente decreto, in combinato disposto con l'[articolo 90, paragrafo 1, del regolamento (CE) n. 1224/2009 del Consiglio, del 20 novembre 2009](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32009R1224), con l'[articolo 42, paragrafo 1, lettera a)](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::2008-09-29;1005~art42-par1-leta), e con l'[articolo 3, paragrafo 1, lettera g), del regolamento (CE) n. 1005/2008 del Consiglio, del 29 settembre 2008](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32008R1005)). | 5 |
-| 5 | Detenzione, sbarco e trasbordo di esemplari di specie ittiche di taglia inferiore alla taglia minima di riferimento per la conservazione, in violazione della normativa in vigore. Trasporto, commercializzazione e somministrazione di esemplari di specie ittiche di taglia inferiore alla taglia minima di riferimento per la conservazione, in violazione della normativa in vigore. Trasporto, commercializzazione e somministrazione per consumo umano diretto di esemplari di specie ittiche di taglia inferiore alla taglia minima di riferimento per la conservazione, soggette all'obbligo di sbarco. (Articolo 10, comma 2, lettere a) e b), e comma 4, del presente decreto, in combinato disposto con l'[articolo 56, paragrafo 1](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::2009-11-20;1224~art56-par1), e con l'[articolo 90, paragrafo 1, del regolamento (CE) n. 1224/2009 del Consiglio, del 20 novembre 2009](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32009R1224), come modificati dall'[articolo 7 del regolamento (UE) 2015/812 del Parlamento europeo e del Consiglio, del 20 maggio 2015](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32015R0812), con l'[articolo 42, paragrafo 1, lettera a)](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::2008-09-29;1005~art42-par1-leta), e con l'[articolo 3, paragrafo 1, lettera i), del regolamento (CE) n. 1005/2008 del Consiglio, del 29 settembre 2008](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32008R1005)). | 5 |
+| 1 | ((NUMERO ABROGATO DALLA [L. 21 APRILE 2026, N. 75](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2026-04-21;75))) |  |
+| 2 | ((NUMERO ABROGATO DALLA [L. 21 APRILE 2026, N. 75](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2026-04-21;75))) |  |
+| 3 | ((NUMERO ABROGATO DALLA [L. 21 APRILE 2026, N. 75](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2026-04-21;75))) |  |
+| 4 | ((NUMERO ABROGATO DALLA [L. 21 APRILE 2026, N. 75](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2026-04-21;75))) |  |
+| 5 | ((NUMERO ABROGATO DALLA [L. 21 APRILE 2026, N. 75](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2026-04-21;75))) |  |
 | 6 | Esercizio della pesca in acque sottoposte alla competenza di un'organizzazione regionale per la pesca, in violazione delle misure di conservazione o gestione e senza avere la bandiera di uno degli Stati membri di detta organizzazione. (Articolo 7, comma 1, lettera e), del presente decreto, in combinato disposto con l'[articolo 90, paragrafo 1, del regolamento (CE) n. 1224/2009 del Consiglio, del 20 novembre 2009](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32009R1224), con l'[articolo 42, paragrafo 1, lettera a)](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::2008-09-29;1005~art42-par1-leta), e con l'[articolo 3, paragrafo 1, lettera k), del regolamento (CE) n. 1005/2008 del Consiglio, del 29 settembre 2008](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32008R1005)). | 5 |
-| 7 | Pesca con unita' iscritte nei registri di cui all'[articolo 146 del codice della navigazione](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-03-30;327~art146), senza essere in possesso di una licenza di pesca in corso di validita' o di un'autorizzazione in corso di validita'. (Articolo 10, comma 1, lettera a), del presente decreto, in combinato disposto con l'[articolo 90, paragrafo 1, del regolamento (CE) n. 1224/2009 del Consiglio, del 20 novembre 2009](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32009R1224), con l'[articolo 42, paragrafo 1, lettera a)](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::2008-09-29;1005~art42-par1-leta), e con l'[articolo 3, paragrafo 1, lettera a), del regolamento (CE) n. 1005/2008 del Consiglio, del 29 settembre 2008](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32008R1005)). | 7 |
-| 8 | Pesca in zone e tempi vietati dalla normativa europea e nazionale. (Articolo 10, comma 1, lettera b), del presente decreto, in combinato disposto con l'[articolo 90, paragrafo 1, del regolamento (CE) n. 1224/2009 del Consiglio, del 20 novembre 2009](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32009R1224), con l'[articolo 42, paragrafo 1, lettera a)](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::2008-09-29;1005~art42-par1-leta), e con l'[articolo 3, paragrafo 1, lettera c), del regolamento (CE) n. 1005/2008 del Consiglio, del 29 settembre 2008](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32008R1005)). | 6 |
-| 9 | Pesca diretta di uno stock ittico per il quale e' previsto un contingente di cattura, senza disporre di tale contingente ovvero dopo che il medesimo e' andato esaurito. (Articolo 10, comma 1, lettera g), del presente decreto, in combinato disposto con l'[articolo 90, paragrafo 1, del regolamento (CE) n. 1224/2009 del Consiglio, del 20 novembre 2009](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32009R1224), con l'[articolo 42, paragrafo 1, lettera a)](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::2008-09-29;1005~art42-par1-leta), e con l'[articolo 3, paragrafo 1, lettera c), del regolamento (CE) n. 1005/2008, del Consiglio del 29 settembre 2008](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32008R1005)). | 6 |
-| 10 | Pesca diretta di stock ittici per i quali la pesca e' sospesa ai fini del ripopolamento per la ricostituzione degli stessi. (Articolo 10, comma 1, lettera d), del presente decreto, in combinato disposto con l'[articolo 90, paragrafo 1, del regolamento (CE) n. 1224/2009 del Consiglio, del 20 novembre 2009](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32009R1224), con l'[articolo 42, paragrafo 1, lettera a)](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::2008-09-29;1005~art42-par1-leta), e con l'[articolo 3, paragrafo 1, lettera d), del regolamento (CE) n. 1005/2008 del Consiglio, del 29 settembre 2008](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32008R1005)). | 7 |
+| 7 | ((NUMERO ABROGATO DALLA [L. 21 APRILE 2026, N. 75](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2026-04-21;75))) |  |
+| 8 | ((NUMERO ABROGATO DALLA [L. 21 APRILE 2026, N. 75](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2026-04-21;75))) |  |
+| 9 | ((NUMERO ABROGATO DALLA [L. 21 APRILE 2026, N. 75](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2026-04-21;75))) |  |
+| 10 | ((NUMERO ABROGATO DALLA [L. 21 APRILE 2026, N. 75](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2026-04-21;75))) |  |
 | 11 | Pesca, detenzione, trasbordo, sbarco, trasporto e commercializzazione delle specie di cui sia vietata la cattura in qualunque stadio di crescita, in violazione della normativa in vigore. (Articolo 7, comma 1, lettera a), del presente decreto, in combinato disposto con l'[articolo 90, paragrafo 1, del regolamento (CE) n. 1224/2009 del Consiglio, del 20 novembre 2009](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32009R1224), con l'[articolo 42, paragrafo 1, lettera a)](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::2008-09-29;1005~art42-par1-leta), e con l'[articolo 3, paragrafo 1, lettere d)](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::2008-09-29;1005~art3-par1-letd) ed [i), del regolamento (CE) n. 1005/2008 del Consiglio, del 29 settembre 2008](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32008R1005)). | 7 |
-| 12 | Intralcio all'attivita' posta in essere dagli ispettori della pesca, dagli organi deputati alla vigilanza ed al controllo e dagli osservatori nell'esercizio delle loro funzioni nel rispetto delle pertinenti disposizioni europee e nazionali. (Articolo 10, comma 1, lettera t), del presente decreto, in combinato disposto con l'[articolo 90, paragrafo 1, del regolamento (CE) n. 1224/2009 del Consiglio, del 20 novembre 2009](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32009R1224), con l'[articolo 42, paragrafo 1, lettera a)](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::2008-09-29;1005~art42-par1-leta), e con l'[articolo 3, paragrafo 1, lettera h), del regolamento (CE) n. 1005/2008 del Consiglio, del 29 settembre 2008](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32008R1005)). | 7 |
-| 13 | Operazioni di trasbordo o partecipazione a operazioni di pesca congiunte con pescherecci sorpresi a esercitare pesca INN ai sensi del [regolamento (CE) n. 1005/ 2008](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32008R1005), in particolare con quelli inclusi nell'elenco dell'Unione delle navi INN o nell'elenco delle navi INN di un'organizzazione regionale per la pesca, o prestazione di assistenza o rifornimento a tali navi. (Articolo 10, comma 1, lettera q), del presente decreto, in combinato disposto con l'[articolo 90, paragrafo 1, del regolamento (CE) n. 1224/2009 del Consiglio, del 20 novembre 2009](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32009R1224), con l'[articolo 42, paragrafo 1, lettera a)](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::2008-09-29;1005~art42-par1-leta), e con l'[articolo 3, paragrafo 1, lettera j), del regolamento (CE) n. 1005/2008 del Consiglio, del 29 settembre 2008](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32008R1005)). | 7 |
-| 14 | Utilizzo di un peschereccio privo di nazionalita' e quindi da considerare nave senza bandiera ai sensi del diritto vigente. (Articolo 10, comma 1, lettera r), del presente decreto, in combinato disposto con l'[articolo 90, paragrafo 1, del regolamento (CE) n. 1224/2009 del Consiglio, del 20 novembre 2009](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32009R1224), con l'[articolo 42, paragrafo 1, lettera a)](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::2008-09-29;1005~art42-par1-leta), e con l'[articolo 3, paragrafo 1, lettera l), del regolamento (CE) n. 1005/2008 del Consiglio, del 29 settembre 2008](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32008R1005)). | 7 |
-| 15 | Violazione degli obblighi previsti dalle normative europea e nazionale vigenti in materia di obbligo di sbarco\*. (Articolo 10, comma 1, lettera aa), del presente decreto, in combinato disposto con l'[articolo 90, paragrafo 1, lettera c)](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::2009-11-20;1224~art90-par1-letc), e con l'[articolo 92, paragrafo 1, del regolamento (CE) n. 1224/2009 del Consiglio, del 20 novembre 2009](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32009R1224), come modificati dall'[articolo 7 del regolamento (UE) 2015/812 del Parlamento europeo e del Consiglio, del 20 maggio 2015](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32015R0812). \* Si applica a decorrere dal 1° gennaio 2017, ai sensi dell'[articolo 11 del regolamento (UE) 2015/812 del Parlamento europeo e del Consiglio, del 20 maggio 2015](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32015R0812). | 3 |
-
-  
-))
+| 12 | ((NUMERO ABROGATO DALLA [L. 21 APRILE 2026, N. 75](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2026-04-21;75))) |  |
+| 13 | ((NUMERO ABROGATO DALLA [L. 21 APRILE 2026, N. 75](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2026-04-21;75))) |  |
+| 14 | ((NUMERO ABROGATO DALLA [L. 21 APRILE 2026, N. 75](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2026-04-21;75))) |  |
+| 15 | ((NUMERO ABROGATO DALLA [L. 21 APRILE 2026, N. 75](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2026-04-21;75))) |  |

@@ -1282,17 +1282,21 @@ c) meno di 12 anni di servizio.
 
 5. La domanda di partecipazione alle procedure valutative di cui al comma 3 comporta rinuncia ad ogni ulteriore pretesa di qualsivoglia natura conseguente al rapporto onorario pregresso, salvo il diritto all'indennita' di cui al comma 2 in caso di mancata conferma.
 
+((20))
+
 6. I magistrati onorari confermati, entro il termine di trenta giorni dalla comunicazione dell'esito della procedura valutativa di cui al comma 3, possono optare per il regime di esclusivita' delle funzioni onorarie, che e' incompatibile con lo svolgimento di ulteriori attivita' lavorative ai sensi dell'articolo 16 dell'ordinamento giudiziario, di cui al [regio decreto 30 gennaio 1941, n. 12](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-01-30;12).
 
 7. I magistrati onorari in servizio alla data di entrata in vigore del presente decreto cessano dal servizio se non presentano domanda di partecipazione alla procedura valutativa di cui al comma 3.
 
 8. Ai magistrati onorari confermati si applica, in quanto compatibile, il contratto collettivo nazionale di lavoro del Comparto funzioni centrali, per la disciplina dei permessi, delle assenze e dei congedi.
 
-9. I magistrati onorari confermati che non hanno optato per il regime di esclusivita' delle funzioni onorarie nel termine indicato al comma 6 possono esercitare l'opzione entro il 31 luglio di ogni anno
+9. I magistrati onorari confermati che non hanno optato per il regime di esclusivita' delle funzioni onorarie nel termine indicato al comma 6 possono esercitare l'opzione entro il 31 luglio di ogni anno; in tale caso, ogni effetto decorre dall'anno successivo a quello nel quale e' esercitata l'opzione.
 
-((...))
+---------------
 
-; in tale caso, ogni effetto decorre dall'anno successivo a quello nel quale e' esercitata l'opzione.
+AGGIORNAMENTO (20)
+
+La Corte Costituzionale, con sentenza 24 febbraio - 12 maggio 2026, n. 71 (in G.U. 1ª s.s. 13/05/2026, n. 19), ha dichiarato "l'illegittimita' costituzionale dell'[art. 29, comma 5, del decreto legislativo 13 luglio 2017, n. 116](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2017-07-13;116~art29-com5) (Riforma organica della magistratura onoraria e altre disposizioni sui giudici di pace, nonche' disciplina transitoria relativa ai magistrati onorari in servizio, a norma della [legge 28 aprile 2016, n. 57](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2016-04-28;57)), come sostituito dall'[art. 1, comma 629, lettera a), della legge 30 dicembre 2021, n. 234](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2021-12-30;234~art1-com629-leta) (Bilancio di previsione dello Stato per l'anno finanziario 2022 e bilancio pluriennale per il triennio 2022-2024), nella misura in cui fa conseguire al superamento delle procedure valutative di conferma di cui al comma 3 del medesimo articolo la rinuncia ai diritti conferiti dall'Unione europea, quanto alle ferie retribuite, alla previdenza e all'assistenza".
 
 ### Art. 29-bis
 

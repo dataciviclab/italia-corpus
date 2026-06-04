@@ -1050,6 +1050,28 @@ Norme-art. 86 ter
 
 .   
 
+Norme-art. 86 quater
+
+ Art. 86-quater.   
+
+(( (Destinazione a scopi benefici dei prodotti alimentari confiscati). ))
+
+  
+  
+1.
+
+((Il giudice dispone che i prodotti alimentari idonei al consumo umano, non contraffatti, non deteriorati e in linea con i termini minimi di conservazione o con la data di scadenza, di cui abbia ordinato la confisca siano assegnati, per la distribuzione gratuita a persone bisognose, a enti territoriali, a enti caritatevoli o ad altri enti pubblici ovvero ad associazioni o consorzi che abbiano per statuto o atto costitutivo compiti assistenziali, previa rimozione dell'eventuale marchio, segno distintivo o indicazione, anche figurativa, che costituisce reato ovvero previo declassamento merceologico o regolarizzazione amministrativa.))
+
+  
+2.
+
+((In caso di prodotti alimentari idonei al consumo animale, il giudice puo' adottare un provvedimento analogo a quello di cui al comma 1 in favore di enti territoriali o di altri enti pubblici ovvero di associazioni o consorzi che abbiano per statuto o atto costitutivo compiti assistenziali in favore di animali abbandonati, per l'alimentazione degli stessi.))
+
+  
+3.
+
+((La destinazione del prodotto a finalita' diverse da quelle indicate ai commi 1 e 2 e' punita ai sensi dell'[articolo 316-bis del codice penale](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art316bis).))
+
 Norme-art. 87
 
  Art. 87   
@@ -1359,7 +1381,7 @@ a) sui mobili e sui crediti, secondo le forme prescritte dal [codice di procedur
 b) sugli immobili o mobili registrati, con la trascrizione del provvedimento presso i competenti uffici;   
 c) sui beni aziendali organizzati per l'esercizio di un'impresa, oltre che con le modalita' previste per i singoli beni sequestrati, con l'immissione in possesso dell'amministratore, con l'iscrizione del provvedimento nel registro delle imprese presso il quale e' iscritta l'impresa;   
 d) sulle azioni e sulle quote sociali, con l'annotazione nei libri sociali e con l'iscrizione nel registro delle imprese;   
-e) sugli strumenti finanziari dematerializzati, ivi compresi i titoli del debito pubblico, con la registrazione nell'apposito conto tenuto dall'intermediario ai sensi dell'[articolo 34 del decreto legislativo 24 giugno 1998, n. 213](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1998-06-24;213~art34). Si applica l'[articolo 10, comma 3, del decreto legislativo 21 maggio 2004, n. 170](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2004-05-21;170~art10-com3).   
+e) sugli strumenti finanziari dematerializzati, ivi compresi i titoli del debito pubblico, con la registrazione nell'apposito conto tenuto dall'intermediario ai sensi dell'[articolo 34 del decreto legislativo 24 giugno 1998, n. 213](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1998-06-24;213~art34). Si applica l'[articolo 10, comma 3, del decreto legislativo 21 maggio 2004, n. 170](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2004-05-21;170~art10-com3);   
 e-bis)
 
 ((sui contenuti online del profilo personale e sui relativi dati, mediante ordine ai prestatori di servizi di hosting, ai fornitori di piattaforme online o di motori di ricerca o ai prestatori di servizi intermediari della societa' dell'informazione quali definiti all'[articolo 1, paragrafo 1, lettera b), della direttiva (UE) 2015/1535 del Parlamento europeo e del Consiglio, del 9 settembre 2015](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32015L1535), di rimuovere i contenuti e i dati o disabilitare l'accesso al profilo, garantendo comunque, ove tecnicamente possibile, la fruizione dei contenuti estranei alle condotte illecite))
@@ -2946,7 +2968,11 @@ Norme-art. 223
 
  Art. 223   
 (Analisi di campioni e garanzie per l'interessato)   
-1. Qualora nel corso di attivita' ispettive o di vigilanza previste da leggi o decreti si debbano eseguire analisi di campioni per le quali non e' prevista la revisione, a cura dell'organo procedente e' dato, anche oralmente, avviso all'interessato del giorno, dell'ora e del luogo dove le analisi verranno effettuate. L'interessato o persona di sua fiducia appositamente designata possono presenziare alle analisi, eventualmente con l'assistenza di un consulente tecnico. A tali persone spettano i poteri previsti dall'articolo 230 del codice.   
+1. Qualora nel corso di attivita' ispettive o di vigilanza previste da leggi o decreti si debbano eseguire analisi di campioni per le quali non e' prevista la revisione
+
+((ovvero se, per deperibilita', modificabilita' o quantita' del campione, non e' possibile la ripetizione delle analisi))
+
+, a cura dell'organo procedente e' dato, anche oralmente, avviso all'interessato del giorno, dell'ora e del luogo dove le analisi verranno effettuate. L'interessato o persona di sua fiducia appositamente designata possono presenziare alle analisi, eventualmente con l'assistenza di un consulente tecnico. A tali persone spettano i poteri previsti dall'articolo 230 del codice.   
 2. Se leggi o decreti prevedono la revisione delle analisi e questa sia richiesta dall'interessato, a cura dell'organo incaricato della revisione, almeno tre giorni prima, deve essere dato avviso del giorno, dell'ora e del luogo ove la medesima verra' effettuata all'interessato e al difensore eventualmente nominato. Alle operazioni di revisione l'interessato e il difensore hanno diritto di assistere personalmente, con l'assistenza eventuale di un consulente tecnico. A tali persone spettano i poteri previsti dall'articolo 230 del codice.   
 3. I verbali di analisi non ripetibili e i verbali di revisione di analisi sono raccolti nel fascicolo per il dibattimento, sempre che siano state osservate le disposizioni dei commi 1 e 2.   
 
