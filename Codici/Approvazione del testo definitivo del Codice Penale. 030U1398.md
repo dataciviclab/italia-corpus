@@ -10843,6 +10843,9 @@ Codice Penale-art. 501 bis
 
 (( (Manovre speculative su merci). ))
 
+.   
+  
+
 ((Fuori dei casi previsti dall'articolo precedente, chiunque, nell'esercizio di qualsiasi attivita' produttiva o commerciale, compie manovre speculative ovvero occulta, accaparra od incetta materie prime, generi alimentari di largo consumo o prodotti di prima necessita', in modo atto a determinarne la rarefazione o il rincaro sul mercato interno, e' punito con la reclusione da sei mesi a tre anni e con la multa da uno a cinquanta milioni di lire.   
   
 Alla stessa pena soggiace chiunque, in presenza di fenomeni di rarefazione o rincaro sul mercato interno delle merci indicate nella prima parte del presente articolo e nell'esercizio delle medesime attivita', ne sottrae alla utilizzazione o al consumo rilevanti quantita'.   
@@ -11096,9 +11099,8 @@ Codice Penale-art. 516
 
  Art. 516.   
   
-(Vendita di sostanze alimentari non genuine come genuine)   
-  
-Chiunque pone in vendita o mette altrimenti in commercio come genuine sostanze alimentari non genuine e' punito con la reclusione fino a sei mesi o con la multa fino a lire diecimila.   
+
+((ARTICOLO ABROGATO DALLA [L. 21 APRILE 2026, N. 75](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2026-04-21;75)))
 
 Codice Penale-art. 517
 
@@ -11117,11 +11119,7 @@ Codice Penale-art. 517 bis
  Art. 517-bis.   
   
 
-(( (Circostanza aggravante). ))
-
-((Le pene stabilite dagli articoli 515, 516 e 517 sono aumentate se i fatti da essi previsti hanno ad oggetto alimenti o bevande la cui denominazione di origine o geografica o le cui specificita' sono protette dalle norme vigenti.   
-  
-Negli stessi casi, il giudice, nel pronunciare condanna, puo' disporre, se il fatto e' di particolare gravita' o in caso di recidiva specifica, la chiusura dello stabilimento o dell'esercizio in cui il fatto e' stato commesso da un minimo di cinque giorni ad un massimo di tre mesi, ovvero la revoca della licenza, dell'autorizzazione o dell'analogo provvedimento amministrativo che consente lo svolgimento dell'attivita' commerciale nello stabilimento o nell'esercizio stesso.))
+((ARTICOLO ABROGATO DALLA [L. 21 APRILE 2026, N. 75](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2026-04-21;75)))
 
 Codice Penale-art. 517 ter
 
@@ -11142,36 +11140,92 @@ Codice Penale-art. 517 quater
 
  Art. 517-quater.   
   
-(Contraffazione di indicazioni geografiche o denominazioni di origine dei prodotti agroalimentari
 
-((, artigianali e industriali))
+((Contraffazione dei segni di indicazione geografica e di denominazione protetta dei prodotti agroalimentari))
 
-).   
   
-Chiunque contraffa' o comunque altera indicazioni geografiche o denominazioni di origine di prodotti agroalimentari
-
-((, artigianali e industriali))
-
-e' punito con la reclusione fino a due anni e con la multa fino a euro 20.000.   
   
-Alla stessa pena soggiace chi, al fine di trarne profitto, introduce nel territorio dello Stato, detiene per la vendita, pone in vendita con offerta diretta ai consumatori o mette comunque in circolazione i medesimi prodotti con le indicazioni o denominazioni contraffatte.   
-  
-Si applicano le disposizioni di cui agli articoli 474-bis, 474-ter, secondo comma, e 517-bis, secondo comma.   
-  
-I delitti previsti dai commi primo e secondo sono punibili a condizione che siano state osservate le norme delle leggi interne, dei regolamenti comunitari e delle convenzioni internazionali in materia di tutela delle indicazioni geografiche e delle denominazioni di origine dei prodotti agroalimentari
+Chiunque contraffa' o comunque altera indicazioni geografiche o denominazioni di origine di prodotti agroalimentari, artigianali e industriali e' punito con la reclusione
 
-((, artigianali e industriali))
+((da uno a quattro anni e con la multa da euro 10.000 a euro 50.000))
 
 .   
+  
+
+((Alla stessa pena soggiace chi, al fine di trarne profitto, introduce nel territorio dello Stato, anche in custodia temporanea o in deposito doganale, spedisce in transito, esporta, trasporta, detiene per la vendita, offre o pone in vendita o mette altrimenti in circolazione prodotti agroalimentari la cui indicazione geografica o denominazione di origine sa essere contraffatta o alterata))
+
+.   
+  
+
+((COMMA ABROGATO DALLA [L. 21 APRILE 2026, N. 75](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2026-04-21;75)))
+
+.   
+  
+I delitti previsti dai commi primo e secondo sono punibili a condizione che siano state osservate le norme delle leggi interne, dei regolamenti comunitari e delle convenzioni internazionali in materia di tutela delle indicazioni geografiche e delle denominazioni di origine dei prodotti agroalimentari, artigianali e industriali.   
 
 Codice Penale-art. 517 quinquies
 
  Art. 517-quinquies.   
   
+(Circostanza attenuante).   
+  
+Le pene previste dagli articoli 517-ter
 
-(( (Circostanza attenuante). ))
+((, 517-quater, 517-sexies e 517-septies))
 
-((Le pene previste dagli articoli 517-ter e 517-quater sono diminuite dalla meta' a due terzi nei confronti del colpevole che si adopera per aiutare concretamente l'autorita' di polizia o l'autorita' giudiziaria nell'azione di contrasto dei delitti di cui ai predetti articoli 517-ter e 517-quater, nonche' nella raccolta di elementi decisivi per la ricostruzione dei fatti e per l'individuazione o la cattura dei concorrenti negli stessi, ovvero per la individuazione degli strumenti occorrenti per la commissione dei delitti medesimi o dei profitti da essi derivanti))
+sono diminuite dalla meta' a due terzi nei confronti del colpevole che si adopera per aiutare concretamente l'autorita' di polizia o l'autorita' giudiziaria nell'azione di contrasto dei delitti di cui ai predetti articoli 517-ter
+
+((, 517-quater, 517-sexies e 517-septies))
+
+, nonche' nella raccolta di elementi decisivi per la ricostruzione dei fatti e per l'individuazione o la cattura dei concorrenti negli stessi, ovvero per la individuazione degli strumenti occorrenti per la commissione dei delitti medesimi o dei profitti da essi derivanti.   
+
+Codice Penale-art. 517 quinquies
+
+ Art. 517-sexies.   
+  
+
+(( (Frode alimentare). ))
+
+.   
+  
+
+((Fuori dei casi di cui all'articolo 517-septies, chiunque, al fine di indurre in errore il compratore e di trarne profitto, nell'esercizio di un'attivita' agricola, commerciale, industriale o di intermediazione, importa, esporta, spedisce in transito, introduce in custodia temporanea o in deposito doganale, trasporta, pone in vendita, distribuisce o mette altrimenti in circolazione, anche con tecniche di comunicazione a distanza o con strumenti digitali nelle reti telematiche, alimenti, acque e bevande che sa essere non genuini o, per origine, provenienza, qualita' o quantita', sostanzialmente difformi da quelli indicati, dichiarati o pattuiti e' punito, se il fatto non e' previsto come piu' grave reato, con la reclusione da due mesi a un anno e con la multa da euro 1.000 a euro 4.000.   
+  
+La punibilita' e' esclusa quando la condotta, per le quantita' o il valore economico esiguo del prodotto o l'assenza di effettivo pregiudizio per il consumatore o per il mercato, e' di lieve entita'.))
+
+Codice Penale-art. 517 quinquies
+
+ Art. 517-septies.   
+  
+
+(( (Commercio di alimenti con segni mendaci). ))
+
+.   
+  
+
+((Chiunque, al fine di trarne profitto, nell'esercizio di un'attivita' agricola, industriale, commerciale, di importazione, di esportazione, di introduzione in custodia temporanea o in deposito doganale ovvero di intermediazione di alimenti, acque e bevande, utilizza segni distintivi o indicazioni, ancorche' figurative, che sa essere falsi o ingannevoli al fine di indurre in errore il compratore, anche con tecniche di comunicazione a distanza o con strumenti digitali nelle reti telematiche, sull'origine, sulla provenienza, sulla qualita' o sulla quantita' degli alimenti o degli ingredienti e' punito con la reclusione da tre a diciotto mesi e con la multa fino a euro 20.000.))
+
+Codice Penale-art. 517 quinquies
+
+ Art. 517-octties.   
+  
+
+(( (Pena accessoria e circostanze aggravanti). ))
+
+.   
+  
+
+((Nei casi di cui agli articoli 517-sexies e 517-septies il giudice, se il fatto e' di particolare gravita' o in caso di recidiva specifica, puo' disporre la chiusura temporanea, da cinque giorni a tre mesi, dello stabilimento o dell'esercizio in cui il fatto e' stato commesso.   
+  
+Le pene stabilite dagli articoli 517-sexies e 517-septies sono aumentate se:   
+1) le condotte attengono alla denominazione di origine o all'indicazione geografica degli alimenti o degli ingredienti protette dalle norme vigenti;   
+2) i fatti sono commessi mediante falsi documenti di trasporto o false dichiarazioni all'organismo di vigilanza;   
+3) i fatti sono di particolare gravita' in ragione della quantita' dell'alimento oggetto dell'illecito;   
+4) le condotte hanno ad oggetto alimenti indicati come biologici in assenza della relativa certificazione.   
+  
+Se concorrono due o piu' delle circostanze previste dal secondo comma, la pena e' aumentata da un terzo alla meta'.   
+  
+Le pene stabilite dagli articoli 517-sexies e 517-septies sono aumentate da un terzo alla meta' se le condotte ivi previste, al di fuori dei casi di cui agli articoli 416 e 416-bis, sono realizzate con piu' operazioni e attraverso l'allestimento di mezzi e attivita' continuative organizzate diretti a commettere tali reati))
 
 .   
 
@@ -11181,7 +11235,43 @@ Codice Penale-art. 518
   
 (Pubblicazione della sentenza)   
   
-La condanna per alcuno dei delitti preveduti dagli articoli 501, 514, 515, 516 e 517 importa la pubblicazione della sentenza.   
+La condanna per alcuno dei delitti preveduti dagli articoli 501, 514, 515,
+
+((517, 517-quater, 517-sexies e 517-septies ovvero per i reati di cui agli articoli 416 e 416-bis se l'associazione e' diretta alla commissione dei delitti previsti dal capo II-bis del presente titolo))
+
+importa la pubblicazione della sentenza.   
+
+Codice Penale-art. 518.1
+
+ Art. 518.1.   
+  
+
+(( (Ulteriori pene accessorie).))
+
+.   
+  
+
+((La condanna nel caso di cui all'articolo 517-octies, quarto comma, ovvero per i reati di cui agli articoli 416 e 416-bis se l'associazione e' diretta alla commissione dei delitti previsti dal capo II-bis del presente titolo importa l'applicazione della pena accessoria prevista dall'articolo 30 e il divieto, per la durata indicata dal medesimo articolo 30, di ottenere:   
+1) iscrizioni o provvedimenti, comunque denominati, a contenuto autorizzatorio, concessorio o abilitativo per lo svolgimento di attivita' imprenditoriali;   
+2) l'accesso a contributi, finanziamenti o mutui agevolati o altre erogazioni dello stesso tipo, comunque denominate, concessi o erogati da parte dello Stato, di altri enti pubblici o dell'Unione europea per lo svolgimento di attivita' imprenditoriali.   
+  
+Negli stessi casi di cui al primo comma, il giudice, se il fatto e' di particolare gravita' o in caso di recidiva specifica, puo' disporre la chiusura temporanea, da uno a dodici mesi, dello stabilimento o dell'esercizio in cui il fatto e' stato commesso. Se ricorrono entrambe le condizioni di cui al primo periodo, il giudice puo' disporre la revoca di autorizzazioni, licenze o analoghi provvedimenti amministrativi che consentono l'esercizio dell'attivita' nonche' la chiusura definitiva dello stabilimento o dell'esercizio in cui il fatto e' stato commesso.   
+  
+In caso di condanna per il delitto di cui all'articolo 517-quater si applicano le pene accessorie indicate al primo comma del presente articolo se e' ritenuta la sussistenza di taluna delle circostanze aggravanti previste dall'articolo 517-octies.))
+
+Codice Penale-art. 518.2
+
+ Art. 518.2.   
+  
+
+(( (Confisca obbligatoria e per equivalente).))
+
+.   
+  
+
+((Nei casi di cui agli articoli 517-quater, 517-sexies e 517-septies e' sempre ordinata, salvi i diritti della persona offesa alle restituzioni e al risarcimento del danno, la confisca delle cose che servirono o furono destinate a commettere il reato e delle cose che ne sono l'oggetto, il prodotto, il prezzo o il profitto, salvo che siano appartenenti a persona estranea al reato medesimo. Si applicano le disposizioni di cui all'articolo 474-bis, secondo e quarto comma))
+
+.   
 
 Codice Penale-art. 518 bis
 
@@ -11215,13 +11305,9 @@ Fuori dei casi di concorso nel reato, chi, al fine di procurare a se' o ad altri
   
 La pena e' aumentata quando il fatto riguarda beni culturali provenienti dai delitti di rapina aggravata ai sensi
 
-((degli articoli))
+((degli articoli 628))
 
-628, terzo comma,
-
-((o 628-bis,))
-
-e di estorsione aggravata ai sensi dell'articolo 629, secondo comma.   
+, terzo comma, o 628-bis, e di estorsione aggravata ai sensi dell'articolo 629, secondo comma.   
   
 Le disposizioni del presente articolo si applicano anche quando l'autore del delitto da cui i beni culturali provengono non e' imputabile o non e' punibile ovvero quando manca una condizione di procedibilita' riferita a tale delitto.   
 
@@ -12525,13 +12611,9 @@ Codice Penale-art. 582
   
 Chiunque cagiona ad alcuno una lesione personale, dalla quale deriva una malattia nel corpo o nella mente, e' punito, a querela della persona offesa, con la reclusione da sei mesi a tre anni.   
   
-Si procede tuttavia d'ufficio se ricorre taluna delle circostanze aggravanti previste negli articoli
+Si procede tuttavia d'ufficio se ricorre taluna delle circostanze aggravanti previste negli articoli 583, 583-quater, secondo comma, primo periodo,
 
-((...))
-
-583
-
-((, 583-quater, secondo comma, primo periodo,))
+((e terzo comma,))
 
 e 585, ad eccezione di quelle indicate nel primo comma, numero 1), e nel secondo comma dell'articolo 577. Si procede altresi' d'ufficio se la malattia ha una durata superiore a venti giorni quando il fatto e' commesso contro persona incapace, per eta' o per infermita'.   
   
@@ -12627,21 +12709,21 @@ Codice Penale-art. 583 quater
  Art. 583-quater.   
   
 
-((Lesioni personali a un ufficiale o agente di polizia giudiziaria o di pubblica sicurezza nell'atto o a causa dell'adempimento delle funzioni, a un dirigente scolastico o a un membro del personale docente della scuola, a personale esercente una professione sanitaria o socio-sanitaria e a chiunque svolga attivita' ausiliarie a essa funzionali, nonche' a personale che svolge attivita' di prevenzione e accertamento delle infrazioni nell'ambito dei servizi di trasporto ferroviario o agli arbitri e agli altri soggetti che assicurano la regolarita' tecnica delle manifestazioni sportive))
+((Lesioni personali a un ufficiale o agente di polizia giudiziaria o di pubblica sicurezza nell'atto o a causa dell'adempimento delle funzioni, a personale scolastico o educativo, a personale esercente una professione sanitaria o socio-sanitaria e a chiunque svolga attivita' ausiliarie a essa funzionali, nonche' a personale che svolge attivita' di prevenzione o accertamento delle infrazioni nell'ambito dei servizi di trasporto pubblico o agli arbitri e agli altri soggetti che assicurano la regolarita' tecnica delle manifestazioni sportive))
 
-  
+.   
   
 Nell'ipotesi di lesioni personali cagionate a un ufficiale o agente di polizia giudiziaria o di pubblica sicurezza nell'atto o a causa dell'adempimento delle funzioni, si applica la reclusione da due a cinque anni. In caso di lesioni gravi o gravissime, la pena e', rispettivamente, della reclusione da quattro a dieci anni e da otto a sedici anni.   
   
 
-((Nell'ipotesi di lesioni personali cagionate a un dirigente scolastico o a un membro del personale docente della scuola, a))
+((Nell'ipotesi di lesioni personali cagionate a un dirigente scolastico o a un membro del personale docente, educativo, amministrativo, tecnico o ausiliario della scuola, ovvero a))
 
 personale esercente una professione sanitaria o socio-sanitaria nell'esercizio o a causa delle funzioni o del servizio, nonche' a chiunque svolga attivita' ausiliarie di cura, assistenza sanitaria o soccorso, funzionali allo svolgimento di dette professioni e servizi di sicurezza complementare in conformita' alla legislazione vigente, nell'esercizio o a causa di tali attivita', si applica la reclusione da due a cinque anni. In caso di lesioni personali gravi o gravissime si applicano le pene di cui al comma primo, secondo periodo.   
   
 
-((Nelle ipotesi di lesioni cagionate al personale che svolge, a bordo dei convogli adibiti al trasporto di passeggeri, attivita' di prevenzione e accertamento delle infrazioni alle norme relative alla regolarita' e alla sicurezza dei servizi di trasporto ferroviario, nell'esercizio o a causa di tali attivita', si applicano le pene di cui al primo comma.))
+((Nelle ipotesi di lesioni cagionate al personale che svolge, a bordo dei mezzi adibiti al trasporto di passeggeri ovvero nelle aree delle infrastrutture destinate al medesimo servizio, attivita' di prevenzione o accertamento delle infrazioni alle norme relative alla regolarita' e alla sicurezza dei servizi di trasporto pubblico, nell'esercizio o a causa di tali attivita', si applicano le pene di cui al primo comma))
 
-  
+.   
   
 Le disposizioni del primo comma si applicano anche se uno dei fatti ivi indicati e' commesso in occasione di manifestazioni sportive nei confronti degli arbitri o degli altri soggetti che assicurano la regolarita' tecnica delle stesse.   
 
@@ -14564,13 +14646,16 @@ furto con strappo
   
 Chiunque si impossessa della cosa mobile altrui, sottraendola a chi la detiene, al fine di trarne profitto per se' o per altri, mediante introduzione in un edificio o in altro luogo destinato in tutto o in parte a privata dimora o nelle pertinenze di essa, e' punito con la reclusione da quattro a sette anni e con la multa da euro 927 a euro 1.500.   
   
-Alla stessa pena di cui al primo comma soggiace chi si impossessa della cosa mobile altrui, sottraendola a chi la detiene, al fine di trarne profitto per se' o per altri, strappandola di mano o di dosso alla persona
+Alla stessa pena di cui al primo comma soggiace chi si impossessa della cosa mobile altrui, sottraendola a chi la detiene, al fine di trarne profitto per se' o per altri, strappandola di mano o di dosso alla persona.
 
-((ovvero agendo con destrezza su mezzi di pagamento anche elettronici, documenti di identita', strumenti informatici o telematici o telefoni cellulari o su denaro o beni di valore tale da determinare un danno patrimoniale di rilevante gravita'))
+((La medesima pena si applica altresi' a chi, per lo stesso fine, agendo con destrezza direttamente su mezzi di pagamento anche elettronici, documenti di identita', strumenti informatici o telematici o telefoni cellulari o su somme di denaro o beni di valore tali da determinare un danno patrimoniale di rilevante gravita', si impossessa di detti beni, sottraendoli a chi li detiene))
 
 .   
   
-La pena e' della reclusione da cinque a dieci anni e della multa da euro 1.000 a euro 2.500 se il reato e' aggravato da una o piu' delle circostanze previste nel primo comma dell'articolo 625 ovvero se ricorre una o piu' delle circostanze indicate all'articolo 61.   
+
+((La pena e' della reclusione da sei a dieci anni e della multa da euro 1.500 a euro 2.500 se il reato di cui al primo comma e' aggravato da una o piu' delle circostanze previste nel primo comma dell'articolo 625 ovvero se ricorre una o piu' delle circostanze indicate all'articolo 61. Nel caso di cui al secondo comma, si applica la pena della reclusione da cinque a dieci anni e della multa da euro 1.000 a euro 2.500))
+
+.   
   
 Le circostanze attenuanti, diverse da quelle previste dagli articoli 98 e 625-bis, concorrenti con una o piu' delle circostanze aggravanti di cui all'articolo 625, non possono essere ritenute equivalenti o prevalenti rispetto a queste e le diminuzioni di pena si operano sulla quantita' della stessa risultante dall'aumento conseguente alle predette circostanze aggravanti. (385)   
 
@@ -14777,26 +14862,23 @@ Codice Penale-art. 628 bis
 
  Art. 628-bis.   
   
-
-(( (Rapina aggravata commessa da un gruppo organizzato) ))
-
-.   
+(Rapina aggravata commessa da un gruppo organizzato) .   
   
   
+La pena e' della reclusione da dieci a venticinque anni e della multa da euro 6.000 a euro 9.000 se il fatto di cui all'articolo 628, primo comma, e' commesso in danno di istituti di credito, uffici postali, sportelli automatici, veicoli adibiti al trasporto di valori o locali attrezzati per il deposito e la custodia di valori, da un gruppo organizzato che scorre in armi le campagne o le pubbliche vie ovvero fa uso di dispositivi esplosivi o comunque micidiali, armi, sostanze chimiche o batteriologiche nocive o pericolose, o impiega ogni altra tecnica o metodo per il compimento di atti di violenza o sabotaggio
 
-((La pena e' della reclusione da dieci a venticinque anni e della multa da euro 6.000 a euro 9.000 se il fatto di cui all'articolo 628, primo comma, e' commesso in danno di istituti di credito, uffici postali, sportelli automatici, veicoli adibiti al trasporto di valori o locali attrezzati per il deposito e la custodia di valori, da un gruppo organizzato che scorre in armi le campagne o le pubbliche vie ovvero fa uso di dispositivi esplosivi o comunque micidiali, armi, sostanze chimiche o batteriologiche nocive o pericolose, o impiega ogni altra tecnica o metodo per il compimento di atti di violenza o sabotaggio Se l'aggravante di cui al primo comma concorre con una o piu' delle circostanze di cui al terzo comma dell'articolo 628 o con altra fra quelle indicate nell'articolo 61, la pena e' della reclusione da dodici a venticinque anni e della multa da euro 7.000 a euro 9.000))
-
-.   
-  
-
-((Si applica il quinto comma dell'articolo 628))
+((.))
 
 .   
   
 
-((Nei confronti del concorrente che, dissociandosi dagli altri, si adopera per evitare che l'attivita' delittuosa sia portata a conseguenze ulteriori ovvero aiuta concretamente l'autorita' di polizia o l'autorita' giudiziaria nella raccolta di prove decisive per l'individuazione o la cattura dei concorrenti o nel recupero dei proventi del delitto o degli strumenti utilizzati per la commissione dello stesso, la pena e' diminuita da un terzo a due terzi))
+((Se l'aggravante di cui al primo comma concorre con una o piu' delle circostanze di cui al terzo comma dell'articolo 628 o con altra fra quelle indicate nell'articolo 61, la pena e' della reclusione da dodici a venticinque anni e della multa da euro 7.000 a euro 9.000.))
 
-.   
+  
+  
+Si applica il quinto comma dell'articolo 628.   
+  
+Nei confronti del concorrente che, dissociandosi dagli altri, si adopera per evitare che l'attivita' delittuosa sia portata a conseguenze ulteriori ovvero aiuta concretamente l'autorita' di polizia o l'autorita' giudiziaria nella raccolta di prove decisive per l'individuazione o la cattura dei concorrenti o nel recupero dei proventi del delitto o degli strumenti utilizzati per la commissione dello stesso, la pena e' diminuita da un terzo a due terzi.   
 
 Codice Penale-art. 629
 
@@ -15725,13 +15807,9 @@ Codice Penale-art. 648
   
 Fuori dei casi di concorso nel reato, chi, al fine di procurare a se' o ad altri un profitto, acquista, riceve od occulta denaro o cose provenienti da un qualsiasi delitto, o comunque si intromette nel farle acquistare, ricevere od occultare, e' punito con la reclusione da due ad otto anni e con la multa da lire cinquecentomila a lire dieci milioni. La pena e' aumentata quando il fatto riguarda denaro o cose provenienti da delitti di rapina aggravata ai sensi
 
-((degli articoli))
+((degli articoli 628))
 
-628, terzo comma,
-
-((o 628-bis,))
-
-di estorsione aggravata ai sensi dell'articolo 629, secondo comma, ovvero di furto aggravato ai sensi dell'articolo 625, primo comma, n. 7-bis).   
+, terzo comma, o 628-bis, di estorsione aggravata ai sensi dell'articolo 629, secondo comma, ovvero di furto aggravato ai sensi dell'articolo 625, primo comma, n. 7-bis).   
   
 La pena e' della reclusione da uno a quattro anni e della multa da euro 300 a euro 6.000 quando il fatto riguarda denaro o cose provenienti da contravvenzione punita con l'arresto superiore nel massimo a un anno o nel minimo a sei mesi.   
   
@@ -15962,15 +16040,11 @@ Codice Penale-art. 654
   
 (Grida e manifestazioni sediziose)   
   
-Chiunque, in una riunione che non sia da considerare privata a norma del numero 3° dell'articolo 266 ovvero in un luogo pubblico, aperto o esposto al pubblico, compie manifestazioni o emette grida sediziose e' punito, se il fatto non costituisce reato, con la sanzione amministrativa pecuniaria da lire duecentomila a un milione duecentomila.
+Chiunque, in una riunione che non sia da considerare privata a norma del numero 3° dell'articolo 266 ovvero in un luogo pubblico, aperto o esposto al pubblico, compie manifestazioni o emette grida sediziose e' punito, se il fatto non costituisce reato, con la sanzione amministrativa pecuniaria
 
-((389))
+((da euro 400 a euro 2.400))
 
---------------
-
-AGGIORNAMENTO (389)
-
-Il [D.L. 24 febbraio 2026, n. 23](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2026-02-24;23), ha disposto (con l'art. 9, comma 2) che "All'[articolo 654, primo comma, del codice penale](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art654-com1), le parole «da euro 103 a euro 619» sono sostituite dalle seguenti: «da euro 400 a euro 2400»".
+.   
 
 Codice Penale-art. 655
 

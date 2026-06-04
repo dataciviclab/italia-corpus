@@ -590,6 +590,16 @@ c) e' istituito un registro ove riportare i quantitativi e i tipi di mine antipe
 
 3. Con il decreto interministeriale di cui all'[articolo 4, comma 3, della legge 20 dicembre 2000, n. 420](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2000-12-20;420~art4-com3), e' definita la disciplina relativa alle attivita' procedurali e le modalita' di distruzione degli esplosivi non contrassegnati.
 
+### Art. 22-bis
+
+(( (Servizio di rifornimento idrico delle isole minori della Sicilia) ))
+
+1. 
+
+((Nei casi di cui all'[articolo 4, secondo comma, della legge 21 dicembre 1978, n. 861](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-12-21;861~art4-com2), il servizio di rifornimento idrico delle isole minori della Sicilia e' svolto mediante affidamento a idonei operatori economici con fondi del bilancio del Ministero della difesa, fermo restando quanto previsto dall'[articolo 6 della legge 19 maggio 1967, n. 378](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1967-05-19;378~art6)))
+
+.
+
 CAPO V - SEZIONE II ORGANI CONSULTIVI E ((COMMISSIONI DI ELEVATA SPECIALIZZAZIONE TECNICA))
 -------------------------------------------------------------------------------------------
 
@@ -699,7 +709,17 @@ a) dispone di uno Stato maggiore il cui ordinamento e' fissato nel regolamento;
 
 b) si avvale del Comando operativo di vertice interforze di cui all'articolo 29;
 
-2. Sono unificate presso lo Stato maggiore della difesa le attribuzioni e le attivita' generali concernenti la pianificazione, la predisposizione e l'impiego delle Forze armate, nonche' le attivita' svolte nell'ambito delle strutture centrali di Forza armata suscettibili di accorpamento interforze.
+((
+
+b-bis) si avvale della Direzione della Sanita' militare di cui all'articolo 188-quater, per le attribuzioni di carattere tecnico-operativo a quest'ultima affidate.
+
+))
+
+2. Sono unificate presso lo Stato maggiore della difesa le attribuzioni e le attivita' generali concernenti la pianificazione, la predisposizione e l'impiego delle Forze armate
+
+((e della Sanita' militare))
+
+, nonche' le attivita' svolte nell'ambito delle strutture centrali di Forza armata suscettibili di accorpamento interforze.
 
 3. Dipendono direttamente dal Capo di stato maggiore della difesa gli altri comandi ed enti interforze indicati nel regolamento.
 
@@ -2205,13 +2225,15 @@ Il [D.P.R. 6 agosto 2013, n. 115](http://www.normattiva.it/uri-res/N2Ls?urn:nir:
 
 ### Art. 105
 
-(( (Organizzazione logistica dell'Esercito italiano).))
-
-((
+(Organizzazione logistica dell'Esercito italiano)
 
 1. L'organizzazione logistica dell'Esercito italiano fa capo al Comando logistico dell'Esercito da cui dipendono:
 
-a) i comandi trasporti e materiali, commissariato, sanita' e veterinaria, e tecnico;
+a) i comandi trasporti e materiali, commissariato
+
+((...))
+
+e tecnico;
 
 b) i poli di mantenimento e di rifornimento;
 
@@ -2219,13 +2241,19 @@ c) il Centro polifunzionale di sperimentazione;
 
 d) il Centro tecnico logistico interforze NBC;
 
-e) il Policlinico militare di Roma;
+e)
 
-f) il Centro militare di veterinaria.
+((LETTERA ABROGATA DAL [D.LGS. 3 APRILE 2026, N. 74](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2026-04-03;74)))
+
+;
+
+f)
+
+((LETTERA ABROGATA DAL [D.LGS. 3 APRILE 2026, N. 74](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2026-04-03;74)))
+
+.
 
 2. Le funzioni, l'ordinamento, le sedi, le dipendenze e l'articolazione del Comando di cui al comma 1, nonche' dei comandi, unita' e reparti dipendenti, sono definiti con determinazione del Capo di stato maggiore dell'Esercito.
-
-))
 
 ### Art. 106
 
@@ -2320,37 +2348,21 @@ b) il concorso ai fini di prevenzione e di contrasto del traffico dei migranti v
 
 c) il concorso al contrasto al traffico di sostanze stupefacenti, ai sensi dell'[articolo 99 del decreto del Presidente della Repubblica 9 ottobre 1990, n. 309](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1990-10-09;309~art99);
 
-d) il servizio di rifornimento idrico delle isole minori.
+d)
 
-d-bis)
+((il concorso al rifornimento idrico delle isole minori a favore delle collettivita' e, in ordine al servizio reso con le modalita' di cui all'articolo 22-bis, lo svolgimento delle funzioni di ente esecutore di cui all'articolo 6 dell'allegato II.20 al [codice dei contratti pubblici](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006-04-12;163), di cui al [decreto legislativo 31 marzo 2023, n. 36](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2023-03-31;36)))
 
-((la regolamentazione tecnica della navigazione subacquea militare e, nel rispetto delle direttive in materia di politiche della dimensione subacquea del Presidente del Consiglio dei ministri o dell'Autorita' politica delegata per le politiche del mare ove nominata, dei titoli abilitanti alla conduzione o al controllo di mezzi subacquei militari con equipaggio, autonomi o a pilotaggio remoto;))
+;
 
-d-ter)
+d-bis) la regolamentazione tecnica della navigazione subacquea militare e, nel rispetto delle direttive in materia di politiche della dimensione subacquea del Presidente del Consiglio dei ministri o dell'Autorita' politica delegata per le politiche del mare ove nominata, dei titoli abilitanti alla conduzione o al controllo di mezzi subacquei militari con equipaggio, autonomi o a pilotaggio remoto;
 
-((la protezione dell'infrastruttura subacquea nazionale mediante uso della forza, nel rispetto della normativa vigente e in caso di violazione dei limiti posti dalla legge alla navigazione subacquea. A tale fine, ferme restando le competenze del Corpo della Guardia di finanza ai sensi del [decreto legislativo 19 agosto 2016, n. 177](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2016-08-19;177), la Marina militare puo' ordinare ed eseguire l'ingaggio, la disabilitazione, la distruzione, il sequestro o il dirottamento in un porto dello Stato di qualsiasi mezzo intento alla distruzione, al danneggiamento o alla manomissione di condutture e cavi sottomarini che approdano nel territorio nazionale o sono di interesse nazionale ai sensi della normativa vigente;))
+d-ter) la protezione dell'infrastruttura subacquea nazionale mediante uso della forza, nel rispetto della normativa vigente e in caso di violazione dei limiti posti dalla legge alla navigazione subacquea. A tale fine, ferme restando le competenze del Corpo della Guardia di finanza ai sensi del [decreto legislativo 19 agosto 2016, n. 177](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2016-08-19;177), la Marina militare puo' ordinare ed eseguire l'ingaggio, la disabilitazione, la distruzione, il sequestro o il dirottamento in un porto dello Stato di qualsiasi mezzo intento alla distruzione, al danneggiamento o alla manomissione di condutture e cavi sottomarini che approdano nel territorio nazionale o sono di interesse nazionale ai sensi della normativa vigente; (132)
 
-((132))
+d-quater) il controllo nelle acque interne nazionali, nel mare territoriale nazionale e nella piattaforma continentale nazionale, per fini di difesa militare dello Stato e, per le medesime finalita', la prevenzione della navigazione subacquea non autorizzata; (132)
 
-d-quater)
+d-quinquies) la cooperazione con le marine militari di Stati alleati o confinanti, nel rispetto delle direttive del Ministro della difesa, per la vigilanza delle infrastrutture subacquee.
 
-((il controllo nelle acque interne nazionali, nel mare territoriale nazionale e nella piattaforma continentale nazionale, per fini di difesa militare dello Stato e, per le medesime finalita', la prevenzione della navigazione subacquea non autorizzata;))
-
-((132))
-
-d-quinquies)
-
-((la cooperazione con le marine militari di Stati alleati o confinanti, nel rispetto delle direttive del Ministro della difesa, per la vigilanza delle infrastrutture subacquee))
-
-.
-
-1-bis. La Marina militare promuove le attivita' per la valorizzazione delle potenzialita' e della competitivita' del settore della subacquea nazionale, per la promozione delle connesse attivita' di ricerca e tecnico-scientifiche nonche' per il potenziamento delle innovazioni e della relativa proprieta' intellettuale. A tale fine, con decreto del Ministro della difesa, di concerto con i Ministri delle imprese e del made in Italy
-
-((, dell'universita' e della ricerca e dell'Autorita' politica delegata per le politiche del mare))
-
-, e' istituito e disciplinato il Polo nazionale della subacquea.
-
-((132))
+1-bis. La Marina militare promuove le attivita' per la valorizzazione delle potenzialita' e della competitivita' del settore della subacquea nazionale, per la promozione delle connesse attivita' di ricerca e tecnico-scientifiche nonche' per il potenziamento delle innovazioni e della relativa proprieta' intellettuale. A tale fine, con decreto del Ministro della difesa, di concerto con i Ministri delle imprese e del made in Italy, dell'universita' e della ricerca e dell'Autorita' politica delegata per le politiche del mare, e' istituito e disciplinato il Polo nazionale della subacquea. (132)
 
 ------------
 
@@ -2383,13 +2395,13 @@ Organizzazione logistica della Marina militare
 
 3. Il Comando in capo della Squadra navale esercita funzioni logistiche di supporto diretto ai comandi dipendenti, ai fini dell'approntamento e del mantenimento in efficienza dello strumento operativo.
 
-4. L'Ispettorato di sanita' della Marina militare, alle dipendenze del Capo di stato maggiore della Marina, esercita funzioni di indirizzo nell'ambito della logistica sanitaria.
+4. 
 
-4-bis. 
-
-((L'Ente circoli di cui all'articolo 131-bis rientra nell'organizzazione logistica della Marina militare ed e' posto alle dirette dipendenze del Capo di stato maggiore della Marina militare))
+((COMMA ABROGATO DAL [D.LGS. 3 APRILE 2026, N. 74](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2026-04-03;74)))
 
 .
+
+4-bis. L'Ente circoli di cui all'articolo 131-bis rientra nell'organizzazione logistica della Marina militare ed e' posto alle dirette dipendenze del Capo di stato maggiore della Marina militare.
 
 5. Le sedi, l'ordinamento e le funzioni dei comandi e degli enti dell'organizzazione logistica di cui al presente articolo, sono individuati con determinazione del Capo di stato maggiore della Marina militare.
 
@@ -3259,7 +3271,19 @@ c) Corpo di commissariato aeronautico;
 
 d) Corpo sanitario aeronautico.
 
-2. Gli articoli 148, 149 e 150 stabiliscono, rispettivamente, la ripartizione e le attribuzioni degli elementi di cui al comma 1, lettere b), c) e d).
+2. 
+
+((Gli articoli 148 e 149 stabiliscono, rispettivamente, la ripartizione e le attribuzioni degli elementi di cui al comma 1, lettere b) e c).))
+
+((138))
+
+---------------
+
+AGGIORNAMENTO (138)
+
+Il [D.Lgs. 3 aprile 2026, n. 74](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2026-04-03;74) ha disposto (con l'art. 20, comma 2, lettera a)) che "Le seguenti disposizioni inerenti alla costituzione del Corpo unico della Sanita' militare e al relativo transito del personale sanitario proveniente dalle Forze armate e dall'Arma dei carabinieri hanno effetto contestualmente a decorrere dal 1° gennaio 2027:   
+a) articolo 4, comma 1, lettere c), e), f), g), h), e i);   
+[...]
 
 ### Art. 148
 
@@ -3674,27 +3698,15 @@ Attribuzioni del Comandante generale in campo internazionale
 
 Attribuzioni del Vice comandante generale
 
-1. Il Vice comandante generale e' il generale di corpo d'armata in servizio permanente effettivo piu' anziano in ruolo
+1. Il Vice comandante generale e' il generale di corpo d'armata in servizio permanente effettivo piu' anziano in ruolo tra quelli che si trovano ad almeno un anno dal limite di eta' per la cessazione dal servizio permanente ed e' nominato con decreto del Presidente della Repubblica, previa deliberazione del Consiglio dei ministri, su proposta del Ministro della difesa. Il decreto di nomina e' predisposto dal Comandante generale e trasmesso dal Capo di stato maggiore della difesa.
 
-((tra quelli che si trovano ad almeno un anno dal limite di eta' per la cessazione dal servizio permanente))
+2. Rimane in carica
 
-ed e' nominato con decreto del Presidente della Repubblica, previa deliberazione del Consiglio dei ministri, su proposta del Ministro della difesa. Il decreto di nomina e' predisposto dal Comandante generale e trasmesso dal Capo di stato maggiore della difesa.
+((per un periodo pari a due anni, salvo che nel frattempo debba cessare dal servizio permanente effettivo per limiti di eta' o per altra causa prevista dalla legge))
 
-2. Rimane in carica con mandato della durata
+. Il Vice comandante generale e' gerarchicamente preminente rispetto agli altri generali di corpo d'armata dell'Arma dei carabinieri.
 
-((di un anno, senza possibilita' di proroga o rinnovo. Se, al termine del mandato di un anno, non e' presente in ruolo alcun generale di corpo d'armata che si trova ad almeno un anno dal limite di eta' per la cessazione dal servizio permanente, il Vice comandante generale in carica e' confermato nell'incarico sino a un massimo di due anni e comunque non oltre la data di cessazione dal servizio permanente. Il Vice comandante generale))
-
-e' gerarchicamente preminente rispetto agli altri generali di corpo d'armata dell'Arma dei carabinieri.
-
-3. Il Ministro della difesa ha facolta' di escludere il generale di corpo d'armata
-
-((di cui al comma 1))
-
-e proporre la nomina di quello che lo segue in ordine di anzianita'
-
-((tra quelli che si trovano ad almeno un anno dal limite di eta' per la cessazione dal servizio permanente))
-
-.
+3. Il Ministro della difesa ha facolta' di escludere il generale di corpo d'armata di cui al comma 1 e proporre la nomina di quello che lo segue in ordine di anzianita' tra quelli che si trovano ad almeno un anno dal limite di eta' per la cessazione dal servizio permanente.
 
 4. Il Vice comandante generale esercita le funzioni vicarie in caso di assenza o di impedimento del Comandante generale e lo coadiuva, assolvendo le funzioni e i compiti delegati; presiede la commissione ordinaria di avanzamento degli ufficiali dei carabinieri e su delega del Comandante generale effettua ispezioni agli Alti Comandi dell'Arma.
 
@@ -3906,6 +3918,36 @@ Qualifiche di pubblica sicurezza
 
 ))
 
+### Art. 179-ter
+
+(( (Qualifiche di polizia giudiziaria e di pubblica sicurezza degli ufficiali e dei sottufficiali del Corpo unico della Sanita' militare impiegati per specifiche esigenze dell'Arma dei carabinieri). ))
+
+  
+  
+1.
+
+((Gli ufficiali e i sottufficiali del Corpo unico della Sanita' militare impiegati presso i reparti investigativi individuati con determinazione del Comandante generale dell'Arma dei carabinieri rivestono, limitatamente al periodo di servizio espletato presso tali unita' organizzative, le qualifiche di ufficiale di polizia giudiziaria, esclusi gli ufficiali generali, e di agente di pubblica sicurezza.))
+
+  
+2.
+
+((Gli ufficiali e i sottufficiali da destinare ai reparti di cui al comma 1, sono individuati dal Direttore della Sanita' militare con propria determinazione, di concerto con il Comandante generale dell'Arma dei carabinieri.))
+
+  
+3.
+
+((Le qualifiche di cui al comma 1 decadono al termine del periodo di servizio espletato presso l'Arma dei carabinieri.))
+
+((138))
+
+---------------
+
+AGGIORNAMENTO (138)
+
+Il [D.Lgs. 3 aprile 2026, n. 74](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2026-04-03;74) ha disposto (con l'art. 20, comma 2, lettera a)) che "Le seguenti disposizioni inerenti alla costituzione del Corpo unico della Sanita' militare e al relativo transito del personale sanitario proveniente dalle Forze armate e dall'Arma dei carabinieri hanno effetto contestualmente a decorrere dal 1° gennaio 2027:   
+a) articolo 4, comma 1, lettere c), e), f), g), h), e i);   
+[...]
+
 ### Art. 180
 
 Disposizioni ulteriori in tema di organizzazione e servizio dell'Arma dei carabinieri
@@ -3926,21 +3968,22 @@ CAPO XXVI - TITOLO V SANITA' MILITARE CAPO I DISPOSIZIONI GENERALI
 
 ### Art. 181
 
-Istituzione e funzioni del Servizio sanitario militare
+(( (Istituzione e funzioni del Servizio sanitario militare nazionale). ))
 
 1. 
 
-((Il Servizio sanitario militare, di seguito denominato: "Sanita' militare" provvede:))
+((E' istituito il Servizio sanitario militare nazionale, di seguito denominato "Sanita' militare", che costituisce la componente sanitaria della difesa.))
 
-a) all'accertamento dell'idoneita' dei cittadini al servizio militare;
+2. 
 
-b) all'accertamento dell'idoneita' dei militari al servizio incondizionato;
-
-c) alla tutela della salute dei militari;
-
-d) ai rifornimenti e allestimenti dei materiali tecnici e di servizio generale che occorrono per i bisogni in tempo di pace, di guerra o di grave crisi internazionale;
-
-e) a ogni altro adempimento previsto dal presente codice, dal regolamento o dalla legge.
+((La Sanita' militare esercita le seguenti funzioni:   
+a) sostegno dell'operativita' delle Forze armate in Italia e all'estero, incluso il servizio medico chirurgico sulle unita' navali;   
+b) tutela della salute del personale della difesa, nonche' delle altre categorie destinatarie delle prestazioni erogate dalla Sanita' militare;   
+c) accertamento dell'idoneita' dei cittadini al servizio militare e dei militari al servizio incondizionato;   
+d) accertamento dell'idoneita' al volo e ai servizi di navigazione aerea del personale militare e di altre pubbliche amministrazioni, nonche' dell'idoneita' psico-fisica e della persistenza di tale idoneita' degli aspiranti al conseguimento di licenze e attestati aeronautici;   
+e) rifornimenti e allestimenti dei materiali tecnici e di servizio generale che occorrono per i bisogni in tempo di pace, di guerra o di grave crisi internazionale;   
+f) supporto al Servizio sanitario nazionale, secondo il principio della sussidiarieta', e svolgimento di attivita' di medicina preventiva, nonche' di compiti specifici in circostanze di pubblica calamita' e in altri casi di straordinaria necessita' e urgenza;   
+g) ogni altro adempimento previsto dal presente codice, dal regolamento o dalla legge.))
 
 ### Art. 182
 
@@ -3982,53 +4025,9 @@ a) d'intesa con la Conferenza permanente per i rapporti tra lo Stato, le regioni
 
 b) le categorie destinatarie e le tipologie delle prestazioni erogate dalle strutture sanitarie militari.
 
-Note all'art. 183:  
-- Il testo degli [articoli 39](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-12-23;833~art39), [40](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-12-23;833~art40), [41](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-12-23;833~art41) e [42 della legge 23 dicembre 1978, n. 833](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-12-23;833~art42) (Istituzione del servizio sanitario nazionale) pubblicata nel supplemento ordinario alla Gazzetta Ufficiale del 28 dicembre 1978, n. 360, e' il seguente:  
-«Art. 39 (Cliniche universitarie e relative convenzioni). - Fino alla riforma dell'ordinamento universitario e della facolta' di medicina, per i rapporti tra regioni ed universita' relativamente alle attivita' del servizio sanitario nazionale, si applicano le disposizioni di cui ai successivi commi.  
-Al fine di realizzare un idoneo coordinamento delle rispettive funzioni istituzionali, le regioni e l'universita' stipulano convenzioni per disciplinare, anche sotto l'aspetto finanziario:  
-1) l'apporto nel settore assistenziale delle facolta' di medicina alla realizzazione degli obiettivi della programmazione sanitaria regionale;  
-2) l'utilizzazione da parte delle facolta' di medicina, per esigenze di ricerca e di insegnamento, di idonee strutture delle unita' sanitarie locali e l'apporto di queste ultime ai compiti didattici e di ricerca dell'universita'.  
-Tali convenzioni una volta definite fanno parte dei piani sanitari regionali di cui al terzo comma dell'articolo 11.  
-Con tali convenzioni:  
-a) saranno indicate le strutture delle unita' sanitarie locali da utilizzare ai fini didattici e di ricerca, in quanto rispondano ai requisiti di idoneita' fissati con decreto interministeriale adottato di concerto tra i Ministri della pubblica istruzione e della sanita';  
-b) al fine di assicurare il miglior funzionamento dell'attivita' didattica e di ricerca mediante la completa utilizzazione del personale docente delle facolta' di medicina e l'apporto all'insegnamento di personale ospedaliero laureato e di altro personale laureato e qualificato sul piano didattico, saranno indicate le strutture a direzione universitaria e quelle a direzione ospedaliera alle quali affidare funzioni didattiche integrative di quelle universitarie. Le strutture a direzione ospedaliera cui vengono affidate le suddette funzioni didattiche non possono superare il numero di quelle a direzione universitaria.  
-Le indicazioni previste nelle lettere a) e b) del precedente comma sono formulate previo parere espresso da una commissione di esperti composta da tre rappresentanti della universita' e tre rappresentanti della regione.  
-Le convenzioni devono altresi' prevedere:  
-1) che le cliniche e gli istituti universitari di ricovero e cura che sono attualmente gestiti direttamente dall'universita', fermo restando il loro autonomo ordinamento, rientrino, per quanto concerne l'attivita' di assistenza sanitaria, nei piani sanitari nazionali e regionali;  
-2) che l'istituzione di nuove divisioni, sezioni e servizi per sopravvenute esigenze didattiche e di ricerca che comportino nuovi oneri connessi all'assistenza a carico delle regioni debba essere attuata d'intesa tra regioni ed universita'.  
-In caso di mancato accordo tra regioni ed universita' in ordine alla stipula della convenzione o in ordine alla istituzione di nuove divisioni, sezioni e servizi di cui al comma precedente si applica la procedura di cui all'[art. 50, L. 12 febbraio 1968, n. 132](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1968-02-12;132~art50), sentiti il Consiglio sanitario nazionale e la 1ª sezione del Consiglio superiore della pubblica istruzione.  
-Le convenzioni di cui al secondo comma vanno attuate, per quanto concerne la utilizzazione delle strutture assistenziali delle unita' sanitarie locali, con specifiche convenzioni, da stipulare tra l'universita' e l'unita' sanitaria locale, che disciplineranno sulla base della legislazione vigente le materie indicate nell'[art. 4 del D.P.R. 27 marzo 1969, n. 129](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1969-03-27;129~art4).  
-Le convenzioni previste dal presente articolo sono stipulate sulla base di schemi tipo da emanare entro sei mesi dall'entrata in vigore della presente legge, approvati di concerto tra i Ministri della pubblica istruzione e della sanita', sentite le regioni, il Consiglio sanitario nazionale e la 1ª Sezione del Consiglio superiore della pubblica istruzione.»  
-«Art. 40 (Enti di ricerca e relative convenzioni). - Convenzioni analoghe a quelle previste per le cliniche universitarie, e di cui all'articolo 39 della presente legge, potranno essere stipulate tra le regioni e gli enti di ricerca i cui organi svolgano attivita' finalizzata agli obiettivi del servizio sanitario nazionale, al fine di disciplinare la erogazione da parte di tali organi di prestazioni sanitarie a livello preventivo, assistenziale e riabilitativo, nonche' la utilizzazione del personale degli enti di ricerca secondo i fini della presente legge.».  
-«Art. 41 (Convenzioni con istituzioni sanitarie riconosciute che erogano assistenza pubblica). - Salva la vigilanza tecnico-sanitaria spettante all'unita' sanitaria locale competente per territorio, nulla e' innovato alle disposizioni vigenti per quanto concerne il regime giuridico-amministrativo degli istituti ed enti ecclesiastici civilmente riconosciuti che esercitano l'assistenza ospedaliera, nonche' degli ospedali di cui all'[art. 1, L. 26 novembre 1973, n. 817](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1973-11-26;817~art1).  
-Salva la vigilanza tecnico-sanitaria spettante all'unita' sanitaria locale competente per territorio, nulla e' innovato alla disciplina vigente per quanto concerne l'ospedale Galliera di Genova. Con legge dello Stato entro il 31 dicembre 1979, si provvede al nuovo ordinamento dell'Ordine mauriziano, ai sensi della XIV Disposizione transitoria e finale della Costituzione ed in conformita', sentite le regioni interessate, per quanto attiene all'assistenza ospedaliera, ai principi di cui alla presente legge.  
-I rapporti delle unita' sanitarie locali competenti per territorio con gli istituti, enti ed ospedali di cui al primo comma che abbiano ottenuto la classificazione ai sensi della [L. 12 febbraio 1968, n. 132](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1968-02-12;132), nonche' l'ospedale Galliera di Genova e con il Sovrano Ordine militare di Malta, sono regolati da apposite convenzioni.  
-Le convenzioni di cui al terzo comma del presente articolo devono essere stipulate in conformita' a schemi tipo approvati dal Consiglio dei ministri, su proposta del Ministro della sanita', sentito il Consiglio sanitario nazionale.  
-Le regioni, nell'assicurare la dotazione finanziaria alle unita' sanitarie locali, devono tener conto delle convenzioni di cui al presente articolo.»  
-«Art. 42 (Istituti di ricovero e di cura a carattere scientifico). - Le disposizioni del presente articolo si applicano agli istituti che insieme a prestazioni sanitarie di ricovero e cura svolgono specifiche attivita' di ricerca scientifica biomedica.  
-Il riconoscimento del carattere scientifico di detti istituti e' effettuato con decreto del Ministro della sanita' di intesa con il Ministro della pubblica istruzione, sentite le regioni interessate e il Consiglio sanitario nazionale.  
-Detti istituti per la parte assistenziale sono considerati presidi ospedalieri multizonali delle unita' sanitarie locali nel cui territorio sono ubicati.  
-Nei confronti di detti istituti, per la parte assistenziale, spettano alle regioni le funzioni che esse esercitano nei confronti dei presidi ospedalieri delle unita' sanitarie locali o delle case di cura private a seconda che si tratti di istituti aventi personalita' giuridica di diritto pubblico o di istituti aventi personalita' giuridica di diritto privato. Continuano ad essere esercitate dai competenti organi dello Stato le funzioni attinenti al regime giuridico-amministrativo degli istituti.  
-Per gli istituti aventi personalita' giuridica di diritto privato sono stipulate dalle regioni convenzioni per assistenza sanitaria, sulla base di schemi tipo approvati dal Consiglio dei ministri, su proposta del Ministro della sanita', sentito il Consiglio sanitario nazionale, che tengano conto della particolarita' di detti istituti. I rapporti tra detti istituti e le regioni sono regolati secondo quanto previsto dagli articoli 41, 43 e 44 della presente legge.  
-Il controllo sulle deliberazioni degli istituti aventi personalita' giuridica di diritto pubblico, per quanto attiene alle attivita' assistenziali e' esercitato nelle forme indicate dal primo comma dell'articolo 49.  
-L'annullamento delle deliberazioni adottate in deroga alle disposizioni regionali non e' consentito ove la deroga sia stata autorizzata con specifico riguardo alle finalita' scientifiche dell'istituto, mediante decreto del Ministro della sanita' di concerto con il Ministro della ricerca scientifica.».  
-- Il testo dell'[art. 8-quinquies del decreto legislativo 30 dicembre 1992, n. 502](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-12-30;502~art8quinquies) (Riordino della disciplina in materia sanitaria, a norma dell'[articolo 1 della L. 23 ottobre 1992, n. 421](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-10-23;421~art1)), pubblicato nel supplemento ordinario alla Gazzetta Ufficiale del 30 dicembre 1992, n. 305, e' il seguente:  
-«Art. 8-quinquies (Accordi contrattuali). - 1. Le regioni, entro sessanta giorni dalla data di entrata in vigore del [decreto legislativo 19 giugno 1999, n. 229](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1999-06-19;229), definiscono l'ambito di applicazione degli accordi contrattuali e individuano i soggetti interessati, con specifico riferimento ai seguenti aspetti:  
-a) individuazione delle responsabilita' riservate alla regione e di quelle attribuite alle unita' sanitarie locali nella definizione degli accordi contrattuali e nella verifica del loro rispetto;  
-b) indirizzi per la formulazione dei programmi di attivita' delle strutture interessate, con l'indicazione delle funzioni e delle attivita' da potenziare e da depotenziare, secondo le linee della programmazione regionale e nel rispetto delle priorita' indicate dal Piano sanitario nazionale;  
-c) determinazione del piano delle attivita' relative alle alte specialita' e alla rete dei servizi di emergenza;  
-d) criteri per la determinazione della remunerazione delle strutture ove queste abbiano erogato volumi di prestazioni eccedenti il programma preventivo concordato, tenuto conto del volume complessivo di attivita' e del concorso allo stesso da parte di ciascuna struttura.  
-2. In attuazione di quanto previsto dal comma 1, la regione e le unita' sanitarie locali, anche attraverso valutazioni comparative della qualita' e dei costi, definiscono accordi con le strutture pubbliche ed equiparate, comprese le aziende ospedaliero-universitarie, e stipulano contratti con quelle private e con i professionisti accreditati, anche mediante intese con le loro organizzazioni rappresentative a livello regionale, che indicano:  
-a) gli obiettivi di salute e i programmi di integrazione dei servizi;  
-b) il volume massimo di prestazioni che le strutture presenti nell'ambito territoriale della medesima unita' sanitaria locale, si impegnano ad assicurare, distinto per tipologia e per modalita' di assistenza. Le regioni possono individuare prestazioni o gruppi di prestazioni per i quali stabilire la preventiva autorizzazione, da parte dell'azienda sanitaria locale competente, alla fruizione presso le strutture o i professionisti accreditati;  
-c) i requisiti del servizio da rendere, con particolare riguardo ad accessibilita', appropriatezza clinica e organizzativa, tempi di attesa e continuita' assistenziale;  
-d) il corrispettivo preventivato a fronte delle attivita' concordate, globalmente risultante dalla applicazione dei valori tariffari e della remunerazione extra-tariffaria delle funzioni incluse nell'accordo, da verificare a consuntivo sulla base dei risultati raggiunti e delle attivita' effettivamente svolte secondo le indicazioni regionali di cui al comma 1, lettera d);  
-e) il debito informativo delle strutture erogatrici per il monitoraggio degli accordi pattuiti e le procedure che dovranno essere seguite per il controllo esterno della appropriatezza e della qualita' della assistenza prestata e delle prestazioni rese, secondo quanto previsto dall'articolo 8-octies;  
-e-bis) la modalita' con cui viene comunque garantito il rispetto del limite di remunerazione delle strutture correlato ai volumi di prestazioni, concordato ai sensi della lettera d), prevedendo che in caso di incremento a seguito di modificazioni, comunque intervenute nel corso dell'anno, dei valori unitari dei tariffari regionali per la remunerazione delle prestazioni di assistenza ospedaliera, delle prestazioni di assistenza specialistica ambulatoriale, nonche' delle altre prestazioni comunque remunerate a tariffa, il volume massimo di prestazioni remunerate, di cui alla lettera b), si intende rideterminato nella misura necessaria al mantenimento dei limiti indicati alla lettera d), fatta salva la possibile stipula di accordi integrativi, nel rispetto dell'equilibrio economico-finanziario programmato.  
-2-bis. Con decreto del Ministro della sanita' e del Ministro della difesa, ai fini di cui al comma 2-ter, sono individuate le categorie destinatarie e le tipologie delle prestazioni erogate dalle strutture sanitarie militari.  
-2-ter. Con decreto del Ministro della sanita' e del Ministro della difesa, d'intesa con la Conferenza permanente per i rapporti tra lo Stato, le regioni e le province autonome, sono individuate, nel rispetto delle indicazioni degli strumenti di programmazione regionale e tenendo conto della localizzazione e della disponibilita' di risorse delle altre strutture sanitarie pubbliche esistenti, le strutture sanitarie militari accreditabili, nonche' le specifiche categorie destinatarie e le prestazioni ai fini della stipula degli accordi contrattuali previsti dal presente articolo. Gli accordi contrattuali sono stipulati tra le predette strutture sanitarie militari e le regioni nel rispetto della reciproca autonomia.  
-2-quater. Le regioni stipulano accordi con le fondazioni istituti di ricovero e cura a carattere scientifico e con gli istituti di ricovero e cura a carattere scientifico pubblici e contratti con gli istituti di ricovero e cura a carattere scientifico privati, che sono definiti con le modalita' di cui all'[articolo 10, comma 2, del decreto legislativo 16 ottobre 2003, n. 288](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2003-10-16;288~art10-com2). Le regioni stipulano altresi' accordi con gli istituti, enti ed ospedali di cui agli [articoli 41](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-12-23;833~art41) e [43, secondo comma, della legge 23 dicembre 1978, n. 833](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-12-23;833~art43-com2), e successive modificazioni, che prevedano che l'attivita' assistenziale, attuata in coerenza con la programmazione sanitaria regionale, sia finanziata a prestazione in base ai tetti di spesa ed ai volumi di attivita' predeterminati annualmente dalla programmazione regionale nel rispetto dei vincoli di bilancio, nonche' sulla base di funzioni riconosciute dalle regioni, tenendo conto nella remunerazione di eventuali risorse gia' attribuite per spese di investimento, ai sensi dell'[articolo 4, comma 15, della legge 30 dicembre 1991, n. 412](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-12-30;412~art4-com15) e successive modificazioni ed integrazioni. Ai predetti accordi e ai predetti contratti si applicano le disposizioni di cui al comma 2, lettere a), b), c), e) ed e-bis).  
-2-quinquies. In caso di mancata stipula degli accordi di cui al presente articolo, l'accreditamento istituzionale di cui all'articolo 8-quater delle strutture e dei professionisti eroganti prestazioni per conto del Servizio sanitario nazionale interessati e' sospeso.».
+6-bis. 
+
+((Fermo restando quanto previsto dal [comma 6 e dall'articolo 15](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2012-07-06;95~art15-com6), [comma 14, del decreto-legge 6 luglio 2012, n. 95](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2012-07-06;95~com14), convertito, con modificazioni, dalla [legge 7 agosto 2012, n. 135](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2012-08-07;135), il Ministero della difesa si avvale della Direzione della Sanita' militare per la promozione di sinergie con il Servizio sanitario nazionale, mediante il riassetto delle strutture sanitarie militari, anche a uso duale, con lo scopo di sviluppare, su scala nazionale, un sistema di poliambulatori da autorizzare all'esercizio dell'attivita' sanitaria, ed eventualmente da accreditare presso il Servizio sanitario nazionale ai sensi dell'[articolo 8-quater, comma 7, del decreto legislativo 30 dicembre 1992, n. 502](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-12-30;502~art8quater-com7), e con stipula di accordi contrattuali con le Aziende sanitarie locali competenti ai sensi dell'[articolo 8-quinquies del decreto legislativo n. 502 del 1992](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992;502~art8quinquies), nel rispetto del fabbisogno assistenziale delle singole regioni e nel rispetto della programmazione sanitaria regionale.))
 
 ### Art. 184
 
@@ -4046,9 +4045,11 @@ Nota all'art. 184:
 
 Sicurezza nucleare e protezione sanitaria per l'amministrazione della difesa
 
-1. Ai sensi dell'[articolo 162 del decreto legislativo 17 marzo 1995, n. 230](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1995-03-17;230~art162), la materia della sicurezza nucleare e protezione sanitaria si applica all'Amministrazione della difesa, al fine di garantire la protezione della popolazione e dei lavoratori contro i rischi derivanti dalle radiazioni ionizzanti; la disciplina applicativa e' contenuta nel regolamento, ove sono indicate le particolari esigenze connesse ai compiti istituzionali delle Forze armate in tempo di pace.
+1. 
 
-((67))
+((Ai sensi dell'[articolo 242 del decreto legislativo 31 luglio 2020, n. 101](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2020-07-31;101~art242)))
+
+, la materia della sicurezza nucleare e protezione sanitaria si applica all'Amministrazione della difesa, al fine di garantire la protezione della popolazione e dei lavoratori contro i rischi derivanti dalle radiazioni ionizzanti; la disciplina applicativa e' contenuta nel regolamento, ove sono indicate le particolari esigenze connesse ai compiti istituzionali delle Forze armate in tempo di pace. (67)
 
 2. Sono escluse dall'ambito di applicazione del [decreto legislativo 6 febbraio 2007, n. 52](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2007-02-06;52), le sorgenti sigillate ad alta attivita' detenute per attivita' svolte nell'ambito del Ministero della difesa.
 
@@ -4075,13 +4076,19 @@ Note all'[art. 186:
 
 Disposizioni tecniche attuative
 
-1. Con decreto del Ministro della difesa sono emanate le disposizioni tecniche attuative dell'ordinamento della Sanita' militare e dei servizi sanitari militari delle singole Forze armate.
+1. 
 
-((
+((Con decreto del Ministro della difesa, su proposta del Capo di stato maggiore della difesa sentito il Direttore della Sanita' militare, sono emanate le disposizioni tecniche attuative dell'ordinamento della Sanita' militare.))
 
-1-bis. Forme di razionale coordinamento coerenti con i criteri interforze tra il Servizio sanitario militare e il Servizio sanitario del Corpo della Guardia di finanza possono essere assicurate, senza nuovi maggiori oneri per la finanza pubblica, mediante la stipula di apposite convenzioni fra il Comando generale della Guardia di finanza e lo Stato maggiore della difesa.
+1-bis. Forme di razionale coordinamento coerenti con i criteri interforze tra il Servizio sanitario militare
 
-))
+((nazionale))
+
+e il Servizio sanitario del Corpo della Guardia di finanza possono essere assicurate, senza nuovi maggiori oneri per la finanza pubblica, mediante la stipula di apposite convenzioni fra il Comando generale della Guardia di finanza e lo Stato maggiore della difesa.
+
+1-ter. 
+
+((Le disposizioni di cui al comma 1 che riguardano l'organizzazione sanitaria presso le Forze armate o l'Arma dei carabinieri sono adottate sentiti i rispettivi Capi di stato maggiore di Forza armata o il Comandante generale dell'Arma dei carabinieri.))
 
 CAPO XXVII - CAPO II ORGANIZZAZIONE SEZIONE I ORGANI DELLA SANITA' MILITARE
 ---------------------------------------------------------------------------
@@ -4090,72 +4097,176 @@ CAPO XXVII - CAPO II ORGANIZZAZIONE SEZIONE I ORGANI DELLA SANITA' MILITARE
 
 Organi centrali
 
-1. Sono organi centrali della Sanita' militare:
+1. 
 
-a) La struttura organizzativa della Sanita' militare costituita nell'ambito
+((E' organo centrale della Sanita' militare la Direzione della Sanita' militare.))
 
-((dell'Area tecnico-operativa del Ministero della difesa))
+### Art. 188-bis
 
-;
+(( (Configurazione della carica di Direttore della Sanita' militare). ))
 
-b) il Collegio
+1. 
 
-((medico-legale))
+((1. Il Direttore della Sanita' militare:))
 
-;
+a)
 
-c) gli organi direttivi delle Forze armate di cui all'articolo 191.
+((e' scelto tra gli ufficiali in servizio permanente effettivo di grado non inferiore a maggiore generale appartenenti al Corpo unico della Sanita' militare, ovvero tra i dirigenti civili, provenienti dal settore pubblico o privato, in possesso di esperienza dirigenziale altamente qualificata in ambito sanitario;))
+
+b)
+
+((e' nominato ai sensi dell'[articolo 19, comma 3, del decreto legislativo 30 marzo 2001, n. 165](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2001-03-30;165~art19-com3), con decreto del Presidente della Repubblica, previa deliberazione del Consiglio dei ministri, su proposta del Ministro della difesa, sentito il Capo di stato maggiore della difesa;))
+
+c)
+
+((dipende dal Ministro della difesa e, per le attribuzioni di carattere tecnico-operativo connesse con il sostegno dell'operativita' delle Forze armate e con le attivita' proprie della Sanita' di aderenza, dal Capo di stato maggiore della difesa. In caso di assenza, impedimento o vacanza della carica, e' sostituito dal Vice direttore della Sanita' militare;))
+
+d)
+
+((rimane in carica per tre anni e, se militare, ove raggiunto dal limite di eta', e' richiamato in servizio d'autorita' fino al termine del mandato.))
+
+2. 
+
+((All'ufficiale generale nominato Direttore della Sanita' militare, se scelto tra gli ufficiali con il grado di maggiore generale, a decorrere dalla data di assunzione dell'incarico, e' conferito il grado di tenente generale in sovrannumero rispetto agli organici del Corpo unico della Sanita' militare.))
+
+### Art. 188-ter
+
+(( (Attribuzioni del Direttore della Sanita' militare). ))
+
+1. 
+
+((Il Direttore della Sanita' militare:))
+
+a)
+
+((supporta il Capo di stato maggiore della difesa nella pianificazione generale finanziaria e quella operativa interforze relativa alla Sanita' militare;))
+
+b)
+
+((e' responsabile, nel quadro della pianificazione generale dello strumento militare, dell'organizzazione e del funzionamento della Sanita' militare, nonche' delle attivita' di consulenza, innovazione e ricerca clinica; dello sviluppo e dell'utilizzo in campo biomedico delle innovazioni tecnologiche prodotte in altri ambiti della difesa; di attivare sinergie con operatori pubblici e privati del settore sanitario, anche per il tramite di Difesa servizi spa;))
+
+c)
+
+((se militare, esercita la funzione di comando del Corpo unico della Sanita' militare e ne determina i profili di impiego.))
+
+2. 
+
+((Per l'esercizio delle sue attribuzioni, il Direttore della Sanita' militare si avvale di un Vice direttore della Sanita' militare, scelto tra gli ufficiali di grado apicale del Corpo unico della Sanita' militare e nominato con decreto del Ministro della difesa, sentito il Direttore. Il Vice direttore, se il Direttore riveste la qualifica dirigenziale civile, assume la funzione di comando del Corpo unico della Sanita' militare di cui al comma 1, lettera c).))
+
+3. 
+
+((Le ulteriori specifiche attribuzioni del Direttore della Sanita' militare in campo nazionale, internazionale e sanitario sono disciplinate nel regolamento.))
+
+### Art. 188-quater
+
+(( (Ordinamento della Direzione della Sanita' militare). ))
+
+1. 
+
+((1. Il Direttore della Sanita' militare per l'esercizio delle proprie attribuzioni dispone della Direzione della Sanita' militare.))
+
+2. 
+
+((La Direzione della Sanita' militare si articola in reparti e uffici e ha alle dipendenze articolazioni sanitarie per assolvere le attribuzioni in materia di:))
+
+a)
+
+((reclutamento, selezione, formazione, impiego, stato giuridico e avanzamento del personale del Corpo unico della sanita' militare;))
+
+b)
+
+((dottrina sanitaria militare;))
+
+c)
+
+((attivita' sanitarie, ivi comprese la medicina veterinaria e la medicina preventiva e del lavoro, e le attivita' discendenti dall'articolo 181;))
+
+d)
+
+((ricerca tecnologica e scientifica di interesse svolta dagli istituti, dagli enti e dalle strutture all'uopo deputati;))
+
+e)
+
+((gestione della proprieta' intellettuale e dei brevetti, dello sviluppo di tecnologie medico-sanitarie in collaborazione con Difesa servizi spa e con gli enti nazionali di ricerca;))
+
+f)
+
+((coordinamento della sanita' di aderenza per le attivita' svolte in favore delle Forze armate e dell'Arma dei carabinieri, che comprende i servizi per le attivita' sanitarie d'emergenza e le infermerie di corpo;))
+
+g)
+
+((coordinamento della sanita' di sostegno territoriale, che comprende le strutture con capacita' diagnostica e polispecialistica, in grado di erogare prestazioni per l'assistenza sanitaria e il benessere del personale della difesa e per il supporto del Servizio sanitario nazionale.))
+
+3. 
+
+((La Sanita' militare si avvale:))
+
+a)
+
+((del Collegio medico legale di cui all'articolo 189;))
+
+b)
+
+((della Commissione medica di seconda istanza di cui all'articolo 194;))
+
+c)
+
+((del Policlinico militare, con sede in Roma, di cui all'articolo 195;))
+
+d)
+
+((degli Istituti di medicina aerospaziale di cui all'articolo 195-bis;))
+
+e)
+
+((dell'Istituto di scienze biomediche della Difesa di cui all'articolo 195-quater;))
+
+f)
+
+((del poliambulatorio "Montezemolo" di cui all'[articolo 1, comma 311, della legge 30 dicembre 2024, n. 207](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2024-12-30;207~art1-com311), e all'[articolo 12, comma 9-bis, del decreto-legge 14 marzo 2025, n. 25](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2025-03-14;25~art12-com9bis), convertito, con modificazioni, dalla [legge 9 maggio 2025, n. 69](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2025-05-09;69).))
 
 ### Art. 189
 
-((1. Il Collegio medico-legale esprime pareri medico-legali ed esegue le visite dirette ordinate o richieste dal Ministero della difesa, dalle sezioni giurisdizionali e di controllo della Corte dei conti, dagli organi della giustizia amministrativa e dalle amministrazioni statali, anche in occasione del ricorso straordinario al Presidente della Repubblica.))
+Collegio medico-legale
 
-((2. Il Collegio medico-legale e' articolato in sezioni, fino a un massimo di cinque, di cui non piu' di due distaccate presso la Corte dei conti, secondo la struttura ordinativa organica definita dallo Stato maggiore della difesa.))
+1. Il Collegio medico-legale esprime pareri medico-legali ed esegue le visite dirette ordinate o richieste dal Ministero della difesa, dalle sezioni giurisdizionali e di controllo della Corte dei conti, dagli organi della giustizia amministrativa e dalle amministrazioni statali, anche in occasione del ricorso straordinario al Presidente della Repubblica.
 
-((3. Del Collegio medico-legale fanno parte ufficiali medici delle Forze armate con particolare qualificazione professionale nelle branche mediche di interesse del Collegio e possono esservi assegnati ufficiali medici o funzionari medici delle Forze di polizia a ordinamento militare o civile con corrispondente qualificazione.))
+2. Il Collegio medico-legale e' articolato in sezioni, fino a un massimo di cinque, di cui non piu' di due distaccate presso la Corte dei conti, secondo la struttura ordinativa organica definita dallo Stato maggiore della difesa.
 
-  
-4.
+3. Del Collegio medico-legale fanno parte ufficiali medici
 
-((COMMA ABROGATO DAL [D.LGS. 28 GENNAIO 2014, N. 7](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2014-01-28;7)))
+((della Sanita' militare))
 
-.   
-5.
+con particolare qualificazione professionale nelle branche mediche di interesse del Collegio e possono esservi assegnati ufficiali medici o funzionari medici delle Forze di polizia a ordinamento militare o civile con corrispondente qualificazione.
 
-((COMMA ABROGATO DAL [D.LGS. 28 GENNAIO 2014, N. 7](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2014-01-28;7)))
+4. COMMA ABROGATO DAL [D.LGS. 28 GENNAIO 2014, N. 7](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2014-01-28;7).
 
-.   
-6.
+5. COMMA ABROGATO DAL [D.LGS. 28 GENNAIO 2014, N. 7](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2014-01-28;7).
 
-((COMMA ABROGATO DAL [D.LGS. 28 GENNAIO 2014, N. 7](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2014-01-28;7)))
+6. COMMA ABROGATO DAL [D.LGS. 28 GENNAIO 2014, N. 7](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2014-01-28;7).
 
-.   
-7. In presenza di vacanze organiche nei ruoli degli ufficiali medici in servizio permanente effettivo delle Forze armate
+7. In presenza di vacanze organiche nei ruoli degli ufficiali medici in servizio permanente effettivo delle Forze armate, i membri del Collegio possono essere scelti, fino a un quarto dell'organico, fra docenti universitari o specializzati, preferibilmente competenti in medicina legale, mediante convenzione annuale, approvata con decreto del Ministro della difesa, dalla quale devono risultare le modalita' delle prestazioni e il relativo compenso, la cui misura massima mensile e' determinata con decreto del Ministro della difesa, di cui al comma 9.
 
-((, i membri del Collegio possono essere scelti, fino a un quarto dell'organico, fra docenti universitari o specializzati, preferibilmente competenti in medicina legale))
+8. 
 
-, mediante convenzione annuale, approvata con decreto del Ministro della difesa, dalla quale devono risultare le modalita' delle prestazioni e il relativo compenso, la cui misura massima mensile e' determinata con decreto del Ministro della difesa, di cui al comma 9.   
-8. I componenti del Collegio medico-legale sono:   
-a) nominati con decreto del Ministro della difesa, garantendo un'adeguata rappresentanza di tutte le Forze armate e le Forze di polizia a ordinamento militare e civile;   
-b) designati dai rispettivi vertici delle Forze armate o delle Forze di polizia;   
-c) sostituiti, se occorre, da ufficiali medici della stessa Forza armata o di polizia, designati, volta per volta, dai rispettivi vertici.   
-9. Il presidente del Collegio medico-legale puo' richiedere l'intervento, con parere consultivo e senza diritto al voto, di medici estranei al collegio, scelti tra specialisti civili, docenti universitari. Ai predetti consulenti e' corrisposto un gettone di presenza, la cui misura e' fissata con decreto del Ministro della difesa di concerto con il Ministro dell'economia e delle finanze, per ciascuna giornata di adunanza del collegio tenuta con il loro intervento.   
+((I componenti del Collegio medico-legale sono:   
+a) nominati con decreto del Ministro della difesa, garantendo un'adeguata rappresentanza di ufficiali medici in servizio presso tutte le Forze armate, inclusa l'Arma dei carabinieri, e di ufficiali e funzionari medici delle altre Forze di polizia a ordinamento militare e civile;   
+b) designati dai rispettivi vertici della Sanita' militare o delle Forze di polizia;   
+c) sostituiti, se occorre, da ufficiali medici della Sanita' militare impiegati presso la stessa Forza armata, inclusa l'Arma dei carabinieri, ovvero da ufficiali e funzionari medici della stessa Forza di polizia a ordinamento militare o civile, designati, volta per volta, dai rispettivi vertici della Sanita' militare o delle Forze di polizia.))
 
-((9-bis. L'interessato puo' essere assistito durante tutta l'attivita' davanti al Collegio medico-legale, senza oneri per l'Amministrazione, da un medico di fiducia che non integra la composizione del citato Collegio.))
+9. Il presidente del Collegio medico-legale puo' richiedere l'intervento, con parere consultivo e senza diritto al voto, di medici estranei al collegio, scelti tra specialisti civili, docenti universitari. Ai predetti consulenti e' corrisposto un gettone di presenza, la cui misura e' fissata con decreto del Ministro della difesa di concerto con il Ministro dell'economia e delle finanze, per ciascuna giornata di adunanza del collegio tenuta con il loro intervento.
 
-((10. Per le esigenze di funzionamento del Collegio medico-legale i competenti Ministeri dispongono l'assegnazione di personale adeguato nelle qualifiche e nel numero per l'espletamento delle attivita'.))
+9-bis. L'interessato puo' essere assistito durante tutta l'attivita' davanti al Collegio medico-legale, senza oneri per l'Amministrazione, da un medico di fiducia che non integra la composizione del citato Collegio.
 
-11. Il Collegio medico-legale:   
-a) dipende direttamente dallo Stato maggiore della difesa
+10. Per le esigenze di funzionamento del Collegio medico-legale i competenti Ministeri dispongono l'assegnazione di personale adeguato nelle qualifiche e nel numero per l'espletamento delle attivita'.
 
-((...))
+11. Il Collegio medico-legale:
 
-;   
-b) per le esigenze connesse agli accertamenti sanitari da espletare, puo' avvalersi del personale medico e delle attivita' di laboratorio e di diagnostica del Policlinico militare di Roma, ovvero di ogni altra struttura sanitaria militare.   
+a) dipende direttamente dallo Stato maggiore della difesa;
 
-((b-bis) le spese per i locali, gli arredi e per l'approvvigionamento di quanto necessario al funzionamento delle sezioni distaccate sono a carico della Corte dei conti.))
+b) per le esigenze connesse agli accertamenti sanitari da espletare, puo' avvalersi del personale medico e delle attivita' di laboratorio e di diagnostica del Policlinico militare di Roma, ovvero di ogni altra struttura sanitaria militare.
 
-((medico-legale))
+b-bis) le spese per i locali, gli arredi e per l'approvvigionamento di quanto necessario al funzionamento delle sezioni distaccate sono a carico della Corte dei conti.
 
 ### Art. 190
 
@@ -4189,56 +4300,42 @@ c)
 
 ### Art. 191
 
-(Organi direttivi).
-
-1. Secondo l'ordinamento di ciascuna Forza armata sono individuati organi direttivi che esercitano le attribuzioni in materia di:
-
-a) attuazione delle disposizioni tecniche di cui all'articolo 187;
-
-b) organizzazione e coordinamento delle attivita' dei servizi svolti dagli enti sanitari di ciascuna Forza armata.
-
-2. 
-
-((Il Capo di ciascun organo direttivo di cui al comma 1 e' nominato))
-
-dal rispettivo Capo di stato maggiore di Forza armata o dal Comandante generale dell'Arma dei carabinieri.
-
-((
-
-3. Il Capo dell'organo direttivo di cui al comma 1, per l'espletamento delle sue attribuzioni, si avvale della struttura ordinativa costituita e organizzata secondo l'ordinamento di ciascuna Forza armata. Nell'ambito di tale struttura ordinativa possono essere istituite una o piu' commissioni mediche di secondo grado di Forza armata. Ciascuna Commissione e' presieduta dal Capo dell'organo direttivo di cui al comma 1 o da un suo delegato.
-
-))
-
-((
-
-4. Della Commissione fanno parte, in qualita' di membri, due ufficiali superiori medici, nominati dal Capo dell'organo direttivo di cui al comma 1; detti membri sono scelti fra gli ufficiali in servizio presso l'organo di direzione o presso altre strutture sanitarie militari della stessa Forza armata.
-
-))
-
-((
-
-4-bis. La Commissione medica di secondo grado di Forza armata esamina le istanze o i ricorsi presentati dagli interessati avverso i giudizi di prima istanza espressi dagli organi sanitari di Forza armata diversi dalle commissioni mediche di cui all'articolo 193. I giudizi della commissione sono definitivi.
-
-))
+((ARTICOLO ABROGATO DAL [D.LGS. 3 APRILE 2026, N. 74](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2026-04-03;74)))
 
 ### Art. 192
 
-Commissioni mediche interforze
+((Commissioni mediche della Sanita' militare))
 
-1. Le Commissioni mediche interforze, di prima e di seconda istanza, nel presente titolo denominate <<Commissioni>>, esprimono i giudizi  
-sanitari previsti dall'articolo 198.
+1. Le Commissioni mediche
 
-2. Le Commissioni hanno una competenza territoriale definita con determinazione del Capo di Stato maggiore della difesa.
+((della Sanita' militare))
+
+, di prima e di seconda istanza, nel presente titolo denominate <<Commissioni>>,  
+esprimono i giudizi sanitari previsti dall'articolo 198.
+
+2. Le Commissioni hanno una competenza territoriale definita con determinazione del
+
+((Direttore della Sanita' militare))
+
+.
 
 ### Art. 193
 
-Commissioni mediche ospedaliere interforze di prima istanza
+((Commissioni mediche della Sanita' militare di prima istanza))
 
 1. Le Commissioni, oltre ai compiti di cui all'articolo 192, effettuano gli accertamenti medico-legali in materia di:
 
-a) provvidenze a favore di categorie di dipendenti pubblici e delle vittime del terrorismo, della criminalita', del dovere, di incidenti causati da attivita' istituzionale delle Forze armate, di ordigni bellici in tempo di pace e dell'esposizione a materiale bellico di cui alle disposizioni contenute nel libro VII, titolo III, capo IV, sezioni III e IV del presente codice;
+a) provvidenze a favore di categorie di dipendenti pubblici e delle vittime del terrorismo, della criminalita', del dovere, di incidenti causati da attivita' istituzionale delle Forze armate
 
-b) benefici in favore dei militari di leva, volontari e di carriera, appartenenti alle Forze armate e alle Forze di polizia a ordinamento militare e civile, infortunati o caduti in servizio e dei loro superstiti, di cui all'articolo 1895 e all'articolo 1896;
+((o della Sanita' militare))
+
+, di ordigni bellici in tempo di pace e dell'esposizione a materiale bellico di cui alle disposizioni contenute nel libro VII, titolo III, capo IV, sezioni III e IV del presente codice;
+
+b) benefici in favore dei militari di leva, volontari e di carriera, appartenenti alle Forze armate
+
+((o alla Sanita' militare))
+
+e alle Forze di polizia a ordinamento militare e civile, infortunati o caduti in servizio e dei loro superstiti, di cui all'articolo 1895 e all'articolo 1896;
 
 c) impiego del personale delle Forze di polizia invalido per causa di servizio, ai sensi del [decreto del Presidente della Repubblica 25 ottobre 1981, n. 738](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1981-10-25;738);
 
@@ -4246,119 +4343,186 @@ d) transito nell'impiego civile di cui all'articolo 930;
 
 e) indennizzo a favore dei soggetti danneggiati da complicanze di tipo irreversibile a causa di vaccinazioni obbligatorie, trasfusioni e somministrazione di emoderivati, di cui alla [legge 25 febbraio 1992, n. 210](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-02-25;210).
 
-((
+2. Le Commissioni
 
-2. Le Commissioni mediche ospedaliere sono costituite presso i Dipartimenti militari di medicina legale.
+((di prima istanza))
 
-))
+sono costituite presso i Dipartimenti militari di medicina legale.
 
-3. La Commissione e' composta da tre ufficiali medici, di cui almeno uno, preferibilmente, specialista in medicina legale e delle assicurazioni. Assume le funzioni di presidente
+3. La Commissione e' composta da tre ufficiali medici, di cui almeno uno, preferibilmente, specialista in medicina legale e delle assicurazioni. Assume le funzioni di presidente il direttore del Dipartimento militare di medicina legale o l'ufficiale superiore medico da lui delegato o, in loro assenza, l'ufficiale superiore medico piu' elevato in grado o, a parita' di grado, con maggiore anzianita' di servizio.
 
-((il direttore del Dipartimento militare di medicina legale))
+4. 
 
-o l'ufficiale superiore medico da lui delegato o, in loro assenza, l'ufficiale superiore medico piu' elevato in grado o, a parita' di grado, con maggiore anzianita' di servizio.
+((La Commissione, quando si pronuncia su infermita' o lesioni di militari appartenenti a Forze armate diverse o alla Sanita' militare o di appartenenti a Forze di polizia a ordinamento militare o civile, e' composta di due ufficiali medici, di cui uno con funzioni di presidente, identificato con le modalita' indicate al comma 3 e di un ufficiale medico o funzionario medico in servizio presso strutture sanitarie a sostegno della Forza armata o di polizia di appartenenza.))
 
-4. La Commissione, quando si pronuncia su infermita' o lesioni di militari appartenenti a Forze armate diverse o di appartenenti a Forze di polizia a ordinamento militare o civile, e' composta di due ufficiali medici, di cui uno con funzioni di presidente, identificato con le modalita' indicate al comma 3 e di un ufficiale medico o funzionario medico della Forza armata o di polizia di appartenenza.
+5. 
 
-5. La Commissione chiamata a pronunciarsi ai fini della concessione dei benefici previsti dal libro VII, titolo III, capo IV, sezioni III e IV, e' integrata da due ufficiali medici dell'Arma dei carabinieri nominati dal Comando generale, allorquando il relativo procedimento si riferisca ai superstiti del personale dell'Arma vittima del dovere e agli stessi militari.
-
-((
+((La Commissione chiamata a pronunciarsi ai fini della concessione dei benefici previsti dal libro settimo, titolo III, capo IV, sezioni III e IV, e' integrata da due ufficiali medici della Sanita' militare in servizio presso strutture sanitarie a sostegno dell'Arma dei carabinieri, nominati dalla Direzione della Sanita' militare, sentito il Comando generale, se il relativo procedimento si riferisce ai superstiti del personale dell'Arma vittima del dovere e agli stessi militari.))
 
 5-bis. A richiesta del presidente puo' intervenire ai lavori della Commissione, con parere consultivo e senza diritto di voto, un ufficiale superiore o un funzionario designato dal comandante del Corpo o capo dell'ufficio, cui appartiene l'interessato.
 
-))
-
 ### Art. 194
 
-Commissione
+((Commissione medica della Sanita' militare di seconda istanza))
 
-((medica))
+01. Per l'esame dei ricorsi avverso i giudizi sanitari di prima istanza limitatamente all'accertamento della idoneita' al servizio di cui all'[articolo 19, comma 4, del decreto del Presidente della Repubblica 29 ottobre 2001, n. 461](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2001-10-29;461~art19-com4), senza nuovi o maggiori oneri per la finanza pubblica, sono istituite una o piu' Commissioni
 
-interforze di seconda istanza   
-  
-((
+((...))
 
-01. Per l'esame dei ricorsi avverso i giudizi sanitari di prima istanza limitatamente all'accertamento della idoneita' al servizio di cui all'[articolo 19, comma 4, del decreto del Presidente della Repubblica 29 ottobre 2001, n. 461](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2001-10-29;461~art19-com4), senza nuovi o maggiori oneri per la finanza pubblica, sono istituite una o piu' Commissioni mediche interforze di seconda istanza.
+di seconda istanza.
 
-((
+1. La Commissione di cui al comma 01 assume la struttura ordinativa organica definita dallo Stato maggiore della difesa
 
-1. La Commissione di cui al comma 01 assume la struttura ordinativa organica definita dallo Stato maggiore della difesa ed e' composta da un presidente e due ufficiali superiori medici, in qualita' di membri.
+((, su proposta del Direttore della Sanita' militare,))
 
-))
-
-((
+ed e' composta da un presidente e due ufficiali superiori medici, in qualita' di membri.
 
 2. La Commissione di cui al comma 01:
 
 a) esamina i ricorsi presentati nel termine di dieci giorni dalla comunicazione del verbale della commissione medica di prima istanza;
 
-b) e' composta assicurando la presenza nel collegio di un ufficiale medico o funzionario medico della Forza armata o di polizia a ordinamento militare o civile di appartenenza del ricorrente.
+b) e' composta assicurando la presenza nel collegio di un ufficiale medico o funzionario medico
+
+((in servizio presso strutture sanitarie a sostegno della Forza armata))
+
+o di polizia a ordinamento militare o civile di appartenenza del ricorrente.
+
+3. A richiesta del presidente puo' intervenire ai lavori della Commissione di cui al comma 01, con parere consultivo e senza diritto a voto, un ufficiale superiore o un funzionario designato dal comandante del corpo o capo dell'ufficio, cui appartiene l'interessato.
+
+### Art. 194-bis
+
+(( (Commissioni mediche di secondo grado). ))
+
+((
+
+1. Per l'esame delle istanze e dei ricorsi presentati dagli interessati avverso i giudizi di prima istanza espressi dagli organi sanitari monocratici diversi dalle Commissioni di cui all'articolo 193, la Direzione della Sanita' militare puo' istituire, presso le Forze armate, una o piu' Commissioni mediche di secondo grado. I giudizi di tali Commissioni sono definitivi.
+
+2. Ciascuna Commissione e' presieduta dall'ufficiale della Sanita' militare piu' elevato in grado impiegato presso la Forza armata o da un suo delegato. Della Commissione fanno parte, in qualita' di membri, due ufficiali superiori medici, nominati dal Direttore della Sanita' militare. Detti membri sono scelti fra gli ufficiali in servizio presso la Direzione della Sanita' militare o presso altre strutture sanitarie militari operanti presso la stessa Forza armata.
 
 ))
 
-3. A richiesta del presidente puo' intervenire ai lavori della Commissione
-
-((di cui al comma 01))
-
-, con parere consultivo e senza diritto a voto, un ufficiale superiore o un funzionario designato dal comandante del corpo o capo dell'ufficio, cui appartiene l'interessato.
-
 ### Art. 195
 
-Strutture sanitarie interforze
+((Strutture sanitarie militari))
 
 1. Le strutture sanitarie militari deputate alla diagnosi, cura e alle attivita' di medicina legale sono:
 
-a) il Policlinico militare, con sede in Roma, struttura polispecialistica che svolge anche attivita'
+a) il Policlinico militare, con sede in Roma
 
-((di sperimentazione clinica, di formazione e di ricerca in ambito sanitario e veterinario))
+((e dipendente dalla Direzione della Sanita' militare))
 
-;
+, struttura polispecialistica che svolge anche attivita' di sperimentazione clinica, di formazione e di ricerca in ambito sanitario e veterinario;
 
-b) i Centri ospedalieri militari, aventi competenze nella diagnostica terapeutica per il ricovero e la cura del personale militare;
+b)
+
+((i Centri ospedalieri militari, aventi competenze nella diagnostica terapeutica per il ricovero e la cura del personale della difesa, nonche' delle altre categorie destinatarie delle prestazioni erogate dalla Sanita' militare;))
 
 c) i Dipartimenti militari di medicina legale, aventi competenza medico-legale.
 
 ### Art. 195-bis
 
-((Istituti di medicina aerospaziale dell'Aeronautica militare))
+((Istituti di medicina aerospaziale))
 
-((
+1. Gli Istituti di medicina aerospaziale
 
-1. Gli Istituti di medicina aerospaziale dell'Aeronautica militare sono posti alle dipendenze del Capo dell'organo direttivo sanitario dell'Aeronautica militare ai sensi dell'articolo 191 e svolgono le seguenti attivita':
+((sono posti alle dipendenze della Direzione della Sanita' militare))
+
+e svolgono le seguenti attivita':
 
 a) accertamento dell'idoneita' al volo e ai servizi di navigazione aerea del personale delle Forze armate, delle Forze di polizia a ordinamento militare e civile, del Corpo dei vigili del fuoco, nonche' degli aspiranti al conseguimento di licenze e attestati aeronautici;
 
 b) effettuazione dei controlli ordinari e straordinari sul mantenimento dell'idoneita' al volo ed ai servizi di navigazione aerea del personale di cui alla lettera a), nonche' dei titolari di licenze e attestati aeronautici;
 
-c) accertamenti sanitari o medico-legali disposti dall'organo direttivo sanitario dell'Aeronautica militare ovvero previsti nella normativa vigente.
+c) accertamenti sanitari o medico-legali disposti
 
-2. Gli Istituti di medicina aerospaziale possono esprimere altresi', secondo le indicazioni delle Forze armate, delle Forze di polizia a ordinamento militare o civile, e del Corpo dei vigili del fuoco, i giudizi di idoneita' al servizio militare o al servizio d'istituto per il personale sottoposto all'accertamento dell'idoneita' di cui al comma 1, lettera a). In tali casi, ai fini dell'espressione del giudizio, sono preventivamente acquisite anche le valutazioni di un ufficiale medico o funzionario medico della Forza armata o di polizia a ordinamento militare o civile di appartenenza dell'interessato, ovvero, del Corpo dei vigili del fuoco.
+((dalla Direzione della Sanita' militare))
 
-3. Con direttiva tecnica dell'organo direttivo sanitario dell'Aeronautica militare sono stabilite la periodicita' e le modalita' tecniche con le quali il personale delle Forze armate deve essere sottoposto alle visite mediche per l'accertamento del mantenimento dell'idoneita' al volo e ai servizi di navigazione aerea.
+ovvero previsti nella normativa vigente.
 
-))
+2. Gli Istituti di medicina aerospaziale possono esprimere altresi', secondo le indicazioni delle Forze armate, delle Forze di polizia a ordinamento militare o civile, e del Corpo dei vigili del fuoco, i giudizi di idoneita' al servizio militare o al servizio d'istituto per il personale sottoposto all'accertamento dell'idoneita' di cui al comma 1, lettera a). In tali casi, ai fini dell'espressione del giudizio, sono preventivamente acquisite anche le valutazioni di un ufficiale medico o funzionario medico
+
+((in servizio presso strutture sanitarie a sostegno))
+
+della Forza armata o di polizia a ordinamento militare o civile di appartenenza dell'interessato, ovvero, del Corpo dei vigili del fuoco.
+
+3. Con direttiva tecnica
+
+((della Direzione della Sanita' militare))
+
+sono stabilite la periodicita' e le modalita' tecniche con le quali il personale delle Forze armate deve essere sottoposto alle visite mediche per l'accertamento del mantenimento dell'idoneita' al volo e ai servizi di navigazione aerea.
+
+3-bis. 
+
+((Gli accertamenti e i controlli di cui al comma 1 nei confronti degli ufficiali di grado apicale appartenenti al ruolo naviganti normale dell'Aeronautica militare sono effettuati soltanto se tali ufficiali generali, in relazione al loro impiego, sono effettivamente tenuti allo svolgimento di attivita' di pilotaggio.))
 
 ### Art. 195-ter
 
-((Commissione sanitaria d'appello))
+Commissione sanitaria d'appello
 
-((
+1. La Commissione sanitaria d'appello, posta alle dipendenze
 
-1. La Commissione sanitaria d'appello, posta alle dipendenze dell'organo direttivo sanitario dell'Aeronautica militare, esamina i ricorsi presentati dal personale delle Forze armate, delle Forze di polizia ad ordinamento militare e civile, del Corpo dei vigili del fuoco, nonche' dagli iscritti al fondo di previdenza del personale di volo dipendente dalle aziende di navigazione aerea avverso i giudizi sanitari di prima istanza espressi dagli Istituti di medicina aerospaziale dell'Aeronautica militare in sede di selezione e certificazione dell'idoneita' al volo e ai servizi di navigazione aerea di cui all'articolo 195-bis, comma 1, lettere a) e b), ferme restando le competenze della Commissione medica d'appello di cui all'[articolo 38 del decreto del Presidente della Repubblica 18 novembre 1988, n. 566](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1988-11-18;566~art38) e all'[articolo 11 del decreto del Presidente della Repubblica 28 marzo 2013, n. 44](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2013-03-28;44~art11). I ricorsi devono essere presentati nel termine di 30 giorni dalla comunicazione del verbale dell'Istituto di medicina aerospaziale dell'Aeronautica militare.
+((della Direzione della Sanita' militare))
 
-2. La Commissione sanitaria d'appello e' presieduta dal Capo dell'organo direttivo sanitario dell'Aeronautica militare e ne fanno parte due ufficiali superiori medici nominati dal Capo dell'organo direttivo.
+, esamina i ricorsi presentati dal personale delle Forze armate, delle Forze di polizia ad ordinamento militare e civile, del Corpo dei vigili del fuoco, nonche' dagli iscritti al fondo di previdenza del personale di volo dipendente dalle aziende di navigazione aerea avverso i giudizi sanitari di prima istanza espressi dagli Istituti di medicina aerospaziale
+
+((...))
+
+in sede di selezione e certificazione dell'idoneita' al volo e ai servizi di navigazione aerea di cui all'articolo 195-bis, comma 1, lettere a) e b), ferme restando le competenze della Commissione medica d'appello di cui all'[articolo 38 del decreto del Presidente della Repubblica 18 novembre 1988, n. 566](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1988-11-18;566~art38) e all'[articolo 11 del decreto del Presidente della Repubblica 28 marzo 2013, n. 44](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2013-03-28;44~art11). I ricorsi devono essere presentati nel termine di 30 giorni dalla comunicazione del verbale dell'Istituto di medicina aerospaziale
+
+((...))
+
+.
+
+2. 
+
+((La Commissione sanitaria d'appello e' presieduta dal Direttore della Sanita' militare o da altro ufficiale medico di grado apicale delegato e ne fanno parte due ufficiali superiori medici nominati dal medesimo Direttore.))
 
 3. Secondo le indicazioni delle Forze armate, delle Forze di polizia ad ordinamento militare o civile e del Corpo dei vigili del fuoco la Commissione sanitaria di appello puo' pronunciarsi, altresi', sui ricorsi presentati dal personale avverso i giudizi di idoneita' al servizio militare e al servizio di istituto espressi dall'organo di cui all'articolo 195-bis.
 
 4. La Commissione sanitaria d'appello visita e giudica collegialmente, redigendo apposito verbale di visita nel quale formula un giudizio definitivo.
 
-5. Allorche' esprime i giudizi di cui al comma 3, la Commissione sanitaria di appello e' composta assicurando la presenza nel collegio, in qualita' di membro, di un ufficiale medico o funzionario medico della Forza armata o di polizia a ordinamento militare o civile di appartenenza del ricorrente, ovvero, del Corpo dei vigili del fuoco. La Commissione, quando esamina i ricorsi degli iscritti al fondo di previdenza del personale di volo dipendente dalle aziende di navigazione aerea, e' integrata da un medico designato dall'Ente Nazionale per l'Aviazione Civile.
+5. Allorche' esprime i giudizi di cui al comma 3, la Commissione sanitaria di appello e' composta assicurando la presenza nel collegio, in qualita' di membro, di un ufficiale medico o funzionario medico
+
+((in servizio presso strutture sanitarie a sostegno))
+
+della Forza armata o di polizia a ordinamento militare o civile di appartenenza del ricorrente, ovvero, del Corpo dei vigili del fuoco.  
+La Commissione, quando esamina i ricorsi degli iscritti al fondo di previdenza del personale di volo dipendente dalle aziende di navigazione aerea, e' integrata da un medico designato dall'Ente Nazionale per l'Aviazione Civile.
 
 6. L'interessato puo' essere assistito durante la visita, senza oneri per l'Amministrazione, da un medico di fiducia che non integra la composizione della Commissione.
 
-7. La Commissione sanitaria d'appello, per esigenze legate alla complessita' dell'accertamento sanitario, puo' richiedere la partecipazione alla visita, per un parere consultivo e senza diritto al voto, di un medico specialista appartenente al Corpo sanitario aeronautico che non ha partecipato all'emissione del giudizio sanitario di prima istanza.
+7. La Commissione sanitaria d'appello, per esigenze legate alla complessita' dell'accertamento sanitario, puo' richiedere la partecipazione alla visita, per un parere consultivo e senza diritto al voto, di un medico specialista
 
-))
+((della Sanita' militare in servizio presso strutture sanitarie a sostegno dell'Aeronautica militare))
+
+che non ha partecipato all'emissione del giudizio sanitario di prima istanza.
+
+### Art. 195-quater
+
+(( (Istituto di scienze biomediche della Difesa). ))
+
+1. 
+
+((L'Istituto di scienze biomediche della Difesa, dotato di autonomia scientifica, e' posto alle dipendenze della Direzione della Sanita' militare e svolge le seguenti attivita':))
+
+a)
+
+((identifica aree di ricerca sanitaria di interesse strategico della Difesa da sottoporre all'approvazione del Ministro della difesa;))
+
+b)
+
+((cura i rapporti con la comunita' scientifica e con le realta' industriali di settore;))
+
+c)
+
+((contribuisce alla formazione avanzata per specifici percorsi capacitivi e tecnico-professionali;))
+
+d)
+
+((effettua consulenza scientifica e tecnica per lo Stato maggiore della difesa e la Direzione della Sanita' militare e, per gli aspetti connessi alla ricerca tecnologica di interesse sanitario, per la Direzione nazionale degli armamenti;))
+
+e)
+
+((supporta, sotto il profilo tecnico-scientifico, i comandanti e le unita' specializzate nel settore chimico, biologico, radiologico e nucleare.))
 
 CAPO XXVIII - SEZIONE II COMPONENTI AUSILIARIE DELLE FORZE ARMATE DELLA CROCE ROSSA ITALIANA
 --------------------------------------------------------------------------------------------
@@ -4463,15 +4627,9 @@ Attribuzioni medico-legali
 
 ### Art. 200
 
-Visite
+Visite medico-legali
 
-((medico-legali))
-
-1. Tutte le pubbliche amministrazioni e gli enti pubblici possono richiedere l'opera degli ufficiali medici per visite
-
-((medico-legali))
-
-ai propri dipendenti, nei seguenti casi:
+1. Tutte le pubbliche amministrazioni e gli enti pubblici possono richiedere l'opera degli ufficiali medici per visite medico-legali ai propri dipendenti, nei seguenti casi:
 
 a) per accertare l'esistenza, la natura e il grado di infermita' sulle quali si devono motivare provvedimenti di licenza, di aspettativa, di riforma e di riposo, di impiegati non appartenenti a quelle amministrazioni statali contemplate nel [decreto del Presidente della Repubblica 29 ottobre 2001, n. 461](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2001-10-29;461); tali accertamenti sono praticati sempre con visite collegiali se si tratta di collocamento in riforma o a riposo, mentre per il collocamento in aspettativa la visita e' fatta da un solo ufficiale medico;
 
@@ -4497,39 +4655,29 @@ m) ai fini del collocamento in congedo straordinario per infermita' dei dipenden
 
 n) altre visite non contemplate nelle lettere precedenti, autorizzate dal Ministero della difesa, ovvero attribuite dalla legge alla competenza di ufficiali medici, in base alle disposizioni che ne regolano l'esercizio.
 
-2. Le autorita' o i privati che richiedono le visite rivolgono ufficialmente la domanda alla Direzione dell'ospedale militare o dell'infermeria autonoma o presidiaria oppure al Comando dal quale dipende l'infermeria di corpo se la visita deve essere eseguita presso tale ente, oppure, nei casi previsti, alla Direzione dell'istituto
+2. Le autorita' o i privati che richiedono le visite rivolgono ufficialmente la domanda alla Direzione dell'ospedale militare o dell'infermeria autonoma o presidiaria oppure al Comando dal quale dipende l'infermeria di corpo se la visita deve essere eseguita presso tale ente, oppure, nei casi previsti, alla Direzione dell'istituto di medicina aerospaziale
 
-((di medicina aerospaziale))
+((...))
 
-dell'Aeronautica militare competente per territorio.
+competente per territorio.
 
 ### Art. 201
 
-Modalita' delle visite
+Modalita' delle visite medico-legali
 
-((medico-legali))
-
-1. Le visite
-
-((medico legali))
-
-di cui all'articolo 200 possono essere praticate:
+1. Le visite medico legali di cui all'articolo 200 possono essere praticate:
 
 a) presso il policlinico o i centri ospedalieri militari;
 
 b) presso i dipartimenti militari di medicina legale;
 
-((
-
 c) presso le infermerie di corpo ovvero ogni altro ente militare, purche' provvisto di idonei gabinetti medici e dei necessari mezzi di indagine e non si tratti di visite collegiali;
 
-))
+d) presso gli istituti di medicina aerospaziale
 
-d) presso gli istituti di medicina
+((...))
 
-((aerospaziale))
-
-dell'Aeronautica militare per effettuare ogni tipo di accertamento in materia di idoneita' al volo civile.
+per effettuare ogni tipo di accertamento in materia di idoneita' al volo civile.
 
 2. Le visite di cui al comma 1 del presente articolo possono, eventualmente, essere eseguite anche a domicilio allorche' si tratti di constatare infermita' che, per la loro gravita' reale o addotta, impediscano all'interessato di muoversi dalla propria abitazione.
 
@@ -4562,7 +4710,11 @@ b) da' informazioni complessive sul fenomeno criminoso del traffico di sostanze 
 
 Azione di prevenzione e accertamenti sanitari
 
-1. Il Ministero della difesa tramite i consultori e i servizi di psicologia delle Forze armate svolge azione di prevenzione contro le tossicodipendenze, le alcoldipendenze e l'uso di sostanze dopanti.
+1. Il Ministero della difesa tramite i consultori e i servizi di psicologia
+
+((della Sanita' militare))
+
+svolge azione di prevenzione contro le tossicodipendenze, le alcoldipendenze e l'uso di sostanze dopanti.
 
 2. In occasione delle operazioni di arruolamento dei volontari e di selezione per la leva, in caso di ripristino della stessa, se e' individuato un caso di tossicodipendenza, tossicofilia, alcoldipendenza o doping, l'autorita' militare, che presiede alla visita medica e alle prove psicoattitudinali, dispone l'invio dell'interessato all'ospedale militare per gli opportuni accertamenti.
 
@@ -4581,9 +4733,15 @@ CAPO XXXII - SEZIONE IV ALTRI SERVIZI
 
 ### Art. 205
 
-Servizio trasfusionale delle Forze armate
+Servizio trasfusionale
 
-1. Le Forze armate organizzano autonomamente il servizio trasfusionale in modo da essere in grado di svolgere tutte le competenze previste dalla [legge 21 ottobre 2005, n. 219](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2005-10-21;219).
+((della Sanita' militare))
+
+1. 
+
+((La Sanita' militare organizza))
+
+autonomamente il servizio trasfusionale in modo da essere in grado di svolgere tutte le competenze previste dalla [legge 21 ottobre 2005, n. 219](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2005-10-21;219).
 
 2. Nel quadro delle iniziative di educazione sanitaria impartite ai militari, l'autorita' militare favorisce la cultura della donazione volontaria di sangue, di sangue cordonale e dei loro componenti da parte dei militari presso le strutture trasfusionali militari e civili.
 
@@ -4593,11 +4751,11 @@ Servizio trasfusionale delle Forze armate
 
 5. Il Ministero della difesa e' l'autorita' responsabile, relativamente al servizio trasfusionale di cui al presente articolo, del rispetto dei requisiti previsti dal [decreto legislativo 20 dicembre 2007, n. 261](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2007-12-20;261), in materia di raccolta e controllo del sangue umano e dei suoi componenti.
 
-6. Le norme relative all'organizzazione e funzionamento del servizio trasfusionale delle Forze armate sono individuate con decreto del Ministro della difesa, non avente natura regolamentare.
+6. Le norme relative all'organizzazione e funzionamento del servizio trasfusionale
 
-Note all'[art. 205:  
-- La legge 21 ottobre 2005, n. 219](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2005-10-21;219~art205) (Nuova disciplina delle attivita' trasfusionali e della produzione nazionale degli emoderivati), e' pubblicata nella Gazzetta Ufficiale del 27 ottobre 2005, n. 251.  
-- Il [decreto legislativo 20 dicembre 2007, n. 261](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2007-12-20;261) (Revisione del [decreto legislativo 19 agosto 2005, n. 191](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-08-19;191), recante attuazione della [direttiva 2002/98/CE](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32002L0098) che stabilisce norme di qualita' e di sicurezza per la raccolta, il controllo, la lavorazione, la conservazione e la distribuzione del sangue umano e dei suoi componenti), e' pubblicato nella Gazzetta Ufficiale del 23 gennaio 2008, n. 19.
+((...))
+
+sono individuate con decreto del Ministro della difesa, non avente natura regolamentare.
 
 ### Art. 206
 
@@ -4652,27 +4810,32 @@ La Corte Costituzionale, con sentenza 12 gennaio - 20 febbraio 2023, n. 25 (in G
 
 Attivita' in materia di vaccinazioni
 
-1. I documenti relativi alla vaccinazione rilasciati dalle Forze armate al proprio personale in attivita' di servizio sono accettati in luogo del certificato internazionale, di cui alla riproduzione nelle appendici 2, 3, o 4, della [legge 9 febbraio 1982, n. 106](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1982-02-09;106), a condizione che essi contengano:
+1. I documenti relativi alla vaccinazione rilasciati
+
+((dalla Sanita' militare al personale militare))
+
+in attivita' di servizio sono accettati in luogo del certificato internazionale, di cui alla riproduzione nelle appendici 2, 3, o 4, della [legge 9 febbraio 1982, n. 106](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1982-02-09;106), a condizione che essi contengano:
 
 a) le informazioni mediche equivalenti a quelle da indicarsi sul modello relativo;
 
 b) una dichiarazione in francese o in inglese che precisi la natura e la data della vaccinazione e attesti che i documenti vengano rilasciati in virtu' del presente articolo.
-
-Nota all'art. 207:  
-- Le appendici 2, 3, e 4, della [legge 9 febbraio 1982, n. 106](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1982-02-09;106) (Approvazione ed esecuzione del regolamento sanitario internazionale, adottato a Boston il 25 luglio 1969, modificato dal regolamento addizionale, adottato a Ginevra il 23 maggio 1973), pubblicato nel supplemento ordinario alla Gazzetta Ufficiale del 30 marzo 1982, n. 87, recano rispettivamente il Certificato internazionale di vaccinazione e di rivaccinazione contro il colera, il Certificato internazionale di vaccinazione o di rivaccinazione contro la febbre gialla e il Certificato internazionale di vaccinazione o di rivaccinazione contro il vaiolo.
 
 CAPO XXXIII - CAPO IV PERSONALE ADDETTO ALLA SANITA' MILITARE SEZIONE I ((PERSONALE DEL SERVIZIO SANITARIO MILITARE))
 ---------------------------------------------------------------------------------------------------------------------
 
 ### Art. 208
 
-(( (Categorie di personale).))
-
-((
+(Categorie di personale).
 
 1. Il personale impiegato dalla Sanita' militare e' costituito da:
 
-a) ufficiali e sottufficiali, abilitati all'esercizio delle professioni sanitarie, inquadrati nei ruoli e nei Corpi sanitari delle Forze armate;
+a) ufficiali e sottufficiali, abilitati all'esercizio delle professioni sanitarie, inquadrati
+
+((nel Corpo unico della Sanita' militare))
+
+;
+
+((138))
 
 b) graduati e militari di truppa esercenti quali figure di supporto sanitario;
 
@@ -4682,7 +4845,13 @@ d) cappellani militari, religiose e altro personale assunto o convenzionato sull
 
 2. L'attivita' sanitaria e' consentita al personale in possesso dei titoli per l'esercizio delle professioni sanitarie e alle figure di supporto sanitario, riconosciute dal Ministero della salute, fatto salvo quanto previsto dall'articolo 213 per i soccorritori militari.
 
-))
+---------------
+
+AGGIORNAMENTO (138)
+
+Il [D.Lgs. 3 aprile 2026, n. 74](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2026-04-03;74) ha disposto (con l'art. 20, comma 2, lettera b)) che "Le seguenti disposizioni inerenti alla costituzione del Corpo unico della Sanita' militare e al relativo transito del personale sanitario proveniente dalle Forze armate e dall'Arma dei carabinieri hanno effetto contestualmente a decorrere dal 1° gennaio 2027:   
+[...]   
+b) articolo 5, comma 1, lettera a)".
 
 ### Art. 209
 
@@ -4694,7 +4863,7 @@ Ufficiali medici
 
 3. Al fine di consentire un costante aggiornamento degli ufficiali medici,
 
-((lo Stato maggiore della difesa))
+((la Direzione della Sanita' militare))
 
 indica, con propria direttiva, le modalita' e la frequenza di speciali conferenze da tenersi presso strutture sanitarie militari in cui trattare argomenti essenzialmente pratici di scienza e di servizio sanitario militare, oltre a conversazioni scientifiche sulle piu' attuali tematiche del movimento scientifico sanitario.
 
@@ -4706,27 +4875,82 @@ b) non sono autorizzate dal Ministero della difesa, ai sensi dell'articolo 200;
 
 c) non sono ordinate o autorizzate dai superiori diretti.
 
+4-bis. 
+
+((Ferme restando le disposizioni di cui all'[articolo 19, comma 5-bis del decreto-legge 16 luglio 2020, n. 76](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2020-07-16;76~art19-com5bis), convertito, con modificazioni, dalla [legge 11 settembre 2020, n. 120](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2020-09-11;120), e senza determinare nuovi o maggiori oneri per la finanza pubblica, gli ufficiali medici in possesso del diploma di formazione specifica possono svolgere l'attivita' di medicina generale in favore del personale dell'amministrazione della difesa e dei relativi familiari anche nell'ambito delle strutture militari, secondo i criteri, le modalita' e i limiti stabiliti con decreto del Ministro della salute, di concerto con il Ministro della difesa e il Ministro dell'economia e delle finanze.))
+
+4-ter. 
+
+((Rientrano tra le competenze degli ufficiali medici anche:))
+
+a)
+
+((l'amministrazione del materiale ospedaliero sia a terra sia a bordo;))
+
+b)
+
+((eseguire le visite mediche disciplinari e quelle medico-legali, nonche' lo svolgimento delle pratiche medico-legali interessanti il personale della difesa e le altre categorie destinatarie delle prestazioni erogate dalla Sanita' militare;))
+
+c)
+
+((eseguire le ispezioni di carattere tecnico-sanitario agli stabilimenti di cura militare ed effettuare ogni altro servizio sanitario a supporto delle Forze armate.))
+
 5. Gli ufficiali medici, ai sensi dell'[articolo 38 del decreto legislativo 9 aprile 2008, n. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81~art38), svolgono l'attivita' di medico nel settore del lavoro nell'ambito delle strutture dipendenti dal Ministero della difesa, mediante la sorveglianza e la vigilanza sanitaria del personale e dei luoghi di lavoro.
 
 ### Art. 210
 
-Attivita' libero professionale del personale medico
+Attivita' libero professionale del personale
 
-1. In deroga all'articolo 894, comma 1, ai medici militari non sono applicabili le norme relative alle incompatibilita' inerenti l'esercizio delle attivita' libero professionali, nonche' le limitazioni previste dai contratti e dalle convenzioni con il servizio sanitario nazionale, fermo restando il divieto di visitare privatamente gli iscritti di leva e di rilasciare loro certificati di infermita' e di imperfezioni fisiche che possano dar luogo alla riforma.
+((sanitario))
 
-((102))
+1. 
+
+((In deroga all'articolo 894, comma 1, ai medici e agli psicologi militari non sono applicabili le norme relative alle incompatibilita' inerenti all'esercizio delle attivita' libero professionali, nonche' alle limitazioni previste dai contratti e dalle convenzioni con il Servizio sanitario nazionale, fermo restando il divieto di svolgere attivita' che possono condizionarne l'esercizio delle funzioni o l'adempimento dei doveri connessi con lo stato di militare o, in ogni caso, ledere il dovere di riservatezza riguardo alla divulgazione di notizie attinenti al servizio e, tra queste, le:))
+
+a)
+
+((visite private agli iscritti di leva e il rilascio a loro di certificati di infermita' e di imperfezioni fisiche che possano dar luogo alla riforma;))
+
+b)
+
+((attivita' di consulenza, certificazione o peritali di parte in procedimenti amministrativi o giudizi civili, penali o amministrativi in cui e' coinvolta l'amministrazione della difesa ovvero, per i medici militari del Corpo della Guardia di finanza, l'amministrazione di appartenenza;))
+
+c)
+
+((attivita' di assistenza, consulenza o certificazione funzionali al superamento degli accertamenti fisio-psico-attitudinali nelle procedure di reclutamento.))
 
   
-1.1. Nell'esercizio delle attivita' libero professionali di cui al comma 1, i medici militari non possono svolgere attivita' peritali di parte in giudizi civili, penali o amministrativi in cui e' coinvolta l'Amministrazione della difesa ovvero, per i medici militari del Corpo della Guardia di finanza, l'Amministrazione di appartenenza.
+1.1.
+
+((COMMA ABROGATO DAL [D.LGS. 3 APRILE 2026, N. 74](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2026-04-03;74)))
+
+.
 
 1-bis. COMMA ABROGATO DAL [D.LGS. 22 GENNAIO 2016, N. 10](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2016-01-22;10).
 
---------------
+1-ter. 
 
-AGGIORNAMENTO (102)
+((Ai medici militari e al personale militare del Corpo unico della Sanita' militare abilitato all'esercizio delle professioni sanitarie riconosciute dal Ministero della salute e' consentito l'esercizio della libera professione intramuraria, alternativa all'extramuraria ove consentita ai sensi del comma 1, sulla base di convenzioni stipulate tra Ministero della difesa, Ministero della salute, Ministero dell'economia e delle finanze, regioni o altre istituzioni sanitarie. Ferme restando le prioritarie attivita' di cui all'articolo 181, comma 3, la Sanita' militare assicura la gestione e il corretto esercizio dell'attivita' libero-professionale intramuraria che si svolge, al di fuori dell'orario di servizio, in volumi di prestazioni che non devono superare, globalmente considerati, quelli eseguiti durante il servizio, e nei limiti di compatibilita' con gli speciali compiti e funzioni cui e' preposta, tenuto conto delle insopprimibili esigenze connesse con l'utilizzo dello strumento militare, come valutate dai competenti organismi militari sanitari e tecnici.))
 
-La Corte Costituzionale, con sentenza 5 aprile - 18 maggio 2023, n. 98, (in G.U. 1a s.s. 24/05/2023, n. 21), ha dichiarato   
-"l'illegittimita' costituzionale dell'[art. 210, comma 1, del decreto legislativo 15 marzo 2010, n. 66](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-03-15;66~art210-com1) ([Codice dell'ordinamento militare](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-03-15;66)), nella parte in cui non contempla, accanto ai medici militari, anche gli psicologi militari tra i soggetti a cui, in deroga all'art. 894 del codice medesimo, non sono applicabili le norme relative alle incompatibilita' inerenti l'esercizio delle attivita' libero professionali, nonche' le limitazioni previste dai contratti e dalle convenzioni con il servizio sanitario nazionale".
+1-quater. 
+
+((Con riferimento alla libera professione intramuraria di cui al comma 1-ter, sono disciplinati nel regolamento:   
+a) i limiti di compatibilita' e le esigenze connesse con l'utilizzo dello strumento militare;   
+b) le varie modalita' di svolgimento di tale libera professione, inclusi i limiti di utilizzabilita' degli spazi e delle attrezzature dedicati all'attivita' istituzionale, garantendo la separazione delle attivita' in termini di orari, prenotazioni e modalita' di riscossione dei pagamenti;   
+c) i volumi delle prestazioni, le condizioni di esercizio, i criteri di erogazione e le priorita' di accesso riferiti alle attivita' di servizio e all'attivita' libero-professionale intramuraria, nonche' le relative modalita' di pubblicita' e informazione;   
+d) la definizione degli importi delle prestazioni e la tracciabilita' dei pagamenti in coerenza con le tariffe nazionali di riferimento del Servizio sanitario nazionale, di cui all'[articolo 8-sexies del decreto legislativo 30 dicembre 1992, n. 502](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-12-30;502~art8sexies);   
+e) il monitoraggio dei tempi di attesa;   
+f) la prevenzione delle situazioni che determinano l'insorgenza di un conflitto di interessi o di forme di concorrenza sleale;   
+g) l'esclusione della possibilita' di svolgimento della libera professione di cui al comma 1-ter presso studi professionali;   
+h) le modalita' di accesso alle strutture militari.))
+
+1-quinquies. 
+
+((La Direzione della Sanita' militare provvede alla ricognizione degli spazi per lo svolgimento delle prestazioni libero-professionali di cui al comma 1-ter, nonche' dei sistemi e dei moduli organizzativi e tecnologici disponibili che consentono il controllo dei volumi prestazionali.))
+
+1-sexies. 
+
+((Con riferimento alla ricognizione di cui al comma 1-quinquies, se non sono disponibili spazi adeguati, il Ministero della difesa puo' stipulare convenzioni con la Difesa servizi spa, enti pubblici e soggetti privati convenzionati con il Servizio sanitario nazionale.))
 
 CAPO XXXIV - SEZIONE II ((ESERCIZIO DELLE PROFESSIONI SANITARIE))
 -----------------------------------------------------------------
@@ -4736,6 +4960,28 @@ CAPO XXXIV - SEZIONE II ((ESERCIZIO DELLE PROFESSIONI SANITARIE))
 (( (Formazione continua).))
 
 ((1. Il personale sanitario esercente le professioni sanitarie, adempie agli obblighi di formazione continua previsti dal [decreto legislativo 30 dicembre 1992, n. 502](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-12-30;502), e successive modificazioni,))
+
+### Art. 211-bis
+
+(( (Formazione specifica e attivita' di medicina generale). ))
+
+1. 
+
+((Ai medici del Corpo unico della Sanita' militare in servizio permanente effettivo con almeno quattro anni di servizio dalla data di prima assegnazione continuano ad applicarsi le disposizioni di cui all'[articolo 19, comma 5-bis, del decreto-legge 16 luglio 2020, n. 76](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2020-07-16;76~art19-com5bis), convertito, con modificazioni, dalla [legge 11 settembre 2020, n. 120](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2020-09-11;120).))
+
+2. 
+
+((Le eventuali attivita' pratiche residuali che non possono essere svolte presso le strutture sanitarie dell'amministrazione di appartenenza, al pari dell'attivita' didattica di natura teorica, sono svolte fuori dal normale orario di servizio. La partecipazione al corso non costituisce vincolo per l'amministrazione ai fini dell'adozione di eventuali provvedimenti in materia di mobilita' e di impiego.))
+
+((138))
+
+----------------
+
+AGGIORNAMENTO (138)
+
+Il [D.Lgs. 3 aprile 2026, n. 74](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2026-04-03;74) ha disposto (con l'art. 20, comma 2, lettera c)) che "Le seguenti disposizioni inerenti alla costituzione del Corpo unico della Sanita' militare e al relativo transito del personale sanitario proveniente dalle Forze armate e dall'Arma dei carabinieri hanno effetto contestualmente a decorrere dal 1° gennaio 2027:   
+[....]   
+c) articoli 6, 7, 8, 9, 10, 11 e 12".
 
 ### Art. 212
 
@@ -4762,6 +5008,10 @@ Speciali competenze del personale infermieristico e dei soccorritori militari
 a) in assenza di personale medico, al personale infermieristico militare specificatamente formato e addestrato e' consentita l'effettuazione di manovre per il sostegno di base e avanzato delle funzioni vitali e per il supporto di base e avanzato nella fase di pre-ospedalizzazione del traumatizzato;
 
 b) in assenza di personale sanitario, ai soccorritori militari e' consentita l'applicazione di tecniche di primo soccorso nei limiti di quanto previsto da apposito protocollo d'intesa sottoscritto dal Ministero della difesa e dal Ministero della salute.
+
+1-bis. 
+
+((Qualifica, compiti e formazione dei soccorritori militari per le forze speciali sono disciplinati dall'[articolo 51, commi 8-ter](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2022-05-17;50~art51-com8ter) e [8-quater del decreto-legge 17 maggio 2022, n. 50](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2022-05-17;50~art51-com8quater), convertito, con modificazioni, dalla [legge 15 luglio 2022, n. 91](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2022-07-15;91).))
 
 CAPO XXXV - TITOLO VI ISTITUTI DI ISTRUZIONE E FORMAZIONE CAPO I DISPOSIZIONI GENERALI
 --------------------------------------------------------------------------------------
@@ -4918,6 +5168,22 @@ Corsi di studio degli istituti militari di istruzione superiore
 1. I corsi di studio seguiti presso gli istituti militari di cui all'articolo 224 sono definiti in base a quanto disposto dall'articolo 719.
 
 2. Per le materie militari e professionali non rientranti negli ordinamenti didattici, definiti ai sensi del comma 1, e per gli altri corsi di carattere non universitario o postuniversitario, l'ordine degli studi e i programmi sono stabiliti in base a quanto disposto nel libro IV, titolo III, capi I e II del regolamento.
+
+### Art. 225-bis
+
+(( (Formazione del personale del Corpo unico della Sanita' militare).))
+
+1. 
+
+((La formazione degli ufficiali, dei sottufficiali e dei graduati della Sanita' militare, sia di base sia successiva, ivi compresa quella accademica, e' garantita dalle Forze armate e dall'Arma dei carabinieri attraverso le rispettive strutture formative.))
+
+-------------
+
+AGGIORNAMENTO (138)
+
+Il [D.Lgs. 3 aprile 2026, n. 74](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2026-04-03;74), ha disposto (con l'art. 20, comma 2, lettera c)) che "Le seguenti disposizioni inerenti alla costituzione del Corpo unico della Sanita' militare e al relativo transito del personale sanitario proveniente dalle Forze armate e dall'Arma dei carabinieri hanno effetto contestualmente a decorrere dal 1° gennaio 2027:   
+[...]   
+c) articoli 6, 7, 8, 9, 10, 11 e 12".
 
 CAPO XXXIX - SEZIONE III ALTRE SCUOLE
 -------------------------------------
@@ -10791,23 +11057,35 @@ f) colonnello: capitano di vascello per la Marina militare;
 
 g) generale di brigata: brigadiere generale per l'Arma dei trasporti e dei materiali e i corpi logistici dell'Esercito italiano; contrammiraglio per la Marina militare; generale di brigata aerea e brigadiere generale per l'Aeronautica militare;
 
+((brigadiere generale per il Corpo unico della Sanita' militare;))
+
+((138))
+
 h) generale di divisione: maggiore generale per l'Arma dei trasporti e dei materiali e i corpi logistici dell'Esercito italiano; ammiraglio di divisione e ammiraglio ispettore per la Marina militare; generale di divisione aerea e generale ispettore per l'Aeronautica militare;
+
+((maggiore generale per il Corpo unico della Sanita' militare;))
+
+((138))
 
 i) generale di corpo d'armata: tenente generale per l'Arma dei trasporti e dei materiali e i corpi logistici dell'Esercito italiano; ammiraglio di squadra e ammiraglio ispettore capo per la Marina militare; generale di squadra aerea, generale di squadra e generale ispettore capo per l'Aeronautica militare;
 
+((tenente generale per il Corpo della Sanita' militare;))
+
+((138))
+
 l) generale: ammiraglio per la Marina militare.
 
-2. 
+2. COMMA ABROGATO DAL [D.LGS. 29 MAGGIO 2017, N. 94](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2017-05-29;94).
 
-((COMMA ABROGATO DAL [D.LGS. 29 MAGGIO 2017, N. 94](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2017-05-29;94)))
+3. COMMA ABROGATO DAL [D.LGS. 29 MAGGIO 2017, N. 94](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2017-05-29;94).
 
-.
+--------------
 
-3. 
+AGGIORNAMENTO (138)
 
-((COMMA ABROGATO DAL [D.LGS. 29 MAGGIO 2017, N. 94](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2017-05-29;94)))
-
-.
+Il [D.Lgs. 3 aprile 2026, n. 74](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2026-04-03;74), ha disposto (con l'art. 20, comma 2, lettera c)) che "Le seguenti disposizioni inerenti alla costituzione del Corpo unico della Sanita' militare e al relativo transito del personale sanitario proveniente dalle Forze armate e dall'Arma dei carabinieri hanno effetto contestualmente a decorrere dal 1° gennaio 2027:   
+[...]   
+c) articoli 6, 7, 8, 9, 10, 11 e 12".
 
 ### Art. 629
 
@@ -11169,13 +11447,45 @@ Commissioni di concorso
 
 1. Le commissioni esaminatrici per i concorsi per il reclutamento dei militari sono presiedute e formate da personale in servizio della rispettiva Forza armata, con l'intervento, se necessario, di uno o piu' esperti nelle materie o prove oggetto di valutazione, salvo quanto diversamente disposto dal bando.
 
+1-bis. 
+
+((Le commissioni esaminatrici per i concorsi per il reclutamento dei militari della Sanita' militare sono presiedute da personale in servizio del Corpo unico della Sanita' militare e formate da personale in servizio di ciascuna Forza armata e del Corpo unico della Sanita' militare))
+
+.
+
+((138))
+
+----------------
+
+AGGIORNAMENTO (138)
+
+Il [D.Lgs. 3 aprile 2026, n. 74](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2026-04-03;74) ha disposto (con l'art. 20, comma 2, lettera c)) che "Le seguenti disposizioni inerenti alla costituzione del Corpo unico della Sanita' militare e al relativo transito del personale sanitario proveniente dalle Forze armate e dall'Arma dei carabinieri hanno effetto contestualmente a decorrere dal 1° gennaio 2027:   
+[....]   
+c) articoli 6, 7, 8, 9, 10, 11 e 12".
+
 ### Art. 645
 
-Posti riservati a particolari categorie
+Posti riservati a particolari categorie nei concorsi pubblici
 
-((nei concorsi pubblici))
+1. Fermi restando gli ulteriori benefici previsti dal codice, fino al venticinque per cento dei posti messi a concorso per il reclutamento degli ufficiali e degli appartenenti ai ruoli dei marescialli delle Forze armate
 
-1. Fermi restando gli ulteriori benefici previsti dal codice, fino al venticinque per cento dei posti messi a concorso per il reclutamento degli ufficiali e degli appartenenti ai ruoli dei marescialli delle Forze armate e degli ispettori dell'Arma dei carabinieri e' riservato al coniuge e ai figli superstiti, ovvero ai parenti in linea collaterale di secondo grado se unici superstiti, del personale delle Forze armate e delle Forze di polizia deceduto in servizio e per causa di servizio, in possesso dei requisiti prescritti.
+((, della Sanita' militare))
+
+e degli ispettori dell'Arma dei carabinieri e' riservato al coniuge e ai figli superstiti, ovvero ai parenti in linea collaterale di secondo grado se unici superstiti, del personale delle Forze armate
+
+((, della Sanita' militare))
+
+e delle Forze di polizia deceduto in servizio e per causa di servizio, in possesso dei requisiti prescritti.
+
+((138))
+
+----------------
+
+AGGIORNAMENTO (138)
+
+Il [D.Lgs. 3 aprile 2026, n. 74](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2026-04-03;74) ha disposto (con l'art. 20, comma 2, lettera c)) che "Le seguenti disposizioni inerenti alla costituzione del Corpo unico della Sanita' militare e al relativo transito del personale sanitario proveniente dalle Forze armate e dall'Arma dei carabinieri hanno effetto contestualmente a decorrere dal 1° gennaio 2027:   
+[....]   
+c) articoli 6, 7, 8, 9, 10, 11 e 12".
 
 ### Art. 645-bis
 
@@ -11209,17 +11519,21 @@ c) essere riconosciuti in possesso della idoneita' psicofisica e attitudinale al
 
 Norme generali sui concorsi
 
-1. Con distinti decreti del Ministro della difesa, di concerto con il Ministro delle infrastrutture e dei trasporti per i concorsi a ufficiale del Corpo delle capitanerie di porto
+1. Con distinti decreti del Ministro della difesa, di concerto con il Ministro delle infrastrutture e dei trasporti per i concorsi a ufficiale del Corpo delle capitanerie di porto e con il
 
-((e con il Ministro dell'istruzione, dell'universita' e della ricerca per la parte di cui alla lettera a) del presente comma))
+((Ministro dell'universita' e della ricerca))
 
-, sono indicati per ciascuna Forza armata:
+per la parte di cui alla lettera a) del presente comma, sono indicati per ciascuna Forza armata:
 
-a) i titoli di studio di istruzione secondaria di secondo grado richiesti per l'ammissione ai singoli corsi delle accademie militari, nonche' quelli validi per i concorsi per la nomina a ufficiale in servizio permanente, ed eventuali ulteriori requisiti
+((138))
 
-((, fermo restando che, per il reclutamento nei Corpi sanitari tramite i corsi normali delle accademie, i concorrenti devono sostenere una specifica prova di selezione su argomenti attinenti a materie indicate dal Ministero dell'istruzione, dell'universita' e della ricerca, superata la quale, ove risultino vincitori di concorso per l'accesso nelle accademie, acquisiscono titolo all'ammissione ai corsi di laurea magistrale nei limiti numerici programmati a livello nazionale, che tengono conto delle esigenze numeriche della Difesa))
+a) i titoli di studio di istruzione secondaria di secondo grado richiesti per l'ammissione ai singoli corsi delle accademie militari, nonche' quelli validi per i concorsi per la nomina a ufficiale in servizio permanente, ed eventuali ulteriori requisiti, fermo restando che, per il reclutamento
 
-;
+((nel Corpo unico della Sanita' militare))
+
+tramite i corsi normali delle accademie, i concorrenti devono sostenere una specifica prova di selezione su argomenti attinenti a materie indicate dal Ministero dell'istruzione, dell'universita' e della ricerca, superata la quale, ove risultino vincitori di concorso per l'accesso nelle accademie, acquisiscono titolo all'ammissione ai corsi di laurea magistrale nei limiti numerici programmati a livello nazionale, che tengono conto delle esigenze numeriche della Difesa;
+
+((138))
 
 b) le tipologie e le modalita' di svolgimento dei concorsi, delle prove di esame e della formazione delle relative graduatorie di merito, prevedendo, se necessario, programmi differenziati in relazione ai titoli di studio richiesti;
 
@@ -11228,6 +11542,14 @@ c) la composizione delle commissioni esaminatrici.
 2. Le riserve di posti previste da leggi speciali in favore di particolari categorie di cittadini non possono complessivamente superare un terzo dei posti messi a concorso.
 
 3. Per la partecipazione ai concorsi finalizzati all'immissione nei ruoli degli ufficiali non si applicano gli aumenti dei limiti di eta' eventualmente previsti per l'ammissione ai pubblici impieghi.
+
+----------------
+
+AGGIORNAMENTO (138)
+
+Il [D.Lgs. 3 aprile 2026, n. 74](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2026-04-03;74) ha disposto (con l'art. 20, comma 2, lettera c)) che "Le seguenti disposizioni inerenti alla costituzione del Corpo unico della Sanita' militare e al relativo transito del personale sanitario proveniente dalle Forze armate e dall'Arma dei carabinieri hanno effetto contestualmente a decorrere dal 1° gennaio 2027:   
+[....]   
+c) articoli 6, 7, 8, 9, 10, 11 e 12".
 
 ### Art. 648
 
@@ -11243,17 +11565,29 @@ anni.
 
 ### Art. 649
 
-Posti riservati nelle accademie
+(( (Posti riservati nelle accademie). ))
 
-1. Nei concorsi per il reclutamento degli allievi delle accademie militari sono appositamente riservati alcuni posti per gli allievi delle scuole militari, nel limite massimo complessivo del 30 per cento dei posti disponibili.
+1. 
 
-2. Per specifiche esigenze di ciascuna Forza armata nei bandi di concorso per l'ammissione alle accademie militari, oltre alle riserve di posti di cui al comma 1, possono essere previste anche riserve di posti a favore di particolari categorie di personale militare in servizio nella relativa Forza armata. Ciascuna Forza armata puo' bandire concorsi per l'ammissione alle accademie riservati al proprio personale nella misura massima del 30 per cento dei posti disponibili.
+((Nei concorsi per il reclutamento degli allievi delle accademie militari sono appositamente riservati alcuni posti per gli allievi delle scuole militari, nel limite massimo complessivo del 30 per cento dei posti disponibili.))
 
-((
+2. 
 
-3. I posti riservati agli allievi delle scuole militari che non vengono ricoperti possono essere devoluti, secondo la percentuale massima stabilita nel bando di concorso, nell'ordine della graduatoria di merito, ai concorrenti idonei che sono alle armi in qualita' di ufficiali inferiori, di sottufficiali o di militari di truppa in ferma volontaria o rafferma con almeno un anno di servizio effettivamente svolto.
+((Per specifiche esigenze di ciascuna Forza armata e della Sanita' militare nei bandi di concorso per l'ammissione alle accademie militari, oltre alle riserve di posti di cui al comma 1, possono essere previste anche riserve di posti a favore di particolari categorie di personale militare in servizio nella relativa Forza armata e nella Sanita' militare. Ciascuna Forza armata e la Sanita' militare possono bandire concorsi per l'ammissione alle accademie riservati al proprio personale nella misura massima del 30 per cento dei posti disponibili.))
 
-))
+3. 
+
+((I posti riservati agli allievi delle scuole militari che non vengono ricoperti possono essere devoluti, secondo la percentuale massima stabilita nel bando di concorso, nell'ordine della graduatoria di merito, ai concorrenti idonei che sono alle armi in qualita' di ufficiali inferiori, di sottufficiali o di militari di truppa in ferma volontaria o rafferma con almeno un anno di servizio effettivamente svolto.))
+
+((138))
+
+----------------
+
+AGGIORNAMENTO (138)
+
+Il [D.Lgs. 3 aprile 2026, n. 74](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2026-04-03;74) ha disposto (con l'art. 20, comma 2, lettera c)) che "Le seguenti disposizioni inerenti alla costituzione del Corpo unico della Sanita' militare e al relativo transito del personale sanitario proveniente dalle Forze armate e dall'Arma dei carabinieri hanno effetto contestualmente a decorrere dal 1° gennaio 2027:   
+[....]   
+c) articoli 6, 7, 8, 9, 10, 11 e 12".
 
 ### Art. 650
 
@@ -11269,13 +11603,23 @@ c) allievi delle scuole militari;
 
 d) volontari in ferma che hanno completato la predetta ferma senza demerito, sono in possesso dei requisiti prescritti e presentano domanda entro dodici mesi dal termine della ferma.
 
-((
-
 d-bis) assistiti dall'Opera nazionale di assistenza per gli orfani dei militari di carriera dell'Esercito italiano, dall'Istituto Andrea Doria per l'assistenza dei familiari e degli orfani del personale della Marina militare, dall'Opera nazionale per i figli degli aviatori e dall'Opera nazionale di assistenza per gli orfani dei militari dell'Arma dei carabinieri.
 
-))
+2. Per l'ammissione alle Accademie militari, a parita' di merito, ha precedenza, tra il personale di cui alle lettere a) e b) del comma 1, quello appartenente alla rispettiva Forza armata
 
-2. Per l'ammissione alle Accademie militari, a parita' di merito, ha precedenza, tra il personale di cui alle lettere a) e b) del comma 1, quello appartenente alla rispettiva Forza armata.
+((o alla Sanita' militare))
+
+.
+
+((138))
+
+----------------
+
+AGGIORNAMENTO (138)
+
+Il [D.Lgs. 3 aprile 2026, n. 74](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2026-04-03;74) ha disposto (con l'art. 20, comma 2, lettera c)) che "Le seguenti disposizioni inerenti alla costituzione del Corpo unico della Sanita' militare e al relativo transito del personale sanitario proveniente dalle Forze armate e dall'Arma dei carabinieri hanno effetto contestualmente a decorrere dal 1° gennaio 2027:   
+[....]   
+c) articoli 6, 7, 8, 9, 10, 11 e 12".
 
 ### Art. 651
 
@@ -11319,6 +11663,48 @@ c) ammessi a frequentare un corso applicativo.
 
 ))
 
+### Art. 651-ter
+
+(( (Alimentazione ordinaria del ruolo normale del Corpo unico della Sanita' militare). ))
+
+1. 
+
+((Gli ufficiali del ruolo normale del Corpo unico della Sanita' militare in servizio permanente sono tratti:))
+
+a)
+
+((con il grado di sottotenente, da coloro che hanno frequentato le accademie militari e che hanno completato con esito favorevole il ciclo formativo previsto dal regolamento;))
+
+b)
+
+((mediante concorso per titoli ed esami, dai cittadini italiani che non hanno superato il ventottesimo anno di eta' e che sono in possesso del diploma di laurea richiesto dal bando di concorso pertinente alla specifica professionalita' del ruolo.))
+
+2. 
+
+((I vincitori del concorso di cui al comma 1, lettera b), sono:))
+
+a)
+
+((nominati tenenti con anzianita' relativa stabilita in base all'ordine della graduatoria di merito;))
+
+b)
+
+((iscritti in ruolo dopo l'ultimo dei pari grado provenienti dai corsi delle accademie militari nominati tenenti in servizio permanente nello stesso anno;))
+
+c)
+
+((ammessi a frequentare un corso formativo e avviati alla formazione specialistica.))
+
+((138))
+
+----------------
+
+AGGIORNAMENTO (138)
+
+Il [D.Lgs. 3 aprile 2026, n. 74](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2026-04-03;74) ha disposto (con l'art. 20, comma 2, lettera c)) che "Le seguenti disposizioni inerenti alla costituzione del Corpo unico della Sanita' militare e al relativo transito del personale sanitario proveniente dalle Forze armate e dall'Arma dei carabinieri hanno effetto contestualmente a decorrere dal 1° gennaio 2027:   
+[....]   
+c) articoli 6, 7, 8, 9, 10, 11 e 12".
+
 ### Art. 652
 
 Alimentazione straordinaria dei ruoli normali
@@ -11356,23 +11742,29 @@ Il [D.Lgs. 23 novembre 2023, n. 185](http://www.normattiva.it/uri-res/N2Ls?urn:n
 Partecipazione degli ufficiali ausiliari ai concorsi straordinari per   
 i ruoli normali
 
-1. Gli ufficiali in ferma prefissata, che hanno completato un anno di servizio e che sono in possesso di
+1. Gli ufficiali in ferma prefissata, che hanno completato un anno di servizio e che sono in possesso di laurea magistrale, e gli ufficiali inferiori delle forze di completamento in possesso di laurea magistrale possono partecipare ai concorsi per il reclutamento degli ufficiali dei ruoli normali di cui all'articolo 652, sempre che gli stessi non superino:
 
-((laurea magistrale))
+a)
 
-, e gli ufficiali inferiori delle forze di completamento
+((il quarantesimo anno d'eta', se ufficiali dell'Esercito italiano, della Marina militare, dell'Aeronautica militare o della Sanita' militare))
 
-((in possesso di laurea magistrale))
+;
 
-possono partecipare ai concorsi per il reclutamento degli ufficiali dei ruoli normali di cui all'articolo 652, sempre che gli stessi non superino:
-
-a) il 40° anno d'eta', se ufficiali dell'Esercito italiano, della Marina militare o dell'Aeronautica militare;
+((138))
 
 b) il 34° anno di eta' se ufficiali dell'Arma dei carabinieri.
 
 2. Il servizio prestato in qualita' di ufficiale in ferma prefissata costituisce titolo ai fini della formazione delle graduatorie di merito.
 
 3. COMMA ABROGATO DAL [D.LGS. 24 FEBBRAIO 2012, N. 20](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2012-02-24;20).
+
+----------------
+
+AGGIORNAMENTO (138)
+
+Il [D.Lgs. 3 aprile 2026, n. 74](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2026-04-03;74) ha disposto (con l'art. 20, comma 2, lettera c)) che "Le seguenti disposizioni inerenti alla costituzione del Corpo unico della Sanita' militare e al relativo transito del personale sanitario proveniente dalle Forze armate e dall'Arma dei carabinieri hanno effetto contestualmente a decorrere dal 1° gennaio 2027:   
+[....]   
+c) articoli 6, 7, 8, 9, 10, 11 e 12".
 
 CAPO CXV - SEZIONE II UFFICIALI DELL'ESERCITO ITALIANO, DELLA MARINA MILITARE E DELL'AERONAUTICA MILITARE
 ---------------------------------------------------------------------------------------------------------
@@ -11391,46 +11783,44 @@ del numero delle promozioni a scelta al grado di maggiore stabilito per il medes
 
 Alimentazione dei ruoli speciali
 
-1. Gli ufficiali dei ruoli speciali dell'Esercito italiano, della Marina militare e dell'Aeronautica militare, fatta eccezione per gli ufficiali del ruolo naviganti speciale, possono essere tratti:
+1. 
+
+((Gli ufficiali dei ruoli speciali dell'Esercito italiano, della Marina militare, dell'Aeronautica militare, fatta eccezione per gli ufficiali del ruolo naviganti speciale, e della Sanita' militare possono essere tratti))
+
+:
+
+((138))
 
 a) per concorso per titoli ed esami con il grado di sottotenente:   
 1) prevalentemente dal personale appartenente al ruolo dei marescialli, in possesso di un titolo di studio non inferiore alla laurea che non ha superato il 35° anno di eta' e che all'atto dell'immissione nel ruolo degli ufficiali ha almeno 5 anni di anzianita' nel ruolo di provenienza se reclutato ai sensi dell'articolo 679, comma 1, lettera a), ovvero 3 anni di anzianita' nel ruolo di provenienza se reclutato ai sensi dell'articolo 679, comma 1, lettera b);   
 2) dagli ufficiali di complemento un titolo di studio non inferiore alla laurea che all'atto di immissione nel ruolo speciale hanno completato senza demerito la ferma biennale e non hanno superato il 35° anno di eta';   
-3) dal personale giudicato idoneo e non vincitore dei concorsi per la nomina a ufficiale in servizio permanente effettivo dei ruoli normali dell'Esercito italiano, della Marina militare e dell'Aeronautica militare e che non ha superato il 35° anno di eta';   
-4) dai frequentatori dei corsi normali delle accademie militari che non hanno completato il secondo o il terzo anno del previsto ciclo formativo,
+3) dal personale giudicato idoneo e non vincitore dei concorsi per la nomina a ufficiale in servizio permanente effettivo dei ruoli normali dell'Esercito italiano, della Marina militare
 
-((e non hanno superato il 30° anno di eta', purche' in possesso dell'idoneita' in attitudine militare e))
+((, dell'Aeronautica militare e della Sanita' militare))
 
-di un titolo di studio non inferiore alla laurea;   
-4-bis) dai frequentatori dei corsi normali delle accademie militari iscritti ai corsi universitari quinquennali a ciclo unico che hanno superato gli esami del terzo anno
+e che non ha superato il 35° anno di eta';
 
-((, non hanno superato il 30° anno di eta'))
+((138))
 
-e sono idonei in attitudine militare;   
+  
+4) dai frequentatori dei corsi normali delle accademie militari che non hanno completato il secondo o il terzo anno del previsto ciclo formativo, e non hanno superato il 30° anno di eta', purche' in possesso dell'idoneita' in attitudine militare e di un titolo di studio non inferiore alla laurea;   
+4-bis) dai frequentatori dei corsi normali delle accademie militari iscritti ai corsi universitari quinquennali a ciclo unico che hanno superato gli esami del terzo anno, non hanno superato il 30° anno di eta' e sono idonei in attitudine militare;   
 5) dal personale del ruolo dei sergenti in possesso di un titolo di studio non inferiore alla laurea che, all'atto della presentazione della domanda al concorso, non ha superato il 35° anno di eta' e ha maturato almeno tre anni di anzianita' nel ruolo di appartenenza;   
 5-bis) dai volontari in servizio permanente in possesso di un titolo di studio non inferiore alla laurea che, all'atto della presentazione della domanda al concorso, non hanno superato il 35° anno di eta' e hanno maturato almeno cinque anni di anzianita' nel ruolo di appartenenza;
 
-b) per concorso per titoli ed esami, con il grado
+b) per concorso per titoli ed esami, con il grado di sottotenente, dagli ufficiali inferiori delle forze di completamento in possesso di un titolo di studio non inferiore alla laurea che hanno aderito ai richiami in servizio per le esigenze correlate con le missioni internazionali ovvero sono impiegati in attivita' addestrative, operative e logistiche sia sul territorio nazionale sia all'estero e che non hanno superato il 40° anno d'eta';
 
-((di sottotenente))
+c) per concorso per titoli ed esami con il grado di sottotenente dagli ufficiali in ferma prefissata in possesso di un titolo di studio non inferiore alla laurea che hanno completato un anno di servizio complessivo;
 
-, dagli ufficiali inferiori delle forze di completamento in possesso di un titolo di studio non inferiore alla laurea che hanno aderito ai richiami in servizio per le esigenze correlate con le missioni internazionali ovvero sono impiegati in attivita' addestrative, operative e logistiche sia sul territorio nazionale sia all'estero e che non hanno superato il 40° anno d'eta';
+d) a domanda, mantenendo il grado, l'anzianita' e la ferma precedentemente contratta, dagli ufficiali frequentatori dei corsi normali delle accademie militari iscritti in quanto tali ai corsi universitari quinquennali a ciclo unico ovvero in possesso di un titolo di studio non inferiore alla laurea, che non hanno completato il previsto ciclo formativo, previo parere favorevole della competente commissione ordinaria di avanzamento che indica il ruolo di transito, valutati i titoli di studio, le attitudini evidenziate e la situazione organica dei ruoli;
 
-c) per concorso per titoli ed esami con il grado
+d-bis)
 
-((di sottotenente))
+((a domanda, mantenendo il grado, l'anzianita' e la ferma precedentemente contratta, dagli ufficiali del Corpo unico della Sanita' militare, frequentatori dei corsi normali delle accademie militari iscritti in quanto tali ai corsi universitari a ciclo unico e in possesso di un titolo di studio non inferiore alla laurea in ambito sanitario, che non hanno completato il previsto ciclo formativo, previo parere favorevole della competente commissione ordinaria di avanzamento, valutati i titoli di studio, le attitudini evidenziate e la situazione organica dei ruoli))
 
-dagli ufficiali in ferma prefissata in possesso di un titolo di studio non inferiore alla laurea che hanno completato un anno di servizio complessivo;
+.
 
-d) a domanda, mantenendo il grado, l'anzianita' e la ferma precedentemente contratta, dagli ufficiali frequentatori dei corsi normali delle accademie militari
-
-((iscritti in quanto tali ai corsi universitari quinquennali a ciclo unico ovvero))
-
-in possesso di un titolo di studio non inferiore alla laurea,
-
-((...))
-
-che non hanno completato il previsto ciclo formativo, previo parere favorevole della competente commissione ordinaria di avanzamento che indica il ruolo di transito, valutati i titoli di studio, le attitudini evidenziate e la situazione organica dei ruoli.
+((138))
 
 1-bis. Gli ufficiali di cui al comma 1, lettera a), numero 4-bis) e lettera d), che partecipano al concorso senza aver conseguito la laurea devono conseguire tale titolo di studio entro l'anno di inserimento in aliquota per la promozione a capitano.
 
@@ -11447,29 +11837,43 @@ Gli stessi mantengono la ferma precedentemente contratta.
 
 4. I candidati utilmente collocati nella graduatoria di merito dei concorsi di cui al comma 1 sono nominati sottotenenti e ammessi a frequentare un corso applicativo.
 
-5. 
-
-((COMMA ABROGATO DAL [D.LGS. 27 DICEMBRE 2019, N. 173](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2019-12-27;173)))
-
-.
+5. COMMA ABROGATO DAL [D.LGS. 27 DICEMBRE 2019, N. 173](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2019-12-27;173).
 
 5-bis. Gli ufficiali dei ruoli speciali dell'Esercito italiano, della Marina militare e dell'Aeronautica militare sono tratti anche dagli ufficiali dei rispettivi ruoli normali ai sensi degli articoli 726, 728, 729, 732, 833, comma 1-ter, 1100 e 1137-bis.
+
+----------------
+
+AGGIORNAMENTO (138)
+
+Il [D.Lgs. 3 aprile 2026, n. 74](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2026-04-03;74) ha disposto (con l'art. 20, comma 2, lettera c)) che "Le seguenti disposizioni inerenti alla costituzione del Corpo unico della Sanita' militare e al relativo transito del personale sanitario proveniente dalle Forze armate e dall'Arma dei carabinieri hanno effetto contestualmente a decorrere dal 1° gennaio 2027:   
+[....]   
+c) articoli 6, 7, 8, 9, 10, 11 e 12".
 
 ### Art. 655-bis
 
 (Concorso per titoli ed esami nel ruolo speciale riservato ai primi marescialli e ai luogotenenti)
 
-1. Gli ufficiali dei ruoli speciali di cui all'articolo 655, comma 1, possono essere tratti, con il grado di sottotenente, nel limite massimo del 30 per cento dei posti messi annualmente a concorso per ciascuna Forza armata, anche tramite concorso per titoli ed esami dal personale del ruolo dei marescialli che riveste il grado di primo maresciallo e di luogotenente in possesso di un titolo di studio non inferiore alla laurea e dei requisiti previsti per la nomina ad ufficiale in servizio permanente.
+1. Gli ufficiali dei ruoli speciali di cui all'articolo 655, comma 1, possono essere tratti, con il grado di sottotenente, nel limite massimo del 30 per cento dei posti messi annualmente a concorso per ciascuna Forza armata
+
+((e per la Sanita' militare))
+
+, anche tramite concorso per titoli ed esami dal personale del ruolo dei marescialli che riveste il grado di primo maresciallo e di luogotenente in possesso di un titolo di studio non inferiore alla laurea e dei requisiti previsti per la nomina ad ufficiale in servizio permanente.
+
+((138))
 
 2. Ai fini della partecipazione al concorso di cui al comma 1, non vigono i limiti di eta' previsti dall'articolo 655.
 
 3. Le modalita' per lo svolgimento del concorso di cui al comma 1, compresa la definizione dei titoli e delle prove, la loro valutazione, la nomina delle commissioni e la formazione delle graduatorie, sono stabilite con decreto del Ministro della difesa.
 
-((
-
 3-bis. I primi marescialli e i luogotenenti possono partecipare ai concorsi di cui al comma 1, limitatamente a quelli concernenti la categoria, la specialita' ovvero l'abilitazione di appartenenza, secondo le corrispondenze definite dal decreto di cui all'articolo 655, comma 3.
 
-))
+----------------
+
+AGGIORNAMENTO (138)
+
+Il [D.Lgs. 3 aprile 2026, n. 74](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2026-04-03;74) ha disposto (con l'art. 20, comma 2, lettera c)) che "Le seguenti disposizioni inerenti alla costituzione del Corpo unico della Sanita' militare e al relativo transito del personale sanitario proveniente dalle Forze armate e dall'Arma dei carabinieri hanno effetto contestualmente a decorrere dal 1° gennaio 2027:   
+[....]   
+c) articoli 6, 7, 8, 9, 10, 11 e 12".
 
 ### Art. 656
 
@@ -11500,11 +11904,21 @@ Alimentazione straordinaria del ruolo speciale delle armi dell'Aeronautica milit
 
 Alimentazione straordinaria dei ruoli speciali
 
-1. Sulla base delle esigenze di ciascuna Forza armata, se nei rispettivi ruoli speciali non risultano ricoperte particolari posizioni organiche, possono essere indetti annualmente concorsi straordinari per titoli ed esami per il reclutamento di ufficiali nei citati ruoli da trarre dai giovani che non hanno superato il
+1. Sulla base delle esigenze di ciascuna Forza armata
 
-((35°))
+((e della Sanita' militare))
 
-anno di eta' alla data indicata dal bando di concorso e sono in possesso di uno dei diplomi di laurea previsti ai sensi dell'articolo 647, comma 1.
+, se nei rispettivi ruoli speciali non risultano ricoperte particolari posizioni organiche, possono essere indetti annualmente concorsi straordinari per titoli ed esami per il reclutamento di ufficiali nei citati ruoli da trarre dai giovani che non hanno superato il 35° anno di eta' alla data indicata dal bando di concorso e sono in possesso di uno dei diplomi di laurea previsti ai sensi dell'articolo 647, comma 1.
+
+((138))
+
+----------------
+
+AGGIORNAMENTO (138)
+
+Il [D.Lgs. 3 aprile 2026, n. 74](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2026-04-03;74) ha disposto (con l'art. 20, comma 2, lettera c)) che "Le seguenti disposizioni inerenti alla costituzione del Corpo unico della Sanita' militare e al relativo transito del personale sanitario proveniente dalle Forze armate e dall'Arma dei carabinieri hanno effetto contestualmente a decorrere dal 1° gennaio 2027:   
+[....]   
+c) articoli 6, 7, 8, 9, 10, 11 e 12".
 
 ### Art. 659
 
@@ -11524,9 +11938,23 @@ Partecipazione degli ufficiali ausiliari ai concorsi per ufficiali dei ruoli spe
 
 Immissioni in ruolo
 
-1. Per le immissioni in ruolo degli ufficiali si tiene conto delle vacanze complessive esistenti nei ruoli normali e speciali di ciascuna Forza armata.
+1. Per le immissioni in ruolo degli ufficiali si tiene conto delle vacanze complessive esistenti nei ruoli normali e speciali di ciascuna Forza armata
+
+((e della Sanita' militare))
+
+.
+
+((138))
 
 2. Il numero degli ufficiali da immettere annualmente nei ruoli normali e speciali non puo' superare in ogni caso, per ciascun ruolo, le vacanze esistenti nell'organico complessivo degli ufficiali inferiori ne' eccedere, comunque, rispettivamente un nono e un decimo del predetto organico.
+
+----------------
+
+AGGIORNAMENTO (138)
+
+Il [D.Lgs. 3 aprile 2026, n. 74](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2026-04-03;74) ha disposto (con l'art. 20, comma 2, lettera c)) che "Le seguenti disposizioni inerenti alla costituzione del Corpo unico della Sanita' militare e al relativo transito del personale sanitario proveniente dalle Forze armate e dall'Arma dei carabinieri hanno effetto contestualmente a decorrere dal 1° gennaio 2027:   
+[....]   
+c) articoli 6, 7, 8, 9, 10, 11 e 12".
 
 ### Art. 661
 
@@ -11625,11 +12053,21 @@ Immissioni in ruolo
 
 3. Il numero dei posti da mettere annualmente a concorso per l'immissione nel ruolo tecnico non puo' in ogni caso superare un
 
-((ventiseiesimo))
+((ventitreesimo))
 
 della consistenza organica degli ufficiali del medesimo ruolo aventi il grado da tenente a tenente colonnello compresi.
 
+((138))
+
 3-bis. Il numero di posti da mettere annualmente a concorso per l'immissione nel ruolo forestale non puo' in ogni caso superare un nono della consistenza organica degli ufficiali inferiori del medesimo ruolo.
+
+----------------
+
+AGGIORNAMENTO (138)
+
+Il [D.Lgs. 3 aprile 2026, n. 74](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2026-04-03;74) ha disposto (con l'art. 20, comma 2, lettera c)) che "Le seguenti disposizioni inerenti alla costituzione del Corpo unico della Sanita' militare e al relativo transito del personale sanitario proveniente dalle Forze armate e dall'Arma dei carabinieri hanno effetto contestualmente a decorrere dal 1° gennaio 2027:   
+[....]   
+c) articoli 6, 7, 8, 9, 10, 11 e 12".
 
 CAPO CXVII - SEZIONE IV CONCORSI RISERVATI AGLI UFFICIALI PILOTI E NAVIGATORI DI COMPLEMENTO
 --------------------------------------------------------------------------------------------
@@ -11919,7 +12357,21 @@ Limiti di eta'
 
 Posti riservati a particolari categorie per i concorsi dei ruoli marescialli e ispettori
 
-1. La quota dei posti relativi al reclutamento del personale dei ruoli dei marescialli delle Forze armate e degli ispettori dell'Arma dei carabinieri, di cui all'articolo 645, e' altresi' riservata ai diplomati presso le scuole militari e agli assistiti dall'Opera nazionale di assistenza per gli orfani dei militari di carriera dell'Esercito italiano, dall'Istituto Andrea Doria per l'assistenza dei familiari e degli orfani del personale della Marina militare, dall'Opera nazionale per i figli degli aviatori e dall'Opera nazionale di assistenza per gli orfani dei militari dell'Arma dei carabinieri, in possesso dei requisiti prescritti.
+1. La quota dei posti relativi al reclutamento del personale dei ruoli dei marescialli delle Forze armate
+
+((e della Sanita' militare))
+
+e degli ispettori dell'Arma dei carabinieri, di cui all'articolo 645, e' altresi' riservata ai diplomati presso le scuole militari e agli assistiti dall'Opera nazionale di assistenza per gli orfani dei militari di carriera dell'Esercito italiano, dall'Istituto Andrea Doria per l'assistenza dei familiari e degli orfani del personale della Marina militare, dall'Opera nazionale per i figli degli aviatori e dall'Opera nazionale di assistenza per gli orfani dei militari dell'Arma dei carabinieri, in possesso dei requisiti prescritti.
+
+((138))
+
+----------------
+
+AGGIORNAMENTO (138)
+
+Il [D.Lgs. 3 aprile 2026, n. 74](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2026-04-03;74) ha disposto (con l'art. 20, comma 2, lettera c)) che "Le seguenti disposizioni inerenti alla costituzione del Corpo unico della Sanita' militare e al relativo transito del personale sanitario proveniente dalle Forze armate e dall'Arma dei carabinieri hanno effetto contestualmente a decorrere dal 1° gennaio 2027:   
+[....]   
+c) articoli 6, 7, 8, 9, 10, 11 e 12".
 
 CAPO CXXIII - SEZIONE II MARESCIALLI DELL'ESERCITO ITALIANO, DELLA MARINA MILITARE E DELL'AERONAUTICA MILITARE
 --------------------------------------------------------------------------------------------------------------
@@ -11928,7 +12380,13 @@ CAPO CXXIII - SEZIONE II MARESCIALLI DELL'ESERCITO ITALIANO, DELLA MARINA MILITA
 
 Alimentazione dei ruoli dei marescialli
 
-1. Il personale del ruolo dei marescialli dell'Esercito italiano, della Marina militare e dell'Aeronautica militare reclutato tramite concorso pubblico contrae una ferma biennale ed e' immesso in ruolo al superamento del corso di formazione previsto all'articolo 760, comma 1.
+1. Il personale del ruolo dei marescialli dell'Esercito italiano, della Marina militare
+
+((, dell'Aeronautica militare e della Sanita' militare))
+
+reclutato tramite concorso pubblico contrae una ferma biennale ed e' immesso in ruolo al superamento del corso di formazione previsto all'articolo 760, comma 1.
+
+((138))
 
 2. Il personale reclutato tramite concorso interno e' immesso in ruolo al superamento di uno dei corsi previsti dall'articolo 760, commi 1 e 1-bis.
 
@@ -11939,69 +12397,53 @@ Alimentazione dei ruoli dei marescialli
 a) i giovani che:   
 1) sono riconosciuti in possesso della idoneita' agli incarichi, specializzazioni, categorie e specialita' di assegnazione;   
 2) non hanno compiuto il 26° anno di eta'. Per coloro che hanno gia' prestato servizio militare obbligatorio o volontario il limite massimo e' elevato a 28 anni, qualunque grado rivestono;   
-3) sono in possesso del diploma di corso quinquennale di istruzione secondaria di secondo grado o lo conseguono
-
-((entro l'anno solare in cui e' bandito il concorso o, se successivo, entro il temine previsto dal bando per la presentazione delle domande))
-
-, fermo restando che, per il reclutamento delle professioni sanitarie, i concorrenti devono sostenere una specifica prova di selezione su argomenti attinenti a materie indicate dal Ministero dell'istruzione, dell'universita' e della ricerca, superata la quale, ove risultino vincitori di concorso, acquisiscono titolo all'ammissione ai corsi di laurea nei limiti numerici programmati a livello nazionale, che tengono conto delle esigenze numeriche della Difesa;
+3) sono in possesso del diploma di corso quinquennale di istruzione secondaria di secondo grado o lo conseguono entro l'anno solare in cui e' bandito il concorso o, se successivo, entro il temine previsto dal bando per la presentazione delle domande, fermo restando che, per il reclutamento delle professioni sanitarie, i concorrenti devono sostenere una specifica prova di selezione su argomenti attinenti a materie indicate dal Ministero dell'istruzione, dell'universita' e della ricerca, superata la quale, ove risultino vincitori di concorso, acquisiscono titolo all'ammissione ai corsi di laurea nei limiti numerici programmati a livello nazionale, che tengono conto delle esigenze numeriche della Difesa;
 
 b) gli appartenenti ai ruoli dei sergenti e dei volontari in servizio permanente, i volontari in ferma o i militari di leva in servizio che, alla data prevista dal bando:   
-1) sono in possesso del diploma di corso quinquennale di istruzione secondaria di secondo grado o lo conseguono
-
-((entro l'anno solare in cui e' bandito il concorso o, se successivo, entro il temine previsto dal bando per la presentazione delle domande))
-
-, fermo restando che, per il reclutamento delle professioni sanitarie, i concorrenti devono sostenere una specifica prova di selezione su argomenti attinenti a materie indicate dal Ministero dell'istruzione, dell'universita' e della ricerca, superata la quale, ove risultino vincitori di concorso, acquisiscono titolo all'ammissione ai corsi di laurea nei limiti numerici programmati a livello nazionale, che tengono conto delle esigenze numeriche della Difesa;   
+1) sono in possesso del diploma di corso quinquennale di istruzione secondaria di secondo grado o lo conseguono entro l'anno solare in cui e' bandito il concorso o, se successivo, entro il temine previsto dal bando per la presentazione delle domande, fermo restando che, per il reclutamento delle professioni sanitarie, i concorrenti devono sostenere una specifica prova di selezione su argomenti attinenti a materie indicate dal Ministero dell'istruzione, dell'universita' e della ricerca, superata la quale, ove risultino vincitori di concorso, acquisiscono titolo all'ammissione ai corsi di laurea nei limiti numerici programmati a livello nazionale, che tengono conto delle esigenze numeriche della Difesa;   
 2) non hanno superato il ventottesimo anno di eta';   
 3) non hanno riportato sanzioni disciplinari piu' gravi della consegna nell'ultimo biennio o nel periodo di servizio prestato se inferiore a due anni;   
 4) sono in possesso della qualifica non inferiore a «superiore alla media» o giudizio corrispondente nell'ultimo biennio o nel periodo di servizio prestato se inferiore a due anni.
 
-5. Ai concorsi di cui all'articolo 679, comma l, lettera b), possono partecipare:
-
-((62))
+5. Ai concorsi di cui all'articolo 679, comma l, lettera b), possono partecipare: (62)
 
 a) gli appartenenti al ruolo sergenti nel limite minimo del 30 per cento dei posti disponibili mediante:   
 1) concorso per titoli, nel limite massimo del 50 per cento dei posti di cui all'alinea della presente lettera a), per i sergenti maggiori capo che alla data prevista nel bando di concorso:   
 1.1) non hanno superato il 48° anno di eta';   
-1.2) hanno riportato nell'ultimo
-
-((triennio))
-
-in servizio permanente la qualifica di almeno «superiore alla media» o giudizio corrispondente;   
+1.2) hanno riportato nell'ultimo triennio in servizio permanente la qualifica di almeno «superiore alla media» o giudizio corrispondente;   
 1.3) non hanno riportato sanzioni disciplinari piu' gravi della consegna nell'ultimo biennio;   
-1.4) sono in possesso del diploma quinquennale di istruzione secondaria di secondo grado o lo conseguono
+1.4) sono in possesso del diploma quinquennale di istruzione secondaria di secondo grado o lo conseguono entro l'anno solare in cui e' bandito il concorso o, se successivo, entro il temine previsto dal bando per la presentazione delle domande;   
+2) concorso per titoli ed esami, nel limite minimo del 50 per cento dei posti di cui all'alinea della presente lettera a), per gli appartenenti al ruolo sergenti in possesso dei requisiti di cui ai numeri 1.2), 1.3) e 1.4), che non hanno superato il (45°) anno di eta';
 
-((entro l'anno solare in cui e' bandito il concorso o, se successivo, entro il temine previsto dal bando per la presentazione delle domande))
+b) gli appartenenti al ruolo dei volontari in servizio permanente nel limite massimo del 70 per cento dei posti disponibili, mediante concorso per titoli ed esami, che alla data prevista nel bando di concorso non hanno superato il 45° anno di eta', hanno compiuto (sette) anni di servizio di cui almeno (tre) in servizio permanente e sono in possesso dei requisiti di cui alla lettera a), numeri 1.2), 1.3) e 1.4).
 
-;   
-2) concorso per titoli ed esami, nel limite minimo del 50 per cento dei posti di cui all'alinea della presente lettera a), per gli appartenenti al ruolo sergenti in possesso dei requisiti di cui ai numeri 1.2), 1.3) e 1.4), che non hanno superato il
+5-bis. Per specifiche esigenze delle singole Forze armate
 
-((45°))
+((e della Sanita' militare))
 
-anno di eta';
+, possono essere altresi' banditi, nei limiti delle risorse finanziarie disponibili, concorsi per titoli ed esami per trarre, con il grado di maresciallo e corrispondenti, giovani:
 
-b) gli appartenenti al ruolo dei volontari in servizio permanente nel limite massimo del 70 per cento dei posti disponibili, mediante concorso per titoli ed esami, che alla data prevista nel bando di concorso non hanno superato il 45° anno di eta', hanno compiuto
-
-((sette))
-
-anni di servizio di cui almeno
-
-((tre))
-
-in servizio permanente e sono in possesso dei requisiti di cui alla lettera a), numeri 1.2), 1.3) e 1.4).
-
-5-bis. Per specifiche esigenze delle singole Forze armate, possono essere altresi' banditi, nei limiti delle risorse finanziarie disponibili, concorsi per titoli ed esami per trarre, con il grado di maresciallo e corrispondenti, giovani:
+((138))
 
 a) in possesso di laurea definita con decreto del Ministro della difesa, di concerto con il Ministro delle infrastrutture e dei trasporti per i concorsi relativi al Corpo delle capitanerie di porto;
 
 b) di eta' non superiore a 32 anni alla data indicata nel bando di concorso.
 
-((6. Le norme per lo svolgimento dei concorsi di cui ai commi 4, 5 e 5-bis, compresa la definizione degli eventuali ulteriori requisiti, dei titoli e delle prove, la loro valutazione, la nomina delle commissioni e la formazione delle graduatorie, sono stabilite con decreto del Ministro della difesa, acquisito il concerto del Ministro delle infrastrutture e dei trasporti per la parte riferita al Corpo delle capitanerie di porto.))
+6. Le norme per lo svolgimento dei concorsi di cui ai commi 4, 5 e 5-bis, compresa la definizione degli eventuali ulteriori requisiti, dei titoli e delle prove, la loro valutazione, la nomina delle commissioni e la formazione delle graduatorie, sono stabilite con decreto del Ministro della difesa, acquisito il concerto del Ministro delle infrastrutture e dei trasporti per la parte riferita al Corpo delle capitanerie di porto.
 
 --------------
 
 AGGIORNAMENTO (62)
 
 Il [D.Lgs. 27 dicembre 2019, n. 173](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2019-12-27;173), ha disposto (con l'art. 4, comma 1, lettera b)) che al comma 5 del presente articolo, nell'alinea "le parole «comma 11» sono sostituite dalle seguenti: «comma 1»".
+
+----------------
+
+AGGIORNAMENTO (138)
+
+Il [D.Lgs. 3 aprile 2026, n. 74](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2026-04-03;74) ha disposto (con l'art. 20, comma 2, lettera c)) che "Le seguenti disposizioni inerenti alla costituzione del Corpo unico della Sanita' militare e al relativo transito del personale sanitario proveniente dalle Forze armate e dall'Arma dei carabinieri hanno effetto contestualmente a decorrere dal 1° gennaio 2027:   
+[....]   
+c) articoli 6, 7, 8, 9, 10, 11 e 12".
 
 CAPO CXXIV - SEZIONE III ISPETTORI DELL'ARMA DEI CARABINIERI
 ------------------------------------------------------------
@@ -12050,25 +12492,19 @@ b) nell'ambito di ciascun concorso di cui all'articolo 679, comma 2-bis, lettere
 
 9. Il reclutamento degli ispettori del Reggimento Corazzieri avviene con le modalita' stabilite al capo VI del presente titolo.
 
-9-bis. 
+9-bis. Per specifiche esigenze dell'Arma dei carabinieri, fino al 31 dicembre 2027, possono essere altresi' banditi, nei limiti delle risorse finanziare disponibili e a valere sulle facolta' assunzionali previste a legislazione vigente, concorsi pubblici per titoli ed esami, per trarre, con il grado di maresciallo, cittadini italiani:
 
-((Per specifiche esigenze dell'Arma dei carabinieri, fino al 31 dicembre 2027, possono essere altresi' banditi, nei limiti delle risorse finanziare disponibili e a valere sulle facolta' assunzionali previste a legislazione vigente, concorsi pubblici per titoli ed esami, per trarre, con il grado di maresciallo, cittadini italiani:))
+a) in possesso di laurea definita con decreto del Ministro della difesa;
 
-a)
+b) di eta' non superiore a 28 anni alla data indicata nel bando di concorso.
 
-((in possesso di laurea definita con decreto del Ministro della difesa;))
+9-ter. Le modalita' di svolgimento dei concorsi di cui al comma 9-bis,
 
-b)
+((comprese))
 
-((di eta' non superiore a 28 anni alla data indicata nel bando di concorso.))
+la definizione degli eventuali ulteriori requisiti, dei titoli e delle prove, la loro valutazione, la nomina delle commissioni e la formazione delle graduatorie, sono stabilite con decreto del Ministro della difesa.
 
-9-ter. 
-
-((Le modalita' di svolgimento dei concorsi di cui al comma 9-bis, compresa la definizione degli eventuali ulteriori requisiti, dei titoli e delle prove, la loro valutazione, la nomina delle commissioni e la formazione delle graduatorie, sono stabilite con decreto del Ministro della difesa.))
-
-9-quater. 
-
-((I posti rimasti scoperti all'esito dei concorsi di cui al comma 9-bis sono recuperati nell'ambito dell'esercizio delle facolta' assunzionali relative all'anno di riferimento.))
+9-quater. I posti rimasti scoperti all'esito dei concorsi di cui al comma 9-bis sono recuperati nell'ambito dell'esercizio delle facolta' assunzionali relative all'anno di riferimento.
 
 ### Art. 684
 
@@ -12241,37 +12677,47 @@ CAPO CXXV - CAPO V SERGENTI E SOVRINTENDENTI
 
 (Modalita' di reclutamento dei sergenti e dei sovrintendenti)
 
-1. Il reclutamento nei ruoli sergenti dell'Esercito italiano, della Marina militare e dell'Aeronautica militare avviene mediante concorsi interni
+1. Il reclutamento
 
-((e successivo corso di formazione basico,))
+((, dell'Aeronautica militare e della Sanita' militare))
 
-, riservati:
+nei ruoli sergenti dell'Esercito italiano, della Marina militare e dell'Aeronautica militare avviene mediante concorsi interni e successivo corso di formazione basico, riservati:
 
-a)
+((138))
 
-((nel limite massimo del 60 per cento))
+a) nel limite massimo del 60 per cento dei posti disponibili mediante concorso per titoli ed esami riservato agli appartenenti ai ruoli dei volontari in servizio permanente dell'Esercito italiano, della Marina militare
 
-dei posti disponibili mediante concorso per titoli ed esami riservato agli appartenenti ai ruoli dei volontari in servizio permanente dell'Esercito italiano, della Marina militare e dell'Aeronautica militare;
+((, dell'Aeronautica militare e della Sanita' militare))
 
-b)
+;
 
-((nel limite minimo del 40 per cento))
+((138))
 
-dei posti disponibili mediante concorso per titoli riservato al personale appartenente ai ruoli dei volontari in servizio permanente dell'Esercito italiano, della Marina militare e dell'Aeronautica militare con un'anzianita' minima di dieci anni nel ruolo.
+b) nel limite minimo del 40 per cento dei posti disponibili mediante concorso per titoli riservato al personale appartenente ai ruoli dei volontari in servizio permanente dell'Esercito italiano, della Marina militare
+
+((, dell'Aeronautica militare e della Sanita' militare))
+
+con un'anzianita' minima di dieci anni nel ruolo.
+
+((138))
 
 2. I posti di cui al comma 1, lettera a) rimasti scoperti possono essere devoluti in aumento al numero dei posti di cui alla lettera b) e viceversa.
 
-((
-
 3. Le modalita' per lo svolgimento dei concorsi di cui al comma 1, compresa la definizione degli eventuali ulteriori requisiti, dei titoli e delle prove, la loro valutazione, la composizione delle commissioni e la formazione delle graduatorie, sono stabilite con decreto del Ministro della difesa, acquisito il concerto del Ministro delle infrastrutture e dei trasporti per la parte riferita al Corpo delle capitanerie di porto.
-
-))
 
 4. Il reclutamento nel ruolo sovrintendenti, in relazione ai posti disponibili in organico, avviene esclusivamente mediante concorsi interni riservati:
 
 a) nel limite massimo del 60 per cento dei posti disponibili agli appartenenti ai ruoli iniziali in servizio permanente che ricoprano il grado apicale;
 
 b) nel limite minimo del 40 per cento agli appartenenti ai ruoli iniziali in servizio permanente che rivestono il grado di appuntato, carabiniere scelto e carabiniere.
+
+----------------
+
+AGGIORNAMENTO (138)
+
+Il [D.Lgs. 3 aprile 2026, n. 74](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2026-04-03;74) ha disposto (con l'art. 20, comma 2, lettera c)) che "Le seguenti disposizioni inerenti alla costituzione del Corpo unico della Sanita' militare e al relativo transito del personale sanitario proveniente dalle Forze armate e dall'Arma dei carabinieri hanno effetto contestualmente a decorrere dal 1° gennaio 2027:   
+[....]   
+c) articoli 6, 7, 8, 9, 10, 11 e 12".
 
 ### Art. 690-bis
 
@@ -12509,13 +12955,17 @@ CAPO CXXIX - SEZIONE II ((VOLONTARI IN FERMA PREFISSATA TRIENNALE))
 
 ### Art. 700
 
-(( (Requisiti). ))
-
-((
+(Requisiti)
 
 1. Possono partecipare ai concorsi per il reclutamento dei volontari in ferma prefissata triennale i volontari in ferma prefissata iniziale, ovvero in rafferma annuale, in servizio da almeno ventiquattro mesi o in congedo da non oltre dodici mesi, in possesso dei requisiti di cui all'articolo 635 e dei seguenti ulteriori requisiti:
 
-a) idoneita' fisio-psico-attitudinale per l'impiego nelle Forze armate in qualita' di volontario in servizio permanente;
+a) idoneita' fisio-psico-attitudinale per l'impiego nelle Forze armate
+
+((e della Sanita' militare))
+
+in qualita' di volontario in servizio permanente;
+
+((138))
 
 b) eta' non superiore a ventotto anni compiuti, elevata a ventinove per i volontari in rafferma annuale, in servizio o in congedo;
 
@@ -12527,7 +12977,13 @@ a) ai volontari in ferma prefissata iniziale in servizio ovvero in rafferma annu
 
 b) ai volontari in ferma prefissata iniziale in congedo da non oltre dodici mesi, che abbiano completato la ferma iniziale, in misura non superiore al 30 per cento.
 
-3. Al fine di soddisfare specifiche esigenze operative delle Forze armate, possono essere banditi concorsi straordinari per il reclutamento di volontari in ferma prefissata triennale riservati:
+3. Al fine di soddisfare specifiche esigenze operative delle Forze armate
+
+((e della Sanita' militare))
+
+, possono essere banditi concorsi straordinari per il reclutamento di volontari in ferma prefissata triennale riservati:
+
+((138))
 
 a) ai volontari in ferma prefissata iniziale in servizio ovvero in congedo in possesso di specifici requisiti stabiliti con il decreto di cui all'articolo 701;
 
@@ -12535,7 +12991,15 @@ b) ai volontari in ferma prefissata iniziale in congedo, che abbiano completato 
 
 4. Ai volontari di cui al comma 3, lettera a), non si applicano le disposizioni sul periodo minimo di servizio di cui al comma 1, alinea.
 
-5. I vincitori dei concorsi di cui al presente articolo sono ammessi alla ferma prefissata triennale con il grado di caporale, per l'Esercito italiano, comune di 1ª classe, per la Marina militare, o aviere scelto, per l'Aeronautica militare))
+5. I vincitori dei concorsi di cui al presente articolo sono ammessi alla ferma prefissata triennale con il grado di caporale, per l'Esercito italiano, comune di 1ª classe, per la Marina militare, o aviere scelto, per l'Aeronautica militare.
+
+----------------
+
+AGGIORNAMENTO (138)
+
+Il [D.Lgs. 3 aprile 2026, n. 74](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2026-04-03;74) ha disposto (con l'art. 20, comma 2, lettera c)) che "Le seguenti disposizioni inerenti alla costituzione del Corpo unico della Sanita' militare e al relativo transito del personale sanitario proveniente dalle Forze armate e dall'Arma dei carabinieri hanno effetto contestualmente a decorrere dal 1° gennaio 2027:   
+[....]   
+c) articoli 6, 7, 8, 9, 10, 11 e 12".
 
 ### Art. 701
 
@@ -12654,11 +13118,21 @@ c) se il procedimento disciplinare si e' concluso senza l'applicazione di una sa
 
 ### Art. 705
 
-(( (Particolari categorie protette per il reclutamento nell'Esercito italiano, nella Marina militare e nell'Aeronautica militare).))
+( Particolari categorie protette per il reclutamento nell'Esercito italiano, nella Marina militare
 
-((
+((, nell'Aeronautica militare e nella Sanita' militare))
 
-1. Possono essere immessi nei ruoli dei volontari in servizio permanente dell'Esercito italiano, della Marina militare e dell'Aeronautica militare il coniuge, i figli e i fratelli dei militari appartenenti a tali Forze armate deceduti o divenuti permanentemente inabili al servizio con invalidita' non inferiore all'ottanta per cento, per effetto di ferite o lesioni riportate nell'espletamento di missioni internazionali di pace ovvero in attivita' operative, individuate con decreto del Ministro della difesa, in esecuzione dei compiti di cui agli articoli 87, 89 e 92, comma 1:
+).
+
+((138))
+
+1. Possono essere immessi nei ruoli dei volontari in servizio permanente dell'Esercito italiano, della Marina militare
+
+((, dell'Aeronautica militare e della Sanita' militare))
+
+il coniuge, i figli e i fratelli dei militari appartenenti a tali Forze armate deceduti o divenuti permanentemente inabili al servizio con invalidita' non inferiore all'ottanta per cento, per effetto di ferite o lesioni riportate nell'espletamento di missioni internazionali di pace ovvero in attivita' operative, individuate con decreto del Ministro della difesa, in esecuzione dei compiti di cui agli articoli 87, 89 e 92, comma 1:
+
+((138))
 
 a) nei limiti delle vacanze organiche;
 
@@ -12666,7 +13140,13 @@ b) previo superamento di un corso propedeutico svolto con modalita' definite dal
 
 c) previo accertamento del possesso dei requisiti per il reclutamento in servizio permanente di cui agli articoli 635 e 640.
 
-))
+----------------
+
+AGGIORNAMENTO (138)
+
+Il [D.Lgs. 3 aprile 2026, n. 74](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2026-04-03;74) ha disposto (con l'art. 20, comma 2, lettera c)) che "Le seguenti disposizioni inerenti alla costituzione del Corpo unico della Sanita' militare e al relativo transito del personale sanitario proveniente dalle Forze armate e dall'Arma dei carabinieri hanno effetto contestualmente a decorrere dal 1° gennaio 2027:   
+[....]   
+c) articoli 6, 7, 8, 9, 10, 11 e 12".
 
 CAPO CXXXII - CAPO VIII CARABINIERI
 -----------------------------------
@@ -13049,7 +13529,21 @@ Personale femminile in formazione
 
 Corsi di formazione militare
 
-1. Il regolamento disciplina i corsi di formazione per l'accesso ai ruoli delle Forze armate, nonche' le relative graduatorie di merito, cause e procedure di rinvio e di espulsione.
+1. Il regolamento disciplina i corsi di formazione per l'accesso ai ruoli delle Forze armate
+
+((e della Sanita' militare))
+
+, nonche' le relative graduatorie di merito, cause e procedure di rinvio e di espulsione.
+
+((138))
+
+-------------
+
+AGGIORNAMENTO (138)
+
+Il [D.Lgs. 3 aprile 2026, n. 74](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2026-04-03;74), ha disposto (con l'art. 20, comma 2, lettera c)) che "Le seguenti disposizioni inerenti alla costituzione del Corpo unico della Sanita' militare e al relativo transito del personale sanitario proveniente dalle Forze armate e dall'Arma dei carabinieri hanno effetto contestualmente a decorrere dal 1° gennaio 2027:   
+[...]   
+c) articoli 6, 7, 8, 9, 10, 11 e 12".
 
 ### Art. 718
 
@@ -13068,32 +13562,31 @@ CAPO CXXXV - CAPO II UFFICIALI IN SERVIZIO PERMANENTE SEZIONE I DISPOSIZIONI GEN
 
 Formazione universitaria degli ufficiali
 
-1. Con decreto del Ministro dell'istruzione, dell'universita' e della ricerca, di concerto con i Ministri della difesa e dell'economia e delle finanze, sono definiti, ai sensi dell'[articolo 17, comma 95 della legge 15 maggio 1997, n. 127](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-05-15;127~art17-com95), i criteri generali per la definizione, da parte delle universita', degli ordinamenti didattici di corsi di diploma universitario, di laurea e di specializzazione, di cui agli [articoli 2](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-11-19;341~art2), [3](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-11-19;341~art3) e [4 della legge 19 novembre 1990, n. 341](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-11-19;341~art4), adeguati alla formazione degli ufficiali delle Forze armate e del Corpo della Guardia di finanza. Le universita', in conformita' ai predetti criteri, definiscono gli ordinamenti didattici d'intesa con le accademie militari per gli ufficiali e con gli altri istituti militari d'istruzione superiore. Ai fini dell'attivazione e della gestione dei corsi di cui al presente articolo, le universita', cui compete il rilascio dei titoli e la responsabilita' didattica dei corsi, stipulano apposite convenzioni con le predette accademie e istituti. Tali convenzioni prevedono l'organizzazione delle attivita' didattiche anche utilizzando le strutture e, per specifici insegnamenti, i docenti delle accademie e degli istituti. I Ministri della difesa, dell'economia e delle finanze e dell'istruzione, dell'universita' e della ricerca definiscono opportune modalita' e strumenti per agevolare la stipula delle convenzioni di cui al presente articolo.
+1. Con decreto del Ministro dell'istruzione, dell'universita' e della ricerca, di concerto con i Ministri della difesa e dell'economia e delle finanze, sono definiti, ai sensi dell'[articolo 17, comma 95 della legge 15 maggio 1997, n. 127](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-05-15;127~art17-com95), i criteri generali per la definizione, da parte delle universita', degli ordinamenti didattici di corsi di diploma universitario, di laurea e di specializzazione, di cui agli [articoli 2](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-11-19;341~art2), [3](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-11-19;341~art3) e [4 della legge 19 novembre 1990, n. 341](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-11-19;341~art4), adeguati alla formazione degli ufficiali delle Forze armate
 
-2. Le convenzioni di cui al presente articolo prevedono anche le modalita' di riconoscimento degli studi compiuti e di rilascio dei titoli di diploma universitario, di laurea e di specializzazione riguardanti gli ufficiali delle Forze armate e del Corpo della Guardia di finanza in servizio ovvero in congedo che, in possesso del diploma di scuola media superiore richiesto all'epoca per l'ammissione alle accademie militari, hanno superato il previsto ciclo di studi presso le rispettive accademie e le scuole di applicazione ovvero la Scuola ufficiali carabinieri o la Scuola di applicazione della Guardia di finanza. Per gli ufficiali in congedo le modalita' di riconoscimento sono definite anche con riferimento ai cicli di studi frequentati dal personale in servizio. I riconoscimenti hanno luogo dando la precedenza alle procedure riguardanti gli ufficiali in servizio.
+((, della Sanita' militare))
 
-Note all'art. 719:  
-- Il testo dell'[art. 17, comma 95, della legge 15 maggio 1997, n. 127](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-05-15;127~art17-com95) (Misure urgenti per lo snellimento dell'attivita' amministrativa e dei procedimenti di decisione e di controllo), pubblicata nel supplemento ordinario alla Gazzetta Ufficiale del 17 maggio 1997, n. 113, e' il seguente:  
-« 95. L'ordinamento degli studi dei corsi universitari, con esclusione del dottorato di ricerca, e' disciplinato dagli atenei, con le modalita' di cui all'[articolo 11, commi 1](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-11-19;341~art11-com1) e [2, della legge 19 novembre 1990, n. 341](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-11-19;341~art11-com2) , in conformita' a criteri generali definiti, nel rispetto della normativa comunitaria vigente in materia, sentiti il Consiglio universitario nazionale e le Commissioni parlamentari competenti, con uno o piu' decreti del Ministro dell'universita' e della ricerca scientifica e tecnologica, di concerto con altri Ministri interessati, limitatamente ai criteri relativi agli ordinamenti per i quali il medesimo concerto e' previsto alla data di entrata in vigore della presente legge, ovvero da disposizioni dei commi da 96 a 119 del presente articolo. I decreti di cui al presente comma determinano altresi':  
-a) con riferimento ai corsi di cui al presente comma, accorpati per aree omogenee, la durata, anche eventualmente comprensiva del percorso formativo gia' svolto, l'eventuale serialita' dei predetti corsi e dei relativi titoli, gli obiettivi formativi qualificanti, tenendo conto degli sbocchi occupazionali e della spendibilita' a livello internazionale, nonche' la previsione di nuove tipologie di corsi e di titoli universitari, in aggiunta o in sostituzione a quelli determinati dagli [articoli 1](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-11-19;341~art1), [2](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-11-19;341~art2), [3, comma 1](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-11-19;341~art3-com1) e [4](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-11-19;341~art3-com4), [comma 1, della legge 19 novembre 1990, n. 341](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-11-19;341~art3-com1), anche modificando gli ordinamenti e la durata di quelli di cui al [decreto legislativo 8 maggio 1998, n. 178](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1998-05-08;178), in corrispondenza di attivita' didattiche di base, specialistiche, di perfezionamento scientifico, di alta formazione permanente e ricorrente (195);  
-b) modalita' e strumenti per l'orientamento e per favorire la mobilita' degli studenti, nonche' la piu' ampia informazione sugli ordinamenti degli studi, anche attraverso l'utilizzo di strumenti informatici e telematici;  
-c) modalita' di attivazione da parte di universita' italiane, in collaborazione con atenei stranieri, dei corsi universitari di cui al presente comma, nonche' di dottorati di ricerca, anche in deroga alle disposizioni di cui al Capo II del Titolo III del [decreto del Presidente della Repubblica 11 luglio 1980, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-11;382).».  
-- Il testo degli [artt. 2](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-11-19;341~art2), [3](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-11-19;341~art3) e [4 della legge 19 novembre 1990, n. 341](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-11-19;341~art4) (Riforma degli ordinamenti didattici universitari) pubblicata nella Gazzetta Ufficiale del 23 novembre 1990, n. 274, e' il seguente:  
-«Art. 2 (Diploma universitario). - 1. Il corso di diploma si svolge nelle facolta', ha una durata non inferiore a due anni e non superiore a tre, e comunque corrispondente a quella eventualmente stabilita dalle norme della Comunita' economica europea per i diplomi universitari di primo livello ed ha il fine di fornire agli studenti adeguata conoscenza di metodi e contenuti culturali e scientifici orientata al conseguimento del livello formativo richiesto da specifiche aree professionali.  
-2. Le facolta' riconoscono totalmente o parzialmente gli studi compiuti nello svolgimento dei curricula previsti per i corsi di diploma universitario e per quelli di laurea ai fini del proseguimento degli studi per il conseguimento, rispettivamente, delle lauree e dei diplomi universitari affini, secondo criteri e modalita' dettati con i decreti di cui all'articolo 9, comma 1, fermo restando in ogni caso l'obbligo di tale riconoscimento.»  
-«Art. 3 (Diploma di laurea). - 1. Il corso di laurea si svolge nelle facolta', ha una durata non inferiore a quattro anni e non superiore a sei ed ha il fine di fornire agli studenti adeguate conoscenze di metodi e contenuti culturali, scientifici e professionali di livello superiore.  
-2. Uno specifico corso di laurea, articolato in due indirizzi, e' preordinato alla formazione culturale e professionale degli insegnanti, rispettivamente, della scuola materna e della scuola elementare, in relazione alle norme del relativo stato giuridico. Il diploma di laurea costituisce titolo necessario, a seconda dell'indirizzo seguito, ai fini dell'ammissione ai concorsi a posti di insegnamento nella scuola materna e nella scuola elementare. Il diploma di laurea dell'indirizzo per la formazione culturale e professionale degli insegnanti della scuola elementare costituisce altresi' titolo necessario ai fini dell'ammissione ai concorsi per l'accesso a posti di istitutore o istitutrice nelle istruzioni educative dello Stato. [I concorsi hanno funzione abilitante] (3). Ai due indirizzi del corso di laurea contribuiscono i dipartimenti interessati; per il funzionamento dei predetti corsi sono utilizzati le strutture e, con il loro consenso, i professori ed i ricercatori di tutte le facolta' presso cui le necessarie competenze sono disponibili.  
-3. abrogato  
-4. abrogato  
-5. abrogato  
-6. Con lo stesso decreto del Presidente della Repubblica di cui al comma 3 o con altro decreto adottato con le medesime modalita', di concerto altresi' con i Ministri di grazia e giustizia e per la funzione pubblica e con gli altri Ministri interessati, sono individuati i profili professionali per i quali, salvo le eventuali e opportune integrazioni, il diploma di laurea di cui al comma 2 e' titolo valido per l'esercizio delle corrispondenti attivita', nonche' le qualifiche funzionali del pubblico impiego per le quali il diploma di laurea costituisce titolo per l'accesso.  
-7. abrogato  
-8. Con decreto del Ministro della pubblica istruzione, emanato di concerto con i Ministri per la funzione pubblica e del tesoro entro un anno dalla data di entrata in vigore della presente legge, sono stabiliti i tempi e le modalita' per il graduale passaggio al nuovo ordinamento, anche con riferimento ai diritti degli insegnanti di scuola materna ed elementare in servizio.»  
-«Art. 4 (Diploma di specializzazione). - 1. Il diploma di specializzazione si consegue, successivamente alla laurea, al termine di un corso di studi di durata non inferiore a due anni finalizzato alla formazione di specialisti in settori professionali determinati, presso le scuole di specializzazione di cui al [D.P.R. 10 marzo 1982, n. 162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1982-03-10;162).  
-2. Con una specifica scuola di specializzazione articolata in indirizzi, cui contribuiscono le facolta' ed i dipartimenti interessati, ed in particolare le attuali facolta' di magistero, le universita' provvedono alla formazione, anche attraverso attivita' di tirocinio didattico, degli insegnanti delle scuole secondarie, prevista dalle norme del relativo stato giuridico. L'esame finale per il conseguimento del diploma ha valore di esame di Stato ed abilita all'insegnamento per le aree disciplinari cui si riferiscono i relativi diplomi di laurea. I diplomi rilasciati dalla scuola di specializzazione costituiscono titolo di ammissione ai corrispondenti concorsi a posti di insegnamento nelle scuole secondarie.  
-2-bis. Si applicano le disposizioni di cui all'articolo 3, comma 8.  
-3. abrogato.  
-4. Con lo stesso decreto del Presidente della Repubblica di cui al comma 3 o con altro decreto adottato con le medesime modalita', di concerto altresi' con i Ministri di grazia e giustizia e per la funzione pubblica, sono determinati i diplomi di specializzazione di cui al comma 2 che in relazione a specifici profili professionali danno titolo alla partecipazione agli esami di abilitazione per l'esercizio delle corrispondenti professioni ovvero danno titolo per l'accesso alla dirigenza nel pubblico impiego.».
+e del Corpo della Guardia di finanza. Le universita', in conformita' ai predetti criteri, definiscono gli ordinamenti didattici d'intesa con le accademie militari per gli ufficiali e con gli altri istituti militari d'istruzione superiore.  
+Ai fini dell'attivazione e della gestione dei corsi di cui al presente articolo, le universita', cui compete il rilascio dei titoli e la responsabilita' didattica dei corsi, stipulano apposite convenzioni con le predette accademie e istituti. Tali convenzioni prevedono l'organizzazione delle attivita' didattiche anche utilizzando le strutture e, per specifici insegnamenti, i docenti delle accademie e degli istituti. I Ministri della difesa, dell'economia e delle finanze e dell'istruzione, dell'universita' e della ricerca definiscono opportune modalita' e strumenti per agevolare la stipula delle convenzioni di cui al presente articolo.
+
+((138))
+
+2. Le convenzioni di cui al presente articolo prevedono anche le modalita' di riconoscimento degli studi compiuti e di rilascio dei titoli di diploma universitario, di laurea e di specializzazione riguardanti gli ufficiali delle Forze armate
+
+((, della Sanita' militar))
+
+e del Corpo della Guardia di finanza in servizio ovvero in congedo che, in possesso del diploma di scuola media superiore richiesto all'epoca per l'ammissione alle accademie militari, hanno superato il previsto ciclo di studi presso le rispettive accademie e le scuole di applicazione ovvero la Scuola ufficiali carabinieri o la Scuola di applicazione della Guardia di finanza. Per gli ufficiali in congedo le modalita' di riconoscimento sono definite anche con riferimento ai cicli di studi frequentati dal personale in servizio.  
+I riconoscimenti hanno luogo dando la precedenza alle procedure riguardanti gli ufficiali in servizio.
+
+((138))
+
+--------------
+
+AGGIORNAMENTO (138)
+
+Il [D.Lgs. 3 aprile 2026, n. 74](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2026-04-03;74), ha disposto (con l'art. 20, comma 2, lettera c)) che "Le seguenti disposizioni inerenti alla costituzione del Corpo unico della Sanita' militare e al relativo transito del personale sanitario proveniente dalle Forze armate e dall'Arma dei carabinieri hanno effetto contestualmente a decorrere dal 1° gennaio 2027:   
+[...]   
+c) articoli 6, 7, 8, 9, 10, 11 e 12".
 
 ### Art. 720
 
@@ -13103,7 +13596,19 @@ Formazione degli ufficiali dei ruoli normali
 
 2. Coloro che hanno completato con esito favorevole il ciclo formativo presso le accademie militari sono nominati sottotenenti e immessi nei rispettivi ruoli normali.
 
-3. Le accademie militari sono deputate anche alla formazione degli ufficiali dei corpi sanitari, secondo quanto stabilito nel regolamento.
+3. 
+
+((Le accademie militari sono deputate anche alla formazione degli ufficiali del Corpo unico della Sanita' militare, secondo quanto stabilito nel regolamento.))
+
+((138))
+
+-------------
+
+AGGIORNAMENTO (138)
+
+Il [D.Lgs. 3 aprile 2026, n. 74](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2026-04-03;74), ha disposto (con l'art. 20, comma 2, lettera c)) che "Le seguenti disposizioni inerenti alla costituzione del Corpo unico della Sanita' militare e al relativo transito del personale sanitario proveniente dalle Forze armate e dall'Arma dei carabinieri hanno effetto contestualmente a decorrere dal 1° gennaio 2027:   
+[...]   
+c) articoli 6, 7, 8, 9, 10, 11 e 12".
 
 ### Art. 721
 
@@ -13119,39 +13624,55 @@ Formazione degli ufficiali a nomina diretta dei ruoli normali
 
 a) se appartenenti all'Esercito italiano, alla Marina militare e all'Aeronautica militare frequentano corsi applicativi di durata non superiore a un anno accademico le cui modalita' sono disciplinate con determinazione dei rispettivi Capi di stato maggiore;
 
-b) se appartenenti all'Arma dei carabinieri frequentano un corso applicativo della durata non inferiore a
+b) se appartenenti all'Arma dei carabinieri frequentano un corso applicativo della durata non inferiore a due anni, le cui modalita' sono disciplinate con determinazione del Comandante generale dell'Arma dei carabinieri;
 
-((due anni))
+((138))
 
-, le cui modalita' sono disciplinate con determinazione del Comandante generale dell'Arma dei carabinieri.
+b-bis)
 
-2. L'anzianita' relativa dei predetti ufficiali e' rideterminata, a seguito del superamento degli esami di fine corso, dalla media del punteggio della graduatoria del concorso e di quello conseguito al termine del corso stesso. Gli stessi sono iscritti in ruolo
+((se appartenenti alla Sanita' militare frequentano un corso applicativo di durata non superiore a un anno accademico le cui modalita' sono disciplinate con determinazione del Direttore della Sanita' militare.))
 
-((, se appartenenti all'Esercito italiano, alla Marina militare e all'Aeronautica militare))
+((138))
 
-dopo i pari grado provenienti dai corsi regolari delle rispettive accademie militari che terminano il ciclo formativo nello stesso anno
+2. L'anzianita' relativa dei predetti ufficiali e' rideterminata, a seguito del superamento degli esami di fine corso, dalla media del punteggio della graduatoria del concorso e di quello conseguito al termine del corso stesso. Gli stessi sono iscritti in ruolo, se appartenenti all'Esercito italiano, alla Marina militare e all'Aeronautica militare dopo i pari grado provenienti dai corsi regolari delle rispettive accademie militari che terminano il ciclo formativo nello stesso anno, se appartenenti all'Arma dei carabinieri, dopo i pari grado provenienti dai corsi ordinari che terminano il ciclo formativo nello stesso anno
 
-((, se appartenenti all'Arma dei carabinieri, dopo i pari grado provenienti dai corsi ordinari che terminano il ciclo formativo nello stesso anno))
+((nonche', se appartenenti al Corpo unico della Sanita' militare, dopo i pari grado del medesimo corpo provenienti dai corsi ordinari che terminano il ciclo formativo nello stesso anno))
 
 .
 
+((138))
+
 3. I candidati che non superino il corso applicativo sono collocati in congedo, se non devono assolvere o completare gli obblighi di leva, ovvero sono restituiti ai ruoli di provenienza. Il periodo di durata del corso e' computato per intero ai fini dell'anzianita' di servizio per i militari in servizio permanente e per il restante personale non e' computabile ai fini dell'assolvimento degli obblighi di leva.
+
+-------------
+
+AGGIORNAMENTO (138)
+
+Il [D.Lgs. 3 aprile 2026, n. 74](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2026-04-03;74), ha disposto (con l'art. 20, comma 2, lettera c)) che "Le seguenti disposizioni inerenti alla costituzione del Corpo unico della Sanita' militare e al relativo transito del personale sanitario proveniente dalle Forze armate e dall'Arma dei carabinieri hanno effetto contestualmente a decorrere dal 1° gennaio 2027:   
+[...]   
+c) articoli 6, 7, 8, 9, 10, 11 e 12".
 
 ### Art. 723
 
-Corsi applicativi per ufficiali dei ruoli speciali dell'Esercito italiano, della Marina militare e dell'Aeronautica militare
+Corsi applicativi per ufficiali dei ruoli speciali dell'Esercito italiano, della Marina militare
 
-1. I corsi applicativi per gli ufficiali dei ruoli speciali dell'Esercito italiano, della Marina militare e dell'Aeronautica militare hanno durata non inferiore a tre mesi.
+((, dell'Aeronautica militare e della Sanita' militare))
+
+((138))
+
+1. I corsi applicativi per gli ufficiali dei ruoli speciali dell'Esercito italiano, della Marina militare
+
+((, dell'Aeronautica militare e della Sanita' militare))
+
+hanno durata non inferiore a tre mesi.
+
+((138))
 
 2. L'anzianita' relativa dei predetti ufficiali e' rideterminata in base alla media del punteggio ottenuto nella graduatoria del concorso e di quello conseguito nella graduatoria di fine corso.
 
 3. I frequentatori che non superino i corsi applicativi:
 
-a) se provenienti dal ruolo dei marescialli o dal ruolo dei sergenti,
-
-((ovvero dal ruolo dei volontari in servizio permanente,))
-
-rientrano nella categoria di provenienza. Il periodo di durata del corso e' in tali casi computato per intero ai fini dell'anzianita' di servizio;
+a) se provenienti dal ruolo dei marescialli o dal ruolo dei sergenti, ovvero dal ruolo dei volontari in servizio permanente, rientrano nella categoria di provenienza. Il periodo di durata del corso e' in tali casi computato per intero ai fini dell'anzianita' di servizio;
 
 b) se gia' ufficiali ausiliari, completano la ferma eventualmente contratta ovvero sono ricollocati in congedo;
 
@@ -13161,29 +13682,49 @@ d) se provenienti dalla vita civile, sono collocati in congedo, se non devono as
 
 4. COMMA SOPPRESSO DAL [D.LGS. 5 OTTOBRE 2018, N. 126](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2018-10-05;126).
 
+-------------
+
+AGGIORNAMENTO (138)
+
+Il [D.Lgs. 3 aprile 2026, n. 74](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2026-04-03;74), ha disposto (con l'art. 20, comma 2, lettera c)) che "Le seguenti disposizioni inerenti alla costituzione del Corpo unico della Sanita' militare e al relativo transito del personale sanitario proveniente dalle Forze armate e dall'Arma dei carabinieri hanno effetto contestualmente a decorrere dal 1° gennaio 2027:   
+[...]   
+c) articoli 6, 7, 8, 9, 10, 11 e 12".
+
 ### Art. 724
 
-Obblighi di servizio degli ufficiali dell'Esercito italiano, della Marina militare e dell'Aeronautica militare
+Obblighi di servizio degli ufficiali dell'Esercito italiano, della Marina militare
+
+((, dell'Aeronautica militare e della Sanita' militare))
+
+((138))
 
 1. Gli allievi delle accademie militari all'atto dell'ammissione ai corsi sono vincolati a una ferma di tre anni.
 
-2. All'atto dell'ammissione al terzo anno di corso i frequentatori dei corsi normali dell'Accademia dell'Esercito italiano, della Marina militare e dell'Aeronautica militare sono vincolati a una ferma di nove anni che assorbe quella da espletare.
+2. All'atto dell'ammissione al terzo anno di corso i frequentatori dei corsi normali dell'Accademia dell'Esercito italiano, della Marina militare
+
+((, dell'Aeronautica militare e del Corpo unico della Sanita' militare))
+
+sono vincolati a una ferma di nove anni che assorbe quella da espletare.
+
+((138))
 
 3. La ferma di cui al comma 2 e' elevata a:
 
 a) dieci anni per gli iscritti a corsi di laurea di cinque anni di durata;
 
-b)
-
-((quindici))
-
-anni per gli iscritti a corsi di laurea di sei anni di durata;
+b) quindici anni per gli iscritti a corsi di laurea di sei anni di durata;
 
 c) sedici anni per gli appartenenti al ruolo naviganti normale dell'Aeronautica militare.
 
 4. I frequentatori dei corsi normali delle accademie, se fruiscono delle eventuali proroghe per il completamento del ciclo formativo, sono vincolati a una ulteriore ferma di durata pari al periodo di proroga concesso.
 
 5. Gli ufficiali reclutati a nomina diretta del ruolo normale e gli ufficiali dei ruoli speciali, ammessi ai rispettivi corsi applicativi, al superamento dei corsi stessi sono vincolati a una ferma di cinque anni decorrente dall'inizio del corso ovvero dalla scadenza della precedente ferma.
+
+5-bis. 
+
+((Gli ufficiali reclutati nel ruolo normale del Corpo unico della Sanita' militare a nomina diretta, all'atto dell'ammissione al corso formativo di cui all'articolo 738-quinquies, sono vincolati a una ferma di sette anni, decorrente dall'inizio del corso.))
+
+((138))
 
 6. Gli ufficiali della Marina militare in servizio permanente effettivo, all'atto dell'ammissione ai corsi di pilotaggio aereo contraggono il vincolo ad una ferma volontaria di quattordici anni; gli ufficiali che non portano a termine o non superano il corso di pilotaggio sono prosciolti dalla predetta ferma, salvo l'obbligo di completare la ferma precedentemente contratta. Gli ufficiali del ruolo naviganti speciale dell'Aeronautica militare, nonche' gli ufficiali piloti dei ruoli speciali del Corpo di stato maggiore della Marina e del Corpo delle capitanerie di porto nominati sottotenenti a seguito dell'apposito concorso sono vincolati a una ferma di quattordici anni dall'inizio del previsto corso finalizzato al conseguimento del brevetto di pilota o navigatore militare che assorbe la ferma precedentemente contratta.
 
@@ -13193,44 +13734,49 @@ c) sedici anni per gli appartenenti al ruolo naviganti normale dell'Aeronautica 
 
 8. Gli obblighi di servizio degli ufficiali dell'Arma dei carabinieri sono disciplinati dall'articolo 738.
 
+-------------
+
+AGGIORNAMENTO (138)
+
+Il [D.Lgs. 3 aprile 2026, n. 74](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2026-04-03;74), ha disposto (con l'art. 20, comma 2, lettera c)) che "Le seguenti disposizioni inerenti alla costituzione del Corpo unico della Sanita' militare e al relativo transito del personale sanitario proveniente dalle Forze armate e dall'Arma dei carabinieri hanno effetto contestualmente a decorrere dal 1° gennaio 2027:   
+[...]   
+c) articoli 6, 7, 8, 9, 10, 11 e 12".
+
 CAPO CXXXVI - SEZIONE II UFFICIALI DELL'ESERCITO ITALIANO
 ---------------------------------------------------------
 
 ### Art. 725
 
-((Formazione degli aspiranti e degli ufficiali presso l'Accademia militare e le scuole di applicazione))
+Formazione degli aspiranti e degli ufficiali presso l'Accademia militare e le scuole di applicazione
 
-1. 
+1. Per gli aspiranti, i sottotenenti e i tenenti dei ruoli normali, delle Armi di fanteria, cavalleria, artiglieria, genio e trasmissioni, dell'Arma dei trasporti e dei materiali, del Corpo degli ingegneri, del Corpo di commissariato e del Corpo sanitario, che superano i corsi presso l'Accademia militare e le scuole di applicazione, il nuovo ordine di anzianita' e' determinato, con decreto ministeriale, in base alla graduatoria stabilita secondo le norme previste nel regolamento.
 
-((Per gli aspiranti, i sottotenenti e i tenenti dei ruoli normali, delle Armi di fanteria, cavalleria, artiglieria, genio e trasmissioni, dell'Arma dei trasporti e dei materiali, del Corpo degli ingegneri, del Corpo di commissariato e del Corpo sanitario, che superano i corsi presso l'Accademia militare e le scuole di applicazione, il nuovo ordine di anzianita' e' determinato, con decreto ministeriale, in base alla graduatoria stabilita secondo le norme previste nel regolamento.))
+1-bis. COMMA ABROGATO DAL [D.LGS. 2 APRILE 2026, N. 58](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2026-04-02;58).
 
-1-bis. 
+((138))
 
-((COMMA ABROGATO DAL [D.LGS. 2 APRILE 2026, N. 58](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2026-04-02;58)))
+2. Gli aspiranti e gli ufficiali di cui al comma 1, che:
 
-.
+a) non superano per una sola volta uno degli anni del corso per essi previsto, sono ammessi a ripeterlo e sono iscritti in ruolo dopo l'ultimo dei parigrado del corso cui sono aggregati, assumendone la stessa anzianita' assoluta;
 
-2. 
+b) superano il corso per essi previsto con ritardo per motivi di servizio riconosciuti con determinazione ministeriale ovvero per motivi di salute, sono iscritti in ruolo al posto che a essi sarebbe spettato se avessero superato il corso al loro turno.
 
-((Gli aspiranti e gli ufficiali di cui al comma 1, che:   
-a) non superano per una sola volta uno degli anni del corso per essi previsto, sono ammessi a ripeterlo e sono iscritti in ruolo dopo l'ultimo dei parigrado del corso cui sono aggregati, assumendone la stessa anzianita' assoluta;   
-b) superano il corso per essi previsto con ritardo per motivi di servizio riconosciuti con determinazione ministeriale ovvero per motivi di salute, sono iscritti in ruolo al posto che a essi sarebbe spettato se avessero superato il corso al loro turno.))
+2-bis. I sottotenenti di cui al comma 1 sono tratti dai frequentatori degli istituti di formazione che hanno completato con esito favorevole il terzo anno di corso secondo le modalita' previste dal piano degli studi della Forza armata e secondo quanto previsto dal regolamento dell'istituto.
 
-2-bis. 
+2-ter. L'anzianita' di grado dei sottotenenti di cui al comma 1 decorre, ai soli fini giuridici, dalla data di nomina ad aspirante.
 
-((I sottotenenti di cui al comma 1 sono tratti dai frequentatori degli istituti di formazione che hanno completato con esito favorevole il terzo anno di corso secondo le modalita' previste dal piano degli studi della Forza armata e secondo quanto previsto dal regolamento dell'istituto.))
+2-quater. E' nominato aspirante e ammesso a frequentare il terzo anno in qualita' di frequentatore, l'allievo dei ruoli di cui al comma 1 risultato idoneo al termine del secondo anno. La nomina ad aspirante decorre a partire dai corsi di formazione in accademia avviati dall'anno 2024.
 
-2-ter. 
+2-quinquies. L'alloggiamento e il pernottamento degli aspiranti possono essere disciplinati con regolamento dell'istituto di formazione.
 
-((L'anzianita' di grado dei sottotenenti di cui al comma 1 decorre, ai soli fini giuridici, dalla data di nomina ad aspirante.))
+--------------
 
-2-quater. 
+AGGIORNAMENTO (138)
 
-((E' nominato aspirante e ammesso a frequentare il terzo anno in qualita' di frequentatore, l'allievo dei ruoli di cui al comma 1 risultato idoneo al termine del secondo anno. La nomina ad aspirante decorre a partire dai corsi di formazione in accademia avviati dall'anno 2024.))
-
-2-quinquies. 
-
-((L'alloggiamento e il pernottamento degli aspiranti possono essere disciplinati con regolamento dell'istituto di formazione.))
+Il [D.Lgs. 3 aprile 2026, n. 74](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2026-04-03;74), ha disposto (con l'art. 7, comma 1, lettera i)) che "all'articolo 725, comma 1-bis, le parole: «e del Corpo sanitario» sono soppresse".   
+Ha inoltre disposto (con l'art. 20, comma 2, lettera c)) che "Le seguenti disposizioni inerenti alla costituzione del Corpo unico della Sanita' militare e al relativo transito del personale sanitario proveniente dalle Forze armate e dall'Arma dei carabinieri hanno effetto contestualmente a decorrere dal 1° gennaio 2027:   
+[...]   
+c) articoli 6, 7, 8, 9, 10, 11 e 12".
 
 ### Art. 726
 
@@ -13240,13 +13786,23 @@ Mancato superamento del corso di applicazione
 
 1-bis. Gli ufficiali che non superano l'anno di corso perche' non idonei in attitudine militare sono posti in congedo secondo le modalita' previste dall'articolo 935, comma 1, lettera c-bis).
 
-2. Gli ufficiali dei ruoli normali
+2. Gli ufficiali dei ruoli normali dell'Arma dei trasporti e dei materiali, del Corpo degli ingegneri
 
-((dell'Arma dei trasporti e dei materiali,))
+((...))
 
-del Corpo degli ingegneri e del Corpo sanitario che non hanno completato il ciclo di studi per essi previsto per il conseguimento della laurea, possono ottenere con determinazione ministeriale, su proposta delle autorita' gerarchiche, la proroga fino a un massimo di due anni accademici. Se completano il ciclo di studi universitari entro la proroga concessa, subiscono una detrazione di anzianita' nel ruolo pari alla proroga concessa.
+che non hanno completato il ciclo di studi per essi previsto per il conseguimento della laurea, possono ottenere con determinazione ministeriale, su proposta delle autorita' gerarchiche, la proroga fino a un massimo di due anni accademici. Se completano il ciclo di studi universitari entro la proroga concessa, subiscono una detrazione di anzianita' nel ruolo pari alla proroga concessa.
+
+((138))
 
 3. Agli ufficiali di cui al comma 2 che non conseguono il diploma di laurea nei limiti di tempo prescritti, compresa l'eventuale proroga, si applicano le disposizioni di cui al comma 1, con destinazione a uno dei ruoli speciali esistenti, individuati secondo le esigenze di Forza armata, nonche' una detrazione di anzianita' nel ruolo pari alla proroga concessa.
+
+-------------
+
+AGGIORNAMENTO (138)
+
+Il [D.Lgs. 3 aprile 2026, n. 74](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2026-04-03;74), ha disposto (con l'art. 20, comma 2, lettera c)) che "Le seguenti disposizioni inerenti alla costituzione del Corpo unico della Sanita' militare e al relativo transito del personale sanitario proveniente dalle Forze armate e dall'Arma dei carabinieri hanno effetto contestualmente a decorrere dal 1° gennaio 2027:   
+[...]   
+c) articoli 6, 7, 8, 9, 10, 11 e 12".
 
 ### Art. 727
 
@@ -13506,6 +14062,134 @@ Obblighi di servizio
 
 e del ruolo forestale, se non gia' in servizio permanente, sono vincolati a una ferma di sette anni, decorrente dall'inizio del rispettivo corso formativo, che assorbe ogni altra ferma precedentemente contratta.
 
+### Art. 738-bis
+
+(( (Formazione degli ufficiali del ruolo normale provenienti dalle accademie).))
+
+1. 
+
+((I sottotenenti del ruolo normale del Corpo unico della Sanita' militare sono tratti dai frequentatori delle accademie militari che hanno completato con esito favorevole il terzo anno di corso secondo le modalita' previste dal piano degli studi.))
+
+2. 
+
+((L'anzianita' di grado dei sottotenenti di cui al comma 1 decorre, ai soli fini giuridici, dalla data di nomina ad aspirante.))
+
+3. 
+
+((E' nominato aspirante e ammesso a frequentare il terzo anno in qualita' di frequentatore, l'allievo del ruolo di cui al comma 1 risultato idoneo al termine del secondo anno.))
+
+4. 
+
+((Gli ufficiali del ruolo normale devono completare gli studi accademici e conseguire il diploma di laurea entro i periodi prescritti dal piano degli studi.))
+
+5. 
+
+((Per la formazione delle graduatorie di merito si applicano le disposizioni di cui all'articolo 601 del regolamento.))
+
+6. 
+
+((Gli ufficiali che superano gli esami dell'ultimo anno del corso regolare nelle sessioni successive alla prima sono iscritti in ruolo dopo i pari grado che hanno superato detti esami nella precedente sessione.))
+
+7. 
+
+((Gli aspiranti e gli ufficiali che, per motivi di servizio o per motivi di salute, riconosciuti con determinazione ministeriale, superano gli esami prescritti dal ciclo formativo con ritardo, sono iscritti in ruolo al posto che a essi sarebbe spettato se li avessero superati nei tempi previsti.))
+
+8. 
+
+((Gli ufficiali che conseguono la laurea magistrale nella sessione straordinaria dell'ultimo anno del corso regolare, sono iscritti in ruolo dopo i pari grado che hanno conseguito il titolo nelle precedenti sessioni ordinarie fissate dal rispettivo piano di studi.))
+
+9. 
+
+((Gli ufficiali che non hanno completato gli studi al termine dell'ultimo anno di corso con le modalita' definite dal regolamento sono ammessi a completarli, con le proroghe di cui al successivo articolo 738-ter. In tale caso essi transitano ai corsi successivi a quello di appartenenza, in relazione alla durata della proroga, e sono iscritti in ruolo dopo l'ultimo pari grado appartenente al corso al quale sono transitati, assumendone la stessa anzianita' assoluta.))
+
+10. 
+
+((Gli aspiranti e gli ufficiali che non superano l'anno di corso perche' non idonei in attitudine militare e professionale sono posti in congedo secondo le modalita' previste dall'articolo 935, comma 1, lettera c-bis).))
+
+11. 
+
+((L'alloggiamento e il pernottamento degli aspiranti possono essere disciplinati con regolamento dell'istituto di formazione.))
+
+((138))
+
+-------------
+
+AGGIORNAMENTO (138)
+
+Il [D.Lgs. 3 aprile 2026, n. 74](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2026-04-03;74), ha disposto (con l'art. 20, comma 2, lettera c)) che "Le seguenti disposizioni inerenti alla costituzione del Corpo unico della Sanita' militare e al relativo transito del personale sanitario proveniente dalle Forze armate e dall'Arma dei carabinieri hanno effetto contestualmente a decorrere dal 1° gennaio 2027:   
+[...]   
+c) articoli 6, 7, 8, 9, 10, 11 e 12".
+
+### Art. 738-ter
+
+(( (Conseguimento del diploma di laurea da parte degli ufficiali del ruolo normale).))
+
+1. 
+
+((Gli ufficiali del ruolo normale devono conseguire il diploma di laurea prescritto e completare il periodo formativo secondo le modalita' ed entro i periodi definiti dall'ordinamento universitario per i rispettivi corsi di laurea.))
+
+2. 
+
+((Gli ufficiali del ruolo normale, per i quali e' previsto il completamento dell'iter di studi presso strutture universitarie, che non hanno conseguito il diploma di laurea entro il periodo prescritto, possono avanzare circostanziata domanda intesa a ottenere fino a un massimo di due proroghe annuali. L'amministrazione ha facolta' di accogliere le domande, previo esame del curriculum di studi e degli elementi desunti dalla documentazione valutativa da parte di un'apposita commissione nominata con decreto ministeriale.))
+
+3. 
+
+((Gli ufficiali che non conseguono la laurea nel periodo prescritto o che non sono stati ammessi al periodo di proroga, possono essere trasferiti, anche in soprannumero, con il proprio grado e con la propria anzianita', nel ruolo speciale del Corpo unico della Sanita' militare ai sensi dell'articolo 655, comma 1, lettera d-bis). Essi sono iscritti in tali ruoli dopo i pari grado in possesso della stessa anzianita' assoluta.))
+
+((138))
+
+-------------
+
+AGGIORNAMENTO (138)
+
+Il [D.Lgs. 3 aprile 2026, n. 74](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2026-04-03;74), ha disposto (con l'art. 20, comma 2, lettera c)) che "Le seguenti disposizioni inerenti alla costituzione del Corpo unico della Sanita' militare e al relativo transito del personale sanitario proveniente dalle Forze armate e dall'Arma dei carabinieri hanno effetto contestualmente a decorrere dal 1° gennaio 2027:   
+[...]   
+c) articoli 6, 7, 8, 9, 10, 11 e 12".
+
+### Art. 738-quater
+
+(( (Mancato transito nel ruolo speciale). - 1. Gli ufficiali di cui all'articolo 738-ter, comma 3, che non hanno presentato domanda di transito nei ruoli speciali ai sensi dell'articolo 655, comma 1, lettera d-bis).))
+
+1. 
+
+((Gli ufficiali di cui all'articolo 738-ter, comma 3, che non hanno presentato domanda di transito nei ruoli speciali ai sensi dell'articolo 655, comma 1, lettera d-bis), ovvero non vi possono transitare ai sensi del medesimo articolo, sono collocati nella categoria del complemento con obbligo di ultimare la ferma contratta, fatta eccezione per i casi di cui all'articolo 935, comma 1, lettera c-bis).))
+
+((138))
+
+-------------
+
+AGGIORNAMENTO (138)
+
+Il [D.Lgs. 3 aprile 2026, n. 74](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2026-04-03;74), ha disposto (con l'art. 20, comma 2, lettera c)) che "Le seguenti disposizioni inerenti alla costituzione del Corpo unico della Sanita' militare e al relativo transito del personale sanitario proveniente dalle Forze armate e dall'Arma dei carabinieri hanno effetto contestualmente a decorrere dal 1° gennaio 2027:   
+[...]   
+c) articoli 6, 7, 8, 9, 10, 11 e 12".
+
+### Art. 738-quinquies
+
+(( (Corso formativo per ufficiali del ruolo normale).))
+
+1. 
+
+((I tenenti del ruolo normale di cui all'articolo 651-ter, comma 2, sono ammessi a frequentare un corso formativo, della durata non superiore a un anno, al termine del quale e' determinata una nuova anzianita' relativa in base all'ordine della graduatoria finale del corso.))
+
+2. 
+
+((Gli ufficiali che completano con esito favorevole il corso formativo sono ammessi ai corsi di specializzazione di cui all'articolo 758.))
+
+3. 
+
+((Coloro che non superano il corso formativo sono collocati in congedo, se non devono assolvere o completare gli obblighi di leva.))
+
+((138))
+
+-------------
+
+AGGIORNAMENTO (138)
+
+Il [D.Lgs. 3 aprile 2026, n. 74](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2026-04-03;74), ha disposto (con l'art. 20, comma 2, lettera c)) che "Le seguenti disposizioni inerenti alla costituzione del Corpo unico della Sanita' militare e al relativo transito del personale sanitario proveniente dalle Forze armate e dall'Arma dei carabinieri hanno effetto contestualmente a decorrere dal 1° gennaio 2027:   
+[...]   
+c) articoli 6, 7, 8, 9, 10, 11 e 12".
+
 CAPO CXL - CAPO III UFFICIALI AUSILIARI SEZIONE I UFFICIALI IN FERMA PREFISSATA
 -------------------------------------------------------------------------------
 
@@ -13515,11 +14199,25 @@ Corsi di formazione
 
 1. La durata dei corsi di formazione per gli ufficiali in ferma prefissata e' stabilita con decreto del Ministro della difesa.
 
-2. Le modalita' per lo svolgimento dei corsi di formazione e i relativi programmi sono determinati dai rispettivi Stati maggiori o Comando generale.
+2. Le modalita' per lo svolgimento dei corsi di formazione e i relativi programmi sono determinati dai rispettivi Stati maggiori
+
+((, Comando generale o Direzione della Sanita' militare))
+
+.
+
+((138))
 
 3. I vincitori dei concorsi per il reclutamento degli ufficiali in ferma prefissata sono ammessi ai corsi di formazione nella qualita' di allievi ufficiali in ferma prefissata.
 
 4. Agli allievi ufficiali in ferma prefissata compete il trattamento economico previsto per gli allievi ufficiali delle accademie.
+
+-------------
+
+AGGIORNAMENTO (138)
+
+Il [D.Lgs. 3 aprile 2026, n. 74](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2026-04-03;74), ha disposto (con l'art. 20, comma 2, lettera c)) che "Le seguenti disposizioni inerenti alla costituzione del Corpo unico della Sanita' militare e al relativo transito del personale sanitario proveniente dalle Forze armate e dall'Arma dei carabinieri hanno effetto contestualmente a decorrere dal 1° gennaio 2027:   
+[...]   
+c) articoli 6, 7, 8, 9, 10, 11 e 12".
 
 ### Art. 740
 
@@ -13529,15 +14227,25 @@ Superamento dei corsi di formazione e nomina nel grado
 
 a) sottotenenti o guardiamarina in ferma prefissata, ausiliari del corrispondente ruolo speciale della Forza armata d'appartenenza, se il titolo di studio richiesto dal bando di concorso e' il diploma di istruzione secondaria di secondo grado;
 
-b) tenenti o sottotenenti di vascello in ferma prefissata, ausiliari del corrispondente ruolo normale della Forza armata d'appartenenza, se il titolo di studio richiesto dal bando di concorso e'
+b) tenenti o sottotenenti di vascello in ferma prefissata, ausiliari del corrispondente ruolo normale della Forza armata d'appartenenza
 
-((la laurea magistrale))
+((o tenenti in ferma prefissata, ausiliari del ruolo normale del Corpo unico della Sanita' militare))
 
-;
+, se il titolo di studio richiesto dal bando di concorso e' la laurea magistrale;
+
+((138))
 
 c) tenenti dell'Arma dei carabinieri in ferma prefissata, ausiliari del corrispondente ruolo tecnico o forestale.
 
 2. L'anzianita' relativa e' determinata dalla media del punteggio della graduatoria del concorso e di quello conseguito al termine del corso stesso.
+
+-------------
+
+AGGIORNAMENTO (138)
+
+Il [D.Lgs. 3 aprile 2026, n. 74](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2026-04-03;74), ha disposto (con l'art. 20, comma 2, lettera c)) che "Le seguenti disposizioni inerenti alla costituzione del Corpo unico della Sanita' militare e al relativo transito del personale sanitario proveniente dalle Forze armate e dall'Arma dei carabinieri hanno effetto contestualmente a decorrere dal 1° gennaio 2027:   
+[...]   
+c) articoli 6, 7, 8, 9, 10, 11 e 12".
 
 ### Art. 741
 
@@ -13639,9 +14347,23 @@ Corsi di formazione
 
 1. I corsi di formazione per gli allievi ufficiali di complemento sono attivati esclusivamente nelle ipotesi di ripristino del servizio obbligatorio di leva di cui all' articolo 1929, comma 2.
 
-2. In relazione alle specifiche esigenze di ciascuna Forza armata, la durata dei corsi allievi ufficiali di complemento e' stabilita con decreto del Ministro della difesa.
+2. In relazione alle specifiche esigenze di ciascuna Forza armata
+
+((e del Corpo unico della Sanita' militare))
+
+, la durata dei corsi allievi ufficiali di complemento e' stabilita con decreto del Ministro della difesa.
+
+((138))
 
 3. I sottotenenti di complemento dell'Arma dei carabinieri sono tratti dai giovani che superano il corso allievi ufficiali di complemento presso la Scuola ufficiali carabinieri.
+
+-------------
+
+AGGIORNAMENTO (138)
+
+Il [D.Lgs. 3 aprile 2026, n. 74](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2026-04-03;74), ha disposto (con l'art. 20, comma 2, lettera c)) che "Le seguenti disposizioni inerenti alla costituzione del Corpo unico della Sanita' militare e al relativo transito del personale sanitario proveniente dalle Forze armate e dall'Arma dei carabinieri hanno effetto contestualmente a decorrere dal 1° gennaio 2027:   
+[...]   
+c) articoli 6, 7, 8, 9, 10, 11 e 12".
 
 CAPO CXLIII - CAPO IV FORMAZIONE SUPERIORE DEGLI UFFICIALI SEZIONE I CORSI DI STATO MAGGIORE
 --------------------------------------------------------------------------------------------
@@ -13656,11 +14378,21 @@ Corso superiore di stato maggiore interforze
 
 3. I criteri e le modalita' per la selezione dei candidati alla frequenza del corso di cui al comma 1, sono determinati con decreto del Ministro della difesa. Con determinazione del Comandante generale del Corpo della Guardia di finanza, sentito il Ministro della difesa, sono stabiliti i requisiti e le modalita' di ammissione al corso degli ufficiali del predetto Corpo.
 
-4. Il Capo di stato maggiore della difesa, sentiti i Capi di stato maggiore di Forza armata, il Comandante generale dell'Arma dei carabinieri e, per quanto di interesse,
+4. Il Capo di stato maggiore della difesa, sentiti i Capi di stato maggiore di Forza armata, il Comandante generale dell'Arma dei carabinieri e, per quanto di interesse, il Direttore nazionale degli armamenti e il Segretario generale della difesa
 
-((il Direttore nazionale degli armamenti e))
+((e il Direttore della Sanita' militare))
 
-il Segretario generale della difesa, determina annualmente il numero dei frequentatori al corso di cui al comma 1.
+, determina annualmente il numero dei frequentatori al corso di cui al comma 1.
+
+((138))
+
+-------------
+
+AGGIORNAMENTO (138)
+
+Il [D.Lgs. 3 aprile 2026, n. 74](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2026-04-03;74), ha disposto (con l'art. 20, comma 2, lettera c)) che "Le seguenti disposizioni inerenti alla costituzione del Corpo unico della Sanita' militare e al relativo transito del personale sanitario proveniente dalle Forze armate e dall'Arma dei carabinieri hanno effetto contestualmente a decorrere dal 1° gennaio 2027:   
+[...]   
+c) articoli 6, 7, 8, 9, 10, 11 e 12".
 
 ### Art. 752
 
@@ -13674,7 +14406,21 @@ Ammissione degli ufficiali dell'Arma dei carabinieri al corso superiore di stato
 
 Corsi dell'Istituto superiore di stato maggiore interforze per gli ufficiali dei Corpi e dei ruoli tecnici e logistici
 
-1. In relazione alle prevedibili esigenze di impiego di ciascuna Forza armata, gli ufficiali dei Corpi e dei ruoli tecnici e logistici sono ammessi ai corsi dell'Istituto superiore di stato maggiore interforze secondo le procedure previste dall'articolo 751.
+1. In relazione alle prevedibili esigenze di impiego di ciascuna Forza armata
+
+((e della Sanita' militare))
+
+, gli ufficiali dei Corpi e dei ruoli tecnici e logistici sono ammessi ai corsi dell'Istituto superiore di stato maggiore interforze secondo le procedure previste dall'articolo 751.
+
+((138))
+
+--------------
+
+AGGIORNAMENTO (138)
+
+Il [D.Lgs. 3 aprile 2026, n. 74](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2026-04-03;74), ha disposto (con l'art. 20, comma 2, lettera c)) che "Le seguenti disposizioni inerenti alla costituzione del Corpo unico della Sanita' militare e al relativo transito del personale sanitario proveniente dalle Forze armate e dall'Arma dei carabinieri hanno effetto contestualmente a decorrere dal 1° gennaio 2027:   
+[...]   
+c) articoli 6, 7, 8, 9, 10, 11 e 12".
 
 ### Art. 754
 
@@ -13696,7 +14442,21 @@ e) destinazione a ricoprire incarichi connessi all'espletamento di funzioni di s
 
 f) determinazione da parte del Capo di stato maggiore dell'Esercito dei percorsi formativi e delle modalita' di svolgimento dei corsi, secondo le attribuzioni in materia di formazione del personale militare previste dal presente codice.
 
-3. Analoghi corsi sono previsti per gli ufficiali della Marina militare e dell'Aeronautica militare.
+3. Analoghi corsi sono previsti per gli ufficiali della Marina militare
+
+((, dell'Aeronautica militare e della Sanita' militare))
+
+.
+
+((138))
+
+-------------
+
+AGGIORNAMENTO (138)
+
+Il [D.Lgs. 3 aprile 2026, n. 74](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2026-04-03;74), ha disposto (con l'art. 20, comma 2, lettera c)) che "Le seguenti disposizioni inerenti alla costituzione del Corpo unico della Sanita' militare e al relativo transito del personale sanitario proveniente dalle Forze armate e dall'Arma dei carabinieri hanno effetto contestualmente a decorrere dal 1° gennaio 2027:   
+[...]   
+c) articoli 6, 7, 8, 9, 10, 11 e 12".
 
 CAPO CXLIV - SEZIONE II CORSO D'ISTITUTO PER UFFICIALI DELL'ARMA DEI CARABINIERI
 --------------------------------------------------------------------------------
@@ -13733,15 +14493,29 @@ CAPO CXLV - SEZIONE III MEDICI MILITARI
 
 ### Art. 756
 
-Formazione specifica in medicina generale
+(( (Formazione specifica in medicina generale).))
 
-1. Il medico militare in servizio permanente, iscritto ai corsi di formazione specifica in medicina generale della durata di tre anni, riservati ai laureati in medicina e chirurgia, abilitati all'esercizio professionale, per il conseguimento del relativo diploma, necessario per l'esercizio dell'attivita' di medico chirurgo di medicina generale, e' collocato, compatibilmente con le esigenze di servizio, in posizione di aspettativa senza assegni secondo le disposizioni legislative vigenti. Il periodo di aspettativa e' utile ai fini della progressione di carriera e del trattamento di quiescenza e di previdenza.
+1. 
 
-2. Al medico militare di cui al comma 1, si applicano le disposizioni di cui al titolo IV del [decreto legislativo 17 agosto 1999, n. 368](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1999-08-17;368).
+((Il medico militare in servizio permanente puo' iscriversi ai corsi di formazione specifica in medicina generale secondo le previsioni dell'articolo 211-bis.))
 
-Nota all'art. 756:  
-- Il titolo IV del [decreto legislativo 17 agosto 1999, n. 368](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1999-08-17;368) (Attuazione della [direttiva 93/16/CE](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:31993L0016) in materia di libera circolazione dei medici e di reciproco riconoscimento dei loro diplomi, certificati ed altri titoli e delle [direttive 97/50/CE](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:31997L0050), [98/21/CE](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:31998L0021), [98/63/CE](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:31998L0063) e [99/46/CE](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:31999L0046) che modificano la [direttiva 93/16/CE)](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:31993L0016), pubblicato nel supplemento ordinario alla Gazzetta Ufficiale del 23 ottobre 1999, n. 250, reca:  
-«Formazione specifica in medicina generale.»
+2. 
+
+((Al medico militare di cui al comma 1, si applicano le disposizioni di cui al titolo IV del [decreto legislativo 17 agosto 1999, n. 368](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1999-08-17;368), a eccezione dell'articolo 24, commi 2, 3 e 4.))
+
+3. 
+
+((Il medico militare all'atto dell'iscrizione al corso di formazione specifica in medicina generale assume un vincolo a rimanere in servizio per un periodo di anni pari a due volte e mezzo il numero di anni prescritto per il conseguimento del relativo titolo abilitante. Il vincolo della ferma decorre dalla data di ammissione al corso e la durata dello stesso e' aumentata dell'eventuale residuo periodo di precedente ferma contratta, ancora da espletare.))
+
+((138))
+
+-------------
+
+AGGIORNAMENTO (138)
+
+Il [D.Lgs. 3 aprile 2026, n. 74](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2026-04-03;74), ha disposto (con l'art. 20, comma 2, lettera c)) che "Le seguenti disposizioni inerenti alla costituzione del Corpo unico della Sanita' militare e al relativo transito del personale sanitario proveniente dalle Forze armate e dall'Arma dei carabinieri hanno effetto contestualmente a decorrere dal 1° gennaio 2027:   
+[...]   
+c) articoli 6, 7, 8, 9, 10, 11 e 12".
 
 ### Art. 757
 
@@ -13777,9 +14551,33 @@ L'impegno richiesto per la formazione specialistica e' pari a quello previsto pe
 
 Corsi di specializzazione per le esigenze dell'amministrazione
 
-1. Gli ufficiali medici in servizio permanente delle Forze armate che sono ammessi, previa domanda, su designazione e per le esigenze dell'amministrazione, ai corsi di specializzazione delle facolta' mediche universitarie devono conseguire il diploma di specializzazione entro i limiti di tempo previsti per il rispettivo corso legale, con possibilita' di fruire dell'eventuale sessione straordinaria dell'ultimo anno accademico.
+1. Gli ufficiali medici in servizio permanente
+
+((del Corpo unico della Sanita' militare))
+
+che sono ammessi, previa domanda
+
+((ovvero all'esito del corso formativo))
+
+, su designazione e per le esigenze dell'amministrazione, ai corsi di specializzazione delle facolta' mediche universitarie devono conseguire il diploma di specializzazione entro i limiti di tempo previsti per il rispettivo corso legale, con possibilita' di fruire dell'eventuale sessione straordinaria dell'ultimo anno accademico.
+
+((138))
 
 2. Il Ministro della difesa ha facolta' di concedere, su proposta della Direzione generale per il personale militare, all'ufficiale, che per motivi di salute o di forza maggiore non possa conseguire il diploma di specializzazione entro il termine di cui al comma 1, una proroga della durata di un anno accademico comprensivo dell'eventuale sessione straordinaria.
+
+2-bis. 
+
+((Gli indirizzi delle specializzazioni cui avviare il personale designato sono scelti con determinazione del Direttore della Sanita' militare, d'intesa con i Capi di stato maggiore di Forza armata e il Comandante generale dell'Arma dei carabinieri.))
+
+((138))
+
+-------------
+
+AGGIORNAMENTO (138)
+
+Il [D.Lgs. 3 aprile 2026, n. 74](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2026-04-03;74), ha disposto (con l'art. 20, comma 2, lettera c)) che "Le seguenti disposizioni inerenti alla costituzione del Corpo unico della Sanita' militare e al relativo transito del personale sanitario proveniente dalle Forze armate e dall'Arma dei carabinieri hanno effetto contestualmente a decorrere dal 1° gennaio 2027:   
+[...]   
+c) articoli 6, 7, 8, 9, 10, 11 e 12".
 
 CAPO CXLVI - CAPO V MARESCIALLI DELL'ESERCITO ITALIANO, DELLA MARINA MILITARE E DELL'AERONAUTICA MILITARE
 ---------------------------------------------------------------------------------------------------------
@@ -13788,27 +14586,45 @@ CAPO CXLVI - CAPO V MARESCIALLI DELL'ESERCITO ITALIANO, DELLA MARINA MILITARE E 
 
 Assegnazione agli incarichi, alle specializzazioni, alle categorie e alle specialita'
 
-1. 
+  
+  
+1. gli allievi marescialli sono assegnati agli incarichi, alle specializzazioni, alle categorie e specialita' secondo specifiche disposizioni della Forza armata
 
-((. . .))
+((e della Sanita' militare))
 
-gli allievi marescialli sono assegnati agli incarichi, alle specializzazioni, alle categorie e specialita'
+, in base alle esigenze organiche, al risultato della selezione psico-fisica e attitudinale nonche' alle preferenze espresse dagli arruolandi.
 
-((secondo specifiche disposizioni della Forza armata,))
+((138))
 
-in base alle esigenze organiche, al risultato della selezione psico-fisica e attitudinale nonche' alle preferenze espresse dagli arruolandi.
+  
+2.
 
-2. Il Capo di stato maggiore di Forza armata ha facolta' di disporre modifiche alle assegnazioni di cui al comma 1 se le attitudini manifestate dai singoli durante il periodo formativo o le esigenze di servizio lo richiedono. Per gli allievi marescialli della Marina militare i provvedimenti sono adottati dalla Direzione generale per il personale militare
+((Il Capo di stato maggiore di Forza armata e il Direttore della Sanita' militare hanno))
 
-((,su proposta della Forza armata))
+facolta' di disporre modifiche alle assegnazioni di cui al comma 1 se le attitudini manifestate dai singoli durante il periodo formativo o le esigenze di servizio lo richiedono. Per gli allievi marescialli della Marina militare i provvedimenti sono adottati dalla Direzione generale per il personale militare ,su proposta della Forza armata.
 
-.
+((138))
 
-3. Per i sottufficiali, i graduati e i militari di truppa dell'Esercito italiano e dell'Aeronautica militare, il Capo di stato maggiore di Forza armata, in relazione alle esigenze di servizio, ha facolta' di disporre di autorita' o a domanda cambi di categoria, di specializzazione, di specialita', ovvero la perdita delle specializzazioni o degli incarichi tecnici, prevedendo altresi' le necessarie riqualificazioni. Per il medesimo personale della Marina militare i provvedimenti sono adottati dalla Direzione generale per il personale militare
+  
+3. Per i sottufficiali, i graduati e i militari di truppa dell'Esercito italiano
 
-((,su proposta della Forza armata))
+((, dell'Aeronautica militare e della Sanita' militare, il Capo di stato maggiore di Forza armata e il Direttore della Sanita' militare))
 
-.
+in relazione alle esigenze di servizio,
+
+((hanno))
+
+facolta' di disporre di autorita' o a domanda cambi di categoria, di specializzazione, di specialita', ovvero la perdita delle specializzazioni o degli incarichi tecnici, prevedendo altresi' le necessarie riqualificazioni. Per il medesimo personale della Marina militare i provvedimenti sono adottati dalla Direzione generale per il personale militare, su proposta della Forza armata.
+
+((138))
+
+-------------
+
+AGGIORNAMENTO (138)
+
+Il [D.Lgs. 3 aprile 2026, n. 74](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2026-04-03;74), ha disposto (con l'art. 20, comma 2, lettera c)) che "Le seguenti disposizioni inerenti alla costituzione del Corpo unico della Sanita' militare e al relativo transito del personale sanitario proveniente dalle Forze armate e dall'Arma dei carabinieri hanno effetto contestualmente a decorrere dal 1° gennaio 2027:   
+[...]   
+c) articoli 6, 7, 8, 9, 10, 11 e 12".
 
 ### Art. 760
 
@@ -13952,19 +14768,17 @@ Svolgimento del corso superiore di qualificazione
 
 ### Art. 767-bis
 
-(( (Svolgimento del corso formativo straordinario per marescialli).))
+(Svolgimento del corso formativo straordinario per marescialli)
 
-1. 
+1. I candidati utilmente collocati nelle graduatorie di merito dei concorsi di cui all'articolo 683, comma 9-bis, frequentano, con il grado di maresciallo e in deroga all'articolo 768, un corso formativo straordinario di durata non inferiore a sei mesi, le cui modalita' sono disciplinate con determinazione del Comandante generale dell'Arma dei carabinieri. Si applicano, in quanto compatibili, le disposizioni del libro IV, titolo III, capo I, del regolamento.
 
-((I candidati utilmente collocati nelle graduatorie di merito dei concorsi di cui all'articolo 683, comma 9-bis, frequentano, con il grado di maresciallo e in deroga all'articolo 768, un corso formativo straordinario di durata non inferiore a sei mesi, le cui modalita' sono disciplinate con determinazione del Comandante generale dell'Arma dei carabinieri. Si applicano, in quanto compatibili, le disposizioni del libro IV, titolo III, capo I, del regolamento.))
+2. L'anzianita' relativa dei marescialli di cui al comma 1 e' rideterminata in base alla graduatoria finale del corso formativo straordinario.
 
-2. 
+3. Gli allievi che non superano il corso di cui al comma 1 sono collocati in congedo, se non devono assolvere o completare gli obblighi di leva, ovvero reintegrati nel ruolo di provenienza se gia' in servizio
 
-((L'anzianita' relativa dei marescialli di cui al comma 1 e' rideterminata in base alla graduatoria finale del corso formativo straordinario.))
+((e in tal caso))
 
-3. 
-
-((Gli allievi che non superano il corso di cui al comma 1 sono collocati in congedo, se non devono assolvere o completare gli obblighi di leva, ovvero reintegrati nel ruolo di provenienza se gia' in servizio, in tal caso il periodo di corso frequentato e' riconosciuto come servizio effettivamente svolto. Il periodo di durata del corso non e' computabile ai fini dell'assolvimento degli obblighi di leva.))
+il periodo di corso frequentato e' riconosciuto come servizio effettivamente svolto. Il periodo di durata del corso non e' computabile ai fini dell'assolvimento degli obblighi di leva.
 
 ### Art. 768
 
@@ -13992,9 +14806,11 @@ Ferma quadriennale
 
 1. Gli allievi marescialli dell'Arma dei carabinieri, all'atto dell'arruolamento, sono vincolati a una ferma volontaria della durata di anni quattro.
 
-1-bis. 
+1-bis. I marescialli dell'Arma dei carabinieri tratti ai sensi dell'articolo 767-bis, all'atto dell'arruolamento, sono vincolati a una ferma volontaria della durata di anni quattro. Si applicano le disposizioni del libro IV, titolo V, capo IV, sezione IV
 
-((I marescialli dell'Arma dei carabinieri tratti ai sensi dell'articolo 767-bis, all'atto dell'arruolamento, sono vincolati a una ferma volontaria della durata di anni quattro. Si applicano le disposizioni del libro IV, titolo V, capo IV, sezione IV, del codice.))
+((...))
+
+.
 
 ### Art. 770
 
@@ -14047,13 +14863,23 @@ CAPO CXLVIII - CAPO VII SERGENTI
 
 Corso di formazione basico
 
-1. I volontari
+1. I volontari in ferma prefissata di cui all'articolo 690-bis e i volontari in servizio permanente utilmente collocati nella graduatoria di merito del concorso per il reclutamento del personale del ruolo dei sergenti dell'Esercito italiano, della Marina militare
 
-((in ferma prefissata di cui all'articolo 690-bis e i volontari))
+((, dell'Aeronautica militare e della Sanita' militare))
 
-in servizio permanente utilmente collocati nella graduatoria di merito del concorso per il reclutamento del personale del ruolo dei sergenti dell'Esercito italiano, della Marina militare e dell'Aeronautica militare frequentano un corso di formazione basico di durata non superiore a tre mesi.
+frequentano un corso di formazione basico di durata non superiore a tre mesi.
+
+((138))
 
 2. Coloro che al termine del corso sono dichiarati idonei conseguono la nomina a sergente e sono inseriti in ruolo nell'ordine determinato dalla graduatoria finale del corso, con decorrenza dalla data di conclusione dello stesso.
+
+--------------
+
+AGGIORNAMENTO (138)
+
+Il [D.Lgs. 3 aprile 2026, n. 74](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2026-04-03;74), ha disposto (con l'art. 20, comma 2, lettera c)) che "Le seguenti disposizioni inerenti alla costituzione del Corpo unico della Sanita' militare e al relativo transito del personale sanitario proveniente dalle Forze armate e dall'Arma dei carabinieri hanno effetto contestualmente a decorrere dal 1° gennaio 2027:   
+[...]   
+c) articoli 6, 7, 8, 9, 10, 11 e 12".
 
 ### Art. 774
 
@@ -14422,15 +15248,21 @@ CAPO CLIV - SEZIONE II NORME GENERALI SUGLI ORGANICI
 
 ### Art. 798
 
-Dotazioni organiche complessive dell'Esercito italiano, della Marina militare e dell'Aeronautica militare).
+(Dotazioni organiche complessive dell'Esercito italiano, della Marina militare
 
-1. L'entita' complessiva delle dotazioni organiche del personale militare dell'Esercito italiano, della Marina militare, escluso il Corpo delle capitanerie di porto, e dell'Aeronautica militare e' fissata a
+((, dell'Aeronautica militare e del Corpo unico della Sanita' militare))
 
-((160.000 unita'))
+).
 
-.
+((138))
 
-((110))
+1. L'entita' complessiva delle dotazioni organiche del personale militare dell'Esercito italiano, della Marina militare, escluso il Corpo delle capitanerie di porto,
+
+((, dell'Aeronautica militare e del Corpo unico della Sanita' militare e' fissata a 160.377 unita'))
+
+. (110)
+
+((138))
 
 2. Ferme restando le dotazioni organiche complessive di ciascuna Forza armata fissate dall'articolo 798-bis, possono essere apportate, senza oneri aggiuntivi, con decreto del Ministro della difesa di concerto con il Ministro dell'economia e delle finanze, modifiche alle dotazioni organiche delle singole categorie di personale al fine di adeguarne la disponibilita' alle effettive esigenze funzionali da soddisfare.
 
@@ -14452,44 +15284,44 @@ AGGIORNAMENTO (110)
 
 Il [D.Lgs. 23 novembre 2023, n. 185](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2023-11-23;185) ha disposto (con l'art. 4, comma 2) che "Le modificazioni apportate dalle disposizioni del presente decreto al [codice dell'ordinamento militare](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-03-15;66), di cui al [decreto legislativo 15 marzo 2010, n. 66](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-03-15;66), hanno effetto a decorrere dal 1° gennaio 2024".
 
+--------------
+
+AGGIORNAMENTO (138)
+
+Il [D.Lgs. 3 aprile 2026, n. 74](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2026-04-03;74), ha disposto (con l'art. 20, comma 2, lettera c)) che "Le seguenti disposizioni inerenti alla costituzione del Corpo unico della Sanita' militare e al relativo transito del personale sanitario proveniente dalle Forze armate e dall'Arma dei carabinieri hanno effetto contestualmente a decorrere dal 1° gennaio 2027:   
+[...]   
+c) articoli 6, 7, 8, 9, 10, 11 e 12".
+
 ### Art. 798-bis
 
-(( (Ripartizione delle dotazioni organiche dell'Esercito italiano, della Marina militare e dell'Aeronautica militare). ))
+(( (Ripartizione delle dotazioni organiche dell'Esercito italiano, della Marina militare, dell'Aeronautica militare e del Corpo unico della Sanita' militare). ))
 
-((
+1. 
 
-1. La ripartizione delle dotazioni organiche dell'Esercito italiano, della Marina militare, escluso il Corpo delle capitanerie di porto, e dell'Aeronautica militare e' determinata nelle seguenti unita':
-
+((La ripartizione delle dotazioni organiche dell'Esercito italiano, della Marina militare, escluso il Corpo delle capitanerie di porto, dell'Aeronautica militare e del Corpo unico della Sanita' militare e' determinata nelle seguenti unita':   
 a) ufficiali:   
-1) 9.800 dell'Esercito italiano;   
-2) 4.741 della Marina militare;   
-3) 6.100 dell'Aeronautica militare;
-
+1) 8.957 dell'Esercito italiano;   
+2) 4.361 della Marina militare;   
+3) 5.740 dell'Aeronautica militare;   
+4) 1.763 del Corpo unico della Sanita' militare;   
 b) sottufficiali:   
-1) 18.300 dell'Esercito italiano, di cui 6.950 marescialli e 11.350 sergenti;   
-2) 11.034 della Marina militare, di cui 6.200 marescialli e 4.834 sergenti;   
-3) 17.325 dell'Aeronautica militare, di cui 8.475 marescialli e 8.850 sergenti;
-
+1) 17.626 dell'Esercito italiano, di cui 6.276 marescialli e 11.350 sergenti;   
+2) 10.445 della Marina militare, di cui 5.631 marescialli e 4.814 sergenti;   
+3) 16.883 dell'Aeronautica militare, di cui 8.033 marescialli e 8.850 sergenti;   
+4) 1.811 del Corpo unico della Sanita' militare, di cui 1.739 marescialli e 72 sergenti;   
 c) volontari:   
-1) 65.000 dell'Esercito italiano, di cui 40.000 in servizio permanente e 25.000 in ferma prefissata;   
+1) 64.975 dell'Esercito italiano, di cui 39.975 in servizio permanente e 25.000 in ferma prefissata;   
 2) 14.275 della Marina militare, di cui 10.505 in servizio permanente e 3.770 in ferma prefissata;   
-3) 13.425 dell'Aeronautica militare, di cui 8.825 in servizio permanente e 4.600 in ferma prefissata.
+3) 13.415 dell'Aeronautica militare, di cui 8.815 in servizio permanente e 4.600 in ferma prefissata.   
+4) 126 del Corpo unico della Sanita' militare in servizio permanente;))
 
-2. Il totale generale degli organici delle Forze armate e' il seguente:
+--------------
 
-a) Esercito italiano: 93.100 unita';
+AGGIORNAMENTO (138)
 
-b) Marina militare: 30.050 unita';
-
-c) Aeronautica militare: 36.850 unita'.))
-
-((110))
-
--------------
-
-AGGIORNAMENTO (110)
-
-Il [D.Lgs. 23 novembre 2023, n. 185](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2023-11-23;185) ha disposto (con l'art. 4, comma 2) che "Le modificazioni apportate dalle disposizioni del presente decreto al [codice dell'ordinamento militare](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-03-15;66), di cui al [decreto legislativo 15 marzo 2010, n. 66](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-03-15;66), hanno effetto a decorrere dal 1° gennaio 2024".
+Il [D.Lgs. 3 aprile 2026, n. 74](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2026-04-03;74), ha disposto (con l'art. 20, comma 2, lettera c)) che "Le seguenti disposizioni inerenti alla costituzione del Corpo unico della Sanita' militare e al relativo transito del personale sanitario proveniente dalle Forze armate e dall'Arma dei carabinieri hanno effetto contestualmente a decorrere dal 1° gennaio 2027:   
+[...]   
+c) articoli 6, 7, 8, 9, 10, 11 e 12".
 
 ### Art. 799
 
@@ -14533,25 +15365,49 @@ c) Aeronautica militare: 39.368 unita'.
 
 Consistenze organiche complessive dell'Arma dei carabinieri
 
-1. La consistenza organica degli ufficiali in servizio permanente e' di 4.537 unita'.
+1. La consistenza organica degli ufficiali in servizio permanente e' di
+
+((4.357))
+
+unita'.
+
+((138))
 
 2. La consistenza organica del ruolo ispettori e' di
 
-((30.975 unita'))
+((30.921))
 
-.
+unita'.
 
-3. La consistenza organica del ruolo sovrintendenti e' di 21.701 unita'.
+((138))
+
+3. La consistenza organica del ruolo sovrintendenti e' di
+
+((21.649))
+
+unita'.
+
+((138))
 
 4. La consistenza organica del ruolo appuntati e carabinieri e' di
 
-((60.959 unita'))
+((60.868))
 
-.
+unita'.
+
+((138))
 
 5. La forza extraorganica dell'Arma dei carabinieri e' prevista nella sezione III del capo VI del presente titolo.
 
 5-bis. Le dotazioni di cui al presente articolo possono essere rideterminate con decreto del Ministro della difesa di concerto con il Ministro per la semplificazione e la pubblica amministrazione e con il Ministro dell'economia e delle finanze, fermo restando il volume organico complessivo e senza nuovi o maggiori oneri a carico della finanza pubblica, al fine di adeguare la consistenza al piu' efficace soddisfacimento delle esigenze operative e di economicita' dell'azione amministrativa.
+
+--------------
+
+AGGIORNAMENTO (138)
+
+Il [D.Lgs. 3 aprile 2026, n. 74](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2026-04-03;74), ha disposto (con l'art. 20, comma 2, lettera c)) che "Le seguenti disposizioni inerenti alla costituzione del Corpo unico della Sanita' militare e al relativo transito del personale sanitario proveniente dalle Forze armate e dall'Arma dei carabinieri hanno effetto contestualmente a decorrere dal 1° gennaio 2027:   
+[...]   
+c) articoli 6, 7, 8, 9, 10, 11 e 12".
 
 ### Art. 801
 
@@ -14795,43 +15651,45 @@ c) ruolo dei sergenti.
 
 1. Le dotazioni organiche complessive per i gradi di generale e colonnello sono le seguenti:
 
-a) generali di corpo d'armata e corrispondenti:
-
-((18))
-
-;
-
-((110))
+a) generali di corpo d'armata e corrispondenti: 18; (110)
 
 b) generali di divisione e corrispondenti:
 
-((48))
+((47))
 
-;
+; (110)
 
-((110))
+((138))
 
 c) generali di brigata e corrispondenti:
 
-((117))
+((109))
 
-;
+; (110)
 
-((110))
+((138))
 
 d) colonnelli:
 
-((847))
+((752))
 
-.
+. (110)
 
-((110))
+((138))
 
 -------------
 
 AGGIORNAMENTO (110)
 
 Il [D.Lgs. 23 novembre 2023, n. 185](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2023-11-23;185) ha disposto (con l'art. 4, comma 2) che "Le modificazioni apportate dalle disposizioni del presente decreto al [codice dell'ordinamento militare](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-03-15;66), di cui al [decreto legislativo 15 marzo 2010, n. 66](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-03-15;66), hanno effetto a decorrere dal 1° gennaio 2024".
+
+--------------
+
+AGGIORNAMENTO (138)
+
+Il [D.Lgs. 3 aprile 2026, n. 74](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2026-04-03;74), ha disposto (con l'art. 20, comma 2, lettera c)) che "Le seguenti disposizioni inerenti alla costituzione del Corpo unico della Sanita' militare e al relativo transito del personale sanitario proveniente dalle Forze armate e dall'Arma dei carabinieri hanno effetto contestualmente a decorrere dal 1° gennaio 2027:   
+[...]   
+c) articoli 6, 7, 8, 9, 10, 11 e 12".
 
 ### Art. 810
 
@@ -14941,15 +15799,35 @@ a) ammiragli di squadra e corrispondenti: 10; (110)
 
 b) ammiragli di divisione e corrispondenti:
 
-((28))
+((27))
 
 ; (110)
 
-c) contrammiragli: (65); (110)
+((138))
 
-d) capitani di vascello: (490). (101) (110)
+c) contrammiragli:
 
-2. Nelle dotazione organiche di cui al comma 1, sono comprese le dotazioni organiche per i gradi di ammiraglio e capitano di vascello del Corpo delle capitanerie di porto di cui all'articolo 814, comma 1-bis.
+((61))
+
+; (110)
+
+((138))
+
+d) capitani di vascello:
+
+((490))
+
+. (101) (110)
+
+((138))
+
+2. Nelle
+
+((dotazioni))
+
+organiche di cui al comma 1, sono comprese le dotazioni organiche per i gradi di ammiraglio e capitano di vascello del Corpo delle capitanerie di porto di cui all'articolo 814, comma 1-bis.
+
+((138))
 
 ---------------
 
@@ -14962,6 +15840,14 @@ Il [D.L. 22 aprile 2023, n. 44](http://www.normattiva.it/uri-res/N2Ls?urn:nir:st
 AGGIORNAMENTO (110)
 
 Il [D.Lgs. 23 novembre 2023, n. 185](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2023-11-23;185) ha disposto (con l'art. 4, comma 2) che "Le modificazioni apportate dalle disposizioni del presente decreto al [codice dell'ordinamento militare](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-03-15;66), di cui al [decreto legislativo 15 marzo 2010, n. 66](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-03-15;66), hanno effetto a decorrere dal 1° gennaio 2024".
+
+--------------
+
+AGGIORNAMENTO (138)
+
+Il [D.Lgs. 3 aprile 2026, n. 74](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2026-04-03;74), ha disposto (con l'art. 20, comma 2, lettera c)) che "Le seguenti disposizioni inerenti alla costituzione del Corpo unico della Sanita' militare e al relativo transito del personale sanitario proveniente dalle Forze armate e dall'Arma dei carabinieri hanno effetto contestualmente a decorrere dal 1° gennaio 2027:   
+[...]   
+c) articoli 6, 7, 8, 9, 10, 11 e 12".
 
 ### Art. 813
 
@@ -15094,43 +15980,45 @@ Disposizioni speciali per alcuni ruoli
 
 1. Le dotazioni organiche complessive per i gradi di generale e colonnello sono le seguenti:
 
-a) generali di squadra aerea e corrispondenti:
-
-((10))
-
-;
-
-((110))
+a) generali di squadra aerea e corrispondenti: 10; (110)
 
 b) generali di divisione aerea e corrispondenti:
 
-((22))
+((21))
 
-;
+; (110)
 
-((110))
+((138))
 
 c) generali di brigata aerea e corrispondenti:
 
-((54))
+((50))
 
-;
+; (110)
 
-((110))
+((138))
 
 d) colonnelli:
 
-((436))
+((405))
 
-.
+. (110)
 
-((110))
+((138))
 
 -------------
 
 AGGIORNAMENTO (110)
 
 Il [D.Lgs. 23 novembre 2023, n. 185](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2023-11-23;185) ha disposto (con l'art. 4, comma 2) che "Le modificazioni apportate dalle disposizioni del presente decreto al [codice dell'ordinamento militare](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-03-15;66), di cui al [decreto legislativo 15 marzo 2010, n. 66](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-03-15;66), hanno effetto a decorrere dal 1° gennaio 2024".
+
+--------------
+
+AGGIORNAMENTO (138)
+
+Il [D.Lgs. 3 aprile 2026, n. 74](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2026-04-03;74), ha disposto (con l'art. 20, comma 2, lettera c)) che "Le seguenti disposizioni inerenti alla costituzione del Corpo unico della Sanita' militare e al relativo transito del personale sanitario proveniente dalle Forze armate e dall'Arma dei carabinieri hanno effetto contestualmente a decorrere dal 1° gennaio 2027:   
+[...]   
+c) articoli 6, 7, 8, 9, 10, 11 e 12".
 
 ### Art. 819
 
@@ -15245,13 +16133,37 @@ CAPO CLXI - SEZIONE II ORGANICI
 
 ### Art. 823
 
-(( (Organici dei generali e dei colonnelli). ))
+(Organici dei generali e dei colonnelli)
 
-((1. Le dotazioni organiche complessive per i gradi di generale e colonnello sono le seguenti:   
-a) generali di corpo d'armata: 11;   
-b) generali di divisione: 29;   
-c) generali di brigata: 96;   
-d) colonnelli: 538))
+1. Le dotazioni organiche complessive per i gradi di generale e colonnello sono le seguenti:
+
+a) generali di corpo d'armata: 11;
+
+b) generali di divisione: 29;
+
+c) generali di brigata:
+
+((94))
+
+;
+
+((138))
+
+d) colonnelli:
+
+((524))
+
+.
+
+((138))
+
+--------------
+
+AGGIORNAMENTO (138)
+
+Il [D.Lgs. 3 aprile 2026, n. 74](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2026-04-03;74), ha disposto (con l'art. 20, comma 2, lettera c)) che "Le seguenti disposizioni inerenti alla costituzione del Corpo unico della Sanita' militare e al relativo transito del personale sanitario proveniente dalle Forze armate e dall'Arma dei carabinieri hanno effetto contestualmente a decorrere dal 1° gennaio 2027:   
+[...]   
+c) articoli 6, 7, 8, 9, 10, 11 e 12".
 
 ### Art. 824
 
@@ -15499,6 +16411,63 @@ L'impiego del contingente e' disciplinato mediante apposito accordo tecnico stip
 
 3. Gli assegni, le competenze accessorie e le indennita' comunque spettanti al personale effettivamente impiegato nei limiti massimi fissati dal comma 1, nonche' ogni altro elemento di onere connesso al servizio di vigilanza e scorta valori, sono a carico della Banca d'Italia.
 
+### Art. 830-bis
+
+(( (Militari della Sanita' militare).))
+
+1. 
+
+((Appartengono al Corpo unico della Sanita' militare i militari inseriti nei ruoli previsti dagli articoli seguenti.))
+
+--------------
+
+AGGIORNAMENTO (138)
+
+Il [D.Lgs. 3 aprile 2026, n. 74](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2026-04-03;74), ha disposto (con l'art. 20, comma 2, lettera c)) che "Le seguenti disposizioni inerenti alla costituzione del Corpo unico della Sanita' militare e al relativo transito del personale sanitario proveniente dalle Forze armate e dall'Arma dei carabinieri hanno effetto contestualmente a decorrere dal 1° gennaio 2027:   
+[...]   
+c) articoli 6, 7, 8, 9, 10, 11 e 12".
+
+### Art. 830-ter
+
+(( (Ruoli del personale in servizio permanente).))
+
+1. 
+
+((I ruoli nei quali sono iscritti gli ufficiali del servizio permanente sono i seguenti:   
+a) ruolo normale della Sanita' militare;   
+b) ruolo speciale della Sanita' militare.))
+
+2. 
+
+((I ruoli dei sottufficiali in servizio permanente sono i seguenti:   
+a) ruolo dei marescialli;   
+b) ruolo dei sergenti.))
+
+3. 
+
+((I graduati in servizio permanente sono inseriti nel ruolo dei volontari in servizio permanente della Sanita' militare.))
+
+((138))
+
+--------------
+
+AGGIORNAMENTO (138)
+
+Il [D.Lgs. 3 aprile 2026, n. 74](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2026-04-03;74), ha disposto (con l'art. 20, comma 2, lettera c)) che "Le seguenti disposizioni inerenti alla costituzione del Corpo unico della Sanita' militare e al relativo transito del personale sanitario proveniente dalle Forze armate e dall'Arma dei carabinieri hanno effetto contestualmente a decorrere dal 1° gennaio 2027:   
+[...]   
+c) articoli 6, 7, 8, 9, 10, 11 e 12".
+
+### Art. 830-quater
+
+(( (Dotazioni organiche dei generali e dei colonnelli).))
+
+1. 
+
+((Le dotazioni organiche complessive per i gradi di generale e colonnello sono le seguenti:   
+a) maggiore generale: 3;   
+b) brigadiere generale: 18;   
+c) colonnello: 169.))
+
 CAPO CLXIII - CAPO VII TRANSITO TRA RUOLI DEGLI UFFICIALI IN SERVIZIO PERMANENTE SEZIONE I UFFICIALI DELL'ESERCITO ITALIANO, DELLA MARINA MILITARE E DELL'AERONAUTICA MILITARE
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -15661,7 +16630,34 @@ dell'Aeronautica militare, nel numero e con le modalita' stabilite con decreto m
 
 AGGIORNAMENTO (37)
 
-Il [D.Lgs. 26 aprile 2016, n. 91](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2016-04-26;91) ha disposto (con l'art. 2, comma 1, alinea) che la presente modifica si applica a decorrere dal 1° gennaio 2017.
+Il [D.Lgs. 26 aprile 2016, n. 91](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2016-04-26;91) ha disposto (con l'art. 2, comma 1,  
+alinea) che la presente modifica si applica a decorrere dal 1° gennaio 2017.
+
+### Art. 833-quinquies
+
+(( (Transito dal ruolo speciale al ruolo normale del Corpo unico della Sanita' militare). ))
+
+1. 
+
+((A decorrere dal 1º gennaio 2027, gli ufficiali fino al grado di tenente colonnello appartenenti al ruolo speciale del Corpo unico della Sanita' militare possono transitare, a domanda, nel ruolo normale, nel numero, con le modalita' e secondo i requisiti stabiliti con decreto ministeriale.))
+
+2. 
+
+((L'anzianita' di grado assoluta degli ufficiali transitati a mente del comma 1, e' rideterminata al giorno successivo a quella dell'ultimo dei pari grado del ruolo normale avente il medesimo anno di decorrenza nel grado.))
+
+3. 
+
+((L'ordine di iscrizione in ruolo degli ufficiali transitati ai sensi del comma 1 e' stabilito in base all'articolo 797, comma 3.))
+
+((138))
+
+--------------
+
+AGGIORNAMENTO (138)
+
+Il [D.Lgs. 3 aprile 2026, n. 74](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2026-04-03;74), ha disposto (con l'art. 20, comma 2, lettera c)) che "Le seguenti disposizioni inerenti alla costituzione del Corpo unico della Sanita' militare e al relativo transito del personale sanitario proveniente dalle Forze armate e dall'Arma dei carabinieri hanno effetto contestualmente a decorrere dal 1° gennaio 2027:   
+[...]   
+c) articoli 6, 7, 8, 9, 10, 11 e 12".
 
 ### Art. 834
 
@@ -16898,13 +17894,27 @@ Infermita' temporanea
 
 Riduzione dei quadri per eccedenze in piu' ruoli
 
-1. Se il conferimento delle promozioni annuali determina, nel grado di colonnello o di generale di un determinato ruolo, eccedenze rispetto agli organici previsti dal presente codice,
+1. Se il conferimento delle promozioni annuali determina, nel grado di colonnello o di generale di un determinato ruolo, eccedenze rispetto agli organici previsti dal presente codice, salvo quanto disposto dall'articolo 908, il collocamento in aspettativa per riduzione di quadri e' effettuato se la predetta eccedenza non puo' essere assorbita nelle dotazioni complessive di tale grado fissate per ogni Forza armata
 
-((. . .))
+((e per il Corpo unico della Sanita' militare))
 
-salvo quanto disposto dall'articolo 908, il collocamento in aspettativa per riduzione di quadri e' effettuato se la predetta eccedenza non puo' essere assorbita nelle dotazioni complessive di tale grado fissate per ogni Forza armata dal presente codice. Se si determinano eccedenze in piu' ruoli di una Forza armata non totalmente riassorbibili, e' collocato in aspettativa per riduzione di quadri l'ufficiale dei predetti ruoli anagraficamente piu' anziano e, a parita' di eta', l'ufficiale meno anziano nel grado.
+dal presente codice. Se si determinano eccedenze in piu' ruoli di una Forza armata
+
+((e nei ruoli del Corpo unico della Sanita' militare))
+
+non totalmente riassorbibili, e' collocato in aspettativa per riduzione di quadri l'ufficiale dei predetti ruoli anagraficamente piu' anziano e, a parita' di eta', l'ufficiale meno anziano nel grado.
+
+((138))
 
 2. Il collocamento in aspettativa per riduzione dei quadri di cui al comma 1 e' disposto al 31 dicembre dell'anno di riferimento.
+
+-------------
+
+AGGIORNAMENTO (138)
+
+Il [D.Lgs. 3 aprile 2026, n. 74](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2026-04-03;74), ha disposto (con l'art. 20, comma 2, lettera c) che "Le seguenti disposizioni inerenti alla costituzione del Corpo unico della Sanita' militare e al relativo transito del personale sanitario proveniente dalle Forze armate e dall'Arma dei carabinieri hanno effetto contestualmente a decorrere dal 1° gennaio 2027:   
+[...]   
+articoli 6, 7, 8, 9, 10, 11 e 12".
 
 ### Art. 907
 
@@ -17250,23 +18260,37 @@ Speciali limiti di eta' per gli ufficiali dell'Esercito italiano
 
 1. I limiti di eta' per la cessazione dal servizio permanente, oltre il 60° anno di eta', per gli ufficiali dell'Esercito italiano, in relazione al grado rivestito e al ruolo di appartenenza, sono i seguenti:
 
-a) 65 anni: tenente generale del ruolo normale del Corpo degli ingegneri; tenente generale e maggiore generale dell'
+a) 65 anni: tenente generale del ruolo normale del Corpo degli ingegneri; tenente generale e maggiore generale dell'Arma dei trasporti e dei materiali; tenente generale e maggiore generale del ruolo normale del
 
-((Arma dei trasporti e dei materiali))
+((...))
 
-; tenente generale e maggiore generale del ruolo normale del Corpo sanitario e del Corpo di commissariato;
+Corpo di commissariato;
 
-b) 63 anni: generale di corpo d'armata del ruolo normale delle Armi di fanteria, cavalleria, artiglieria, genio e trasmissioni; maggiore generale del ruolo normale del Corpo degli ingegneri; brigadiere generale del ruolo normale dell'
+((138))
 
-((Arma dei trasporti e dei materiali))
+b) 63 anni: generale di corpo d'armata del ruolo normale delle Armi di fanteria, cavalleria, artiglieria, genio e trasmissioni; maggiore generale del ruolo normale del Corpo degli ingegneri; brigadiere generale del ruolo normale dell'Arma dei trasporti e dei materiali; brigadiere generale del ruolo normale del
 
-; brigadiere generale del ruolo normale del Corpo sanitario e del Corpo di commissariato;
+((...))
 
-c) 61 anni: generale di divisione del ruolo normale delle Armi di fanteria, cavalleria, artiglieria, genio e trasmissioni; brigadiere generale del ruolo normale del Corpo degli ingegneri; colonnello del ruolo normale dell'
+Corpo di commissariato;
 
-((Arma dei trasporti e dei materiali))
+((138))
 
-; colonnello del ruolo normale del Corpo sanitario e del Corpo di commissariato; colonnello dei ruoli speciali.
+c) 61 anni: generale di divisione del ruolo normale delle Armi di fanteria, cavalleria, artiglieria, genio e trasmissioni; brigadiere generale del ruolo normale del Corpo degli ingegneri; colonnello del ruolo normale dell'Arma dei trasporti e dei materiali; colonnello del ruolo normale del
+
+((...))
+
+Corpo di commissariato; colonnello dei ruoli speciali.
+
+((138))
+
+-------------
+
+AGGIORNAMENTO (138)
+
+Il [D.Lgs. 3 aprile 2026, n. 74](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2026-04-03;74), ha disposto (con l'art. 20, comma 2, lettera c)) che "Le seguenti disposizioni inerenti alla costituzione del Corpo unico della Sanita' militare e al relativo transito del personale sanitario proveniente dalle Forze armate e dall'Arma dei carabinieri hanno effetto contestualmente a decorrere dal 1° gennaio 2027:   
+[...]   
+c) articoli 6, 7, 8, 9, 10, 11 e 12;".
 
 ### Art. 926
 
@@ -17274,29 +18298,29 @@ Speciali limiti di eta' per gli ufficiali della Marina militare
 
 1. I limiti di eta' per la cessazione dal servizio permanente, oltre il 60° anno di eta', per gli ufficiali della Marina militare, in relazione al grado rivestito e al ruolo di appartenenza, sono i seguenti:
 
-a) 65 anni: ammiraglio ispettore capo del ruolo normale del Corpo del genio
+a) 65 anni: ammiraglio ispettore capo del ruolo normale del Corpo del genio della Marina; ammiraglio ispettore capo e ammiraglio ispettore del ruolo normale
 
-((della Marina))
+((...))
 
-; ammiraglio ispettore capo e ammiraglio ispettore del ruolo normale del Corpo sanitario, del Corpo di commissariato e del Corpo delle capitanerie di porto;
+del Corpo di commissariato e del Corpo delle capitanerie di porto; (37)
 
-((37))
+((138))
 
-b) 63 anni: ammiraglio di squadra del ruolo normale del Corpo di stato maggiore; ammiraglio ispettore del ruolo normale del Corpo del genio
+b) 63 anni: ammiraglio di squadra del ruolo normale del Corpo di stato maggiore; ammiraglio ispettore del ruolo normale del Corpo del genio della Marina; contrammiraglio del ruolo normale
 
-((della Marina))
+((...))
 
-; contrammiraglio del ruolo normale del Corpo sanitario, del Corpo di commissariato e del Corpo delle capitanerie di porto;
+del Corpo di commissariato e del Corpo delle capitanerie di porto;(37)
 
-((37))
+((138))
 
-c) 61 anni: ammiraglio di divisione del ruolo normale del Corpo di stato maggiore; contrammiraglio del ruolo normale del Corpo del genio
+c) 61 anni: ammiraglio di divisione del ruolo normale del Corpo di stato maggiore; contrammiraglio del ruolo normale del Corpo del genio della Marina; capitano di vascello del ruolo normale
 
-((della Marina))
+((...))
 
-; capitano di vascello del ruolo normale del Corpo sanitario, del Corpo di commissariato e del Corpo delle capitanerie di porto; capitano di vascello dei ruoli speciali.
+del Corpo di commissariato e del Corpo delle capitanerie di porto; capitano di vascello dei ruoli speciali.(37)
 
-((37))
+((138))
 
 -----------
 
@@ -17304,17 +18328,81 @@ AGGIORNAMENTO (37)
 
 Il [D.Lgs. 26 aprile 2016, n. 91](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2016-04-26;91) ha disposto (con l'art. 2, comma 1, alinea) che le presenti modifiche si applicano a decorrere dal 1° gennaio 2017.
 
+-------------
+
+AGGIORNAMENTO (138)
+
+Il [D.Lgs. 3 aprile 2026, n. 74](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2026-04-03;74), ha disposto (con l'art. 20, comma 2, lettera c)) che "Le seguenti disposizioni inerenti alla costituzione del Corpo unico della Sanita' militare e al relativo transito del personale sanitario proveniente dalle Forze armate e dall'Arma dei carabinieri hanno effetto contestualmente a decorrere dal 1° gennaio 2027:   
+[...]   
+c) articoli 6, 7, 8, 9, 10, 11 e 12;".
+
 ### Art. 927
 
 Speciali limiti di eta' per gli ufficiali dell'Aeronautica militare
 
 1. I limiti di eta' per la cessazione dal servizio permanente, oltre il 60° anno di eta', per gli ufficiali dell'Aeronautica militare, in relazione al grado rivestito e al ruolo di appartenenza, sono i seguenti:
 
-a) 65 anni: generale di squadra e generale di divisione del ruolo normale delle armi; generale ispettore capo del ruolo normale del Corpo del genio aeronautico; generale ispettore capo e generale ispettore del ruolo normale del Corpo sanitario e del Corpo di commissariato;
+a) 65 anni: generale di squadra e generale di divisione del ruolo normale delle armi; generale ispettore capo del ruolo normale del Corpo del genio aeronautico; generale ispettore capo e generale ispettore del ruolo normale
 
-b) 63 anni: generale di squadra aerea del ruolo naviganti normale; generale di brigata del ruolo normale delle armi; generale ispettore del ruolo normale del Corpo del genio aeronautico; brigadiere generale del ruolo normale del Corpo sanitario e del Corpo di commissariato;
+((...))
 
-c) 61 anni: generale di divisione aerea del ruolo naviganti normale; colonnello del ruolo normale delle armi; brigadiere generale del ruolo normale del Corpo del genio aeronautico; colonnello del ruolo normale del Corpo sanitario e del Corpo di commissariato; colonnello dei ruoli speciali.
+del Corpo di commissariato;
+
+((138))
+
+b) 63 anni: generale di squadra aerea del ruolo naviganti normale; generale di brigata del ruolo normale delle armi; generale ispettore del ruolo normale del Corpo del genio aeronautico; brigadiere generale del ruolo normale
+
+((...))
+
+del Corpo di commissariato;
+
+((138))
+
+c) 61 anni: generale di divisione aerea del ruolo naviganti normale; colonnello del ruolo normale delle armi; brigadiere generale del ruolo normale del Corpo del genio aeronautico; colonnello del ruolo normale
+
+((...))
+
+del Corpo di commissariato; colonnello dei ruoli speciali.
+
+((138))
+
+-------------
+
+AGGIORNAMENTO (138)
+
+Il [D.Lgs. 3 aprile 2026, n. 74](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2026-04-03;74), ha disposto (con l'art. 20, comma 2, lettera c)) che "Le seguenti disposizioni inerenti alla costituzione del Corpo unico della Sanita' militare e al relativo transito del personale sanitario proveniente dalle Forze armate e dall'Arma dei carabinieri hanno effetto contestualmente a decorrere dal 1° gennaio 2027:   
+[...]   
+c) articoli 6, 7, 8, 9, 10, 11 e 12;".
+
+### Art. 927-bis
+
+(( (Speciali limiti di eta' per gli ufficiali del Corpo unico della Sanita' militare). ))
+
+1. 
+
+((I limiti di eta' per la cessazione dal servizio permanente, oltre il 60° anno di eta', per gli ufficiali del Corpo unico della Sanita' militare, in relazione al grado rivestito e al ruolo di appartenenza, sono i seguenti:))
+
+a)
+
+((65 anni: tenente generale e maggiore generale del ruolo normale;))
+
+b)
+
+((63 anni: brigadiere generale del ruolo normale;))
+
+c)
+
+((61 anni: colonnello del ruolo normale e del ruolo speciale.))
+
+((138))
+
+---------------
+
+AGGIORNAMENTO (138)
+
+Il [D.Lgs. 3 aprile 2026, n. 74](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2026-04-03;74) ha disposto (con l'art. 20, comma 2, lettera c)) che "Le seguenti disposizioni inerenti alla costituzione del Corpo unico della Sanita' militare e al relativo transito del personale sanitario proveniente dalle Forze armate e dall'Arma dei carabinieri hanno effetto contestualmente a decorrere dal 1° gennaio 2027:   
+[...]   
+c) articoli 6, 7, 8, 9, 10, 11 e 12".
 
 ### Art. 928
 
@@ -17464,11 +18552,21 @@ b) mancato transito nei ruoli speciali degli ufficiali dei ruoli normali che non
 
 c) mancato superamento del corso applicativo per ufficiali dei ruoli speciali;
 
-((
+c-bis) mancato superamento da parte degli ufficiali dei ruoli normali frequentatori delle Accademie del corso di applicazione e collocamento in congedo nella categoria del complemento senza obblighi di ferma, a seguito di accertata non idoneita' in attitudine militare per l'Esercito e l'Arma dei carabinieri, attitudine professionale per la Marina e attitudine militare e professionale per l'Aeronautica
 
-c-bis) mancato superamento da parte degli ufficiali dei ruoli normali frequentatori delle Accademie del corso di applicazione e collocamento in congedo nella categoria del complemento senza obblighi di ferma, a seguito di accertata non idoneita' in attitudine militare per l'Esercito e l'Arma dei carabinieri, attitudine professionale per la Marina e attitudine militare e professionale per l'Aeronautica, previo parere favorevole della commissione ordinaria di avanzamento.
+((e la Sanita' militare))
 
-))
+, previo parere favorevole della commissione ordinaria di avanzamento.
+
+((138))
+
+---------------
+
+AGGIORNAMENTO (138)
+
+Il [D.Lgs. 3 aprile 2026, n. 74](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2026-04-03;74) ha disposto (con l'art. 20, comma 2, lettera c)) che "Le seguenti disposizioni inerenti alla costituzione del Corpo unico della Sanita' militare e al relativo transito del personale sanitario proveniente dalle Forze armate e dall'Arma dei carabinieri hanno effetto contestualmente a decorrere dal 1° gennaio 2027:   
+[...]   
+c) articoli 6, 7, 8, 9, 10, 11 e 12".
 
 CAPO CLXXXI - ((SEZIONE VBIS RIAMMISSIONE IN SERVIZIO))
 -------------------------------------------------------
@@ -17669,9 +18767,11 @@ Prolungamento della ferma
 
 1. Il militare che alla scadenza della ferma volontaria non possa essere ammesso in servizio permanente per temporanea inidoneita' psico-fisica al servizio incondizionato congedo obbligatorio per maternita' o perche' imputato in un procedimento penale per delitto non colposo o sottoposto a procedimento disciplinare di stato, anche se sospeso dal servizio, puo' ottenere, a domanda, di continuare a permanere in ferma volontaria. Qualora venga accolta la domanda di prolungamento della ferma del militare imputato in procedimento penale per delitto non colposo, la concessione di tale beneficio non condiziona le valutazioni concernenti la successiva istanza di ammissione in servizio permanente e non preclude la possibilita' di disporre il proscioglimento dalla ferma.
 
-1-bis. 
+1-bis. Il prolungamento della ferma per la durata di un anno e' concesso dal Comandante generale
 
-((Il prolungamento della ferma per la durata di un anno e' concesso dal Comandante generale o autorita' delegata, su motivata proposta dell'ufficiale diretto, inoltrata per via gerarchica, anche nei confronti di un militare che alla scadenza della ferma volontaria non sia pienamente nelle condizioni, per qualita' di rendimento in servizio, di essere ammesso direttamente al servizio permanente. Allo scadere di tale prolungamento e' applicabile la norma relativa alla non ammissione nel servizio permanente, di cui all'articolo 949. Se non provvede l'ufficiale diretto, la proposta puo' essere avanzata anche da altri ufficiali della linea gerarchica, fino al comandante di corpo.))
+((o dall'autorita' delegata))
+
+, su motivata proposta dell'ufficiale diretto, inoltrata per via gerarchica, anche nei confronti di un militare che alla scadenza della ferma volontaria non sia pienamente nelle condizioni, per qualita' di rendimento in servizio, di essere ammesso direttamente al servizio permanente. Allo scadere di tale prolungamento e' applicabile la norma relativa alla non ammissione nel servizio permanente, di cui all'articolo 949. Se non provvede l'ufficiale diretto, la proposta puo' essere avanzata anche da altri ufficiali della linea gerarchica, fino al comandante di corpo.
 
 2. La durata complessiva del prolungamento della ferma:
 
@@ -17864,31 +18964,71 @@ CAPO CLXXXVIII - CAPO V SPECIALI OBBLIGHI DI SERVIZIO SEZIONE I UFFICIALI MEDICI
 
 Disposizioni generali
 
-1. Agli ufficiali dei Corpi sanitari dell'Esercito italiano, della Marina militare e dell'Aeronautica militare e agli ufficiali del comparto sanitario
+1. Agli ufficiali
 
-((e psicologico, specialita' sanita' (medicina/farmacia) e specialita' veterinaria))
+((del Corpo unico della Sanita' militare))
 
-dell'Arma dei carabinieri, ammessi ai corsi di specializzazione presso facolta' universitarie per i quali opera la riserva di posti per esigenze dell'Amministrazione della difesa, si applicano gli articoli seguenti.
+, ammessi ai corsi di specializzazione presso facolta' universitarie per i quali opera la riserva di posti per esigenze dell'Amministrazione della difesa, si applicano gli articoli seguenti.
+
+((138))
+
+---------------
+
+AGGIORNAMENTO (138)
+
+Il [D.Lgs. 3 aprile 2026, n. 74](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2026-04-03;74) ha disposto (con l'art. 20, comma 2, lettera c)) che "Le seguenti disposizioni inerenti alla costituzione del Corpo unico della Sanita' militare e al relativo transito del personale sanitario proveniente dalle Forze armate e dall'Arma dei carabinieri hanno effetto contestualmente a decorrere dal 1° gennaio 2027:   
+[...]   
+c) articoli 6, 7, 8, 9, 10, 11 e 12".
 
 ### Art. 964
 
 Ammissione ai corsi di specializzazione
 
-1. Gli ufficiali dei Corpi sanitari dell'Esercito italiano, della Marina militare e dell'Aeronautica militare e gli ufficiali del comparto sanitario
+1. Gli ufficiali
 
-((e psicologico, specialita' sanita' (medicina/farmacia) e specialita' veterinaria))
+((del Corpo unico della Sanita' militare))
 
-dell'Arma dei carabinieri in servizio permanente che sono ammessi, previa domanda, su designazione e per le esigenze dell'amministrazione, ai corsi di specializzazione delle facolta' mediche universitarie, all'atto dell'iscrizione alla scuola di specializzazione, sono vincolati a rimanere in servizio per un periodo di anni pari a due volte e mezzo il numero di anni prescritto per il conseguimento della specializzazione. Il vincolo della ferma decorre dalla data di ammissione ai corsi e la durata dello stesso e' aumentata dell'eventuale residuo periodo di precedente ferma contratta, ancora da espletare.
+in servizio permanente che sono ammessi, previa domanda
+
+((ovvero all'esito del corso formativo))
+
+, su designazione e per le esigenze dell'amministrazione, ai corsi di specializzazione delle facolta' mediche universitarie, all'atto dell'iscrizione alla scuola di specializzazione, sono vincolati a rimanere in servizio per un periodo di anni pari a due volte e mezzo il numero di anni prescritto per il conseguimento della specializzazione. Il vincolo della ferma decorre dalla data di ammissione ai corsi e la durata dello stesso e' aumentata dell'eventuale residuo periodo di precedente ferma contratta, ancora da espletare.
+
+((138))
+
+1-bis. 
+
+((Il vincolo di ferma di cui al comma 1 e' valido anche se contratto prima dell'istituzione del Corpo unico della Sanita' militare.))
+
+((138))
+
+---------------
+
+AGGIORNAMENTO (138)
+
+Il [D.Lgs. 3 aprile 2026, n. 74](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2026-04-03;74) ha disposto (con l'art. 20, comma 2, lettera c)) che "Le seguenti disposizioni inerenti alla costituzione del Corpo unico della Sanita' militare e al relativo transito del personale sanitario proveniente dalle Forze armate e dall'Arma dei carabinieri hanno effetto contestualmente a decorrere dal 1° gennaio 2027:   
+[...]   
+c) articoli 6, 7, 8, 9, 10, 11 e 12".
 
 ### Art. 965
 
 Proroga della durata dei corsi
 
-1. L'ufficiale dei Corpi sanitari dell'Esercito italiano, della Marina militare e dell'Aeronautica militare e l'ufficiale del comparto sanitario
+1. L'ufficiale
 
-((e psicologico, specialita' sanita' (medicina/farmacia) e specialita' veterinaria))
+((del Corpo unico della Sanita' militare))
 
-dell'Arma dei carabinieri al quale e' stata concessa la proroga prevista dall'articolo 758, e' vincolato a rimanere in servizio per un periodo di anni pari al vincolo residuo di cui all'articolo 964, aumentato dell'anno di proroga ottenuto.
+al quale e' stata concessa la proroga prevista dall'articolo 758, e' vincolato a rimanere in servizio per un periodo di anni pari al vincolo residuo di cui all'articolo 964, aumentato dell'anno di proroga ottenuto.
+
+((138))
+
+---------------
+
+AGGIORNAMENTO (138)
+
+Il [D.Lgs. 3 aprile 2026, n. 74](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2026-04-03;74) ha disposto (con l'art. 20, comma 2, lettera c)) che "Le seguenti disposizioni inerenti alla costituzione del Corpo unico della Sanita' militare e al relativo transito del personale sanitario proveniente dalle Forze armate e dall'Arma dei carabinieri hanno effetto contestualmente a decorrere dal 1° gennaio 2027:   
+[...]   
+c) articoli 6, 7, 8, 9, 10, 11 e 12".
 
 ### Art. 965-bis
 
@@ -18962,11 +20102,11 @@ c) le Commissioni ordinarie di avanzamento nei riguardi degli ufficiali in servi
 
 d) i superiori gerarchici per gli ufficiali di complemento.
 
-2. I componenti delle commissioni di avanzamento devono appartenere ai ruoli del servizio permanente effettivo, salvo che ricoprano cariche
+2. I componenti delle commissioni di avanzamento devono appartenere ai ruoli del servizio permanente effettivo, salvo che ricoprano cariche di cui
 
-((di cui all'articolo 1094, comma 3))
+((agli articoli 133 e))
 
-.
+1094, comma 3.
 
 3. Non possono far parte delle commissioni di avanzamento gli ufficiali che ricoprono una delle seguenti cariche:
 
@@ -18994,13 +20134,33 @@ d) temporaneamente a disposizione di altra amministrazione per incarichi non pre
 
 Norme procedurali
 
-1. Le Commissioni di vertice e le Commissioni superiori di avanzamento, costituite presso ciascuna Forza armata, sono convocate dal Ministro della difesa su proposta del Capo di stato maggiore della difesa.
+1. Le Commissioni di vertice e le Commissioni superiori di avanzamento, costituite presso ciascuna Forza armata
 
-2. I componenti delle commissioni ordinarie di avanzamento sono annualmente designati e convocati dal Ministro della difesa su proposta del Capo di stato maggiore di Forza armata e del Comandante generale dell'Arma dei carabinieri.
+((e, per il Corpo unico della Sanita' militare, presso lo Stato maggiore della difesa))
+
+, sono convocate dal Ministro della difesa su proposta del Capo di stato maggiore della difesa.
+
+((138))
+
+2. I componenti delle commissioni ordinarie di avanzamento sono annualmente designati e convocati dal Ministro della difesa
+
+((su proposta del Capo di stato maggiore di Forza armata, del Comandante generale dell'Arma dei carabinieri e, per il Corpo unico della Sanita' militare, del Direttore della Sanita' militare))
+
+.
+
+((138))
 
 3. I componenti delle commissioni si pronunciano con votazione palese in ordine inverso di grado e di anzianita'. Il presidente si pronuncia per ultimo.
 
 4. Per la validita' delle deliberazioni delle Commissioni e' necessaria la presenza di almeno due terzi dei componenti con diritto al voto.
+
+---------------
+
+AGGIORNAMENTO (138)
+
+Il [D.Lgs. 3 aprile 2026, n. 74](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2026-04-03;74) ha disposto (con l'art. 20, comma 2, lettera c)) che "Le seguenti disposizioni inerenti alla costituzione del Corpo unico della Sanita' militare e al relativo transito del personale sanitario proveniente dalle Forze armate e dall'Arma dei carabinieri hanno effetto contestualmente a decorrere dal 1° gennaio 2027:   
+[...]   
+c) articoli 6, 7, 8, 9, 10, 11 e 12".
 
 ### Art. 1036
 
@@ -19009,6 +20169,28 @@ Commissione di vertice
 1. Per la valutazione dei generali di divisione e gradi corrispondenti e' costituita presso ciascuna Forza armata una commissione di vertice di cui fanno parte i medesimi membri della commissione superiore d'avanzamento.
 
 2. Il Capo di stato maggiore della difesa assume la presidenza di ciascuna commissione di vertice e il Capo di stato maggiore di Forza armata o il Comandante generale dell'Arma dei carabinieri ne assume la funzione di vice presidente.
+
+### Art. 1036-bis
+
+(( (Commissione di vertice della Sanita' militare). ))
+
+1. 
+
+((Per la valutazione dei maggiori generali del Corpo unico della Sanita' militare e' costituita presso lo Stato maggiore della difesa una commissione di vertice di cui fanno parte i medesimi membri della commissione superiore d'avanzamento di cui all'articolo 1040-bis, comma 1, lettere a), b) e c), e i tenenti generali del Corpo unico della Sanita' militare.))
+
+2. 
+
+((Il Capo di stato maggiore della difesa assume la presidenza della commissione di vertice e il Direttore della Sanita' militare, ovvero il Vice direttore della Sanita' militare se il Direttore riveste la qualifica dirigenziale civile, ne assume la funzione di vice presidente.))
+
+((138))
+
+---------------
+
+AGGIORNAMENTO (138)
+
+Il [D.Lgs. 3 aprile 2026, n. 74](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2026-04-03;74) ha disposto (con l'art. 20, comma 2, lettera c)) che "Le seguenti disposizioni inerenti alla costituzione del Corpo unico della Sanita' militare e al relativo transito del personale sanitario proveniente dalle Forze armate e dall'Arma dei carabinieri hanno effetto contestualmente a decorrere dal 1° gennaio 2027:   
+[...]   
+c) articoli 6, 7, 8, 9, 10, 11 e 12".
 
 ### Art. 1037
 
@@ -19072,15 +20254,25 @@ Commissione superiore di avanzamento dell'Aeronautica militare
 
 a) dal Capo di stato maggiore dell'Aeronautica;
 
-b) dai quattro generali di squadra aerea piu' anziani in ruolo che non ricoprono la carica di cui alla lettera a) e che hanno svolto le funzioni di Sottocapo di stato maggiore dell'Aeronautica o che sono o sono stati preposti a comandi di grande unita'
+b) dai quattro generali di squadra aerea piu' anziani in ruolo che non ricoprono la carica di cui alla lettera a) e che hanno svolto le funzioni di Sottocapo di stato maggiore dell'Aeronautica o che sono o sono stati preposti a comandi di grande unita' aerea ovvero ad alto comando di vertice nei settori operativo, tecnico logistico o addestrativo, nonche' dal Sottocapo di stato maggiore dell'Aeronautica ove non compreso nei predetti generali e in possesso del grado di generale squadra aerea;
 
-((aerea))
+c) dall'ufficiale generale piu' elevato in grado, o piu' anziano, dell'Arma aeronautica ruolo delle armi o del Corpo del genio aeronautico,
 
-ovvero ad alto comando di vertice nei settori operativo, tecnico logistico o addestrativo, nonche' dal Sottocapo di stato maggiore dell'Aeronautica ove non compreso nei predetti generali e in possesso del grado di generale squadra aerea;
+((...))
 
-c) dall'ufficiale generale piu' elevato in grado, o piu' anziano, dell'Arma aeronautica ruolo delle armi o del Corpo del genio aeronautico, o del Corpo di commissariato aeronautico, o del Corpo sanitario aeronautico, se la valutazione riguarda gli ufficiali della rispettiva Arma o Corpo.
+o del Corpo sanitario aeronautico, se la valutazione riguarda gli ufficiali della rispettiva Arma o Corpo.
+
+((138))
 
 2. Assume la presidenza della commissione superiore di avanzamento il Capo di stato maggiore dell'Aeronautica o, in caso di assenza o di impedimento, il generale di squadra aerea o grado corrispondente piu' anziano di grado e, a parita' di anzianita' di grado, piu' anziano di eta' tra i presenti.
+
+---------------
+
+AGGIORNAMENTO (138)
+
+Il [D.Lgs. 3 aprile 2026, n. 74](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2026-04-03;74) ha disposto (con l'art. 20, comma 2, lettera c)) che "Le seguenti disposizioni inerenti alla costituzione del Corpo unico della Sanita' militare e al relativo transito del personale sanitario proveniente dalle Forze armate e dall'Arma dei carabinieri hanno effetto contestualmente a decorrere dal 1° gennaio 2027:   
+[...]   
+c) articoli 6, 7, 8, 9, 10, 11 e 12".
 
 ### Art. 1040
 
@@ -19101,29 +20293,69 @@ c-bis). dall'ufficiale generale piu' elevato in grado o piu' anziano del ruolo f
 
 2. Assume la presidenza della commissione superiore di avanzamento il Comandante generale dell'Arma dei carabinieri o, in caso di assenza o di impedimento, il generale di corpo d'armata piu' anziano di grado e, a parita' di anzianita' di grado, piu' anziano di eta' tra i presenti.
 
+### Art. 1040-bis
+
+(( (Commissione superiore di avanzamento della Sanita' militare). ))
+
+1. 
+
+((Per la valutazione degli ufficiali del Corpo unico della Sanita' militare aventi grado da tenente colonnello a brigadiere generale e' costituita la commissione superiore di avanzamento, di cui fanno parte:))
+
+a)
+
+((il Capo di stato maggiore della difesa, che la presiede;))
+
+b)
+
+((il Direttore della Sanita' militare, ove militare, anche se richiamato;))
+
+c)
+
+((un generale di corpo d'armata, o grado corrispondente, per ciascuna Forza armata e per l'Arma dei carabinieri, nominati dal Ministro della difesa su proposta del Capo di stato maggiore della difesa, sentiti i rispettivi capi di Forza armata e il Comandante generale dell'Arma dei carabinieri;))
+
+d)
+
+((i tenenti generali e i maggiori generali del Corpo unico della Sanita' militare.))
+
+2. 
+
+((Assume la presidenza della commissione superiore di avanzamento il Capo di stato maggiore della difesa o, in caso di assenza o di impedimento, il generale di corpo d'armata, o grado corrispondente piu' anziano di grado e, a parita' di anzianita' di grado, piu' anziano di eta' tra i presenti.))
+
+((138))
+
+---------------
+
+AGGIORNAMENTO (138)
+
+Il [D.Lgs. 3 aprile 2026, n. 74](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2026-04-03;74) ha disposto (con l'art. 20, comma 2, lettera c)) che "Le seguenti disposizioni inerenti alla costituzione del Corpo unico della Sanita' militare e al relativo transito del personale sanitario proveniente dalle Forze armate e dall'Arma dei carabinieri hanno effetto contestualmente a decorrere dal 1° gennaio 2027:   
+[...]   
+c) articoli 6, 7, 8, 9, 10, 11 e 12".
+
 ### Art. 1041
 
 Altri membri delle Commissioni di vertice e superiori di avanzamento
 
-1. Il Segretario generale del Ministero della difesa, ovvero il Vice Segretario generale militare se il Segretario generale riveste qualifica dirigenziale civile,
+1. Il Segretario generale del Ministero della difesa, ovvero il Vice Segretario generale militare se il Segretario generale riveste qualifica dirigenziale civile, e il Direttore nazionale degli armamenti, ovvero il Vice direttore nazionale degli armamenti militare se il Direttore nazionale degli armamenti riveste qualifica dirigenziale civile, partecipano, quali componenti, alla commissione di vertice della Forza armata di appartenenza, se non gia' previsto dall'articolo 1036. E' obbligatoriamente consultato dalle Commissioni di vertice allorche' la valutazione riguardi ufficiali di Forza armata diversa da quella di appartenenza in servizio presso uffici od organi dipendenti.
 
-((e il Direttore nazionale degli armamenti, ovvero il Vice direttore nazionale degli armamenti militare se il Direttore nazionale degli armamenti riveste qualifica dirigenziale civile, partecipano, quali componenti,))
+2. Il Vice Segretario generale e il Vice Direttore nazionale degli armamenti del Ministero della difesa, se militari, nonche' il Sottocapo di stato maggiore della difesa partecipano, quali componenti, alle Commissioni superiori di avanzamento della Forza armata di appartenenza, se non gia' previsto dagli articoli precedenti. Sono obbligatoriamente consultati dalle Commissioni superiori di avanzamento:
 
-alla commissione di vertice della Forza armata di appartenenza, se non gia' previsto dall'articolo 1036. E' obbligatoriamente consultato dalle Commissioni di vertice allorche' la valutazione riguardi ufficiali di Forza armata diversa da quella di appartenenza in servizio presso uffici od organi dipendenti.
-
-2. 
-
-((Il Vice Segretario generale e il Vice Direttore nazionale degli armamenti del Ministero della difesa, se militari,))
-
-nonche' il Sottocapo di stato maggiore della difesa partecipano, quali componenti, alle Commissioni superiori di avanzamento della Forza armata di appartenenza, se non gia' previsto dagli articoli precedenti. Sono obbligatoriamente consultati dalle Commissioni superiori di avanzamento:
-
-a)
-
-((il Vice Segretario generale e il Vice Direttore nazionale degli armamenti del Ministero della difesa, se militari,))
-
-quando le Commissioni valutano gli ufficiali di Forza armata diversa da quella di appartenenza, in servizio presso gli organi dell'area centrale tecnico amministrativa;
+a) il Vice Segretario generale e il Vice Direttore nazionale degli armamenti del Ministero della difesa, se militari, quando le Commissioni valutano gli ufficiali di Forza armata diversa da quella di appartenenza, in servizio presso gli organi dell'area centrale tecnico amministrativa;
 
 b) il Sottocapo di stato maggiore della difesa quando le Commissioni valutano gli ufficiali di Forza armata diversa da quella di appartenenza, in servizio presso gli organi interforze dell'area tecnico operativa.
+
+2-bis. 
+
+((Il Direttore della Sanita' militare, ovvero il Vice direttore della Sanita' militare se il Direttore riveste qualifica dirigenziale civile, e' obbligatoriamente consultato dalle Commissioni superiori di avanzamento quando le stesse valutano gli ufficiali delle Forze armate in servizio presso uffici od organi dipendenti.))
+
+((138))
+
+---------------
+
+AGGIORNAMENTO (138)
+
+Il [D.Lgs. 3 aprile 2026, n. 74](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2026-04-03;74) ha disposto (con l'art. 20, comma 2, lettera c)) che "Le seguenti disposizioni inerenti alla costituzione del Corpo unico della Sanita' militare e al relativo transito del personale sanitario proveniente dalle Forze armate e dall'Arma dei carabinieri hanno effetto contestualmente a decorrere dal 1° gennaio 2027:   
+[...]   
+c) articoli 6, 7, 8, 9, 10, 11 e 12".
 
 ### Art. 1042
 
@@ -19187,9 +20419,23 @@ a) da un generale di squadra aerea, che la presiede;
 
 b) da quattro ufficiali generali o colonnelli del ruolo naviganti normale dell'Arma aeronautica;
 
-c) da un Ufficiale di grado non inferiore a colonnello del ruolo normale delle armi dell'Arma aeronautica, del Corpo del genio aeronautico, o di commissariato aeronautico o sanitario aeronautico, se la valutazione riguarda ufficiali della rispettiva Arma o Corpo.
+c) da un Ufficiale di grado non inferiore a colonnello del ruolo normale delle armi dell'Arma aeronautica, del Corpo del genio aeronautico, o di commissariato aeronautico
+
+((...))
+
+, se la valutazione riguarda ufficiali della rispettiva Arma o Corpo.
+
+((138))
 
 2. In caso di assenza o di impedimento del presidente assume la presidenza l'ufficiale piu' elevato in grado e, a parita' di grado, il piu' anziano.
+
+---------------
+
+AGGIORNAMENTO (138)
+
+Il [D.Lgs. 3 aprile 2026, n. 74](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2026-04-03;74) ha disposto (con l'art. 20, comma 2, lettera c)) che "Le seguenti disposizioni inerenti alla costituzione del Corpo unico della Sanita' militare e al relativo transito del personale sanitario proveniente dalle Forze armate e dall'Arma dei carabinieri hanno effetto contestualmente a decorrere dal 1° gennaio 2027:   
+[...]   
+c) articoli 6, 7, 8, 9, 10, 11 e 12".
 
 ### Art. 1045
 
@@ -19239,6 +20485,44 @@ colonnello del ruolo forestale dell'Arma dei carabinieri, se la valutazione rigu
 
 2. In caso di assenza o di impedimento del presidente assume la presidenza l'ufficiale piu' elevato in grado e, a parita' di grado, il piu' anziano.
 
+### Art. 1045-bis
+
+(( (Commissione ordinaria di avanzamento della Sanita' militare). ))
+
+1. 
+
+((Per gli ufficiali del Corpo unico della Sanita' militare aventi grado da sottotenente a maggiore, e' costituita la commissione ordinaria di avanzamento della Sanita' militare, di cui fanno parte:))
+
+a)
+
+((il Vice direttore della Sanita' militare, che la presiede;))
+
+b)
+
+((un tenente generale o un maggiore generale del ruolo normale della Sanita' militare;))
+
+c)
+
+((un brigadiere generale o colonnello del ruolo normale della Sanita' militare, di ciascuna delle specialita' ai sensi dell'articolo 830-bis, se la valutazione riguarda ufficiali della rispettiva specialita';))
+
+d)
+
+((quattro ufficiali di grado non inferiore a colonnello del ruolo normale, di cui uno dell'Esercito italiano, uno della Marina militare, uno dell'Aeronautica militare e uno dell'Arma dei carabinieri.))
+
+2. 
+
+((In caso di assenza o di impedimento del presidente assume la presidenza l'ufficiale piu' elevato in grado e, a parita' di grado, il piu' anziano.))
+
+((138))
+
+---------------
+
+AGGIORNAMENTO (138)
+
+Il [D.Lgs. 3 aprile 2026, n. 74](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2026-04-03;74) ha disposto (con l'art. 20, comma 2, lettera c)) che "Le seguenti disposizioni inerenti alla costituzione del Corpo unico della Sanita' militare e al relativo transito del personale sanitario proveniente dalle Forze armate e dall'Arma dei carabinieri hanno effetto contestualmente a decorrere dal 1° gennaio 2027:   
+[...]   
+c) articoli 6, 7, 8, 9, 10, 11 e 12".
+
 ### Art. 1046
 
 Altri membri delle Commissioni ordinarie di avanzamento
@@ -19277,15 +20561,51 @@ b) membri ordinari:
 
 c) membri supplenti.
 
-4. Per la valutazione ai fini dell'avanzamento ad anzianita' e a scelta e per la compilazione dei quadri del personale appartenente ai ruoli ispettori, sovrintendenti e appuntati e carabinieri e gradi corrispondenti e' istituita una commissione permanente per l'Arma dei carabinieri, costituita come segue:   
+4. Per la valutazione ai fini dell'avanzamento ad anzianita' e a scelta e per la compilazione dei quadri del personale appartenente ai ruoli ispettori, sovrintendenti e appuntati e carabinieri e gradi corrispondenti e' istituita una commissione permanente per l'Arma dei carabinieri, costituita come segue:
 
-((a) presidente: non inferiore a generale di divisione))
+a) presidente: non inferiore a generale di divisione;
 
-;   
-b) membri ordinari: sette ufficiali superiori, dei quali il piu' anziano assume il ruolo di vice presidente e il meno anziano quello di segretario; tre luogotenenti o un brigadiere capo ovvero un appuntato scelto, rispettivamente se si tratta di valutazione di personale del ruolo ispettori, sovrintendenti ovvero appuntati e carabinieri, che possano far parte della commissione almeno per l'intero anno solare, a cui si riferiscono le valutazioni da effettuare.   
+b) membri ordinari: sette ufficiali superiori, dei quali il piu' anziano assume il ruolo di vice presidente e il meno anziano quello di segretario; tre luogotenenti o un brigadiere capo ovvero un appuntato scelto, rispettivamente se si tratta di valutazione di personale del ruolo ispettori, sovrintendenti ovvero appuntati e carabinieri, che possano far parte della commissione almeno per l'intero anno solare, a cui si riferiscono le valutazioni da effettuare.
+
 b-bis) membri supplenti.
 
+4-bis. 
+
+((Per la valutazione ai fini dell'avanzamento ad anzianita' e a scelta e per la compilazione dei quadri del personale appartenente ai ruoli sanitari dei marescialli, sergenti e graduati e' istituita una commissione permanente per la Sanita' militare, costituita come segue:))
+
+a)
+
+((presidente: ufficiale generale;))
+
+b)
+
+((membri ordinari:))
+
+  
+1)
+
+((ufficiali superiori in numero non superiore a cinque, dei quali il piu' anziano assume il ruolo di vicepresidente e il meno anziano quello di segretario;))
+
+  
+2)
+
+((il piu' anziano del ruolo a cui appartiene il personale da valutare alla data del 1° gennaio dell'anno considerato e che possa far parte della commissione almeno per l'intero anno solare;))
+
+c)
+
+((membri supplenti.))
+
+((138))
+
 5. Il giudizio di idoneita' per l'avanzamento dei militari di truppa, che comporta la valutazione delle qualita', capacita' e attitudini in rapporto ai compiti da svolgere nel grado superiore, e in relazione alle esigenze di quegli incarichi nel reparto, e' espresso da una apposita commissione costituita presso ciascun corpo o reparto d'impiego, composta da almeno tre membri nominati dal comandante di corpo. Per la partecipazione alla commissione non e' prevista la corresponsione di alcuna indennita' o compenso ne' rimborso spese.
+
+---------------
+
+AGGIORNAMENTO (138)
+
+Il [D.Lgs. 3 aprile 2026, n. 74](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2026-04-03;74) ha disposto (con l'art. 20, comma 2, lettera c)) che "Le seguenti disposizioni inerenti alla costituzione del Corpo unico della Sanita' militare e al relativo transito del personale sanitario proveniente dalle Forze armate e dall'Arma dei carabinieri hanno effetto contestualmente a decorrere dal 1° gennaio 2027:   
+[...]   
+c) articoli 6, 7, 8, 9, 10, 11 e 12".
 
 ### Art. 1048
 
@@ -19365,11 +20685,13 @@ Militare in aspettativa
 
 Formazione delle aliquote di valutazione degli ufficiali
 
-1. Il
+1. Il 15 settembre di ogni anno, il Direttore generale della Direzione generale per il personale militare, con apposite determinazioni, indica per ciascuna Forza armata
 
-((15 settembre))
+((e per il Corpo unico della Sanita' militare))
 
-di ogni anno, il Direttore generale della Direzione generale per il personale militare, con apposite determinazioni, indica per ciascuna Forza armata, per ciascun grado e ruolo, gli ufficiali da valutare per la formazione dei quadri di avanzamento per l'anno successivo. In tali determinazioni sono inclusi:
+, per ciascun grado e ruolo, gli ufficiali da valutare per la formazione dei quadri di avanzamento per l'anno successivo. In tali determinazioni sono inclusi:
+
+((138))
 
 a) gli ufficiali non ancora valutati che, alla data suddetta, hanno raggiunto tutte le condizioni prescritte dall'articolo 1093;
 
@@ -19390,6 +20712,14 @@ c) se si riscontra parita' anche nell'anzianita' assoluta di nomina, e' consider
 3. COMMA ABROGATO DAL [D.LGS. 28 GENNAIO 2014, N. 8](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2014-01-28;8).
 
 4. Il Direttore generale della Direzione generale per il personale militare con proprie determinazioni indica, altresi', gli ufficiali che non possono essere valutati per l'avanzamento per non aver raggiunto le condizioni prescritte dagli articoli 1093 e 1096. Essi sono poi inclusi nella prima determinazione annuale dell'aliquota successiva alla data del raggiungimento delle predette condizioni.
+
+---------------
+
+AGGIORNAMENTO (138)
+
+Il [D.Lgs. 3 aprile 2026, n. 74](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2026-04-03;74) ha disposto (con l'art. 20, comma 2, lettera c)) che "Le seguenti disposizioni inerenti alla costituzione del Corpo unico della Sanita' militare e al relativo transito del personale sanitario proveniente dalle Forze armate e dall'Arma dei carabinieri hanno effetto contestualmente a decorrere dal 1° gennaio 2027:   
+[...]   
+c) articoli 6, 7, 8, 9, 10, 11 e 12".
 
 ### Art. 1054
 
@@ -19443,14 +20773,28 @@ CAPO CCXIV - SEZIONE III AVANZAMENTO A SCELTA
 
 Sistema di avanzamento a scelta degli ufficiali
 
-1. Il giudizio di avanzamento a scelta degli ufficiali delle Forze armate discende da un'attivita' valutativa svolta dalle competenti commissioni di avanzamento, osservando le modalita' e i criteri stabiliti dalla presente sezione.
+1. Il giudizio di avanzamento a scelta degli ufficiali delle Forze armate
+
+((e del Corpo unico della Sanita' militare))
+
+discende da un'attivita' valutativa svolta dalle competenti commissioni di avanzamento, osservando le modalita' e i criteri stabiliti dalla presente sezione.
+
+((138))
 
 2. L'avanzamento a scelta si effettua promuovendo gli ufficiali nell'ordine risultante dalla graduatoria di merito o nell'ordine di iscrizione in ruolo.
 
-3. Il giudizio di avanzamento a scelta si articola in due fasi, entrambe a carattere collegiale. La prima fase e' diretta ad accertare, ai sensi dell'articolo 1058, commi 1 e 2, l'idoneita' di ciascun ufficiale all'adempimento delle funzioni del grado superiore.  
+3. Il giudizio di avanzamento a scelta si articola in due fasi, entrambe a carattere collegiale. La prima fase e' diretta ad accertare, ai sensi dell'articolo 1058, commi 1 e 2, l'idoneita' di ciascun ufficiale all'adempimento delle funzioni del grado superiore.   
 La seconda fase, caratterizzata dall'applicazione dei criteri di cui all'articolo 1058, commi 4, 5, 6 e 7, e' volta a determinare, attraverso l'attribuzione di un punteggio di merito, la misura in cui si ritiene che le qualita', le capacita' e le attitudini sono possedute da ciascun ufficiale giudicato idoneo; sulla base di detto punteggio, e' conseguentemente formata la graduatoria di merito degli ufficiali giudicati idonei.
 
 4. L'attribuzione dei punteggi rappresenta la sintesi del giudizio di merito assoluto espresso dalle commissioni di avanzamento nei confronti degli ufficiali idonei.
+
+---------------
+
+AGGIORNAMENTO (138)
+
+Il [D.Lgs. 3 aprile 2026, n. 74](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2026-04-03;74) ha disposto (con l'art. 20, comma 2, lettera c)) che "Le seguenti disposizioni inerenti alla costituzione del Corpo unico della Sanita' militare e al relativo transito del personale sanitario proveniente dalle Forze armate e dall'Arma dei carabinieri hanno effetto contestualmente a decorrere dal 1° gennaio 2027:   
+[...]   
+c) articoli 6, 7, 8, 9, 10, 11 e 12".
 
 ### Art. 1058
 
@@ -19525,7 +20869,13 @@ CAPO CCXV - SEZIONE IV AVANZAMENTI STRAORDINARI
 
 Avanzamento per meriti eccezionali degli ufficiali
 
-1. L'avanzamento per meriti eccezionali puo' aver luogo nei riguardi dell'ufficiale che nell'esercizio delle sue attribuzioni ha reso eccezionali servizi alle Forze armate e che ha dimostrato di possedere qualita' intellettuali, di cultura e professionali, tali da dare sicuro affidamento di adempiere in modo eminente le funzioni del grado superiore.
+1. L'avanzamento per meriti eccezionali puo' aver luogo nei riguardi dell'ufficiale che nell'esercizio delle sue attribuzioni ha reso eccezionali servizi alle Forze armate
+
+((e alla Sanita' militare))
+
+e che ha dimostrato di possedere qualita' intellettuali, di cultura e professionali, tali da dare sicuro affidamento di adempiere in modo eminente le funzioni del grado superiore.
+
+((138))
 
 2. Per essere proposto per l'avanzamento per meriti eccezionali l'ufficiale deve essere compreso nella prima meta' del ruolo del proprio grado, aver compiuto il prescritto periodo di comando o di attribuzioni specifiche e non aver gia' conseguito nel corso della carriera una promozione per meriti eccezionali.
 
@@ -19535,16 +20885,30 @@ Avanzamento per meriti eccezionali degli ufficiali
 
 5. Sulla proposta decide il Ministro, previo parere favorevole della competente commissione superiore di avanzamento, espresso a unanimita' di voti.
 
-6. L'ufficiale riconosciuto dal Ministro meritevole dell'avanzamento per meriti eccezionali e' iscritto al primo posto nel quadro di avanzamento che e' formato dopo la data della decisione del Ministro.  
+6. L'ufficiale riconosciuto dal Ministro meritevole dell'avanzamento per meriti eccezionali e' iscritto al primo posto nel quadro di avanzamento che e' formato dopo la data della decisione del Ministro.   
 Se piu' ufficiali sono stati riconosciuti meritevoli dell'avanzamento per meriti eccezionali, essi sono iscritti in quadro, con precedenza sugli altri pari grado, in ordine di anzianita'.
 
 7. Il decreto di promozione per meriti eccezionali ne reca la motivazione.
+
+---------------
+
+AGGIORNAMENTO (138)
+
+Il [D.Lgs. 3 aprile 2026, n. 74](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2026-04-03;74) ha disposto (con l'art. 20, comma 2, lettera c)) che "Le seguenti disposizioni inerenti alla costituzione del Corpo unico della Sanita' militare e al relativo transito del personale sanitario proveniente dalle Forze armate e dall'Arma dei carabinieri hanno effetto contestualmente a decorrere dal 1° gennaio 2027:   
+[...]   
+c) articoli 6, 7, 8, 9, 10, 11 e 12".
 
 ### Art. 1062
 
 Avanzamento per meriti eccezionali dei sottufficiali e dei graduati
 
-1. L'avanzamento straordinario per meriti eccezionali puo' aver luogo nei riguardi del personale, appartenente ai ruoli dei marescialli, degli ispettori, dei sergenti, dei sovrintendenti, dei volontari in servizio permanente e degli appuntati e carabinieri, che nell'esercizio delle proprie attribuzioni ha reso servizi di eccezionale importanza alle Forze armate e che ha dimostrato di possedere qualita' intellettuali, di cultura, professionali, cosi' preclare da dare sicuro affidamento di adempiere in modo eminente le funzioni del grado superiore.
+1. L'avanzamento straordinario per meriti eccezionali puo' aver luogo nei riguardi del personale, appartenente ai ruoli dei marescialli, degli ispettori, dei sergenti, dei sovrintendenti, dei volontari in servizio permanente e degli appuntati e carabinieri, che nell'esercizio delle proprie attribuzioni ha reso servizi di eccezionale importanza alle Forze armate
+
+((e alla Sanita' militare))
+
+e che ha dimostrato di possedere qualita' intellettuali, di cultura, professionali, cosi' preclare da dare sicuro affidamento di adempiere in modo eminente le funzioni del grado superiore.
+
+((138))
 
 2. La proposta di avanzamento per meriti eccezionali e' formulata dall'ufficiale generale o grado equiparato dal quale il suddetto personale gerarchicamente dipende ed e' corredata dei pareri delle autorita' gerarchiche superiori.
 
@@ -19561,15 +20925,21 @@ Nel caso di piu' sottufficiali con proposte di pari data, gli stessi sono promos
 
 6. Il personale, promosso per meriti eccezionali, prende posto nel ruolo in base all'anzianita' di grado attribuitagli seguendo i pari grado aventi la stessa anzianita'.
 
-6-bis. I
+6-bis. I luogotenenti e gradi corrispondenti conseguono la promozione per meriti eccezionali nel grado di sottotenente del ruolo speciale secondo gli ordinamenti di Forza armata
 
-((luogotenenti))
+((e della Sanita' militare))
 
-e gradi corrispondenti conseguono la promozione per meriti eccezionali nel grado di sottotenente del ruolo speciale secondo gli ordinamenti di Forza armata
+o del ruolo normale per l'Arma dei carabinieri.
 
-((o del ruolo normale per l'Arma dei carabinieri.))
+((138))
 
-.
+---------------
+
+AGGIORNAMENTO (138)
+
+Il [D.Lgs. 3 aprile 2026, n. 74](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2026-04-03;74) ha disposto (con l'art. 20, comma 2, lettera c)) che "Le seguenti disposizioni inerenti alla costituzione del Corpo unico della Sanita' militare e al relativo transito del personale sanitario proveniente dalle Forze armate e dall'Arma dei carabinieri hanno effetto contestualmente a decorrere dal 1° gennaio 2027:   
+[...]   
+c) articoli 6, 7, 8, 9, 10, 11 e 12".
 
 ### Art. 1063
 
@@ -19620,7 +20990,21 @@ Ufficiali giudicati non idonei
 
 Profili di carriera degli ufficiali
 
-1. I profili di carriera e le modalita' di avanzamento degli ufficiali in servizio permanente nei vari gradi di ciascun ruolo di ogni Forza armata sono indicati nei capi VII, VIII, IX e X del presente titolo.
+1. I profili di carriera e le modalita' di avanzamento degli ufficiali in servizio permanente nei vari gradi di ciascun ruolo di ogni Forza armata
+
+((e del Corpo unico della Sanita' militare))
+
+sono indicati nei capi VII, VIII, IX e X del presente titolo.
+
+((138))
+
+---------------
+
+AGGIORNAMENTO (138)
+
+Il [D.Lgs. 3 aprile 2026, n. 74](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2026-04-03;74) ha disposto (con l'art. 20, comma 2, lettera c)) che "Le seguenti disposizioni inerenti alla costituzione del Corpo unico della Sanita' militare e al relativo transito del personale sanitario proveniente dalle Forze armate e dall'Arma dei carabinieri hanno effetto contestualmente a decorrere dal 1° gennaio 2027:   
+[...]   
+c) articoli 6, 7, 8, 9, 10, 11 e 12".
 
 CAPO CCXVII - CAPO IV QUADRI DI AVANZAMENTO E PROMOZIONI SEZIONE I FORMAZIONE DEI QUADRI DI AVANZAMENTO
 -------------------------------------------------------------------------------------------------------
@@ -19686,31 +21070,47 @@ Promozioni annuali degli ufficiali
 
 1. Nei gradi in cui l'avanzamento ha luogo a scelta, il numero delle promozioni fisse annuali e' stabilito per ciascun grado dal presente codice.
 
-1-bis. Nell'avanzamento a scelta al grado di maggiore e gradi corrispondenti di tutti i ruoli normali e speciali delle Armi e dei Corpi dell'Esercito italiano, della Marina militare e dell'Aeronautica militare il numero annuale di promozioni e' fissato in tante unita' quanti sono i capitani e gradi corrispondenti inseriti nell'aliquota di valutazione e giudicati idonei all'avanzamento.
+1-bis. Nell'avanzamento a scelta al grado di maggiore e gradi corrispondenti di tutti i ruoli normali e speciali delle Armi e dei Corpi dell'Esercito italiano, della Marina militare
 
-2. Gli ufficiali iscritti nei quadri di avanzamento a scelta sono promossi
+((, dell'Aeronautica militare e della Sanita' militare))
 
-((alla data del 1° gennaio))
+il numero annuale di promozioni e' fissato in tante unita' quanti sono i capitani e gradi corrispondenti inseriti nell'aliquota di valutazione e giudicati idonei all'avanzamento.
 
-dell'anno cui si riferiscono i quadri stessi.
+((138))
+
+2. Gli ufficiali iscritti nei quadri di avanzamento a scelta sono promossi alla data del 1° gennaio dell'anno cui si riferiscono i quadri stessi.
 
 3. Le promozioni ad anzianita' sono conferite con decorrenza dal giorno del compimento delle anzianita' di grado richieste, in base alle disposizioni del presente codice.
 
-4. Le promozioni di cui al presente articolo sono conferite anche in soprannumero agli organici previsti dalle norme vigenti. Le eventuali eccedenze che si determinano in applicazione delle norme di cui al presente comma sono assorbite con le vacanze che si verificano per cause diverse da quelle determinate dalle promozioni, salvo l'applicazione dell'aspettativa per riduzione dei quadri di cui agli articoli 906 e 907.
+4. Le promozioni di cui al presente articolo sono conferite anche in soprannumero agli organici previsti dalle norme vigenti. Le eventuali eccedenze che si determinano in applicazione delle norme di cui al presente comma sono assorbite con le vacanze che si verificano per cause diverse da quelle determinate dalle promozioni, salvo l'applicazione dell'aspettativa per riduzione dei quadri di cui agli articoli 906
+
+((...))
+
+.
+
+((138))
+
+---------------
+
+AGGIORNAMENTO (138)
+
+Il [D.Lgs. 3 aprile 2026, n. 74](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2026-04-03;74) ha disposto (con l'art. 20, comma 2, lettera c)) che "Le seguenti disposizioni inerenti alla costituzione del Corpo unico della Sanita' militare e al relativo transito del personale sanitario proveniente dalle Forze armate e dall'Arma dei carabinieri hanno effetto contestualmente a decorrere dal 1° gennaio 2027:   
+[...]   
+c) articoli 6, 7, 8, 9, 10, 11 e 12".
 
 ### Art. 1072
 
 Promozioni non annuali degli ufficiali
 
-1. Per i gradi nei quali le promozioni a scelta non si effettuano tutti gli anni, il Ministro della difesa, per gli anni in cui non sono previste promozioni, approva egualmente la graduatoria, ma il Direttore generale della Direzione generale per il personale militare forma il quadro di avanzamento solo se nel corso dell'anno si verificano una o piu' vacanze nei gradi rispettivamente superiori.
+1. Per i gradi nei quali le promozioni a scelta non si effettuano tutti gli anni, il Ministro della difesa, per gli anni in cui non sono previste promozioni, approva egualmente la graduatoria, ma il Direttore generale della Direzione generale per il personale militare forma il quadro di avanzamento solo se nel corso dell'anno si verificano una o piu' vacanze nei gradi rispettivamente superiori. Le conseguenti promozioni decorrono dalla data della vacanza. In tale caso, il nuovo ciclo di promozioni decorre dall'anno di apertura del quadro. (110)
 
-((Le conseguenti promozioni decorrono dalla data della vacanza.))
+2. Se non diversamente stabilito dal presente codice, per i gradi degli ufficiali dell'Esercito italiano, della Marina militare
 
-In tale caso, il nuovo ciclo di promozioni decorre dall'anno di apertura del quadro.
+((, dell'Aeronautica militare e della Sanita' militare))
 
-((110))
+, nei quali le promozioni a scelta non si effettuano tutti gli anni, il quadro di avanzamento e' formato computando gli anni precedenti nei quali non sono state disposte promozioni.
 
-2. Se non diversamente stabilito dal presente codice, per i gradi degli ufficiali dell'Esercito italiano, della Marina militare e dell'Aeronautica militare, nei quali le promozioni a scelta non si effettuano tutti gli anni, il quadro di avanzamento e' formato computando gli anni precedenti nei quali non sono state disposte promozioni.
+((138))
 
 ---------------
 
@@ -19718,19 +21118,63 @@ AGGIORNAMENTO (110)
 
 Il [D.Lgs. 23 novembre 2023, n. 185](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2023-11-23;185) ha disposto (con l'art. 4, comma 2) che "Le modificazioni apportate dalle disposizioni del presente decreto al [codice dell'ordinamento militare](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-03-15;66), di cui al [decreto legislativo 15 marzo 2010, n. 66](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-03-15;66), hanno effetto a decorrere dal 1° gennaio 2024".
 
+---------------
+
+AGGIORNAMENTO (138)
+
+Il [D.Lgs. 3 aprile 2026, n. 74](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2026-04-03;74) ha disposto (con l'art. 20, comma 2, lettera c)) che "Le seguenti disposizioni inerenti alla costituzione del Corpo unico della Sanita' militare e al relativo transito del personale sanitario proveniente dalle Forze armate e dall'Arma dei carabinieri hanno effetto contestualmente a decorrere dal 1° gennaio 2027:   
+[...]   
+c) articoli 6, 7, 8, 9, 10, 11 e 12".
+
 ### Art. 1072-bis
 
-Promozione dei tenenti colonnelli dell'Esercito italiano, della Marina militare, dell'Aeronautica militare e dell'Arma dei carabinieri).
+(Promozione dei tenenti colonnelli dell'Esercito italiano, della Marina militare, dell'Aeronautica militare
 
-1. In relazione all'andamento dei ruoli, fermo restando il numero di promozioni di cui alle tabelle 1, 2, 3 e 4, allegate al presente codice, per l'avanzamento a scelta al grado di colonnello e gradi corrispondenti, il numero delle promozioni da attribuire ai tenenti colonnelli e gradi corrispondenti con almeno tredici anni di anzianita' nel grado e' determinato annualmente con decreto del Ministro della difesa, di concerto con il Ministro delle infrastrutture e dei trasporti per il Corpo delle capitanerie di Porto, su proposta dei Capi di stato maggiore di Forza armata ovvero dei Comandanti generali dell'Arma dei carabinieri e del Corpo delle capitanerie di porto, in misura non superiore a:   
+((, dell'Arma dei carabinieri e della Sanita' militare))
 
-((a) cinque per i ruoli normali delle Armi varie dell'Esercito, del Corpo di stato maggiore della Marina e dei naviganti dell'Arma aeronautica;))
+).
 
-((a-bis) sette per il ruolo normale dell'Arma dei carabinieri;))
+((138))
 
-  
-b) tre per i ruoli normali del Corpo delle capitanerie di porto e delle armi dell'Aeronautica militare;   
-c) due per i ruoli normali del Corpo sanitario dell'Esercito, del Corpo del genio della Marina e del Corpo del genio aeronautico; (37) d) uno per i restanti ruoli normali e speciali dell'Esercito, della Marina e dell'Aeronautica.
+1. In relazione all'andamento dei ruoli, fermo restando il numero di promozioni di cui
+
+((alle tabelle 1, 2, 3, 4 e 4-bis))
+
+, allegate al presente codice, per l'avanzamento a scelta al grado di colonnello e gradi corrispondenti, il numero delle promozioni da attribuire ai tenenti colonnelli e gradi corrispondenti con almeno tredici anni di anzianita' nel grado e' determinato annualmente con decreto del Ministro della difesa, di concerto con il Ministro delle infrastrutture e dei trasporti per il Corpo delle capitanerie di Porto, su proposta dei Capi di stato maggiore di Forza armata ovvero dei Comandanti generali dell'Arma dei carabinieri e del Corpo delle capitanerie di porto
+
+((ovvero del Direttore della Sanita' militare))
+
+, in misura non superiore a:
+
+((138))
+
+a) cinque per i ruoli normali delle Armi varie dell'Esercito, del Corpo di stato maggiore della Marina e dei naviganti dell'Arma aeronautica;
+
+a-bis) sette per il ruolo normale dell'Arma dei carabinieri;
+
+b) tre per i ruoli normali del Corpo delle capitanerie di porto e delle armi dell'Aeronautica militare;
+
+c) due per i ruoli normali
+
+((...))
+
+del Corpo del genio della Marina e del Corpo del genio aeronautico; (37)
+
+((138))
+
+c-bis)
+
+((quattro per il ruolo normale del Corpo unico della Sanita' militare;))
+
+((138))
+
+d) uno per i restanti ruoli normali e speciali dell'Esercito, della Marina
+
+((, dell'Aeronautica e della Sanita' militare))
+
+.
+
+((138))
 
 2. Se le promozioni previste nell'anno sono pari o inferiori all'unita', il decreto di cui al comma 1 puo' essere adottato solo in casi eccezionali, opportunamente motivati.
 
@@ -19740,25 +21184,42 @@ AGGIORNAMENTO (37)
 
 Il [D.Lgs. 26 aprile 2016, n. 91](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2016-04-26;91) ha disposto (con l'art. 2, comma 1, alinea) che la presente modifica si applica a decorrere dal 1° gennaio 2017.
 
+---------------
+
+AGGIORNAMENTO (138)
+
+Il [D.Lgs. 3 aprile 2026, n. 74](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2026-04-03;74) ha disposto (con l'art. 20, comma 2, lettera c)) che "Le seguenti disposizioni inerenti alla costituzione del Corpo unico della Sanita' militare e al relativo transito del personale sanitario proveniente dalle Forze armate e dall'Arma dei carabinieri hanno effetto contestualmente a decorrere dal 1° gennaio 2027:   
+[...]   
+c) articoli 6, 7, 8, 9, 10, 11 e 12".
+
 ### Art. 1072-ter
 
-(( (Ricostruzione della carriera in determinate situazioni per il personale dell'Esercito italiano, della Marina militare, dell'Aeronautica militare e dell'Arma dei Carabinieri). ))
+  
+( Ricostruzione della carriera in determinate situazioni per il personale dell'Esercito italiano, della Marina militare, dell'Aeronautica militare
 
-((
+(( , dell'Arma dei carabinieri e della Sanita' militare ))
 
-1. Al personale militare, che ha ricoperto o ricopre incarichi non a termine presso altre pubbliche amministrazioni, per i quali e' prevista dalla legge o da altra fonte normativa la ricostruzione della carriera all'atto del rientro nell'amministrazione di appartenenza, salvo sussistano motivi ostativi previsti dalla legislazione vigente, e' conferita la promozione:
+).
 
-a) fino al grado di tenente colonnello e corrispondenti con la medesima decorrenza attribuita al primo dei militari promossi che lo avrebbe seguito nei ruoli di provenienza;
+((138))
 
-b) al grado di colonnello o di generale di brigata e corrispondenti qualora, oltre al possesso dei requisiti previsti dalle specifiche disposizioni normative, il medesimo personale abbia rivestito nei predetti incarichi la qualifica di dirigente di seconda fascia, rispettivamente, di livello intermedio o iniziale ovvero di quello apicale o superiore o equiparate, con la medesima decorrenza attribuita al primo dei militari promossi che lo avrebbe seguito nei ruoli di provenienza.
+  
+  
+1. Al personale militare, che ha ricoperto o ricopre incarichi non a termine presso altre pubbliche amministrazioni, per i quali e' prevista dalla legge o da altra fonte normativa la ricostruzione della carriera all'atto del rientro nell'amministrazione di appartenenza, salvo sussistano motivi ostativi previsti dalla legislazione vigente, e' conferita la promozione:   
+a) fino al grado di tenente colonnello e corrispondenti con la medesima decorrenza attribuita al primo dei militari promossi che lo avrebbe seguito nei ruoli di provenienza;   
+b) al grado di colonnello o di generale di brigata e corrispondenti qualora, oltre al possesso dei requisiti previsti dalle specifiche disposizioni normative, il medesimo personale abbia rivestito nei predetti incarichi la qualifica di dirigente di seconda fascia, rispettivamente, di livello intermedio o iniziale ovvero di quello apicale o superiore o equiparate, con la medesima decorrenza attribuita al primo dei militari promossi che lo avrebbe seguito nei ruoli di provenienza.   
+2. Gli ufficiali di cui al comma 1 sono riposizionati in ruolo in posizione immediatamente antecedente a quella conseguita dal pari aliquota promosso che ha ottenuto il miglior posizionamento tra coloro che lo seguivano nel ruolo e nel grado di provenienza.   
+3. Al rientro nell'amministrazione di appartenenza, il periodo di servizio prestato con l'incarico di generale di divisione o gradi corrispondenti presso altre pubbliche amministrazioni costituisce elemento di valutazione ai fini della nomina a generale di corpo d'armata e gradi corrispondenti.   
+4. Le disposizioni del presente articolo non si applicano in relazione al servizio prestato nel contingente speciale del personale addetto al Dipartimento delle informazioni per la sicurezza e ai servizi di informazione per la sicurezza di cui all'[articolo 21 della legge 3 agosto 2007, n. 124](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2007-08-03;124~art21).   
+  
 
-2. Gli ufficiali di cui al comma 1 sono riposizionati in ruolo in posizione immediatamente antecedente a quella conseguita dal pari aliquota promosso che ha ottenuto il miglior posizionamento tra coloro che lo seguivano nel ruolo e nel grado di provenienza.
+---------------
 
-3. Al rientro nell'amministrazione di appartenenza, il periodo di servizio prestato con l'incarico di generale di divisione o gradi corrispondenti presso altre pubbliche amministrazioni costituisce elemento di valutazione ai fini della nomina a generale di corpo d'armata e gradi corrispondenti.
+AGGIORNAMENTO (138)
 
-4. Le disposizioni del presente articolo non si applicano in relazione al servizio prestato nel contingente speciale del personale addetto al Dipartimento delle informazioni per la sicurezza e ai servizi di informazione per la sicurezza di cui all'[articolo 21 della legge 3 agosto 2007, n. 124](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2007-08-03;124~art21).
-
-))
+Il [D.Lgs. 3 aprile 2026, n. 74](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2026-04-03;74) ha disposto (con l'art. 20, comma 2, lettera c)) che "Le seguenti disposizioni inerenti alla costituzione del Corpo unico della Sanita' militare e al relativo transito del personale sanitario proveniente dalle Forze armate e dall'Arma dei carabinieri hanno effetto contestualmente a decorrere dal 1° gennaio 2027:   
+[...]   
+c) articoli 6, 7, 8, 9, 10, 11 e 12".
 
 ### Art. 1073
 
@@ -19865,11 +21326,21 @@ CAPO CCXX - SEZIONE IV PROMOZIONI ALL'ATTO DEL COLLOCAMENTO IN CONGEDO
 
 Personale militare che cessa dal servizio per infermita'
 
-1. Ai militarideceduti o divenuti permanentemente inidonei al servizio per ferite, lesioni o malattie riportate in servizio e per causa di servizio durante l'impiego in attivita' operative o addestrative, e' attribuita la promozione al grado superiore il giorno precedente la cessazione dal servizio, previo parere favorevole della competente commissione d'avanzamento, che tiene conto delle circostanze nelle quali si e' verificato l'evento. La promozione e' attribuita anche oltre il grado massimo previsto per il ruolo.
+1. Ai militarideceduti o divenuti permanentemente inidonei al servizio per ferite, lesioni o malattie riportate in servizio e per causa di servizio durante l'impiego in attivita' operative o addestrative, e' attribuita la promozione al grado superiore il giorno precedente la cessazione dal servizio, previo parere favorevole della competente commissione d'avanzamento, che tiene conto delle circostanze nelle quali si e' verificato l'evento. La promozione e' attribuita anche oltre il grado massimo previsto per il ruolo. Ai luogotenenti, e gradi corrispondenti, puo' essere attribuita la promozione al grado di sottotenente e corrispondenti, dei ruoli speciali degli ufficiali dell'Esercito italiano, della Marina militare
 
-((Ai luogotenenti, e gradi corrispondenti, puo' essere attribuita la promozione al grado di sottotenente e corrispondenti, dei ruoli speciali degli ufficiali dell'Esercito italiano, della Marina militare e dell'Aeronautica militare per il personale delle Forze armate e nel ruolo normale per il personale dell'Arma dei carabinieri.))
+((, dell'Aeronautica militare e della Sanita' militare per il personale delle Forze armate e del Corpo unico della Sanita' militare))
 
-Se la promozione comporta la corresponsione di un trattamento economico inferiore a quello in godimento, all'interessato e' attribuito un assegno personale pensionabile pari alla differenza tra il trattamento economico in godimento e quello spettante nel nuovo grado.
+e nel ruolo normale per il personale dell'Arma dei carabinieri. Se la promozione comporta la corresponsione di un trattamento economico inferiore a quello in godimento, all'interessato e' attribuito un assegno personale pensionabile pari alla differenza tra il trattamento economico in godimento e quello spettante nel nuovo grado.
+
+((138))
+
+---------------
+
+AGGIORNAMENTO (138)
+
+Il [D.Lgs. 3 aprile 2026, n. 74](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2026-04-03;74) ha disposto (con l'art. 20, comma 2, lettera c)) che "Le seguenti disposizioni inerenti alla costituzione del Corpo unico della Sanita' militare e al relativo transito del personale sanitario proveniente dalle Forze armate e dall'Arma dei carabinieri hanno effetto contestualmente a decorrere dal 1° gennaio 2027:   
+[...]   
+c) articoli 6, 7, 8, 9, 10, 11 e 12".
 
 ### Art. 1084-bis
 
@@ -20045,13 +21516,35 @@ Il [D.L. 30 dicembre 2021, n. 228](http://www.normattiva.it/uri-res/N2Ls?urn:nir
 
 ### Art. 1094-bis
 
-(( (Attribuzione del grado di vertice per alcuni ruoli). ))
+(Attribuzione del grado di vertice per alcuni ruoli)
 
-((
+1. All'ufficiale piu' anziano appartenente ai ruoli normali dell'Arma dei trasporti e dei materiali, del Corpo di commissariato
 
-1. All'ufficiale piu' anziano appartenente ai ruoli normali dell'Arma dei trasporti e dei materiali, del Corpo di commissariato e del Corpo sanitario dell'Esercito italiano, del Corpo sanitario militare marittimo e del Corpo di commissariato militare marittimo della Marina militare, delle Armi dell'Aeronautica militare, del Corpo di commissariato aeronautico e del Corpo sanitario aeronautico dell'Aeronautica militare, che ha maturato un periodo di permanenza minima pari a un anno nel grado di maggior generale o grado corrispondente, previo giudizio di idoneita' all'avanzamento, espresso dalla commissione di vertice della Forza armata di appartenenza, ai sensi dell'articolo 1058, comma 2, e secondo le modalita' di cui all'articolo 710 del regolamento, e' conferito il grado di tenente generale o grado corrispondente.
+((...))
 
-2. Il conferimento e' effettuato in sovrannumero rispetto alle dotazioni organiche previste dal presente codice per il grado di generale di corpo d'armata o grado corrispondente e, in deroga all'articolo 1078, non da' luogo a vacanza organica nel grado di maggior generale o grado corrispondente))
+e del Corpo di commissariato militare marittimo della Marina militare, delle Armi dell'Aeronautica militare, del Corpo di commissariato aeronautico
+
+((...))
+
+dell'Aeronautica militare, che ha maturato un periodo di permanenza minima pari a un anno nel grado di maggior generale o grado corrispondente, previo giudizio di idoneita' all'avanzamento, espresso dalla commissione di vertice della Forza armata di appartenenza, ai sensi dell'articolo 1058, comma 2, e secondo le modalita' di cui all'articolo 710 del regolamento, e' conferito il grado di tenente generale o grado corrispondente.
+
+((138))
+
+1-bis. 
+
+((Al maggiore generale piu' anziano appartenente al Corpo unico della Sanita' militare che ha maturato un periodo di permanenza minima nel grado pari a un anno e' conferito il grado di tenente generale, previo giudizio di idoneita' all'avanzamento, espresso dalla commissione di vertice, ai sensi dell'articolo 1058, comma 2, e secondo le modalita' di cui all'articolo 710 del regolamento. Ferma restando la posizione del Direttore della Sanita' militare, il numero massimo di ufficiali in servizio con il grado di vertice attribuito ai sensi del presente articolo non puo' superare le tre unita'.))
+
+((138))
+
+2. Il conferimento e' effettuato in sovrannumero rispetto alle dotazioni organiche previste dal presente codice per il grado di generale di corpo d'armata o grado corrispondente e, in deroga all'articolo 1078, non da' luogo a vacanza organica nel grado di maggior generale o grado corrispondente.
+
+-------------
+
+AGGIORNAMENTO (138)
+
+Il [D.Lgs. 3 aprile 2026, n. 74](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2026-04-03;74), ha disposto (con l'art. 20, comma 2, lettera c)) che "Le seguenti disposizioni inerenti alla costituzione del Corpo unico della Sanita' militare e al relativo transito del personale sanitario proveniente dalle Forze armate e dall'Arma dei carabinieri hanno effetto contestualmente a decorrere dal 1° gennaio 2027:   
+[...]   
+c) articoli 6, 7, 8, 9, 10, 11 e 12;".
 
 ### Art. 1095
 
@@ -20075,35 +21568,23 @@ b) essere in possesso dei titoli e aver superato gli esami e i corsi stabiliti c
 
 5. Il periodo di attribuzioni specifiche prescritto ai fini dell'avanzamento deve essere compiuto nell'esercizio di funzioni proprie del ruolo di appartenenza.
 
-6. I periodi di comando, di attribuzioni specifiche, di servizio e di imbarco possono essere compiuti anche in incarichi equipollenti a quelli indicati, determinati con decreto
+-------------
 
-((adottato dal Ministro della difesa su proposta del Capo di stato maggiore della difesa, sentito il Capo di stato maggiore di Forza armata, e, per l'Arma dei carabinieri, su proposta del Comandante generale, inoltrata tramite il Capo di stato maggiore della difesa))
+AGGIORNAMENTO (138)
 
-.
+Il [D.Lgs. 3 aprile 2026, n. 74](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2026-04-03;74), ha disposto (con l'art. 20, comma 2, lettera c)) che "Le seguenti disposizioni inerenti alla costituzione del Corpo unico della Sanita' militare e al relativo transito del personale sanitario proveniente dalle Forze armate e dall'Arma dei carabinieri hanno effetto contestualmente a decorrere dal 1° gennaio 2027:   
+[...]   
+c) articoli 6, 7, 8, 9, 10, 11 e 12;".
 
 ### Art. 1097
 
 Forme di avanzamento
 
-1. L'avanzamento degli ufficiali
+1. L'avanzamento degli ufficiali dell'Esercito italiano, della Marina militare e dell'Aeronautica militare avviene:
 
-((dell'Esercito italiano, della Marina militare e dell'Aeronautica militare))
+a) ad anzianita', per i gradi di tenente, capitano e tenente colonnello e gradi corrispondenti;
 
-avviene:
-
-a) ad anzianita', per i gradi di tenente, capitano
-
-((...))
-
-e tenente colonnello e gradi corrispondenti;
-
-b) a scelta, per i gradi di maggiore,
-
-((...))
-
-colonnello, generale di brigata, generale di divisione e generale di corpo d'armata e gradi corrispondenti.
-
-((
+b) a scelta, per i gradi di maggiore, colonnello, generale di brigata, generale di divisione e generale di corpo d'armata e gradi corrispondenti.
 
 1-bis. L'avanzamento degli ufficiali dell'Arma dei carabinieri avviene:
 
@@ -20111,19 +21592,39 @@ a) ad anzianita', per i gradi di tenente e capitano;
 
 b) a scelta, per i gradi di maggiore, tenente colonnello, colonnello, generale di brigata, generale di divisione e generale di corpo d'armata.
 
-))
+-------------
+
+AGGIORNAMENTO (138)
+
+Il [D.Lgs. 3 aprile 2026, n. 74](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2026-04-03;74), ha disposto (con l'art. 20, comma 2, lettera c)) che "Le seguenti disposizioni inerenti alla costituzione del Corpo unico della Sanita' militare e al relativo transito del personale sanitario proveniente dalle Forze armate e dall'Arma dei carabinieri hanno effetto contestualmente a decorrere dal 1° gennaio 2027:   
+[...]   
+c) articoli 6, 7, 8, 9, 10, 11 e 12;".
 
 ### Art. 1098
 
 Mancato superamento di corsi ed esami prescritti ai fini dell'avanzamento
 
-1. Gli ufficiali dell'Esercito italiano, della Marina militare e dell'Aeronautica militare che non superano i corsi e gli esami prescritti ai fini dell'avanzamento sono ammessi a ripeterli. Se non li superano nuovamente, possono richiedere, a domanda, di ripeterli per una sola volta dopo che sono trascorsi almeno tre anni dal mancato superamento.
+1. Gli ufficiali dell'Esercito italiano, della Marina militare
+
+((, dell'Aeronautica militare e della Sanita' militare))
+
+che non superano i corsi e gli esami prescritti ai fini dell'avanzamento sono ammessi a ripeterli. Se non li superano nuovamente, possono richiedere, a domanda, di ripeterli per una sola volta dopo che sono trascorsi almeno tre anni dal mancato superamento.
+
+((138))
 
 2. Gli ufficiali fino al grado di maggiore compreso che non superano le ulteriori prove concesse ai sensi del comma 1 sono inclusi nelle aliquote di valutazione per l'avanzamento non appena sono in possesso dei seguenti requisiti minimi:
 
 a) per la promozione a maggiore e gradi corrispondenti, undici anni di permanenza nel grado di capitano e diciotto anni di anzianita' di servizio;
 
 b) per la promozione a tenente colonnello e gradi corrispondenti, cinque anni di permanenza nel grado e ventidue anni di anzianita' di servizio.
+
+-------------
+
+AGGIORNAMENTO (138)
+
+Il [D.Lgs. 3 aprile 2026, n. 74](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2026-04-03;74), ha disposto (con l'art. 20, comma 2, lettera c)) che "Le seguenti disposizioni inerenti alla costituzione del Corpo unico della Sanita' militare e al relativo transito del personale sanitario proveniente dalle Forze armate e dall'Arma dei carabinieri hanno effetto contestualmente a decorrere dal 1° gennaio 2027:   
+[...]   
+c) articoli 6, 7, 8, 9, 10, 11 e 12;".
 
 ### Art. 1099
 
@@ -21143,6 +22644,24 @@ CAPO CCLII - ((...))
 
 ((ARTICOLO ABROGATO DAL [D.LGS. 28 GENNAIO 2014, N. 8](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2014-01-28;8)))
 
+### Art. 1239-bis
+
+(( (Dotazioni organiche e profili di carriera degli ufficiali del Corpo unico della Sanita' militare).))
+
+1. 
+
+((Le dotazioni organiche e i profili di carriera degli ufficiali dei ruoli normali e speciali del Corpo unico della Sanita' militare sono stabiliti dalla tabella 4-bis allegata al presente codice.))
+
+((138))
+
+-------------
+
+AGGIORNAMENTO (138)
+
+Il [D.Lgs. 3 aprile 2026, n. 74](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2026-04-03;74), ha disposto (con l'art. 20, comma 2, lettera c)) che "Le seguenti disposizioni inerenti alla costituzione del Corpo unico della Sanita' militare e al relativo transito del personale sanitario proveniente dalle Forze armate e dall'Arma dei carabinieri hanno effetto contestualmente a decorrere dal 1° gennaio 2027:   
+[...]   
+c) articoli 6, 7, 8, 9, 10, 11 e 12;".
+
 CAPO CCLIII - CAPO XI AVANZAMENTO DEGLI UFFICIALI AUSILIARI SEZIONE I UFFICIALI IN FERMA PREFISSATA E DELLE FORZE DI COMPLETAMENTO
 ----------------------------------------------------------------------------------------------------------------------------------
 
@@ -21438,19 +22957,30 @@ a) capitano di corvetta, tenente di vascello e sottotenente di vascello del Corp
 
 b) capitano di corvetta, tenente di vascello e sottotenente di vascello del Corpo del genio della Marina: 1 anno di imbarco o di servizio tecnico;(37)
 
-c) capitano di corvetta, tenente di vascello e sottotenente di vascello del Corpo sanitario marittimo, del Corpo di commissariato marittimo e del Corpo delle capitanerie di porto: 1 anno di servizio;(37)
+c) capitano di corvetta, tenente di vascello e sottotenente di vascello
 
-d)
+((...))
 
-((LETTERA SOPPRESSA DAL [D.LGS. 26 APRILE 2016, N. 91](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2016-04-26;91)))
+, del Corpo di commissariato marittimo e del Corpo delle capitanerie di porto: 1 anno di servizio;(37)
 
-.
+((138))
+
+d) LETTERA SOPPRESSA DAL [D.LGS. 26 APRILE 2016, N. 91](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2016-04-26;91).
 
 ----------------
 
 AGGIORNAMENTO (37)
 
-Il [D.Lgs. 26 aprile 2016, n. 91](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2016-04-26;91) ha disposto (con l'art. 2, comma 1, alinea) che le presenti modifiche si applicano a decorrere dal 1° gennaio 2017.
+Il [D.Lgs. 26 aprile 2016, n. 91](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2016-04-26;91) ha disposto (con l'art. 2, comma 1,  
+alinea) che le presenti modifiche si applicano a decorrere dal 1° gennaio 2017.
+
+-------------
+
+AGGIORNAMENTO (138)
+
+Il [D.Lgs. 3 aprile 2026, n. 74](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2026-04-03;74), ha disposto (con l'art. 20, comma 2, lettera c)) che "Le seguenti disposizioni inerenti alla costituzione del Corpo unico della Sanita' militare e al relativo transito del personale sanitario proveniente dalle Forze armate e dall'Arma dei carabinieri hanno effetto contestualmente a decorrere dal 1° gennaio 2027:   
+[...]   
+c) articoli 6, 7, 8, 9, 10, 11 e 12;".
 
 ### Art. 1265
 
@@ -21538,6 +23068,31 @@ d) sottotenente: corso di aggiornamento per ufficiali subalterni ovvero compimen
 
 ))
 
+### Art. 1269-bis
+
+(( (Ufficiali della Sanita' militare).))
+
+1. 
+
+((I titoli richiesti ai fini dell'avanzamento degli ufficiali di complemento del Corpo unico della Sanita' militare, in relazione al grado sono i seguenti:   
+a) maggiore: dieci anni di esercizio della professione nella vita civile;   
+b) capitano: otto anni di esercizio della professione nella vita civile;   
+c) tenente: quattro anni di esercizio della professione nella vita civile.))
+
+2. 
+
+((In sostituzione delle condizioni di cui al comma 1, gli ufficiali dei vari gradi ai fini dell'avanzamento devono svolgere un anno di servizio.))
+
+((138))
+
+-------------
+
+AGGIORNAMENTO (138)
+
+Il [D.Lgs. 3 aprile 2026, n. 74](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2026-04-03;74), ha disposto (con l'art. 20, comma 2, lettera c)) che "Le seguenti disposizioni inerenti alla costituzione del Corpo unico della Sanita' militare e al relativo transito del personale sanitario proveniente dalle Forze armate e dall'Arma dei carabinieri hanno effetto contestualmente a decorrere dal 1° gennaio 2027:   
+[...]   
+c) articoli 6, 7, 8, 9, 10, 11 e 12;".
+
 CAPO CCLIX - SEZIONE V UFFICIALI DELLA RISERVA
 ----------------------------------------------
 
@@ -21570,32 +23125,37 @@ CAPO CCLX - CAPO XIII AVANZAMENTO DEI SOTTUFFICIALI DELL'ESERCITO ITALIANO,DELLA
 
 Avanzamento a scelta
 
-1. L'avanzamento a scelta
+1. L'avanzamento a scelta del personale appartenente ai ruoli dei marescialli dell'Esercito italiano, della Marina militare
 
-((del personale appartenente ai ruoli dei marescialli))
+((, dell'Aeronautica militare e della Sanita' militare))
 
-dell'Esercito italiano, della Marina militare e dell'Aeronautica militare avviene secondo le modalita' e le valutazioni di cui all'articolo 1059.
+avviene secondo le modalita' e le valutazioni di cui all'articolo 1059.
 
-2. Fatta eccezione per quanto previsto all'articolo 1282, nell'avanzamento a scelta, le promozioni da conferire sono cosi' determinate:   
+((138))
 
-((a) il primo terzo del personale iscritto nel quadro d'avanzamento a scelta, e' promosso al grado superiore in ordine di ruolo con decorrenza dal 1° luglio dell'anno di inserimento in aliquota;))
+2. Fatta eccezione per quanto previsto all'articolo 1282, nell'avanzamento a scelta, le promozioni da conferire sono cosi' determinate:
 
-  
+a) il primo terzo del personale iscritto nel quadro d'avanzamento a scelta, e' promosso al grado superiore in ordine di ruolo con decorrenza dal 1° luglio dell'anno di inserimento in aliquota;
+
 b) il restante personale e' sottoposto a seconda valutazione per l'avanzamento all'epoca della formazione delle corrispondenti aliquote di scrutinio dell'anno successivo. Di essi:   
 1) la prima meta' e' promossa in ordine di ruolo, previa nuova valutazione, con un anno di ritardo rispetto al personale di cui alla lettera a), prendendo posto nel ruolo dopo il primo terzo del personale da promuovere in prima valutazione nello stesso anno ai sensi della medesima lettera a);   
 2) la seconda meta' e' promossa in ordine di ruolo, previa nuova valutazione, con due anni di ritardo rispetto al personale di cui alla lettera a), prendendo posto nel ruolo dopo il personale da promuovere in seconda valutazione nello stesso anno.
 
-((
-
 2-bis. Per il personale appartenente al ruolo dei marescialli dell'Aeronautica militare, le procedure di avanzamento a scelta si effettuano distintamente nell'ambito di ciascuna categoria e specialita' con l'attribuzione delle relative promozioni secondo il criterio di proporzionalita', assicurando almeno una promozione per specialita'.
-
-))
 
 3. Ogni sottufficiale e' comunque promosso in data non anteriore a quella di promozione del pari grado che lo precede.
 
 4. Il personale escluso dalle aliquote di valutazione per i motivi di cui all'articolo 1051, nell'avanzamento a scelta, prende posto, se idoneo, a seconda del punteggio globale attribuito, nella graduatoria di merito dei pari grado con i quali sarebbe stato valutato in assenza delle cause impeditive, ed e' promosso secondo le modalita' indicate nei precedenti commi.
 
 5. COMMA ABROGATO DAL [D.LGS. 29 MAGGIO 2017, N. 94](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2017-05-29;94).
+
+-------------
+
+AGGIORNAMENTO (138)
+
+Il [D.Lgs. 3 aprile 2026, n. 74](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2026-04-03;74), ha disposto (con l'art. 20, comma 2, lettera c)) che "Le seguenti disposizioni inerenti alla costituzione del Corpo unico della Sanita' militare e al relativo transito del personale sanitario proveniente dalle Forze armate e dall'Arma dei carabinieri hanno effetto contestualmente a decorrere dal 1° gennaio 2027:   
+[...]   
+c) articoli 6, 7, 8, 9, 10, 11 e 12;".
 
 ### Art. 1274
 
@@ -21741,7 +23301,11 @@ a) nocchieri, specialisti del sistema di combattimento, specialisti del sistema 
 
 b) tecnici del sistema di combattimento: 6 anni;
 
-c) supporto e servizio amministrativo/logistico, servizio sanitario: 3 anni;
+c) supporto e servizio amministrativo/logistico
+
+((...))
+
+: 3 anni;
 
 d) incursori, fucilieri di marina, palombari, specialisti di volo: 6 anni.
 
@@ -21751,13 +23315,15 @@ a) nocchieri, specialisti del sistema di combattimento, specialisti del sistema 
 
 b) tecnici del sistema di combattimento: 7 anni;
 
-c) supporto e servizio amministrativo/logistico, servizio sanitario: 4 anni;
+c) supporto e servizio amministrativo/logistico
+
+((...))
+
+: 4 anni;
 
 d) nocchieri di porto: 3 anni;
 
 e) incursori, fucilieri di marina, palombari, specialisti di volo: 7 anni.
-
-((
 
 4. I periodi minimi di imbarco per l'avanzamento da primo maresciallo a luogotenente della Marina militare, in relazione alla categoria o specialita' o specializzazione di appartenenza, sono cosi' determinati:
 
@@ -21769,23 +23335,21 @@ c) nocchieri di porto: 6 anni;
 
 d) incursori, fucilieri di marina, palombari, specialisti di volo: 8 anni.
 
-))
-
 4-bis. Per le categorie e specialita' di cui ai commi 2, lettera d), 3, lettera e), e 4, lettera d), i relativi periodi minimi indicati possono essere svolti anche in reparti operativi, definiti dall'ordinamento di Forza armata.
-
-((
 
 4-ter. Per i marescialli della categoria tecnici del sistema di combattimento specialita' operatore elaborazione automatica dati, i periodi minimi indicati ai commi 2, lettera b), 3, lettera b) e 4, lettera b), sono ridotti rispettivamente a 3 anni, 4 anni e 4 anni.
 
 4-quater. L'eventuale modifica della suddivisione in categorie, specialita' e abilitazioni, che comporta il transito di una specialita' ad un'altra categoria con periodi minimi di imbarco diversi da quelli previsti per la categoria di provenienza, determina l'applicazione, ai fini dell'avanzamento, dei periodi minimi di imbarco piu' favorevoli.
 
-))
-
-((
-
 5. I periodi indicati si intendono comprensivi degli anni di imbarco ovvero di reparti operativi effettuati nei gradi precedenti, anche in ruoli diversi e in ferma.
 
-))
+-------------
+
+AGGIORNAMENTO (138)
+
+Il [D.Lgs. 3 aprile 2026, n. 74](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2026-04-03;74), ha disposto (con l'art. 20, comma 2, lettera c)) che "Le seguenti disposizioni inerenti alla costituzione del Corpo unico della Sanita' militare e al relativo transito del personale sanitario proveniente dalle Forze armate e dall'Arma dei carabinieri hanno effetto contestualmente a decorrere dal 1° gennaio 2027:   
+[...]   
+c) articoli 6, 7, 8, 9, 10, 11 e 12;".
 
 ### Art. 1281
 
@@ -21799,9 +23363,13 @@ b) da maresciallo di 1^ classe a primo maresciallo: 4 anni di impiego in incaric
 
 ### Art. 1282
 
-(( (Avanzamento a scelta al grado di luogotenente per il personale militare dell'Esercito italiano, della Marina militare e dell'Aeronautica militare). ))
+(Avanzamento a scelta al grado di luogotenente per il personale militare dell'Esercito italiano, della Marina militare
 
-((
+((, dell'Aeronautica militare e della Sanita' militare) ))
+
+.
+
+((138))
 
 1. All'avanzamento a scelta al grado di luogotenente sono ammessi i primi marescialli:
 
@@ -21811,13 +23379,25 @@ b) iscritti nei quadri di avanzamento e non promossi.
 
 2. I primi marescialli giudicati idonei e iscritti nel quadro d'avanzamento a scelta sono promossi al grado superiore, nell'ordine della graduatoria di merito, nel limite dei posti disponibili di cui al successivo comma 3.
 
-3. Il numero delle promozioni da conferire annualmente e' stabilito in misura non superiore a 1/47 dell'organico dei rispettivi ruoli dei marescialli dell'Esercito italiano, della Marina militare e dell'Aeronautica militare, di cui all'articolo 798-bis, comma 1, ovvero di quelli previsti nel decreto di cui all'articolo 2207.
+3. Il numero delle promozioni da conferire annualmente e' stabilito in misura non superiore a 1/47 dell'organico dei rispettivi ruoli dei marescialli dell'Esercito italiano, della Marina militare
+
+((, dell'Aeronautica militare e della Sanita' militare))
+
+, di cui all'articolo 798-bis, comma 1, ovvero di quelli previsti nel decreto di cui all'articolo 2207.
+
+((138))
 
 4. La commissione di cui all'articolo 1047 valuta i primi marescialli di cui al comma 1, secondo i criteri stabiliti dall'articolo 1059.
 
 5. Il conferimento del grado decorre dal giorno successivo a quello del compimento del periodo minimo di permanenza previsto all'articolo 1278, comma 1, lettera b).
 
-))
+-------------
+
+AGGIORNAMENTO (138)
+
+Il [D.Lgs. 3 aprile 2026, n. 74](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2026-04-03;74), ha disposto (con l'art. 20, comma 2, lettera c)) che "Le seguenti disposizioni inerenti alla costituzione del Corpo unico della Sanita' militare e al relativo transito del personale sanitario proveniente dalle Forze armate e dall'Arma dei carabinieri hanno effetto contestualmente a decorrere dal 1° gennaio 2027:   
+[...]   
+c) articoli 6, 7, 8, 9, 10, 11 e 12;".
 
 CAPO CCLXII - SEZIONE III PROFILO DI CARRIERA DEI SERGENTI
 ----------------------------------------------------------
@@ -21826,7 +23406,13 @@ CAPO CCLXII - SEZIONE III PROFILO DI CARRIERA DEI SERGENTI
 
 Articolazione della carriera
 
-1. Lo sviluppo di carriera dei sergenti dell'Esercito italiano, della Marina militare e dell'Aeronautica militare prevede i seguenti gradi gerarchici:
+1. Lo sviluppo di carriera dei sergenti dell'Esercito italiano, della Marina militare
+
+((, dell'Aeronautica militare e della Sanita' militare))
+
+prevede i seguenti gradi gerarchici:
+
+((138))
 
 a) sergente;
 
@@ -21834,11 +23420,21 @@ b) sergente maggiore: secondo capo per la Marina militare;
 
 c) sergente maggiore capo: secondo capo scelto per la Marina militare.
 
-1-bis. Ai sergenti maggiori capi e gradi corrispondenti puo' essere conferita la seguente qualifica:
+1-bis. Ai sergenti maggiori capi e gradi corrispondenti puo' essere conferita la seguente qualifica: sergente maggiore aiutante per l'Esercito italiano
 
-((sergente maggiore aiutante per l'Esercito italiano e l'Aeronautica militare; secondo capo aiutante per la Marina militare))
+((, l'Aeronautica militare e la Sanita' militare))
 
-.
+; secondo capo aiutante per la Marina militare.
+
+((138))
+
+-------------
+
+AGGIORNAMENTO (138)
+
+Il [D.Lgs. 3 aprile 2026, n. 74](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2026-04-03;74), ha disposto (con l'art. 20, comma 2, lettera c)) che "Le seguenti disposizioni inerenti alla costituzione del Corpo unico della Sanita' militare e al relativo transito del personale sanitario proveniente dalle Forze armate e dall'Arma dei carabinieri hanno effetto contestualmente a decorrere dal 1° gennaio 2027:   
+[...]   
+c) articoli 6, 7, 8, 9, 10, 11 e 12;".
 
 ### Art. 1284
 
@@ -21888,15 +23484,19 @@ Condizioni particolari per l'avanzamento dei sergenti della Marina militare
 
 1. Oltre a quanto disposto dall'articolo 1137, ai sergenti della Marina militare si applicano anche i seguenti commi.
 
-((
-
 2. I periodi minimi di imbarco per l'avanzamento da sergente a 2° capo della Marina militare, in relazione alla categoria o specialita' o specializzazione di appartenenza, sono cosi' determinati:
 
 a) nocchieri, specialisti del sistema di combattimento, specialisti del sistema di piattaforma: 5 anni;
 
 b) tecnici del sistema di combattimento: 5 anni;
 
-c) supporto e servizio amministrativo/logistico, servizio sanitario: 4 anni;
+c) supporto e servizio amministrativo/logistico
+
+((...))
+
+: 4 anni;
+
+((138))
 
 d) nocchieri di porto: 2 anni;
 
@@ -21908,23 +23508,31 @@ a) nocchieri, specialisti del sistema di combattimento, specialisti del sistema 
 
 b) tecnici del sistema di combattimento: 7 anni;
 
-c) supporto e servizio amministrativo/logistico, servizio sanitario: 5 anni;
+c) supporto e servizio amministrativo/logistico
+
+((...))
+
+: 5 anni;
+
+((138))
 
 d) nocchieri di porto: 4 anni;
 
 e) incursori, fucilieri di marina, palombari, specialisti di volo: 7 anni.
 
-))
-
 3-bis. Per le categorie e specialita' di cui ai commi 2, lettera e), e 3, lettera e), i relativi periodi minimi indicati possono essere svolti anche in reparti operativi , definiti dall'ordinamento di Forza armata.
 
 4. I periodi indicati si intendono comprensivi degli anni di imbarco ovvero di reparti operativi effettuati nei gradi precedenti, anche in ruoli diversi e in ferma.
 
-((
-
 4-bis. L'eventuale modifica della suddivisione in categorie, specialita' e abilitazioni, che comporta il transito di una specialita' ad un'altra categoria con periodi minimi di imbarco diversi da quelli previsti per la categoria di provenienza, determina l'applicazione, ai fini dell'avanzamento, dei periodi minimi di imbarco piu' favorevoli.
 
-))
+-------------
+
+AGGIORNAMENTO (138)
+
+Il [D.Lgs. 3 aprile 2026, n. 74](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2026-04-03;74), ha disposto (con l'art. 20, comma 2, lettera c)) che "Le seguenti disposizioni inerenti alla costituzione del Corpo unico della Sanita' militare e al relativo transito del personale sanitario proveniente dalle Forze armate e dall'Arma dei carabinieri hanno effetto contestualmente a decorrere dal 1° gennaio 2027:   
+[...]   
+c) articoli 6, 7, 8, 9, 10, 11 e 12;".
 
 ### Art. 1288
 
@@ -22197,41 +23805,37 @@ CAPO CCLXVII - SEZIONE II PROFILO DI CARRIERA DEI VOLONTARI IN SERVIZIO PERMANEN
 
 Articolazione della carriera
 
-1. Lo sviluppo di carriera dei volontari in servizio permanente dell'Esercito italiano, della Marina militare e dell'Aeronautica militare prevede i seguenti gradi gerarchici:
+1. Lo sviluppo di carriera dei volontari in servizio permanente dell'Esercito italiano, della Marina militare
 
-a)
+((, dell'Aeronautica militare e della Sanita' militare))
 
-((graduato))
+prevede i seguenti gradi gerarchici:
 
-o grado corrispondente;
+((138))
 
-b)
+a) graduato o grado corrispondente;
 
-((graduato scelto))
+b) graduato scelto o grado corrispondente;
 
-o grado corrispondente;
+c) graduato capo o grado corrispondente;
 
-c)
+d) primo graduato o grado corrispondente.
 
-((graduato capo))
+1-bis. Ai primi graduati, e gradi corrispondenti, puo' essere conferita la seguente qualifica: graduato aiutante per l'Esercito italiano
 
-o grado corrispondente;
+((, per l'Aeronautica militare e per la Sanita' militare))
 
-d)
+; sottocapo aiutante per la Marina militare.
 
-((primo graduato))
+((138))
 
-o grado corrispondente.
+-------------
 
-1-bis. Ai
+AGGIORNAMENTO (138)
 
-((primi graduati))
-
-, e gradi corrispondenti, puo' essere conferita la seguente qualifica:
-
-((graduato aiutante per l'Esercito italiano e l'Aeronautica militare; sottocapo aiutante per la Marina militare))
-
-.
+Il [D.Lgs. 3 aprile 2026, n. 74](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2026-04-03;74), ha disposto (con l'art. 20, comma 2, lettera c)) che "Le seguenti disposizioni inerenti alla costituzione del Corpo unico della Sanita' militare e al relativo transito del personale sanitario proveniente dalle Forze armate e dall'Arma dei carabinieri hanno effetto contestualmente a decorrere dal 1° gennaio 2027:   
+[...]   
+c) articoli 6, 7, 8, 9, 10, 11 e 12;".
 
 ### Art. 1307
 
@@ -22274,25 +23878,17 @@ o corrispondente.
 ### Art. 1307-bis
 
   
-(Attribuzione della qualifica
+(Attribuzione della qualifica di graduato aiutante e di sottocapo aiutante ai primi graduati e gradi corrispondenti dell'Esercito italiano, della Marina militare
 
-((di graduato aiutante e di sottocapo aiutante))
+((, dell'Aeronautica militare e della Sanita' militare))
 
-ai
+).
 
-((primi graduati))
+((138))
 
-e gradi corrispondenti dell'Esercito italiano, della Marina militare e dell'Aeronautica militare).   
   
-1.Per l'attribuzione della qualifica
-
-((di graduato aiutante e di sottocapo aiutante))
-
-sono inseriti in un'aliquota determinata con decreto dirigenziale al 31 dicembre di ogni anno i
-
-((primi graduati e gradi corrispondenti))
-
-in possesso dei seguenti requisiti:   
+  
+1.Per l'attribuzione della qualifica di graduato aiutante e di sottocapo aiutante sono inseriti in un'aliquota determinata con decreto dirigenziale al 31 dicembre di ogni anno i primi graduati e gradi corrispondenti in possesso dei seguenti requisiti:   
 a) cinque anni di anzianita' di grado;   
 b) assenza delle condizioni di cui all'articolo 1051;   
 c) aver riportato nel triennio precedente alla data di formazione dell'aliquota, in sede di valutazione caratteristica, la qualifica di almeno «superiore alla media» o giudizio equivalente secondo i criteri definiti dalla Direzione generale per il personale militare;   
@@ -22300,15 +23896,16 @@ d) non aver riportato nel biennio precedente alla data di formazione dell'aliquo
 2. La qualifica e' conferita dal giorno successivo a quello del compimento del periodo minimo di anzianita' di grado previsto dal comma 1, lettera a).   
 3. COMMA ABROGATO DAL [D.LGS. 27 DICEMBRE 2019, N. 173](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2019-12-27;173).   
 4. Al personale escluso dalle aliquote di cui al comma 1 per i motivi di cui all'articolo 1051, si applicano, in quanto compatibili, le disposizioni di cui al capo V del titolo VII, in materia di rinnovazione dei giudizi di avanzamento.   
-4-bis. I
+4-bis. I primi graduati e gradi corrispondenti esclusi dalle aliquote per mancanza dei requisiti di cui al comma 1, lettere c) e d), sono inseriti nella prima aliquota successiva alla data di maturazione di tali requisiti e la qualifica di graduato aiutante e di sottocapo aiutante e' conferita a decorrere dal giorno successivo a tale data.   
+  
 
-((primi graduati e gradi corrispondenti))
+-------------
 
-esclusi dalle aliquote per mancanza dei requisiti di cui al comma 1, lettere c) e d), sono inseriti nella prima aliquota successiva alla data di maturazione di tali requisiti e la qualifica
+AGGIORNAMENTO (138)
 
-((di graduato aiutante e di sottocapo aiutante))
-
-e' conferita a decorrere dal giorno successivo a tale data.   
+Il [D.Lgs. 3 aprile 2026, n. 74](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2026-04-03;74), ha disposto (con l'art. 20, comma 2, lettera c)) che "Le seguenti disposizioni inerenti alla costituzione del Corpo unico della Sanita' militare e al relativo transito del personale sanitario proveniente dalle Forze armate e dall'Arma dei carabinieri hanno effetto contestualmente a decorrere dal 1° gennaio 2027:   
+[...]   
+c) articoli 6, 7, 8, 9, 10, 11 e 12;".
 
 ### Art. 1308
 
@@ -22322,21 +23919,33 @@ a) nocchieri, specialisti del sistema di combattimento, specialisti del sistema 
 
 b) tecnici del sistema di combattimento: 6 anni;
 
-c) supporto e servizio amministrativo/logistico, servizio sanitario: 3 anni;
+c) supporto e servizio amministrativo/logistico
+
+((...))
+
+:
+
+((138))
+
+3 anni;
 
 d) incursori, fucilieri di marina, palombari, specialisti di volo: 6 anni.
 
-3. I periodi minimi di imbarco per l'avanzamento da sottocapo di 1^ classe a
-
-((sottocapo scelto))
-
-della Marina militare, in relazione alla categoria o specialita' o specializzazione di appartenenza, sono cosi' determinati:
+3. I periodi minimi di imbarco per l'avanzamento da sottocapo di 1^ classe a sottocapo scelto della Marina militare, in relazione alla categoria o specialita' o specializzazione di appartenenza, sono cosi' determinati:
 
 a) nocchieri, specialisti del sistema di combattimento, specialisti del sistema di piattaforma: 8 anni;
 
 b) tecnici del sistema di combattimento: 7 anni;
 
-c) supporto e servizio amministrativo/logistico, servizio sanitario: 4 anni;
+c) supporto e servizio amministrativo/logistico
+
+((...))
+
+:
+
+((138))
+
+4 anni;
 
 d) nocchieri di porto: 3 anni;
 
@@ -22349,6 +23958,14 @@ e) incursori, fucilieri di marina, palombari, specialisti di volo: 7 anni.
 4-bis. Per i nocchieri di porto di cui al comma 3, lettera d) i relativi periodi possono essere soddisfatti, in tutto o in parte, anche con la permanenza presso uffici territoriali, reparti operativi o componenti specialistiche in incarichi attinenti alla categoria, specialita' e abilitazione di appartenenza.
 
 4-ter. L'eventuale modifica della suddivisione in categorie, specialita' e abilitazioni che comporta il transito di una specialita' ad un'altra categoria, con periodi minimi di imbarco diversi da quelli previsti per la categoria di provenienza, determina l'applicazione, ai fini dell'avanzamento, dei periodi minimi di imbarco piu' favorevoli.
+
+-------------
+
+AGGIORNAMENTO (138)
+
+Il [D.Lgs. 3 aprile 2026, n. 74](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2026-04-03;74), ha disposto (con l'art. 20, comma 2, lettera c)) che "Le seguenti disposizioni inerenti alla costituzione del Corpo unico della Sanita' militare e al relativo transito del personale sanitario proveniente dalle Forze armate e dall'Arma dei carabinieri hanno effetto contestualmente a decorrere dal 1° gennaio 2027:   
+[...]   
+c) articoli 6, 7, 8, 9, 10, 11 e 12;".
 
 ### Art. 1309
 
@@ -22471,9 +24088,23 @@ b) determina l'arma, corpo, ruolo o servizio di assegnazione nei casi di incompa
 
 Forma di avanzamento
 
-1. L'avanzamento di cui ai precedenti articoli ha luogo ad anzianita', senza che occorra determinare aliquota di ruolo e prescindendo dal requisito dell'idoneita' fisica. I militari sono valutati dagli organi competenti, per ciascuna Forza armata, a esprimere giudizi di avanzamento.
+1. L'avanzamento di cui ai precedenti articoli ha luogo ad anzianita', senza che occorra determinare aliquota di ruolo e prescindendo dal requisito dell'idoneita' fisica. I militari sono valutati dagli organi competenti,
+
+((e per la Sanita' militare))
+
+, a esprimere giudizi di avanzamento.
+
+((138))
 
 2. I militari giudicati idonei sono promossi senza iscrizione in quadro di avanzamento con anzianita' corrispondente alla data di compimento dell'anzianita' di grado o del periodo di permanenza nel ruolo o di servizi prescritti.
+
+-------------
+
+AGGIORNAMENTO (138)
+
+Il [D.Lgs. 3 aprile 2026, n. 74](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2026-04-03;74), ha disposto (con l'art. 20, comma 2, lettera c)) che "Le seguenti disposizioni inerenti alla costituzione del Corpo unico della Sanita' militare e al relativo transito del personale sanitario proveniente dalle Forze armate e dall'Arma dei carabinieri hanno effetto contestualmente a decorrere dal 1° gennaio 2027:   
+[...]   
+c) articoli 6, 7, 8, 9, 10, 11 e 12;".
 
 ### Art. 1317
 
@@ -22485,17 +24116,23 @@ Limite alle promozioni per gli ufficiali
 
 Nomina al grado vertice dei ruoli marescialli e ispettori
 
-1. I graduati e i militari di truppa dell'Esercito italiano, della Marina militare, dell'Aeronautica militare e dell'Arma dei carabinieri, in godimento di pensione vitalizia o assegno rinnovabile di prima categoria con diritto agli assegni di superinvalidita' di cui alla lettera A e alla lettera A-bis, numeri 1 e 3, della tabella E), annessa al [decreto del Presidente della Repubblica 23 dicembre 1978, n. 915](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1978-12-23;915), possono, a domanda, conseguire la nomina
+1. I graduati e i militari di truppa dell'Esercito italiano, della Marina militare, dell'Aeronautica militare
 
-((a luogotenente))
+((, della Sanita' militare))
 
-.
+e dell'Arma dei carabinieri, in godimento di pensione vitalizia o assegno rinnovabile di prima categoria con diritto agli assegni di superinvalidita' di cui alla lettera A e alla lettera A-bis, numeri 1 e 3, della tabella E), annessa al [decreto del Presidente della Repubblica 23 dicembre 1978, n. 915](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1978-12-23;915), possono, a domanda, conseguire la nomina a luogotenente.
 
-2. La stessa nomina puo' essere conferita, a domanda, ai sottufficiali che si trovano nelle condizioni di cui al comma 1 e che sono iscritti nel ruolo d'onore con gradi inferiore a quello di
+((138))
 
-((luogotenente))
+2. La stessa nomina puo' essere conferita, a domanda, ai sottufficiali che si trovano nelle condizioni di cui al comma 1 e che sono iscritti nel ruolo d'onore con gradi inferiore a quello di luogotenente.
 
-.
+-------------
+
+AGGIORNAMENTO (138)
+
+Il [D.Lgs. 3 aprile 2026, n. 74](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2026-04-03;74), ha disposto (con l'art. 20, comma 2, lettera c)) che "Le seguenti disposizioni inerenti alla costituzione del Corpo unico della Sanita' militare e al relativo transito del personale sanitario proveniente dalle Forze armate e dall'Arma dei carabinieri hanno effetto contestualmente a decorrere dal 1° gennaio 2027:   
+[...]   
+c) articoli 6, 7, 8, 9, 10, 11 e 12;".
 
 CAPO CCLXX - SEZIONE II PERSONALE DECORATO AL VALOR MILITARE O CIVILE IN SERVIZIO
 ---------------------------------------------------------------------------------
@@ -22551,58 +24188,54 @@ CAPO CCLXXII - SEZIONE II ((PRIMO LUOGOTENENTE E QUALIFICA SPECIALE))
 
 ### Art. 1323
 
-(Attribuzione della qualifica di primo luogotenente ai luogotenenti dell'Esercito italiano, della Marina militare e dell'Aeronautica militare)
+(Attribuzione della qualifica di primo luogotenente ai luogotenenti dell'Esercito italiano, della Marina militare
 
-((1. Per l'attribuzione della qualifica di primo luogotenente sono inseriti in un'aliquota determinata con decreto dirigenziale al 31 dicembre di ogni anno i luogotenenti in possesso dei seguenti requisiti:))
+((, dell'Aeronautica militare e della Sanita' militare))
 
-((alla data di formazione dell'aliquota))
+).
 
-((secondo i criteri definiti dalla Direzione generale per il personale militare))
+((138))
 
-((nel biennio precedente alla data di formazione dell'aliquota))
+1. Per l'attribuzione della qualifica di primo luogotenente sono inseriti in un'aliquota determinata con decreto dirigenziale al 31 dicembre di ogni anno i luogotenenti in possesso dei seguenti requisiti:
+
+a) quattro anni di anzianita' di grado;
+
+b) assenza delle condizioni di cui all'articolo 1051;
+
+c) aver riportato nel triennio precedente alla data di formazione dell'aliquota, in sede di valutazione caratteristica, la qualifica di almeno «eccellente» o giudizio equivalente secondo i criteri definiti dalla Direzione generale per il personale militare;
+
+d) non aver riportato nel biennio precedente alla data di formazione dell'aliquota sanzioni disciplinari piu' gravi della consegna.
 
 2. La qualifica e' conferita dal giorno successivo a quello del compimento del periodo minimo di anzianita' di grado previsto dal comma 1, lettera a).
 
-3. 
+3. COMMA ABROGATO DAL [D.LGS. 27 DICEMBRE 2019, N. 173](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2019-12-27;173).
 
-((COMMA ABROGATO DAL [D.LGS. 27 DICEMBRE 2019, N. 173](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2019-12-27;173)))
-
-.
-
-4. Al personale escluso dalle aliquote di cui
-
-((al comma 1))
-
-per i motivi di cui all'articolo 1051, si applicano, in quanto compatibili, le disposizioni di cui al capo V del titolo VII, in materia di rinnovazione dei giudizi di avanzamento.
-
-((
+4. Al personale escluso dalle aliquote di cui al comma 1 per i motivi di cui all'articolo 1051, si applicano, in quanto compatibili, le disposizioni di cui al capo V del titolo VII, in materia di rinnovazione dei giudizi di avanzamento.
 
 4-bis. I luogotenenti esclusi dalle aliquote per mancanza dei requisiti di cui al comma 1, lettere c) e d), sono inseriti nella prima aliquota successiva alla data di maturazione di tali requisiti e la qualifica speciale e' conferita a decorrere dal giorno successivo a tale data.
 
-))
+-------------
+
+AGGIORNAMENTO (138)
+
+Il [D.Lgs. 3 aprile 2026, n. 74](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2026-04-03;74), ha disposto (con l'art. 20, comma 2, lettera c)) che "Le seguenti disposizioni inerenti alla costituzione del Corpo unico della Sanita' militare e al relativo transito del personale sanitario proveniente dalle Forze armate e dall'Arma dei carabinieri hanno effetto contestualmente a decorrere dal 1° gennaio 2027:   
+[...]   
+c) articoli 6, 7, 8, 9, 10, 11 e 12;".
 
 ### Art. 1323-bis
 
   
-(Attribuzione della qualifica
+(Attribuzione della qualifica di sergente maggiore aiutante o di secondo capo aiutante ai sergenti maggiori capi e gradi corrispondenti dell'Esercito italiano, della Marina militare
 
-((di sergente maggiore aiutante o di secondo capo aiutante))
+((, dell'Aeronautica militare e della Sanita' militare))
 
-ai
+).
 
-((sergenti maggiori capi e gradi corrispondenti))
+((138))
 
-dell'Esercito italiano, della Marina militare e dell'Aeronautica militare).   
   
-1. Per l'attribuzione della qualifica
-
-((di sergente maggiore aiutante o di secondo capo aiutante))
-
-sono inseriti in un'aliquota determinata con decreto dirigenziale al 31 dicembre di ogni anno i sergenti maggiori capi
-
-((e gradi corrispondenti))
-
-in possesso dei seguenti requisiti:   
+  
+1. Per l'attribuzione della qualifica di sergente maggiore aiutante o di secondo capo aiutante sono inseriti in un'aliquota determinata con decreto dirigenziale al 31 dicembre di ogni anno i sergenti maggiori capi e gradi corrispondenti in possesso dei seguenti requisiti:   
 a) sei anni di anzianita' di grado;   
 b) assenza delle condizioni di cui all'articolo 1051;   
 c) aver riportato nel triennio precedente alla data di formazione dell'aliquota, in sede di valutazione caratteristica, la qualifica di almeno «superiore alla media» o giudizio equivalente secondo i criteri definiti dalla Direzione generale per il personale militare;   
@@ -22610,15 +24243,16 @@ d) non aver riportato nel biennio precedente alla data di formazione dell'aliquo
 2. La qualifica e' conferita dal giorno successivo a quello del compimento del periodo minimo di anzianita' di grado di permanenza previsto al comma 1, lettera a).   
 3. COMMA ABROGATO DAL [D.LGS. 27 DICEMBRE 2019, N. 173](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2019-12-27;173).   
 4. Al personale escluso dalle aliquote di cui al comma 1 per i motivi di cui all'articolo 1051, si applicano, in quanto compatibili, le disposizioni di cui al capo V del titolo VII, in materia di rinnovazione dei giudizi di avanzamento.   
-4-bis. I sergenti maggiori capi
+4-bis. I sergenti maggiori capi e gradi corrispondenti esclusi dalle aliquote per mancanza dei requisiti di cui al comma 1, lettere c) e d), sono inseriti nella prima aliquota successiva alla data di maturazione di tali requisiti e la qualifica di sergente maggiore aiutante o di secondo capo aiutante e' conferita a decorrere dal giorno successivo a tale data.   
+  
 
-((e gradi corrispondenti))
+-------------
 
-esclusi dalle aliquote per mancanza dei requisiti di cui al comma 1, lettere c) e d), sono inseriti nella prima aliquota successiva alla data di maturazione di tali requisiti e la qualifica
+AGGIORNAMENTO (138)
 
-((di sergente maggiore aiutante o di secondo capo aiutante))
-
-e' conferita a decorrere dal giorno successivo a tale data.   
+Il [D.Lgs. 3 aprile 2026, n. 74](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2026-04-03;74), ha disposto (con l'art. 20, comma 2, lettera c)) che "Le seguenti disposizioni inerenti alla costituzione del Corpo unico della Sanita' militare e al relativo transito del personale sanitario proveniente dalle Forze armate e dall'Arma dei carabinieri hanno effetto contestualmente a decorrere dal 1° gennaio 2027:   
+[...]   
+c) articoli 6, 7, 8, 9, 10, 11 e 12;".
 
 ### Art. 1324
 
@@ -23388,16 +25022,26 @@ Autorita' competenti a ordinare l'inchiesta formale
 a) al Ministro della difesa se si tratti di:   
 1) ufficiali generali o colonnelli o gradi corrispondenti;   
 2) ufficiali o sottufficiali assegnati a enti, comandi e reparti di altra Forza armata;   
-3) militari corresponsabili appartenenti alla stessa Forza armata, ma dipendenti da autorita' diverse;   
-4) militari corresponsabili appartenenti a Forze armate diverse, anche quando ricorre l'ipotesi di connessione tra i fatti a loro ascritti;
+3) militari corresponsabili appartenenti alla stessa Forza armata
+
+((o al Corpo unico della Sanita' militare))
+
+, ma dipendenti da autorita' diverse;
+
+((138))
+
+  
+4) militari corresponsabili appartenenti a Forze armate diverse
+
+((o al Corpo unico della Sanita' militare))
+
+, anche quando ricorre l'ipotesi di connessione tra i fatti a loro ascritti;
+
+((138))
 
 b) al Capo di stato maggiore della difesa, nell'area di competenza, nei confronti del personale militare dipendente;
 
-((
-
 c) al Segretario generale della difesa o al Direttore nazionale degli armamenti, se militari, ovvero, quando gli stessi rivestono la qualifica dirigenziale civile, al Vice Segretario generale o al Vice direttore nazionale degli armamenti, nei confronti del personale militare dipendente, dell'area tecnico-amministrativa e dell'area tecnico-industriale;
-
-))
 
 d) ai Capi di stato maggiore, sul personale militare in servizio presso reparti e uffici dei rispettivi stati maggiori e organismi centrali di Forza armata;
 
@@ -23407,6 +25051,12 @@ e) al Comandante generale dell'Arma dei carabinieri:
 1) per gli ufficiali dell'Arma dei carabinieri;   
 2) per gli altri militari dell'Arma, se non provvedono le autorita' di cui alle lettere h) e i);
 
+e-bis)
+
+((al Direttore della Sanita' militare, ovvero al Vice direttore della Sanita' militare se il Direttore riveste qualifica dirigenziale civile, per gli ufficiali, i sottufficiali e i volontari in servizio o in congedo del Corpo unico della Sanita' militare;))
+
+((138))
+
 f) ai rispettivi comandanti di Forza armata, di livello gerarchico pari a generale di corpo d'armata o gradi corrispondenti, per gli ufficiali, i sottufficiali e i volontari in servizio dell'Esercito italiano e dell'Aeronautica militare, nonche' agli alti comandanti della Marina militare, per gli ufficiali, i sottufficiali e i volontari in servizio della Marina militare; ai comandanti territoriali di livello gerarchico pari a generale di corpo d'armata e gradi corrispondenti competenti in ragione del luogo di residenza dell'interessato se in congedo;
 
 g) al comandante militare competente a provvedere per il sottufficiale o per il militare di truppa piu' elevato in grado o piu' anziano, se vi e' corresponsabilita' tra sottufficiali o i militari di truppa della stessa Forza armata dipendenti da comandanti militari diversi o residenti in territori di competenza di diversi comandanti militari territoriali, tra quelli sopra considerati;
@@ -23414,6 +25064,14 @@ g) al comandante militare competente a provvedere per il sottufficiale o per il 
 h) ai rispettivi comandanti di vertice, di livello gerarchico pari a generale di corpo d'armata, per gli ispettori e i sovrintendenti dell'Arma dei carabinieri in servizio, o in caso diverso o in mancanza di tale dipendenza, ai comandanti territoriali di livello gerarchico pari a generale di corpo d'armata competenti in ragione del luogo di residenza dell'interessato;
 
 i) ai rispettivi comandanti di corpo per gli appuntati e carabinieri in servizio, o in caso diverso o in mancanza di tale dipendenza, al comandante territoriale di corpo competente in ragione del luogo di residenza dell'interessato. In caso di corresponsabilita' tra piu' appuntati e carabinieri provvede il comandante di corpo del piu' elevato in grado o del piu' anziano. In caso di corresponsabilita' con militari di altre Forze armate si provvede ai sensi della lettera g).
+
+-------------
+
+AGGIORNAMENTO (138)
+
+Il [D.Lgs. 3 aprile 2026, n. 74](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2026-04-03;74), ha disposto (con l'art. 20, comma 2, lettera c)) che "Le seguenti disposizioni inerenti alla costituzione del Corpo unico della Sanita' militare e al relativo transito del personale sanitario proveniente dalle Forze armate e dall'Arma dei carabinieri hanno effetto contestualmente a decorrere dal 1° gennaio 2027:   
+[...]   
+c) articoli 6, 7, 8, 9, 10, 11 e 12;".
 
 ### Art. 1379
 
@@ -23440,15 +25098,17 @@ Composizione delle commissioni di disciplina
 
 a) gli ufficiali che sono Ministri o Sottosegretari di Stato in carica;
 
-b) il Capo di stato maggiore della difesa, i Capi e i Sottocapi di stato maggiore dell'Esercito italiano, della Marina militare e dell'Aeronautica militare, gli ufficiali generali o ammiragli addetti allo Stato maggiore della difesa, agli Stati maggiori dell'Esercito italiano, della Marina militare e dell'Aeronautica militare, il Comandante generale dell'Arma dei carabinieri;
+b) il Capo di stato maggiore della difesa, i Capi e i Sottocapi di stato maggiore dell'Esercito italiano, della Marina militare e dell'Aeronautica militare, gli ufficiali generali o ammiragli addetti allo Stato maggiore della difesa, agli Stati maggiori dell'Esercito italiano, della Marina militare e dell'Aeronautica militare, il Comandante generale dell'Arma dei carabinieri
+
+((, il Direttore della Sanita' militare))
+
+;
+
+((138))
 
 c) gli ufficiali addetti alla Presidenza della Repubblica;
 
-d) gli ufficiali che prestano servizio al Ministero della difesa in qualita' di Segretario generale,
-
-((Direttore nazionale degli armamenti,))
-
-Direttore generale, Capo di Gabinetto, e gli ufficiali addetti al Gabinetto del Ministro o alle segreterie del Ministro e dei Sottosegretari di Stato o alle dirette dipendenze dei Segretari generali;
+d) gli ufficiali che prestano servizio al Ministero della difesa in qualita' di Segretario generale, Direttore nazionale degli armamenti, Direttore generale, Capo di Gabinetto, e gli ufficiali addetti al Gabinetto del Ministro o alle segreterie del Ministro e dei Sottosegretari di Stato o alle dirette dipendenze dei Segretari generali;
 
 e) i militari frequentatori dei corsi presso gli istituti militari;
 
@@ -23460,13 +25120,17 @@ h) i superiori gerarchici alle cui dipendenze il militare ha prestato servizio a
 
 i) l'ufficiale che ha presentato rapporti o eseguito indagini sui fatti che hanno determinato il procedimento disciplinare o che per ufficio ha dato parere in merito o che per ufficio tratta questioni inerenti allo stato, all'avanzamento e alla disciplina del personale;
 
-l) gli ufficiali che in qualsiasi modo hanno avuto parte in un precedente giudizio penale o
-
-((commissione))
-
-di disciplina per lo stesso fatto ovvero sono stati sentiti come testimoni nella questione disciplinare di cui trattasi;
+l) gli ufficiali che in qualsiasi modo hanno avuto parte in un precedente giudizio penale o commissione di disciplina per lo stesso fatto ovvero sono stati sentiti come testimoni nella questione disciplinare di cui trattasi;
 
 m) l'ufficiale sottoposto a procedimento penale o a procedimento disciplinare di stato.
+
+-------------
+
+AGGIORNAMENTO (138)
+
+Il [D.Lgs. 3 aprile 2026, n. 74](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2026-04-03;74), ha disposto (con l'art. 20, comma 2, lettera c)) che "Le seguenti disposizioni inerenti alla costituzione del Corpo unico della Sanita' militare e al relativo transito del personale sanitario proveniente dalle Forze armate e dall'Arma dei carabinieri hanno effetto contestualmente a decorrere dal 1° gennaio 2027:   
+[...]   
+c) articoli 6, 7, 8, 9, 10, 11 e 12;".
 
 ### Art. 1381
 
@@ -23506,25 +25170,47 @@ c) al ruolo naviganti, per gli ufficiali dell'Aeronautica militare;
 
 d) al ruolo normale, per gli ufficiali dell'Arma dei carabinieri.
 
+d-bis)
+
+((al ruolo normale, per gli ufficiali del Corpo unico della Sanita' militare.))
+
+((138))
+
 4. I membri in relazione all'Arma, al Corpo o al ruolo del giudicando, sono scelti:
 
-a) per l'Esercito italiano:  
-1) promiscuamente tra gli ufficiali delle Armi, per gli appartenenti ai ruoli delle Armi;  
+a) per l'Esercito italiano:   
+1) promiscuamente tra gli ufficiali delle Armi, per gli appartenenti ai ruoli delle Armi;   
 2) in numero di due, promiscuamente, tra gli ufficiali delle Armi e in numero di due tra gli ufficiali del Corpo o del ruolo di appartenenza, per gli altri ufficiali;
 
-b) per la Marina militare:  
-1) tra gli ufficiali del Corpo di stato maggiore, per gli appartenenti al medesimo Corpo;  
+b) per la Marina militare:   
+1) tra gli ufficiali del Corpo di stato maggiore, per gli appartenenti al medesimo Corpo;   
 2) in numero di due dal Corpo di stato maggiore e in numero di due dal Corpo di appartenenza, per gli altri ufficiali;
 
-c) per l'Aeronautica militare:  
-1) tra gli ufficiali del ruolo naviganti, per gli appartenenti al medesimo ruolo;  
+c) per l'Aeronautica militare:   
+1) tra gli ufficiali del ruolo naviganti, per gli appartenenti al medesimo ruolo;   
 2) in numero di due dal ruolo naviganti e in numero di due dal ruolo o dal Corpo di appartenenza, per gli altri ufficiali;
 
-d) per l'Arma dei carabinieri:  
-1) tra gli ufficiali del ruolo normale, per gli appartenenti al medesimo ruolo;  
+d) per l'Arma dei carabinieri:   
+1) tra gli ufficiali del ruolo normale, per gli appartenenti al medesimo ruolo;   
 2) in numero di due dal ruolo normale e in numero di due dal ruolo di appartenenza, per gli altri ufficiali.
 
+d-bis)
+
+((per la Sanita' militare:   
+1) tra gli ufficiali del ruolo normale, per gli appartenenti al medesimo ruolo;   
+2) in numero di due dal ruolo normale e in numero di due dal ruolo speciale, per gli ufficiali del ruolo speciale.))
+
+((138))
+
 5. L'ufficiale meno elevato in grado o meno anziano assume le funzioni di segretario.
+
+-------------
+
+AGGIORNAMENTO (138)
+
+Il [D.Lgs. 3 aprile 2026, n. 74](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2026-04-03;74), ha disposto (con l'art. 20, comma 2, lettera c)) che "Le seguenti disposizioni inerenti alla costituzione del Corpo unico della Sanita' militare e al relativo transito del personale sanitario proveniente dalle Forze armate e dall'Arma dei carabinieri hanno effetto contestualmente a decorrere dal 1° gennaio 2027:   
+[...]   
+c) articoli 6, 7, 8, 9, 10, 11 e 12;".
 
 ### Art. 1383
 
@@ -23556,7 +25242,19 @@ b) se il numero dei giudicandi e' superiore a due, ed essi appartengano a due Fo
 
 c) se il numero dei giudicandi e' superiore a due ed essi appartengano a tre Forze armate, sono tratti due membri da ciascuna delle due Forze armate diverse da quella cui appartiene il presidente;
 
-d) se i giudicandi appartengono a piu' di tre Forze armate si prevedono due componenti per Forza armata e il membro della stessa Forza armata del presidente deve essere l'ufficiale meno elevato in grado o meno anziano.
+d)
+
+((se i giudicandi appartengono a piu' di tre Forze armate, e' tratto un membro da ciascuna Forza armata e il componente meno elevato in grado o meno anziano deve essere della stessa Forza armata del presidente ovvero della Forza armata del giudicando di minor grado o di minore anzianita', fermo restando che per ciascun giudicando e' tratto almeno un membro dalla medesima Forza armata.))
+
+((138))
+
+-------------
+
+AGGIORNAMENTO (138)
+
+Il [D.Lgs. 3 aprile 2026, n. 74](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2026-04-03;74), ha disposto (con l'art. 20, comma 2, lettera c)) che "Le seguenti disposizioni inerenti alla costituzione del Corpo unico della Sanita' militare e al relativo transito del personale sanitario proveniente dalle Forze armate e dall'Arma dei carabinieri hanno effetto contestualmente a decorrere dal 1° gennaio 2027:   
+[...]   
+c) articoli 6, 7, 8, 9, 10, 11 e 12;".
 
 ### Art. 1386
 
@@ -24730,6 +26428,24 @@ h) distintivo d'onore per mutilati in servizio;
 i) distintivo d'onore per deceduti in servizio;   
 l) distintivo d'onore per feriti in servizio;   
 m) distintivo d'onore dei Volontari della liberta' previsto dal [decreto luogotenenziale 3 maggio 1945, n. 350](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1945-05-03;350), concesso ai militari deportati nei campi di concentramento tedeschi dopo 1'8 settembre 1943, che rinunciarono alla liberazione e, non collaborando comunque volontariamente ne' con i tedeschi ne' con i fascisti, contribuirono alla lotta di Resistenza.   
+
+### Art. 1464-bis
+
+(( (Disposizioni di coordinamento in materia di disciplina militare per il Corpo unico della Sanita' militare).))
+
+1. 
+
+((Le disposizioni di cui al presente titolo si applicano anche al Corpo unico della Sanita' militare.))
+
+((138))
+
+-------------
+
+AGGIORNAMENTO (138)
+
+Il [D.Lgs. 3 aprile 2026, n. 74](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2026-04-03;74), ha disposto (con l'art. 20, comma 2, lettera c)) che "Le seguenti disposizioni inerenti alla costituzione del Corpo unico della Sanita' militare e al relativo transito del personale sanitario proveniente dalle Forze armate e dall'Arma dei carabinieri hanno effetto contestualmente a decorrere dal 1° gennaio 2027:   
+[...]   
+c) articoli 6, 7, 8, 9, 10, 11 e 12;".
 
 CAPO CCXCVI - TITOLO IX ESERCIZIO DEI DIRITTI CAPO I DISPOSIZIONI GENERALI
 --------------------------------------------------------------------------
@@ -29336,6 +31052,26 @@ Ambito soggettivo di applicazione
 
 1. Al personale dell'Esercito italiano, della Marina militare e dell'Aeronautica militare si applicano le disposizioni contenute nel presente libro.
 
+1-bis. 
+
+((Al personale del Corpo unico della Sanita' militare si applicano le previsioni normative sul trattamento economico, previdenziale, di quiescenza, di assistenza, di benessere, sulle invalidita' di servizio ed esercizio dei diritti sociali previste per il personale di Esercito italiano, Marina militare e Aeronautica militare.))
+
+((138))
+
+1-ter. 
+
+((Per il personale militare transitato nel Corpo unico della Sanita' militare, l'attuazione del comma 1-bis non puo' comportare un trattamento economico, previdenziale e di quiescenza, inferiore a quello che sarebbe spettato nel ruolo di provenienza. Le eventuali differenze retributive sono attribuite sotto forma di assegno ad personam riassorbibile con i futuri miglioramenti economici.))
+
+((138))
+
+-------------
+
+AGGIORNAMENTO (138)
+
+Il [D.Lgs. 3 aprile 2026, n. 74](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2026-04-03;74), ha disposto (con l'art. 20, comma 2, lettera c)) che "Le seguenti disposizioni inerenti alla costituzione del Corpo unico della Sanita' militare e al relativo transito del personale sanitario proveniente dalle Forze armate e dall'Arma dei carabinieri hanno effetto contestualmente a decorrere dal 1° gennaio 2027:   
+[...]   
+c) articoli 6, 7, 8, 9, 10, 11 e 12;".
+
 ### Art. 1777
 
 Rapporti con l'ordinamento generale del lavoro alle dipendenze delle amministrazioni pubbliche
@@ -29395,9 +31131,11 @@ Computo del servizio anteriormente prestato
 
 1. Il servizio militare prestato anteriormente alla nomina a ufficiale, sottufficiale e graduato in servizio permanente, e' computato per intero, agli effetti della determinazione dello stipendio, in base all'anzianita' di servizio; agli stessi effetti, sono computati gli anni corrispondenti alla durata legale del corso di studi universitari, in favore degli ufficiali per la nomina dei quali e' richiesta una laurea o titolo equipollente se non coincidenti con il servizio militare.
 
-2. 
+1-bis. 
 
-((Le disposizioni di cui al comma 1 si applicano anche ai marescialli a valere sulle facolta' assunzionali previste a legislazione vigente.))
+((Le disposizioni))
+
+di cui al comma 1 si applicano anche ai marescialli a valere sulle facolta' assunzionali previste a legislazione vigente.
 
 CAPO CCCLXIX - TITOLO II PERSONALE DI LEVA
 ------------------------------------------
@@ -29987,9 +31725,7 @@ Il [D.Lgs. 29 maggio 2017, n. 94](http://www.normattiva.it/uri-res/N2Ls?urn:nir:
 
 ### Art. 1811
 
-(( (Attribuzione stipendiale). ))
-
-((
+(Attribuzione stipendiale)
 
 1. Agli ufficiali generali e agli ufficiali superiori, nel caso di promozione o maturazione dell'anzianita' di servizio dal conseguimento della nomina a ufficiale o della qualifica di aspirante, lo stipendio nella nuova posizione e' determinato considerando la differenza tra gli anni di servizio computabili e il numero degli anni di seguito indicati per ciascun grado:
 
@@ -30004,7 +31740,15 @@ a) Esercito italiano e Marina militare:
 8) maggiore e gradi corrispondenti con ventitre' anni di servizio dal conseguimento della nomina a ufficiale o della qualifica di aspirante, anni ventiquattro;   
 9) maggiore e gradi corrispondenti con tredici anni di servizio dal conseguimento della nomina a ufficiale o della qualifica di aspirante, anni quindici;
 
-b) Aeronautica militare:   
+b) Aeronautica militare
+
+((e Corpo unico della Sanita' militare))
+
+:
+
+((138))
+
+  
 1) generale di squadra aerea e gradi corrispondenti, anni ventisei;   
 2) generale di divisione aerea e gradi corrispondenti, anni venticinque;   
 3) generale di brigata aerea e gradi corrispondenti, anni ventiquattro;   
@@ -30017,15 +31761,22 @@ b) Aeronautica militare:
 
 2. Le disposizioni di cui al comma 1 non si applicano al grado di generale e ammiraglio di cui all'articolo 628, comma 1, lettera l), per il quale continuano ad applicarsi le disposizioni di cui all'[art. 4, comma 1 del decreto-legge 27 settembre 1982, n. 681](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1982-09-27;681~art4-com1), convertito con modificazioni dalla [legge 20 novembre 1982 n. 869](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1982-11-20;869).
 
-3. Agli ufficiali superiori con piu' di ventitre' anni di servizio dal conseguimento della nomina a ufficiale o della qualifica di aspirante, la suddetta determinazione dello stipendio e' effettuata alla maturazione del venticinquesimo anno di servizio dal conseguimento della nomina a ufficiale o aspirante.))
-
-((44))
+3. Agli ufficiali superiori con piu' di ventitre' anni di servizio dal conseguimento della nomina a ufficiale o della qualifica di aspirante, la suddetta determinazione dello stipendio e' effettuata alla maturazione del venticinquesimo anno di servizio dal conseguimento della nomina a ufficiale o aspirante.   
+(44)
 
 ---------------
 
 AGGIORNAMENTO (44)
 
 Il [D.Lgs. 29 maggio 2017, n. 94](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2017-05-29;94) ha disposto (con l'art. 11, comma 2) che la presente modifica ha effetto a decorrere dal 1° gennaio 2018.
+
+-------------
+
+AGGIORNAMENTO (138)
+
+Il [D.Lgs. 3 aprile 2026, n. 74](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2026-04-03;74), ha disposto (con l'art. 20, comma 2, lettera c)) che "Le seguenti disposizioni inerenti alla costituzione del Corpo unico della Sanita' militare e al relativo transito del personale sanitario proveniente dalle Forze armate e dall'Arma dei carabinieri hanno effetto contestualmente a decorrere dal 1° gennaio 2027:   
+[...]   
+c) articoli 6, 7, 8, 9, 10, 11 e 12;".
 
 ### Art. 1811-bis
 
@@ -30846,13 +32597,15 @@ Navigazione mercantile
 
 ### Art. 1860
 
-((Studi superiori richiesti agli ufficiali e ai marescialli))
+Studi superiori richiesti agli ufficiali e ai marescialli
 
 1. La valutazione degli studi superiori compiuti dagli ufficiali e' effettuata ai sensi dell'[articolo 32 del decreto del Presidente della Repubblica 29 dicembre 1973, n. 1092](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1973-12-29;1092~art32).
 
-1-bis. 
+1-bis. Le disposizioni di cui all'articolo 32 del
 
-((Le disposizioni di cui all'[articolo 32 del decreto del Presidente della Repubblica 29 dicembre 1973, n. 1092](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1973-12-29;1092~art32), si applicano anche per la valutazione degli studi superiori compiuti dai marescialli.))
+((testo unico di cui al))
+
+[decreto del Presidente della Repubblica 29 dicembre 1973, n. 1092](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1973-12-29;1092), si applicano anche per la valutazione degli studi superiori compiuti dai marescialli.
 
 CAPO CCCLXXXVIII - SEZIONE IV COSTITUZIONE DI POSIZIONE ASSICURATIVA
 --------------------------------------------------------------------
@@ -31798,15 +33551,7 @@ CAPO CCCXCVIII - TITOLO V TRATTAMENTO PREVIDENZIALE INTEGRATIVO
 
 Fondi previdenziali integrativi
 
-1. Fermo restando quanto previsto per i dipendenti pubblici dal
-
-(([decreto legislativo 5 dicembre 2005, n. 252](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-12-05;252)))
-
-, in materia di previdenza complementare,
-
-((gli ufficiali, i sottufficiali, i graduati, i sovrintendenti, gli appuntati in servizio permanente e i carabinieri))
-
-sono iscritti d'ufficio ai seguenti fondi previdenziali integrativi, tra loro indipendenti e a gestione separata, amministrati dalla Cassa di previdenza delle Forze armate di cui all'articolo 74 del regolamento:
+1. Fermo restando quanto previsto per i dipendenti pubblici dal [decreto legislativo 5 dicembre 2005, n. 252](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-12-05;252), in materia di previdenza complementare, gli ufficiali, i sottufficiali, i graduati, i sovrintendenti, gli appuntati in servizio permanente e i carabinieri)sono iscritti d'ufficio ai seguenti fondi previdenziali integrativi, tra loro indipendenti e a gestione separata, amministrati dalla Cassa di previdenza delle Forze armate di cui all'articolo 74 del regolamento:
 
 a) fondo di previdenza ufficiali dell'Esercito italiano e dell'Arma dei carabinieri;
 
@@ -31816,39 +33561,33 @@ c) fondo di previdenza ufficiali dell'Aeronautica militare;
 
 d) fondo di previdenza sottufficiali dell'Esercito italiano e dell'Arma dei carabinieri;
 
-e) fondo di previdenza
-
-((sovrintendenti,))
-
-appuntati e carabinieri;
+e) fondo di previdenza sovrintendenti, appuntati e carabinieri;
 
 f) fondo di previdenza sottufficiali della Marina militare;
 
 g) fondo di previdenza sottufficiali dell'Aeronautica militare.
 
-((g-bis) fondo di previdenza graduati dell'Esercito italiano, della Marina militare e dell'Aeronautica militare))
+g-bis) fondo di previdenza graduati dell'Esercito italiano, della Marina militare e dell'Aeronautica militare. (99)
 
-((99))
-
-((1-bis. E' iscritto d'ufficio ai pertinenti fondi di cui al comma 1 anche il personale militare richiamato in servizio ai sensi dell'articolo 806. Il computo degli anni di iscrizione al fondo decorre dalla data di avvenuto richiamo in servizio))
-
-((99))
+1-bis. E' iscritto d'ufficio ai pertinenti fondi di cui al comma 1 anche il personale militare richiamato in servizio ai sensi dell'articolo 806. Il computo degli anni di iscrizione al fondo decorre dalla data di avvenuto richiamo in servizio.(99)
 
 2. L'Ordinario militare, gli ispettori e i cappellani militari in servizio permanente sono iscritti d'ufficio al fondo di previdenza ufficiali dell'Esercito italiano e dell'Arma dei carabinieri.
 
-3. L'iscrizione del personale militare ai fondi viene meno all'atto della cessazione dal servizio permanente, anche in caso di trattenimento o di richiamo in servizio
+2-bis. 
 
-((, salvo quanto previsto dal comma 1-bis))
+((Gli ufficiali, i sottufficiali e i graduati reclutati nel Corpo unico della Sanita' militare sono iscritti d'ufficio rispettivamente al fondo di previdenza ufficiali dell'Esercito italiano e dell'Arma dei carabinieri, al fondo di previdenza sottufficiali dell'Esercito italiano e dell'Arma dei carabinieri e al fondo di previdenza graduati dell'Esercito italiano, della Marina militare e dell'Aeronautica militare.))
 
-.
+((138))
 
-((99))
+2-ter. Gli ufficiali, i sottufficiali e i graduati in servizio transitati nel Corpo unico della Sanita' militare rimangono iscritti ai rispettivi fondi previdenziali integrativi di cui al comma 1.))
 
-((3-bis. L'iscrizione d'ufficio non si attua nei confronti del personale che, in ragione degli anni residui di servizio effettivo, non ha la possibilita' di maturare il diritto all'indennita' supplementare di cui all'articolo 1914, comma 1.))
+((138))
 
-((3-ter. Il personale militare impiegato a tempo indeterminato, ai sensi della [legge 3 agosto 2007, n. 124](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2007-08-03;124), che rientra nel ruolo di provenienza e' iscritto al relativo fondo di previdenza se, in ragione degli anni di servizio residui, puo' maturare il diritto all'indennita' supplementare ai sensi dell'articolo 1914 del presente codice. Il computo degli anni di iscrizione al fondo decorre dalla data di reiscrizione nei ruoli di provenienza))
+3. L'iscrizione del personale militare ai fondi viene meno all'atto della cessazione dal servizio permanente, anche in caso di trattenimento o di richiamo in servizio, salvo quanto previsto dal comma 1-bis.(99)
 
-((99))
+3-bis. L'iscrizione d'ufficio non si attua nei confronti del personale che, in ragione degli anni residui di servizio effettivo, non ha la possibilita' di maturare il diritto all'indennita' supplementare di cui all'articolo 1914, comma 1. (99)
+
+3-ter. Il personale militare impiegato a tempo indeterminato, ai sensi della [legge 3 agosto 2007, n. 124](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2007-08-03;124), che rientra nel ruolo di provenienza e' iscritto al relativo fondo di previdenza se, in ragione degli anni di servizio residui, puo' maturare il diritto all'indennita' supplementare ai sensi dell'articolo 1914 del presente codice. Il computo degli anni di iscrizione al fondo decorre dalla data di reiscrizione nei ruoli di provenienza. (99)
 
 --------------
 
@@ -31856,6 +33595,14 @@ AGGIORNAMENTO (99)
 
 La [L. 29 dicembre 2022, n. 197](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2022-12-29;197) ha disposto (con l'art. 1, comma 652) che "La costituzione del fondo previdenziale di cui alla [lettera g-bis) del comma 1 dell'articolo 1913 del codice dell'ordinamento militare](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-03-15;66~art1913-com1-letgbis), di cui al [decreto legislativo 15 marzo 2010, n. 66](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-03-15;66), introdotta dal comma 651 del presente articolo, decorre dal 1° gennaio 2023".   
 Ha inoltre disposto (con l'art. 1, comma 654) che "Le disposizioni di cui ai commi da 651 a 653 si applicano anche a coloro per i quali, alla data di entrata in vigore della presente legge, risulta ancora pendente un giudizio o e' stata emessa sentenza non ancora passata in giudicato".
+
+-------------
+
+AGGIORNAMENTO (138)
+
+Il [D.Lgs. 3 aprile 2026, n. 74](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2026-04-03;74), ha disposto (con l'art. 20, comma 2, lettera c)) che "Le seguenti disposizioni inerenti alla costituzione del Corpo unico della Sanita' militare e al relativo transito del personale sanitario proveniente dalle Forze armate e dall'Arma dei carabinieri hanno effetto contestualmente a decorrere dal 1° gennaio 2027:   
+[...]   
+c) articoli 6, 7, 8, 9, 10, 11 e 12;".
 
 ### Art. 1914
 
@@ -34296,25 +36043,51 @@ Obblighi di sottufficiali e militari di truppa in congedo illimitato di notifica
 
 1. I sottufficiali e i militari di truppa inviati in congedo illimitato devono presentarsi, entro otto giorni dall'arrivo nel comune di residenza, se appartenenti all'Esercito italiano e all'Aeronautica militare, al Sindaco, e, se appartenenti alla Marina militare, alla Capitaneria di porto nella cui circoscrizione si trova il comune di residenza, o, in mancanza, al Sindaco, per far vistare il foglio di congedo e dare il proprio recapito; successivamente essi devono notificare i cambiamenti di residenza anche temporanei, entro quindici giorni dalla partenza, all'autorita' suddetta.
 
+((138))
+
 2. I militari in congedo illimitato che espatriano, all'atto dell'arrivo nel Paese estero, devono presentarsi all'autorita' diplomatica o consolare per comunicare la loro residenza. Qualora nella localita' manchi il rappresentante diplomatico o consolare, devono comunicare la loro residenza al consolato piu' vicino, oppure direttamente all'organo militare nella cui forza in congedo sono iscritti.
 
 3. I militari in congedo illimitato che rimpatriano definitivamente devono presentarsi per dichiarare la loro residenza:
 
 a) se appartenenti all'Esercito italiano e all'Aeronautica militare, al Sindaco;
 
+((138))
+
 b) se appartenenti alla Marina militare, alla Capitaneria di porto di iscrizione o, in mancanza, al Sindaco.
 
 4. I Sindaci e le autorita' diplomatiche o consolari notificano ai competenti organi militari, nel termine di quindici giorni dalla data della dichiarazione, le denunce ricevute dai militari in congedo illimitato, nonche' tutte le notizie e le variazioni ad essi relative.
+
+---------------
+
+AGGIORNAMENTO (138)
+
+Il [D.Lgs. 3 aprile 2026, n. 74](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2026-04-03;74) ha disposto (con l'art. 20, comma 2, lettera c)) che "Le seguenti disposizioni inerenti alla costituzione del Corpo unico della Sanita' militare e al relativo transito del personale sanitario proveniente dalle Forze armate e dall'Arma dei carabinieri hanno effetto contestualmente a decorrere dal 1° gennaio 2027:   
+[...]   
+c) articoli 6, 7, 8, 9, 10, 11 e 12".
 
 ### Art. 2059
 
 Richiamo in servizio dei militari di truppa in congedo illimitato
 
-1. I militari di truppa dell'Esercito italiano, della Marina militare e dell'Aeronautica militare in congedo illimitato possono essere richiamati in servizio in totalita', ovvero in parte, per classi, per aliquote di classi, per Arma di provenienza, per Corpo, per specializzazione, per incarico, per Comando militare, o per Compartimento marittimo o per Regione aerea.
+1. I militari di truppa dell'Esercito italiano, della Marina militare
+
+((, dell'Aeronautica militare e della Sanita' militare))
+
+in congedo illimitato possono essere richiamati in servizio in totalita', ovvero in parte, per classi, per aliquote di classi, per Arma di provenienza, per Corpo, per specializzazione, per incarico, per Comando militare, o per Compartimento marittimo o per Regione aerea.
+
+((138))
 
 2. I richiami di cui al comma 1 avvengono con decreto del Presidente della Repubblica, ma i militari, se invitati a presentarsi con precetto personale, hanno l'obbligo di rispondere nel termine loro assegnato, anche se non sia intervenuta ancora la pubblicazione del decreto presidenziale di richiamo.
 
 3. Col consenso degli interessati possono essere richiamati dal congedo anche singoli militari di truppa, con decreto del Ministro della difesa, di concerto con il Ministro dell'economia e delle finanze.
+
+---------------
+
+AGGIORNAMENTO (138)
+
+Il [D.Lgs. 3 aprile 2026, n. 74](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2026-04-03;74) ha disposto (con l'art. 20, comma 2, lettera c)) che "Le seguenti disposizioni inerenti alla costituzione del Corpo unico della Sanita' militare e al relativo transito del personale sanitario proveniente dalle Forze armate e dall'Arma dei carabinieri hanno effetto contestualmente a decorrere dal 1° gennaio 2027:   
+[...]   
+c) articoli 6, 7, 8, 9, 10, 11 e 12".
 
 ### Art. 2060
 
@@ -36561,9 +38334,15 @@ CAPO CDXLV - CAPO II DISPOSIZIONI PARTICOLARI SEZIONE I ORGANIZZAZIONE E FUNZION
 
 ### Art. 2188
 
-Ristrutturazione di ruoli e corpi dell'Esercito italiano, della Marina militare e dell'Aeronautica militare
+Ristrutturazione di ruoli e corpi dell'Esercito italiano, della Marina militare
 
-1. Fermi restando il volume organico complessivo, gli organici complessivi dei ruoli degli ufficiali dell'Esercito italiano, della Marina militare e dell'Aeronautica militare e il numero massimo delle promozioni annuali, con decreto del Ministro della difesa, di concerto con il Ministro dell'economia e delle finanze, da emanare ai sensi dell'[articolo 17 della legge 23 agosto 1988, n. 400](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400~art17), non appena attuate le disposizioni previste nei decreti legislativi di ristrutturazione dell'organizzazione della Difesa previsti dall'abrogata [legge 28 dicembre 1995, n. 549](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1995-12-28;549), possono essere modificate le disposizioni del presente codice relative a:
+((, dell'Aeronautica militare e della Sanita' militare))
+
+1. Fermi restando il volume organico complessivo, gli organici complessivi dei ruoli degli ufficiali dell'Esercito italiano, della Marina militare
+
+((, dell'Aeronautica militare e della Sanita' militare))
+
+e il numero massimo delle promozioni annuali, con decreto del Ministro della difesa, di concerto con il Ministro dell'economia e delle finanze, da emanare ai sensi dell'[articolo 17 della legge 23 agosto 1988, n. 400](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400~art17), non appena attuate le disposizioni previste nei decreti legislativi di ristrutturazione dell'organizzazione della Difesa previsti dall'abrogata [legge 28 dicembre 1995, n. 549](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1995-12-28;549), possono essere modificate le disposizioni del presente codice relative a:
 
 a) l'unificazione dei corpi sanitari delle Forze armate;
 
@@ -36574,10 +38353,6 @@ c) il trasferimento di funzioni da un ruolo ad un altro anche di Forza armata di
 d) l'unificazione dei corpi di una Forza armata.
 
 2. Le dotazioni organiche dei singoli ruoli di Forza armata, risultate in eccedenza al termine dell'unificazione o del trasferimento di funzioni, possono essere ripartite tra i ruoli delle Forze armate o riassegnate secondo necessita', con decreto del Ministro della difesa, di concerto con il Ministro dell'economia e delle finanze, emanato, senza oneri aggiuntivi, ai sensi dell'[articolo 17 della legge 23 agosto 1988, n. 400](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400~art17).
-
-Note all'art. 2188:  
-- Per il testo dell'[art. 17 della legge 23 agosto 1988, n. 400](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400~art17), si vedano le note all'art. 2139.  
-- La [legge 28 dicembre 1995, n. 549](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1995-12-28;549) (Misure di razionalizzazione della finanza pubblica), e' pubblicata nel supplemento ordinario alla Gazzetta Ufficiale del 29 dicembre 1995, n. 302.
 
 ### Art. 2188-bis
 
@@ -36845,6 +38620,54 @@ Disposizioni transitorie attuative dei programmi di revisione dello strumento mi
 
 e le organizzazioni sindacali rappresentative sullo stato di attuazione del programma di revisione dello strumento militare nazionale.
 
+### Art. 2188-sexies
+
+(( (Disposizioni transitorie e finali in materia di ordinamento della Sanita' militare).))
+
+1. 
+
+((Nelle more della costituzione del Corpo unico della Sanita' militare, in deroga a quanto previsto dall'articolo 188-bis, il Direttore della Sanita' militare e' nominato ai sensi dell'[articolo 19, comma 3, del decreto legislativo 30 marzo 2001, n. 165](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2001-03-30;165~art19-com3), con decreto del Presidente della Repubblica, previa deliberazione del Consiglio dei ministri, su proposta del Ministro della difesa, sentito il Capo di stato maggiore della difesa, tra gli ufficiali in servizio permanente effettivo dei Corpi sanitari dell'Esercito italiano, della Marina militare, dell'Aeronautica militare che rivestono il grado di tenente generale e maggiore generale e gradi corrispondenti, ovvero tra i dirigenti civili, provenienti dal settore pubblico o privato, in possesso di esperienza dirigenziale altamente qualificata in ambito sanitario.))
+
+2. 
+
+((Se il Direttore della Sanita' militare nominato ai sensi del comma 1, all'atto della nomina, riveste il grado di maggiore generale, gli e' conferito il grado di tenente generale, in soprannumero rispetto alle dotazioni organiche previste dal codice.))
+
+3. 
+
+((Il Direttore nominato ai sensi del comma 1:   
+a) dipende dal Ministro della difesa e, per le attribuzioni di carattere tecnico-operativo connesse con il sostegno dell'operativita' delle Forze armate e con le attivita' proprie della Sanita' di aderenza, dal Capo di stato maggiore della difesa;   
+b) rimane in carica per tre anni e, se militare, ove raggiunto il limite di eta', e' richiamato in servizio d'autorita' fino al termine del mandato.))
+
+4. 
+
+((Il Direttore di cui al comma 1 e' posto a capo di apposita struttura costituita al fine di:   
+a) porre in essere le azioni di cui al comma 5 per l'istituzione della Direzione della Sanita' militare;   
+b) avviare il riassetto e la razionalizzazione delle strutture sanitarie di cui al comma 7.))
+
+5. 
+
+((Sono adottate, entro centottanta giorni dalla data di entrata in vigore del presente articolo, le disposizioni tecniche di cui all'articolo 187 per la ridefinizione dell'ordinamento dell'organo centrale della Sanita' militare di cui all'articolo 188-quater.))
+
+6. 
+
+((Fino all'adozione delle disposizioni di cui al comma 5, rimangono in funzione la struttura organizzativa della Sanita' militare costituita nell'ambito dell'Area tecnico-operativa del Ministero della difesa, di cui si avvale il Direttore della Sanita' militare, e gli organi direttivi delle Forze armate, di cui all'articolo 188, comma 1, lettere a) e c), vigente fino al giorno antecedente alla data di entrata in vigore del presente articolo.))
+
+7. 
+
+((Con uno o piu' decreti di cui all'articolo 187, su iniziativa del Direttore della Sanita' Militare, sono adottate, entro centottanta giorni dall'emanazione delle disposizioni di cui al comma 5, le disposizioni tecniche attuative per il riassetto e la razionalizzazione della formazione sanitaria, della sanita' di aderenza e della sanita' di sostegno territoriale, anche previa ridefinizione delle competenze areali della rete di erogazione dei servizi sanitari di assistenza territoriale.))
+
+8. 
+
+((Nelle attivita' di cui al comma 7 per la riorganizzazione delle strutture sanitarie di aderenza e degli assetti medici di urgenza, si tiene conto della loro prioritaria destinazione a tutela della salute dei militari nell'ambito delle operazioni nazionali e internazionali, in tempo di pace, guerra o grave crisi internazionale, e delle esigenze di rafforzamento del supporto sanitario proiettabile, garantendo i livelli di capacita' operativi dello strumento militare per la gestione delle situazioni di emergenza, nonche' di potenziamento delle capacita' di protezione rispetto alle minacce, ivi comprese quelle pandemiche e chimiche, biologiche, radiologiche o nucleari, previo raccordo con gli assetti specialistici di difesa gia' esistenti nelle Forze armate.))
+
+9. 
+
+((Alla riorganizzazione dell'ordinamento della Sanita' militare si provvede con le risorse umane, strumentali e finanziarie disponibili a legislazione vigente.))
+
+10. ((Le Forze armate e l'Arma dei carabinieri continuano a garantire il proprio sostegno tecnico, logistico e amministrativo agli organi, alle strutture e al personale della Sanita' militare.
+
+11. ((I provvedimenti attuativi che intervengono in ambiti di competenza regionale sono adottati previa acquisizione del parere della Conferenza permanente per i rapporti tra lo Stato, le regioni e le province autonome di Trento e di Bolzano.
+
 ### Art. 2189
 
 Competenze residuali della Direzione generale per il personale militare
@@ -37008,13 +38831,25 @@ h) realizzare economie nette di spesa, con riferimento agli oneri per gli uffici
 
 ### Art. 2196-bis
 
-Regime transitorio dei reclutamenti degli ufficiali dei ruoli speciali dell'Esercito italiano, della Marina militare e dell'Aeronautica militare).
+(Regime transitorio dei reclutamenti degli ufficiali dei ruoli speciali dell'Esercito italiano, della Marina militare
 
-1. Sino all'anno
+((, dell'Aeronautica militare e della Sanita' militare))
 
-((2033))
+).
 
-, per la partecipazione ai concorsi per il reclutamento degli ufficiali dei ruoli speciali, di cui all'articolo 655, riservati al personale dell'Esercito italiano, della Marina militare e dell'Aeronautica militare, con decreti del Ministro della difesa, di concerto con il Ministro delle infrastrutture e dei trasporti se riguardano anche il Corpo delle capitanerie di Porto, possono essere stabiliti per ciascuna Forza armata:
+((138))
+
+1. Sino all'anno 2033, per la partecipazione ai concorsi per il reclutamento degli ufficiali dei ruoli speciali, di cui all'articolo 655, riservati al personale dell'Esercito italiano, della Marina militare
+
+((, dell'Aeronautica militare e della Sanita' militare))
+
+, con decreti del Ministro della difesa, di concerto con il Ministro delle infrastrutture e dei trasporti se riguardano anche il Corpo delle capitanerie di Porto, possono essere stabiliti
+
+((e per la Sanita' militare))
+
+:
+
+((138))
 
 a) limiti di eta', comunque non superiori a 52 anni;
 
@@ -37026,7 +38861,13 @@ d) permanenza minima nel ruolo di provenienza, sino a un massimo di 5 anni.
 
 1-bis. Sino ai concorsi banditi per le immissioni dell'anno 2022, in deroga a quanto previsto dall'articolo 655-bis, il concorso per l'accesso al ruolo speciale degli ufficiali dell'Esercito italiano, della Marina militare e dell'Aeronautica militare riservato ai luogotenenti in servizio e' svolto per soli titoli e con il possesso del diploma di istruzione secondaria di secondo grado.
 
-1-ter. Le commissioni esaminatrici, istituite presso ciascuna Forza armata secondo le modalita' definite dall'articolo 668, comma 1, lettere a), b) e c), valutano:
+1-ter. Le commissioni esaminatrici, istituite presso ciascuna Forza armata
+
+((e per la Sanita' militare))
+
+secondo le modalita' definite dall'articolo 668, comma 1, lettere a), b) e c), valutano:
+
+((138))
 
 a) i titoli relativi alle qualita' militari e professionali;
 
@@ -37038,6 +38879,14 @@ b) ogni altro titolo, ricompensa e benemerenza risultanti dallo stato di servizi
 a) fino all'anno 2024, e' innalzato a 55 anni per il reclutamento nel ruolo speciale del Corpo sanitario dell'Esercito italiano;
 
 b) negli anni 2020, 2021 e 2022 non si applica ai concorrenti di cui all'articolo 655, comma 1, lettera b).
+
+-------------
+
+AGGIORNAMENTO (138)
+
+Il [D.Lgs. 3 aprile 2026, n. 74](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2026-04-03;74), ha disposto (con l'art. 20, comma 2, lettera c)) che "Le seguenti disposizioni inerenti alla costituzione del Corpo unico della Sanita' militare e al relativo transito del personale sanitario proveniente dalle Forze armate e dall'Arma dei carabinieri hanno effetto contestualmente a decorrere dal 1° gennaio 2027:   
+[...]   
+c) articoli 6, 7, 8, 9, 10, 11 e 12;".
 
 ### Art. 2196-bis.1
 
@@ -37154,23 +39003,19 @@ Fino al 31 dicembre 2024, la durata dei corsi di cui agli articoli 775 e 776 puo
 
 ### Art. 2197
 
-Regime transitorio del reclutamento nel ruolo marescialli dell'Esercito italiano, della Marina militare e dell'Aeronautica militare
+Regime transitorio del reclutamento nel ruolo marescialli dell'Esercito italiano, della Marina militare
 
-1. Sino all'anno
+((, dell'Aeronautica militare e della Sanita' militare))
 
-((2033))
+((138))
 
-, fatti salvi i concorsi gia' banditi o in via di espletamento, il reclutamento nel ruolo marescialli avviene, in deroga alle disposizioni di cui all'articolo 679, comma 1, in misura:
+1. Sino all'anno 2033, fatti salvi i concorsi gia' banditi o in via di espletamento, il reclutamento nel ruolo marescialli avviene, in deroga alle disposizioni di cui all'articolo 679, comma 1, in misura:
 
 a) non superiore al 70 per cento dei posti disponibili in organico mediante concorso pubblico;
 
 b) non inferiore al 30 per cento dei posti disponibili in organico mediante concorso interno, riservato agli appartenenti al ruolo dei sergenti e al ruolo dei volontari in servizio permanente, secondo quanto previsto dall'articolo 682, comma 5.
 
-1-bis. Sino all'anno
-
-((2033))
-
-, il limite di eta' per la partecipazione al concorso di cui al comma 1, lettera b), e' elevato a 52 anni.
+1-bis. Sino all'anno 2033, il limite di eta' per la partecipazione al concorso di cui al comma 1, lettera b), e' elevato a 52 anni.
 
 2. I posti di cui al comma 1, lettera a) rimasti scoperti possono essere devoluti in aumento al numero dei posti di cui alla lettera b) e viceversa.
 
@@ -37181,6 +39026,14 @@ b) non inferiore al 30 per cento dei posti disponibili in organico mediante conc
 2-quater. Le norme per lo svolgimento dei concorsi di cui al presente articolo , comprese la definizione degli eventuali ulteriori requisiti, dei titoli e delle prove, la loro valutazione, la nomina delle commissioni e la formazione delle graduatorie sono stabilite con decreto del Ministro della difesa, di concerto col Ministro delle infrastrutture e dei trasporti per la parte riferita al Corpo delle capitanerie di porto.
 
 3. COMMA ABROGATO DAL [D.LGS. 26 APRILE 2016, N. 91](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2016-04-26;91).
+
+-------------
+
+AGGIORNAMENTO (138)
+
+Il [D.Lgs. 3 aprile 2026, n. 74](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2026-04-03;74), ha disposto (con l'art. 20, comma 2, lettera d)) che "Le seguenti disposizioni inerenti alla costituzione del Corpo unico della Sanita' militare e al relativo transito del personale sanitario proveniente dalle Forze armate e dall'Arma dei carabinieri hanno effetto contestualmente a decorrere dal 1° gennaio 2027:   
+[...]   
+d) articoli 14, 15, 16, 17 e 18".
 
 ### Art. 2197-bis
 
@@ -37247,6 +39100,48 @@ b) non aver riportato nell'ultimo biennio sanzioni disciplinari piu' gravi della
 ((COMMA ABROGATO DAL [D.LGS. 2 APRILE 2026, N. 58](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2026-04-02;58)))
 
 .
+
+### Art. 2197-ter.2
+
+(( (Disposizioni transitorie in materia reclutamento interno straordinario nel ruolo dei marescialli della Sanita' militare).))
+
+1. 
+
+((Dall'anno 2027, sino all'anno 2033, per specifiche esigenze della Sanita' militare, nei limiti delle dotazioni organiche, possono essere banditi concorsi straordinari per soli titoli per l'accesso al ruolo marescialli della Sanita' militare in favore del personale appartenente ai ruoli sergenti e volontari in servizio permanente appartenenti alle Forze armate e alla Sanita' militare e ai ruoli sovrintendenti, appuntati e carabinieri in servizio permanente dell'Arma dei carabinieri, in possesso dei seguenti requisiti:   
+a) laurea per le professioni sanitarie prevista dal bando di concorso;   
+b) eta' non superiore a cinquantadue anni;   
+c) non aver riportato nell'ultimo biennio sanzioni disciplinari piu' gravi della consegna;   
+d) non aver riportato nell'ultimo biennio una valutazione inferiore a "superiore alla media" o giudizio corrispondente.))
+
+2. 
+
+((Il numero dei posti a concorso, in applicazione del comma 1, non puo' superare il 20 per cento dell'entita' dei posti devoluta ai sergenti e ai volontari in servizio permanente ai sensi dell'articolo 2197, comma 1, lettera b).))
+
+3. 
+
+((Il numero dei posti riservati di cui all'articolo 682, comma 5, lettere a) e b) e' ridotto in misura corrispondente al numero dei posti messi a concorso ai sensi del comma 1, rispettivamente in favore dei sergenti e dei volontari in servizio permanente.))
+
+4. 
+
+((Nel biennio 2027-2028, al fine di consentire una piena attuazione dell'alimentazione del ruolo marescialli del Corpo unico della Sanita' militare, oltre a quanto previsto dai precedenti commi 2 e 3, e' autorizzato il reclutamento aggiuntivo di complessivi sessanta marescialli, fermo restando il numero complessivo di posti di cui all'articolo 2197, comma 1, lettera b).))
+
+5. 
+
+((Le modalita' di svolgimento dei concorsi, compresi la tipologia e i criteri di valutazione dei titoli di merito, sono stabiliti dai rispettivi bandi.))
+
+6. 
+
+((I vincitori dei concorsi di cui al comma 1 sono immessi nel ruolo dei marescialli con il grado di maresciallo e, ove ritenuto indispensabile dal Corpo unico della Sanita' militare, sono tenuti a frequentare un corso di formazione della durata massima di tre mesi.))
+
+((138))
+
+-------------
+
+AGGIORNAMENTO (138)
+
+Il [D.Lgs. 3 aprile 2026, n. 74](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2026-04-03;74), ha disposto (con l'art. 20, comma 2, lettera d)) che "Le seguenti disposizioni inerenti alla costituzione del Corpo unico della Sanita' militare e al relativo transito del personale sanitario proveniente dalle Forze armate e dall'Arma dei carabinieri hanno effetto contestualmente a decorrere dal 1° gennaio 2027:   
+[...]   
+d) articoli 14, 15, 16, 17 e 18".
 
 ### Art. 2197-quater
 
@@ -37686,27 +39581,49 @@ c) agli allievi ufficiali dei carabinieri si applicano le norme sullo stato degl
 
 ### Art. 2206-bis
 
-Riduzione delle dotazioni organiche complessive dell'Esercito italiano, della Marina militare, escluso il Corpo delle capitanerie di porto, e dell'Aeronautica militare).
+  
+(Riduzione delle dotazioni organiche complessive dell'Esercito italiano, della Marina militare, escluso il Corpo delle capitanerie di porto,
 
-1. L'entita' complessiva delle dotazioni organiche del personale militare dell'Esercito italiano, della Marina militare, escluso il Corpo delle capitanerie di porto, e dell'Aeronautica militare e' fissata:
+((, dell'Aeronautica militare e della Sanita' militare))
 
-a) a 190.000 unita', fino al 31 dicembre 2015;
+).
 
-b) a 170.000 unita', fissate dall'[articolo 1 del decreto del Presidente del Consiglio dei Ministri 11 gennaio 2013, pubblicato nella Gazzetta Ufficiale n. 78 del 3 aprile 2013](http://www.gazzettaufficiale.it/gazzetta/serie_generale/caricaDettaglio?dataPubblicazioneGazzetta=2013-04-03&numeroGazzetta=78), a decorrere dal 1° gennaio 2016;
+((138))
 
+  
+  
+1. L'entita' complessiva delle dotazioni organiche del personale militare dell'Esercito italiano, della Marina militare, escluso il Corpo delle capitanerie di porto,
+
+((, dell'Aeronautica militare e della Sanita' militare))
+
+e' fissata:
+
+((138))
+
+  
+a) a 190.000 unita', fino al 31 dicembre 2015;   
+b) a 170.000 unita', fissate dall'[articolo 1 del decreto del Presidente del Consiglio dei Ministri 11 gennaio 2013, pubblicato nella Gazzetta Ufficiale n. 78 del 3 aprile 2013](http://www.gazzettaufficiale.it/gazzetta/serie_generale/caricaDettaglio?dataPubblicazioneGazzetta=2013-04-03&numeroGazzetta=78), a decorrere dal 1° gennaio 2016;   
 c) a
 
-((160.000 unita'))
+((160.377 unita'))
 
-, fissate dall'articolo 798, a decorrere dal 1° gennaio 2034.
+, fissate dall'articolo 798, a decorrere dal 1° gennaio 2034. (110)
 
-((110))
+((138))
 
 -------------
 
 AGGIORNAMENTO (110)
 
 Il [D.Lgs. 23 novembre 2023, n. 185](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2023-11-23;185) ha disposto (con l'art. 4, comma 2) che "Le modificazioni apportate dalle disposizioni del presente decreto al [codice dell'ordinamento militare](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-03-15;66), di cui al [decreto legislativo 15 marzo 2010, n. 66](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-03-15;66), hanno effetto a decorrere dal 1° gennaio 2024".
+
+-------------
+
+AGGIORNAMENTO (138)
+
+Il [D.Lgs. 3 aprile 2026, n. 74](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2026-04-03;74), ha disposto (con l'art. 20, comma 2, lettera d)) che "Le seguenti disposizioni inerenti alla costituzione del Corpo unico della Sanita' militare e al relativo transito del personale sanitario proveniente dalle Forze armate e dall'Arma dei carabinieri hanno effetto contestualmente a decorrere dal 1° gennaio 2027:   
+[...]   
+d) articoli 14, 15, 16, 17 e 18".
 
 ### Art. 2206-ter
 
@@ -37718,6 +39635,24 @@ Il [D.Lgs. 23 novembre 2023, n. 185](http://www.normattiva.it/uri-res/N2Ls?urn:n
 
 2017 puo' partecipare al concorso di cui all'articolo 679, comma 2-bis, lettera b), anche prima di aver maturato il requisito di cui all'articolo 683, comma 4, lettera a).
 
+### Art. 2206-quater
+
+((Formazione specifica in medicina generale).))
+
+1. 
+
+((Le disposizioni dell'articolo 756, comma 3, non si applicano ai medici militari iscritti al corso di formazione specifica in medicina generale entro il 31 dicembre 2026.))
+
+((138))
+
+-------------
+
+AGGIORNAMENTO (138)
+
+Il [D.Lgs. 3 aprile 2026, n. 74](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2026-04-03;74), ha disposto (con l'art. 20, comma 2, lettera d)) che "Le seguenti disposizioni inerenti alla costituzione del Corpo unico della Sanita' militare e al relativo transito del personale sanitario proveniente dalle Forze armate e dall'Arma dei carabinieri hanno effetto contestualmente a decorrere dal 1° gennaio 2027:   
+[...]   
+d) articoli 14, 15, 16, 17 e 18".
+
 CAPO CDL - Parte III Ruoli e organici
 -------------------------------------
 
@@ -37725,11 +39660,21 @@ CAPO CDL - Parte III Ruoli e organici
 
 Adeguamento degli organici
 
-1. Sino all'anno
+1. Sino all'anno 2033, le dotazioni organiche del personale ufficiali, sottufficiali, volontari in servizio permanente e volontari in ferma prefissata e in rafferma dell'Esercito italiano, della Marina militare
 
-((2033))
+((, dell'Aeronautica militare e del Corpo unico della Sanita' militare))
 
-, le dotazioni organiche del personale ufficiali, sottufficiali, volontari in servizio permanente e volontari in ferma prefissata e in rafferma dell'Esercito italiano, della Marina militare e dell'Aeronautica militare, sono annualmente determinate, secondo un andamento delle consistenze del personale in servizio coerente con l'evoluzione degli oneri di cui agli articoli 582, 583 e 584 e con la ripartizione degli organici complessivi di cui all'articolo 798-bis, con decreto del Ministro della difesa, di concerto con il Ministro dell'economia e delle finanze e con il Ministro per la pubblica amministrazione e l'innovazione.
+, sono annualmente determinate, secondo un andamento delle consistenze del personale in servizio coerente con l'evoluzione degli oneri di cui agli articoli 582, 583 e 584 e con la ripartizione degli organici complessivi di cui all'articolo 798-bis, con decreto del Ministro della difesa, di concerto con il Ministro dell'economia e delle finanze e con il Ministro per la pubblica amministrazione e l'innovazione.
+
+((138))
+
+-------------
+
+AGGIORNAMENTO (138)
+
+Il [D.Lgs. 3 aprile 2026, n. 74](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2026-04-03;74), ha disposto (con l'art. 20, comma 2, lettera d)) che "Le seguenti disposizioni inerenti alla costituzione del Corpo unico della Sanita' militare e al relativo transito del personale sanitario proveniente dalle Forze armate e dall'Arma dei carabinieri hanno effetto contestualmente a decorrere dal 1° gennaio 2027:   
+[...]   
+d) articoli 14, 15, 16, 17 e 18".
 
 ### Art. 2207-bis
 
@@ -37772,28 +39717,42 @@ Carenze organiche transitorie
 ### Art. 2209-ter
 
   
-(Disposizioni transitorie per la graduale riduzione dell'entita' complessiva delle dotazioni organiche dell'Esercito italiano, della Marina militare, escluso il Corpo delle capitanerie di porto, e dell'Aeronautica militare a
+(Disposizioni transitorie per la graduale riduzione dell'entita' complessiva delle dotazioni organiche dell'Esercito italiano, della Marina militare, escluso il Corpo delle capitanerie di porto,
 
-(( 160.000 unita'))
+((dell'Aeronautica militare e della Sanita' militare a 160.377 unita'))
 
-).
+). (110)
 
-((110))
+((138))
 
   
   
-1. Ai fini del conseguimento, entro l'anno 2033, dell'entita' complessiva delle dotazioni organiche dell'Esercito italiano, della Marina militare, escluso il Corpo delle capitanerie di porto, e dell'Aeronautica militare fissata a
+1.
 
-((160.000 unita'))
+((Ai fini del conseguimento, entro l'anno 2033, dell'entita' complessiva delle dotazioni organiche dell'Esercito italiano, della Marina militare, escluso il Corpo delle capitanerie di porto, dell'Aeronautica militare e del Corpo unico della Sanita' militare fissata a 160.377 unita' dall'articolo 798 e della relativa ripartizione, di cui agli articoli 798-bis, 809-bis, 812-bis, 818-bis e 830-quater:))
 
-dall'articolo 798 e della relativa ripartizione, di cui agli articoli 798-bis, 809-bis, 812-bis e 818-bis:
+(110)
 
-((110))
+((138))
 
   
 a) le dotazioni organiche degli ufficiali, suddivise per ruolo e grado, sono determinate per gli anni dal 2017 e seguenti, con decreto adottato dal Ministro della difesa, di concerto con il Ministro dell'economia e delle finanze e con il Ministro per la pubblica amministrazione e la semplificazione;   
+a-bis)
+
+((per il Corpo unico della Sanita' militare, le dotazioni organiche di cui alla lettera a) sono determinate sulla base delle dotazioni dei ruoli sanitari di provenienza;))
+
+((138))
+
+  
 b) il numero delle promozioni ai gradi di colonnello e di generale, e gradi corrispondenti, e' fissato per gli anni dal 2017 e seguenti, con il decreto di cui all'articolo 2233-bis;   
 c) fermo quanto previsto per i gradi di colonnello e di generale, e gradi corrispondenti, dagli articoli 906 e 909, con il decreto di cui all'articolo 2207, in relazione alle dotazioni organiche complessive e alle consistenze del personale determinate dal medesimo decreto sono individuate le unita' di personale eventualmente in eccedenza.   
+c-bis)
+
+((per il Corpo unico della Sanita' militare, le unita' di personale eventualmente in eccedenza sono computate, nei limiti delle dotazioni di cui alla lettera a-bis), sulla base delle dotazioni dei ruoli sanitari di provenienza.))
+
+((138))
+
+  
 2. Le dotazioni organiche degli ufficiali determinate ai sensi del comma 1, lettera a), hanno effetto per il conferimento delle promozioni a scelta nei vari gradi di ciascun ruolo e per l'applicazione degli articoli 906 e 909 ai colonnelli e generali, e gradi corrispondenti.   
 3. Per i gradi in cui le promozioni non si effettuano tutti gli anni, nella determinazione dei cicli si tiene conto anche delle promozioni effettuate negli anni dal 2013 fino al termine di cui al comma 1.   
   
@@ -37804,19 +39763,37 @@ AGGIORNAMENTO (110)
 
 Il [D.Lgs. 23 novembre 2023, n. 185](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2023-11-23;185) ha disposto (con l'art. 4, comma 2) che "Le modificazioni apportate dalle disposizioni del presente decreto al [codice dell'ordinamento militare](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-03-15;66), di cui al [decreto legislativo 15 marzo 2010, n. 66](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-03-15;66), hanno effetto a decorrere dal 1° gennaio 2024".
 
+-------------
+
+AGGIORNAMENTO (138)
+
+Il [D.Lgs. 3 aprile 2026, n. 74](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2026-04-03;74), ha disposto (con l'art. 20, comma 2, lettera d)) che "Le seguenti disposizioni inerenti alla costituzione del Corpo unico della Sanita' militare e al relativo transito del personale sanitario proveniente dalle Forze armate e dall'Arma dei carabinieri hanno effetto contestualmente a decorrere dal 1° gennaio 2027:   
+[...]   
+d) articoli 14, 15, 16, 17 e 18".
+
 ### Art. 2209-quater
 
 (Piano di programmazione triennale scorrevole).
 
-1. Ai fini del progressivo raggiungimento delle dotazioni organiche complessive di cui all'articolo 798, comma 1, a decorrere dall'anno 2016 e sino all'anno
+1. Ai fini del progressivo raggiungimento delle dotazioni organiche complessive di cui all'articolo 798, comma 1, a decorrere dall'anno 2016 e sino all'anno 2033, con decreto del Presidente del Consiglio dei ministri, su proposta dei Ministri per la pubblica amministrazione e la semplificazione e della difesa, di concerto con il Ministro dell'economia e delle finanze, sentita la Conferenza unificata, di cui all'[articolo 8 del decreto legislativo 28 agosto 1997, n. 281](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1997-08-28;281~art8), e' adottato ogni anno un piano di programmazione triennale scorrevole per disciplinare le modalita' di attuazione:
 
-((2033))
+a) dei transiti del personale militare in servizio permanente non dirigente e non soggetto a obblighi di ferma, appartenente all'Esercito italiano, alla Marina militare, escluso il Corpo delle capitanerie di corpo,
 
-, con decreto del Presidente del Consiglio dei ministri, su proposta dei Ministri per la pubblica amministrazione e la semplificazione e della difesa, di concerto con il Ministro dell'economia e delle finanze, sentita la Conferenza unificata, di cui all'[articolo 8 del decreto legislativo 28 agosto 1997, n. 281](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1997-08-28;281~art8), e' adottato ogni anno un piano di programmazione triennale scorrevole per disciplinare le modalita' di attuazione:
+((all'Aeronautica militare e al Corpo unico della Sanita' militare))
 
-a) dei transiti del personale militare in servizio permanente non dirigente e non soggetto a obblighi di ferma, appartenente all'Esercito italiano, alla Marina militare, escluso il Corpo delle capitanerie di corpo, e all'Aeronautica militare, nei ruoli del personale civile dell'amministrazione della difesa e di altre amministrazioni pubbliche, di cui all'[articolo 1, comma 2, del decreto legislativo 30 marzo 2001, n. 165](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2001-03-30;165~art1-com2), e successive modificazioni, escluse le Forze di polizia, di cui all'[articolo 16 della legge 1° aprile 1981, n. 121](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-04-01;121~art16), e il Corpo nazionale dei vigili del fuoco, secondo i criteri stabiliti dall'articolo 2209-quinquies, fermo restando quanto disposto dall'[articolo 30, comma 2-ter, del decreto legislativo n. 165 del 2001](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2001;165~art30-com2ter);
+, nei ruoli del personale civile dell'amministrazione della difesa e di altre amministrazioni pubbliche, di cui all'[articolo 1, comma 2, del decreto legislativo 30 marzo 2001, n. 165](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2001-03-30;165~art1-com2), e successive modificazioni, escluse le Forze di polizia, di cui all'[articolo 16 della legge 1° aprile 1981, n. 121](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-04-01;121~art16), e il Corpo nazionale dei vigili del fuoco, secondo i criteri stabiliti dall'articolo 2209-quinquies, fermo restando quanto disposto dall'[articolo 30, comma 2-ter, del decreto legislativo n. 165 del 2001](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2001;165~art30-com2ter);
+
+((138))
 
 b) delle riserve di posti di cui all'articolo 1014, estese anche al personale militare in servizio permanente.
+
+-------------
+
+AGGIORNAMENTO (138)
+
+Il [D.Lgs. 3 aprile 2026, n. 74](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2026-04-03;74), ha disposto (con l'art. 20, comma 2, lettera d)) che "Le seguenti disposizioni inerenti alla costituzione del Corpo unico della Sanita' militare e al relativo transito del personale sanitario proveniente dalle Forze armate e dall'Arma dei carabinieri hanno effetto contestualmente a decorrere dal 1° gennaio 2027:   
+[...]   
+d) articoli 14, 15, 16, 17 e 18".
 
 ### Art. 2209-quinquies
 
@@ -37870,43 +39847,63 @@ d) nel caso di coniugi entrambi militari con figli minori, sono garantite partic
 
 ### Art. 2209-septies
 
-Disposizioni transitorie intese ad estendere l'istituto dell'aspettativa per riduzione di quadri per il personale militare non dirigente dell'Esercito italiano, della Marina militare, escluso il Corpo delle capitanerie di porto, e dell'Aeronautica militare).
+  
+( Disposizioni transitorie intese ad estendere l'istituto dell'aspettativa per riduzione di quadri per il personale militare non dirigente dell'Esercito italiano, della Marina militare, escluso il Corpo delle capitanerie di porto,
 
-1. Sino all'anno
+((dell'Aeronautica militare e della Sanita' militare))
 
-((2033))
+).
 
-, il personale militare fino al grado di tenente colonnello e gradi corrispondenti dell'Esercito italiano, della Marina militare, escluso il Corpo delle capitanerie di porto, e dell'Aeronautica militare, ivi compreso quello di cui all'articolo 2210, comma 1, lettere a), b), c), d), f) e g), non altrimenti riassorbibile con le modalita' di cui all'articolo 2209-quinquies, qualora si trovi nelle condizioni di cui al comma 2 del presente articolo, e' collocato in aspettativa per riduzione di quadri, indipendentemente dal grado rivestito, dalla Forza armata, dalla categoria e dal ruolo di appartenenza.
+((138))
 
-2. Il personale di cui al comma 1 e' collocato in aspettativa per riduzione di quadri in ragione della maggiore anzianita' anagrafica, secondo il seguente ordine di priorita':
+  
+  
+1. Sino all'anno 2033, il personale militare fino al grado di tenente colonnello e gradi corrispondenti dell'Esercito italiano, della Marina militare, escluso il Corpo delle capitanerie di porto,
 
-a) a domanda al 31 dicembre di ciascun anno, per il personale che al 1° gennaio dell'anno di riferimento sia a non piu' di sette anni dal raggiungimento del limite di eta' previsto per il grado e il corpo di appartenenza;
+((dell'Aeronautica militare e della Sanita' militare))
 
-b) d'ufficio al 31 dicembre dell'anno di scadenza di ciascuna programmazione triennale di cui all'articolo 2209-quater, per il personale a non piu' di tre anni dal compimento dei limiti di eta' stabiliti per la cessazione dal servizio permanente e qualora abbia maturato i requisiti utili per l'accesso al trattamento pensionistico anticipato.
+, ivi compreso quello di cui all'articolo 2210, comma 1, lettere a), b), c), d), f) e g), non altrimenti riassorbibile con le modalita' di cui all'articolo 2209-quinquies, qualora si trovi nelle condizioni di cui al comma 2 del presente articolo, e' collocato in aspettativa per riduzione di quadri, indipendentemente dal grado rivestito, dalla Forza armata, dalla categoria e dal ruolo di appartenenza.
 
-3. Il personale collocato in aspettativa per riduzione di quadri:
+((138))
 
-a) LETTERA SOPPRESSA DAL [D.LGS. 27 DICEMBRE 2019, N. 173](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2019-12-27;173);
+  
+2. Il personale di cui al comma 1 e' collocato in aspettativa per riduzione di quadri in ragione della maggiore anzianita' anagrafica, secondo il seguente ordine di priorita':   
+a) a domanda al 31 dicembre di ciascun anno, per il personale che al 1° gennaio dell'anno di riferimento sia a non piu' di sette anni dal raggiungimento del limite di eta' previsto per il grado e il corpo di appartenenza;   
+b) d'ufficio al 31 dicembre dell'anno di scadenza di ciascuna programmazione triennale di cui all'articolo 2209-quater, per il personale a non piu' di tre anni dal compimento dei limiti di eta' stabiliti per la cessazione dal servizio permanente e qualora abbia maturato i requisiti utili per l'accesso al trattamento pensionistico anticipato.   
+3. Il personale collocato in aspettativa per riduzione di quadri:   
+a) LETTERA SOPPRESSA DAL [D.LGS. 27 DICEMBRE 2019, N. 173](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2019-12-27;173);   
+b) percepisce il trattamento economico di cui all'articolo 1821;   
+c) e' escluso dalle procedure di avanzamento che comportano l'eventuale promozione o conferimento della qualifica di primo luogotenente, di sergente maggiore aiutante o di graduato aiutante, e qualifiche corrispondenti, con decorrenza successiva al collocamento in aspettativa per riduzione di quadri;   
+d) puo' permanere in tale posizione sino al raggiungimento del limite di eta' ordinamentale, ovvero fino alla maturazione del requisito di accesso al trattamento pensionistico, senza possibilita' di riammissione in servizio e puo' essere collocato in ausiliaria esclusivamente a seguito di cessazione dal servizio per il raggiungimento dei limiti di eta' previsti per il grado rivestito o con le modalita' e nei limiti dei contingenti previsti dagli articoli 2229 e 2230.   
+  
 
-b) percepisce il trattamento economico di cui all'articolo 1821;
+---------------
 
-c) e' escluso dalle procedure di avanzamento che comportano l'eventuale promozione o conferimento della qualifica di primo luogotenente
+AGGIORNAMENTO (138)
 
-((, di sergente maggiore aiutante o di graduato aiutante, e qualifiche corrispondenti,))
-
-con decorrenza successiva al collocamento in aspettativa per riduzione di quadri;
-
-d) puo' permanere in tale posizione sino al raggiungimento del limite di eta' ordinamentale, ovvero fino alla maturazione del requisito di accesso al trattamento pensionistico, senza possibilita' di riammissione in servizio e puo' essere collocato in ausiliaria esclusivamente a seguito di cessazione dal servizio per il raggiungimento dei limiti di eta' previsti per il grado rivestito o con le modalita' e nei limiti dei contingenti previsti dagli articoli 2229 e 2230.
+Il [D.Lgs. 3 aprile 2026, n. 74](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2026-04-03;74) ha disposto (con l'art. 20, comma 2, lettera d)) che "Le seguenti disposizioni inerenti alla costituzione del Corpo unico della Sanita' militare e al relativo transito del personale sanitario proveniente dalle Forze armate e dall'Arma dei carabinieri hanno effetto contestualmente a decorrere dal 1° gennaio 2027:   
+[...]   
+d) articoli 14, 15, 16, 17 e 18".
 
 ### Art. 2209-octies
 
 Disposizioni transitorie per la destinazione di quota parte dei risparmi derivanti dalla progressiva riduzione del personale militare).
 
-1. A decorrere dall'anno 2017, quota parte dei risparmi derivanti dalla progressiva riduzione del personale militare, accertati secondo quanto previsto dall'[articolo 4, comma 1, lettera d), della legge 31 dicembre 2012, n. 244](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2012-12-31;244~art4-com1-letd), e' destinata ad alimentare il fondo per l'efficienza dei servizi istituzionali dell'Esercito italiano, della Marina militare e dell'Aeronautica militare, in misura non inferiore al 4 per cento e non superiore al 10 per cento,
+1. A decorrere dall'anno 2017, quota parte dei risparmi derivanti dalla progressiva riduzione del personale militare, accertati secondo quanto previsto dall'[articolo 4, comma 1, lettera d), della legge 31 dicembre 2012, n. 244](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2012-12-31;244~art4-com1-letd), e' destinata ad alimentare il fondo per l'efficienza dei servizi istituzionali dell'Esercito italiano, della Marina militare
 
-((informate le associazioni professionali a carattere sindacale tra militari rappresentative ai sensi dell'articolo 1478))
+((, dell'Aeronautica militare e del Corpo unico della Sanita' militare, escluso il personale proveniente dall'Arma dei carabinieri))
 
-.
+, in misura non inferiore al 4 per cento e non superiore al 10 per cento, informate le associazioni professionali a carattere sindacale tra militari rappresentative ai sensi dell'articolo 1478.
+
+((138))
+
+---------------
+
+AGGIORNAMENTO (138)
+
+Il [D.Lgs. 3 aprile 2026, n. 74](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2026-04-03;74) ha disposto (con l'art. 20, comma 2, lettera d)) che "Le seguenti disposizioni inerenti alla costituzione del Corpo unico della Sanita' militare e al relativo transito del personale sanitario proveniente dalle Forze armate e dall'Arma dei carabinieri hanno effetto contestualmente a decorrere dal 1° gennaio 2027:   
+[...]   
+d) articoli 14, 15, 16, 17 e 18".
 
 ### Art. 2210
 
@@ -38555,6 +40552,169 @@ e) per l'anno 2023 con procedura da bandire entro il 1° luglio 2022, gli uffici
 
 ))
 
+### Art. 2214-sexies
+
+(( (Costituzione del Corpo unico della Sanita' militare e transito del personale). ))
+
+1. 
+
+((Alla data del 1° gennaio 2027, e' costituito il Corpo unico della Sanita' militare.))
+
+2. 
+
+((Alla stessa data, il personale proveniente dalle Forze armate e dall'Arma dei carabinieri transita nei seguenti ruoli del Corpo unico della Sanita' militare:))
+
+a)
+
+((gli allievi ufficiali dei ruoli normali dei Corpi sanitari delle Forze armate, frequentatori dei corsi presso le rispettive accademie, transitano nel ruolo normale del Corpo unico della Sanita' militare, permanendo nello stesso istituto di formazione sino al completamento del relativo corso formativo;))
+
+b)
+
+((gli ufficiali appartenenti ai ruoli normali del Corpo sanitario dell'Esercito italiano, del Corpo sanitario militare marittimo della Marina militare e del Corpo sanitario aeronautico dell'Aeronautica militare, nonche' al comparto sanitario e psicologico del ruolo tecnico dell'Arma dei carabinieri, transitano nel ruolo normale del Corpo unico della Sanita' militare, mantenendo il grado rivestito nei corpi di provenienza, fatto salvo quanto previsto dall'articolo 2214-decies;))
+
+c)
+
+((gli ufficiali appartenenti ai ruoli speciali del Corpo sanitario dell'Esercito italiano, del Corpo sanitario militare marittimo della Marina militare e del Corpo sanitario aeronautico dell'Aeronautica militare transitano nel ruolo speciale del Corpo unico della Sanita' militare, mantenendo il grado rivestito nei corpi di provenienza;))
+
+d)
+
+((i marescialli appartenenti alla specializzazione Sanita' del ruolo marescialli dell'Esercito italiano, alla categoria servizio sanitario del ruolo marescialli della Marina militare e alla specialita' sanita' della categoria supporto del ruolo marescialli dell'Aeronautica militare transitano nel ruolo unico dei marescialli della Sanita' militare;))
+
+e)
+
+((i sergenti e i graduati appartenenti alle professioni sanitarie e inquadrati nella specializzazione Sanita' dell'Esercito italiano e alla categoria servizio sanitario della Marina militare transitano nei rispettivi ruoli della Sanita' militare.))
+
+3. 
+
+((Gli ispettori, i sovrintendenti, gli appuntati e i carabinieri in servizio permanente dell'Arma dei carabinieri, abilitati alle professioni sanitarie e assegnati alle unita' organizzative che esercitano funzioni di natura sanitaria, possono transitare a domanda nei corrispondenti ruoli del Corpo unico della Sanita' militare ai sensi dell'articolo 2214-octies.))
+
+4. 
+
+((La comunicazione agli interessati del provvedimento di transito nel Corpo unico della Sanita' militare avviene mediante pubblicazione dello stesso sul Giornale ufficiale del Ministero della difesa.))
+
+((138))
+
+---------------
+
+AGGIORNAMENTO (138)
+
+Il [D.Lgs. 3 aprile 2026, n. 74](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2026-04-03;74) ha disposto (con l'art. 20, comma 2, lettera d)) che "Le seguenti disposizioni inerenti alla costituzione del Corpo unico della Sanita' militare e al relativo transito del personale sanitario proveniente dalle Forze armate e dall'Arma dei carabinieri hanno effetto contestualmente a decorrere dal 1° gennaio 2027:   
+[...]   
+d) articoli 14, 15, 16, 17 e 18".
+
+### Art. 2214-septies
+
+(( (Modalita' di transito nel Corpo unico della Sanita' militare degli ufficiali dei ruoli normali e speciali dei Corpi sanitari delle Forze armate e del ruolo tecnico, comparto sanitario e psicologico, dell'Arma dei carabinieri). ))
+
+  
+  
+1.
+
+((Alla data del 1° gennaio 2027, con provvedimento della Direzione generale per il personale militare, il personale di cui all'articolo 2214-sexies, comma 2, lettere a), b), c), d) ed e), transita nel rispettivo ruolo normale e speciale del Corpo unico della Sanita' militare mantenendo la posizione di stato e l'anzianita' di grado posseduta. A parita' di anzianita' di grado assoluta, l'ordine di iscrizione in ruolo dei predetti ufficiali e' determinato dall'eta' anagrafica maggiore, salvo il caso di militari transitati dallo stesso ruolo, per i quali si osserva l'ordine di precedenza acquisito nel ruolo di provenienza. A parita' di eta' anagrafica si applica quanto stabilito dall'articolo 797, comma 3.))
+
+((138))
+
+---------------
+
+AGGIORNAMENTO (138)
+
+Il [D.Lgs. 3 aprile 2026, n. 74](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2026-04-03;74) ha disposto (con l'art. 20, comma 2, lettera d)) che "Le seguenti disposizioni inerenti alla costituzione del Corpo unico della Sanita' militare e al relativo transito del personale sanitario proveniente dalle Forze armate e dall'Arma dei carabinieri hanno effetto contestualmente a decorrere dal 1° gennaio 2027:   
+[...]   
+d) articoli 14, 15, 16, 17 e 18".
+
+### Art. 2214-octies
+
+(( (Disposizioni relative al transito del personale dei ruoli ispettori, sovrintendenti e appuntati e carabinieri dell'Arma dei carabinieri nel Corpo unico della Sanita' militare). ))
+
+1. 
+
+((Il Comandante generale dell'Arma dei carabinieri, con propri provvedimenti adottati entro novanta giorni dalla data di entrata in vigore del presente articolo e pubblicati sul Bollettino ufficiale dell'Arma dei carabinieri, individua nominativamente, sulla base della posizione d'impiego, dello stato matricolare e della ulteriore documentazione attestante il servizio prestato, il personale, appartenente ai ruoli ispettori, sovrintendenti e appuntati e carabinieri, assegnato nelle unita' organizzative che esercitano funzioni di natura sanitaria, che puo' transitare, a domanda, nel Corpo unico della Sanita' militare.))
+
+2. 
+
+((Il personale dell'Arma dei carabinieri, individuato ai sensi del comma 1, entro i trenta giorni successivi alla pubblicazione del provvedimento del Comandante generale dell'Arma dei carabinieri sul Bollettino ufficiale dell'Arma dei carabinieri, puo' presentare, al Ministero della difesa, domanda di transito nel Corpo unico della Sanita' militare.))
+
+3. 
+
+((Il transito del personale di cui al comma 2 e' disposto, ai sensi dell'articolo 2214-sexies, nei limiti delle dotazioni organiche devolute dall'Arma dei carabinieri al Corpo unico della Sanita' militare, entro trenta giorni dalla ricezione dell'istanza, con provvedimento della Direzione generale per il personale militare, su proposta del Capo di stato maggiore della difesa.))
+
+((138))
+
+---------------
+
+AGGIORNAMENTO (138)
+
+Il [D.Lgs. 3 aprile 2026, n. 74](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2026-04-03;74) ha disposto (con l'art. 20, comma 2, lettera d)) che "Le seguenti disposizioni inerenti alla costituzione del Corpo unico della Sanita' militare e al relativo transito del personale sanitario proveniente dalle Forze armate e dall'Arma dei carabinieri hanno effetto contestualmente a decorrere dal 1° gennaio 2027:   
+[...]   
+d) articoli 14, 15, 16, 17 e 18".
+
+### Art. 2214-novies
+
+(( (Categorie in congedo degli ufficiali dei Corpi sanitari delle Forze armate e del ruolo tecnico, comparto sanitario e psicologico, dell'Arma dei carabinieri). ))
+
+1. 
+
+((Alla data del 1° gennaio 2027 gli ufficiali dell'ausiliaria, della riserva, del complemento e della riserva di complemento appartenenti ai ruoli normali e speciali dei Corpi sanitari delle Forze armate e al ruolo tecnico, comparto sanitario e psicologico, dell'Arma dei carabinieri sono iscritti nelle corrispondenti posizioni di stato dei ruoli del congedo del Corpo unico della Sanita' militare.))
+
+((138))
+
+---------------
+
+AGGIORNAMENTO (138)
+
+Il [D.Lgs. 3 aprile 2026, n. 74](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2026-04-03;74) ha disposto (con l'art. 20, comma 2, lettera d)) che "Le seguenti disposizioni inerenti alla costituzione del Corpo unico della Sanita' militare e al relativo transito del personale sanitario proveniente dalle Forze armate e dall'Arma dei carabinieri hanno effetto contestualmente a decorrere dal 1° gennaio 2027:   
+[...]   
+d) articoli 14, 15, 16, 17 e 18".
+
+### Art. 2214-decies
+
+(( (Rideterminazione dell'anzianita' assoluta degli ufficiali del ruolo tecnico, comparto sanitario e psicologico, dell'Arma dei carabinieri transitati nel Corpo unico della Sanita' militare). ))
+
+1. 
+
+((All'atto del transito di cui all'articolo 2214-sexies, i gradi e le anzianita' assolute degli ufficiali del Corpo unico della Sanita' militare provenienti dal ruolo tecnico, comparto sanitario e psicologico, dell'Arma dei carabinieri, sono cosi' rideterminati in base agli anni di anzianita' minima richiesti per le promozioni stabilite nella tabella 4-bis, quadro I, allegata al presente codice:))
+
+a)
+
+((per i generali di brigata, con l'attribuzione di un aumento di anzianita' assoluta, nel grado, pari a un anno;))
+
+b)
+
+((per i colonnelli e i tenenti colonnelli, con l'attribuzione di un aumento di anzianita' assoluta, nel grado, pari a due anni;))
+
+c)
+
+((per i maggiori con anzianita' di grado dal 1° gennaio 2020 al 31 dicembre 2021, computando una permanenza minima nel grado di maggiore pari a cinque anni.))
+
+2. 
+
+((Ai fini delle rideterminazioni di cui al comma 1:))
+
+a)
+
+((per l'attribuzione del grado di tenente colonnello, l'avanzamento e' da ritenersi effettuato ad anzianita', secondo le modalita' di cui all'articolo 1055, e non sono richiesti i requisiti di cui all'articolo 1096;))
+
+b)
+
+((si computano:   
+1) le detrazioni di anzianita' adottate ai sensi degli articoli 858 e 859;   
+2) i giudizi di non idoneita' espressi in precedenti valutazioni per l'avanzamento al grado superiore ai sensi dell'articolo 1065;   
+3) le anzianita' di grado attribuite all'esito dei pregressi giudizi di avanzamento a scelta.))
+
+3. 
+
+((Gli ufficiali di cui al comma 1 sono iscritti nel ruolo normale del Corpo unico della Sanita' militare sulla base dell'anzianita' di grado rideterminata. A parita' di anzianita' di grado assoluta, l'ordine di iscrizione in ruolo dei predetti ufficiali e' determinato dall'articolo 2214-septies.))
+
+((138))
+
+---------------
+
+AGGIORNAMENTO (138)
+
+Il [D.Lgs. 3 aprile 2026, n. 74](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2026-04-03;74) ha disposto (con l'art. 20, comma 2, lettera d)) che "Le seguenti disposizioni inerenti alla costituzione del Corpo unico della Sanita' militare e al relativo transito del personale sanitario proveniente dalle Forze armate e dall'Arma dei carabinieri hanno effetto contestualmente a decorrere dal 1° gennaio 2027:   
+[...]   
+d) articoli 14, 15, 16, 17 e 18".
+
 ### Art. 2215
 
 ((ARTICOLO ABROGATO DAL [D.LGS. 28 GENNAIO 2014, N. 8](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2014-01-28;8)))
@@ -38974,6 +41134,243 @@ b) agli ufficiali che per effetto delle disposizioni di cui al comma 1 hanno ben
 ((Le disposizioni di cui al comma 3-quater si applicano anche al triennio 2024-2026))
 
 .
+
+### Art. 2233-quinquies
+
+(( (Regime transitorio dell'avanzamento degli ufficiali della Sanita' militare). ))
+
+1. 
+
+((Sino all'anno 2033, in relazione alla determinazione delle dotazioni organiche di cui all'articolo 2209-ter, il numero complessivo di promozioni a scelta al grado superiore, per ogni grado del ruolo normale e del ruolo speciale del Corpo unico della Sanita' militare e' annualmente fissato dal decreto di cui all'articolo 2233-bis, avuto riguardo al numero di promozioni annuali stabilito al 31 dicembre 2026 dalle tabelle 1, 2, 3 e 4 per i ruoli di rispettiva provenienza.))
+
+2. 
+
+((Il numero di promozioni di cui al comma 1 e' ripartito sulla base dei preesistenti Corpi sanitari di Forza armata e del ruolo tecnico, comparto sanitario e psicologico, dell'Arma dei carabinieri, in relazione alla composizione delle aliquote di valutazione e alle distinte graduatorie di merito.))
+
+((138))
+
+---------------
+
+AGGIORNAMENTO (138)
+
+Il [D.Lgs. 3 aprile 2026, n. 74](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2026-04-03;74) ha disposto (con l'art. 20, comma 2, lettera d)) che "Le seguenti disposizioni inerenti alla costituzione del Corpo unico della Sanita' militare e al relativo transito del personale sanitario proveniente dalle Forze armate e dall'Arma dei carabinieri hanno effetto contestualmente a decorrere dal 1° gennaio 2027:   
+[...]   
+d) articoli 14, 15, 16, 17 e 18".
+
+### Art. 2233-sexies
+
+(( (Regime transitorio per colmare ulteriori vacanze organiche degli ufficiali). ))
+
+1. 
+
+((Sino all'anno 2033, le promozioni aggiuntive di cui all'articolo 1079, comma 1, sono attribuite sulla base delle vacanze nel grado superiore con riferimento alle dotazioni determinate ai sensi dell'articolo 2209-ter, comma 1, lettera a-bis).))
+
+((138))
+
+---------------
+
+AGGIORNAMENTO (138)
+
+Il [D.Lgs. 3 aprile 2026, n. 74](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2026-04-03;74) ha disposto (con l'art. 20, comma 2, lettera d)) che "Le seguenti disposizioni inerenti alla costituzione del Corpo unico della Sanita' militare e al relativo transito del personale sanitario proveniente dalle Forze armate e dall'Arma dei carabinieri hanno effetto contestualmente a decorrere dal 1° gennaio 2027:   
+[...]   
+d) articoli 14, 15, 16, 17 e 18".
+
+### Art. 2233-septies
+
+(( (Regime transitorio per la formazione delle aliquote degli ufficiali della Sanita' militare). ))
+
+1. 
+
+((Sino all'anno 2033, per il ruolo normale e speciale del Corpo unico della Sanita' militare, la formazione delle aliquote di valutazione per l'avanzamento al grado superiore e' stabilita con decreto ministeriale.))
+
+2. 
+
+((Nel decreto di cui al comma 1, le aliquote sono distinte in base ai preesistenti Corpi sanitari di Forza armata e del ruolo tecnico, comparto sanitario e psicologico, dell'Arma dei carabinieri.))
+
+3. 
+
+((In quanto compatibili, si applicano le disposizioni di cui all'articolo 2233-quater.))
+
+((138))
+
+---------------
+
+AGGIORNAMENTO (138)
+
+Il [D.Lgs. 3 aprile 2026, n. 74](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2026-04-03;74) ha disposto (con l'art. 20, comma 2, lettera d)) che "Le seguenti disposizioni inerenti alla costituzione del Corpo unico della Sanita' militare e al relativo transito del personale sanitario proveniente dalle Forze armate e dall'Arma dei carabinieri hanno effetto contestualmente a decorrere dal 1° gennaio 2027:   
+[...]   
+d) articoli 14, 15, 16, 17 e 18".
+
+### Art. 2233-octies
+
+(( (Regime transitorio per l'assolvimento dei periodi di comando, di attribuzioni specifiche, di servizio e di imbarco degli ufficiali della Sanita' militare). ))
+
+1. 
+
+((Sino all'anno 2033, per gli ufficiali transitati nel Corpo unico della Sanita' militare, le attribuzioni specifiche, di servizio e di imbarco, ai fini della valutazione per l'avanzamento, rimangono quelle dei rispettivi ruoli e gradi di provenienza definite dalle tabelle 1, 2, 3 e 4, vigenti al 31 dicembre 2026.))
+
+2. 
+
+((Se alla data del 31 dicembre 2033 non sono state espletate le attribuzioni previste per il grado rivestito, le disposizioni di cui al comma 1 rimangono valide fino all'inserimento nella successiva aliquota di valutazione.))
+
+((138))
+
+---------------
+
+AGGIORNAMENTO (138)
+
+Il [D.Lgs. 3 aprile 2026, n. 74](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2026-04-03;74) ha disposto (con l'art. 20, comma 2, lettera d)) che "Le seguenti disposizioni inerenti alla costituzione del Corpo unico della Sanita' militare e al relativo transito del personale sanitario proveniente dalle Forze armate e dall'Arma dei carabinieri hanno effetto contestualmente a decorrere dal 1° gennaio 2027:   
+[...]   
+d) articoli 14, 15, 16, 17 e 18".
+
+### Art. 2233-novies
+
+(( (Regime transitorio per l'assolvimento dei periodi di comando, di attribuzioni specifiche, di servizio e di imbarco dei marescialli della Sanita' militare). ))
+
+1. 
+
+((Sino all'anno 2033, per i marescialli transitati nel Corpo unico della Sanita' militare, le attribuzioni specifiche, di servizio e di imbarco, ai fini della valutazione per l'avanzamento rimangono quelle dei rispettivi ruoli e gradi di provenienza definite dagli articoli 1279, 1280, 1281 e 1294, vigenti al 31 dicembre 2026.))
+
+2. 
+
+((Se alla data del 31 dicembre 2033 non sono state espletate le attribuzioni previste per il grado rivestito, le disposizioni di cui al comma 1 rimangono valide fino all'inserimento nella successiva aliquota di valutazione.))
+
+((138))
+
+---------------
+
+AGGIORNAMENTO (138)
+
+Il [D.Lgs. 3 aprile 2026, n. 74](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2026-04-03;74) ha disposto (con l'art. 20, comma 2, lettera d)) che "Le seguenti disposizioni inerenti alla costituzione del Corpo unico della Sanita' militare e al relativo transito del personale sanitario proveniente dalle Forze armate e dall'Arma dei carabinieri hanno effetto contestualmente a decorrere dal 1° gennaio 2027:   
+[...]   
+d) articoli 14, 15, 16, 17 e 18".
+
+### Art. 2233-decies
+
+(( (Regime transitorio per l'assolvimento dei periodi di comando, di attribuzioni specifiche, di servizio e di imbarco dei sergenti della Sanita' militare). ))
+
+1. 
+
+((Sino all'anno 2033, per i sergenti transitati nel Corpo unico della Sanita' militare, le attribuzioni specifiche, di servizio e di imbarco, ai fini della valutazione per l'avanzamento rimangono quelle dei rispettivi ruoli e gradi di provenienza definite dagli articoli 1286, 1287 e 1288, vigenti al 31 dicembre 2026.))
+
+2. 
+
+((Se alla data del 31 dicembre 2033 non sono state espletate le attribuzioni previste per il grado rivestito, le disposizioni di cui al comma 1 rimangono valide fino all'inserimento nella successiva aliquota di valutazione.))
+
+((138))
+
+---------------
+
+AGGIORNAMENTO (138)
+
+Il [D.Lgs. 3 aprile 2026, n. 74](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2026-04-03;74) ha disposto (con l'art. 20, comma 2, lettera d)) che "Le seguenti disposizioni inerenti alla costituzione del Corpo unico della Sanita' militare e al relativo transito del personale sanitario proveniente dalle Forze armate e dall'Arma dei carabinieri hanno effetto contestualmente a decorrere dal 1° gennaio 2027:   
+[...]   
+d) articoli 14, 15, 16, 17 e 18".
+
+### Art. 2233-undecies
+
+(( (Regime transitorio per l'assolvimento dei periodi di comando, di attribuzioni specifiche, di servizio e di imbarco dei graduati della Sanita' militare). ))
+
+1. 
+
+((Sino all'anno 2033, per i graduati transitati nel Corpo unico della Sanita' militare, le attribuzioni specifiche, di servizio e di imbarco, ai fini della valutazione per l'avanzamento rimangono quelle dei rispettivi ruoli e gradi di provenienza definite dall'articolo 1308, vigente al 31 dicembre 2026.))
+
+2. 
+
+((Se alla data del 31 dicembre 2033 non sono state espletate le attribuzioni previste per il grado rivestito, le disposizioni di cui al comma 1 rimangono valide fino all'inserimento nella successiva aliquota di valutazione.))
+
+((138))
+
+---------------
+
+AGGIORNAMENTO (138)
+
+Il [D.Lgs. 3 aprile 2026, n. 74](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2026-04-03;74) ha disposto (con l'art. 20, comma 2, lettera d)) che "Le seguenti disposizioni inerenti alla costituzione del Corpo unico della Sanita' militare e al relativo transito del personale sanitario proveniente dalle Forze armate e dall'Arma dei carabinieri hanno effetto contestualmente a decorrere dal 1° gennaio 2027:   
+[...]   
+d) articoli 14, 15, 16, 17 e 18".
+
+### Art. 2233-duodecies
+
+(( (Periodi di comando, di attribuzioni specifiche, di servizio e di imbarco dei sottufficiali e dei graduati reclutati nel Corpo unico della Sanita' militare). ))
+
+1. 
+
+((Entro il 31 dicembre 2028, con decreto del Ministro della difesa, su proposta del Direttore della Sanita' militare, d'intesa con i Capi di stato maggiore delle Forze armate e il Comandante generale dell'Arma dei carabinieri, sono individuati i periodi minimi di comando, di attribuzioni specifiche, di servizio e di imbarco utili ai fini dell'avanzamento dei marescialli, dei sergenti e dei graduati della Sanita' militare reclutati nel Corpo unico della Sanita' militare.))
+
+((138))
+
+---------------
+
+AGGIORNAMENTO (138)
+
+Il [D.Lgs. 3 aprile 2026, n. 74](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2026-04-03;74) ha disposto (con l'art. 20, comma 2, lettera d)) che "Le seguenti disposizioni inerenti alla costituzione del Corpo unico della Sanita' militare e al relativo transito del personale sanitario proveniente dalle Forze armate e dall'Arma dei carabinieri hanno effetto contestualmente a decorrere dal 1° gennaio 2027:   
+[...]   
+d) articoli 14, 15, 16, 17 e 18".
+
+### Art. 2233-terdecies
+
+(( (Regime transitorio dell'avanzamento degli ufficiali del ruolo tecnico, comparto sanitario e psicologico, dell'Arma dei carabinieri transitati nel ruolo normale del Corpo unico della Sanita' militare). ))
+
+  
+  
+1.
+
+((La rideterminazione di anzianita' di cui all'articolo 2214-decies non da' luogo all'inserimento nelle aliquote di valutazione ordinarie gia' emesse per l'avanzamento al grado superiore nel ruolo tecnico, comparto sanitario e psicologico, dell'Arma dei carabinieri.))
+
+  
+2.
+
+((I tenenti colonnelli del ruolo tecnico, comparto sanitario e psicologico, dell'Arma dei carabinieri transitati nel Corpo unico della Sanita' militare, a seguito della rideterminazione di anzianita' di cui all'articolo 2214-decies, sono inseriti, in base agli anni di anzianita' minima richiesti per le promozioni stabilite nella tabella 4-bis, quadro I, allegata al presente codice, in aliquote straordinarie di avanzamento al grado superiore per gli anni dal 2025 al 2027, per il conferimento di sei promozioni al grado di colonnello, con decorrenza dal 1° gennaio dell'anno di riferimento, cosi' ripartite:))
+
+  
+a)
+
+((due per l'anno 2025;))
+
+  
+b)
+
+((due per l'anno 2026;))
+
+  
+c)
+
+((due per l'anno 2027.))
+
+  
+3.
+
+((Per le aliquote straordinarie di avanzamento e le promozioni di cui al comma 2:))
+
+  
+a)
+
+((non si applica quanto previsto dall'articolo 1072;))
+
+  
+b)
+
+((l'articolo 1079 si applica a decorrere dall'anno 2027.))
+
+  
+4.
+
+((Sino all'anno 2033, in relazione all'andamento del ruolo normale del Corpo unico della Sanita' militare, nonche' all'esigenza di mantenere tassi paritari e profili di avanzamento omogenei tra gli ufficiali transitati ai sensi dell'articolo 2214-sexies, il Ministro della difesa e' autorizzato annualmente a prevedere, con apposito decreto, ulteriori promozioni e aliquote straordinarie di avanzamento ai gradi di colonnello e generale riservate agli ufficiali del ruolo tecnico dell'Arma dei carabinieri transitati nel Corpo unico della Sanita' militare, fermi restando i volumi organici complessivi e l'invarianza di spesa. Al fine di garantire l'invarianza di spesa di personale, il decreto di cui al presente comma puo' compensare gli eventuali maggiori oneri anche mediante la riduzione temporanea o permanente delle facolta' assunzionali previste a legislazione vigente.))
+
+  
+5.
+
+((Le eventuali eccedenze determinate dalle promozioni di cui ai commi 2 e 3 sono considerate in soprannumero agli organici e progressivamente riassorbite entro il 31 dicembre 2032.))
+
+((138))
+
+---------------
+
+AGGIORNAMENTO (138)
+
+Il [D.Lgs. 3 aprile 2026, n. 74](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2026-04-03;74) ha disposto (con l'art. 20, comma 2, lettera d)) che "Le seguenti disposizioni inerenti alla costituzione del Corpo unico della Sanita' militare e al relativo transito del personale sanitario proveniente dalle Forze armate e dall'Arma dei carabinieri hanno effetto contestualmente a decorrere dal 1° gennaio 2027:   
+[...]   
+d) articoli 14, 15, 16, 17 e 18".
 
 ### Art. 2234
 
@@ -39693,9 +42090,13 @@ c) il restante terzo, con decorrenza 1° luglio 2017.
 
 ### Art. 2251-bis
 
-Disposizioni transitorie per l'avanzamento al grado di primo maresciallo dell'Esercito italiano, della Marina militare e dell'Aeronautica militare
+( Disposizioni transitorie per l'avanzamento al grado di primo maresciallo dell'Esercito italiano, della Marina militare
 
-((...))
+((, dell'Aeronautica militare e della Sanita' militare))
+
+).
+
+((138))
 
 1. Fermo quanto previsto dall'articolo 2251, fino al conferimento delle promozioni relative all'anno 2021, l'avanzamento al grado di primo maresciallo avviene:
 
@@ -39728,8 +42129,6 @@ b) per l'avanzamento mediante concorso per titoli di servizio ed esami, nel nume
 
 7. Fino al conferimento delle promozioni relative all'anno 2026, non si applica l'articolo 1274, comma 1-bis.
 
-((
-
 7-bis. Per la composizione delle aliquote di valutazione degli anni dal 2020 al 2029, in deroga all'articolo 1278, comma 1, lettera a), i requisiti di anzianita' richiesti per l'inserimento in aliquota di valutazione a scelta per la promozione al grado di primo maresciallo sono rispettivamente:
 
 a) 8 anni per i marescialli capi con anzianita' di grado tra il 1° gennaio 2012 e il 31 dicembre 2012;
@@ -39744,9 +42143,7 @@ d) 7 anni per i marescialli capi con anzianita' di grado dal 1° gennaio 2020 al
 
 a) con anzianita' nel grado fino al 31 dicembre 2012;
 
-b) con anzianita' nel grado fino al 31 dicembre 2013.))
-
-((
+b) con anzianita' nel grado fino al 31 dicembre 2013.
 
 7-quater. Per gli anni 2020, 2021 e 2022 la decorrenza delle promozioni al grado di primo maresciallo e l'ordine di iscrizione in ruolo sono cosi' disciplinati:
 
@@ -39780,31 +42177,29 @@ a) 1° gennaio 2018 per i marescialli di 1ª classe con anzianita' di grado dal 
 
 b) 1° luglio 2018 per i marescialli di 1ª classe con anzianita' di grado dal 1° luglio 2010 al 31 dicembre 2010, promossi in prima valutazione.
 
-))
+---------------
+
+AGGIORNAMENTO (138)
+
+Il [D.Lgs. 3 aprile 2026, n. 74](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2026-04-03;74) ha disposto (con l'art. 20, comma 2, lettera d)) che "Le seguenti disposizioni inerenti alla costituzione del Corpo unico della Sanita' militare e al relativo transito del personale sanitario proveniente dalle Forze armate e dall'Arma dei carabinieri hanno effetto contestualmente a decorrere dal 1° gennaio 2027:   
+[...]   
+d) articoli 14, 15, 16, 17 e 18".
 
 ### Art. 2251-ter
 
-(Disposizioni transitorie per
+( Disposizioni transitorie per l'attribuzione del grado di luogotenente dell'Esercito italiano, della Marina militare
 
-((l'attribuzione))
+((, dell'Aeronautica militare e della Sanita' militare))
 
-del grado di luogotenente dell'Esercito italiano, della Marina militare e dell'Aeronautica militare).
+).
 
-1. Dal 1° gennaio 2017, i primi marescialli in servizio
+((138))
 
-((permanente, ovvero iscritti nel ruolo d'onore e richiamati in servizio,))
+1. Dal 1° gennaio 2017, i primi marescialli in servizio permanente, ovvero iscritti nel ruolo d'onore e richiamati in servizio, in possesso della qualifica di luogotenente assumono il grado di luogotenente in ordine di ruolo e con anzianita' di grado corrispondente all'anzianita' nella qualifica.
 
-in possesso della qualifica di luogotenente assumono il grado di luogotenente in ordine di ruolo e con anzianita' di grado corrispondente all'anzianita' nella qualifica.
-
-2. I primi marescialli inseriti nell'aliquota di valutazione al 31 dicembre 2016, ai quali non e' stata conferita la qualifica di luogotenente ai sensi dell'articolo 2253, commi 1, 1-bis e 1-ter, nonche' i primi marescialli, che alla data di entrata in vigore del presente articolo hanno una permanenza minima nel grado uguale o superiore a quella stabilita dall'articolo 1278, comma 1, lettera b), sono inclusi in un'aliquota straordinaria formata al 1° gennaio 2017 e valutati ai sensi
-
-((dell'articolo 1056, comma 2))
-
-.
+2. I primi marescialli inseriti nell'aliquota di valutazione al 31 dicembre 2016, ai quali non e' stata conferita la qualifica di luogotenente ai sensi dell'articolo 2253, commi 1, 1-bis e 1-ter, nonche' i primi marescialli, che alla data di entrata in vigore del presente articolo hanno una permanenza minima nel grado uguale o superiore a quella stabilita dall'articolo 1278, comma 1, lettera b), sono inclusi in un'aliquota straordinaria formata al 1° gennaio 2017 e valutati ai sensi dell'articolo 1056, comma 2.
 
 3. I primi marescialli, inseriti nell'aliquota straordinaria di cui al comma 2, se giudicati idonei, sono promossi al grado di luogotenente in ordine di ruolo con decorrenza giuridica e amministrativa al 1° gennaio 2017, prendendo posto dopo i pari grado promossi con l'aliquota del 31 dicembre 2016.
-
-((
 
 3-bis. Per la composizione delle aliquote di valutazione fino all'anno 2037, in deroga all'articolo 1278, comma 1, lettera b), i requisiti di anzianita' richiesti per l'inserimento in aliquota di valutazione per la promozione al grado di luogotenente, fatte salve le disposizioni di cui al comma 3-quinquies, sono rispettivamente:
 
@@ -39878,89 +42273,67 @@ b) 2 gennaio 2021, primi marescialli con anzianita' di grado tra il 1° aprile 2
 
 c) 3 gennaio 2021, primi marescialli con anzianita' di grado tra il 1° luglio 2017 e il 31 dicembre 2017 di cui all'articolo 2251, comma 8.
 
-))
-
 4. Le promozioni di cui al presente articolo non sono comunque conferite al personale che si trova nelle condizioni di cui all'articolo 1051.
-
-((
 
 5. Dal 1° gennaio 2023 al 31 dicembre 2029, in deroga all'articolo 1282, comma 3, il numero di promozioni al grado di luogotenente e' pari al 75 per cento della rispettiva aliquota.
 
-))
+---------------
+
+AGGIORNAMENTO (138)
+
+Il [D.Lgs. 3 aprile 2026, n. 74](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2026-04-03;74) ha disposto (con l'art. 20, comma 2, lettera d)) che "Le seguenti disposizioni inerenti alla costituzione del Corpo unico della Sanita' militare e al relativo transito del personale sanitario proveniente dalle Forze armate e dall'Arma dei carabinieri hanno effetto contestualmente a decorrere dal 1° gennaio 2027:   
+[...]   
+d) articoli 14, 15, 16, 17 e 18".
 
 ### Art. 2251-quater
 
-(Disposizioni transitorie per l'attribuzione della qualifica di primo luogotenente ai luogotenenti dell'Esercito italiano, della Marina militare e dell'Aeronautica militare)
+  
+( Disposizioni transitorie per l'attribuzione della qualifica di primo luogotenente ai luogotenenti dell'Esercito italiano, della Marina militare
 
-1. Il personale che ha assunto il grado di luogotenente, ai sensi dell'articolo 2251-ter, comma 1, e non si trovi nelle condizioni di cui all'articolo 1051 e' inserito in una aliquota straordinaria al 1° ottobre 2017. L'attribuzione della qualifica di primo luogotenente ha decorrenza 1° ottobre 2017.
+((, dell'Aeronautica militare e della Sanita' militare))
 
-2. Al personale promosso al grado di luogotenente ai sensi dell'art. 2251-ter,
+).
 
-((commi 2, 3 e 3-bis))
+((138))
 
-, ai fini dell'attribuzione della qualifica di primo luogotenente, fermi restando gli altri requisiti, sono richiesti i periodi di permanenza minima nel grado di seguito indicati:
+  
+  
+1. Il personale che ha assunto il grado di luogotenente, ai sensi dell'articolo 2251-ter, comma 1, e non si trovi nelle condizioni di cui all'articolo 1051 e' inserito in una aliquota straordinaria al 1° ottobre 2017. L'attribuzione della qualifica di primo luogotenente ha decorrenza 1° ottobre 2017.   
+2. Al personale promosso al grado di luogotenente ai sensi dell'art. 2251-ter, commi 2, 3 e 3-bis, ai fini dell'attribuzione della qualifica di primo luogotenente, fermi restando gli altri requisiti, sono richiesti i periodi di permanenza minima nel grado di seguito indicati:   
+a) un anno, per il personale che rivestiva il grado di primo maresciallo non oltre il 2006;   
+b) due anni, per il personale che rivestiva il grado di primo maresciallo dal 1° gennaio 2007 al 31 dicembre 2007;   
+c) tre anni, per il personale che rivestiva il grado di primo maresciallo dal 1° gennaio 2008 al 31 dicembre 2009.   
+c-bis) due anni, per i luogotenenti con anzianita' di grado compresa tra il 1° gennaio 2018 e il 31 dicembre 2018;   
+c-ter) un anno, per i luogotenenti con anzianita' di grado compresa tra il 1° gennaio 2019 e il 31 dicembre 2019;   
+c-quater) un anno, per i luogotenenti con anzianita' di grado compresa tra il 1° gennaio 2020 e il 31 dicembre 2020, di cui all'articolo 2251-ter, comma 3-ter, lettera a);   
+c-quinquies) due anni, per i luogotenenti con anzianita' di grado compresa tra il 1° gennaio 2020 e il 31 dicembre 2020, di cui all'articolo 2251-ter, comma 3-ter, lettera b);   
+c-sexies) tre anni, per i luogotenenti con anzianita' di grado compresa tra il 1° gennaio 2020 e il 31 dicembre 2020, di cui all'articolo 2251-ter, comma 3-ter, lettera c);   
+c-septies) quattro anni, per i luogotenenti con anzianita' di grado compresa tra il 1° gennaio 2020 e il 31 dicembre 2020, di cui all'articolo 2251-ter, comma 3-ter, lettera d);   
+c-octies) cinque anni, per i luogotenenti con anzianita' di grado compresa tra il 1° gennaio 2020 e il 31 dicembre 2020, di cui all'articolo 2251-ter, comma 3-ter, lettera e);   
+c-nonies) sei anni, per i luogotenenti con anzianita' di grado compresa tra il 1° gennaio 2020 e il 31 dicembre 2020, di cui all'articolo 2251-ter, comma 3-ter, lettera f);   
+c-decies) sei anni, per i luogotenenti con anzianita' di grado compresa tra il 1° gennaio 2021 e il 31 dicembre 2021, di cui all'articolo 2251-ter, comma 3-bis, lettera g).   
+2-bis. Per le qualifiche da attribuire dal 2019 al 2027, in deroga alle disposizioni di cui all'articolo 1323, comma 1, i luogotenenti con anzianita' di grado 1° gennaio a cui attribuire la qualifica di primo luogotenente sono inclusi in una aliquota formata al 31 dicembre dell'anno solare precedente alla maturazione del requisito minimo di anzianita' stabilito dal comma 2.   
+2-ter. Ai luogotenenti esclusi dalle aliquote di cui ai commi 1, 2 e 2-bis per i motivi di cui all'articolo 1051, si applicano, in quanto compatibili, le disposizioni di cui al capo V del titolo VII, in materia di rinnovazione dei giudizi di avanzamento.   
+2-quater. I luogotenenti esclusi dalle aliquote cui ai commi 1, 2 e 2-bis per mancanza dei requisiti di cui all'articolo 1323, comma 1, lettere c) e d), sono inseriti nella prima aliquota successiva alla data di maturazione di tali requisiti e la qualifica speciale e' conferita a decorrere dal giorno successivo a tale data.   
+2-quinquies. Per l'anno 2020 la decorrenza della qualifica di primo luogotenente e l'ordine di iscrizione in ruolo sono cosi' disciplinati:   
+a) 1° gennaio 2020, luogotenenti con anzianita' di grado dal 1° gennaio 2017 al 31 dicembre 2017, precedentemente primi marescialli con anzianita' 2008;   
+b) 2 gennaio 2020, luogotenenti con anzianita' di grado dal 1° gennaio 2017 al 31 dicembre 2017, precedentemente primi marescialli con anzianita' 2009;   
+c) 3 gennaio 2020, luogotenenti con anzianita' di grado dal 1° gennaio 2018 al 31 dicembre 2018, precedentemente primi marescialli con anzianita' 2010;   
+d) 4 gennaio 2020, luogotenenti con anzianita' di grado dal 1° gennaio 2019 al 31 dicembre 2019, precedentemente primi marescialli con anzianita' 2011.   
+2-sexies. Per l'anno 2027 la decorrenza della qualifica di primo luogotenente e l'ordine di iscrizione in ruolo sono cosi' disciplinati:   
+a) 1° gennaio 2027, luogotenenti con anzianita' di grado dal 1° gennaio 2021 al 31 marzo 2021, precedentemente primi marescialli con anzianita' di grado dal 1° gennaio 2017 al 31 marzo 2017;   
+b) 2 gennaio 2027, luogotenenti con anzianita' di grado dal 1° aprile 2021 al 30 giugno 2021, precedentemente primi marescialli con anzianita' di grado dal 1° aprile 2017 al 30 giugno 2017;   
+c) 3 gennaio 2027, luogotenenti con anzianita' di grado dal 1° luglio 2021 al 31 dicembre 2021, precedentemente primi marescialli con anzianita' di grado dal 1° luglio 2017 al 31 dicembre 2017;   
+d) 1° luglio 2027, luogotenenti con anzianita' di grado dal 1° luglio 2023 al 31 dicembre 2023.   
+  
 
-a) un anno, per il personale che rivestiva il grado di primo maresciallo non oltre il 2006;
+---------------
 
-b) due anni, per il personale che rivestiva il grado di primo maresciallo dal 1° gennaio 2007 al 31 dicembre 2007;
+AGGIORNAMENTO (138)
 
-c) tre anni, per il personale che rivestiva il grado di primo maresciallo dal 1° gennaio 2008 al
-
-((31 dicembre 2009))
-
-.
-
-((
-
-c-bis) due anni, per i luogotenenti con anzianita' di grado compresa tra il 1° gennaio 2018 e il 31 dicembre 2018;
-
-c-ter) un anno, per i luogotenenti con anzianita' di grado compresa tra il 1° gennaio 2019 e il 31 dicembre 2019;
-
-c-quater) un anno, per i luogotenenti con anzianita' di grado compresa tra il 1° gennaio 2020 e il 31 dicembre 2020, di cui all'articolo 2251-ter, comma 3-ter, lettera a);
-
-c-quinquies) due anni, per i luogotenenti con anzianita' di grado compresa tra il 1° gennaio 2020 e il 31 dicembre 2020, di cui all'articolo 2251-ter, comma 3-ter, lettera b);
-
-c-sexies) tre anni, per i luogotenenti con anzianita' di grado compresa tra il 1° gennaio 2020 e il 31 dicembre 2020, di cui all'articolo 2251-ter, comma 3-ter, lettera c);
-
-c-septies) quattro anni, per i luogotenenti con anzianita' di grado compresa tra il 1° gennaio 2020 e il 31 dicembre 2020, di cui all'articolo 2251-ter, comma 3-ter, lettera d);
-
-c-octies) cinque anni, per i luogotenenti con anzianita' di grado compresa tra il 1° gennaio 2020 e il 31 dicembre 2020, di cui all'articolo 2251-ter, comma 3-ter, lettera e);
-
-c-nonies) sei anni, per i luogotenenti con anzianita' di grado compresa tra il 1° gennaio 2020 e il 31 dicembre 2020, di cui all'articolo 2251-ter, comma 3-ter, lettera f);
-
-c-decies) sei anni, per i luogotenenti con anzianita' di grado compresa tra il 1° gennaio 2021 e il 31 dicembre 2021, di cui all'articolo 2251-ter, comma 3-bis, lettera g).
-
-))
-
-((
-
-2-bis. Per le qualifiche da attribuire dal 2019 al 2027, in deroga alle disposizioni di cui all'articolo 1323, comma 1, i luogotenenti con anzianita' di grado 1° gennaio a cui attribuire la qualifica di primo luogotenente sono inclusi in una aliquota formata al 31 dicembre dell'anno solare precedente alla maturazione del requisito minimo di anzianita' stabilito dal comma 2.
-
-2-ter. Ai luogotenenti esclusi dalle aliquote di cui ai commi 1, 2 e 2-bis per i motivi di cui all'articolo 1051, si applicano, in quanto compatibili, le disposizioni di cui al capo V del titolo VII, in materia di rinnovazione dei giudizi di avanzamento.
-
-2-quater. I luogotenenti esclusi dalle aliquote cui ai commi 1, 2 e 2-bis per mancanza dei requisiti di cui all'articolo 1323, comma 1, lettere c) e d), sono inseriti nella prima aliquota successiva alla data di maturazione di tali requisiti e la qualifica speciale e' conferita a decorrere dal giorno successivo a tale data.
-
-2-quinquies. Per l'anno 2020 la decorrenza della qualifica di primo luogotenente e l'ordine di iscrizione in ruolo sono cosi' disciplinati:
-
-a) 1° gennaio 2020, luogotenenti con anzianita' di grado dal 1° gennaio 2017 al 31 dicembre 2017, precedentemente primi marescialli con anzianita' 2008;
-
-b) 2 gennaio 2020, luogotenenti con anzianita' di grado dal 1° gennaio 2017 al 31 dicembre 2017, precedentemente primi marescialli con anzianita' 2009;
-
-c) 3 gennaio 2020, luogotenenti con anzianita' di grado dal 1° gennaio 2018 al 31 dicembre 2018, precedentemente primi marescialli con anzianita' 2010;
-
-d) 4 gennaio 2020, luogotenenti con anzianita' di grado dal 1° gennaio 2019 al 31 dicembre 2019, precedentemente primi marescialli con anzianita' 2011.
-
-2-sexies. Per l'anno 2027 la decorrenza della qualifica di primo luogotenente e l'ordine di iscrizione in ruolo sono cosi' disciplinati:
-
-a) 1° gennaio 2027, luogotenenti con anzianita' di grado dal 1° gennaio 2021 al 31 marzo 2021, precedentemente primi marescialli con anzianita' di grado dal 1° gennaio 2017 al 31 marzo 2017;
-
-b) 2 gennaio 2027, luogotenenti con anzianita' di grado dal 1° aprile 2021 al 30 giugno 2021, precedentemente primi marescialli con anzianita' di grado dal 1° aprile 2017 al 30 giugno 2017;
-
-c) 3 gennaio 2027, luogotenenti con anzianita' di grado dal 1° luglio 2021 al 31 dicembre 2021, precedentemente primi marescialli con anzianita' di grado dal 1° luglio 2017 al 31 dicembre 2017;
-
-d) 1° luglio 2027, luogotenenti con anzianita' di grado dal 1° luglio 2023 al 31 dicembre 2023.
-
-))
+Il [D.Lgs. 3 aprile 2026, n. 74](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2026-04-03;74) ha disposto (con l'art. 20, comma 2, lettera d)) che "Le seguenti disposizioni inerenti alla costituzione del Corpo unico della Sanita' militare e al relativo transito del personale sanitario proveniente dalle Forze armate e dall'Arma dei carabinieri hanno effetto contestualmente a decorrere dal 1° gennaio 2027:   
+[...]   
+d) articoli 14, 15, 16, 17 e 18".
 
 ### Art. 2251-quinquies
 
@@ -41051,6 +43424,54 @@ a) di 2 punti percentuali, per il triennio negoziale 2022-2024;
 b) di 1 punto percentuale, per il triennio negoziale 2025-2027.
 
 ))
+
+### Art. 2257-quater
+
+(( (Disposizioni transitorie in materia di associazioni professionali a carattere sindacale tra militari per gli appartenenti al Corpo unico della Sanita' militare).))
+
+1. 
+
+((Fino alla data di entrata in vigore del decreto del Ministro della pubblica amministrazione per il triennio 2028/2030, di cui all'articolo 1478, comma 5, le APCSM dichiarate rappresentative per il triennio 2025/2027 tutelano gli interessi collettivi degli appartenenti al Corpo unico della Sanita' militare.))
+
+2. 
+
+((In deroga alle disposizioni di cui agli articoli 1475 e 1476, fino alla data di cui al comma 1, i militari del Corpo unico della Sanita' militare possono continuare a essere iscritti ovvero iscriversi alle APCSM costituite per singola Forza armata o per l'Arma dei carabinieri o interforze.))
+
+((138))
+
+---------------
+
+AGGIORNAMENTO (138)
+
+Il [D.Lgs. 3 aprile 2026, n. 74](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2026-04-03;74) ha disposto (con l'art. 20, comma 2, lettera d)) che "Le seguenti disposizioni inerenti alla costituzione del Corpo unico della Sanita' militare e al relativo transito del personale sanitario proveniente dalle Forze armate e dall'Arma dei carabinieri hanno effetto contestualmente a decorrere dal 1° gennaio 2027:   
+[...]   
+d) articoli 14, 15, 16, 17 e 18".
+
+### Art. 2257-quinquies
+
+(( (Disposizioni transitorie in materia di disciplina del Corpo unico della Sanita' militare). ))
+
+1. 
+
+((Per il personale del Corpo unico della Sanita' militare, i procedimenti disciplinari da cui possa derivare una sanzione disciplinare di stato pendenti al momento del transito sono proseguiti o riassunti e istruiti dagli organi competenti e secondo le procedure relative al personale del Corpo unico della Sanita' militare.))
+
+2. 
+
+((Per i fatti commessi dal personale del Corpo unico della Sanita' militare antecedentemente al transito giudicati con sentenza o decreto penale irrevocabili, di cui l'amministrazione militare ha avuto conoscenza integrale, la valutazione sotto il profilo disciplinare e' condotta dagli organi competenti e secondo le procedure relative al personale del Corpo unico della Sanita' militare.))
+
+3. 
+
+((Per i fatti commessi dal personale del Corpo unico della Sanita' militare antecedentemente al transito di cui gli organi competenti sono o vengono a conoscenza dopo il transito sono perseguiti dagli organi competenti e secondo le procedure relative al personale del Corpo unico della Sanita' militare.))
+
+((138))
+
+---------------
+
+AGGIORNAMENTO (138)
+
+Il [D.Lgs. 3 aprile 2026, n. 74](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2026-04-03;74) ha disposto (con l'art. 20, comma 2, lettera d)) che "Le seguenti disposizioni inerenti alla costituzione del Corpo unico della Sanita' militare e al relativo transito del personale sanitario proveniente dalle Forze armate e dall'Arma dei carabinieri hanno effetto contestualmente a decorrere dal 1° gennaio 2027:   
+[...]   
+d) articoli 14, 15, 16, 17 e 18".
 
 ### Art. 2258
 
@@ -43077,11 +45498,11 @@ Tabella 1-Esercito
 TABELLA 1: ESERCITO   
 (art. 1099-bis, comma 1)   
   
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=v010G00890010001011000105&dgu=2010-05-08&art.dataPubblicazioneGazzetta=2010-05-08&art.codiceRedazionale=010G0089)
+[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=v010G00890010001011000106&dgu=2010-05-08&art.dataPubblicazioneGazzetta=2010-05-08&art.codiceRedazionale=010G0089)
   
-(44)(62)
+(44)(62) (110)
 
-((110))
+((138))
 
 -------------
 
@@ -43107,21 +45528,30 @@ AGGIORNAMENTO (110)
 Il [D.Lgs. 23 novembre 2023, n. 185](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2023-11-23;185), ha disposto (con l'art. 3, comma 1, lettera a))) che "alla tabella 1, di cui all'articolo 1099-bis, i quadri I, II, III, IV, V e VI sono sostituiti dai quadri I, II, III, IV, V e VI allegati al presente decreto".   
 Si riportano di seguito i Quadri I, II, III, IV, V e VI della Tabella 1.   
   
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=v010G00890010001011000205&dgu=2010-05-08&art.dataPubblicazioneGazzetta=2010-05-08&art.codiceRedazionale=010G0089)
+[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=v010G00890010001011000206&dgu=2010-05-08&art.dataPubblicazioneGazzetta=2010-05-08&art.codiceRedazionale=010G0089)
   
   
 Ha inoltre disposto (con l'art. 4, comma 2) che "Le modificazioni apportate dalle disposizioni del presente decreto al [codice dell'ordinamento militare](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-03-15;66), di cui al [decreto legislativo 15 marzo 2010, n. 66](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-03-15;66), hanno effetto a decorrere dal 1° gennaio 2024".
+
+-------------
+
+AGGIORNAMENTO (138)
+
+Il [D.Lgs. 3 aprile 2026, n. 74](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2026-04-03;74), ha disposto (con l'art. 10, comma 1, lettera uu) che "alla tabella 1, i quadri IV e VIII sono abrogati".   
+Ha inoltre disposto (con l'art. 20, comma 2, lettera c)) che "Le seguenti disposizioni inerenti alla costituzione del Corpo unico della Sanita' militare e al relativo transito del personale sanitario proveniente dalle Forze armate e dall'Arma dei carabinieri hanno effetto contestualmente a decorrere dal 1° gennaio 2027:   
+[...]   
+c) articoli 6, 7, 8, 9, 10, 11 e 12;".
 
 Tabella 2-Marina
 
 TABELLA 2: MARINA   
 (art. 1136-bis, comma 1)   
   
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=v010G00890020001011000109&dgu=2010-05-08&art.dataPubblicazioneGazzetta=2010-05-08&art.codiceRedazionale=010G0089)
+[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=v010G00890020001011000110&dgu=2010-05-08&art.dataPubblicazioneGazzetta=2010-05-08&art.codiceRedazionale=010G0089)
   
-(44)(62)(101)(110)(122)
+(44)(62)(101)(110)(122)(124)
 
-((124))
+((138))
 
 ---------------
 
@@ -43149,7 +45579,7 @@ AGGIORNAMENTO (101)
 Il [D.L. 22 aprile 2023, n. 44](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2023-04-22;44), ha disposto (con l'art. 17, comma 1, lettera e)) che "il Quadro X della Tabella 2 e' sostituito dal Quadro X di cui all'allegato 8, che e' parte integrante del presente decreto".   
 Si riporta di seguito il Quadro X della Tabella 2.   
   
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=v010G00890020001011000209&dgu=2010-05-08&art.dataPubblicazioneGazzetta=2010-05-08&art.codiceRedazionale=010G0089)
+[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=v010G00890020001011000210&dgu=2010-05-08&art.dataPubblicazioneGazzetta=2010-05-08&art.codiceRedazionale=010G0089)
   
   
 Ha inoltre disposto (con l'art. 17, comma 1, alinea) che la presente modifica decorre dal 1° gennaio 2024.
@@ -43161,7 +45591,7 @@ AGGIORNAMENTO (110)
 Il [D.Lgs. 23 novembre 2023, n. 185](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2023-11-23;185), ha disposto (con l'art. 3, comma 1, lettera b)) che "alla tabella 2, di cui all'articolo 1136-bis, i quadri I, II, III, IV e VI sono sostituiti dai quadri I, II, III, IV e VI allegati al presente decreto".   
 Si riportano di seguito i Quadri I, II, III, IV, V e VI della Tabella 2.   
   
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=v010G00890020001011000309&dgu=2010-05-08&art.dataPubblicazioneGazzetta=2010-05-08&art.codiceRedazionale=010G0089)
+[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=v010G00890020001011000310&dgu=2010-05-08&art.dataPubblicazioneGazzetta=2010-05-08&art.codiceRedazionale=010G0089)
   
   
 Ha inoltre disposto (con l'art. 4, comma 2) che "Le modificazioni apportate dalle disposizioni del presente decreto al [codice dell'ordinamento militare](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-03-15;66), di cui al [decreto legislativo 15 marzo 2010, n. 66](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-03-15;66), hanno effetto a decorrere dal 1° gennaio 2024".
@@ -43178,16 +45608,25 @@ AGGIORNAMENTO (124)
 
 Il [D.L. 14 marzo 2025, n. 25](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2025-03-14;25), convertito con modificazioni dalla [L. 9 maggio 2025, n. 69](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2025-05-09;69), ha disposto (con l'art. 12, comma 16-quater, lettera c)) che "nel quadro V della tabella 2, di cui all'articolo 1136-bis, alla riga corrispondente al grado di cui all'articolo 814, comma 1-bis, lettera a), nella colonna relativa all'organico, la cifra: "5" e' sostituita dalla seguente: "6"".
 
+-------------
+
+AGGIORNAMENTO (138)
+
+Il [D.Lgs. 3 aprile 2026, n. 74](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2026-04-03;74), ha disposto (con l'art. 10, comma 1, lettera uu) che "alla tabella 1, i quadri IV e VIII sono abrogati".   
+Ha inoltre disposto (con l'art. 20, comma 2, lettera c)) che "Le seguenti disposizioni inerenti alla costituzione del Corpo unico della Sanita' militare e al relativo transito del personale sanitario proveniente dalle Forze armate e dall'Arma dei carabinieri hanno effetto contestualmente a decorrere dal 1° gennaio 2027:   
+[...]   
+c) articoli 6, 7, 8, 9, 10, 11 e 12;".
+
 Tabella 3-Aeronautica
 
 TABELLA 3: AERONAUTICA   
 (art. 1185-bis, comma 1)   
   
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=v010G00890030001011000105&dgu=2010-05-08&art.dataPubblicazioneGazzetta=2010-05-08&art.codiceRedazionale=010G0089)
+[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=v010G00890030001011000106&dgu=2010-05-08&art.dataPubblicazioneGazzetta=2010-05-08&art.codiceRedazionale=010G0089)
   
-(44)(62)
+(44)(62)(110)
 
-((110))
+((138))
 
 -------------
 
@@ -43222,10 +45661,19 @@ Il [D.Lgs. 23 novembre 2023, n. 185](http://www.normattiva.it/uri-res/N2Ls?urn:n
 3.2) in corrispondenza della riga «sottotenente», le parole: «Diploma di licenza di istituto medio di secondo grado.» sono soppresse".   
 Si riportano di seguito i Quadri I, II, III, IV, V, VIII, IX e X della Tabella 3.   
   
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=v010G00890030001011000205&dgu=2010-05-08&art.dataPubblicazioneGazzetta=2010-05-08&art.codiceRedazionale=010G0089)
+[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=v010G00890030001011000206&dgu=2010-05-08&art.dataPubblicazioneGazzetta=2010-05-08&art.codiceRedazionale=010G0089)
   
   
 Ha inoltre disposto (con l'art. 4, comma 2) che "Le modificazioni apportate dalle disposizioni del presente decreto al [codice dell'ordinamento militare](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-03-15;66), di cui al [decreto legislativo 15 marzo 2010, n. 66](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-03-15;66), hanno effetto a decorrere dal 1° gennaio 2024".
+
+-------------
+
+AGGIORNAMENTO (138)
+
+Il [D.Lgs. 3 aprile 2026, n. 74](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2026-04-03;74), ha disposto (con l'art. 10, comma 1, lettera uu) che "alla tabella 1, i quadri IV e VIII sono abrogati".   
+Ha inoltre disposto (con l'art. 20, comma 2, lettera c)) che "Le seguenti disposizioni inerenti alla costituzione del Corpo unico della Sanita' militare e al relativo transito del personale sanitario proveniente dalle Forze armate e dall'Arma dei carabinieri hanno effetto contestualmente a decorrere dal 1° gennaio 2027:   
+[...]   
+c) articoli 6, 7, 8, 9, 10, 11 e 12;".
 
 Tabella 4-Arma dei Carabinieri
 
@@ -43234,33 +45682,30 @@ Tabella 4-Arma dei Carabinieri
   
 Quadro I (specchio A - anno 2017)   
   
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=v010G00890040001011000110&dgu=2010-05-08&art.dataPubblicazioneGazzetta=2010-05-08&art.codiceRedazionale=010G0089)
+[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=v010G00890040001011000112&dgu=2010-05-08&art.dataPubblicazioneGazzetta=2010-05-08&art.codiceRedazionale=010G0089)
   
   
 Quadro I (specchio A-bis)   
   
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=v010G00890040001011000210&dgu=2010-05-08&art.dataPubblicazioneGazzetta=2010-05-08&art.codiceRedazionale=010G0089)
+[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=v010G00890040001011000212&dgu=2010-05-08&art.dataPubblicazioneGazzetta=2010-05-08&art.codiceRedazionale=010G0089)
   
   
 Quadro I (specchio B - anno 2022)   
   
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=v010G00890040001011000310&dgu=2010-05-08&art.dataPubblicazioneGazzetta=2010-05-08&art.codiceRedazionale=010G0089)
+[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=v010G00890040001011000312&dgu=2010-05-08&art.dataPubblicazioneGazzetta=2010-05-08&art.codiceRedazionale=010G0089)
   
 (88)   
   
 Quadro I (specchio B-bis - Anno 2024   
   
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=v010G00890040001011000410&dgu=2010-05-08&art.dataPubblicazioneGazzetta=2010-05-08&art.codiceRedazionale=010G0089)
+[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=v010G00890040001011000412&dgu=2010-05-08&art.dataPubblicazioneGazzetta=2010-05-08&art.codiceRedazionale=010G0089)
   
   
-Quadro I (specchio C - anno 2027)   
+Tabella 4 - Quadro I (specchio C - anno 2027) (art. 1226-bis, comma 1)   
   
-
-(([Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=v010G00890040001011000510&dgu=2010-05-08&art.dataPubblicazioneGazzetta=2010-05-08&art.codiceRedazionale=010G0089)))
-
-((133))
-
+[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=v010G00890040001011000512&dgu=2010-05-08&art.dataPubblicazioneGazzetta=2010-05-08&art.codiceRedazionale=010G0089)
   
+(133) (135)   
   
 TABELLA 4: ARMA DEI CARABINIERI   
 (art. 1226-bis, comma 1)   
@@ -43268,18 +45713,18 @@ TABELLA 4: ARMA DEI CARABINIERI
   
 Quadro II (specchio A)   
   
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=v010G00890040001011000610&dgu=2010-05-08&art.dataPubblicazioneGazzetta=2010-05-08&art.codiceRedazionale=010G0089)
+[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=v010G00890040001011000612&dgu=2010-05-08&art.dataPubblicazioneGazzetta=2010-05-08&art.codiceRedazionale=010G0089)
   
   
 Quadro II (specchio A-bis - Anno 2022)   
   
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=v010G00890040001011000710&dgu=2010-05-08&art.dataPubblicazioneGazzetta=2010-05-08&art.codiceRedazionale=010G0089)
+[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=v010G00890040001011000712&dgu=2010-05-08&art.dataPubblicazioneGazzetta=2010-05-08&art.codiceRedazionale=010G0089)
   
 (88)   
   
 Quadro II (specchio B - anno 2032)   
   
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=v010G00890040001011000810&dgu=2010-05-08&art.dataPubblicazioneGazzetta=2010-05-08&art.codiceRedazionale=010G0089)
+[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=v010G00890040001011000812&dgu=2010-05-08&art.dataPubblicazioneGazzetta=2010-05-08&art.codiceRedazionale=010G0089)
   
   
 TABELLA 4: ARMA DEI CARABINIERI   
@@ -43288,21 +45733,25 @@ TABELLA 4: ARMA DEI CARABINIERI
   
 Quadro III (specchio A - anno 2017)   
   
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=v010G00890040001011000910&dgu=2010-05-08&art.dataPubblicazioneGazzetta=2010-05-08&art.codiceRedazionale=010G0089)
+[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=v010G00890040001011000912&dgu=2010-05-08&art.dataPubblicazioneGazzetta=2010-05-08&art.codiceRedazionale=010G0089)
   
 (54)   
   
   
 Quadro III (specchio B - anno 2022)   
   
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=v010G00890040001011001010&dgu=2010-05-08&art.dataPubblicazioneGazzetta=2010-05-08&art.codiceRedazionale=010G0089)
+[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=v010G00890040001011001012&dgu=2010-05-08&art.dataPubblicazioneGazzetta=2010-05-08&art.codiceRedazionale=010G0089)
   
 (88)   
   
   
 Quadro III (specchio C - anno 2027)   
   
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=v010G00890040001011001110&dgu=2010-05-08&art.dataPubblicazioneGazzetta=2010-05-08&art.codiceRedazionale=010G0089)
+
+(([Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=v010G00890040001011001112&dgu=2010-05-08&art.dataPubblicazioneGazzetta=2010-05-08&art.codiceRedazionale=010G0089)))
+
+((138))
+
   
   
 TABELLA 4: ARMA DEI CARABINIERI   
@@ -43311,7 +45760,7 @@ TABELLA 4: ARMA DEI CARABINIERI
 Quadro IV   
 (art. 1226-bis, comma 1)   
   
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=v010G00890040001011001210&dgu=2010-05-08&art.dataPubblicazioneGazzetta=2010-05-08&art.codiceRedazionale=010G0089)
+[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=v010G00890040001011001212&dgu=2010-05-08&art.dataPubblicazioneGazzetta=2010-05-08&art.codiceRedazionale=010G0089)
   
   
 Tabella 4   
@@ -43319,7 +45768,7 @@ Tabella 4
 Quadro V   
 (articolo 2247 bis, comma 1)   
   
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=v010G00890040001011001310&dgu=2010-05-08&art.dataPubblicazioneGazzetta=2010-05-08&art.codiceRedazionale=010G0089)
+[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=v010G00890040001011001312&dgu=2010-05-08&art.dataPubblicazioneGazzetta=2010-05-08&art.codiceRedazionale=010G0089)
   
   
   
@@ -43443,7 +45892,7 @@ Tabella 4
 Quadro XI   
 (articolo 2247 bis, comma 10)   
   
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=v010G00890040001011001410&dgu=2010-05-08&art.dataPubblicazioneGazzetta=2010-05-08&art.codiceRedazionale=010G0089)
+[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=v010G00890040001011001412&dgu=2010-05-08&art.dataPubblicazioneGazzetta=2010-05-08&art.codiceRedazionale=010G0089)
   
   
   
@@ -43474,4 +45923,41 @@ La [L. 30 dicembre 2021, n. 234](http://www.normattiva.it/uri-res/N2Ls?urn:nir:s
 
 AGGIORNAMENTO (133)
 
-Il [D.L. 24 febbraio 2026, n. 23](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2026-02-24;23), ha disposto (con l'art. 20, comma 1, lettera q)) che la modifica dello specchio C del Quadro I decorre dal 1 gennaio 2027.
+Il [D.L. 24 febbraio 2026, n. 23](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2026-02-24;23), convertito con modificazioni dalla [L. 24 aprile 2026, n. 54](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2026-04-24;54), ha disposto (con l'art. 20, comma 1, lettera q)) che la modifica dello specchio C del Quadro I decorre dal 1° gennaio 2027.
+
+---------------
+
+AGGIORNAMENTO (135)
+
+La [L. 24 aprile 2026, n. 54](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2026-04-24;54), nel convertire l'[art. 20, comma 1, lettera q) del D.L. 24 febbraio 2026, n. 23](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2026-02-24;23~art20-com1-letq), ha disposto (con l'art. 1, comma 1) che "le parole: «del [decreto legislativo n. 66 del 2010](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010;66)» e la parola: «COM» sono soppresse".
+
+-------------
+
+AGGIORNAMENTO (138)
+
+Il [D.Lgs. 3 aprile 2026, n. 74](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2026-04-03;74), ha disposto (con l'art. 20, comma 2, lettera c)) che "Le seguenti disposizioni inerenti alla costituzione del Corpo unico della Sanita' militare e al relativo transito del personale sanitario proveniente dalle Forze armate e dall'Arma dei carabinieri hanno effetto contestualmente a decorrere dal 1° gennaio 2027:   
+[...]   
+c) articoli 6, 7, 8, 9, 10, 11 e 12;".
+
+Tabella 4 bis
+
+((TABELLA 4-bis   
+(art. 1239-bis, comma 1)   
+  
+Quadro I: Ruolo normale del Corpo unico della Sanita' militare   
+  
+Parte di provveidmento in formato grafico  
+  
+Quadro II: Ruolo speciale del Corpo unico della Sanita' militare   
+  
+Parte di provveidmento in formato grafico))
+
+((138))
+
+-------------
+
+AGGIORNAMENTO (138)
+
+Il [D.Lgs. 3 aprile 2026, n. 74](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2026-04-03;74), ha disposto (con l'art. 20, comma 2, lettera c)) che "Le seguenti disposizioni inerenti alla costituzione del Corpo unico della Sanita' militare e al relativo transito del personale sanitario proveniente dalle Forze armate e dall'Arma dei carabinieri hanno effetto contestualmente a decorrere dal 1° gennaio 2027:   
+[...]   
+c) articoli 6, 7, 8, 9, 10, 11 e 12;".
