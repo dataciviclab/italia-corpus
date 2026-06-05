@@ -370,30 +370,21 @@ d) il pagamento della somma di 2.065,83 euro per ciascun capo adibito o della so
 
 2. Nelle ipotesi di cui al comma 1, il materiale riproduttivo utilizzato e' confiscato e ne viene ordinata la distruzione a spese del contravventore; il capo o i capi utilizzati sono sequestrati cautelarmente.
 
-3. Le sanzioni amministrative di cui ai commi 1 e 2, aumentate di un terzo, si applicano, salvo che il fatto costituisca reato, anche a chiunque impiega, per la riproduzione, animali privi dei requisiti sanitari stabiliti
-
-((dalla normativa vigente))
-
-nonche' a chiunque produce, distribuisce e utilizza materiale seminale o embrioni privi dei requisiti sanitari stabiliti
-
-((dalla normativa vigente))
-
-.
+3. Le sanzioni amministrative di cui ai commi 1 e 2, aumentate di un terzo, si applicano, salvo che il fatto costituisca reato, anche a chiunque impiega, per la riproduzione, animali privi dei requisiti sanitari stabiliti dalla normativa vigente nonche' a chiunque produce, distribuisce e utilizza materiale seminale o embrioni privi dei requisiti sanitari stabiliti dalla normativa vigente.
 
 4. Salvo che il fatto costituisca reato, il responsabile di ciascuno degli Enti selezionatori, di cui all'articolo 3, comma 2, a cio' preposto che gestisce un programma genetico, di cui all'articolo 3, comma 3, in difformita' dalle prescrizioni in esso contenute e' punito con la sanzione amministrativa del pagamento di una somma da 2.582,28 euro a 15.493,71 euro.
 
-5. Le sanzioni di cui ai commi 1 e 2 si applicano alle violazioni
+5. Le sanzioni di cui ai commi 1 e 2 si applicano alle violazioni delle disposizioni vigenti in materia di requisiti del bestiame e del materiale seminale e controlli ammessi all'importazione e all'esportazione.
 
-((delle disposizioni vigenti))
+6. Salvo che il fatto costituisca reato, per le violazioni
 
-in materia di requisiti del bestiame e del materiale seminale e controlli ammessi all'importazione e all'esportazione.
+((previste dalle disposizioni vigenti))
 
-6. Salvo che il fatto costituisca reato, per le violazioni al [decreto del Ministro delle politiche agricole alimentari e forestali 19 luglio 2000, n. 403](http://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.politiche.agricole.alimentari.forestali:decreto:2000-07-19;403), si applicano:   
+si applicano:
 
-((a) la sanzione amministrativa del pagamento di una somma da 774,86 euro a 4.648,11 euro, nell'ipotesi di violazione delle disposizioni in materia di autorizzazioni, di obblighi connessi alla gestione di stazioni di monta, di requisiti e obblighi delle stazioni di inseminazione artificiale di equidi, di requisiti e obblighi di centri di produzione dello sperma e di stoccaggio di materiale germinale, di recapiti, di gruppi di raccolta di embrioni e di centri di produzione di embrioni, di flusso di informazioni relative ai dati degli interventi fecondativi o di impianto embrionale nonche' di autocontrollo di qualita' del materiale germinale e di qualita' del seme bovino e bufalino;   
-b) la sanzione amministrativa del pagamento di una somma da 258,23 euro a 1.549,37 euro nell'ipotesi di violazione delle disposizioni in materia di pratica di inseminazione artificiale nonche' del relativo flusso di informazioni da parte di medici veterinari ed operatori pratici))
+a) la sanzione amministrativa del pagamento di una somma da 774,86 euro a 4.648,11 euro, nell'ipotesi di violazione delle disposizioni in materia di autorizzazioni, di obblighi connessi alla gestione di stazioni di monta, di requisiti e obblighi delle stazioni di inseminazione artificiale di equidi, di requisiti e obblighi di centri di produzione dello sperma e di stoccaggio di materiale germinale, di recapiti, di gruppi di raccolta di embrioni e di centri di produzione di embrioni, di flusso di informazioni relative ai dati degli interventi fecondativi o di impianto embrionale nonche' di autocontrollo di qualita' del materiale germinale e di qualita' del seme bovino e bufalino;
 
-.
+b) la sanzione amministrativa del pagamento di una somma da 258,23 euro a 1.549,37 euro nell'ipotesi di violazione delle disposizioni in materia di pratica di inseminazione artificiale nonche' del relativo flusso di informazioni da parte di medici veterinari ed operatori pratici.
 
 7. Agli illeciti amministrativi previsti dal presente decreto si applicano le disposizioni del capo I della [legge 24 novembre 1981, n. 689](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-11-24;689), e successive modificazioni, con le seguenti modificazioni:
 

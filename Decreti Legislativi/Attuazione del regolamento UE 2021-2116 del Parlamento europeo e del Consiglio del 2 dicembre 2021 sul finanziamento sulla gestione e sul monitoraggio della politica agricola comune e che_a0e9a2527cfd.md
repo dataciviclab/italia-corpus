@@ -638,9 +638,7 @@ c) se la differenza tra la superficie realizzata e quella oggetto della domanda 
 
 ### Art. 24-octies
 
-(( (Sanzioni per la violazione delle disposizioni in materia di investimenti in immobilizzazioni materiali e immateriali). ))
-
-((
+(Sanzioni per la violazione delle disposizioni in materia di investimenti in immobilizzazioni materiali e immateriali)
 
 1. I beneficiari del contributo per l'intervento di cui all'[articolo 58, paragrafo 1, lettera b), del regolamento (UE) 2021/2115](http://www.normattiva.it/uri-res/N2Ls?urn:nir::regolamento:2021;2115~art58-par1-letb) che non utilizzano un anticipo ricevuto sono soggetti alle seguenti sanzioni:
 
@@ -649,6 +647,12 @@ a) un anno di esclusione dall'aiuto se l'importo dell'anticipo non speso e' supe
 b) due anni di esclusione dall'aiuto se l'importo dell'anticipo non speso e' superiore al 30 per cento ma inferiore al 50 per cento dell'anticipo erogato;
 
 c) tre anni di esclusione dall'aiuto se l'importo dell'anticipo non speso e' superiore o uguale al 50 per cento dell'anticipo erogato.
+
+1-bis. 
+
+((Ai beneficiari del contributo per l'intervento di cui all'[articolo 58, paragrafo 1, lettera b), del regolamento (UE) 2021/2115](http://www.normattiva.it/uri-res/N2Ls?urn:nir::regolamento:2021;2115~art58-par1-letb) che non realizzano integralmente l'investimento, per motivi diversi da cause di forza maggiore o circostanze eccezionali, e' riconosciuto il contributo per un importo corrispondente alle singole azioni realizzate, decurtato dell'importo del contributo corrispondente alle azioni non realizzate, a condizione che l'obiettivo generale dell'investimento sia stato comunque raggiunto))
+
+.
 
 2. In caso di mancato utilizzo dell'anticipo versato, si applicano le disposizioni previste dall'[articolo 24 del regolamento (UE) 2022/127](http://www.normattiva.it/uri-res/N2Ls?urn:nir::regolamento:2022;127~art24) e dall'[articolo 56 del regolamento (UE) 2022/128](http://www.normattiva.it/uri-res/N2Ls?urn:nir::regolamento:2022;128~art56).
 
@@ -663,8 +667,6 @@ c) tre anni di esclusione dall'aiuto se l'importo dell'anticipo non speso e' sup
 a) in caso di approvazione di modifiche al progetto iniziale o qualora l'anticipo non sia stato versato e sia stata presentata domanda di rinuncia nei trenta giorni precedenti il termine ultimo previsto per la presentazione della domanda di saldo;
 
 b) se l'importo non speso e' inferiore al 10 per cento dell'anticipo erogato.
-
-))
 
 ### Art. 24-novies
 
@@ -695,9 +697,7 @@ CAPO IX ((Capo VII-ter Sanzioni per la violazione di disposizioni del settore de
 
 ### Art. 24-undecies
 
-(( (Inosservanza degli obblighi previsti per il percepimento dei pagamenti previsti al Titolo III, Capo III, Sezione 3, del regolamento (UE) 2021/2115). ))
-
-((
+(Inosservanza degli obblighi previsti per il percepimento dei pagamenti previsti al Titolo III, Capo III, Sezione 3, del regolamento (UE) 2021/2115)
 
 1. I beneficiari dei finanziamenti per l'acquisto dei beni, previsti dall'[articolo 55, comma 1, lettera b), del regolamento (UE) 2021/2115](http://www.normattiva.it/uri-res/N2Ls?urn:nir::regolamento:2021;2115~art55-com1-letb), il cui uso e utilita' economica non si esauriscono entro un anno, quando non rispettano il periodo minimo di mantenimento di tali beni in azienda, sono soggetti al recupero degli aiuti.
 
@@ -705,7 +705,11 @@ CAPO IX ((Capo VII-ter Sanzioni per la violazione di disposizioni del settore de
 
 3. Nel caso in cui le condotte di cui ai commi 1 e 2 siano realizzate intenzionalmente o con colpa grave, i beneficiari, oltre al rimborso dei pagamenti indebitamente percepiti e dei relativi interessi, sono soggetti ad una ulteriore sanzione pari all'importo percepito.
 
-))
+3-bis. 
+
+((Nel caso in cui, a seguito di controllo, l'importo richiesto nella domanda di pagamento superi di una percentuale maggiore del 10 per cento l'importo accertato in sede istruttoria, il beneficiario e' soggetto, oltre alla decurtazione dell'importo non riconosciuto, alla sanzione nella misura pari al medesimo importo non riconosciuto))
+
+.
 
 CAPO X Capo VIII Disposizioni comuni
 ------------------------------------
