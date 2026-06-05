@@ -118,7 +118,17 @@ Tempo di lavoro
 
 3. Qualora, in relazione ad esigenze eccezionali, si determini una interruzione o una riduzione del riposo fisiologico giornaliero o settimanale, al funzionario della carriera diplomatica deve essere comunque garantito, una volta cessate tali esigenze, l'adeguato recupero del tempo corrispondente a quello sacrificato alle necessita' del servizio. In caso di prestazione lavorativa nei giorni festivi, il funzionario diplomatico ha diritto ad un congruo riposo compensativo da fruire entro il mese successivo a quello di maturazione, in una data da programmare in accordo con il responsabile della struttura nella quale presta servizio.
 
-4. Le strutture che, per specifiche esigenze funzionali, sono organizzate con turnazioni vi faranno fronte utilizzando criteri di rotazione e di compensazione fra tutti i funzionari diplomatici che vi prestano servizio, tenendo in debito conto, a tutela e sostegno della maternita' e della paternita', la condizione delle funzionarie diplomatiche dall'inizio dello stato di gravidanza, nonche', per i funzionari diplomatici di ambo i sessi, il periodo di allattamento fino a un anno di vita del bambino.
+((Nell'attuazione di tale previsione, una particolare attenzione verra' rivolta al funzionario che goda dei benefici previsti dal [decreto legislativo 26 marzo 2001, n. 151](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2001-03-26;151) a sostegno della genitorialita'.))
+
+4. Le strutture che, per specifiche esigenze funzionali, sono organizzate con turnazioni vi faranno fronte utilizzando criteri di rotazione e di compensazione fra tutti i funzionari diplomatici che vi prestano servizio,
+
+((al fine di assicurare un'equilibrata ripartizione dei carichi di lavoro, il rispetto dei tempi di riposo e la tutela dell'equilibrio psico-fisico del personale. Sara' tenuta))
+
+in debito conto, a tutela e sostegno della maternita' e della paternita', la condizione delle funzionarie diplomatiche dall'inizio dello stato di gravidanza, nonche', per i funzionari diplomatici di ambo i sessi, il periodo di allattamento fino a un anno di vita del bambino.
+
+4-bis. 
+
+((Durante lo svolgimento del turno di reperibilita', il personale della carriera diplomatica deve essere contattabile all'utenza telefonica assegnata o, in alternativa, a quella preventivamente comunicata all'Ufficio di appartenenza. Nei casi in cui, durante il turno di reperibilita', l'attivita' non possa essere utilmente resa da remoto, il funzionario reperibile assicura il raggiungimento della sede di servizio per lo svolgimento delle attivita' urgenti da effettuare in presenza, fino a cessate esigenze.))
 
 ### Art. 4
 
@@ -288,24 +298,22 @@ Permessi per esigenze personali
 
 a) partecipazione a concorsi od esami, limitatamente ai giorni di svolgimento delle prove ed al tempo strettamente necessario per il raggiungimento delle relative sedi di svolgimento delle stesse, ovvero, previa intesa con il responsabile della struttura di appartenenza, a congressi, convegni, seminari e corsi di aggiornamento professionale facoltativo entro il limite complessivo di otto giorni per ciascun anno;
 
-b) decesso o documentata grave infermita' del coniuge,
+b) decesso o documentata grave infermita' del coniuge, anche legalmente separato, della parte di unione civile o del convivente ai sensi dell'[articolo 1, commi 36 e seguenti della legge 20 maggio 2016, n. 76](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2016-05-20;76~art1-com36), o di un parente entro il secondo grado o di un affine di primo grado, in ragione di tre giorni lavorativi, anche frazionati, per evento. I giorni di permesso devono essere utilizzati entro sette giorni dal decesso o dall'accertamento dell'insorgenza della grave infermita' o dalla necessita' di provvedere a conseguenti specifici interventi terapeutici. Nel caso di grave infermita' dei soggetti di cui alla presente lettera b), il funzionario diplomatico, entro sette giorni dall'evento predetto, puo' concordare con il responsabile della struttura presso cui presta servizio, in alternativa ai giorni di permesso, diverse modalita' di espletamento dell'attivita' lavorativa, anche per periodi superiori a tre giorni;
 
-((anche legalmente separato, della parte di unione civile))
+c)
 
-o del convivente ai sensi dell'[articolo 1, commi 36 e seguenti della legge 20 maggio 2016, n. 76](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2016-05-20;76~art1-com36), o di un parente entro il secondo grado o di un affine di primo grado, in ragione di tre giorni lavorativi, anche frazionati, per evento. I giorni di permesso devono essere utilizzati entro sette giorni dal decesso o dall'accertamento dell'insorgenza della grave infermita' o dalla necessita' di provvedere a conseguenti specifici interventi terapeutici. Nel caso di grave infermita' dei soggetti di cui alla presente lettera b), il funzionario diplomatico, entro sette giorni dall'evento predetto, puo' concordare con il responsabile della struttura presso cui presta servizio, in alternativa ai giorni di permesso, diverse modalita' di espletamento dell'attivita' lavorativa, anche per periodi superiori a tre giorni;
+((...))
 
-c) documentati motivi personali o familiari, entro il limite complessivo di tre giorni per ciascun anno.
+motivi personali o familiari,
 
-2. Il funzionario diplomatico ha inoltre il diritto di assentarsi per quindici giorni consecutivi in occasione del matrimonio. Tale permesso deve essere fruito entro 45 giorni dalla data in cui e' stato contratto il matrimonio
+((ivi compresi quelli derivanti dal trasferimento da e per l'estero,))
 
-((o l'unione civile))
+entro il limite complessivo di tre giorni per ciascun anno.
 
-.
+2. Il funzionario diplomatico ha inoltre il diritto di assentarsi per quindici giorni consecutivi in occasione del matrimonio. Tale permesso deve essere fruito entro 45 giorni dalla data in cui e' stato contratto il matrimonio o l'unione civile.
 
-3. Le assenze sopra elencate possono cumularsi nell'anno solare, sono valutate agli effetti dell'anzianita' di servizio e non riducono il periodo di congedo disciplinato dall'articolo
+3. Le assenze sopra elencate possono cumularsi nell'anno solare, sono valutate agli effetti dell'anzianita' di servizio e non riducono il periodo di congedo disciplinato dall'articolo 4 .
 
-4. 
-  
 4. I predetti periodi di assenza non producono effetti sul trattamento economico dei funzionari diplomatici.
 
 5. Le assenze previste dall'[articolo 33, comma 3, della legge 5 febbraio 1992, n. 104](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-02-05;104~art33-com3), e successive modificazioni, non sono computate ai fini del raggiungimento del limite fissato dal presente articolo e non riducono il congedo ordinario.
@@ -448,54 +456,47 @@ c) retribuzione di risultato, correlata ai risultati conseguiti rispetto agli ob
 
 ### Art. 17
 
-Stipendio tabellare
+(( (Stipendio tabellare).))
+
+1. 
+
+((Gli stipendi tabellari, come previsti dal [decreto del Presidente della Repubblica 21 ottobre 2022, n. 195](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2022-10-21;195), sono incrementati:   
+- per l'anno 2022 di importi mensili lordi corrispondenti all'anticipazione di cui all'[articolo 47-bis, comma 2, del decreto legislativo n. 165 del 2001](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2001;165~art47bis-com2) gia' erogata in tale anno ai sensi dell'[articolo 1, comma 609, della legge n. 234 del 2021](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2021;234~art1-com609);   
+- per l'anno 2023 di importi mensili lordi, per tredici mensilita', corrispondenti all'anticipazione di cui all'[articolo 47-bis, comma 2, del decreto legislativo n. 165 del 2001](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2001;165~art47bis-com2) gia' erogata in tale anno ai sensi dell'[articolo 1, comma 609, della legge n. 234 del 2021](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2021;234~art1-com609).))
+
+2. 
+
+((A decorrere dal 1° gennaio 2024 lo stipendio tabellare, comprensivo dell'indennita' integrativa speciale, e' rideterminato, per ciascun grado della carriera diplomatica, nei seguenti importi annui lordi per tredici mensilita':))
 
 ((
 
-1. A decorrere dal 1° gennaio 2019 lo stipendio tabellare, comprensivo dell'indennita' integrativa speciale, e' rideterminato, per ciascun grado della carriera diplomatica, nei seguenti importi annui lordi per tredici mensilita':   
-
 |  |  |
 | --- | --- |
-| Ambasciatore | 112.590,21 € |
-| Ministro Plenipotenziario | 96.362,74 € |
-| Consigliere d'Ambasciata | 75.396,39 € |
-| Consigliere di Legazione | 59.081,30 € |
-| Segretario di Legazione | 44.974,67 € |
+| Ambasciatore | 8.524,04 € |
+| Ministro Plenipotenziario | 101.736,57 € |
+| Consigliere d'Ambasciata | 80.270,22 € |
+| Consigliere di Legazione | 63.155,13 € |
+| Segretario di Legazione | 48.314,87 € |
 
-2. A decorrere dal 1° gennaio 2020 lo stipendio tabellare, comprensivo dell'indennita' integrativa speciale, e' rideterminato, per ciascun grado della carriera diplomatica, nei seguenti importi annui lordi per tredici mensilita':   
   
-
-|  |  |
-| --- | --- |
-| Ambasciatore | 113.008,96 € |
-| Ministro Plenipotenziario | 96.781,49 € |
-| Consigliere d'Ambasciata | 75.815,14 € |
-| Consigliere di Legazione | 59.500,05 € |
-| Segretario di Legazione | 45.393,42 € |
-
-3. A decorrere dal 1° gennaio 2021 lo stipendio tabellare, comprensivo dell'indennita' integrativa speciale, e' rideterminato, per ciascun grado della carriera diplomatica, nei seguenti importi annui lordi per tredici mensilita':
-
-+---------------------------------+---------------------+  
-|Ambasciatore | 114.064,04 € |  
-+---------------------------------+---------------------+  
-|Ministro Plenipotenziario | 97.836,57 € |  
-+---------------------------------+---------------------+  
-|Consigliere d'Ambasciata | 76.870,22 € |  
-+---------------------------------+---------------------+  
-|Consigliere di Legazione | 60.555,13 € |  
-+---------------------------------+---------------------+  
-|Segretario di Legazione | 46.414,87 € |  
-+---------------------------------+---------------------+
-
+  
 ))
 
-4. Il conglobamento dell'indennita' integrativa speciale nello stipendio tabellare non modifica le modalita' di determinazione della base di calcolo in atto del trattamento pensionistico, anche con riferimento all'[articolo 2, comma 10, della legge 8 agosto 1995, n. 335](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1995-08-08;335~art2-com10), e non ha effetti diretti o indiretti sul trattamento economico complessivo fruito dal personale in servizio all'estero in base alle disposizioni vigenti.
+3. 
 
-5. Gli importi stabiliti dal presente articolo assorbono e conglobano l'indennita' di vacanza contrattuale corrisposta ai sensi dell'[articolo 2, comma 35 della legge 22 dicembre 2008, n. 203](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2008-12-22;203~art2-com35), e dell'[articolo 9, comma 17, del decreto-legge 31 maggio 2010, n. 78](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2010-05-31;78~art9-com17), convertito, con modificazioni, dalla [legge 30 luglio 2010, n. 122](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2010-07-30;122).
+((Gli importi di cui al comma 2 comprendono ed assorbono le somme corrisposte ai sensi delle disposizioni vigenti a titolo di indennita' di vacanza contrattuale per il triennio giuridico ed economico 2022-2024.))
 
-6. Dopo un periodo di vacanza contrattuale pari a tre mesi dalla data di scadenza del presente decreto che recepisce l'accordo sindacale e' riconosciuta, a partire dal mese successivo, entro i limiti previsti dalla legge di bilancio in sede di definizione delle risorse contrattuali, una copertura economica che costituisce un'anticipazione dei benefici complessivi che saranno attribuiti all'atto del rinnovo. L'importo di tale copertura e' pari al 30 per cento della previsione ISTAT dell'inflazione, misurata dall'indice IPCA al netto della dinamica dei prezzi dei beni energetici importati applicata agli stipendi tabellari. Dopo sei mesi di vacanza contrattuale, detto importo sara' pari al 50 per cento del predetto indice.
+4. 
 
-7. Per l'erogazione dell'elemento provvisorio della retribuzione di cui al comma 6 si applica la procedura di cui all'[articolo 112 del decreto del Presidente della Repubblica 5 gennaio 1967, n. 18](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1967-01-05;18~art112), e successive modificazioni. La procedura deve essere attivata entro trenta giorni dall'acquisizione della richiesta prodotta dall'Organizzazione sindacale firmataria del presente decreto.
+((Il conglobamento dell'indennita' integrativa speciale nello stipendio tabellare non modifica le modalita' di determinazione della base di calcolo in atto del trattamento pensionistico, anche con riferimento all'[articolo 2, comma 10, della legge 8 agosto 1995, n. 335](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1995-08-08;335~art2-com10), e non ha effetti diretti o indiretti sul trattamento economico complessivo fruito dal personale in servizio all'estero in base alle disposizioni vigenti.))
+
+5. 
+
+((Dopo un periodo di vacanza contrattuale pari a tre mesi dalla data di scadenza del presente decreto che recepisce l'accordo sindacale e' riconosciuta, a partire dal mese successivo, entro i limiti previsti dalla legge di bilancio in sede di definizione delle risorse contrattuali, una copertura economica che costituisce un'anticipazione dei benefici complessivi che saranno attribuiti all'atto del rinnovo. L'importo di tale copertura e' pari al 30 per cento della previsione ISTAT dell'inflazione, misurata dall'indice IPCA al netto della dinamica dei prezzi dei beni energetici importati applicata agli stipendi tabellari. Dopo sei mesi di vacanza contrattuale, detto importo sara' pari al 50 per cento del predetto indice.))
+
+6. 
+
+((Per l'erogazione dell'elemento provvisorio della retribuzione di cui al comma 5 si applica la procedura di cui all'[articolo 112 del decreto del Presidente della Repubblica 5 gennaio 1967, n. 18](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1967-01-05;18~art112), fermo restando, per il triennio 2025-2027, quanto previsto dall'[articolo 1, comma 128, della legge 30 dicembre 2024, n. 207](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2024-12-30;207~art1-com128). La procedura deve essere attivata entro trenta giorni dall'acquisizione della richiesta prodotta dall'Organizzazione sindacale firmataria del presente decreto.))
 
 ### Art. 18
 
@@ -518,19 +519,11 @@ Fondo per la retribuzione di posizione e la retribuzione di risultato
 
 1. Il fondo di cui all'[articolo 17, comma 1, del decreto del Presidente della Repubblica 20 febbraio 2001, n. 114](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2001-02-20;114~art17-com1), ferme restando le integrazioni previste dai successivi decreti di recepimento dei relativi accordi, continua ad essere definito con le modalita' ivi indicate.
 
-((
+2. 
 
-2. Il fondo di cui al comma 1 e' alimentato dalle seguenti ulteriori risorse finanziarie, al lordo delle ritenute a carico del dipendente:
-
-a) Euro 327.273 a decorrere dal 1° gennaio 2019;
-
-b) Euro 506.020 a decorrere dal 1° gennaio 2020;
-
-c) Euro 956.388 a decorrere dal 1° gennaio 2021.
+((Il fondo di cui al comma 1 e' alimentato dalle seguenti ulteriori risorse finanziarie, al lordo delle ritenute a carico del dipendente: euro 2.083.261,80 a decorrere dal 1° gennaio 2024.))
 
 3. Nell'ambito del fondo di cui al comma 1 una quota non inferiore al 30 per cento delle risorse, al netto dell'indennita' di posizione attribuita al personale in servizio all'estero, viene destinata al finanziamento della retribuzione di risultato.
-
-))
 
 4. Le risorse del fondo di cui al comma 1 eventualmente non utilizzate alla fine dell'esercizio finanziario sono riassegnate all'anno successivo.
 
@@ -538,79 +531,35 @@ c) Euro 956.388 a decorrere dal 1° gennaio 2021.
 
 Retribuzione di posizione
 
-((1. Ferme restando le disposizioni di cui all'[articolo 23-ter del decreto-legge 6 dicembre 2011, n. 201](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2011-12-06;201~art23ter), convertito con modificazioni dalla [legge 22 dicembre 2011, n. 214, e all'articolo 13, comma 1](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2011-12-22;214~art13-com1), del [decreto-legge 24 aprile 2014, n. 66](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2014-04-24;66), convertito con modificazioni dalla [legge 23 giugno 2014, n. 89](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2014-06-23;89), nonche' le relative modalita' applicative, le misure della retribuzione di posizione, correlata alle posizioni funzionali che sono state individuate con [decreto del Ministro degli affari esteri 1° agosto 2013, n. 1518](http://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.affari.esteri:decreto:2013-08-01;1518), sono rideterminate nei seguenti valori annui lordi per tredici mensilita':   
-  
-  
-A) a decorrere dal 1° gennaio 2019:   
-  
-  
-  
+1. 
 
-|  |  |
-| --- | --- |
-| a) Segretario Generale | 155.000,00 € |
-| b1) Capo di Gabinetto, Vice Segretario Generale | 110.000,00 € |
-| b) Capo del Cerimoniale Diplomatico della Repubblica e rimanenti posizioni funzionali di cui all'[articolo 1, lettera b del decreto del Ministro degli affari esteri n. 1518/2013](http://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.affari.esteri:decreto:2013;1518~art1-letb) | 93.300,00 € |
-| c1) Vice Capo di Gabinetto e rimanenti posizioni funzionali di cui all'articolo 1, lettera c1 del [decreto del Ministro degli affari esteri n. 1518/2013](http://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.affari.esteri:decreto:2013;1518) | 62.826,45 € |
-| c) Capo della segreteria di Vice Ministro e rimanenti posizioni funzionali di cui all'[articolo 1, lettera c del decreto del Ministro degli affari esteri n.1518/2013](http://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.affari.esteri:decreto:2013;1518~art1-letc) | 57.018,15 € |
-| d) Capo Ufficio e rimanenti posizioni funzionali di cui all'[articolo 1, lettera d del decreto del Ministro degli affari esteri n. 1518/2013](http://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.affari.esteri:decreto:2013;1518~art1-letd) | 43.930,11 € |
-| e1) Funzionario vicario di Capo Ufficio e rimanenti posizioni funzionali di cui all'articolo 1, lettera e1 del [decreto del Ministro degli affari esteri n.1518/2013](http://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.affari.esteri:decreto:2013;1518) | 19.264,20 € |
-| e) Capo Sezione | 15.488,80 € |
-| f) Funzionario addetto agli uffici | 11.616,60 € |
-
-  
-  
-  
-  
-  
-B) a decorrere dal 1° gennaio 2020:   
-  
-
-|  |  |
-| --- | --- |
-| a) Segretario Generale | 155.000,00 € |
-| b1) Capo di Gabinetto, Vice Segretario Generale | 110.000,00 € |
-| b) Capo del Cerimoniale Diplomatico della Repubblica e rimanenti posizioni funzionali di cui all'[articolo 1, lettera b del decreto del Ministro degli affari esteri n. 1518/2013](http://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.affari.esteri:decreto:2013;1518~art1-letb) | 93.300,00 € |
-| c1) Vice Capo di Gabinetto e rimanenti posizioni funzionali di cui all'articolo 1, lettera c1 del [decreto del Ministro degli affari esteri n. 1518/2013](http://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.affari.esteri:decreto:2013;1518) | 63.762,30 € |
-| c) Capo della segreteria di Vice Ministro e rimanenti posizioni funzionali di cui all'[articolo 1, lettera c del decreto del Ministro degli affari esteri n. 1518/2013](http://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.affari.esteri:decreto:2013;1518~art1-letc) | 57.867,48 € |
-| d) Capo Ufficio e rimanenti posizioni funzionali di cui all'[articolo 1, lettera d del decreto del Ministro degli affari esteri n. 1518/2013](http://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.affari.esteri:decreto:2013;1518~art1-letd) | 44.584,49 € |
-| e1) Funzionario vicario di Capo Ufficio e rimanenti posizioni funzionali di cui all'articolo 1, lettera e1 del [decreto del Ministro degli affari esteri n. 1518/2013](http://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.affari.esteri:decreto:2013;1518) | 19.551,15 € |
-| e) Capo Sezione | 15.719,52 € |
-| f) Funzionario addetto agli uffici | 11.789,64 € |
-
-  
-  
-  
-  
-  
-C) a decorrere dal 1° gennaio 2021:   
-  
-
-|  |  |
-| --- | --- |
-| a) Segretario Generale | 155.000,00 € |
-| b1) Capo di Gabinetto, Vice Segretario Generale | 110.000,00 € |
-| b) Capo del Cerimoniale Diplomatico della Repubblica e rimanenti posizioni funzionali di cui all'[articolo 1, lettera b del decreto del Ministro degli affari esteri n. 1518/2013](http://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.affari.esteri:decreto:2013;1518~art1-letb) | 93.300,00 € |
-| c1) Vice Capo di Gabinetto e rimanenti posizioni funzionali di cui all'articolo 1, lettera c1 del [decreto del Ministro degli affari esteri n. 1518/2013](http://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.affari.esteri:decreto:2013;1518) | 64.900,00 € |
-| c) Capo della segreteria di Vice Ministro e rimanenti posizioni funzionali di cui all'[articolo 1, lettera c del decreto del Ministro degli affari esteri n. 1518/2013](http://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.affari.esteri:decreto:2013;1518~art1-letc) | 58.900,00 € |
-| d) Capo Ufficio e rimanenti posizioni funzionali di cui all'[articolo 1, lettera d del decreto del Ministro degli affari esteri n. 1518/2013](http://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.affari.esteri:decreto:2013;1518~art1-letd) | 45.380,00 € |
-| e1) Funzionario vicario di Capo Ufficio e rimanenti posizioni funzionali di cui all'articolo 1, lettera e1 del [decreto del Ministro degli affari esteri n. 1518/2013](http://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.affari.esteri:decreto:2013;1518) | 19.900,00 € |
-| e) Capo Sezione | 16.000,00 € |
-| f) Funzionario addetto agli uffici | 12.000,00 € |
-
-))
-
-2. Per i funzionari diplomatici collocati alle dirette dipendenze dei capi degli uffici di livello dirigenziale generale con un incarico di consulenza, ricerca e studio o di trattazione di particolari materie, di cui all'[articolo 2 del decreto del Ministro degli affari esteri 1° agosto 2013, n. 1518](http://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.affari.esteri:decreto:2013-08-01;1518~art2), la retribuzione di posizione e' fissata in base al livello delle funzioni svolte, secondo quanto previsto nel predetto decreto, nelle misure di cui   
-alle lettere c), d) ed e) dell'articolo 1 del decreto medesimo.
+((Ferme restando le disposizioni di cui all'[articolo 23-ter del decreto-legge 6 dicembre 2011, n. 201](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2011-12-06;201~art23ter), convertito con modificazioni dalla [legge 22 dicembre 2011, n. 214](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2011-12-22;214), le misure della retribuzione di posizione, correlata alle posizioni funzionali che sono state individuate con [decreto del Ministro degli affari esteri e della cooperazione internazionale 17 dicembre 2021, n. 2754](http://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.affari.esteri.cooperazione.internazionale:decreto:2021-12-17;2754), adottato ai sensi dell'[articolo 112, settimo comma, del decreto del Presidente della Repubblica 5 gennaio 1967, n. 18](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1967-01-05;18~art112-com7), sono rideterminate nei seguenti valori annui lordi per tredici mensilita', a decorrere dal 1° gennaio 2024:))
 
 ((
 
+|  |  |
+| --- | --- |
+| a) Segretario generale | 158.100,00 € |
+| b1) capo di Gabinetto; vice segretario generale | 113.100,00 € |
+| b) capo del Cerimoniale diplomatico della Repubblica e rimanenti posizioni funzionali di cui all'[articolo 1, lett. b), del decreto del Ministro degli affari esteri e della cooperazione internazionale n. 2754 del 2021](http://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.affari.esteri.cooperazione.internazionale:decreto:2021;2754~art1-letb) | 96.400,00 € |
+| c1) vice capo di Gabinetto e rimanenti posizioni funzionali di cui all'articolo 1, lett. c1), del [decreto del Ministro degli affari esteri e della cooperazione internazionale n. 2754 del 2021](http://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.affari.esteri.cooperazione.internazionale:decreto:2021;2754) | 68.000,00 € |
+| c) capo di segreteria di Vice Ministro e rimanenti posizioni funzionali di cui all'[articolo 1, lett. c), del decreto del Ministro degli affari esteri e della cooperazione internazionale n. 2754 del 2021](http://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.affari.esteri.cooperazione.internazionale:decreto:2021;2754~art1-letc) | 62.400,00 € |
+| d) capo di ufficio e rimanenti posizioni funzionali di cui all'[articolo 1, lett. d), del decreto del Ministro degli affari esteri e della cooperazione internazionale n. 2754 del 2021](http://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.affari.esteri.cooperazione.internazionale:decreto:2021;2754~art1-letd) | 51.200,00 € |
+| e1) funzionario vicario di capo di ufficio e rimanenti posizioni funzionali di cui all'articolo 1, lett. e1), del [decreto del Ministro degli affari esteri e della cooperazione internazionale n. 2754 del 2021](http://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.affari.esteri.cooperazione.internazionale:decreto:2021;2754) | 25.500,00 € |
+| e) capo di sezione | 18.000,00 € |
+| f) funzionario addetto ad ufficio | 14.000,00 € |
+
+  
+  
+))
+
+2. 
+
+((Per i funzionari diplomatici collocati alle dirette dipendenze dei capi degli uffici di livello dirigenziale generale con un incarico di consulenza, ricerca e studio o di trattazione di particolari materie, di cui all'[articolo 2 del decreto del Ministro degli affari esteri e della cooperazione internazionale 17 dicembre 2021, n. 2754](http://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.affari.esteri.cooperazione.internazionale:decreto:2021-12-17;2754~art2), la retribuzione di posizione e' fissata in base al livello delle funzioni svolte, secondo quanto previsto nel predetto decreto, nelle misure di cui alle lettere c), d) ed e) dell'articolo 1 del decreto medesimo.))
+
 3. Le misure minime della retribuzione di posizione per ciascun grado della carriera diplomatica, tenuto conto di quanto stabilito al [comma 1, nonche' all'articolo 16 del decreto del Presidente della Repubblica 5 gennaio 1967, n. 18](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1967-01-05;18~art16-com1), come sostituito dall'[articolo 16 del decreto legislativo 24 marzo 2000, n. 85](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2000-03-24;85~art16) sono rideterminate, nei valori annui lordi per tredici mensilita' di seguito indicati:   
   
-  
 A) a decorrere dal 1° gennaio 2019:   
-  
-  
   
 
 |  |  |
@@ -624,8 +573,9 @@ A) a decorrere dal 1° gennaio 2019:
   
   
   
-  
 B) a decorrere dal 1° gennaio 2020:   
+  
+  
   
 
 |  |  |
@@ -639,8 +589,9 @@ B) a decorrere dal 1° gennaio 2020:
   
   
   
-  
 C) a decorrere dal 1° gennaio 2021:   
+  
+  
   
 
 |  |  |
@@ -651,61 +602,53 @@ C) a decorrere dal 1° gennaio 2021:
 | Consigliere di Legazione | 8.200,00 € |
 | Segretario di Legazione | 7.500,00 € |
 
-))
-
 ### Art. 21
 
 Retribuzione di risultato
 
-1. Il Ministro degli affari esteri e della cooperazione internazionale, con proprio decreto, all'inizio di ogni anno determina gli importi spettanti come retribuzione di risultato da erogare, anche pro-quota tramite acconti, nell'ambito delle risorse di competenza dell'anno precedente con verifica conclusiva del raggiungimento degli obiettivi e salvo recupero a consuntivo in caso di mancato o parziale raggiungimento degli obiettivi. A decorrere dal 1° gennaio 2016, i parametri della retribuzione di risultato fissati in relazione alle diverse posizioni funzionali individuate con [decreto del Ministro degli affari esteri 1° agosto 2013, n. 1518](http://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.affari.esteri:decreto:2013-08-01;1518), rimangono definiti come segue:   
+1. Il Ministro degli affari esteri e della cooperazione internazionale, con proprio decreto, all'inizio di ogni anno determina gli importi spettanti come retribuzione di risultato da erogare, anche pro-quota tramite acconti, nell'ambito delle risorse di competenza dell'anno precedente con verifica conclusiva del raggiungimento degli obiettivi e salvo recupero a consuntivo in caso di mancato o parziale raggiungimento degli obiettivi. A decorrere dal 1° gennaio 2016, i parametri della retribuzione di risultato fissati in relazione alle diverse posizioni funzionali individuate con decreto del Ministro degli affari esteri
+
+((17 dicembre 2021, n. 2754))
+
+, rimangono definiti come segue:   
 
 |  |  |
 | --- | --- |
 | a) Segretario Generale | 100,00 |
 | b1) Capo di Gabinetto, Vice Segretario Generale | 78,75 |
-| b) Capo del Cerimoniale Diplomatico della Repubblica e rimanenti posizioni funzionali di cui all'[articolo 1, lettera b del decreto del Ministro degli affari esteri n. 1518/2013](http://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.affari.esteri:decreto:2013;1518~art1-letb) | 72,90 |
-| c1) Vice Capo di Gabinetto e rimanenti posizioni funzionali di cui all'articolo 1, lettera c1 del [decreto del Ministro degli affari esteri e n. 1518/2013](http://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.affari.esteri:decreto:2013;1518) | 52,20 |
-| c) Capo della segreteria di Vice Ministro e rimanenti posizioni funzionali di cui all'[articolo 1, lettera c del decreto del Ministro degli affari esteri n. 1518/2013](http://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.affari.esteri:decreto:2013;1518~art1-letc) | 51,70 |
-| d) Capo Ufficio e rimanenti posizioni funzionali di cui all'[articolo 1, lettera d del decreto del Ministro degli affari esteri n. 1518/2013](http://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.affari.esteri:decreto:2013;1518~art1-letd) | 26,00 |
-| e1) Funzionario vicario di Capo Ufficio e rimanenti posizioni funzionali di cui all'articolo 1, lettera e1 del [decreto del Ministro degli affari esteri n. 1518/2013](http://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.affari.esteri:decreto:2013;1518) | 19,00 |
+| b) Capo del Cerimoniale Diplomatico della Repubblica e rimanenti posizioni funzionali di cui all'articolo 1, lettera b del decreto del Ministro degli affari esteri ((n. 2754 del 2021)) | 72,90 |
+| c1) Vice Capo di Gabinetto e rimanenti posizioni funzionali di cui all'articolo 1, lettera c1 del decreto del Ministro degli affari esteri e ((n. 2754 del 2021)) | 52,20 |
+| c) Capo della segreteria di Vice Ministro e rimanenti posizioni funzionali di cui all'articolo 1, lettera c del decreto del Ministro degli affari esteri ((n. 2754 del 2021)) | 51,70 |
+| d) Capo Ufficio e rimanenti posizioni funzionali di cui all'articolo 1, lettera d del decreto del Ministro degli affari esteri ((n. 2754 del 2021)) | 26,00 |
+| e1) Funzionario vicario di Capo Ufficio e rimanenti posizioni funzionali di cui all'articolo 1, lettera e1 del decreto del Ministro degli affari esteri ((n. 2754 del 2021)) | 19,00 |
 | e) Capo sezione | 11,80 |
 | f) Funzionario addetto agli uffici | 9,90 |
 
 2. L'Amministrazione comunica all'Organizzazione sindacale firmataria del presente decreto la quota da destinare alla retribuzione variabile di risultato. Ciascun funzionario diplomatico e' informato, con modalita' da definire con successivo provvedimento dell'Amministrazione, della fascia di risultato conseguita, in relazione al raggiungimento degli obiettivi, ai sensi dell'[articolo 4 del decreto ministeriale 15 settembre 2015, n. 1769](http://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.:decreto:2015-09-15;1769~art4).
 
-Note all'[art. 21:   
-  
-- Per il decreto del Ministro degli affari esteri 1° agosto 2013, n. 1518](http://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.affari.esteri:decreto:2013-08-01;1518~art21) si vedano le note all'art. 20.   
-- Si riporta il testo dell'[art. 4 del decreto ministeriale 15 settembre 2015, n. 1769](http://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.:decreto:2015-09-15;1769~art4):   
-«Art. 4. - Il conseguimento degli obiettivi assegnati al funzionario diplomatico e' condizione per l'erogazione della componente di trattamento economico correlata ai risultati, come determinata mediante l'apposito procedimento negoziale.   
-La predetta componente viene erogata nella misura corrispondente alle seguenti fasce:   
-a. se gli obiettivi sono stati conseguiti in misura eccellente, in relazione ai criteri di cui all'art. 3, si corrisponde il 100% del trattamento economico di risultato;   
-b. se gli obiettivi sono stati conseguiti in misura ottimale, in relazione ai criteri di cui all' art. 3, si corrisponde il 90% del trattamento economico di risultato;   
-c. se gli obiettivi sono stati conseguiti in misura adeguata, in relazione ai criteri di cui all'art. 3, si corrisponde 1'80% del trattamento economico di risultato;   
-d. se gli obiettivi sono conseguiti in misura complessivamente soddisfacente, ma non del tutto adeguata in relazione ai criteri di cui all ' art. 3, si corrisponde il 60% del trattamento economico di risultato;   
-e. se gli obiettivi sono stati conseguiti in misura insoddisfacente, non si corrisponde alcun trattamento economico di risultato.».
-
 ### Art. 22
 
 Funzionari diplomatici comandati o collocati fuori ruolo
 
-((...))
+1. Qualora i funzionari diplomatici comandati o collocati fuori ruolo nell'interesse dichiarato del Ministero degli affari esteri e della cooperazione internazionale presso amministrazioni dello Stato, organi costituzionali o enti territoriali italiani, di cui all'articolo 4 del decreto del Ministro degli affari esteri
 
-1. Qualora i funzionari diplomatici comandati o collocati fuori ruolo nell'interesse
+((17 dicembre 2021, n. 2754))
 
-((dichiarato))
+, percepiscano una retribuzione onnicomprensiva inferiore a quella loro spettante presso l'Amministrazione degli affari esteri e della cooperazione internazionale, comprensiva di stipendio tabellare, retribuzione di posizione e retribuzione di risultato, ai sensi del presente decreto, la differenza verra' corrisposta a compensazione dall'Amministrazione degli affari esteri e della cooperazione internazionale, nell'ambito delle disponibilita' del fondo di cui all'articolo 19 del presente decreto e previa valutazione congiunta con le amministrazioni, organi od enti in questione, dei risultati raggiunti nel periodo considerato.
 
-del Ministero degli affari esteri e della cooperazione internazionale presso amministrazioni dello Stato, organi costituzionali o enti territoriali italiani, di cui all'[articolo 4 del decreto del Ministro degli affari esteri 1° agosto 2013, n. 1518](http://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.affari.esteri:decreto:2013-08-01;1518~art4), percepiscano una retribuzione onnicomprensiva inferiore a quella loro spettante presso l'Amministrazione degli affari esteri e della cooperazione internazionale, comprensiva di stipendio tabellare, retribuzione di posizione e retribuzione di risultato, ai sensi del presente decreto, la differenza verra' corrisposta a compensazione dall'Amministrazione degli affari esteri e della cooperazione internazionale, nell'ambito delle disponibilita' del fondo di cui all'articolo 19 del presente decreto e previa valutazione congiunta con le amministrazioni, organi od enti in questione, dei risultati raggiunti nel periodo considerato.
+2. Ai fini dell'applicazione del comma 1 e della determinazione del differenziale di cui al medesimo comma, si fa riferimento ad una delle misure previste per le posizioni di cui alle lettere c), d) ed e) del comma 1 dell'articolo 1 del citato decreto
 
-2. Ai fini dell'applicazione del comma 1 e della determinazione del differenziale di cui al medesimo comma, si fa riferimento ad una delle misure previste per le posizioni di cui alle lettere c), d) ed e) del comma 1 dell'articolo 1 del citato decreto 1° agosto 2013, n. 1518, individuate tramite decreto del direttore generale per le risorse e l'innovazione sulla base degli elementi acquisiti in merito ai livelli di responsabilita' e rilevanza degli incarichi affidati.
+((17 dicembre 2021, n. 2754))
 
-3. Ai fini dell'applicazione del comma 1 e della determinazione del differenziale di cui al medesimo comma, per le figure di Consigliere diplomatico del Presidente della Repubblica e di Consigliere diplomatico del Presidente del Consiglio dei ministri, si fa riferimento alla misura prevista per la posizione di cui alla lettera b) del comma 1 dell'articolo 1 del citato decreto 1° agosto 2013, n. 1518.
+, individuate tramite decreto del direttore generale per le risorse e l'innovazione sulla base degli elementi acquisiti in merito ai livelli di responsabilita' e rilevanza degli incarichi affidati.
 
-4. All'attuazione delle disposizioni di cui al presente articolo
+3. Ai fini dell'applicazione del comma 1 e della determinazione del differenziale di cui al medesimo comma, per le figure di Consigliere diplomatico del Presidente della Repubblica e di Consigliere diplomatico del Presidente del Consiglio dei ministri, si fa riferimento alla misura prevista per la posizione di cui alla lettera b) del comma 1 dell'articolo 1 del citato decreto
 
-((...))
+((17 dicembre 2021, n. 2754))
 
-si provvede nei limiti delle disponibilita' del fondo di cui all'articolo 19 del presente decreto.
+.
+
+4. All'attuazione delle disposizioni di cui al presente articolo si provvede nei limiti delle disponibilita' del fondo di cui all'articolo 19 del presente decreto.
 
 ### Art. 23
 
@@ -738,11 +681,19 @@ CAPO IV Capo IV DISPOSIZIONI FINALI
 
 Lavoro agile
 
-1. Nel quadro delle modalita' dirette a conseguire una maggiore conciliazione tra la vita lavorativa e la vita familiare, il funzionario diplomatico puo' avvalersi dell'istituto del lavoro agile compatibilmente con le esigenze di servizio e secondo le modalita' di attuazione stabilite dall'Amministrazione attraverso apposite misure organizzative, definite ai sensi
+1. Nel quadro delle modalita' dirette a conseguire una maggiore conciliazione tra la vita lavorativa e la vita familiare, il funzionario diplomatico puo' avvalersi dell'istituto del lavoro agile compatibilmente con le esigenze di servizio e secondo le modalita' di attuazione stabilite dall'Amministrazione attraverso apposite misure organizzative, definite ai sensi della normativa vigente in materia.
 
-((della normativa vigente in materia.))
+1-bis. 
 
-.
+((Fermo restando quanto previsto al comma 1, l'Amministrazione, compatibilmente con le esigenze di servizio, avra' cura di facilitare l'accesso al lavoro agile e di valutare, per i genitori di prole entro il compimento del primo anno di vita, l'estensione del numero di giorni di attivita' resa in modalita' agile rispetto a quelli previsti per il restante personale.))
+
+### Art. 25-bis
+
+(( (Incentivi funzioni tecniche). ))
+
+1. 
+
+((Ai funzionari diplomatici sono erogati gli incentivi per lo svolgimento di funzioni tecniche previsti dall'[articolo 45 del decreto legislativo 31 marzo 2023, n. 36](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2023-03-31;36~art45) secondo criteri definiti con decreto del Ministro degli affari esteri e della cooperazione internazionale.))
 
 ### Art. 26
 
