@@ -361,10 +361,10 @@ e) LETTERA ABROGATA DAL [D.L. 30 APRILE 2019, N. 35](http://www.normattiva.it/ur
 
 5. Gli impedimenti temporanei superiori ai quaranta giorni lavorativi consecutivi per servizio militare, gravidanza e malattia, sospendono il periodo di formazione, fermo restando che l'intera sua durata non e' ridotta a causa delle suddette sospensioni. Restano ferme le disposizioni in materia di tutela della gravidanza di cui alla [legge 30 dicembre 1971, n. 1204](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1971-12-30;1204), e successive modificazioni, nonche' quelle sull'adempimento del servizio militare di cui alla [legge 24 dicembre 1986, n. 958](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1986-12-24;958), e successive modificazioni.
 
-6. Non determinano interruzione della formazione, e non devono essere recuperate, le assenze per motivi personali, preventivamente autorizzate salvo causa di forza maggiore, che non superino trenta giorni complessivi nell'anno di formazione e non pregiudichino il raggiungimento degli obiettivi formativi. In tali casi non vi e' sospensione della borsa di studio.   
-(18)
+((24))
 
-((19))
+6. Non determinano interruzione della formazione, e non devono essere recuperate, le assenze per motivi personali, preventivamente autorizzate salvo causa di forza maggiore, che non superino trenta giorni complessivi nell'anno di formazione e non pregiudichino il raggiungimento degli obiettivi formativi. In tali casi non vi e' sospensione della borsa di studio.   
+(18) (19)
 
 --------------
 
@@ -384,6 +384,12 @@ Ha inoltre disposto (con l'art. 3, comma 1) che "La presente ordinanza ha validi
 AGGIORNAMENTO (19)
 
 L'ordinanza 21 febbraio 2020 (in G.U. 26/02/2020, n. 48) ha disposto (con l'art. 2, comma 1) che "Il soggetto attuatore del Ministero della salute e' autorizzato a prorogare i contratti gia' autorizzati ai sensi dell'art. 1, comma 2 dell'ordinanza del Ministero della salute del 25 gennaio 2020 ed a conferire ulteriori incarichi di collaborazione coordinata e continuativa, a personale medico, nel numero massimo di settantasette unita', della durata non superiore al termine di vigenza dello stato di emegenza, anche in deroga all'[art. 24 del decreto legislativo 17 agosto 1999, n. 368](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1999-08-17;368~art24), all'[art. 7, commi 5-bis](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2001-03-30;165~art7-com5bis), [6](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2001-03-30;165~art7-com6) e [6-bis del decreto legislativo 30 marzo 2001, n. 165](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2001-03-30;165~art7-com6bis) e all'Accordo collettivo nazionale 23 marzo 2005".
+
+---------------
+
+AGGIORNAMENTO (24)
+
+La Corte Costituzionale, con sentenza 12 marzo - 12 maggio 2026, n. 76 (in G.U. 1ª s.s. 13/05/2026, n. 19), ha dichiarato "l'illegittimita' costituzionale dell'[art. 24, comma 5, del decreto legislativo 17 agosto 1999, n. 368](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1999-08-17;368~art24-com5) (Attuazione della [direttiva 93/16/CEE](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:31993L0016) in materia di libera circolazione dei medici e di reciproco riconoscimento dei loro diplomi, certificati ed altri titoli e delle [direttive 97/50/CE](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:31997L0050), [98/21/CE](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:31998L0021), [98/63/CE](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:31998L0063) e [99/46/CE](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:31999L0046) che modificano la [direttiva 93/16/CEE)](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:31993L0016), nella parte in cui non prevede che il diploma di formazione specifica in medicina generale, conseguito nella prima data utile dopo il recupero del periodo di sospensione per gravidanza e maternita' del relativo corso di formazione, sia considerato come acquisito nella sessione ordinaria prevista per gli altri partecipanti al medesimo corso, ai fini degli effetti giuridici correlati alla trasformazione, in conformita' alla disciplina vigente, di un incarico di convenzione a tempo determinato con il Servizio sanitario nazionale in uno a tempo indeterminato".
 
 ### Art. 25
 

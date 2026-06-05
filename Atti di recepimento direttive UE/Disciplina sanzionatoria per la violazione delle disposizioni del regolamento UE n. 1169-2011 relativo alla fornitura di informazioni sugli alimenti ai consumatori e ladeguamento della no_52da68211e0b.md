@@ -100,9 +100,17 @@ CAPO II Titolo II DISPOSIZIONI SANZIONATORIE PER LA VIOLAZIONE DELLE DISPOSIZION
 
 Violazione delle pratiche leali di informazione di cui all'articolo 7 del regolamento
 
-1. Salvo che il fatto costituisca reato e ad esclusione delle fattispecie specificamente sanzionate dalle altre disposizioni del presente decreto, la violazione delle disposizioni di cui all'articolo 7 del regolamento sulle pratiche leali d'informazione comporta per l'operatore del settore alimentare l'applicazione della sanzione amministrativa pecuniaria del pagamento di una somma da 3.000 euro a 24.000 euro.
+1. Salvo che il fatto costituisca reato e ad esclusione delle fattispecie specificamente sanzionate dalle altre disposizioni del presente decreto, la violazione delle disposizioni di cui all'articolo 7 del regolamento sulle pratiche leali d'informazione comporta per l'operatore del settore alimentare l'applicazione della sanzione amministrativa pecuniaria
 
-((1-bis. Se le violazioni di cui al comma 1 sono commesse da imprese aventi i parametri di media e grande impresa ai sensi della [raccomandazione 2003/361/CE della Commissione, del 6 maggio 2003](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32003H0361), le sanzioni amministrative di cui al medesimo comma 1 sono aumentate di due volte nel caso delle medie imprese e di tre volte nel caso delle grandi imprese))
+((da 4.000 euro a 32.000 euro o del 3 per cento del fatturato totale annuo realizzato nell'ultimo esercizio chiuso anteriormente all'accertamento della violazione quando tale importo e' superiore a 32.000 euro))
+
+.
+
+((La sanzione massima non puo' eccedere comunque 100.000 euro))
+
+.
+
+1-bis. Se le violazioni di cui al comma 1 sono commesse da imprese aventi i parametri di media e grande impresa ai sensi della [raccomandazione 2003/361/CE della Commissione, del 6 maggio 2003](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32003H0361), le sanzioni amministrative di cui al medesimo comma 1 sono aumentate di due volte nel caso delle medie imprese e di tre volte nel caso delle grandi imprese.
 
 ### Art. 4
 
@@ -147,6 +155,22 @@ a distanza di cui all'articolo 14 del regolamento
 
 1. Salvo che il fatto costituisca reato, la violazione delle disposizioni relative alla vendita a distanza di cui all'articolo 14 del regolamento comporta l'applicazione al soggetto responsabile della sanzione amministrativa pecuniaria del pagamento di una somma da 2.000 euro a 16.000 euro.
 
+### Art. 7-bis
+
+(( (Sanzioni amministrative per l'impiego abusivo delle denominazioni di latte e di prodotti lattiero-caseari di cui all'allegato VII al regolamento (UE) n. 1308/2013 del Parlamento europeo e del Consiglio, del 17 dicembre 2013). ))
+
+1. 
+
+((Salvo che il fatto costituisca reato, chiunque prepara, produce, confeziona, detiene, vende, pone in vendita, mette in commercio, cede a qualsiasi titolo o pubblicizza con qualunque mezzo prodotti alimentari diversi da quelli indicati ai punti 1, 2 e 3 della parte III dell'allegato VII al [regolamento (UE) n. 1308/2013 del Parlamento europeo e del Consiglio, del 17 dicembre 2013](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32013R1308), utilizzando etichette, documenti commerciali, materiale pubblicitario o altre forme di pubblicita', quali definite all'[articolo 2 della direttiva 2006/114/CE del Parlamento europeo e del Consiglio, del 12 dicembre 2006](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32006L0114), o qualsiasi forma di presentazione che indichi, implichi o suggerisca che il prodotto e' un prodotto lattiero-caseario, e' soggetto alla sanzione amministrativa pecuniaria da 4.000 euro a 32.000 euro o del 3 per cento del fatturato totale annuo realizzato nell'ultimo esercizio chiuso anteriormente all'accertamento della violazione quando tale importo e' superiore a 32.000 euro e al sequestro della merce e di ogni materiale o supporto mediante il quale e' commessa la violazione ai fini della loro confisca e distruzione; la sanzione massima non puo' eccedere comunque 100.000 euro. Le disposizioni del presente articolo si applicano anche qualora la denominazione "latte" o le denominazioni di cui al punto 2, secondo comma, della parte III dell'allegato VII al [regolamento (UE) n. 1308/2013](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32013R1308) siano completate da indicazioni esplicative o descrittive che specificano l'origine vegetale del prodotto o siano accompagnate da locuzioni negative. Per un prodotto contenente latte o prodotti lattiero-caseari, le medesime denominazioni possono essere utilizzate unicamente per descrivere le materie prime di base o per elencare gli ingredienti in conformita' al [regolamento (UE) n. 1169/2011 del Parlamento europeo e del Consiglio, del 25 ottobre 2011](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32011R1169)))
+
+.
+
+2. 
+
+((Non e' ammesso il pagamento in misura ridotta di cui all'[articolo 16 della legge 24 novembre 1981, n. 689](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-11-24;689~art16)))
+
+.
+
 CAPO IV Capo III Violazione delle disposizioni specifiche sulle indicazioni obbligatorie
 ----------------------------------------------------------------------------------------
 
@@ -154,13 +178,41 @@ CAPO IV Capo III Violazione delle disposizioni specifiche sulle indicazioni obbl
 
 Violazioni in materia di denominazione dell'alimento di cui all'articolo 17, all'articolo 18, paragrafo 2, e all'allegato VI del regolamento
 
-1. Salvo che il fatto costituisca reato, la denominazione dell'alimento in violazione delle disposizioni di cui all'articolo 17, paragrafi 1 e 4, del regolamento, comporta l'applicazione al soggetto responsabile della sanzione amministrativa pecuniaria del pagamento di una somma da 2.000 euro a 16.000 euro.
+1. Salvo che il fatto costituisca reato, la denominazione dell'alimento in violazione delle disposizioni di cui all'articolo 17, paragrafi 1 e 4, del regolamento, comporta l'applicazione al soggetto responsabile della sanzione amministrativa pecuniaria
 
-2. Quando la violazione di cui al comma 1 riguarda esclusivamente errori od omissioni formali, essa comporta l'applicazione al soggetto responsabile della sanzione amministrativa pecuniaria del pagamento di una somma da 500 euro ad 4.000 euro.
+((da 4.000 euro a 32.000 euro o del 3 per cento del fatturato totale annuo realizzato nell'ultimo esercizio chiuso anteriormente all'accertamento della violazione quando tale importo e' superiore a 32.000 euro))
 
-3. La violazione delle disposizioni di cui all'articolo 17, paragrafi 2 e 3, del regolamento comporta l'applicazione al soggetto responsabile della sanzione amministrativa pecuniaria del pagamento di una somma da 500 euro a 4.000 euro.
+.
 
-4. La violazione delle disposizioni relative alla denominazione degli alimenti e alle indicazioni specifiche che la accompagnano di cui all'allegato VI del regolamento, fatte salve le deroghe ivi previste, comporta l'applicazione al soggetto responsabile della sanzione amministrativa pecuniaria del pagamento di una somma da 1.000 euro a 8.000 euro.
+((La sanzione massima non puo' eccedere comunque 100.000 euro))
+
+.
+
+2. Quando la violazione di cui al comma 1 riguarda esclusivamente errori od omissioni formali, essa comporta l'applicazione al soggetto responsabile della sanzione amministrativa pecuniaria del pagamento di una somma
+
+((da 1.000 euro a 8.000 euro))
+
+.
+
+3. La violazione delle disposizioni di cui all'articolo 17, paragrafi 2 e 3, del regolamento comporta l'applicazione al soggetto responsabile della sanzione amministrativa pecuniaria
+
+((da 1.000 euro a 8.000 euro o del 3 per cento del fatturato totale annuo realizzato nell'ultimo esercizio chiuso anteriormente all'accertamento della violazione quando tale importo e' superiore a 8.000 euro))
+
+.
+
+((La sanzione massima non puo' eccedere comunque 25.000 euro))
+
+.
+
+4. La violazione delle disposizioni relative alla denominazione degli alimenti e alle indicazioni specifiche che la accompagnano di cui all'allegato VI del regolamento, fatte salve le deroghe ivi previste, comporta l'applicazione al soggetto responsabile della sanzione amministrativa pecuniaria
+
+((da 2.000 euro a 16.000 euro o del 3 per cento del fatturato totale annuo realizzato nell'ultimo esercizio chiuso anteriormente all'accertamento della violazione quando tale importo e' superiore a 16.000 euro))
+
+.
+
+((La sanzione massima non puo' eccedere comunque 50.000 euro))
+
+.
 
 5. Le medesime sanzioni di cui ai commi 1, 2, 3 e 4 si applicano al soggetto responsabile che viola l'articolo 18, paragrafo 2, del regolamento in materia di denominazione e designazione degli ingredienti.
 
@@ -168,11 +220,27 @@ Violazioni in materia di denominazione dell'alimento di cui all'articolo 17, all
 
 Violazioni in materia di elenco degli ingredienti di cui all'articolo 18, paragrafi 1 e 3, ed all'allegato VII del regolamento
 
-1. Fatte salve le deroghe previste agli articoli 19 e 20 del regolamento, la violazione delle disposizioni di cui all'articolo 18, paragrafi 1 e 3, nonche' la violazione delle disposizioni di cui all'allegato VII del citato regolamento, comporta l'applicazione al soggetto responsabile della sanzione amministrativa pecuniaria del pagamento di una somma da 2.000 euro a 16.000 euro.
+1. Fatte salve le deroghe previste agli articoli 19 e 20 del regolamento, la violazione delle disposizioni di cui all'articolo 18, paragrafi 1 e 3, nonche' la violazione delle disposizioni di cui all'allegato VII del citato regolamento, comporta l'applicazione al soggetto responsabile della sanzione amministrativa pecuniaria
+
+((da 4.000 euro a 32.000 euro o del 3 per cento del fatturato totale annuo realizzato nell'ultimo esercizio chiuso anteriormente all'accertamento della violazione quando tale importo e' superiore a 32.000 euro))
+
+.
+
+((La sanzione massima non puo' eccedere comunque 100.000 euro))
+
+.
 
 2. Quando la violazione di cui al comma 1 riguarda esclusivamente errori od omissioni formali, essa comporta l'applicazione al soggetto responsabile della sanzione amministrativa pecuniaria del pagamento di una somma da 500 euro a 4.000 euro.
 
-3. La violazione delle disposizioni relative all'indicazione e designazione degli ingredienti di cui all'allegato VII del regolamento, fatte salve le deroghe ivi previste, comporta l'applicazione al soggetto responsabile della sanzione amministrativa pecuniaria del pagamento di una somma da 1.000 euro a 8.000 euro.
+3. La violazione delle disposizioni relative all'indicazione e designazione degli ingredienti di cui all'allegato VII del regolamento, fatte salve le deroghe ivi previste, comporta l'applicazione al soggetto responsabile della sanzione amministrativa pecuniaria
+
+((da 2.000 euro a 16.000 euro o del 3 per cento del fatturato totale annuo realizzato nell'ultimo esercizio chiuso anteriormente all'accertamento della violazione quando tale importo e' superiore a 16.000 euro))
+
+.
+
+((La sanzione massima non puo' eccedere comunque 50.000 euro))
+
+.
 
 ### Art. 10
 
@@ -202,7 +270,15 @@ Violazioni in materia di termine minimo di conservazione, data di scadenza e dat
 
 Violazioni in materia di indicazione del paese di origine o luogo di provenienza di cui all'articolo 26, e relativi atti di esecuzione, ed all'allegato XI del regolamento
 
-1. Salvo che il fatto costituisca reato, la violazione delle disposizioni relative a contenuti e modalita' dell'indicazione del paese d'origine o del luogo di provenienza di cui all'articolo 26 del regolamento comporta l'applicazione al soggetto responsabile della sanzione amministrativa pecuniaria del pagamento di una somma da 2.000 euro a 16.000 euro.
+1. Salvo che il fatto costituisca reato, la violazione delle disposizioni relative a contenuti e modalita' dell'indicazione del paese d'origine o del luogo di provenienza di cui all'articolo 26 del regolamento comporta l'applicazione al soggetto responsabile della sanzione amministrativa pecuniaria
+
+((da 4.000 euro a 32.000 euro o del 3 per cento del fatturato totale annuo realizzato nell'ultimo esercizio chiuso anteriormente all'accertamento della violazione quando tale importo e' superiore a 32.000 euro))
+
+.
+
+((La sanzione massima non puo' eccedere comunque 100.000 euro))
+
+.
 
 2. Quando la violazione di cui al comma 1 riguarda solo errori ed omissioni formali essa comporta l'applicazione al soggetto responsabile della sanzione amministrativa pecuniaria del pagamento di una somma da 500 euro a 4.000 euro.
 
@@ -402,15 +478,11 @@ Procedure per le irrogazioni delle sanzioni
 
 5. Non si applicano le disposizioni sanzionatorie del presente decreto all'immissione sul mercato di un alimento che e' corredato da adeguata rettifica scritta delle informazioni non conformi a quanto previsto dal presente decreto.
 
-Note all'art. 27:   
-Per i riferimenti normativi della [legge 24 novembre 1981, n. 689](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-11-24;689), si veda nelle note alle premesse.   
-Il testo dell'[articolo 1, commi 3](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2014-06-24;91~art1-com3) e [4, del decreto- legge 24 giugno 2014, n. 91](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2014-06-24;91~art1-com4), recante disposizioni urgenti per il settore agricolo, la tutela ambientale e l'efficientamento energetico dell'edilizia scolastica e universitaria, il rilancio e lo sviluppo delle imprese, il contenimento dei costi gravanti sulle tariffe elettriche, nonche' per la definizione immediata di adempimenti derivanti dalla normativa europea, convertito in legge, con modificazioni, dalla [legge 11 agosto 2014, n. 116](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2014-08-11;116), pubblicata nella Gazzetta Ufficiale 20 agosto 2014, n. 192, S.O., cosi' recita:   
-«Art. 1. (Disposizioni urgenti in materia di controlli sulle imprese agricole, istituzione del registro unico dei controlli sulle imprese agricole e potenziamento dell'istituto della diffida nel settore agroalimentare).   
-- (Omissis).   
-3. Per le violazioni alle norme in materia agroalimentare, per le quali e' prevista l'applicazione della sola sanzione amministrativa pecuniaria, l'organo di controllo incaricato, nel caso in cui accerta per la prima volta l'esistenza di violazioni sanabili, diffida l'interessato ad adempiere alle prescrizioni violate entro il termine di venti giorni dalla data di ricezione dell'atto di diffida e ad elidere le conseguenze dannose o pericolose dell'illecito amministrativo. Per violazioni sanabili si intendono errori e omissioni formali che comportano una mera operazione di regolarizzazione ovvero violazioni le cui conseguenze dannose o pericolose sono eliminabili. In caso di mancata ottemperanza alle prescrizioni contenute nella diffida di cui al presente comma, entro il termine indicato, l'organo di controllo procede ad effettuare la contestazione, ai sensi dell'[articolo 14 della legge 24 novembre 1981, n. 689](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-11-24;689~art14). In tale ipotesi e' esclusa l'applicazione dell'articolo 16 della citata [legge n. 689 del 1981](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981;689).   
-(Omissis).   
-4. Per le violazioni alle norme in materia agroalimentare per le quali e' prevista l'applicazione della sola sanzione amministrativa pecuniaria, se gia' consentito il pagamento in misura ridotta, la somma, determinata ai sensi dell'articolo 16, primo comma, della citata [legge n. 689 del 1981](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981;689), e' ridotta del trenta per cento se il pagamento e' effettuato entro cinque giorni dalla contestazione o dalla notificazione. La disposizione di cui al primo periodo si applica anche alle violazioni contestate anteriormente alla data di entrata in vigore del presente decreto, purche' l'interessato effettui il pagamento e trasmetta la relativa quietanza entro trenta giorni dalla data di entrata in vigore della legge di conversione del presente decreto all'autorita' competente, di cui all'articolo 17 della citata [legge n. 689 del 1981](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981;689) e all'organo che ha accertato la violazione.».   
-La [raccomandazione 2003/361/CE della Commissione del 6 maggio 2003](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32003H0361), relativa alla definizione delle microimprese, piccole e medie imprese, e' pubblicata nella G.U.U.E. 20 maggio 2003, n. L 124.
+5-bis. 
+
+((Per la determinazione delle sanzioni amministrative pecuniarie previste dal presente decreto, l'autorita' competente tiene conto della gravita' del fatto, della durata della violazione, dell'opera svolta dall'agente per l'eliminazione o l'attenuazione delle conseguenze della violazione nonche' delle condizioni economiche dello stesso))
+
+.
 
 ### Art. 28
 
