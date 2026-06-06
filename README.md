@@ -135,12 +135,9 @@ git diff HEAD~1            # inspect the latest normative diff
 
 ### Contributing
 
-Here is what would move the needle right now:
+Found a parsing error, a missing file, or have ideas to improve the project?
 
-- **Vector DB smoke tests** — try indexing a subfolder (e.g. *Codici*) with **Qdrant**, **Weaviate**, or **Chroma** and report memory, chunk size, and failure modes (open an issue with timings and versions).
-- **Loader sanity checks** — same for **LangChain** / **LlamaIndex** loaders on large trees; document any path or encoding edge cases.
-- **Italian legal QA benchmark** — a small, reproducible Q&A set with article-level citations would help compare models and RAG setups.
-- **Parser edge cases** — if you spot wrong headings, broken tables, or missing metadata in specific acts, a minimal repro (URL + file path) is gold.
+Reach out at **[ahmeabd36@gmail.com](mailto:ahmeabd36@gmail.com)** for bug reports, suggestions, or if you want to get involved.
 
 Pull requests are welcome for parsing fixes, validation scripts, and tooling integrations. **Open an issue before structural changes** to the on-disk format.
 
@@ -286,12 +283,9 @@ git diff HEAD~1            # analizza l'ultimo diff normativo
 
 ### Contribuire
 
-Ecco cosa servirebbe concretamente adesso:
+Hai trovato un errore nel parsing, un file mancante o hai idee su come migliorare il progetto?
 
-- **Test su vector DB** — indicizza una sottocartella (es. *Codici*) con **Qdrant**, **Weaviate** o **Chroma** e riporta memoria, dimensione dei chunk e errori (issue con tempi e versioni delle librerie).
-- **Sanity check dei loader** — stesso tipo di prova con **LangChain** / **LlamaIndex** su alberi grandi; annota path o encoding "strani".
-- **Benchmark Q&A legale italiano** — un piccolo set riproducibile di domande e risposte con citazione ad articolo servirebbe a confrontare modelli e RAG.
-- **Edge case del parser** — titoli sbagliati, tabelle rotte, metadati mancanti: basta un caso minimo (URL Normattiva + percorso file).
+Scrivimi a **[ahmeabd36@gmail.com](mailto:ahmeabd36@gmail.com)** per segnalazioni, suggerimenti o se vuoi far parte del progetto.
 
 PR benvenute per fix di parsing, script di validazione e integrazioni. **Apri una issue prima** di cambi strutturali al formato su disco.
 
