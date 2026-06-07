@@ -209,11 +209,15 @@ Il [D.L. 11 ottobre 2024, n. 145](http://www.normattiva.it/uri-res/N2Ls?urn:nir:
 
 1. Ai fini di cui al presente testo unico, si intende con integrazione quel processo finalizzato a promuovere la convivenza dei cittadini italiani e di quelli stranieri, nel rispetto dei valori sanciti dalla Costituzione italiana, con il reciproco impegno a partecipare alla vita economica, sociale e culturale della societa'.
 
-1-bis. Nell'ambito delle attivita' preordinate alla realizzazione del processo di integrazione di cui al comma 1, sono fornite le informazioni sui diritti conferiti allo straniero con il permesso di soggiorno di cui all'articolo 5, comma 8.1.
+1-bis. Nell'ambito delle attivita' preordinate alla realizzazione del processo di integrazione di cui al comma 1, sono fornite le informazioni sui diritti conferiti allo straniero con il permesso di soggiorno di cui all'articolo 5, comma 8.1
 
-2. Entro centottanta giorni dalla data di entrata in vigore del presente articolo, con regolamento, adottato ai sensi dell'[articolo 17, comma 1, della legge 23 agosto 1988,n. 400](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400~art17-com1), su proposta del Presidente del Consiglio dei ministri e del Ministro dell'interno, di concerto con il Ministro dell'istruzione, dell'universita' e della ricerca e il Ministro del lavoro, della salute e delle politiche sociali, sono stabiliti i criteri e le modalita' per la sottoscrizione, da parte dello straniero, contestualmente alla presentazione della domanda di rilascio del permesso di soggiorno ai sensi dell'articolo 5, di un Accordo di integrazione, articolato per crediti, con l'impegno a sottoscrivere specifici obiettivi di integrazione, da conseguire nel periodo di validita' del permesso di soggiorno. La stipula dell'Accordo di integrazione, con le modalita' di cui all'articolo 22, comma 6, rappresenta condizione necessaria per il rilascio del permesso di soggiorno. La perdita integrale dei crediti determina la revoca del permesso di soggiorno e l'espulsione dello straniero dal territorio dello Stato, eseguita dal questore secondo le modalita' di cui all'articolo 13, comma 4, ad eccezione dello straniero titolare di permesso di soggiorno per asilo, per protezione sussidiaria, per i motivi di cui all'[articolo 32, comma 3, del decreto legislativo 28 gennaio 2008, n. 25](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-01-28;25~art32-com3), per motivi familiari, di permesso di soggiorno UE per soggiornanti di lungo periodo, di carta di soggiorno per familiare straniero di cittadino dell'Unione europea, nonche' dello straniero titolare di altro permesso di soggiorno che ha esercitato il diritto al ricongiungimento familiare.
+((, nonche' sulle condizioni di ingresso e di soggiorno per l'esercizio di attivita' lavorativa, su tutti i documenti richiesti per la domanda di un permesso unico e sugli obblighi e le garanzie procedurali previste in favore dei lavoratori e dei loro familiari))
 
-((104))
+.
+
+((122))
+
+2. Entro centottanta giorni dalla data di entrata in vigore del presente articolo, con regolamento, adottato ai sensi dell'[articolo 17, comma 1, della legge 23 agosto 1988,n. 400](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400~art17-com1), su proposta del Presidente del Consiglio dei ministri e del Ministro dell'interno, di concerto con il Ministro dell'istruzione, dell'universita' e della ricerca e il Ministro del lavoro, della salute e delle politiche sociali, sono stabiliti i criteri e le modalita' per la sottoscrizione, da parte dello straniero, contestualmente alla presentazione della domanda di rilascio del permesso di soggiorno ai sensi dell'articolo 5, di un Accordo di integrazione, articolato per crediti, con l'impegno a sottoscrivere specifici obiettivi di integrazione, da conseguire nel periodo di validita' del permesso di soggiorno. La stipula dell'Accordo di integrazione, con le modalita' di cui all'articolo 22, comma 6, rappresenta condizione necessaria per il rilascio del permesso di soggiorno. La perdita integrale dei crediti determina la revoca del permesso di soggiorno e l'espulsione dello straniero dal territorio dello Stato, eseguita dal questore secondo le modalita' di cui all'articolo 13, comma 4, ad eccezione dello straniero titolare di permesso di soggiorno per asilo, per protezione sussidiaria, per i motivi di cui all'[articolo 32, comma 3, del decreto legislativo 28 gennaio 2008, n. 25](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-01-28;25~art32-com3), per motivi familiari, di permesso di soggiorno UE per soggiornanti di lungo periodo, di carta di soggiorno per familiare straniero di cittadino dell'Unione europea, nonche' dello straniero titolare di altro permesso di soggiorno che ha esercitato il diritto al ricongiungimento familiare. (104)
 
 3. All'attuazione del presente articolo si provvede con le risorse umane, strumentali e finanziarie disponibili a legislazione vigente, senza nuovi o maggiori oneri per la finanza pubblica.
 
@@ -222,6 +226,12 @@ Il [D.L. 11 ottobre 2024, n. 145](http://www.normattiva.it/uri-res/N2Ls?urn:nir:
 AGGIORNAMENTO (104)
 
 Il [D.L. 11 ottobre 2024, n. 145](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2024-10-11;145), convertito con modificazioni dalla [L. 9 dicembre 2024, n. 187](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2024-12-09;187), ha disposto (con l'art. 1, comma 2) che "Le disposizioni di cui al comma 1, lettere a), numero 1), ed e), numero 4), si applicano alle domande di visto nazionale presentate a partire dal novantesimo giorno successivo alla data di entrata in vigore del presente decreto. Le restanti disposizioni di cui al comma 1 si applicano dalla data di decorrenza delle disposizioni per l'anno 2025 di cui al [decreto del Presidente del Consiglio dei ministri 27 settembre 2023, pubblicato nella Gazzetta Ufficiale n. 231 del 3 ottobre 2023](http://www.gazzettaufficiale.it/gazzetta/serie_generale/caricaDettaglio?dataPubblicazioneGazzetta=2023-10-03&numeroGazzetta=231)".
+
+--------------
+
+AGGIORNAMENTO (122)
+
+Il [D.Lgs. 16 aprile 2026, n. 83](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2026-04-16;83) ha disposto (con l'art. 4, comma 1) che "Le disposizioni di cui al presente decreto si applicano a decorrere dal 22 maggio 2026".
 
 ### Art. 4-ter
 
@@ -281,7 +291,13 @@ c) in relazione ad un contratto di lavoro subordinato a tempo indeterminato, la 
 
 3-sexies. Nei casi di ricongiungimento familiare, ai sensi dell'articolo 29, la durata del permesso di soggiorno non puo' essere superiore a due anni. Ciascun rinnovo non puo' superare la durata di tre anni.
 
-4. Il rinnovo del permesso di soggiorno e' richiesto dallo straniero al questore della provincia in cui dimora, almeno sessanta giorni prima della scadenza, ed e' sottoposto alla verifica delle condizioni previste per il rilascio e delle diverse condizioni previste dal presente testo unico. Fatti salvi i diversi termini previsti dal presente testo unico e dal regolamento di attuazione, il permesso di soggiorno e' rinnovato per una durata non superiore a quella stabilita con rilascio iniziale. (76)
+4. Il rinnovo del permesso di soggiorno e' richiesto dallo straniero al questore della provincia in cui dimora, almeno
+
+((novanta giorni))
+
+prima della scadenza, ed e' sottoposto alla verifica delle condizioni previste per il rilascio e delle diverse condizioni previste dal presente testo unico. Fatti salvi i diversi termini previsti dal presente testo unico e dal regolamento di attuazione, il permesso di soggiorno e' rinnovato per una durata non superiore a quella stabilita con rilascio iniziale. (76)
+
+((122))
 
 4-bis. Lo straniero che richiede il rinnovo del permesso di soggiorno e' sottoposto a rilievi fotodattiloscopici.
 
@@ -304,34 +320,91 @@ c) in relazione ad un contratto di lavoro subordinato a tempo indeterminato, la 
 7-quater. E' autorizzata la riammissione nel territorio nazionale dello straniero espulso da altro Stato membro dell'Unione europea, in possesso di un permesso di soggiorno o di altra autorizzazione che conferisca il diritto di soggiornare rilasciati dall'Italia e in corso di validita', a condizione che non costituisca un pericolo per l'ordine pubblico o la sicurezza dello Stato.
 
 8. Il permesso di soggiorno e la carta di soggiorno di cui all'articolo 9 sono rilasciati mediante utilizzo di mezzi a tecnologia avanzata con caratteristiche anticontraffazione conformi ai modelli da approvare con decreto del Ministro dell'interno, di concerto con il Ministro per l'innovazione e le tecnologie, in attuazione del [regolamento (CE) n. 1030/2002 del Consiglio, del 13 giugno 2002](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32002R1030), riguardante l'adozione di un modello uniforme per i permessi di soggiorno rilasciati a cittadini di Paesi terzi. Il permesso di soggiorno e la carta di soggiorno rilasciati in conformita' ai predetti modelli recano inoltre i dati personali previsti, per la carta di identita' e gli altri documenti elettronici, dall'[articolo 36 del testo unico delle disposizioni legislative e regolamentari in materia di documentazione amministrativa](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2000-12-28;445~art36), di cui al [decreto del Presidente della Repubblica 28 dicembre 2000, n. 445](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2000-12-28;445).   
-8.1. Nel permesso di soggiorno che autorizza l'esercizio di attivita' lavorativa secondo le norme del presente testo unico e del regolamento di attuazione e' inserita la dicitura: "perm. unico lavoro".   
+8.1. Nel permesso di soggiorno che autorizza l'esercizio di attivita' lavorativa secondo le norme del presente testo unico e del regolamento di attuazione e' inserita la dicitura: "perm. unico lavoro"
+
+((e sono indicate le informazioni conformemente alla lettera a), punti 12 e 16, dell'allegato di cui al [regolamento (CE) n. 1030/2002 del Consiglio, del 13 giugno 2002](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32002R1030)))
+
+.
+
+((Si applicano comunque le disposizioni di cui ai commi 2-ter e 9-bis.))
+
+((122))
+
+  
+8.1-bis.
+
+((In deroga a quanto previsto dai commi 9 e 9-bis, il permesso unico e' rilasciato dal questore entro il termine di trenta giorni dal completamento della domanda.))
+
+((122))
+
+  
 8.2. La disposizione di cui al comma 8.1 non si applica:
 
 a) agli stranieri di cui agli articoli 9 e 9-ter;
 
 b) agli stranieri di cui all'articolo 24;
 
-c) agli stranieri di cui all'articolo 26;
+c) agli stranieri di cui
 
-d) agli stranieri di cui all'articolo 27, comma 1, lettere a), g), h), i) e r);
+((agli articoli 26 e 26-bis))
 
-e) agli stranieri che soggiornano a titolo di protezione temporanea e nei casi di cui agli articoli 18, 18-bis, 20-bis, 22, comma 12-quater, e del permesso di soggiorno rilasciato ai sensi dell'[articolo 32, comma 3, del decreto legislativo 28 gennaio 2008, n. 25](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-01-28;25~art32-com3), ovvero hanno richiesto il permesso di soggiorno a tale titolo e sono in attesa di una decisione su tale richiesta;
+;
+
+((122))
+
+d)
+
+((agli stranieri di cui all'articolo 27, commi 1, lettere a), h), i), i-bis) e q-bis), r) limitatamente alle persone collocate "alla pari", 1-quinquies e 1-septies;))
+
+((122))
+
+d-bis)
+
+((agli stranieri di cui agli articoli 27-quinquies e 27-sexies;))
+
+((122))
+
+e)
+
+((agli stranieri che soggiornano a titolo di protezione temporanea conformemente alla [direttiva 2001/55/CE del Consiglio, del 20 luglio 2001](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32001L0055), ovvero hanno chiesto l'autorizzazione al soggiorno a tale titolo e sono in attesa di una decisione sul loro stato;))
+
+((122))
 
 f) agli stranieri che soggiornano a titolo di protezione internazionale come definita dall'[articolo 2, comma 1, lettera a), del decreto legislativo 19 novembre 2007, n. 251](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2007-11-19;251~art2-com1-leta), ovvero hanno chiesto il riconoscimento della protezione e sono in attesa di una decisione su tale richiesta;
 
-g) agli stranieri che soggiornano per motivi di studio o formazione.
+g) agli stranieri che soggiornano per motivi di studio o formazione
+
+((di cui agli articoli 39, 39-bis e 39-bis.1))
+
+.
+
+((122))
 
 g-bis) agli stranieri di cui all'articolo 42-bis.
 
+g-ter)
+
+((agli stranieri che soggiornano ai sensi degli articoli 18, 18-bis, 18-ter, o a titolo di protezione speciale o ai sensi degli articoli 19, comma 2, lettera d-bis), 20-bis, 31, comma 3, e 36, nonche' per motivi religiosi, per acquisto della cittadinanza o dello stato di apolide, di cui all'[articolo 11, comma 1, lettera c), del decreto del Presidente della Repubblica 31 agosto 1999, n. 394](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1999-08-31;394~art11-com1-letc), o per residenza elettiva, ovvero hanno richiesto il permesso di soggiorno per uno di tali titoli e sono in attesa di una decisione sulla richiesta.))
+
+((122))
+
 8-bis. Chiunque contraffa' o altera un visto di ingresso o reingresso, la comunicazione del rilascio di un'autorizzazione ai viaggi, una proroga del visto, un permesso di soggiorno, un contratto di soggiorno o una carta di soggiorno, ovvero contraffa' o altera documenti al fine di determinare il rilascio di un visto di ingresso o di reingresso, di un'autorizzazione ai viaggi, della proroga del visto, di un permesso di soggiorno, di un contratto di soggiorno o di una carta di soggiorno oppure utilizza uno di tali documenti contraffatti o alterati, e' punito con la reclusione da uno a sei anni. Se la falsita' concerne un atto o parte di un atto che faccia fede fino a querela di falso la reclusione e' da tre a dieci anni. La pena e' aumentata se il fatto e' commesso da un pubblico ufficiale. (91)
 
-9. Il permesso di soggiorno e' rilasciato, rinnovato o convertito entro sessanta giorni dalla data in cui e' stata presentata la domanda, se sussistono i requisiti e le condizioni previsti dal presente testo unico e dal regolamento di attuazione per il permesso di soggiorno richiesto ovvero, in mancanza di questo, per altro tipo di permesso da rilasciare in applicazione del presente testo unico. (13)
+9. Il permesso di soggiorno e' rilasciato, rinnovato o convertito entro
 
-9-bis. In attesa del rilascio, del rinnovo o della conversione del permesso di soggiorno, anche ove non venga rispettato il termine di sessanta giorni di cui al comma 9, lo straniero puo' legittimamente soggiornare nel territorio dello Stato e svolgere temporaneamente attivita' lavorativa, in presenza degli altri requisiti previsti dalla legge, fino a eventuale comunicazione dell'Autorita' di pubblica sicurezza, da notificare anche al datore di lavoro, con l'indicazione dell'esistenza dei motivi ostativi al rilascio, al rinnovo o alla conversione del permesso di soggiorno. L'attivita' di lavoro di cui al primo periodo puo' svolgersi a condizione che sia stata rilasciata dal competente ufficio la ricevuta attestante l'avvenuta presentazione della richiesta di rilascio, di rinnovo o di conversione del permesso
+((novanta giorni))
 
-((di soggiorno))
+dalla data in cui e' stata presentata la domanda, se sussistono i requisiti e le condizioni previsti dal presente testo unico e dal regolamento di attuazione per il permesso di soggiorno richiesto ovvero, in mancanza di questo, per altro tipo di permesso da rilasciare in applicazione del presente testo unico. (13)
 
-e nel rispetto degli altri adempimenti previsti dalla legge.
+((122))
+
+9-bis. In attesa del rilascio, del rinnovo o della conversione del permesso di soggiorno, anche ove non venga rispettato
+
+((il termine di novanta giorni))
+
+di cui al comma 9, lo straniero puo' legittimamente soggiornare nel territorio dello Stato e svolgere temporaneamente attivita' lavorativa, in presenza degli altri requisiti previsti dalla legge, fino a eventuale comunicazione dell'Autorita' di pubblica sicurezza, da notificare anche al datore di lavoro, con l'indicazione dell'esistenza dei motivi ostativi al rilascio, al rinnovo o alla conversione del permesso di soggiorno. L'attivita' di lavoro di cui al primo periodo puo' svolgersi a condizione che sia stata rilasciata dal competente ufficio la ricevuta attestante l'avvenuta presentazione della richiesta di rilascio, di rinnovo o di conversione del permesso di soggiorno e nel rispetto degli altri adempimenti previsti dalla legge.
+
+((122))
 
 -------------
 
@@ -380,6 +453,12 @@ La Corte Costituzionale, con sentenza 9 marzo - 8 maggio 2023, n. 88 (in G.U. 1Â
 AGGIORNAMENTO (91)
 
 Il [D.L. 13 giugno 2023, n. 69](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2023-06-13;69), convertito con modificazioni dalla [L. 10 agosto 2023, n. 103](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2023-08-10;103) ha disposto (con l'art. 18, comma 6) che "Le disposizioni di cui al presente articolo, fatta eccezione per quelle di cui al comma 1, lettere a), numero 2), capoverso 1-bis, c) e d), numeri 2) e 4), si applicano a decorrere dalla data di avvio in esercizio dei relativi sistemi informativi per le frontiere, l'immigrazione e la sicurezza, comunicata ufficialmente dalla Commissione europea".
+
+--------------
+
+AGGIORNAMENTO (122)
+
+Il [D.Lgs. 16 aprile 2026, n. 83](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2026-04-16;83) ha disposto (con l'art. 4, comma 1) che "Le disposizioni di cui al presente decreto si applicano a decorrere dal 22 maggio 2026".
 
 ### Art. 5-bis
 
@@ -1547,12 +1626,8 @@ Lavoro subordinato a tempo determinato e indeterminato
 
 a) richiesta nominativa di nulla osta al lavoro;
 
-b) idonea documentazione relativa alle modalita' di sistemazione alloggiativa per il lavoratore straniero, sottoscritta mediante apposizione di firma digitale o altro tipo di firma elettronica qualificata
-
-((.Nell'ipotesi in cui l'alloggio sia rappresentato dai dormitori stabili del cantiere e' ammessa la presentazione di un'autocertificazione del datore di lavoro che attesti i requisiti di cui all'allegato XIII del [decreto legislativo 9 aprile 2008, n. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81).  
-Nell'ipotesi in cui l'alloggio sia rappresentato da una struttura alberghiera o struttura ricettiva comunque denominata, ai fini dell'idoneita' dell'alloggio e' sufficiente l'indicazione della struttura ospitante, ferme restando le eventuali responsabilita' a carico della medesima struttura in caso di mancata osservanza della normativa di settore))
-
-;(104)
+b) idonea documentazione relativa alle modalita' di sistemazione alloggiativa per il lavoratore straniero, sottoscritta mediante apposizione di firma digitale o altro tipo di firma elettronica qualificata .Nell'ipotesi in cui l'alloggio sia rappresentato dai dormitori stabili del cantiere e' ammessa la presentazione di un'autocertificazione del datore di lavoro che attesti i requisiti di cui all'allegato XIII del [decreto legislativo 9 aprile 2008, n. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81).  
+Nell'ipotesi in cui l'alloggio sia rappresentato da una struttura alberghiera o struttura ricettiva comunque denominata, ai fini dell'idoneita' dell'alloggio e' sufficiente l'indicazione della struttura ospitante, ferme restando le eventuali responsabilita' a carico della medesima struttura in caso di mancata osservanza della normativa di settore;(104)
 
 c) la proposta di contratto di soggiorno con specificazione delle relative condizioni, comprensiva dell'impegno al pagamento da parte dello stesso datore di lavoro delle spese di ritorno dello straniero nel Paese di provenienza;
 
@@ -1592,13 +1667,15 @@ c) reato previsto dal comma 12.
 
 5-quater. Al sopravvenuto accertamento degli elementi ostativi di cui al presente articolo, anche a seguito dei controlli effettuati ai sensi dell'articolo 24-bis, comma 4, conseguono la revoca del nulla osta e del visto, la risoluzione di diritto del contratto di soggiorno, nonche' la revoca del permesso di soggiorno.   
   
-5-quater.1.
+5-quater.1. Il termine massimo per il rilascio del nulla osta di cui al comma 5 e' ridotto a trenta giorni per l'ingresso e il soggiorno per lavoro subordinato degli stranieri che partecipano ai programmi di formazione professionale e civico-linguistica nei Paesi di origine, di cui all'articolo 23.
 
-((Il termine massimo per il rilascio del nulla osta di cui al comma 5 e' ridotto a trenta giorni per l'ingresso e il soggiorno per lavoro subordinato degli stranieri che partecipano ai programmi di formazione professionale e civico-linguistica nei Paesi di origine, di cui all'articolo 23))
+5-quinquies. Il datore di lavoro e' tenuto a confermare la richiesta di nulla osta al lavoro allo sportello unico per l'immigrazione entro quindici giorni dalla comunicazione di avvenuta conclusione degli accertamenti di rito sulla domanda di visto di ingresso presentata dal lavoratore. In assenza di conferma entro il suddetto termine, la richiesta si intende rifiutata e il nulla osta, ove gia' rilasciato, e' revocato.
 
-.
+((Il datore di lavoro informa tempestivamente il cittadino straniero interessato di ogni comunicazione ricevuta in relazione all'iter del nulla osta.))
 
-5-quinquies. Il datore di lavoro e' tenuto a confermare la richiesta di nulla osta al lavoro allo sportello unico per l'immigrazione entro quindici giorni dalla comunicazione di avvenuta conclusione degli accertamenti di rito sulla domanda di visto di ingresso presentata dal lavoratore. In assenza di conferma entro il suddetto termine, la richiesta si intende rifiutata e il nulla osta, ove gia' rilasciato, e' revocato. In caso di conferma, l'ufficio consolare presso il Paese di residenza o di origine dello straniero rilascia il visto di ingresso. Le comunicazioni tra l'ufficio consolare e lo sportello unico per l'immigrazione avvengono esclusivamente tramite il portale informatico per la gestione delle domande di visto di ingresso in Italia. (104)
+In caso di conferma, l'ufficio consolare presso il Paese di residenza o di origine dello straniero rilascia il visto di ingresso. Le comunicazioni tra l'ufficio consolare e lo sportello unico per l'immigrazione avvengono esclusivamente tramite il portale informatico per la gestione delle domande di visto di ingresso in Italia. (104)
+
+((122))
 
 6. Entro quindici giorni dalla data di ingresso del lavoratore straniero nel territorio nazionale, il datore di lavoro e il lavoratore straniero sottoscrivono, mediante apposizione di firma digitale o altro tipo di firma elettronica qualificata, il contratto di soggiorno di cui all'articolo 5-bis. Il lavoratore puo' altresi' firmare il contratto in forma autografa. L'apposizione della firma digitale o altro tipo di firma elettronica qualificata del datore di lavoro sulla copia informatica del contratto firmato in forma autografa dal lavoratore costituisce dichiarazione ai sensi dell'[articolo 47 del testo unico delle disposizioni legislative e regolamentari in materia di documentazione amministrativa](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2000-12-28;445~art47), di cui al [decreto del Presidente della Repubblica 28 dicembre 2000, n. 445](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2000-12-28;445), in ordine alla sottoscrizione autografa del lavoratore. Tale documento , nel termine di cui al primo periodo, e' trasmesso in via telematica a cura del datore di lavoro allo sportello unico per l'immigrazione per gli adempimenti concernenti la richiesta di rilascio del permesso di soggiorno. (104)
 
@@ -1648,6 +1725,12 @@ c) se i lavoratori occupati sono sottoposti alle altre condizioni lavorative di 
 AGGIORNAMENTO (104)
 
 Il [D.L. 11 ottobre 2024, n. 145](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2024-10-11;145), convertito con modificazioni dalla [L. 9 dicembre 2024, n. 187](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2024-12-09;187), ha disposto (con l'art. 1, comma 2) che "Le disposizioni di cui al comma 1, lettere a), numero 1), ed e), numero 4), si applicano alle domande di visto nazionale presentate a partire dal novantesimo giorno successivo alla data di entrata in vigore del presente decreto. Le restanti disposizioni di cui al comma 1 si applicano dalla data di decorrenza delle disposizioni per l'anno 2025 di cui al [decreto del Presidente del Consiglio dei ministri 27 settembre 2023, pubblicato nella Gazzetta Ufficiale n. 231 del 3 ottobre 2023](http://www.gazzettaufficiale.it/gazzetta/serie_generale/caricaDettaglio?dataPubblicazioneGazzetta=2023-10-03&numeroGazzetta=231)".
+
+--------------
+
+AGGIORNAMENTO (122)
+
+Il [D.Lgs. 16 aprile 2026, n. 83](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2026-04-16;83) ha disposto (con l'art. 4, comma 1) che "Le disposizioni di cui al presente decreto si applicano a decorrere dal 22 maggio 2026".
 
 ### Art. 23
 
