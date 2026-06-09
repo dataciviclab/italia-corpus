@@ -1,0 +1,12 @@
+# DataCivicLab — Italia Corpus
+name: italia-corpus
+kind: corpus-project
+status: public-exploration
+description: >
+  Fork DataCivicLab di italia-corpus (ahmeabd). Corpus della legislazione
+  italiana in Markdown da Normattiva, con tooling Lab per estrazione metadati
+  e ricerca full-text via MCP.
+upstream:
+  repo: ahmeabd/italia-corpus
+  sync: daily (via GitHub Actions)
+maintainer: DataCivicLab

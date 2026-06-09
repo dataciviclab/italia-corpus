@@ -1,0 +1,7 @@
+# Lab runtime
+__pycache__/
+*.pyc
+.env
+
+# Dataset artifact (rigenerabile)
+# data/derived/*.csv è committato se < 1MB

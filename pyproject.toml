@@ -1,0 +1,20 @@
+[project]
+name = "italia-corpus-lab"
+version = "0.1.0"
+description = "DataCivicLab tooling per Italia Corpus"
+requires-python = ">=3.11"
+dependencies = []
+
+[project.optional-dependencies]
+dev = [
+    "pytest>=8",
+    "pandas>=2",
+    "pyarrow>=15",
+]
+mcp = [
+    "mcp>=1.0.0",
+]
+
+[project.scripts]
+italia-corpus-mcp = "lab_tools.mcp_server:main"
+italia-corpus-extract = "lab_tools.extract:main"
