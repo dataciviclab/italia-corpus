@@ -1,7 +1,7 @@
-# Lab runtime
+# Python
 __pycache__/
 *.pyc
 .env
 
-# Dataset artifact (rigenerabile)
-# data/derived/*.csv è committato se < 1MB
+# Dataset (generato da CI)
+# data/derived/ è popolato dal workflow build-dataset

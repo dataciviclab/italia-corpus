@@ -8,5 +8,7 @@ description: >
   e ricerca full-text via MCP.
 upstream:
   repo: ahmeabd/italia-corpus
-  sync: daily (via GitHub Actions)
+  sync: manual
+datasets:
+  - normativa_recepimento_ue
 maintainer: DataCivicLab
