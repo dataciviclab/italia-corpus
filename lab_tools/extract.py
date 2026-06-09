@@ -47,6 +47,18 @@ def _anno_dir(oggetto: str) -> int | None:
     return None
 
 
+def _anno_da_celex(celex: str) -> int | None:
+    """Estrae l'anno dal primo CELEX (formato 3YYYY...)."""
+    if not celex:
+        return None
+    primo = celex.split(";")[0]
+    if len(primo) >= 5 and primo[1:5].isdigit():
+        anno = int(primo[1:5])
+        if 1950 <= anno <= 2030:
+            return anno
+    return None
+
+
 def extract(filepath: Path) -> dict | None:
     raw = filepath.read_text("utf-8", errors="replace")
     if re.match(r'^\d{4}-\d{2}-\d{2}_', filepath.name):
@@ -69,7 +81,7 @@ def extract(filepath: Path) -> dict | None:
         gg, mm, aa = m3.group(1).split("/")
         vigore = f"{aa}-{mm.zfill(2)}-{gg.zfill(2)}"
     celex = ";".join(sorted(set(RE_CELEX.findall(raw))))
-    anno = _anno_dir(oggetto)
+    anno = _anno_dir(oggetto) or _anno_da_celex(celex)
     ritardo = (int(a) - anno) if anno and anno <= int(a) < anno + 100 else None
     return {"filename": filepath.name, "tipo": tipo, "data": data, "numero": num,
             "oggetto": oggetto[:500], "entrata_vigore": vigore, "celex": celex,
