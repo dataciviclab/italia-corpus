@@ -1,3 +1,7 @@
+[build-system]
+requires = ["setuptools>=64"]
+build-backend = "setuptools.build_meta"
+
 [project]
 name = "italia-corpus-lab"
 version = "0.1.0"
@@ -18,3 +22,6 @@ mcp = [
 [project.scripts]
 italia-corpus-mcp = "lab_tools.mcp_server:main"
 italia-corpus-extract = "lab_tools.extract:main"
+
+[tool.setuptools.packages.find]
+include = ["lab_tools*"]
