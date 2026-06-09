@@ -91,7 +91,7 @@ def extract(filepath: Path) -> dict | None:
 def main():
     OUTDIR.mkdir(parents=True, exist_ok=True)
     files = sorted(COLLECTION.glob("*.md"))
-    records = [extract(f) for f in files if extract(f) is not None]
+    records = [r for f in files if (r := extract(f)) is not None]
     csv_path = OUTDIR / "normativa_recepimento_ue.csv"
     with open(csv_path, "w", newline="", encoding="utf-8") as f:
         w = csv.DictWriter(f, fieldnames=["filename", "tipo", "data", "numero",

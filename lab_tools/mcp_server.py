@@ -29,7 +29,7 @@ server = FastMCP("italia-corpus")
 
 @server.tool(
     name="italia-corpus_legal_search",
-    description="Cerca nella legislazione italiana (>250.000 atti da Normattiva) con ripgrep.",
+    description="Cerca nella legislazione italiana (~25.000 atti da Normattiva, collezioni vigenti) con ripgrep.",
 )
 def legal_search(query: str, limit: int = 10) -> str:
     if not shutil.which("rg"):
@@ -73,7 +73,11 @@ def legal_search(query: str, limit: int = 10) -> str:
     description="Elenca le directory (collezioni) del corpus.",
 )
 def list_collections() -> str:
-    dirs = [d.name for d in sorted(CORPUS.iterdir()) if d.is_dir() and not d.name.startswith(".")]
+    skip = {".git", "data", "lab_tools", "tests", "notebooks"}
+    dirs = [
+        d.name for d in sorted(CORPUS.iterdir())
+        if d.is_dir() and d.name not in skip and not d.name.startswith(".")
+    ]
     return "## Collezioni\n" + "\n".join(f"- {d}" for d in dirs)
 
 

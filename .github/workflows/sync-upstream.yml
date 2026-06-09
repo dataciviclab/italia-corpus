@@ -18,9 +18,15 @@ jobs:
       - run: |
           git remote add upstream https://github.com/ahmeabd/italia-corpus.git
           git fetch upstream
-          git merge upstream/main --no-edit
-          git push origin main
+          if git merge upstream/main --no-edit; then
+            git push origin main
+          else
+            echo "Merge conflittuale — skip push e dataset rebuild"
+            git merge --abort
+            exit 1
+          fi
       - name: Trigger dataset rebuild
+        if: success()
         env:
           GH_TOKEN: ${{ github.token }}
         run: gh workflow run build-dataset.yml --ref main
