@@ -4,4 +4,4 @@ __pycache__/
 .env
 
 # Dataset (generato da CI)
-# data/derived/ è popolato dal workflow build-dataset
+data/derived/
