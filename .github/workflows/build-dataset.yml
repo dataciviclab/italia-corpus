@@ -10,6 +10,30 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+        with:
+          sparse-checkout: |
+            lab_tools/
+            data/derived/
+            Atti di recepimento direttive UE/
+            Atti di attuazione Regolamenti UE/
+            DL e leggi di conversione/
+            DL decaduti/
+            DL proroghe/
+            Decreti Legislativi/
+            Decreti legislativi luogotenenziali/
+            DPCM/
+            Leggi di ratifica/
+            Leggi di delegazione europea/
+            Leggi delega e relativi provvedimenti delegati/
+            Leggi costituzionali/
+            Leggi finanziarie e di bilancio/
+            Leggi contenenti deleghe/
+            Regolamenti ministeriali/
+            Regolamenti governativi/
+            Regolamenti di delegificazione/
+            Regi decreti legislativi/
+            Testi Unici/
+            Codici/
       - uses: actions/setup-python@v5
         with:
           python-version: '3.12'
@@ -19,7 +43,7 @@ jobs:
           if [ -n "$(git status --porcelain data/derived/)" ]; then
             git config user.name "github-actions"
             git config user.email "actions@github.com"
-            git add data/derived/
+            git add data/derived/*.parquet
             git commit -m "chore(data): update dataset [skip ci]"
             git push
           fi

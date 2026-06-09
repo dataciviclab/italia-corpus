@@ -3,5 +3,5 @@ __pycache__/
 *.pyc
 .env
 
-# Dataset (generato da CI)
-data/derived/
+# Dataset — solo csv è generato localmente
+data/derived/*.csv
