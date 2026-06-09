@@ -21,9 +21,9 @@ def test_con_celex():
     assert result["entrata_vigore"] == "2020-04-01"
     assert result["celex"] == "32018L1234"
     assert result["anno_atto"] == 2020
-    # anno_dir=0 perché l'oggetto è fallback (nome file), non contiene "direttiva ANNO"
-    assert result["anno_dir"] == 0
-    assert result["ritardo"] is None
+    # anno_dir recuperato dal CELEX (32018L1234 → 2018)
+    assert result["anno_dir"] == 2018
+    assert result["ritardo"] == 2
 
 
 def test_senza_celex():
