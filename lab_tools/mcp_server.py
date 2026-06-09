@@ -37,7 +37,7 @@ def legal_search(query: str, limit: int = 10) -> str:
     limit = min(limit, 50)
     try:
         out = subprocess.run(
-            ["rg", "-l", "-m", "1", "--glob", "*.md", "--", query, str(CORPUS)],
+            ["rg", "-l", "-m", "1", "-i", "--glob", "*.md", "--", query, str(CORPUS)],
             capture_output=True, text=True, timeout=60,
         ).stdout
         files = [f for f in out.strip().split("\n") if f.strip()][:limit]
