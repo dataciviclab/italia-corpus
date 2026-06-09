@@ -1,0 +1,18 @@
+name: test-tooling
+on: [push, pull_request]
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          sparse-checkout: |
+            lab_tools/
+            tests/
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - run: pip install -e ".[dev]"
+        timeout-minutes: 5
+      - run: python -m pytest tests/ -v
