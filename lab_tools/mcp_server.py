@@ -31,13 +31,21 @@ server = FastMCP("italia-corpus")
     name="italia-corpus_legal_search",
     description="Cerca nella legislazione italiana (~25.000 atti da Normattiva, collezioni vigenti) con ripgrep.",
 )
-def legal_search(query: str, limit: int = 10) -> str:
+def legal_search(query: str, limit: int = 10, collezione: str = "") -> str:
     if not shutil.which("rg"):
         return "ripgrep (rg) non trovato."
     limit = min(limit, 50)
+    skip = {".git", "data", "lab_tools", "tests", "notebooks"}
+    if collezione:
+        col_path = CORPUS / collezione
+        if not col_path.is_dir() or collezione in skip or collezione.startswith("."):
+            return f"Collezione '{collezione}' non trovata. Usa list_collections per l'elenco."
+        search_path = str(col_path)
+    else:
+        search_path = str(CORPUS)
     try:
         out = subprocess.run(
-            ["rg", "-l", "-m", "1", "-i", "--glob", "*.md", "--", query, str(CORPUS)],
+            ["rg", "-l", "-m", "1", "-i", "--glob", "*.md", "--", query, search_path],
             capture_output=True, text=True, timeout=60,
         ).stdout
         files = [f for f in out.strip().split("\n") if f.strip()][:limit]
@@ -49,7 +57,8 @@ def legal_search(query: str, limit: int = 10) -> str:
         return f"Errore: {e}"
     if not files:
         return f"Nessun risultato per: {query}"
-    lines = [f"### Ricerca: «{query}» — {len(files)} risultati"]
+    prefix = f" (collezione: {collezione})" if collezione else ""
+    lines = [f"### Ricerca: «{query}»{prefix} — {len(files)} risultati"]
     for fp in files:
         with open(fp, encoding="utf-8", errors="replace") as f:
             title = _pick_title(fp)

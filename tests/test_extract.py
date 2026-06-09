@@ -4,7 +4,7 @@ from pathlib import Path
 
 import pytest
 
-from lab_tools.extract import extract, _anno_da_celex
+from lab_tools.extract import extract, _anno_da_celex, _dedup
 
 FIXTURES = Path(__file__).resolve().parent / "fixtures"
 
@@ -86,3 +86,31 @@ def test_nessun_match():
         assert extract(dummy) is None
     finally:
         dummy.unlink()
+
+
+class TestDedup:
+    """Test per _dedup(): merge collezioni, skip duplicati."""
+
+    def _r(self, filename: str, collezione: str) -> dict:
+        return {"collezione": collezione, "filename": filename, "tipo": "LEGGE",
+                "data": "2020-01-01", "numero": "1"}
+
+    def test_merge_collezioni_diverse(self):
+        """Due occorrenze stesso filename, collezioni diverse → merge."""
+        records = [self._r("test.md", "Collezione A"), self._r("test.md", "Collezione B")]
+        result = _dedup(records)
+        assert len(result) == 1
+        assert "Collezione A;Collezione B" == result[0]["collezione"]
+
+    def test_stessa_collezione(self):
+        """Due occorrenze stesso filename, stessa collezione → skip."""
+        records = [self._r("test.md", "Collezione A"), self._r("test.md", "Collezione A")]
+        result = _dedup(records)
+        assert len(result) == 1
+        assert result[0]["collezione"] == "Collezione A"
+
+    def test_filename_diversi(self):
+        """Filename diversi → nessun merge."""
+        records = [self._r("a.md", "Collezione A"), self._r("b.md", "Collezione B")]
+        result = _dedup(records)
+        assert len(result) == 2
