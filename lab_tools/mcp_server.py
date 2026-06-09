@@ -32,8 +32,6 @@ server = FastMCP("italia-corpus")
     description="Cerca nella legislazione italiana (~25.000 atti da Normattiva, collezioni vigenti) con ripgrep.",
 )
 def legal_search(query: str, limit: int = 10, collezione: str = "") -> str:
-    if not shutil.which("rg"):
-        return "ripgrep (rg) non trovato."
     limit = min(limit, 50)
     skip = {".git", "data", "lab_tools", "tests", "notebooks"}
     if collezione:
@@ -43,6 +41,8 @@ def legal_search(query: str, limit: int = 10, collezione: str = "") -> str:
         search_path = str(col_path)
     else:
         search_path = str(CORPUS)
+    if not shutil.which("rg"):
+        return "ripgrep (rg) non trovato."
     try:
         out = subprocess.run(
             ["rg", "-l", "-m", "1", "-i", "--glob", "*.md", "--", query, search_path],
