@@ -1,29 +1,36 @@
-"""Test per lab_tools.extract.extract() con fixture reali e sintetiche."""
+"""Test per lab_tools.extract.extract() e funzioni ausiliarie."""
 
 from pathlib import Path
 
 import pytest
 
-from lab_tools.extract import extract
+from lab_tools.extract import extract, _anno_da_celex
 
 FIXTURES = Path(__file__).resolve().parent / "fixtures"
 
 
 def test_con_celex():
-    """File completo: tipo, data, numero, oggetto (fallback), entrata vigore, CELEX."""
+    """File completo: tipo, data, numero, oggetto (fallback), entrata vigore, CELEX,
+    anno_dir da CELEX, collezione."""
     result = extract(FIXTURES / "con_celex.md")
     assert result is not None
     assert result["tipo"] == "DECRETO LEGISLATIVO"
     assert result["data"] == "2020-03-15"
     assert result["numero"] == "45"
-    # L'oggetto vero non matcha RE_OGGETTO (firma assente), fallback al filename
     assert result["oggetto"] == "con_celex"
     assert result["entrata_vigore"] == "2020-04-01"
     assert result["celex"] == "32018L1234"
     assert result["anno_atto"] == 2020
-    # anno_dir recuperato dal CELEX (32018L1234 → 2018)
     assert result["anno_dir"] == 2018
     assert result["ritardo"] == 2
+    assert result["collezione"] == ""
+
+
+def test_collezione_esplicita():
+    """Parametro collezione passato a extract()."""
+    result = extract(FIXTURES / "con_celex.md", collezione="Test")
+    assert result is not None
+    assert result["collezione"] == "Test"
 
 
 def test_senza_celex():
@@ -37,6 +44,20 @@ def test_senza_celex():
     assert result["entrata_vigore"] == ""
     assert result["anno_dir"] == 0
     assert result["ritardo"] is None
+
+
+def test_anno_da_celex_piu_recente():
+    """_anno_da_celex sceglie il CELEX L/R più recente, non il primo ordinato."""
+    assert _anno_da_celex("31950L2008;32015L2193;31990R1234") == 2015
+    assert _anno_da_celex("32015L2193;31950L2008") == 2015
+    assert _anno_da_celex("31950L2008") == 1950
+
+
+def test_anno_da_celex_senza_l():
+    """CELEX senza tipo L o R: nessun anno (es. trattati)."""
+    assert _anno_da_celex("12008E") is None
+    assert _anno_da_celex("") is None
+    assert _anno_da_celex(None) is None
 
 
 def test_base64():
