@@ -12,7 +12,9 @@ CORPUS = Path(__file__).resolve().parent.parent
 
 def _pick_title(file: str) -> str:
     with open(file, encoding="utf-8", errors="replace") as f:
-        for line in f:
+        for i, line in enumerate(f):
+            if i > 10:
+                break
             line = line.strip()
             if line and not line.startswith(
                 ("Art.", "IL PRESIDENTE", "Entrata", "Visti", "Considerato",
@@ -35,10 +37,12 @@ def legal_search(query: str, limit: int = 10) -> str:
     limit = min(limit, 50)
     try:
         out = subprocess.run(
-            ["rg", "-l", "-m", "1", "--", query, str(CORPUS)],
+            ["rg", "-l", "-m", "1", "--glob", "*.md", "--", query, str(CORPUS)],
             capture_output=True, text=True, timeout=60,
         ).stdout
         files = [f for f in out.strip().split("\n") if f.strip()][:limit]
+        if not files:
+            return f"Nessun risultato per: {query}"
     except subprocess.TimeoutExpired:
         return "Ricerca troppo lunga."
     except Exception as e:
@@ -58,7 +62,7 @@ def legal_search(query: str, limit: int = 10) -> str:
         except Exception:
             ctx = ""
         lines.append(f"\n**{title}**")
-        lines.append(f"  \ud83d\udcc2 `{rel.parent}`")
+        lines.append(f"  > `{rel.parent}`")
         if ctx:
             lines.append(f"  > {ctx}")
     return "\n".join(lines)
