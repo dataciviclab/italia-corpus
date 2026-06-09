@@ -74,6 +74,10 @@ def _anno_da_celex(celex: str) -> int | None:
 
 def extract(filepath: Path, collezione: str = "") -> dict | None:
     raw = filepath.read_text("utf-8", errors="replace")
+    # Ramo BASE64: file con nome data_nome (es. 2007-12-14_007X0246_...).
+    # Attualmente produce 0 righe nel dataset perché i 34 file con questo pattern
+    # nelle collezioni vive non contengono "CELEX:" nel testo non decodificato.
+    # Fuori scope finché non serve decodifica base64 reale.
     if re.match(r'^\d{4}-\d{2}-\d{2}_', filepath.name):
         celex = RE_CELEX.findall(raw)
         if not celex:
