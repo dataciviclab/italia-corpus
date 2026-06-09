@@ -6,6 +6,7 @@ on:
 
 permissions:
   contents: write
+  actions: write
 
 jobs:
   sync:
@@ -19,3 +20,7 @@ jobs:
           git fetch upstream
           git merge upstream/main --no-edit
           git push origin main
+      - name: Trigger dataset rebuild
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: gh workflow run build-dataset.yml --ref main
