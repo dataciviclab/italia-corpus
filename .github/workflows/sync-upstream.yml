@@ -16,6 +16,9 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+        with:
+          sparse-checkout: |
+            config/
       - name: Sparse clone upstream (config/collezioni.txt)
         run: |
           git clone --no-checkout --depth 1 --filter=blob:none "$UPSTREAM_REPO" /tmp/upstream
