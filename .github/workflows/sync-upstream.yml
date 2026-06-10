@@ -40,7 +40,8 @@ jobs:
           done
       - name: Commit sync
         run: |
-          git add .
+          git add --sparse .
+          git ls-files --deleted -z | xargs -0 git rm --cached
           if git diff --cached --quiet; then
             echo "Nessuna modifica — skip commit"
           else
