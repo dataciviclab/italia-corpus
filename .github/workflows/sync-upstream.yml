@@ -18,7 +18,7 @@ jobs:
       - uses: actions/checkout@v4
       - name: Sparse clone upstream (config/collezioni.txt)
         run: |
-          git clone --depth 1 --filter=blob:none "$UPSTREAM_REPO" /tmp/upstream
+          git clone --no-checkout --depth 1 --filter=blob:none "$UPSTREAM_REPO" /tmp/upstream
           cd /tmp/upstream
           git sparse-checkout init --cone
           while IFS= read -r col; do
