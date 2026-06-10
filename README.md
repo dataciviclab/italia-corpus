@@ -36,7 +36,7 @@ python -m lab_tools.extract
 |---|---|---|
 | `test.yml` | push / PR | pytest tests/ -v |
 | `build-dataset.yml` | workflow_dispatch | test → extract → commit parquet |
-| `sync-upstream.yml` | daily 7:00 + manuale | merge upstream → trigger build-dataset |
+| `sync-upstream.yml` | daily 7:00 + manuale | sparse clone upstream → rsync collezioni → commit → trigger build-dataset |
 
 ## Schema dataset
 
@@ -56,8 +56,8 @@ python -m lab_tools.extract
 
 ## Manutenzione
 
-- Il sync upstream è automatico ogni giorno alle 7:00. Se il merge fallisce (conflitto), il workflow abortisce senza pushare.
-- Dopo ogni sync, `build-dataset` rigenera automaticamente il parquet.
+- Il sync upstream è automatico ogni giorno alle 7:00. Clona upstream con `--depth 1 --filter=blob:none` e solo le 20 collezioni vive (sparse checkout), poi rsync `--delete` per specchiare le directory. Zero merge, zero conflitti.
+- Dopo ogni sync, `build-dataset` rigenera automaticamente il parquet (solo se ci sono modifiche).
 - Il dataset è committato su `main` (`data/derived/normativa.parquet`).
 
 ## Fork info

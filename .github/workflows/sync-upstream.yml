@@ -16,7 +16,17 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - name: Sparse clone upstream (config/collezioni.txt)
+        with:
+          sparse-checkout: |
+            config/
+      - name: Materializza collezioni nel working tree Lab
+        run: |
+          while IFS= read -r col; do
+            [ -z "$col" ] && continue
+            git sparse-checkout add "$col"
+          done < config/collezioni.txt
+          git checkout
+      - name: Sparse clone upstream
         run: |
           git clone --no-checkout --depth 1 --filter=blob:none "$UPSTREAM_REPO" /tmp/upstream
           cd /tmp/upstream
