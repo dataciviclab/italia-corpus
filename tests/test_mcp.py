@@ -12,8 +12,16 @@ from lab_tools import mcp_server
 # ─── fixture helpers ──────────────────────────────────────────────
 
 
+def _fake_rg_available(monkeypatch):
+    """Mocka shutil.which("rg") per ambienti senza rg (es. CI)."""
+    monkeypatch.setattr(
+        "shutil.which", lambda cmd: "/usr/bin/rg" if cmd == "rg" else None,
+    )
+
+
 def _fake_corpus(tmp_path: Path, monkeypatch):
     """Crea CORPUS finto con config/collezioni.txt, collezione e file .md."""
+    _fake_rg_available(monkeypatch)
     (tmp_path / "config").mkdir(parents=True)
     (tmp_path / "config" / "collezioni.txt").write_text(
         "Decreti Legislativi\n", encoding="utf-8"
@@ -32,46 +40,23 @@ def _fake_corpus(tmp_path: Path, monkeypatch):
     monkeypatch.setattr(mcp_server, "CORPUS", tmp_path)
 
 
-def _mock_rg_version_ok(monkeypatch):
-    """Mocka rg --version come disponibile con PCRE2."""
-
-    def fake_run(args, **kw):
-        if args and args[0] == "rg" and "--version" in args:
-            return subprocess.CompletedProcess(
-                args, 0,
-                stdout="ripgrep 14.1.0\nfeatures:+pcre2\n",
-                stderr="",
-            )
-        # Ricerca: restituisci JSON vuoto (nessun match)
-        return subprocess.CompletedProcess(
-            args, 0, stdout="", stderr="",
-        )
-
-    monkeypatch.setattr("subprocess.run", fake_run)
-
-
 def _mock_rg_json_result(monkeypatch, files: list[Path], query: str = "test"):
-    """Mocka rg per ricerca a due fasi (rg -l poi rg --json).
+    """Mocka rg per ricerca a due fasi con AND multi-termine.
 
-    La prima chiamata (rg -l) restituisce lista file.
-    La seconda chiamata (rg --json) restituisce eventi JSON per ogni file.
-    Gestisce anche rg --version (chiamata iniziale di _rg_disponibile).
+    Chiamate attese:
+      1. rg --version (da _rg_disponibile — non più, ora solo shutil.which)
+      2. rg -l (FASE 1: una o più chiamate, una per termine)
+      3. rg --json (FASE 2: snippet)
     """
+    # _rg_disponibile ora usa solo shutil.which, non chiama rg --version.
+    # Mock chiamata generica.
     call_count: list[int] = [0]
 
     def fake_run(args, **kw):
         call_count[0] += 1
         args_str = " ".join(str(a) for a in args) if args else ""
 
-        # Version check (prima o durante)
-        if "--version" in args_str:
-            return subprocess.CompletedProcess(
-                args, 0,
-                stdout="ripgrep 14.1.0\nfeatures:+pcre2\n",
-                stderr="",
-            )
-
-        # Fase 1: rg -l (lista file)
+        # Fase 1: rg -l (lista file) — restituisce path dei file
         if "-l" in args_str and "--json" not in args_str:
             stdout = "\n".join(str(fp) for fp in files)
             return subprocess.CompletedProcess(args, 0, stdout=stdout, stderr="")
@@ -80,7 +65,6 @@ def _mock_rg_json_result(monkeypatch, files: list[Path], query: str = "test"):
         if "--json" in args_str:
             lines = []
             for fp in files:
-                # Solo i file che sono tra gli argomenti dopo "--"
                 fp_str = str(fp)
                 if fp_str not in args_str:
                     continue
@@ -113,48 +97,94 @@ def _mock_rg_json_result(monkeypatch, files: list[Path], query: str = "test"):
     monkeypatch.setattr("subprocess.run", fake_run)
 
 
-# ─── Test _build_pattern ─────────────────────────────────────────
+def _mock_rg_list_files(monkeypatch, files_by_term: dict[str, list[Path]]):
+    """Mocka rg -l per AND multi-termine: ogni termine ha una lista file diversa.
+
+    files_by_term: {termine: [lista file che lo contengono]}
+    Usato per testare che l'intersezione funzioni correttamente.
+    """
+    _fake_rg_available(monkeypatch)
+
+    def fake_run(args, **kw):
+        args_str = " ".join(str(a) for a in args) if args else ""
+        # -l ma non --json = fase lista
+        if "-l" in args_str and "--json" not in args_str:
+            # Trova quale termine è stato passato (dopo --)
+            for term, term_files in files_by_term.items():
+                if term in args_str:
+                    stdout = "\n".join(str(fp) for fp in term_files)
+                    return subprocess.CompletedProcess(args, 0, stdout=stdout, stderr="")
+            return subprocess.CompletedProcess(args, 0, stdout="", stderr="")
+        # --json = fase snippet (usa primo termine come fallback)
+        if "--json" in args_str:
+            first_term = next(iter(files_by_term.keys()), "test")
+            first_files = files_by_term.get(first_term, [])
+            lines = []
+            for fp in first_files:
+                fp_str = str(fp)
+                if fp_str not in args_str:
+                    continue
+                lines.append(json.dumps({
+                    "type": "begin",
+                    "data": {"path": {"text": fp_str}},
+                }))
+                lines.append(json.dumps({
+                    "type": "match",
+                    "data": {
+                        "path": {"text": fp_str},
+                        "lines": {"text": f"riga con {first_term}\n"},
+                        "line_number": 1,
+                        "submatches": [{"match": {"text": first_term}, "start": 0, "end": len(first_term)}],
+                    },
+                }))
+                lines.append(json.dumps({"type": "end", "data": {"path": {"text": fp_str}}}))
+            lines.append(json.dumps({"type": "summary", "data": {}}))
+            return subprocess.CompletedProcess(args, 0, stdout="\n".join(lines), stderr="")
+        return subprocess.CompletedProcess(args, 0, stdout="", stderr="")
+
+    monkeypatch.setattr("subprocess.run", fake_run)
 
 
-class TestBuildPattern:
+# ─── Test _parse_query ────────────────────────────────────────────
+
+
+class TestParseQuery:
     @pytest.mark.pure_unit
     def test_singola_parola(self):
-        """Singola parola → letterale escaped."""
-        pat, pcre2 = mcp_server._build_pattern("ambiente")
-        assert pat == "ambiente"
-        assert pcre2 is False
+        """Singola parola → un termine, non frase."""
+        terms, is_phrase = mcp_server._parse_query("ambiente")
+        assert terms == ["ambiente"]
+        assert is_phrase is False
 
     @pytest.mark.pure_unit
     def test_and_multi_termine(self):
-        """Multi-parola → pattern lookahead AND."""
-        pat, pcre2 = mcp_server._build_pattern("ambiente energia")
-        assert pcre2 is True
-        assert "(?=.*\\bambiente\\b)" in pat
-        assert "(?=.*\\benergia\\b)" in pat
+        """Multi-parola → lista termini, non frase."""
+        terms, is_phrase = mcp_server._parse_query("ambiente energia")
+        assert terms == ["ambiente", "energia"]
+        assert is_phrase is False
 
     @pytest.mark.pure_unit
     def test_frase_esatta_virgolette(self):
-        """Query tra virgolette → letterale (frase esatta, senza lookahead)."""
-        pat, pcre2 = mcp_server._build_pattern('"decreto legislativo"')
-        assert pat == "decreto legislativo"
-        assert pcre2 is False
+        """Query tra virgolette → frase esatta, termini singolo."""
+        terms, is_phrase = mcp_server._parse_query('"decreto legislativo"')
+        assert terms == ["decreto legislativo"]
+        assert is_phrase is True
 
     @pytest.mark.pure_unit
     def test_query_vuota(self):
-        """Query vuota → pattern vuoto."""
-        pat, _ = mcp_server._build_pattern("")
-        assert pat == ""
+        """Query vuota → lista vuota."""
+        terms, is_phrase = mcp_server._parse_query("")
+        assert terms == []
+        assert is_phrase is False
 
     @pytest.mark.pure_unit
-    def test_parole_corte(self):
-        """Parole < 3 caratteri: senza word boundary."""
-        pat, pcre2 = mcp_server._build_pattern("ex art")
-        assert pcre2 is True
-        assert "\\bex\\b" not in pat  # no word boundary per 'ex' (2 char)
-        assert "\\bart\\b" in pat  # word boundary per 'art' (3 char)
+    def test_trim_spazi(self):
+        """Spazi iniziali/finali vengono trimmati."""
+        terms, is_phrase = mcp_server._parse_query("  comune  ")
+        assert terms == ["comune"]
 
 
-# ─── Test _search_corpus ─────────────────────────────────────────
+# ─── Test _search_corpus (singolo termine / frase) ───────────────
 
 
 class TestSearchCorpus:
@@ -184,6 +214,7 @@ class TestSearchCorpus:
             tmp_path / "Decreti Legislativi" / "altro.md",
         ]
         _mock_rg_json_result(monkeypatch, files)
+        # Query singola parola
         results_0 = mcp_server._search_corpus("direttiva", limit=10, offset=0)
         results_1 = mcp_server._search_corpus("direttiva", limit=10, offset=1)
         assert len(results_0) == 2
@@ -221,10 +252,39 @@ class TestSearchCorpus:
         results = mcp_server._search_corpus("___inesistente___")
         assert results == []
 
+    @pytest.mark.contract
+    def test_and_multi_termine_intersezione(self, monkeypatch, tmp_path):
+        """AND multi-termine: solo file che hanno TUTTI i termini."""
+        _fake_corpus(tmp_path, monkeypatch)
+        # file1 ha "ambiente", file2 ha "energia", nessuno ha entrambi
+        file1 = tmp_path / "Decreti Legislativi" / "test.md"
+        file2 = tmp_path / "Decreti Legislativi" / "altro.md"
+        _mock_rg_list_files(monkeypatch, {
+            "ambiente": [file1],
+            "energia": [file2],
+        })
+        # Nessun file ha entrambi → 0 risultati
+        results = mcp_server._search_corpus("ambiente energia", limit=10)
+        assert results == []
+
+    @pytest.mark.contract
+    def test_and_multi_termine_con_intersezione(self, monkeypatch, tmp_path):
+        """AND: file che ha entrambi i termini viene trovato."""
+        _fake_corpus(tmp_path, monkeypatch)
+        file1 = tmp_path / "Decreti Legislativi" / "test.md"
+        file2 = tmp_path / "Decreti Legislativi" / "altro.md"
+        # file1 ha entrambi, file2 solo "ambiente"
+        _mock_rg_list_files(monkeypatch, {
+            "ambiente": [file1, file2],
+            "energia": [file1],
+        })
+        results = mcp_server._search_corpus("ambiente energia", limit=10)
+        assert len(results) == 1
+        assert results[0]["filename"] == "test.md"
+
     @pytest.mark.pure_unit
     def test_limit_max(self):
         """limit è capped a _MAX_LIMIT (100)."""
-        # Test indiretto: _search_corpus passa min(limit, _MAX_LIMIT)
         assert mcp_server._MAX_LIMIT == 100
 
 
@@ -275,13 +335,27 @@ class TestLegalSearchTool:
         assert len(r0) == 2
         assert len(r1) == 1
 
-    @pytest.mark.pure_unit
+    @pytest.mark.contract
     def test_nessun_risultato_lista_vuota(self, monkeypatch, tmp_path):
         """Nessun match → lista vuota, non messaggio stringa."""
         _fake_corpus(tmp_path, monkeypatch)
         _mock_rg_json_result(monkeypatch, [])
         result = mcp_server.legal_search("xxx_inesistente_xxx")
         assert result == []
+
+    @pytest.mark.contract
+    def test_ricerca_and_via_tool(self, monkeypatch, tmp_path):
+        """AND multi-termine funziona anche via legal_search."""
+        _fake_corpus(tmp_path, monkeypatch)
+        file1 = tmp_path / "Decreti Legislativi" / "test.md"
+        file2 = tmp_path / "Decreti Legislativi" / "altro.md"
+        _mock_rg_list_files(monkeypatch, {
+            "ambiente": [file1, file2],
+            "energia": [file1],
+        })
+        result = mcp_server.legal_search("ambiente energia", limit=10)
+        assert len(result) == 1
+        assert result[0]["filename"] == "test.md"
 
 
 # ─── Test legal_get_document ─────────────────────────────────────
@@ -321,6 +395,40 @@ class TestLegalGetDocument:
         )
         assert len(content) < 100
         assert "troncato" in content
+
+    @pytest.mark.contract
+    def test_path_traversal_basename(self, monkeypatch, tmp_path):
+        """Path traversal con / nel filename → ValueError."""
+        _fake_corpus(tmp_path, monkeypatch)
+        with pytest.raises(ValueError, match="filename non valido"):
+            mcp_server.legal_get_document(
+                "Decreti Legislativi", "../config/collezioni.txt"
+            )
+
+    @pytest.mark.contract
+    def test_path_traversal_non_md(self, monkeypatch, tmp_path):
+        """File senza .md → ValueError."""
+        _fake_corpus(tmp_path, monkeypatch)
+        with pytest.raises(ValueError, match="deve terminare con .md"):
+            mcp_server.legal_get_document(
+                "Decreti Legislativi", "collezioni.txt"
+            )
+
+    @pytest.mark.contract
+    def test_path_traversal_symlink(self, monkeypatch, tmp_path):
+        """Basename valido ma path risolto fuori dalla collezione → ValueError."""
+        _fake_corpus(tmp_path, monkeypatch)
+        # Crea un symlink che punta fuori
+        col = tmp_path / "Decreti Legislativi"
+        outside = tmp_path / "outside.md"
+        outside.write_text("contenuto fuori", encoding="utf-8")
+        link = col / "link.md"
+        try:
+            link.symlink_to(outside)
+        except OSError:
+            pytest.skip("symlink non supportato su questo filesystem")
+        with pytest.raises(ValueError, match="Accesso negato"):
+            mcp_server.legal_get_document("Decreti Legislativi", "link.md")
 
 
 # ─── Test list_collections (invariato) ────────────────────────────

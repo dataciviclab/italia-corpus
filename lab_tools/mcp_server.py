@@ -1,11 +1,10 @@
 """Server MCP italia-corpus — cerca con ripgrep nel corpus normativo.
-Output strutturato (list[dict]) per agenti AI, con supporto AND multi-termine,
-paginazione offset e tool per recupero full text.
+Output strutturato (list[dict]) per agenti AI, con supporto AND multi-termine
+(documentale, non per riga), paginazione offset e tool per recupero full text.
 """
 from __future__ import annotations
 
 import json
-import re
 import shutil
 import subprocess
 from pathlib import Path
@@ -16,9 +15,9 @@ from mcp.server.fastmcp import FastMCP
 CORPUS = Path(__file__).resolve().parent.parent
 CONFIG_COLLEZIONI = CORPUS / "config" / "collezioni.txt"
 
-# Soglia oltre cui rg non viene chiamato per singola parola ("rumorosa")
 _QUERY_MAX_WORDS = 8
 _MAX_LIMIT = 100
+_RG_LIST_MATCHES = 3
 
 
 # ─── helpers interni ──────────────────────────────────────────────
@@ -48,66 +47,39 @@ def _pick_title(file: str) -> str:
 
 def _collezione_da_path(rel_path: str) -> str:
     """Estrae il nome della collezione dal path relativo al corpus."""
-    # Il path relativo è "Collezione/filename.md" o "sotto/collezione/filename.md"
     parts = Path(rel_path).parts
     return parts[0] if parts else ""
 
 
-def _build_pattern(query: str) -> tuple[str, bool]:
-    """Costruisce il pattern per rg.
+def _rg_disponibile() -> bool:
+    """True se rg è installato."""
+    return shutil.which("rg") is not None
 
-    Args:
-        query: stringa di ricerca (libera o tra virgolette)
+
+def _parse_query(query: str) -> tuple[list[str], bool]:
+    """Parsa una query di ricerca.
 
     Returns:
-        (pattern, use_pcre2): pattern da passare a rg e flag PCRE2
+        (termini, is_phrase):
+        - ``"ambiente energia"`` → ``(["ambiente", "energia"], False)``
+        - ``'"decreto legislativo"'`` → ``(["decreto legislativo"], True)``
+        - ``"decreto"`` → ``(["decreto"], False)``
+        - ``""`` → ``([], False)``
     """
-    query = query.strip()
-    if not query:
-        return "", False
-
-    # Frase esplicita tra virgolette → letterale
-    if (query.startswith('"') and query.endswith('"')) or \
-       (query.startswith("'") and query.endswith("'")):
-        return query[1:-1], False
-
-    parole = query.split()
-    n = len(parole)
-
-    # Singola parola → letterale (nessuna regex)
-    if n <= 1:
-        return re.escape(query), False
-
-    # Multi-parola → AND con lookahead PCRE2
-    # Parole corte (< 3 char) senza word boundary
-    parts = []
-    for w in parole[: _QUERY_MAX_WORDS]:
-        escaped = re.escape(w)
-        if len(w) >= 3 and w.isalpha():
-            parts.append(f"(?=.*\\b{escaped}\\b)")
-        else:
-            parts.append(f"(?=.*{escaped})")
-    return "^" + "".join(parts) + ".*", True
-
-
-def _rg_disponibile() -> tuple[bool, bool]:
-    """(disponibile, supporta_pcre2)"""
-    rg = shutil.which("rg")
-    if not rg:
-        return False, False
-    # Verifica supporto PCRE2
-    try:
-        out = subprocess.run([rg, "--version"], capture_output=True, text=True)
-        return True, "PCRE2" in out.stdout or "pcre2" in out.stdout
-    except Exception:
-        return True, False
+    q = query.strip()
+    if not q:
+        return [], False
+    # Frase esplicita tra virgolette
+    if (q.startswith('"') and q.endswith('"')) or \
+       (q.startswith("'") and q.endswith("'")):
+        return [q[1:-1]], True
+    parole = [w for w in q.split() if w]
+    if len(parole) > _QUERY_MAX_WORDS:
+        parole = parole[:_QUERY_MAX_WORDS]
+    return parole, False
 
 
 # ─── motore di ricerca strutturato ────────────────────────────────
-
-# Massimo match per file in fase di lista (rg -m). Con -m 1 basta per
-# capire se un file matcha. Per lo snippet si fa in fase separata.
-_RG_LIST_MATCHES = 3
 
 
 def _run_rg(cmd: list[str], timeout: int = 60) -> str:
@@ -119,6 +91,22 @@ def _run_rg(cmd: list[str], timeout: int = 60) -> str:
     if result.returncode not in (0, 1):
         raise RuntimeError(f"rg error (exit {result.returncode}): {result.stderr[:500]}")
     return result.stdout
+
+
+def _rg_list_files(term: str, search_path: str) -> set[str]:
+    """Cerca file con rg -l per un termine letterale.
+
+    Restituisce set di path assoluti dei file .md che contengono il termine.
+    """
+    cmd = [
+        "rg", "-l", "-i", "-F", "-m", str(_RG_LIST_MATCHES),
+        "--glob", "*.md", "--", term, search_path,
+    ]
+    stdout = _run_rg(cmd)
+    if not stdout.strip():
+        return set()
+    return {ln.strip() for ln in stdout.split("\n")
+            if ln.strip() and Path(ln.strip()).suffix == ".md"}
 
 
 def _parse_rg_json(stdout: str) -> dict[str, dict]:
@@ -154,7 +142,6 @@ def _parse_rg_json(stdout: str) -> dict[str, dict]:
         elif ev_type == "match" and cur_file:
             match_count += 1
             if len(snippet_parts) == 0:
-                # Solo primo match: linea + numero
                 ln = ev_data.get("line_number", 0)
                 txt = ev_data.get("lines", {}).get("text", "").rstrip()
                 snippet_parts.append(f"Riga {ln}: {txt}")
@@ -186,8 +173,9 @@ def _search_corpus(
     """Cerca nel corpus e restituisce risultati strutturati.
 
     Due fasi per efficienza:
-    1. ``rg -l`` per lista file (leggero, output minimo)
-    2. ``rg --json`` solo sui file da mostrare (offset/limit applicati prima)
+    1. ``rg -l`` per lista file — per AND multi-termine fa una ``rg -l``
+       per termine e interseca i risultati (AND documentale).
+    2. ``rg --json`` solo sui file da mostrare (offset/limit applicati prima).
     """
     limit = min(limit, _MAX_LIMIT)
     offset = max(offset, 0)
@@ -199,57 +187,50 @@ def _search_corpus(
                 f"Collezione '{collezione}' non trovata. "
                 f"Usa list_collections per l'elenco."
             )
-        search_targets = [str(CORPUS / collezione)]
+        search_path = str(CORPUS / collezione)
     else:
-        search_targets = [str(CORPUS)]
+        search_path = str(CORPUS)
 
     # ── verifica rg ──
-    rg_dispo, rg_pcre2 = _rg_disponibile()
-    if not rg_dispo:
+    if not _rg_disponibile():
         raise RuntimeError("ripgrep (rg) non trovato. Installa rg per usare la ricerca.")
 
-    # ── costruisci pattern ──
-    pattern, use_pcre2 = _build_pattern(query)
-    if not pattern:
+    # ── parsifica query ──
+    terms, is_phrase = _parse_query(query)
+    if not terms:
         return []
 
-    # ── helper per costruire comando rg ──
-    def _cmd(extra: list[str]) -> list[str]:
-        cmd = ["rg", "-i", "--glob", "*.md"]
-        if use_pcre2 and rg_pcre2:
-            cmd.extend(["-P", pattern])
-        elif use_pcre2 and not rg_pcre2:
-            # Fallback AND: cerca con prima parola (AND approssimato)
-            cmd.extend(["-F", query.split()[0]])
-        else:
-            cmd.extend(["-F", pattern])
-        cmd.extend(extra)
-        return cmd
+    # ── FASE 1: lista file ──
+    if is_phrase or len(terms) == 1:
+        all_files_set = _rg_list_files(terms[0], search_path)
+    else:
+        # AND documentale: rg -l per ogni termine, interseca
+        all_files_set: set[str] | None = None
+        for t in terms:
+            t_files = _rg_list_files(t, search_path)
+            if all_files_set is None:
+                all_files_set = t_files
+            else:
+                all_files_set &= t_files
+            if not all_files_set:
+                return []
 
-    # ── FASE 1: lista file con rg -l ──
-    stdout = _run_rg(
-        _cmd(["-l", "-m", str(_RG_LIST_MATCHES), "--"] + search_targets)
-    )
-    if not stdout.strip():
+    if not all_files_set:
         return []
 
-    all_files = [
-        ln.strip() for ln in stdout.split("\n")
-        if ln.strip() and Path(ln.strip()).suffix == ".md"
-    ]
-    if not all_files:
-        return []
-
-    # ── applica offset / limit ──
+    all_files = sorted(all_files_set)
     page_files = all_files[offset: offset + limit]
     if not page_files:
         return []
 
     # ── FASE 2: snippet JSON solo per i file da mostrare ──
-    cmd_snippet = _cmd(
-        ["--json", "-m", "1", "--context", "1", "--"] + page_files
-    )
-    stdout_snippet = _run_rg(cmd_snippet)
+    # Per snippet usiamo il primo termine (o la frase se è frase esatta)
+    snippet_term = query if (is_phrase or len(terms) == 1) else terms[0]
+    cmd = [
+        "rg", "--json", "-i", "-F", "-m", "1", "--context", "1",
+        "--glob", "*.md", "--", snippet_term,
+    ] + page_files
+    stdout_snippet = _run_rg(cmd)
     per_file = _parse_rg_json(stdout_snippet) if stdout_snippet.strip() else {}
 
     # ── assembla output ──
@@ -280,7 +261,7 @@ server = FastMCP("italia-corpus")
     description=(
         "Cerca nella legislazione italiana (~25.000 atti da Normattiva, "
         "collezioni vigenti) con ripgrep. "
-        "Query multi-parola fa AND tra i termini. "
+        "Query multi-parola fa AND documentale tra i termini. "
         "Usa virgolette per frase esatta. "
         "Restituisce lista strutturata di risultati."
     ),
@@ -294,7 +275,7 @@ def legal_search(
     """Cerca nel corpus normativo. Ritorna risultati strutturati.
 
     Args:
-        query: Termini di ricerca. Multi-parola = AND.
+        query: Termini di ricerca. Multi-parola = AND documentale.
                Usa "virgolette" per frase esatta.
         limit: Max risultati (default 10, max 100).
         offset: Scorri risultati per paginazione (default 0).
@@ -308,7 +289,6 @@ def legal_search(
             query, limit=limit, offset=offset, collezione=collezione,
         )
     except (ValueError, RuntimeError, TimeoutError) as e:
-        # FastMCP propaga eccezioni come error tool
         raise RuntimeError(str(e)) from e
 
 
@@ -337,7 +317,22 @@ def legal_get_document(
             f"Collezione '{collezione}' non trovata. "
             f"Usa list_collections per l'elenco."
         )
-    filepath = CORPUS / collezione / filename
+
+    # ── security: blocca path traversal ──
+    # 1. solo basename (nessun path separator)
+    if filename != Path(filename).name:
+        raise ValueError(f"filename non valido: {filename}")
+    # 2. solo file .md
+    if not filename.endswith(".md"):
+        raise ValueError(f"filename deve terminare con .md: {filename}")
+
+    filepath = (CORPUS / collezione / filename).resolve()
+    base_path = (CORPUS / collezione).resolve()
+
+    # 3. verifica che sia dentro CORPUS/collezione
+    if not str(filepath).startswith(str(base_path)):
+        raise ValueError(f"Accesso negato: {filename}")
+
     if not filepath.exists() or not filepath.is_file():
         raise ValueError(
             f"File '{filename}' non trovato in '{collezione}'."
