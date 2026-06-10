@@ -9,12 +9,18 @@ jobs:
   extract:
     runs-on: ubuntu-latest
     steps:
+      # Primo checkout: solo config/ per leggere la lista delle collezioni
+      - uses: actions/checkout@v4
+        with:
+          sparse-checkout: |
+            config/
       - name: Build collections list
         id: cols
         run: |
           echo "list<<EOF" >> "$GITHUB_OUTPUT"
           cat config/collezioni.txt >> "$GITHUB_OUTPUT"
           echo "EOF" >> "$GITHUB_OUTPUT"
+      # Secondo checkout: tooling + collezioni vive
       - uses: actions/checkout@v4
         with:
           sparse-checkout: |
