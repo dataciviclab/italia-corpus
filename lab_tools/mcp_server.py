@@ -8,6 +8,14 @@ from pathlib import Path
 from mcp.server.fastmcp import FastMCP
 
 CORPUS = Path(__file__).resolve().parent.parent
+CONFIG_COLLEZIONI = CORPUS / "config" / "collezioni.txt"
+
+
+def _leggi_collezioni() -> set[str]:
+    """Legge l'elenco delle collezioni vive da config/collezioni.txt."""
+    if not CONFIG_COLLEZIONI.exists():
+        return set()
+    return {l.strip() for l in CONFIG_COLLEZIONI.read_text().splitlines() if l.strip()}
 
 
 def _pick_title(file: str) -> str:
@@ -33,10 +41,9 @@ server = FastMCP("italia-corpus")
 )
 def legal_search(query: str, limit: int = 10, collezione: str = "") -> str:
     limit = min(limit, 50)
-    skip = {".git", "data", "lab_tools", "tests", "notebooks"}
     if collezione:
         col_path = CORPUS / collezione
-        if not col_path.is_dir() or collezione in skip or collezione.startswith("."):
+        if not col_path.is_dir() or collezione not in _leggi_collezioni():
             return f"Collezione '{collezione}' non trovata. Usa list_collections per l'elenco."
         search_path = str(col_path)
     else:
@@ -82,12 +89,10 @@ def legal_search(query: str, limit: int = 10, collezione: str = "") -> str:
     description="Elenca le directory (collezioni) del corpus.",
 )
 def list_collections() -> str:
-    skip = {".git", "data", "lab_tools", "tests", "notebooks"}
-    dirs = [
-        d.name for d in sorted(CORPUS.iterdir())
-        if d.is_dir() and d.name not in skip and not d.name.startswith(".")
-    ]
-    return "## Collezioni\n" + "\n".join(f"- {d}" for d in dirs)
+    nomi = sorted(_leggi_collezioni())
+    if not nomi:
+        return "## Collezioni\n_(nessuna — esegui il checkout delle collezioni)_"
+    return "## Collezioni\n" + "\n".join(f"- {d}" for d in nomi)
 
 
 def main():
