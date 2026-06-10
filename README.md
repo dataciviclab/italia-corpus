@@ -14,9 +14,16 @@ Il fork Lab mantiene solo le **collezioni di attualità normativa** (~25.000 fil
 
 ### MCP server (`lab_tools/mcp_server.py`)
 
-Due tool per agenti AI:
+Tre tool per agenti AI:
 
-- **`italia-corpus_legal_search(query, limit, collezione)`** — cerca con ripgrep nel corpus. Case-insensitive, risponde in ~0.2s. Parametro `collezione` opzionale per limitare a una directory.
+- **`italia-corpus_legal_search(query, limit=10, offset=0, collezione="")`** — cerca nel corpus e restituisce **lista strutturata** di risultati (`list[dict]` con `title`, `collection`, `filename`, `path`, `snippet`, `match_count`).  
+  - Query multi-parola fa **AND documentale** tra i termini (es. `"ambiente energia"` trova atti che contengono entrambi).  
+  - Usa virgolette `"decreto legislativo"` per frase esatta.  
+  - `offset` per paginazione, `limit` fino a 100.  
+  - `collezione` opzionale per limitare a una directory.
+
+- **`italia-corpus_legal_get_document(collezione, filename, max_chars=5000)`** — recupera il testo completo di un atto. Protegge da path traversal (solo basename `.md`, verifica risoluzione path).
+
 - **`italia-corpus_list_collections()`** — elenca le 20 collezioni disponibili.
 
 ### Estrattore metadati (`lab_tools/extract.py`)
