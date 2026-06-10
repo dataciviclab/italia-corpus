@@ -415,16 +415,16 @@ class TestLegalGetDocument:
             )
 
     @pytest.mark.contract
-    def test_path_traversal_symlink(self, monkeypatch, tmp_path):
-        """Basename valido ma path risolto fuori dalla collezione → ValueError."""
+    def test_path_traversal_symlink_prefix_bypass(self, monkeypatch, tmp_path):
+        """Symlink con nome che inizia come la collezione (Col_evil bypassa startswith)."""
         _fake_corpus(tmp_path, monkeypatch)
-        # Crea un symlink che punta fuori
         col = tmp_path / "Decreti Legislativi"
-        outside = tmp_path / "outside.md"
-        outside.write_text("contenuto fuori", encoding="utf-8")
+        # File fuori dalla collezione con nome che inizia con "Decreti Legislativi"
+        evil = tmp_path / "Decreti Legislativi_evil.md"
+        evil.write_text("SECRET", encoding="utf-8")
         link = col / "link.md"
         try:
-            link.symlink_to(outside)
+            link.symlink_to(evil)
         except OSError:
             pytest.skip("symlink non supportato su questo filesystem")
         with pytest.raises(ValueError, match="Accesso negato"):

@@ -330,7 +330,11 @@ def legal_get_document(
     base_path = (CORPUS / collezione).resolve()
 
     # 3. verifica che sia dentro CORPUS/collezione
-    if not str(filepath).startswith(str(base_path)):
+    # Usa relative_to invece di startswith per evitare bypass
+    # tipo "Col_evil" che inizia con "Col".
+    try:
+        filepath.relative_to(base_path)
+    except ValueError:
         raise ValueError(f"Accesso negato: {filename}")
 
     if not filepath.exists() or not filepath.is_file():
