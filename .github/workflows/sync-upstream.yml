@@ -21,18 +21,19 @@ jobs:
           git clone --depth 1 --filter=blob:none "$UPSTREAM_REPO" /tmp/upstream
           cd /tmp/upstream
           git sparse-checkout init --cone
-          # Legge la lista da config/collezioni.txt del nostro repo
-          ARGS=$(tr '\n' ' ' < "${{ github.workspace }}/config/collezioni.txt")
-          git sparse-checkout set $ARGS
+          while IFS= read -r col; do
+            [ -z "$col" ] && continue
+            git sparse-checkout add "$col"
+          done < "${{ github.workspace }}/config/collezioni.txt"
           git checkout
       - name: Mirror collezioni nel repo Lab
         run: |
           for dir in /tmp/upstream/*/; do
             name=$(basename "$dir")
-            # Copia solo directory di legislazione (non tooling/dotfile)
-            if [ -d "$dir" ] && [ "$name" != ".git" ]; then
-              rsync -a --delete "$dir" "${{ github.workspace }}/"
-            fi
+            [ "$name" = ".git" ] && continue
+            dest="${{ github.workspace }}/$name"
+            mkdir -p "$dest"
+            rsync -a --delete "$dir" "$dest"
           done
       - name: Commit sync
         run: |

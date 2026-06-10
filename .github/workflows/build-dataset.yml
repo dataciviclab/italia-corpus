@@ -26,6 +26,7 @@ jobs:
           sparse-checkout: |
             lab_tools/
             tests/
+            config/
             data/derived/
             ${{ steps.cols.outputs.list }}
       - uses: actions/setup-python@v5
