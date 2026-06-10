@@ -14,7 +14,7 @@ from pathlib import Path
 
 REPO = Path(__file__).resolve().parent.parent
 OUTDIR = REPO / "data" / "derived"
-SKIP_COLLEZIONI = {".git", "data", "lab_tools", "tests", "notebooks"}
+CONFIG_COLLEZIONI = REPO / "config" / "collezioni.txt"
 
 RE_TIPO = re.compile(
     r'^([A-Z\u00c0-\u00d9\s\-]+?)\s+(\d{1,2})\s+([a-zA-Z]+)\s+(\d{4})\s+n\.\s*(\d+)',
@@ -109,11 +109,11 @@ def extract(filepath: Path, collezione: str = "") -> dict | None:
 
 
 def _collezioni_legislative() -> list[Path]:
-    return sorted(
-        d for d in REPO.iterdir()
-        if d.is_dir() and d.name not in SKIP_COLLEZIONI
-        and not d.name.startswith(".")
-    )
+    """Legge da config/collezioni.txt: solo directory elencate ed esistenti."""
+    if not CONFIG_COLLEZIONI.exists():
+        return []
+    nomi = [l.strip() for l in CONFIG_COLLEZIONI.read_text().splitlines() if l.strip()]
+    return sorted(d for d in (REPO / n for n in nomi) if d.is_dir())
 
 
 def _dedup(records: list[dict]) -> list[dict]:

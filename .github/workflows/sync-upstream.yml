@@ -8,25 +8,46 @@ permissions:
   contents: write
   actions: write
 
+env:
+  UPSTREAM_REPO: https://github.com/ahmeabd/italia-corpus.git
+
 jobs:
   sync:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-        with:
-          fetch-depth: 0
-      - run: |
-          git remote add upstream https://github.com/ahmeabd/italia-corpus.git
-          git fetch upstream
-          if git merge upstream/main --no-edit; then
-            git push origin main
+      - name: Sparse clone upstream (config/collezioni.txt)
+        run: |
+          git clone --depth 1 --filter=blob:none "$UPSTREAM_REPO" /tmp/upstream
+          cd /tmp/upstream
+          git sparse-checkout init --cone
+          # Legge la lista da config/collezioni.txt del nostro repo
+          ARGS=$(tr '\n' ' ' < "${{ github.workspace }}/config/collezioni.txt")
+          git sparse-checkout set $ARGS
+          git checkout
+      - name: Mirror collezioni nel repo Lab
+        run: |
+          for dir in /tmp/upstream/*/; do
+            name=$(basename "$dir")
+            # Copia solo directory di legislazione (non tooling/dotfile)
+            if [ -d "$dir" ] && [ "$name" != ".git" ]; then
+              rsync -a --delete "$dir" "${{ github.workspace }}/"
+            fi
+          done
+      - name: Commit sync
+        run: |
+          git add .
+          if git diff --cached --quiet; then
+            echo "Nessuna modifica — skip commit"
           else
-            echo "Merge conflittuale — skip push e dataset rebuild"
-            git merge --abort
-            exit 1
+            git config user.name "github-actions"
+            git config user.email "actions@github.com"
+            git commit -m "chore: sync upstream [skip ci]"
+            git push
+            echo "SYNC_COMMITED=true" >> "$GITHUB_ENV"
           fi
       - name: Trigger dataset rebuild
-        if: success()
+        if: env.SYNC_COMMITED == 'true'
         env:
           GH_TOKEN: ${{ github.token }}
         run: gh workflow run build-dataset.yml --ref main

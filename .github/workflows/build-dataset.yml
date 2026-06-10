@@ -9,32 +9,19 @@ jobs:
   extract:
     runs-on: ubuntu-latest
     steps:
+      - name: Build collections list
+        id: cols
+        run: |
+          echo "list<<EOF" >> "$GITHUB_OUTPUT"
+          cat config/collezioni.txt >> "$GITHUB_OUTPUT"
+          echo "EOF" >> "$GITHUB_OUTPUT"
       - uses: actions/checkout@v4
         with:
           sparse-checkout: |
             lab_tools/
             tests/
             data/derived/
-            Atti di recepimento direttive UE/
-            Atti di attuazione Regolamenti UE/
-            DL e leggi di conversione/
-            DL decaduti/
-            DL proroghe/
-            Decreti Legislativi/
-            Decreti legislativi luogotenenziali/
-            DPCM/
-            Leggi di ratifica/
-            Leggi di delegazione europea/
-            Leggi delega e relativi provvedimenti delegati/
-            Leggi costituzionali/
-            Leggi finanziarie e di bilancio/
-            Leggi contenenti deleghe/
-            Regolamenti ministeriali/
-            Regolamenti governativi/
-            Regolamenti di delegificazione/
-            Regi decreti legislativi/
-            Testi Unici/
-            Codici/
+            ${{ steps.cols.outputs.list }}
       - uses: actions/setup-python@v5
         with:
           python-version: '3.12'
