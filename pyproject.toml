@@ -24,5 +24,13 @@ mcp = [
 italia-corpus-mcp = "lab_tools.mcp_server:main"
 italia-corpus-extract = "lab_tools.extract:main"
 
+[tool.pytest.ini_options]
+markers = [
+    "contract: Contratto pubblico (CLI/API/output)",
+    "pure_unit: Logica pura isolata",
+    "policy: Regola non ovvia",
+    "smoke: Flusso end-to-end",
+]
+
 [tool.setuptools.packages.find]
 include = ["lab_tools*"]
