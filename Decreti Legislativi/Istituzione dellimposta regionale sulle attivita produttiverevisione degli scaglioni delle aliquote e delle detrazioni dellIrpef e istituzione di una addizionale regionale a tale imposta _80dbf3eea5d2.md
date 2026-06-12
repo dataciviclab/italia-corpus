@@ -923,7 +923,7 @@ La [L. 30 dicembre 2025, n. 199](http://www.normattiva.it/uri-res/N2Ls?urn:nir:s
 
 AGGIORNAMENTO (80)
 
-Il [D.L. 20 febbraio 2026, n. 21](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2026-02-20;21) ha disposto (con l'art. 3, comma 1) che "Per il periodo d'imposta successivo a quello in corso al 31 dicembre 2025 e per quello successivo, l'aliquota di cui all'[articolo 16, comma 1](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1997-12-15;446~art16-com1) e [1-bis, del decreto legislativo 15 dicembre 1997, n. 446](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1997-12-15;446~art16-com1bis), e' aumentata di due punti percentuali per i soggetti esercenti, in via prevalente, le attivita' economiche individuate dai codici ATECO di cui alla tabella 1 allegata al presente decreto".
+Il [D.L. 20 febbraio 2026, n. 21](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2026-02-20;21) ha disposto (con l'art. 3, comma 1) che per il periodo d'imposta successivo a quello in corso al 31 dicembre 2025 e per quello successivo, l'aliquota di cui al presente articolo, commi 1 e 1-bis, e' aumentata di due punti percentuali per i soggetti esercenti, in via prevalente, le attivita' economiche individuate dai codici ATECO di cui alla tabella 1 allegata al medesimo Decreto-Legge.
 
 ### Art. 17
 
@@ -1841,24 +1841,56 @@ Imposta provinciale di trascrizione
 
 1. Le province possono, con regolamento adottato a norma dell'articolo 52, istituire l'imposta provinciale sulle formalita' di trascrizione, iscrizione ed annotazione dei veicoli richieste al pubblico registro automobilistico, avente competenza nel proprio territorio, ai sensi del [regio decreto-legge 15 marzo 1927, n. 436](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1927-03-15;436), e relativo regolamento di cui al [regio decreto 29 luglio 1927, n. 1814](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-07-29;1814), e del [decreto legislativo 30 aprile 1992, n. 285](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-04-30;285).
 
-1-bis. Le formalita' di cui al comma 1 possono essere eseguite su tutto il territorio nazionale con ogni strumento consentito dall'ordinamento e con destinazione del gettito dell'imposta alla Provincia ove ha sede legale o residenza il soggetto passivo, inteso come avente causa o intestatario del veicolo.
+((L'imposta si applica anche alle formalita' di registrazione di cui all'[articolo 93-bis, comma 2, del decreto legislativo 30 aprile 1992, n. 285](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-04-30;285~art93bis-com2)))
+
+.
+
+1-bis. Le formalita' di cui al comma 1 possono essere eseguite su tutto il territorio nazionale con ogni strumento consentito dall'ordinamento e con destinazione del gettito dell'imposta alla Provincia
+
+((ove il soggetto passivo, inteso come avente causa o intestatario del veicolo, ha la sede legale o la residenza))
+
+.
+
+((Per i soggetti passivi che operano professionalmente nel settore del noleggio dei veicoli, nel caso in cui la sede legale sia distinta dalla sede in cui avviene la gestione ordinaria in via principale dell'attivita' della persona giuridica, quest'ultima costituisce la sede da considerare ai fini della destinazione del gettito dell'imposta. In caso di persone giuridiche con sede legale all'estero operanti nel settore del noleggio dei veicoli, aventi piu' sedi secondarie in Italia, la provincia o la citta' metropolitana destinataria dell'imposta e' quella ove e' situata la sede secondaria in cui avviene la gestione ordinaria in via principale dell'attivita'))
+
+.
+
+1-ter. 
+
+((Per i medesimi fini di cui al comma 1-bis, le comunicazioni effettuate dai soggetti passivi indicati nel medesimo comma 1-bis alla camera di commercio, industria, artigianato e agricoltura territorialmente competente, riguardanti la sede della persona giuridica, costituiscono dichiarazione sostitutiva di atto notorio, ai sensi e per gli effetti dell'[articolo 47 del testo unico delle disposizioni legislative e regolamentari in materia di documentazione amministrativa](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2000-12-28;445~art47), di cui al [decreto del Presidente della Repubblica 28 dicembre 2000, n. 445](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2000-12-28;445). I soggetti passivi di cui al comma 1-bis, gia' iscritti alla camera di commercio, industria, artigianato e agricoltura, procedono all'aggiornamento delle comunicazioni fornite al repertorio delle notizie economiche e amministrative (REA), indicando l'indirizzo della sede individuata ai sensi del comma 1-bis entro il termine perentorio di novanta giorni dalla data di entrata in vigore della presente disposizione. In caso di mancato adempimento dell'obbligo di cui al periodo precedente, si applica il comma 1-bis))
+
+.
 
 2. L'imposta e' applicata sulla base di apposita tariffa determinata secondo le modalita' di cui al comma 11, le cui misure potranno essere aumentate, anche con successiva deliberazione approvata nel termine di cui all'articolo 54, fino ad un massimo del trenta per cento, ed e' dovuta per ciascun veicolo al momento della richiesta di formalita'. E' dovuta una sola imposta quando per lo stesso credito ed in virtu' dello stesso atto devono eseguirsi piu' formalita' di natura ipotecaria. Le maggiorazioni di gettito conseguenti al suddetto eventuale aumento non saranno computate ai fini della determinazione dei parametri utilizzati ai sensi del [decreto legislativo 30 giugno 1997, n. 244](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1997-06-30;244), ai fini della perequazione della capacita' fiscale tra province.
 
 3. Le province notificano entro dieci giorni dalla data di esecutivita' copia autentica della deliberazione istitutiva o modificativa delle misure dell'imposta al competente ufficio provinciale del pubblico registro automobilistico e all'ente che provvede alla riscossione per gli adempimenti di competenza.  
-L'aumento tariffario interessa le immatricolazioni effettuate e gli atti formati dalla sua decorrenza e, qualora esso sia deliberato con riferimento alla stessa annualita' in cui e' eseguita la notifica prevista dal presente comma, opera dalla data della notifica stessa.
+L'aumento tariffario interessa
+
+((le formalita'))
+
+effettuate e gli atti formati dalla sua decorrenza e, qualora esso sia deliberato con riferimento alla stessa annualita' in cui e' eseguita la notifica prevista dal presente comma, opera dalla data della notifica stessa.
 
 4. Con lo stesso regolamento di cui al comma 1, le province disciplinano la liquidazione, la riscossione e la contabilizzazione dell'imposta provinciale di trascrizione e i relativi controlli, nonche' l'applicazione delle sanzioni per l'omesso o il ritardato pagamento dell'imposta stessa ai sensi dell'[articolo 13 del decreto legislativo 18 dicembre 1997, n. 471](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1997-12-18;471~art13). Tali attivita', se non gestite direttamente ovvero nelle forme di cui al comma 5 dell'articolo 52, sono affidati, a condizioni da stabilire tra le parti, allo stesso concessionario del pubblico registro automobilistico il quale riversa alla tesoreria della provincia titolare del tributo ai sensi del comma 1-bis le somme riscosse inviando alla provincia stessa la relativa documentazione. In ogni caso deve essere assicurata l'esistenza di un archivio nazionale dei dati fiscali relativi ai veicoli iscritti nel pubblico registro automobilistico. L'imposta suppletiva ed i rimborsi devono essere richiesti nel Termine di tre anni dalla data in cui la formalita' e' stata eseguita.
 
-5. Le province autonome di Trento e Bolzano provvedono all'attuazione delle disposizioni di cui al comma 4, in conformita' ai rispettivi statuti e relative norme di attuazione.
+4-bis. 
 
-6. Le cessioni di mezzi di trasporto usati, da chiunque effettuate nei confronti dei contribuenti che ne fanno commercio
+((In caso di parziale od omesso versamento, l'imposta e' richiesta, a pena di decadenza, entro il 31 dicembre del quinto anno successivo a quello in cui il versamento e' stato o avrebbe dovuto essere effettuato. Il rimborso delle somme versate e non dovute e' richiesto dal soggetto passivo d'imposta entro il termine di cinque anni dal giorno del versamento, ovvero da quello in cui e' stato accertato il diritto alla restituzione. La provincia o la citta' metropolitana provvede ad effettuare il rimborso entro centottanta giorni dalla data di presentazione dell'istanza))
 
-((, nonche' le cessioni degli stessi a seguito di esercizio di riscatto da parte del locatario a titolo di locazione finanziaria))
+.
 
-, non sono soggette al pagamento dell'imposta. Per gli autoveicoli muniti di carta di circolazione per uso speciale ed i rimorchi destinati a servire detti veicoli, sempreche' non siano adatti al trasporto di cose, l'imposta e' ridotta ad un quarto. Analoga riduzione, da operarsi sull'imposta indicata dalla tariffa approvata con decreto del Ministro delle finanze di cui al successivo comma 11, si applica per i rimorchi ad uso abitazione per campeggio e simili. In caso di fusione tra societa' esercenti attivita' di locazione di veicoli senza conducente, le iscrizioni e le trascrizioni gia' esistenti al pubblico registro automobilistico relative ai veicoli compresi nell'atto di fusione conservano la loro validita' ed il loro grado a favore del cessionario, senza bisogno di alcuna formalita' o annotazione.
+5. Le province autonome di Trento e Bolzano provvedono all'attuazione delle disposizioni di cui
 
-((43))
+((ai commi 4 e 4-bis))
+
+, in conformita' ai rispettivi statuti e relative norme di attuazione.
+
+5-bis. 
+
+((Ai fini della realizzazione delle proprie politiche tributarie, le province e le citta' metropolitane accedono, senza oneri aggiuntivi, alle banche dati del pubblico registro automobilistico e della motorizzazione civile, secondo modalita' disciplinate con decreto del Ministero delle infrastrutture e dei trasporti, previa intesa in sede di Conferenza Stato-citta' ed autonomie locali, da emanare entro il 31 dicembre 2026))
+
+.
+
+6. Le cessioni di mezzi di trasporto usati, da chiunque effettuate nei confronti dei contribuenti che ne fanno commercio, nonche' le cessioni degli stessi a seguito di esercizio di riscatto da parte del locatario a titolo di locazione finanziaria, non sono soggette al pagamento dell'imposta. Per gli autoveicoli muniti di carta di circolazione per uso speciale ed i rimorchi destinati a servire detti veicoli, sempreche' non siano adatti al trasporto di cose, l'imposta e' ridotta ad un quarto. Analoga riduzione, da operarsi sull'imposta indicata dalla tariffa approvata con decreto del Ministro delle finanze di cui al successivo comma 11, si applica per i rimorchi ad uso abitazione per campeggio e simili. In caso di fusione tra societa' esercenti attivita' di locazione di veicoli senza conducente, le iscrizioni e le trascrizioni gia' esistenti al pubblico registro automobilistico relative ai veicoli compresi nell'atto di fusione conservano la loro validita' ed il loro grado a favore del cessionario, senza bisogno di alcuna formalita' o annotazione. (43)
 
 7. Alle formalita' richieste ai sensi e per gli effetti dell'[articolo 2688 del c.c.](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2688) si applica un'imposta pari al doppio della relativa tariffa.
 
@@ -1866,7 +1898,11 @@ L'aumento tariffario interessa le immatricolazioni effettuate e gli atti formati
 
 9. Le controversie concernenti l'imposta provinciale di trascrizione, le sanzioni e gli accessori sono soggette alla giurisdizione delle commissioni tributarie secondo le disposizioni del [decreto legislativo 31 dicembre 1992, n. 546](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-12-31;546).
 
-10. Le formalita' di trascrizione, iscrizione ed annotazione respinte dagli uffici provinciali del pubblico registro automobilistico anteriormente al 1 gennaio dell'anno dal quale ha effetto il regolamento di cui al comma 1, sono soggette, nel caso di ripresentazione a partire da tale data, alla disciplina relativa all'imposta provinciale. L'imposta erariale di trascrizione e l'addizionale provinciale eventualmente versate sono rimborsate rispettivamente dall'amministrazione finanziaria e dalla provincia su richiesta dei soggetti interessati.
+10. 
+
+((COMMA ABROGATO DAL [D.L. 27 MARZO 2026, N. 38](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2026-03-27;38), CONVERTITO CON MODIFICAZIONI DALLA [L. 22 MAGGIO 2026, N. 88](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2026-05-22;88)))
+
+.
 
 11. Con decreto del Ministro delle finanze sono stabilite le misure dell'imposta provinciale di trascrizione per tipo e potenza dei veicoli, in misura tale da garantire il complessivo gettito dell'imposta erariale di trascrizione, iscrizione e annotazione dei veicoli al pubblico registro automobilistico e la relativa addizionale provinciale.
 

@@ -66,7 +66,7 @@ b) al comma 29, dopo la lettera b) e' inserita la seguente:
 c) al comma 29, dopo la lettera d) e' aggiunta la seguente:   
 « d-bis) ai lavoratori di cui all'[articolo 29, comma 2, lettera b), del decreto legislativo 15 giugno 2015, n. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2015-06-15;81~art29-com2-letb) ».
 
-14. Nello stato di previsione del Ministero dell'economia e delle finanze e' istituito un fondo da ripartire con una dotazione di 435 milioni di euro per l'anno 2020, di 880 milioni di euro per l'anno 2021, di 934 milioni di euro per l'anno 2022, di 1.045 milioni di euro per l'anno 2023, di 1.061 milioni di euro per l'anno 2024, di 1.512 milioni di euro per l'anno 2025, di 1.513 milioni di euro per l'anno 2026, di 1.672 milioni di euro per ciascuno degli anni dal 2027 al 2032 e di 1.700 milioni di euro per ciascuno degli anni 2033 e 2034.
+14. Nello stato di previsione del Ministero dell'economia e delle finanze e' istituito un fondo da ripartire con una dotazione di 435 milioni di euro per l'anno 2020, di 880 milioni di euro per l'anno 2021, di 934 milioni di euro per l'anno 2022, di 1.045 milioni di euro per l'anno 2023, di 1.061 milioni di euro per l'anno 2024, di 1.512 milioni di euro per l'anno 2025, di 1.513 milioni di euro per l'anno 2026, di 1.672 milioni di euro per ciascuno degli anni dal 2027 al 2032 e di 1.700 milioni di euro per ciascuno degli anni 2033 e 2034. (110)
 
 15. Il fondo di cui al comma 14 e' finalizzato al rilancio degli investimenti delle amministrazioni centrali dello Stato e allo sviluppo del Paese, anche in riferimento all'economia circolare, alla decarbonizzazione dell'economia, alla riduzione delle emissioni, al risparmio energetico, alla sostenibilita' ambientale e, in generale, ai programmi di investimento e ai progetti a carattere innovativo, anche attraverso contributi ad imprese, a elevata sostenibilita' e che tengano conto degli impatti sociali.
 
@@ -2503,7 +2503,11 @@ c) per le unita' immobiliari, fatta eccezione per quelle classificate nelle cate
 
 755. A decorrere dall'anno 2020, limitatamente agli immobili non esentati ai sensi dei [commi da 10](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2015-12-28;208~art1-com10) [a 26 dell'articolo 1 della legge 28 dicembre 2015, n. 208](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2015-12-28;208~art1-com26), i comuni, con espressa deliberazione del consiglio comunale, pubblicata nel sito internet del Dipartimento delle finanze del Ministero dell'economia e delle finanze ai sensi del comma 767, possono aumentare ulteriormente l'aliquota massima nella misura aggiuntiva massima dello 0,08 per cento, in sostituzione della maggiorazione del tributo per i servizi indivisibili (TASI) di cui al [comma 677 dell'articolo 1 della legge 27 dicembre 2013, n. 147](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2013-12-27;147~art1-com677), nella stessa misura applicata per l'anno 2015 e confermata fino all'anno 2019 alle condizioni di cui al [comma 28 dell'articolo 1 della legge n. 208 del 2015](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2015;208~art1-com28). I comuni negli anni successivi possono solo ridurre la maggiorazione di cui al presente comma, restando esclusa ogni possibilita' di variazione in aumento.
 
-756. A decorrere dall'anno 2021, i comuni, in deroga all'[articolo 52 del decreto legislativo 15 dicembre 1997, n. 446](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1997-12-15;446~art52), possono diversificare le aliquote di cui ai commi da 748 a 755 esclusivamente con riferimento alle fattispecie individuate con decreto del Ministro dell'economia e delle finanze, da adottare entro centottanta giorni dalla data di entrata in vigore della presente legge, sentita la Conferenza Stato-citta' ed autonomie locali, che si pronuncia entro quarantacinque giorni dalla data di trasmissione. Decorso il predetto termine di quarantacinque giorni, il decreto puo' essere comunque adottato. Con decreto del Ministro dell'economia e delle finanze, sentita la Conferenza Stato-citta' ed autonomie locali, possono essere modificate o integrate le fattispecie individuate con il decreto di cui al primo periodo.
+756. A decorrere dall'anno 2021, i comuni, in deroga all'[articolo 52 del decreto legislativo 15 dicembre 1997, n. 446](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1997-12-15;446~art52), possono diversificare le aliquote di cui ai commi da 748 a 755 esclusivamente con riferimento alle fattispecie individuate con decreto del Ministro dell'economia e delle finanze, da adottare entro centottanta giorni dalla data di entrata in vigore della presente legge, sentita la Conferenza Stato-citta' ed autonomie locali, che si pronuncia entro quarantacinque giorni dalla data di trasmissione. Decorso il predetto termine di quarantacinque giorni, il decreto puo' essere comunque adottato. Con decreto del
+
+((Ministero))
+
+dell'economia e delle finanze, sentita la Conferenza Stato-citta' ed autonomie locali, possono essere modificate o integrate le fattispecie individuate con il decreto di cui al primo periodo.
 
 757. In ogni caso, anche se non si intenda diversificare le aliquote rispetto a quelle indicate ai commi da 748 a 755, la delibera di approvazione delle aliquote deve essere redatta accedendo all'applicazione disponibile nel Portale del federalismo fiscale che consente, previa selezione delle fattispecie di interesse del comune tra quelle individuate con il decreto di cui al comma 756, di elaborare il prospetto delle aliquote che forma parte integrante della delibera stessa. La delibera approvata senza il prospetto non e' idonea a produrre gli effetti di cui ai commi da 761 a 771. Con lo stesso decreto di cui al comma 756 sono stabilite le modalita' di elaborazione e di successiva trasmissione al Dipartimento delle finanze del Ministero dell'economia e delle finanze del prospetto delle aliquote.
 
@@ -2707,11 +2711,7 @@ c) 500.000 euro per lo svolgimento delle funzioni e delle attivita' di supporto 
 
 d) un milione di euro per lo svolgimento delle funzioni e delle attivita' di supporto propedeutiche all'accertamento e alla riscossione delle entrate locali, nelle province e nei comuni con popolazione superiore a 200.000 abitanti.
 
-808. I soggetti iscritti alla sezione separata di cui al comma 805 e quelli iscritti all'albo di cui all'[articolo 53 del decreto legislativo n. 446 del 1997](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1997;446~art53) devono adeguare alle condizioni e alle misure minime di cui al comma 807 il proprio capitale sociale entro il
-
-((31 dicembre 2026))
-
-.
+808. I soggetti iscritti alla sezione separata di cui al comma 805 e quelli iscritti all'albo di cui all'[articolo 53 del decreto legislativo n. 446 del 1997](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1997;446~art53) devono adeguare alle condizioni e alle misure minime di cui al comma 807 il proprio capitale sociale entro il 31 dicembre 2026.
 
 809. I conservatori dei pubblici registri immobiliari e del pubblico registro automobilistico eseguono le iscrizioni, le trascrizioni e le cancellazioni dei pignoramenti, delle ipoteche e del fermo amministrativo richieste dal soggetto legittimato alla riscossione forzata in esenzione da ogni tributo e diritto.
 
@@ -3067,7 +3067,11 @@ AGGIORNAMENTO (8)
 
 Il [D.L. 19 maggio 2020, n. 34](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2020-05-19;34), convertito con modificazioni dalla [L. 17 luglio 2020, n. 77](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2020-07-17;77), ha disposto (con l'art. 177, comma 1, lettere a), b) e b-bis)) che "In considerazione degli effetti connessi all'emergenza sanitaria da COVID 19, per l'anno 2020, non e' dovuta la prima rata dell'imposta municipale propria (IMU) di cui all'[articolo 1, commi da 738](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2019-12-27;160~art1-com738) [a 783 della legge 27 dicembre 2019, n. 160](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2019-12-27;160~art1-com783), relativa a:   
 a) immobili adibiti a stabilimenti balneari marittimi, lacuali e fluviali, nonche' immobili degli stabilimenti termali;   
-b) immobili rientranti nella categoria catastale D/2 e immobili degli agriturismo, dei villaggi turistici, degli ostelli della gioventu', dei rifugi di montagna, delle colonie marine e montane, degli affittacamere per brevi soggiorni, delle case e appartamenti per vacanze, dei bed&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;breakfast, dei   
+b) immobili rientranti nella categoria catastale D/2 e immobili degli agriturismo, dei villaggi turistici, degli ostelli della gioventu', dei rifugi di montagna, delle colonie marine e montane, degli affittacamere per brevi soggiorni, delle case e appartamenti per vacanze, dei   
+  
+  
+bed&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;break  
+fast , dei   
 residence   
 e dei campeggi, a condizione che i relativi proprietari siano anche gestori delle attivita' ivi esercitate";   
 b-bis) immobili rientranti nella categoria catastale D in uso da parte di imprese esercenti attivita' di allestimenti di strutture espositive nell'ambito di eventi fieristici o manifestazioni".   
@@ -3307,6 +3311,12 @@ La [L. 30 dicembre 2024, n. 207](http://www.normattiva.it/uri-res/N2Ls?urn:nir:s
 AGGIORNAMENTO (106)
 
 La [L. 30 dicembre 2025, n. 199](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2025-12-30;199) ha disposto (con l'art. 1, comma 856) che "L'[articolo 1, comma 759, lettera g), della legge 27 dicembre 2019, n. 160](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2019-12-27;160~art1-com759-letg), si interpreta, per gli effetti di cui all'[articolo 1, comma 2, della legge 27 luglio 2000, n. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2000-07-27;212~art1-com2), nel senso che le attivita' didattiche, svolte negli immobili posseduti e utilizzati dai soggetti di cui all'articolo 73, comma 1, lettera c), del testo unico delle imposte sui redditi, di cui al [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1986-12-22;917), si intendono svolte con modalita' non commerciali quando il loro corrispettivo medio percepito e' inferiore al costo medio per studente (CMS) pubblicato annualmente dal Ministero dell'istruzione e del merito nonche' dal Ministero dell'universita' e della ricerca. In ogni caso non si da' luogo al rimborso delle somme gia' versate".
+
+---------------
+
+AGGIORNAMENTO (110)
+
+Il [D.L. 11 marzo 2026, n. 32](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2026-03-11;32), ha disposto (con l'art. 1, comma 12) che l'autorizzazione di spesa di cui al comma 14 del presente articolo, relativamente alla quota assegnata, con DPCM 23 dicembre 2020 e' incrementata di 150 milioni di euro per l'anno 2027 e 222 milioni di euro per l'anno 2028.
 
 CAPO II SEZIONE II APPROVAZIONE DEGLI STATI DI PREVISIONE
 ---------------------------------------------------------

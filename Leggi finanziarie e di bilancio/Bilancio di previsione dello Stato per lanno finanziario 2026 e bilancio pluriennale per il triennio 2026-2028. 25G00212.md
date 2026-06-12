@@ -318,7 +318,11 @@ a) alla data del 31 luglio 2026 le dilazioni sospese ai sensi del comma 91, lett
 
 b) il pagamento della prima o unica rata delle somme dovute a titolo di definizione determina l'estinzione delle procedure esecutive precedentemente avviate, salvo che non si sia tenuto il primo incanto con esito positivo.
 
-95. La definizione non produce effetti, riprendono a decorrere i termini di prescrizione e di decadenza per il recupero dei carichi oggetto di dichiarazione, che prosegue a cura dell'agente della riscossione, e i versamenti effettuati sono acquisiti a titolo di acconto dell'importo complessivamente dovuto a seguito dell'affidamento del carico, senza che si determini l'estinzione del debito residuo, in caso di mancato o di insufficiente versamento:
+95. La definizione non produce effetti, riprendono a decorrere i termini di prescrizione e di decadenza per il recupero dei carichi oggetto di dichiarazione, che prosegue a cura dell'agente della riscossione, e i versamenti effettuati sono acquisiti a titolo di acconto dell'importo complessivamente dovuto a seguito dell'affidamento del carico, senza che si determini l'estinzione del debito residuo,
+
+((in caso di mancato o insufficiente versamento ovvero, nelle sole ipotesi di cui alle lettere a) e c), anche di tardivo versamento superiore a cinque giorni))
+
+:
 
 a) dell'unica rata scelta dal debitore per effettuare il pagamento;
 
@@ -534,9 +538,17 @@ d) al 31 dicembre 2030, si assume, quale imposta del periodo precedente, quella 
 137. All'[articolo 33 del decreto-legge 31 maggio 2010, n. 78](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2010-05-31;78~art33), convertito, con modificazioni, dalla [legge 30 luglio 2010, n. 122](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2010-07-30;122), dopo il comma 2-bis e' aggiunto il seguente:   
 «2-ter. Le disposizioni di cui ai commi 1, 2 e 2-bis non si applicano a condizione che il soggetto che eroga le remunerazioni versi una somma, corrispondente a un ammontare pari ad almeno il doppio dell'addizionale dovuta, in favore di enti del Terzo settore previsti dal codice del Terzo settore, di cui al [decreto legislativo 3 luglio 2017, n. 117](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2017-07-03;117), diversi dai soggetti che direttamente o indirettamente controllano i suddetti erogatori delle remunerazioni, ne sono controllati o sono controllati dallo stesso soggetto. Le disposizioni di cui al primo periodo si applicano a condizione che il versamento ivi previsto si riferisca all'ammontare complessivo dell'addizionale dovuta per il periodo. Con provvedimento del direttore dell'Agenzia delle entrate sono stabiliti le modalita' e i termini di attuazione delle disposizioni di cui al presente comma».
 
-138. All'[articolo 13, comma 2, lettera d), del decreto del Presidente della Repubblica 26 ottobre 1972, n. 633](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1972-10-26;633~art13-com2-letd), le parole: «dal valore normale dei beni e dei servizi che formano oggetto di ciascuna di esse» sono sostituite dalle seguenti: «dal valore dei beni e dei servizi che formano oggetto di ciascuna di esse, determinato dall'ammontare complessivo di tutti i costi riferibili a tali cessioni o prestazioni».
+138. 
 
-139. Le disposizioni di cui al comma 138 si applicano alle operazioni effettuate in esecuzione di contratti stipulati o rinnovati a decorrere dal 1° gennaio 2026.
+((COMMA ABROGATO DAL [D.L. 27 MARZO 2026, N. 38](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2026-03-27;38), CONVERTITO CON MODIFICAZIONI DALLA [L. 22 MAGGIO 2026, N. 88](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2026-05-22;88)))
+
+.
+
+139. 
+
+((COMMA ABROGATO DAL [D.L. 27 MARZO 2026, N. 38](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2026-03-27;38), CONVERTITO CON MODIFICAZIONI DALLA [L. 22 MAGGIO 2026, N. 88](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2026-05-22;88)))
+
+.
 
 140. All'[articolo 25-bis, quinto comma, del decreto del Presidente della Repubblica 29 settembre 1973, n. 600](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1973-09-29;600~art25bis-com5), le parole: «dalle agenzie di viaggio e turismo,» e le parole: «dagli agenti, raccomandatari e mediatori marittimi e aerei, dagli agenti e commissionari di imprese petrolifere per le prestazioni ad esse rese direttamente,» sono soppresse.
 
@@ -760,11 +772,7 @@ d) all'articolo 19, comma 2, dopo la lettera n) sono aggiunte le seguenti:
 «n-bis) definisce la periodicita' e il numero minimo di rate in cui e' frazionabile il montante accumulato con riferimento alle prestazioni pensionistiche complementari in forma di erogazione frazionata di cui all'articolo 11, comma 3-bis;   
 n-ter) definisce i criteri minimi che devono soddisfare i percorsi e le linee di investimento di cui all'articolo 8, comma 9».
 
-202. 
-
-((Le disposizioni di cui al comma 201 si applicano a decorrere dal 1° luglio 2026, fatta eccezione per la disposizione di cui alla lettera c) del medesimo comma 201, che si applica a decorrere dal 31 ottobre 2026. La Commissione di vigilanza sui fondi pensione (COVIP) adegua le proprie rispettive istruzioni entro le medesime date))
-
-.
+202. Le disposizioni di cui al comma 201 si applicano a decorrere dal 1° luglio 2026, fatta eccezione per la disposizione di cui alla lettera c) del medesimo comma 201, che si applica a decorrere dal 31 ottobre 2026. La Commissione di vigilanza sui fondi pensione (COVIP) adegua le proprie rispettive istruzioni entro le medesime date.
 
 203. All'[articolo 1, comma 756, della legge 27 dicembre 2006, n. 296](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2006-12-27;296~art1-com756), sono aggiunti, in fine, i seguenti periodi: «Con effetto sui periodi di paga decorrenti dal 1° gennaio 2026, sono tenuti al versamento del contributo di cui al presente comma anche i datori di lavoro che hanno raggiunto o raggiungono, negli anni successivi a quello di inizio dell'attivita', la soglia dimensionale di cui al terzo periodo, prendendo a riferimento la media annuale dei lavoratori in forza nell'anno solare precedente all'anno del periodo di paga considerato, e, limitatamente al periodo 2026-2027, a condizione che, nel medesimo anno solare, la predetta media annuale non sia inferiore a sessanta addetti alle proprie dipendenze. Con effetto sui periodi di paga decorrenti dal 1° gennaio 2032, sono altresi' tenuti al versamento del contributo di cui al presente comma i datori di lavoro che occupano alle proprie dipendenze un numero di addetti pari o superiore a quaranta o che raggiungono, anche negli anni successivi a quello di inizio dell'attivita', la soglia dimensionale di quaranta addetti alle proprie dipendenze, prendendo a riferimento la media annuale dei lavoratori in forza nell'anno solare precedente all'anno del periodo di paga considerato».
 
@@ -962,7 +970,7 @@ c) idoneita' fisio-psico-attitudinale per il reclutamento nelle Forze armate in 
 
 252. Per le spese di funzionamento connesse alle previsioni di cui ai commi 250 e 251, ivi comprese le spese di vettovagliamento, e' autorizzata la spesa di euro 65.381 a decorrere dall'anno 2026.
 
-253. Al fine di garantire la piena funzionalita' e il perseguimento delle finalita' istituzionali di cui all'[articolo 1, comma 551, della legge 27 dicembre 2017, n. 205](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2017-12-27;205~art1-com551), l'Agenzia nazionale per la meteorologia e climatologia «ItaliaMeteo» e' autorizzata a confermare o prorogare, fino al 31 dicembre 2026, i comandi del personale proveniente da amministrazioni pubbliche, in essere alla data del 1° gennaio 2026, disposti ai sensi del comma 556 della medesima legge, nonche' a confermare o prorogare, fino al medesimo termine, i contratti di lavoro flessibile in corso e gli incarichi individuali di lavoro autonomo conferiti ai sensi dell'[articolo 7, comma 6, del decreto legislativo 30 marzo 2001, n. 165](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2001-03-30;165~art7-com6), nell'ambito delle risorse finanziarie disponibili a legislazione vigente di cui all'[articolo 1, comma 559, della legge n. 205 del 2017](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2017;205~art1-com559).
+253. Al fine di garantire la piena funzionalita' e il perseguimento delle finalita' istituzionali di cui all'[articolo 1, comma 551, della legge 27 dicembre 2017, n. 205](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2017-12-27;205~art1-com551), l'Agenzia nazionale per la meteorologia e climatologia «ItaliaMeteo» e' autorizzata a confermare o prorogare, fino al 31 dicembre 2026, i comandi del personale proveniente da amministrazioni pubbliche, in essere alla data del 1° gennaio 2026, disposti ai sensi dell'articolo 1, comma 556, della citata [legge n. 205 del 2017](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2017;205), nonche' a confermare o prorogare, fino al medesimo termine, i contratti di lavoro flessibile in corso e gli incarichi individuali di lavoro autonomo conferiti ai sensi dell'[articolo 7, comma 6, del decreto legislativo 30 marzo 2001, n. 165](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2001-03-30;165~art7-com6), nell'ambito delle risorse finanziarie disponibili a legislazione vigente di cui all'[articolo 1, comma 559, della legge n. 205 del 2017](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2017;205~art1-com559)..
 
 254. All'[articolo 1 della legge 27 dicembre 2017, n. 205](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2017-12-27;205~art1), dopo il comma 555 e' inserito il seguente:   
 «555-bis. Al personale di ItaliaMeteo appartenente alle aree previste dal sistema di classificazione professionale del comparto funzioni centrali e' riconosciuta l'indennita' di amministrazione nelle misure spettanti al personale del Ministero dell'universita' e della ricerca appartenenti alle aree corrispondenti. Il fondo risorse decentrate del personale appartenente alle aree funzionali e il fondo per il finanziamento della retribuzione di posizione e di risultato del personale dirigenziale di seconda fascia sono costituiti rispettivamente nei limiti di 286.632 euro e di 356.593 euro, tenendo conto delle assunzioni effettuate ai sensi della normativa vigente, fatti salvi i successivi incrementi previsti dai contratti collettivi nazionali di lavoro del comparto e dell'area funzioni centrali e le risorse derivanti da specifiche disposizioni di legge che prevedano specifici trattamenti economici in favore del personale. Agli oneri derivanti dal presente comma si provvede a valere sulle risorse di cui al comma 559».
@@ -1122,9 +1130,9 @@ f) il comma 559 e' sostituito dal seguente:
 
 299. Il Commissario straordinario di cui al comma 298, per il periodo in cui e' in carica, assume i poteri di ordinaria e straordinaria amministrazione degli organi decaduti ai sensi del presente comma. Entro sessanta giorni dalla data in cui il nuovo statuto acquista efficacia sono nominati tutti i nuovi organi dell'Agenzia.
 
-300. Il Commissario straordinario di cui al comma 298 resta in carica fino alla nomina del nuovo direttore dell'Agenzia e il collegio dei revisori resta in carica fino alla nomina del nuovo organo. In fase di prima applicazione, per garantire l'idonea e comprovata qualificazione professionale in relazione alla natura e alle caratteristiche dell'Agenzia, l'incarico del nuovo direttore e' conferito ai sensi dell'[articolo 8, del decreto legislativo 30 luglio 1999, n. 300](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1999-07-30;300~art8), su proposta del Capo del Dipartimento della protezione civile.
+300. Il Commissario straordinario di cui al comma 298 resta in carica fino alla nomina del nuovo direttore dell'Agenzia e il collegio dei revisori resta in carica fino alla nomina del nuovo organo. In fase di prima applicazione, per garantire l'idonea e comprovata qualificazione professionale in relazione alla natura e alle caratteristiche dell'Agenzia, l'incarico del nuovo direttore e' conferito ai sensi dell'[articolo 8 del decreto legislativo 30 luglio 1999, n. 300](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1999-07-30;300~art8), su proposta del Capo del Dipartimento della protezione civile.
 
-300-bis. I componenti del collegio dei revisori di cui al comma 300, primo periodo, possono essere riconfermati oltre la naturale scadenza del loro attuale incarico e fino alla nomina del nuovo organo di cui al medesimo comma 300.
+300-bis. I componenti del collegio dei revisori di cui al comma 300, primo periodo, possono essere riconfermati oltre la naturale scadenza dell'incarico da essi ricoperto alla data di entrata in vigore della presente disposizione e fino alla nomina del nuovo organo di cui al medesimo comma 300.
 
 301. Fino al 31 dicembre 2026, e' autorizzato il conferimento di due incarichi dirigenziali di livello non generale presso l'Agenzia ItaliaMeteo, oltre i limiti percentuali di cui all'[articolo 19, comma 6, del decreto legislativo 30 marzo 2001, n. 165](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2001-03-30;165~art19-com6). Agli oneri di cui al presente comma si provvede nei limiti delle risorse disponibili di cui all'[articolo 1, comma 559, della legge 27 dicembre 2017, n. 205](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2017-12-27;205~art1-com559), come sostituito dalla lettera f) del comma 297 del presente articolo.
 
@@ -1181,11 +1189,7 @@ Le risorse non utilizzate per le finalita' di cui al comma 312 confluiscono nel 
 
 325. In caso di impugnazione degli atti relativi alle procedure di affidamento indette per la progettazione e l'esecuzione degli interventi di cui ai commi da 318 a 324, si applicano le previsioni contenute nell'[articolo 125 del codice del processo amministrativo](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-07-02;104~art125), di cui al l'allegato 1 al [decreto legislativo 2 luglio 2010, n. 104](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-07-02;104).
 
-326. Il Ministero delle imprese e del made in Italy e' autorizzato
-
-((ad assumere, con contratto di lavoro subordinato a tempo indeterminato, quaranta unita' di personale da inquadrare nell'area delle elevate professionalita' prevista dal CCNL 2019-2021 del comparto funzioni centrali, tramite concorso pubblico ovvero passaggio tra le aree o mediante scorrimento delle graduatorie vigenti o procedure di passaggio diretto di personale tra amministrazioni pubbliche ai sensi dell'[articolo 30 del decreto legislativo 30 marzo 2001, n. 165](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2001-03-30;165~art30), con corrispondente incremento della relativa dotazione organica))
-
-. A tal fine e' autorizzata la spesa di 3.615.519 euro annui a decorrere dall'anno 2026.
+326. Il Ministero delle imprese e del made in Italy e' autorizzato ad assumere, con contratto di lavoro subordinato a tempo indeterminato, quaranta unita' di personale da inquadrare nell'area delle elevate professionalita' prevista dal CCNL 2019-2021 del comparto funzioni centrali, tramite concorso pubblico ovvero passaggio tra le aree o mediante scorrimento delle graduatorie vigenti o procedure di passaggio diretto di personale tra amministrazioni pubbliche ai sensi dell'[articolo 30 del decreto legislativo 30 marzo 2001, n. 165](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2001-03-30;165~art30), con corrispondente incremento della relativa dotazione organica. A tal fine e' autorizzata la spesa di 3.615.519 euro annui a decorrere dall'anno 2026.
 
 327. Per la gestione delle procedure concorsuali previste dal comma 326 e' autorizzata, per l'anno 2026, una spesa pari a euro 300.000.  
 Per le maggiori spese di funzionamento indotte dal reclutamento del predetto personale, ivi compreso il costo annuale per la corresponsione dei buoni pasto, e' autorizzata un'ulteriore spesa pari a euro 74.369 annui a decorrere dall'anno 2026.
@@ -1487,23 +1491,7 @@ b) beni materiali nuovi strumentali all'esercizio d'impresa finalizzati all'auto
 
 434. La determinazione dell'acconto dovuto per il periodo d'imposta in corso al 31 dicembre 2026 e' effettuata senza tener conto delle disposizioni di cui ai commi da 427 a 436.
 
-435. Il GSE provvede, sulla base di convenzione con il Ministero delle imprese e del made in Italy, alla gestione delle procedure di accesso e controllo dell'agevolazione, nonche' allo sviluppo della piattaforma informatica di cui al comma 430, anche al fine delle esigenze di monitoraggio di cui al comma 436. Per le attivita' di cui al primo periodo e per le altre attivita' di assistenza tecnica necessarie alla gestione
-
-((dell'agevolazione))
-
-e' riconosciuto al GSE un compenso di 5 milioni per ciascuno degli anni dal 2026 al 2028. Ai relativi oneri si provvede mediante corrispondente riduzione
-
-((dello stanziamento))
-
-del fondo speciale
-
-((di parte corrente))
-
-iscritto, ai fini del bilancio triennale 2026-2028
-
-((,))
-
-nell'ambito del programma "fondi di riserva e speciali" della missione "fondi da ripartire" dello stato di previsione del Ministero dell'economia e delle finanze per l'anno 2026, allo scopo parzialmente utilizzando l'accantonamento relativo al Ministero delle imprese e del made in Italy.
+435. Il GSE provvede, sulla base di convenzione con il Ministero delle imprese e del made in Italy, alla gestione delle procedure di accesso e controllo dell'agevolazione, nonche' allo sviluppo della piattaforma informatica di cui al comma 430, anche al fine delle esigenze di monitoraggio di cui al comma 436. Per le attivita' di cui al primo periodo e per le altre attivita' di assistenza tecnica necessarie alla gestione dell'agevolazione e' riconosciuto al GSE un compenso di 5 milioni per ciascuno degli anni dal 2026 al 2028. Ai relativi oneri si provvede mediante corrispondente riduzione dello stanziamento del fondo speciale di parte corrente iscritto, ai fini del bilancio triennale 2026-2028, nell'ambito del programma "fondi di riserva e speciali" della missione "fondi da ripartire" dello stato di previsione del Ministero dell'economia e delle finanze per l'anno 2026, allo scopo parzialmente utilizzando l'accantonamento relativo al Ministero delle imprese e del made in Italy.
 
 436. Il Ministero dell'economia e delle finanze, sulla base delle informazioni trasmesse dal GSE e dal Ministero delle imprese e del made in Italy, provvede al monitoraggio degli oneri derivanti dai commi da 427 a 435 al fine di prevenire l'eventuale verificarsi di scostamenti dell'andamento degli oneri dallo stesso derivanti rispetto alle previsioni e, qualora siano in procinto di verificarsi scostamenti dagli effetti finanziari attesi, il Ministro dell'economia e delle finanze provvede ai sensi dei [commi da 12-bis](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-12-31;196~art17-com12bis) [a 12-quater dell'articolo 17 della legge 31 dicembre 2009, n. 196](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-12-31;196~art17-com12quater).
 
@@ -2145,19 +2133,7 @@ f) le regioni che non rispettano i limiti previsti dalle lettere da a) a e) sono
 644. Gli oneri, in termini di fabbisogno e indebitamento, derivanti dai commi da 638 a 643, sono pari a 41 milioni di euro nell'anno 2026, a 90,9 milioni di euro nell'anno 2027, a 138,2 milioni di euro nell'anno 2028, a 157,4 milioni di euro nell'anno 2029, a 160 milioni di euro nell'anno 2030, a 119 milioni di euro nell'anno 2031, a 69,1 milioni di euro nell'anno 2032, a 21,8 milioni di euro nell'anno 2033 e a 2,6 milioni di euro nell'anno 2034.
 
 645. Con decreto del Ministro dell'economia e delle finanze, da emanare entro sessanta giorni dalla data di entrata in vigore della presente legge, e' istituito, senza nuovi o maggiori oneri a carico della finanza pubblica, un tavolo tecnico presso il Ministero dell'economia e delle finanze composto da due rappresentanti del medesimo Ministero, un rappresentante del Ministero dell'interno e da due rappresentanti dell'Associazione nazionale dei comuni italiani.  
-II tavolo ha il compito di verificare le modalita' con cui i comuni con popolazione superiore a
-
-((10.000 abitanti))
-
-, in disavanzo di amministrazione e con incidenza del fondo anticipazioni di liquidita' accantonato nel risultato di amministrazione
-
-((dell'esercizio 2025))
-
-non inferiore al 30 per cento del disavanzo complessivo e non inferiore al 30 per cento della somma delle spese correnti e delle spese per rimborso prestiti,
-
-((e i comuni che hanno applicato l'[articolo 16, commi da 6-ter](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2022-08-09;115~art16-com6ter) [a 6-sexies, del decreto-legge 9 agosto 2022, n. 115](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2022-08-09;115~art16-com6sexies), convertito, con modificazioni, dalla [legge 21 settembre 2022, n. 142](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2022-09-21;142),))
-
-possono accedere alle misure previste dalle disposizioni di cui ai commi da 638 a 643, facendo comunque salvi gli spazi di maggior utilizzo derivanti dalle disposizioni di cui al comma 664. Ai componenti del tavolo non sono corrisposti compensi, gettoni di presenza, rimborsi di spese o altri emolumenti comunque denominati.
+II tavolo ha il compito di verificare le modalita' con cui i comuni con popolazione superiore a 10.000 abitanti, in disavanzo di amministrazione e con incidenza del fondo anticipazioni di liquidita' accantonato nel risultato di amministrazione dell'esercizio 2025 non inferiore al 30 per cento del disavanzo complessivo e non inferiore al 30 per cento della somma delle spese correnti e delle spese per rimborso prestiti, e i comuni che hanno applicato l'[articolo 16, commi da 6-ter](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2022-08-09;115~art16-com6ter) [a 6-sexies, del decreto-legge 9 agosto 2022, n. 115](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2022-08-09;115~art16-com6sexies), convertito, con modificazioni, dalla [legge 21 settembre 2022, n. 142](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2022-09-21;142), possono accedere alle misure previste dalle disposizioni di cui ai commi da 638 a 643, facendo comunque salvi gli spazi di maggior utilizzo derivanti dalle disposizioni di cui al comma 664. Ai componenti del tavolo non sono corrisposti compensi, gettoni di presenza, rimborsi di spese o altri emolumenti comunque denominati.
 
 646. Al [decreto legislativo 23 giugno 2011, n. 118](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2011-06-23;118), sono apportate le seguenti modificazioni:
 
@@ -2552,7 +2528,7 @@ La ricognizione di cui al primo periodo e' effettuata, altresi', in relazione ai
 
 781. Le amministrazioni centrali titolari delle misure e degli investimenti del piano sociale per il clima sono tenute a correggere le difformita' e le irregolarita' sanabili, rilevate nel corso dell'attuazione, provvedendo, nel caso di revoca dei finanziamenti disposti in favore dei soggetti attuatori, o dei beneficiari finali, al recupero degli importi non dovuti eventualmente gia' corrisposti e a destinare le risorse recuperate a ulteriori progetti inclusi nelle finalita' del Fondo sociale per il clima di cui al [regolamento (UE) 2023/955](http://www.normattiva.it/uri-res/N2Ls?urn:nir::regolamento:2023;955) stabilite a livello europeo.
 
-782. Le risorse per l'attuazione del piano sociale per il clima di cui al [regolamento (UE) 2023/955](http://www.normattiva.it/uri-res/N2Ls?urn:nir::regolamento:2023;955) possono essere utilizzate per le finalita' previste dai [commi 282](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2023-12-30;213~art1-com282) e [283 dell'articolo 1 della legge 30 dicembre 2023, n. 213](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2023-12-30;213~art1-com283), in materia di contrasto al disagio abitativo, dal [comma 402 dell'articolo 1 della legge 30 dicembre 2024, n. 207](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2024-12-30;207~art1-com402), per le iniziative del Piano casa Italia, e dai [commi da 613](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2016-12-11;232~art1-com613) [a 615 dell'articolo 1 della legge 11 dicembre 2016, n. 232](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2016-12-11;232~art1-com615), per le iniziative rientranti nell'ambito del Piano strategico nazionale della mobilita' sostenibile, e per interventi in materia di poverta' energetica per le famiglie vulnerabili.
+782. Le risorse per l'attuazione del piano sociale per il clima di cui al [regolamento (UE) 2023/955](http://www.normattiva.it/uri-res/N2Ls?urn:nir::regolamento:2023;955) possono essere utilizzate per le finalita' previste dai [commi da 613](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2016-12-11;232~art1-com613) [a 615 dell'articolo 1 della legge 11 dicembre 2016, n. 232](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2016-12-11;232~art1-com615), per le iniziative rientranti nell'ambito del Piano strategico nazionale della mobilita' sostenibile, e per interventi in materia di poverta' energetica per le famiglie vulnerabili.
 
 783. All'[articolo 1 della legge 30 dicembre 2024, n. 207](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2024-12-30;207~art1), sono apportate le seguenti modificazioni:
 
@@ -2977,7 +2953,7 @@ a) alle previsioni urbanistiche degli strumenti urbanistici vigenti alla data de
 b) alla realizzazione di interventi urbanistici separati dal perimetro dell'impianto cimiteriale da strade pubbliche almeno di livello comunale, sulla base della classificazione prevista ai sensi della legislazione vigente, o da fiumi, laghi o dislivelli naturali rilevanti, ovvero da ponti o da impianti ferroviari;   
 c) alla realizzazione di interventi urbanistici da localizzare, in contiguita' a interventi urbanistici gia' attuati, sul lato opposto rispetto al perimetro dell'impianto cimiteriale».
 
-912. Per lo svolgimento delle attivita' di studio, ricerca e promozione culturale sul valore della lettura su carta e della scrittura in corsivo a mano, nonche' sugli effetti della diffusione delle tecnologie digitali sui processi cognitivi e di apprendimento dei giovani, e' concesso all'Osservatorio Carta, Penna &amp;amp;amp;amp;amp;amp;amp;   
+912. Per lo svolgimento delle attivita' di studio, ricerca e promozione culturale sul valore della lettura su carta e della scrittura in corsivo a mano, nonche' sugli effetti della diffusione delle tecnologie digitali sui processi cognitivi e di apprendimento dei giovani, e' concesso all'Osservatorio Carta, Penna &amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;   
 Digitale,   
 istituito presso la Fondazione Luigi Einaudi per studi di politica, economia e storia ETS di Roma, un contributo di 300.000 euro per ciascuno degli anni 2026 e 2027.
 
