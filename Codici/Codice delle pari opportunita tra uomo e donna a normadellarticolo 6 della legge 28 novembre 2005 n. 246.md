@@ -98,125 +98,39 @@ CAPO IV - Capo III Comitato nazionale per l'attuazione dei principi di parita' d
 
 ### Art. 8
 
-Costituzione e componenti   
-  
-(legge 10 aprile 1991, n. 125, articolo 5, commi 1, 2, 3, 4, e 7)
+((ARTICOLO ABROGATO DAL [D.LGS. 7 MAGGIO 2026, N. 91](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2026-05-07;91)))
 
-1. Il Comitato nazionale per l'attuazione dei principi di parita' di trattamento ed uguaglianza di opportunita' tra lavoratori e lavoratrici, istituito presso il Ministero del lavoro e delle politiche sociali, promuove, nell'ambito della competenza statale, la rimozione delle discriminazioni e di ogni altro ostacolo che limiti di fatto l'uguaglianza fra uomo e donna nell'accesso al lavoro, nella promozione e nella formazione professionale, nelle condizioni di lavoro compresa la retribuzione, nonche' in relazione alle forme pensionistiche complementari collettive di cui al [decreto legislativo 5 dicembre 2005, n. 252](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-12-05;252).
-
-2. Il Comitato e' composto da:
-
-a) il Ministro del lavoro e delle politiche sociali o, per sua delega, un Sottosegretario di Stato, con funzioni di presidente;
-
-b) sei componenti designati dalle confederazioni sindacali dei lavoratori comparativamente piu' rappresentative sul piano nazionale;
-
-c) sei componenti designati dalle confederazioni sindacali dei datori di lavoro dei diversi settori economici, comparativamente piu' rappresentative sul piano nazionale;
-
-d) due componenti designati unitariamente dalle associazioni di rappresentanza, assistenza e tutela del movimento cooperativo piu' rappresentative sul piano nazionale;
-
-e) undici componenti designati dalle associazioni e dai movimenti femminili piu' rappresentativi sul piano nazionale operanti nel campo della parita' e delle pari opportunita' nel lavoro
-
-((che ne abbiano fatto richiesta))
-
-;
-
-f) la consigliera o il consigliere nazionale di parita' di cui all'articolo 12, comma 2, del presente decreto.
-
-2-bis. Le designazioni di cui al comma
-
-((2))
-
-sono effettuate entro trenta giorni dalla relativa richiesta. In caso di mancato tempestivo riscontro, il Comitato puo' essere costituito sulla base delle designazioni pervenute, fatta salva l'integrazione quando pervengano le designazioni mancanti.
-
-3. Partecipano, inoltre, alle riunioni del Comitato, senza diritto di voto:
-
-a)
-
-((tre esperti))
-
-in materie giuridiche, economiche e sociologiche, con competenze in materia di lavoro e politiche di genere;
-
-((
-
-b) quattro rappresentanti, rispettivamente, del Ministero dello sviluppo economico, del Dipartimento della funzione pubblica, del Dipartimento per le pari opportunita' e del Dipartimento per le politiche della famiglia della Presidenza del Consiglio dei ministri;
-
-))
-
-((
-
-c) tre rappresentanti del Ministero del lavoro e delle politiche sociali, in rappresentanza delle Direzioni generali della tutela delle condizioni di lavoro e delle relazioni industriali, per le politiche attive, i servizi per il lavoro e la formazione, per l'inclusione e le politiche sociali;
-
-))
-
-c-bis)
-
-((LETTERA SOPPRESSA DAL [D.LGS. 14 SETTEMBRE 2015, N. 151](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2015-09-14;151)))
-
-;
-
-4. I componenti del Comitato durano in carica tre anni e sono nominati dal Ministro del lavoro e delle politiche sociali. Per ogni componente effettivo e' nominato un supplente. In caso di sostituzione di un componente, il nuovo componente dura in carica fino alla scadenza del Comitato.
-
-5. Il vicepresidente del Comitato e' designato dal Ministro del lavoro e delle politiche sociali nell'ambito dei suoi componenti.   
-
-((13))
+((18))
 
 ---------------
 
-AGGIORNAMENTO (13)
+AGGIORNAMENTO (18)
 
-Il [D.Lgs. 14 settembre 2015, n. 151](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2015-09-14;151) ha disposto (con l'art. 28, comma 2) che "Il Comitato nazionale per l'attuazione dei principi di parita' di trattamento ed uguaglianza di opportunita' tra lavoratori e lavoratrici gia' costituito alla data di entrata in vigore del presente decreto legislativo continua ad operare nell'attuale composizione fino alla naturale scadenza".
+Il [D.Lgs. 7 maggio 2026, n. 91](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2026-05-07;91) ha disposto (con l'art. 7, comma 5, alinea) che "A decorrere dalla data di insediamento di cui all'[articolo 3, comma 7, al codice delle pari opportunita' tra uomo e donna](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006-04-11;198~art3-com7), di cui al [decreto legislativo 11 aprile 2006, n. 198](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006-04-11;198), sono apportate le seguenti modificazioni".
 
 ### Art. 9
 
-Convocazione e funzionamento   
-  
-(legge 10 aprile 1991, n. 125, articolo 5, commi 5 e 6)
+((ARTICOLO ABROGATO DAL [D.LGS. 7 MAGGIO 2026, N. 91](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2026-05-07;91)))
 
-1. Il Comitato e' convocato, oltre che su iniziativa del Ministro del lavoro e delle politiche sociali, quando ne facciano richiesta meta' piu' uno dei suoi componenti.
+((18))
 
-((
+---------------
 
-2. Il Comitato delibera in ordine al proprio funzionamento e, per lo svolgimento dei propri compiti, puo' costituire specifici gruppi di lavoro.
+AGGIORNAMENTO (18)
 
-))
+Il [D.Lgs. 7 maggio 2026, n. 91](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2026-05-07;91) ha disposto (con l'art. 7, comma 5, alinea) che "A decorrere dalla data di insediamento di cui all'[articolo 3, comma 7, al codice delle pari opportunita' tra uomo e donna](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006-04-11;198~art3-com7), di cui al [decreto legislativo 11 aprile 2006, n. 198](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006-04-11;198), sono apportate le seguenti modificazioni".
 
 ### Art. 10
 
-(( (Compiti del Comitato). ))
+((ARTICOLO ABROGATO DAL [D.LGS. 7 MAGGIO 2026, N. 91](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2026-05-07;91)))
 
-((
+((18))
 
-1. Il Comitato adotta ogni iniziativa utile, nell'ambito delle competenze statali, per il perseguimento delle finalita' di cui all'articolo 8, comma 1, e in particolare:
+---------------
 
-a) formula proposte sulle questioni generali relative all'attuazione degli obiettivi della parita' e delle pari opportunita', nonche' per lo sviluppo e il perfezionamento della legislazione vigente che direttamente incide sulle condizioni di lavoro delle donne;
+AGGIORNAMENTO (18)
 
-b) informa e sensibilizza l'opinione pubblica sulla necessita' di promuovere le pari opportunita' per le donne nella formazione e nella vita lavorativa;
-
-c) formula, entro il mese di febbraio di ogni anno, gli indirizzi in materia di promozione delle pari opportunita' per le iniziative del Ministero del lavoro e delle politiche sociali da programmare nell'anno finanziario successivo, indicando obiettivi e tipologie di progetti di azioni positive che intende promuovere. Sulla base di tali indirizzi il Ministero del lavoro e delle politiche sociali pubblica apposito bando di finanziamento dei progetti di azione positiva;
-
-d) partecipa attraverso propri rappresentanti alla commissione di valutazione dei progetti di azione positiva. Con decreto del Ministro del lavoro e delle politiche sociali, da adottarsi entro 90 giorni dalla data di entrata in vigore della presente disposizione, sono definiti la composizione della commissione, i criteri di valutazione dei progetti e di erogazione dei finanziamenti, nonche' le modalita' di svolgimento delle attivita' di monitoraggio e controllo dei progetti approvati. Ai componenti della commissione non sono corrisposti gettoni, compensi, rimborsi di spese o altri emolumenti comunque denominati;
-
-e) collabora, su richiesta, alla stesura di codici di comportamento diretti a specificare le regole di condotta conformi alla parita' e a individuare le manifestazioni anche indirette delle discriminazioni;
-
-f) verifica lo stato di applicazione della legislazione vigente in materia di parita';
-
-g) elabora iniziative per favorire il dialogo tra le parti sociali, al fine di promuovere la parita' di trattamento, avvalendosi dei risultati dei monitoraggi effettuati sulle prassi nei luoghi di lavoro, nell'accesso al lavoro, alla formazione e promozione professionale, nonche' sui contratti collettivi, sui codici di comportamento, ricerche o scambi di esperienze e buone prassi;
-
-h) propone soluzioni alle controversie collettive, anche indirizzando gli interessati all'adozione di azioni positive per la rimozione delle discriminazioni pregresse o di situazioni di squilibrio nella posizione di uomini e donne in relazione allo stato delle assunzioni, della formazione e della promozione professionale, delle condizioni di lavoro e retributive;
-
-i) elabora iniziative per favorire il dialogo con le organizzazioni non governative che hanno un legittimo interesse a contribuire alla lotta contro le discriminazioni fra donne e uomini nell'occupazione e nell'impiego;
-
-l) puo' richiedere alle Direzioni interregionali e territoriali del lavoro di acquisire presso i luoghi di lavoro informazioni sulla situazione occupazionale maschile e femminile, in relazione allo stato delle assunzioni, della formazione e della promozione professionale;
-
-m) promuove una adeguata rappresentanza di donne negli organismi pubblici nazionali e locali competenti in materia di lavoro e formazione professionale;
-
-n) provvede allo scambio di informazioni disponibili con gli organismi europei corrispondenti in materia di parita' fra donne e uomini nell'occupazione e nell'impiego;
-
-o) promuove la rimozione, anche attraverso azioni positive, degli ostacoli che limitano l'uguaglianza tra uomo e donna nella progressione professionale e di carriera, lo sviluppo di misure per il reinserimento della donna lavoratrice dopo la maternita', la piu' ampia diffusione del lavoro a tempo parziale e degli altri strumenti di flessibilita' a livello aziendale che consentano una migliore conciliazione tra vita lavorativa e impegni familiari;
-
-p) svolge le attivita' di monitoraggio e controllo dei progetti gia' approvati, verificandone la corretta attuazione e l'esito finale.
-
-))
+Il [D.Lgs. 7 maggio 2026, n. 91](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2026-05-07;91) ha disposto (con l'art. 7, comma 5, alinea) che "A decorrere dalla data di insediamento di cui all'[articolo 3, comma 7, al codice delle pari opportunita' tra uomo e donna](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006-04-11;198~art3-com7), di cui al [decreto legislativo 11 aprile 2006, n. 198](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006-04-11;198), sono apportate le seguenti modificazioni".
 
 ### Art. 11
 
@@ -231,59 +145,110 @@ Nomina
   
 (decreto legislativo 23 maggio 2000, n. 196, articolo 1, comma 1; articolo 2, commi 1, 3, 4)
 
-1. A livello nazionale, regionale e
+1. A livello
 
-((della citta' metropolitana e dell'ente di area vasta di cui alla [legge 7 aprile 2014, n. 56](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2014-04-07;56)))
+((...))
 
-sono nominati una consigliera o un consigliere di parita'. Per ogni consigliera o consigliere si provvede altresi' alla nomina di un supplente che agisce su mandato della consigliera o del consigliere effettivo ed in sostituzione della medesima o del medesimo.
+, regionale e della citta' metropolitana e dell'ente di area vasta di cui alla [legge 7 aprile 2014, n. 56](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2014-04-07;56) sono nominati una consigliera o un consigliere di parita'. Per ogni consigliera o consigliere si provvede altresi' alla nomina di un supplente che agisce su mandato della consigliera o del consigliere effettivo ed in sostituzione della medesima o del medesimo.
 
-2. La consigliera o il consigliere nazionale di parita', effettivo e supplente, sono nominati con decreto del Ministro del lavoro e delle politiche sociali, di concerto con il Ministro per le pari opportunita'.
+((18))
 
-((
+2. 
 
-3. Le consigliere e i consiglieri di parita' regionali, delle citta' metropolitane e degli enti di area vasta di cui alla [legge 7 aprile 2014, n. 56](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2014-04-07;56), effettivi e supplenti, sono nominati con decreto del Ministro del lavoro e delle politiche sociali, su designazione delle regioni, delle citta' metropolitane e degli enti di area vasta, sulla base dei requisiti di cui all'articolo 13, comma 1, e previo espletamento di una procedura di valutazione comparativa.
-
-))
-
-((
-
-4. In caso di mancata designazione delle consigliere e dei consiglieri di parita' regionali, delle citta' metropolitane e degli enti di area vasta di cui alla [legge 7 aprile 2014, n. 56](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2014-04-07;56) entro i sessanta giorni successivi alla scadenza del mandato o in caso di designazione effettuata in assenza dei requisiti richiesti dall'articolo 13, comma 1, il Ministro del lavoro e delle politiche sociali, nei trenta giorni successivi, indice una procedura di valutazione comparativa, nel rispetto dei requisiti di cui all'articolo 13, comma 1, di durata non superiore, complessivamente, ai 90 giorni successivi alla scadenza dei termini per la presentazione delle candidature.
-
-))
-
-5. I decreti di nomina del presente articolo, cui va allegato il curriculum professionale della persona nominata, sono pubblicati
-
-((sul sito internet del Ministero del lavoro e delle politiche sociali www.lavoro.gov.it.))
+((COMMA ABROGATO DAL [D.LGS. 7 MAGGIO 2026, N. 91](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2026-05-07;91)))
 
 .
 
+((18))
+
+3. Le consigliere e i consiglieri di parita' regionali, delle citta' metropolitane e degli enti di area vasta di cui alla [legge 7 aprile 2014, n. 56](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2014-04-07;56), effettivi e supplenti, sono nominati
+
+((dalle regioni, dalle citta' metropolitane e dagli enti di area vasta,))
+
+, sulla base dei requisiti di cui all'articolo 13, comma 1, e previo espletamento di una procedura di valutazione comparativa.
+
+((18))
+
+((COMMA ABROGATO DAL [D.LGS. 7 MAGGIO 2026, N. 91](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2026-05-07;91)))
+
+.
+
+((18))
+
+  
+5. I decreti di nomina del presente articolo, cui va allegato il curriculum professionale della persona nominata, sono pubblicati
+
+((sul sito internet dell'ente che procede alla nomina))
+
+.
+
+((18))
+
+---------------
+
+AGGIORNAMENTO (18)
+
+Il [D.Lgs. 7 maggio 2026, n. 91](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2026-05-07;91) ha disposto (con l'art. 7, comma 5, alinea) che "A decorrere dalla data di insediamento di cui all'[articolo 3, comma 7, al codice delle pari opportunita' tra uomo e donna](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006-04-11;198~art3-com7), di cui al [decreto legislativo 11 aprile 2006, n. 198](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006-04-11;198), sono apportate le seguenti modificazioni".
+
 ### Art. 13
 
-Requisiti e attribuzioni  
+Requisiti e attribuzioni   
   
 (decreto legislativo 23 maggio 2000, n. 196, articoli 1, comma 2, 2, comma 2)
 
-1. Le consigliere e i consiglieri di parita' devono possedere requisiti di specifica competenza ed esperienza pluriennale in materia di lavoro femminile, di normative sulla parita' e pari opportunita' nonche' di mercato del lavoro, comprovati da idonea documentazione.
+1. Le consigliere e i consiglieri di parita' devono possedere requisiti di
+
+((indipendenza e))
+
+specifica competenza ed esperienza pluriennale in materia di lavoro femminile, di normative sulla parita' e pari opportunita' nonche' di mercato del lavoro, comprovati da idonea documentazione.
+
+((18))
 
 2. Le consigliere ed i consiglieri di parita', effettivi e supplenti, svolgono funzioni di promozione e di controllo dell'attuazione dei principi di uguaglianza di opportunita' e di non discriminazione tra donne e uomini nel lavoro. Nell'esercizio delle funzioni loro attribuite, le consigliere ed i consiglieri di parita' sono pubblici ufficiali ed hanno l'obbligo di segnalazione all'autorita' giudiziaria dei reati di cui vengono a conoscenza per ragione del loro ufficio.
 
+---------------
+
+AGGIORNAMENTO (18)
+
+Il [D.Lgs. 7 maggio 2026, n. 91](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2026-05-07;91) ha disposto (con l'art. 7, comma 5, alinea) che "A decorrere dalla data di insediamento di cui all'[articolo 3, comma 7, al codice delle pari opportunita' tra uomo e donna](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006-04-11;198~art3-com7), di cui al [decreto legislativo 11 aprile 2006, n. 198](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006-04-11;198), sono apportate le seguenti modificazioni".
+
 ### Art. 14
 
-(( (Mandato). ))
+(Mandato)
 
-((
+1. Il mandato delle consigliere e dei consiglieri di cui all'articolo 12, effettivi e supplenti, ha la durata di quattro anni ed e' rinnovabile per una sola volta. In ogni caso, per la determinazione della durata complessiva del mandato si computano tutti i periodi svolti in qualita' di consigliera e consigliere, sia effettivo che supplente, anche non continuativi e anche di durata inferiore a quattro anni. La procedura di rinnovo si svolge secondo le modalita' previste dall'articolo 12.
 
-1. Il mandato delle consigliere e dei consiglieri di cui all'articolo 12, effettivi e supplenti, ha la durata di quattro anni ed e' rinnovabile per una sola volta. In ogni caso, per la determinazione della durata complessiva del mandato si computano tutti i periodi svolti in qualita' di consigliera e consigliere, sia effettivo che supplente, anche non continuativi e anche di durata inferiore a quattro anni. La procedura di rinnovo si svolge secondo le modalita' previste dall'articolo 12. Le consigliere e i consiglieri di parita' continuano a svolgere le loro funzioni fino al completamento della procedura di cui all'articolo 12, comma 4. Non si applicano, al riguardo, le disposizioni di cui all'[articolo 6, comma 1, della legge 15 luglio 2002, n. 145](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2002-07-15;145~art6-com1).
+((PERIODO SOPPRESSO DAL [D.LGS. 7 MAGGIO 2026, N. 91](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2026-05-07;91)))
 
-))
+.
+
+((PERIODO SOPPRESSO DAL [D.LGS. 7 MAGGIO 2026, N. 91](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2026-05-07;91)))
+
+.
+
+((18))
+
+---------------
+
+AGGIORNAMENTO (18)
+
+Il [D.Lgs. 7 maggio 2026, n. 91](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2026-05-07;91) ha disposto (con l'art. 7, comma 5, alinea) che "A decorrere dalla data di insediamento di cui all'[articolo 3, comma 7, al codice delle pari opportunita' tra uomo e donna](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006-04-11;198~art3-com7), di cui al [decreto legislativo 11 aprile 2006, n. 198](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006-04-11;198), sono apportate le seguenti modificazioni".
 
 ### Art. 15
 
-(( (Compiti e funzioni). ))
+(Compiti e funzioni)
 
-((
+1. Le consigliere ed i consiglieri di parita'
 
-1. Le consigliere ed i consiglieri di parita' intraprendono ogni utile iniziativa, nell'ambito delle competenze dello Stato, ai fini del rispetto del principio di non discriminazione e della promozione di pari opportunita' per lavoratori e lavoratrici, svolgendo in particolare i seguenti compiti:
+((operano in coordinamento con l'Organismo per la parita' e, tenendo conto degli indirizzi generali di attivita' di quest'ultimo,))
+
+intraprendono ogni utile iniziativa, nell'ambito delle competenze
+
+((delle regioni, delle citta' metropolitane e degli enti di area vasta di cui alla [legge 7 aprile 2014, n. 56](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2014-04-07;56)))
+
+, ai fini del rispetto del principio di non discriminazione e della promozione di pari opportunita' per lavoratori e lavoratrici, svolgendo in particolare i seguenti compiti:
+
+((18))
 
 a) rilevazione delle situazioni di squilibrio di genere, anche in collaborazione con le direzioni interregionali e territoriali del lavoro, al fine di svolgere le funzioni promozionali e di garanzia contro le discriminazioni nell'accesso al lavoro, nella promozione e nella formazione professionale, ivi compresa la progressione professionale e di carriera, nelle condizioni di lavoro compresa la retribuzione, nonche' in relazione alle forme pensionistiche complementari collettive di cui al [decreto legislativo 5 dicembre 2005, n. 252](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-12-05;252);
 
@@ -299,72 +264,140 @@ f) diffusione della conoscenza e dello scambio di buone prassi e attivita' di in
 
 g) collegamento e collaborazione con i competenti assessorati e con gli organismi di parita' degli enti locali.
 
-2. La consigliera nazionale di parita', nell'ambito delle proprie competenze, determina le priorita' d'intervento e i programmi di azione, nel rispetto della programmazione annuale del Ministro del lavoro e delle politiche sociali. Svolge i compiti di cui al comma 1 e puo' svolgere, avvalendosi delle strutture del Ministero del lavoro e delle politiche sociali e dei relativi enti strumentali, inchieste indipendenti in materia di discriminazioni sul lavoro e puo' pubblicare relazioni indipendenti e raccomandazioni in materia di discriminazioni sul lavoro.
+2. 
 
-3. Le consigliere e i consiglieri nazionale e regionali partecipano ai tavoli di partenariato locale e ai comitati di sorveglianza di cui al [regolamento (CE) n. 1303/2013 del Parlamento europeo e del Consiglio del 17 dicembre 2013](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32013R1303). Le consigliere e i consiglieri regionali, delle citta' metropolitane e degli enti di area vasta sono inoltre componenti delle commissioni di parita' del corrispondente livello territoriale, ovvero di organismi diversamente denominati che svolgono funzioni analoghe. La consigliera o il consigliere nazionale, o in sua sostituzione la supplente o il supplente, e' componente del Comitato nazionale di cui all'articolo 8.
+((COMMA ABROGATO DAL [D.LGS. 7 MAGGIO 2026, N. 91](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2026-05-07;91)))
+
+.
+
+((18))
+
+3. Le consigliere e i consiglieri
+
+((...))
+
+regionali partecipano ai tavoli di partenariato locale e ai comitati di sorveglianza di cui al [regolamento (CE) n. 1303/2013 del Parlamento europeo e del Consiglio del 17 dicembre 2013](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32013R1303). Le consigliere e i consiglieri regionali, delle citta' metropolitane e degli enti di area vasta sono inoltre componenti delle commissioni di parita' del corrispondente livello territoriale, ovvero di organismi diversamente denominati che svolgono funzioni analoghe.
+
+((PERIODO SOPPRESSO DAL [D.LGS. 7 MAGGIO 2026, N. 91](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2026-05-07;91)))
+
+.
+
+((18))
 
 4. Le regioni forniscono alle consigliere ed ai consiglieri di parita' il supporto tecnico necessario: alla rilevazione di situazioni di squilibrio di genere; all'elaborazione dei dati contenuti nei rapporti sulla situazione del personale di cui all'articolo 46; alla promozione e alla realizzazione di piani di formazione e riqualificazione professionale; alla promozione di progetti di azioni positive.
 
 5. Su richiesta delle consigliere e dei consiglieri di parita', le Direzioni interregionali e territoriali del lavoro, territorialmente competenti, acquisiscono nei luoghi di lavoro informazioni sulla situazione occupazionale maschile e femminile, in relazione allo stato delle assunzioni, della formazione e promozione professionale, delle retribuzioni, delle condizioni di lavoro, della cessazione del rapporto di lavoro, ed ogni altro elemento utile, anche in base a specifici criteri di rilevazione indicati nella richiesta.
 
-6. Entro il 31 dicembre di ogni anno le consigliere ed i consiglieri di parita' regionali, delle citta' metropolitane e degli enti di area vasta di cui alla [legge 7 aprile 2014, n. 56](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2014-04-07;56), presentano un rapporto sull'attivita' svolta, redatto sulla base di indicazioni fornite dal Ministero del lavoro e delle politiche sociali, agli organi che hanno provveduto alla designazione e alla nomina. La consigliera o il consigliere di parita' che non abbia provveduto alla presentazione del rapporto o vi abbia provveduto con un ritardo superiore a tre mesi decade dall'ufficio con provvedimento adottato, su segnalazione dell'organo che ha provveduto alla designazione, dal Ministro del lavoro e delle politiche sociali.
+6. 
 
-7. Entro il 31 marzo di ogni anno la consigliera o il consigliere nazionale di parita' elabora, anche sulla base dei rapporti di cui al comma 6, un rapporto al Ministro del lavoro e delle politiche sociali e al Ministro per le pari opportunita' sulla propria attivita' e su quella svolta dalla Conferenza nazionale di cui all'articolo 19. Si applica quanto previsto nell'ultimo periodo del comma 6 in caso di mancata o ritardata presentazione del rapporto.
+((Entro il 31 dicembre di ogni anno le consigliere ed i consiglieri di parita' regionali, delle citta' metropolitane e degli enti di area vasta di cui alla [legge 7 aprile 2014, n. 56](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2014-04-07;56), presentano un rapporto sull'attivita' svolta, all'Organismo per la parita' e agli enti che hanno provveduto alla nomina. La consigliera o il consigliere di parita' che non abbia provveduto alla presentazione del rapporto o vi abbia provveduto con un ritardo superiore a tre mesi decade dall'ufficio con provvedimento adottato dall'ente che ha provveduto alla nomina.))
 
-))
+((18))
+
+7. 
+
+((COMMA ABROGATO DAL [D.LGS. 7 MAGGIO 2026, N. 91](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2026-05-07;91)))
+
+.
+
+((18))
+
+---------------
+
+AGGIORNAMENTO (18)
+
+Il [D.Lgs. 7 maggio 2026, n. 91](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2026-05-07;91) ha disposto (con l'art. 7, comma 5, alinea) che "A decorrere dalla data di insediamento di cui all'[articolo 3, comma 7, al codice delle pari opportunita' tra uomo e donna](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006-04-11;198~art3-com7), di cui al [decreto legislativo 11 aprile 2006, n. 198](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006-04-11;198), sono apportate le seguenti modificazioni".
 
 ### Art. 16
 
-(( (Sede e attrezzature). ))
+(Sede e attrezzature)
 
-((
+1. L'ufficio delle consigliere e dei consiglieri di parita' regionali, delle citta' metropolitane e degli enti di area vasta di cui alla [legge 7 aprile 2014, n. 56](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2014-04-07;56) e' ubicato rispettivamente presso le regioni, le citta' metropolitane e gli enti di area vasta.
 
-1. L'ufficio delle consigliere e dei consiglieri di parita' regionali, delle citta' metropolitane e degli enti di area vasta di cui alla [legge 7 aprile 2014, n. 56](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2014-04-07;56) e' ubicato rispettivamente presso le regioni, le citta' metropolitane e gli enti di area vasta.  
-L'ufficio della consigliera o del consigliere nazionale di parita' e' ubicato presso il Ministero del lavoro e delle politiche sociali.  
-L'ufficio e' funzionalmente autonomo, dotato del personale, delle apparecchiature e delle strutture necessarie e idonee allo svolgimento dei suoi compiti. Il personale, la strumentazione e le attrezzature necessari devono essere prontamente assegnati dagli enti presso cui l'ufficio e' ubicato, nell'ambito delle risorse esistenti e a invarianza della spesa.
+((...))
 
-2. Il Ministro del lavoro e delle politiche sociali puo' predisporre con gli enti territoriali, nel cui ambito operano le consigliere e i consiglieri di parita', convenzioni quadro allo scopo di definire le modalita' di organizzazione e di funzionamento dell'ufficio delle consigliere e dei consiglieri di parita', nonche' gli indirizzi generali per l'espletamento dei compiti di cui all'articolo 15, comma 1, lettere b), c), d), e g).
+. L'ufficio e' funzionalmente autonomo, dotato del personale, delle apparecchiature e delle strutture necessarie e idonee allo svolgimento dei suoi compiti. Il personale, la strumentazione e le attrezzature necessari devono essere prontamente assegnati dagli enti presso cui l'ufficio e' ubicato, nell'ambito delle risorse esistenti e a invarianza della spesa.
 
-))
+((18))
+
+2. 
+
+((COMMA ABROGATO DAL [D.LGS. 7 MAGGIO 2026, N. 91](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2026-05-07;91)))
+
+.
+
+((18))
+
+---------------
+
+AGGIORNAMENTO (18)
+
+Il [D.Lgs. 7 maggio 2026, n. 91](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2026-05-07;91) ha disposto (con l'art. 7, comma 5, alinea) che "A decorrere dalla data di insediamento di cui all'[articolo 3, comma 7, al codice delle pari opportunita' tra uomo e donna](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006-04-11;198~art3-com7), di cui al [decreto legislativo 11 aprile 2006, n. 198](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006-04-11;198), sono apportate le seguenti modificazioni".
 
 ### Art. 17
 
-(( (Permessi). ))
+(Permessi)
 
-((
+1. Le consigliere e i consiglieri di parita',
 
-1. Le consigliere e i consiglieri di parita', nazionale e regionali, hanno diritto per l'esercizio delle loro funzioni, ove si tratti di lavoratori dipendenti, ad assentarsi dal posto di lavoro per un massimo di cinquanta ore lavorative mensili medie. Nella medesima ipotesi le consigliere e i consiglieri di parita' delle citta' metropolitane e degli enti territoriali di area vasta di cui alla [legge 7 aprile 2014, n. 56](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2014-04-07;56) hanno diritto ad assentarsi dal posto di lavoro per un massimo di trenta ore lavorative mensili medie.  
+((...))
+
+regionali, hanno diritto per l'esercizio delle loro funzioni, ove si tratti di lavoratori dipendenti, ad assentarsi dal posto di lavoro per un massimo di cinquanta ore lavorative mensili medie. Nella medesima ipotesi le consigliere e i consiglieri di parita' delle citta' metropolitane e degli enti territoriali di area vasta di cui alla [legge 7 aprile 2014, n. 56](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2014-04-07;56) hanno diritto ad assentarsi dal posto di lavoro per un massimo di trenta ore lavorative mensili medie.  
 L'eventuale retribuzione dei suddetti permessi e' rimessa alla disponibilita' finanziaria dell'ente di pertinenza che, su richiesta, e' tenuto a rimborsare al datore di lavoro quanto in tal caso corrisposto per le ore di effettiva assenza. Ai fini dell'esercizio del diritto di assentarsi dal luogo di lavoro di cui al presente comma, le consigliere e i consiglieri di parita' devono darne comunicazione scritta al datore di lavoro almeno tre giorni prima dell'inizio dell'assenza. Le consigliere e i consiglieri di parita' supplenti hanno diritto ai permessi solo nei casi in cui non ne usufruiscano le consigliere e i consiglieri di parita' effettivi.
 
-2. L'ente territoriale che ha proceduto alla designazione puo' attribuire, a proprio carico, alle consigliere e ai consiglieri di parita' regionali, delle citta' metropolitane e degli enti di area vasta di cui alla [legge 7 aprile 2014, n. 56](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2014-04-07;56), che siano lavoratori dipendenti, lavoratori autonomi o liberi professionisti, una indennita' mensile, differenziata tra il ruolo di effettivo e quello di supplente, sulla base di criteri determinati dalla Conferenza unificata di cui all'[articolo 8 del decreto legislativo 28 agosto 1997, n. 281](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1997-08-28;281~art8). Il riconoscimento della predetta indennita' alle consigliere e ai consiglieri di parita' supplenti e' limitato ai soli periodi di effettivo esercizio della supplenza.
+((18))
 
-3. Alla consigliera e al consigliere nazionale di parita' e' attribuita un'indennita' annua. La consigliera e il consigliere nazionale di parita', ove lavoratore dipendente, usufruiscono, inoltre, di un numero massimo di permessi non retribuiti. In alternativa a quanto previsto dal primo e dal secondo periodo, la consigliera e il consigliere nazionale di parita' possono richiedere il collocamento in aspettativa non retribuita per la durata del mandato, percependo in tal caso un'indennita' complessiva annua. Con decreto del Ministro del lavoro e delle politiche sociali, di concerto con il Ministero dell'economia e delle finanze, sono stabiliti, nei limiti delle disponibilita' del Fondo di cui all'articolo 18, i criteri e le modalita' per determinare la misura dell'indennita' di cui al primo periodo, differenziata tra il ruolo di effettivo e quello di supplente, il numero massimo dei permessi non retribuiti di cui al secondo periodo, i criteri e le modalita' per determinare la misura dell'indennita' complessiva di cui al terzo periodo, le risorse destinate alle missioni legate all'espletamento delle funzioni e le spese per le attivita' della consigliera o del consigliere nazionale di parita'.
+2. L'ente territoriale che ha proceduto alla
 
-))
+((nomina))
+
+puo' attribuire, a proprio carico, alle consigliere e ai consiglieri di parita' regionali, delle citta' metropolitane e degli enti di area vasta di cui alla [legge 7 aprile 2014, n. 56](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2014-04-07;56), che siano lavoratori dipendenti, lavoratori autonomi o liberi professionisti, una indennita' mensile, differenziata tra il ruolo di effettivo e quello di supplente, sulla base di criteri determinati dalla Conferenza unificata di cui all'[articolo 8 del decreto legislativo 28 agosto 1997, n. 281](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1997-08-28;281~art8). Il riconoscimento della predetta indennita' alle consigliere e ai consiglieri di parita' supplenti e' limitato ai soli periodi di effettivo esercizio della supplenza.
+
+((18))
+
+3. Alla consigliera e al consigliere nazionale di parita' e' attribuita un'indennita' annua. La consigliera e il consigliere nazionale di parita', ove lavoratore dipendente, usufruiscono, inoltre, di un numero massimo di permessi non retribuiti. In alternativa a quanto previsto dal primo e dal secondo periodo, la consigliera e il consigliere nazionale di parita' possono richiedere il collocamento in aspettativa non retribuita per la durata del mandato, percependo in tal caso un'indennita' complessiva annua. Con decreto del Ministro del lavoro e delle politiche sociali, di concerto con il Ministero dell'economia e delle finanze, sono stabiliti, nei limiti delle disponibilita' del Fondo di cui all'articolo 18, i criteri e le modalita' per determinare la misura dell'indennita' di cui al primo periodo, differenziata tra il ruolo di effettivo e quello di supplente, il numero massimo dei permessi non retribuiti di cui al secondo periodo, i criteri e le modalita' per determinare la misura dell'indennita' complessiva di cui al terzo periodo, le risorse destinate alle missioni legate all'espletamento delle funzioni e le spese per le attivita' della consigliera o del consigliere nazionale di parita'.))
+
+---------------
+
+AGGIORNAMENTO (18)
+
+Il [D.Lgs. 7 maggio 2026, n. 91](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2026-05-07;91) ha disposto (con l'art. 7, comma 5, alinea) che "A decorrere dalla data di insediamento di cui all'[articolo 3, comma 7, al codice delle pari opportunita' tra uomo e donna](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006-04-11;198~art3-com7), di cui al [decreto legislativo 11 aprile 2006, n. 198](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006-04-11;198), sono apportate le seguenti modificazioni".
 
 ### Art. 18
 
-(( (Fondo per l'attivita' delle consigliere e dei consiglieri di parita'). ))
+((ARTICOLO ABROGATO DAL [D.LGS. 7 MAGGIO 2026, N. 91](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2026-05-07;91)))
 
-((
+((18))
 
-1. Il Fondo per l'attivita' delle consigliere e dei consiglieri di parita' nazionali, effettivi e supplenti, e' alimentato dalle risorse di cui all'[articolo 47, comma 1, lettera d), della legge 17 maggio 1999, n. 144](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1999-05-17;144~art47-com1-letd) e successive modificazioni. Il Fondo e' destinato a finanziare le spese relative alle attivita' della consigliera o del consigliere nazionale di parita', le spese per missioni, le spese relative al pagamento di compensi per indennita', differenziati tra effettivi e supplenti, i rimborsi e le remunerazioni dei permessi spettanti ai sensi dell'articolo 17, comma 1.
+---------------
 
-))
+AGGIORNAMENTO (18)
+
+Il [D.Lgs. 7 maggio 2026, n. 91](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2026-05-07;91) ha disposto (con l'art. 7, comma 5, alinea) che "A decorrere dalla data di insediamento di cui all'[articolo 3, comma 7, al codice delle pari opportunita' tra uomo e donna](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006-04-11;198~art3-com7), di cui al [decreto legislativo 11 aprile 2006, n. 198](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006-04-11;198), sono apportate le seguenti modificazioni".
 
 ### Art. 19
 
-(( (Conferenza nazionale delle consigliere e dei consiglieri di parita'). ))
+(( (Rete delle consigliere e dei consiglieri di parita').))
 
-((
+1. 
 
-1. La Conferenza nazionale delle consigliere e dei consiglieri di parita', che comprende tutte le consigliere e i consiglieri, nazionale, regionali, delle citta' metropolitane e degli enti di area vasta di cui alla [legge 7 aprile 2014, n. 56](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2014-04-07;56), e' coordinata dalla consigliera o dal consigliere nazionale di parita', in collaborazione con due consigliere o consiglieri di parita' in rappresentanza rispettivamente delle o dei consiglieri regionali, delle citta' metropolitane e degli enti di area vasta.
+((La Rete delle consigliere e dei consiglieri di parita' comprende tutte le consigliere e i consiglieri regionali, delle citta' metropolitane e degli enti di area vasta di cui alla [legge 7 aprile 2014, n. 56](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2014-04-07;56), e opera, anche in coordinamento con l'Organismo per la parita'.))
 
-2. La Conferenza opera al fine di rafforzare le funzioni delle consigliere e dei consiglieri di parita', di accrescere l'efficacia della loro azione, di consentire lo scambio di informazioni, esperienze e buone prassi. La Presidenza del Consiglio dei ministri - Dipartimento per le pari opportunita' e il Ministero del lavoro e delle politiche sociali promuovono iniziative volte a garantire il coordinamento e l'integrazione degli interventi necessari ad assicurare l'effettivita' delle politiche di promozione delle pari opportunita' per i lavoratori e le lavoratrici.
+2. 
 
-3. Dallo svolgimento delle attivita' del presente articolo non devono derivare nuovi o maggiori oneri per la finanza pubblica.
+((La Rete opera al fine di rafforzare le funzioni delle consigliere e dei consiglieri di parita', di accrescere l'efficacia della loro azione, di consentire lo scambio di informazioni, esperienze e buone prassi.))
 
-))
+3. 
+
+((Dallo svolgimento delle attivita' del presente articolo non devono derivare nuovi o maggiori oneri per la finanza pubblica.))
+
+((18))
+
+---------------
+
+AGGIORNAMENTO (18)
+
+Il [D.Lgs. 7 maggio 2026, n. 91](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2026-05-07;91) ha disposto (con l'art. 7, comma 5, alinea) che "A decorrere dalla data di insediamento di cui all'[articolo 3, comma 7, al codice delle pari opportunita' tra uomo e donna](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006-04-11;198~art3-com7), di cui al [decreto legislativo 11 aprile 2006, n. 198](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006-04-11;198), sono apportate le seguenti modificazioni".
 
 ### Art. 19-bis
 
@@ -380,19 +413,15 @@ L'eventuale retribuzione dei suddetti permessi e' rimessa alla disponibilita' fi
 
 ### Art. 20
 
-(Relazione al Parlamento)
+((ARTICOLO ABROGATO DAL [D.LGS. 7 MAGGIO 2026, N. 91](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2026-05-07;91)))
 
-1. La consigliera o il consigliere nazionale di parita', anche sulla base del rapporto di cui all'articolo 15, comma 7, nonche' delle indicazioni fornite dal Comitato di cui all'articolo 8, presenta al Parlamento, ogni due anni, una relazione contenente i risultati del monitoraggio sull'applicazione della legislazione in materia di parita' e pari opportunita' nel lavoro
+((18))
 
-((, sulle ricadute sull'occupazione femminile degli investimenti pubblici in materia di occupazione, formazione e politiche sociali))
+---------------
 
-e sulla valutazione degli effetti delle disposizioni del presente decreto. (15)   
-  
-  
-----------------  
-  
-AGGIORNAMENTO (15)   
-La [L. 5 novembre 2021, n. 162](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2021-11-05;162), ha disposto (con l'art. 1, comma 2) che "In sede di prima applicazione dell'[articolo 20, comma 1, del codice delle pari opportunita' tra uomo e donna](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006-04-11;198~art20-com1), di cui al [decreto legislativo 11 aprile 2006, n. 198](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006-04-11;198), come sostituito dal comma 1 del presente articolo, la consigliera o il consigliere nazionale di parita' presenta la relazione di cui al medesimo comma entro il 30 giugno dell'anno successivo a quello in corso alla data di entrata in vigore della presente legge".
+AGGIORNAMENTO (18)
+
+Il [D.Lgs. 7 maggio 2026, n. 91](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2026-05-07;91) ha disposto (con l'art. 7, comma 5, alinea) che "A decorrere dalla data di insediamento di cui all'[articolo 3, comma 7, al codice delle pari opportunita' tra uomo e donna](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006-04-11;198~art3-com7), di cui al [decreto legislativo 11 aprile 2006, n. 198](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006-04-11;198), sono apportate le seguenti modificazioni".
 
 CAPO VI - Capo V Comitato per l'imprenditoria femminile
 -------------------------------------------------------
@@ -645,6 +674,50 @@ c) ultimazione della prestazione per la quale la lavoratrice e' stata assunta o 
 
 9. Le disposizioni precedenti si applicano sia alle lavoratrici dipendenti da imprese private di qualsiasi genere, escluse quelle addette ai servizi familiari e domestici, sia a quelle dipendenti da enti pubblici, salve le clausole di miglior favore previste per le lavoratrici nei contratti collettivi ed individuali di lavoro e nelle disposizioni legislative e regolamentari.
 
+### Art. 35-bis
+
+(( (Assistenza alle vittime).))
+
+1. 
+
+((Coloro che ritengano di aver subito una discriminazione ai sensi del capo II del presente titolo possono presentare una denuncia all'Organismo per la parita', a norma degli articoli 36 e 37. Le denunce possono essere presentate sia di persona, in forma orale, che per iscritto, anche con l'utilizzo di modalita' telematiche, cosi' da garantire il piu' ampio accesso ai servizi offerti dagli organismi per la parita', nonche' gli accomodamenti ragionevoli per assicurare alle persone con disabilita' parita' di accesso e di tutela. I dati personali raccolti sono trattati a norma del [regolamento (UE) 2016/679 del Parlamento europeo e del Consiglio, del 27 aprile 2016](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32016R0679) e del [codice in materia di protezione dei dati personali](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2003-06-30;196), di cui al [decreto legislativo 30 giugno 2003, n. 196](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2003-06-30;196), come modificato e integrato dal decreto 10 agosto 2018, n. 101, con l'adozione delle misure appropriate e specifiche previste per le categorie particolari di dati di cui all'articolo 9 del medesimo regolamento.))
+
+2. 
+
+((L' Organismo per la parita' offre assistenza gratuita alle vittime, fornendo loro una consulenza mirata alla loro situazione specifica ed informandole in merito:))
+
+a)
+
+((alla normativa applicabile;))
+
+b) ai servizi offerti e ai relativi aspetti procedurali;
+
+c) ai mezzi di ricorso disponibili, sia in via giudiziale che stragiudiziale;
+
+d) alle disposizioni applicabili in materia di riservatezza e protezione dei dati personali;
+
+e) alla possibilita' di ottenere un sostegno psicologico o di altro tipo, anche per il tramite di altri organismi od organizzazioni, quali i centri antiviolenza.))
+
+3. 
+
+((Effettuata una prima istruttoria, l'Organismo per la parita' stabilisce con parere motivato se dar seguito alla denuncia o archiviarla e ne informa i denuncianti.))
+
+4. 
+
+((I pareri dell'Organismo per la parita' possono essere prodotti in giudizio e sono valutati come prova dal giudice che accerta la discriminazione, a norma dell'[articolo 116 del codice di procedura civile](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.procedura.civile:1940-10-28;1443~art116).))
+
+5. 
+
+((L' Organismo per la parita' pubblica almeno la sintesi dei propri pareri motivati e delle proprie decisioni di particolare rilevanza, anonimizzati a norma del [regolamento (UE) 2016/679](http://www.normattiva.it/uri-res/N2Ls?urn:nir::regolamento:2016;679) e del [codice in materia di protezione dei dati personali](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2003-06-30;196), di cui al [decreto legislativo n. 196 del 2003](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2003;196), come modificato e integrato dal decreto 10 agosto 2018, n. 101.))
+
+((18))
+
+---------------
+
+AGGIORNAMENTO (18)
+
+Il [D.Lgs. 7 maggio 2026, n. 91](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2026-05-07;91) ha disposto (con l'art. 7, comma 5, alinea) che "A decorrere dalla data di insediamento di cui all'[articolo 3, comma 7, al codice delle pari opportunita' tra uomo e donna](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006-04-11;198~art3-com7), di cui al [decreto legislativo 11 aprile 2006, n. 198](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006-04-11;198), sono apportate le seguenti modificazioni".
+
 CAPO XI - Capo III Tutela giudiziaria
 -------------------------------------
 
@@ -672,26 +745,38 @@ Legittimazione processuale a tutela di piu' soggetti
   
 (legge 10 aprile 1991, n. 125, articolo 4, commi 7, 8, 9, 10 e 11)
 
-1. Qualora le consigliere o i consiglieri di parita' regionali e, nei casi di rilevanza nazionale, la consigliera o il consigliere nazionale rilevino l'esistenza di atti, patti o comportamenti discriminatori diretti o indiretti di carattere collettivo in violazione dei divieti di cui al capo II del presente titolo o comunque nell'accesso al lavoro, nella promozione e nella formazione professionale, nelle condizioni compresa la retribuzione, nella progressione di carriera, nonche' in relazione alle forme pensionistiche complementari collettive di cui al [decreto legislativo 5 dicembre 2005, n. 252](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-12-05;252), anche quando non siano individuabili in modo immediato e diretto le lavoratrici o i lavoratori lesi dalle discriminazioni, prima di promuovere l'azione in giudizio ai sensi dei commi 2 e 4, possono chiedere all'autore della discriminazione di predisporre un piano di rimozione delle discriminazioni accertate entro un termine non superiore a centoventi giorni, sentite, nel caso di discriminazione posta in essere da un datore di lavoro, le rappresentanze sindacali aziendali ovvero, in loro mancanza, le associazioni locali aderenti alle organizzazioni sindacali maggiormente rappresentative sul piano nazionale. Se il piano e' considerato idoneo alla rimozione delle discriminazioni, la consigliera o il consigliere di parita' promuove il tentativo di conciliazione ed il relativo verbale, in copia autenticata, acquista forza di titolo esecutivo con decreto del tribunale in funzione di giudice del lavoro.
+1. Qualora le consigliere o i consiglieri di parita' regionali
+
+((...))
+
+rilevino l'esistenza di atti, patti o comportamenti discriminatori diretti o indiretti di carattere collettivo in violazione dei divieti di cui al capo II del presente titolo o comunque nell'accesso al lavoro, nella promozione e nella formazione professionale, nelle condizioni compresa la retribuzione, nella progressione di carriera, nonche' in relazione alle forme pensionistiche complementari collettive di cui al [decreto legislativo 5 dicembre 2005, n. 252](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-12-05;252), anche quando non siano individuabili in modo immediato e diretto le lavoratrici o i lavoratori lesi dalle discriminazioni, prima di promuovere l'azione in giudizio ai sensi dei commi 2 e 4, possono chiedere all'autore della discriminazione di predisporre un piano di rimozione delle discriminazioni accertate entro un termine non superiore a centoventi giorni, sentite, nel caso di discriminazione posta in essere da un datore di lavoro, le rappresentanze sindacali aziendali ovvero, in loro mancanza, le associazioni locali aderenti alle organizzazioni sindacali maggiormente rappresentative sul piano nazionale. Se il piano e' considerato idoneo alla rimozione delle discriminazioni, la consigliera o il consigliere di parita' promuove il tentativo di conciliazione ed il relativo verbale, in copia autenticata, acquista forza di titolo esecutivo con decreto del tribunale in funzione di giudice del lavoro.
+
+((18))
 
 2. Con riguardo alle discriminazioni di carattere collettivo di cui al comma 1, le consigliere o i consiglieri di parita', qualora non ritengano di avvalersi della procedura di conciliazione di cui al medesimo comma o in caso di esito negativo della stessa, possono proporre ricorso davanti al tribunale in funzione di giudice del lavoro o al tribunale amministrativo regionale territorialmente competenti.
 
-3. Il giudice, nella sentenza che accerta le discriminazioni sulla base del ricorso presentato ai sensi del comma 2, oltre a provvedere, se richiesto, al risarcimento del danno anche non patrimoniale, ordina all'autore della discriminazione di definire un piano di rimozione delle discriminazioni accertate, sentite, nel caso si tratti di datore di lavoro, le rappresentanze sindacali aziendali ovvero, in loro mancanza, gli organismi locali aderenti alle organizzazioni sindacali di categoria maggiormente rappresentative sul piano nazionale, nonche' la consigliera o il consigliere di parita' regionale competente per territorio o la consigliera o il consigliere nazionale. Nella sentenza il giudice fissa i criteri, anche temporali, da osservarsi ai fini della definizione ed attuazione del piano.
+3. Il giudice, nella sentenza che accerta le discriminazioni sulla base del ricorso presentato ai sensi del comma 2, oltre a provvedere, se richiesto, al risarcimento del danno anche non patrimoniale, ordina all'autore della discriminazione di definire un piano di rimozione delle discriminazioni accertate, sentite, nel caso si tratti di datore di lavoro, le rappresentanze sindacali aziendali ovvero, in loro mancanza, gli organismi locali aderenti alle organizzazioni sindacali di categoria maggiormente rappresentative sul piano nazionale, nonche' la consigliera o il consigliere di parita' regionale competente per territorio
 
-4. Ferma restando l'azione di cui al comma 2, la consigliera o il consigliere regionale e nazionale di parita' possono proporre ricorso in via d'urgenza davanti al tribunale in funzione di giudice del lavoro o al tribunale amministrativo regionale territorialmente competenti.
+((...))
 
-((Il Tribunale in funzione di giudice del lavoro adito))
+. Nella sentenza il giudice fissa i criteri, anche temporali, da osservarsi ai fini della definizione ed attuazione del piano.
 
-, nei due giorni successivi, convocate le parti e assunte sommarie informazioni, ove ritenga sussistente la violazione di cui al ricorso, con decreto motivato e immediatamente esecutivo oltre a provvedere, se richiesto, al risarcimento del danno anche non patrimoniale, nei limiti della prova fornita, ordina all'autore della discriminazione la cessazione del comportamento pregiudizievole e adotta ogni altro provvedimento idoneo a rimuovere gli effetti delle discriminazioni accertate, ivi compreso l'ordine di definizione ed attuazione da parte del responsabile di un piano di rimozione delle medesime. Si applicano in tal caso le disposizioni del comma 3.  
-Contro il decreto e' ammessa, entro quindici giorni dalla comunicazione alle parti, opposizione avanti alla medesima autorita' giudiziaria territorialmente competente, che decide con sentenza immediatamente esecutiva.
+((18))
 
-((La tutela davanti al giudice amministrativo e' disciplinata dall'[articolo 119 del codice del processo amministrativo](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-07-02;104~art119).))
+4. Ferma restando l'azione di cui al comma 2, la consigliera o il consigliere regionale
 
-5. L'inottemperanza alla
+((...))
 
-((sentenza di cui al comma 3 e al comma 4))
+di parita' possono proporre ricorso in via d'urgenza davanti al tribunale in funzione di giudice del lavoro o al tribunale amministrativo regionale territorialmente competenti.  
+Il Tribunale in funzione di giudice del lavoro adito, nei due giorni successivi, convocate le parti e assunte sommarie informazioni, ove ritenga sussistente la violazione di cui al ricorso, con decreto motivato e immediatamente esecutivo oltre a provvedere, se richiesto, al risarcimento del danno anche non patrimoniale, nei limiti della prova fornita, ordina all'autore della discriminazione la cessazione del comportamento pregiudizievole e adotta ogni altro provvedimento idoneo a rimuovere gli effetti delle discriminazioni accertate, ivi compreso l'ordine di definizione ed attuazione da parte del responsabile di un piano di rimozione delle medesime. Si applicano in tal caso le disposizioni del comma 3. Contro il decreto e' ammessa, entro quindici giorni dalla comunicazione alle parti, opposizione avanti alla medesima autorita' giudiziaria territorialmente competente, che decide con sentenza immediatamente esecutiva. La tutela davanti al giudice amministrativo e' disciplinata dall'[articolo 119 del codice del processo amministrativo](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-07-02;104~art119).
 
-, al decreto di cui al comma 4 o alla sentenza pronunciata nel relativo giudizio di opposizione e' punita con l'ammenda fino a 50.000 euro o l'arresto fino a sei mesi e comporta altresi' il pagamento di una somma di 51 euro per ogni giorno di ritardo nell'esecuzione del provvedimento da versarsi al Fondo di cui all'articolo 18 e la revoca dei benefici di cui all'articolo 41, comma 1.
+5. L'inottemperanza alla sentenza di cui al comma 3 e al comma 4, al decreto di cui al comma 4 o alla sentenza pronunciata nel relativo giudizio di opposizione e' punita con l'ammenda fino a 50.000 euro o l'arresto fino a sei mesi e comporta altresi' il pagamento di una somma di 51 euro per ogni giorno di ritardo nell'esecuzione del provvedimento da versarsi al Fondo di cui all'articolo 18 e la revoca dei benefici di cui all'articolo 41, comma 1.
+
+---------------
+
+AGGIORNAMENTO (18)
+
+Il [D.Lgs. 7 maggio 2026, n. 91](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2026-05-07;91) ha disposto (con l'art. 7, comma 5, alinea) che "A decorrere dalla data di insediamento di cui all'[articolo 3, comma 7, al codice delle pari opportunita' tra uomo e donna](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006-04-11;198~art3-com7), di cui al [decreto legislativo 11 aprile 2006, n. 198](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006-04-11;198), sono apportate le seguenti modificazioni".
 
 ### Art. 38
 
@@ -731,6 +816,26 @@ Ricorso in via d'urgenza
 ((o da altre disposizioni di legge))
 
 non preclude la concessione dei provvedimenti di cui agli articoli 37, comma 4, e 38.
+
+### Art. 39-bis
+
+(( (Risoluzione alternativa delle controversie).))
+
+1. 
+
+((1. Nel caso in cui la violazione delle disposizioni di cui al libro III, titolo I, capo II sia ascritta ad una pubblica amministrazione di cui all'[articolo 1, comma 2, del decreto legislativo 30 marzo 2001, n. 165](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2001-03-30;165~art1-com2), l'Organismo per la parita' e' tenuto a promuovere un tentativo di conciliazione, a norma dell'[articolo 410 del codice di procedura civile](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.procedura.civile:1940-10-28;1443~art410), nel corso del quale all'amministrazione convenuta puo' essere richiesto di presentare un piano per la rimozione delle discriminazioni vincolante, da attuare entro un termine non superiore a centoventi giorni.))
+
+2. 
+
+((L' Organismo per la parita' puo' svolgere attivita' di mediazione, ai sensi del [decreto legislativo 4 marzo 2010, n. 28](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-03-04;28). La mediazione e' gratuita per il ricorrente.))
+
+((18))
+
+---------------
+
+AGGIORNAMENTO (18)
+
+Il [D.Lgs. 7 maggio 2026, n. 91](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2026-05-07;91) ha disposto (con l'art. 7, comma 5, alinea) che "A decorrere dalla data di insediamento di cui all'[articolo 3, comma 7, al codice delle pari opportunita' tra uomo e donna](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006-04-11;198~art3-com7), di cui al [decreto legislativo 11 aprile 2006, n. 198](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006-04-11;198), sono apportate le seguenti modificazioni".
 
 ### Art. 40
 
@@ -814,19 +919,15 @@ dai datori di lavoro pubblici e privati, dai centri di formazione professionale,
 
 ### Art. 44
 
-(( (Finanziamento). ))
+((ARTICOLO ABROGATO DAL [D.LGS. 7 maggio 2026, n. 91](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2026-05-07;91)))
 
-((
+((18))
 
-1. Entro il termine indicato nel bando di cui all'articolo 10, comma 1, lettera c), i datori di lavoro pubblici e privati, le associazioni e le organizzazioni sindacali nazionali e territoriali possono richiedere al Ministero del lavoro e delle politiche sociali di essere ammessi al rimborso totale o parziale di oneri finanziari connessi all'attuazione di progetti di azioni positive presentati in base al medesimo bando.
+---------------
 
-2. Il Ministero del lavoro e delle politiche sociali, sentita la commissione di cui all'articolo 10, comma 1, lettera d), ammette i progetti di azioni positive al beneficio di cui al comma 1 e, con lo stesso provvedimento, autorizza le relative spese. L'attuazione dei progetti di cui al comma 1 deve comunque avere inizio entro due mesi dal rilascio dell'autorizzazione.
+AGGIORNAMENTO (18)
 
-3. I progetti di azioni concordate dai datori di lavoro con le organizzazioni sindacali comparativamente piu' rappresentative sul piano nazionale hanno precedenza nell'accesso al beneficio di cui al comma 1.
-
-4. L'accesso ai fondi dell'Unione europea destinati alla realizzazione di programmi o progetti di azioni positive, ad eccezione di quelli di cui all'articolo 45, e' subordinato al parere del Comitato di cui all'articolo 8.
-
-))
+Il [D.Lgs. 7 maggio 2026, n. 91](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2026-05-07;91) ha disposto (con l'art. 7, comma 5, alinea) che "A decorrere dalla data di insediamento di cui all'[articolo 3, comma 7, al codice delle pari opportunita' tra uomo e donna](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006-04-11;198~art3-com7), di cui al [decreto legislativo 11 aprile 2006, n. 198](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006-04-11;198), sono apportate le seguenti modificazioni".
 
 ### Art. 45
 
