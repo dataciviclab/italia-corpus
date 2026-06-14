@@ -10,7 +10,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       # Primo checkout: solo config/ per leggere la lista delle collezioni
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v6.0.3
         with:
           sparse-checkout: |
             config/
@@ -21,7 +21,7 @@ jobs:
           cat config/collezioni.txt >> "$GITHUB_OUTPUT"
           echo "EOF" >> "$GITHUB_OUTPUT"
       # Secondo checkout: tooling + collezioni vive
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v6.0.3
         with:
           sparse-checkout: |
             lab_tools/
@@ -29,7 +29,7 @@ jobs:
             config/
             data/derived/
             ${{ steps.cols.outputs.list }}
-      - uses: actions/setup-python@v5
+      - uses: actions/setup-python@v6.2.0
         with:
           python-version: '3.12'
       - run: pip install -e ".[dev]"
